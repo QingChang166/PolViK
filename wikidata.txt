@@ -1,0 +1,55 @@
+##for ethiopia
+import requests
+
+url = "https://query.wikidata.org/sparql"
+query = """
+SELECT ?ethnicGroupLabel WHERE {
+  wd:Q96 wdt:P172 ?ethnicGroup.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+"""
+response = requests.get(url, params={"query": query, "format": "json"})
+data = response.json()
+ethnic_groups = [result["ethnicGroupLabel"]["value"] for result in data["results"]["bindings"]]
+print(ethnic_groups)
+
+##for all African countries
+Copy code
+import requests
+
+url = "https://query.wikidata.org/sparql"
+query = """
+SELECT ?countryLabel ?ethnicGroupLabel WHERE {
+  ?country wdt:P31 wd:Q3624078.
+  ?country wdt:P172 ?ethnicGroup.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+"""
+response = requests.get(url, params={"query": query, "format": "json"})
+data = response.json()
+ethnic_groups = {result["countryLabel"]["value"]: result["ethnicGroupLabel"]["value"] for result in data["results"]["bindings"]}
+print(ethnic_groups)
+
+##getting specific ethnic group data
+import requests
+from bs4 import BeautifulSoup
+
+# Retrieve links to ethnic group pages
+url = "https://query.wikidata.org/sparql"
+query = """
+SELECT ?ethnicGroup WHERE {
+  ?country wdt:P31 wd:Q3624078.
+  ?country wdt:P172 ?ethnicGroup.
+}
+"""
+response = requests.get(url, params={"query": query, "format": "json"})
+data = response.json()
+ethnic_group_links = [result["ethnicGroup"]["value"] for result in data["results"]["bindings"]]
+
+# Scrape the ethnic group pages
+for link in ethnic_group_links:
+    ethnic_group_url = link.replace("http://www.wikidata.org/entity/", "https://www.wikidata.org/wiki/")
+    response = requests.get(ethnic_group_url)
+    soup = BeautifulSoup(response.content, "html.parser")
+    # Extract desired information from page
+    print(soup)
