@@ -3,5 +3,7 @@ Purpose: scripts to collate data for horizontal inequalities for triad project--
 
 Necessary packages include:
 requests
+json
 
-The existing script (wikidata) is a early draft to collect data from country pages on www.wikidata.org that is a work in progress. 
+
+The script "wikidata scrape api.py" successfully uses the wikidata API to generate a list of wikidata page ids based on a user-provided list of ethnic groups.  However, the SPARL query as written is unsuccessful at collecting the relevant variables from the group pages. 
