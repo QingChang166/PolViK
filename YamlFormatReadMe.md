@@ -1,5 +1,8 @@
 # TrIAD Knowledge Graph Ontology and Use
 
+version: 0.0.1
+author: Colaresi
+
 In this repository we organize the *tokens*, *concepts*, *attributes*, and *relations* that comprise the knowledge graph for the TrIAD project. The goal of this sub-component of the project is to leverage qualitative knowledge about cases as well as the process that generates conflict more generally -- including ethnic, linguistic, religious, and national horizontal inequalities --  as well as external data sources -- specifically Wikidata -- to provide the facilities to flexibly aggregate, divide, and connect mentions of perpetrators and victims (and sources of information) for further analysis and comparison. 
 
 We define the following components of our ontology:
