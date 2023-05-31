@@ -5,8 +5,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["people", "peoples", "human", "humans", "everyone", "population"]
   genderGroup:
     stringTokens: []
-  maleGender 
-    stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender" 
+  maleGender:
+    stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender"] 
   femaleGender:
     stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender"]
   nonBinaryGender:
