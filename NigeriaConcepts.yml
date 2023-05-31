@@ -17,6 +17,9 @@ concepts:
     stringTokens: ["Kanuri", "Kanuri people"]
   ibibioEthnicGroup:
     stringTokens: ["Ibibio", "Ibibio people"]
+    attribute: ["ibibioEthnicGroup", wikidata iD]
+    attribute: {"ibiboEthnicGroup, lis of administrative states.....}
+    ##time can be an attribute for political parties and armed groups 
   nupeEthnicGroup:
     stringTokens: ["Nupe", "Nupe people"]
   gwariEthnicGroup:
