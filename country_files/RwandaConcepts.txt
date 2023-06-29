@@ -4,10 +4,14 @@ concepts:
 ##ethnicgroups
   hutuEthnicGroup:
    stringTokens: ["Hutu", "Bahutu", "Abahutu", "Lera", "Ndara", "Ndoga", "Ndogo", "Shobyo", "Tshogo", "Urulera"]
+   attribute: ["hutuEthnicGroup", "Q192647"]
   tutsiEthnicGroup:
    stringTokens: ["Tutsi", "Abatutsi", "Watutsi", "Watusi", "Wahuma", "Wahima", "Imfure", "Batutsi", "Watoetsi", "Watussi", "Tutsis", "Banyamulenge", "Banyarwanda", "Imfure",
                   "Tusi", Tussi", Mulenge", "Ruanda", "Tuti"]
-  twaEthnicGroup: ["Twa","Batwua", "Batwa" ]
+   attribute:  ["tutsiEthnicGroup", "Q193092"]
+  twaEthnicGroup: 
+   stringTokens: ["Twa","Batwua", "Batwa" ]
+   attribute: ["twaEthnicGroup", "Q7857394" ]
 ##politicalparties
   MRNDParty:
    stringTokens: ["MRND", "National Revolutionary Movement for Developement", "Mouvement Révolutionnaire National pour le Développement"]
