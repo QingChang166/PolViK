@@ -1,0 +1,125 @@
+concepts:
+  SudaneseArmedForces:
+    stringTokens: ["Sudanese Armed Forces", "SAF"]
+    attribute: ["SudaneseArmedForces", "Q18210867"]
+
+  rsfproGovernmentMilitia:
+    stringTokens: ["Rapid Support Forces", "RSF"]
+    attribute: ["rsfproGovernmentMilitia", "Q18210867"]
+  
+  bejaEthnicGroup:
+    stringTokens: ["Beja People", "Beja"]
+    attribute: ["bejaEthnicGroup", "Q813961"]
+    attribute: {"bejaEthnicGroup, Kassala"}
+    attribute: {"bejaEthnicGroup, Arabic, Beja, Tigre, Sunni Islam"}
+
+  furEthnicGroup:
+    stringTokens: ["Fur", "Fur People", "Fordunga", "Furawi", "Konjara", "Kungara"]
+    attribute: ["furEthnicGroup", "Q1124032"]
+    attribute: {"furEthnicGroup, Nyala"}
+    attribute: {"furEthnicGroup, Sunni Islam, Fur"}
+
+  nubianEthnicGroup:
+    stringTokens: ["Nubian people", "Nubian"]
+    attribute: ["nubianEthnicGroup", "Q15140604"]
+    attribute: {"nubianEthnicGroup, Dongola, Wadi Halfa"}
+    attribute: {"nubianEthnicGroup, Sunni Islam, Nubian languages (Andaandi, Nobiin, Kenzi), Arabic"}
+
+  nubaEthnicGroup:
+    stringTokens: ["Nuba", "Nuba people", "Nubans"]
+    attribute: ["nubaEthnicGroup", "Q1280105"]
+    attribute: {"nubaEthnicGroup, Kadugli"}
+    attribute: {"nubaEthnicGroup, Heiban, Otoro, Sunni Islam"}
+
+  shaigiyaEthnicGroup:
+    stringTokens: ["Shaigiya tribe", "Shaigiya", "Shaiqiya", "Shawayga", "Shaykia", "Arabian Nubian", "Shaikia"]
+    attribute: ["shaigiyaEthnicGroup", "Q7462404"]
+    attribute: {"shaigiyaEthnicGroup, Albawga"}
+    attribute: {"shaigiyaEthnicGroup, Sudanese Arabs, Sunni Islam, Sudanese Arabic"}
+
+  nuerEthnicGroup:
+    stringTokens: ["Nuer", "Nuer People"]
+    attribute: ["nuerEthnicGroup", "Q822279"]
+    attribute: {"nuerEthnicGroup, Nahr Atiem"}
+    attribute: {"nuerEthnicGroup, Nuer language, Christianity, Nuer religion"}
+
+  zandeEthnicGroup:
+    stringTokens: ["Zande", "Azande people"]
+    attribute: ["zandeEthnicGroup", "Q793575"]
+    attribute: {"zandeEthnicGroup, Yambio"}
+    attribute: {"zandeEthnicGroup, Christianity, African Traditional Religion, Zande"}
+
+  zaghawaEthnicGroup:
+    stringTokens: ["Zaghawa people", "Zaghawa", "Beri"]
+    attribute: ["zaghawaEthnicGroup", "Q140328"]
+    attribute: {"zaghawaEthnicGroup, Kutum"}
+
+  masalitEthnicGroup:
+    stringTokens: ["Masalit people", "Masalit"]
+    attribute: ["masalitEthnicGroup", "Q1640583"]
+    attribute: {"masalitEthnicGroup, Al Geneina"}
+
+  rashaidaEthnicGroup:
+    stringTokens: ["Rashaida people", "Bani Rasheed"]
+    attribute: ["rashaidaEthnicGroup", "Q1540444"]
+    attribute: {"rashaidaEthnicGroup, Tokar"}
+
+  bejacongressArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Beja Congress", "BC"]
+    attribute: ["bejaArmedNonGovernmentalOrganizedGroup", "Q814968"]
+    attribute: ["bejaArmedNonGovernmentalOrganizedGroup, Beja"]
+
+  lraArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["LRA", "Lord's Resistance Army"]
+    attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q108462"]
+
+  alfArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Azania Liberation Front", "ALF", "Front d'Alliberament d'Azània"]
+    attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q4832230"]
+  
+  srfArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["SRF", "Sudan Revolutionary Front"]
+    attribute: ["srfArmedNonGovernmentalOrganizedGroup", "Q3374306"]
+    attribute: {"srfArmedNonGovernmentalOrganizedGroup, Kauda"}
+  
+  slmaArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Sudan Liberation Movement/Army", "SLM", "SLA", "SLM/A"]
+    attribute: ["slmaArmedNonGovernmentalOrganizedGroup", "Q751442"]
+    attribute: {"slmaArmedNonGovernmentalOrganizedGroup, Darfur"}
+  
+  jemArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Justice and Equality Movement", "JEM"]
+    attribute: ["jemArmedNonGovernmentalOrganizedGroup", "Q852370"]
+    attribute: {"jemArmedNonGovernmentalOrganizedGroup, Darfur"}
+
+  splmnArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["SPLM-N", "Sudan People's Liberation Movement–North"]
+    attribute: ["splmnArmedNonGovernmentalOrganizedGroup", "Q7633328"]
+    attribute: {"splmnArmedNonGovernmentalOrganizedGroup, South Kordofan, Blue Nile"}
+
+  splaArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["SPLA", "Sudan People's Liberation Army"]
+    attribute: ["splaArmedNonGovernmentalOrganizedGroup", "Q7633328"]
+    attribute: {"splaArmedNonGovernmentalOrganizedGroup, "}
+
+  efArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Eastern Front", "EF"]
+    attribute: ["efArmedNonGovernmentalOrganizedGroup", "Q1278182"]
+    attribute: {"efArmedNonGovernmentalOrganizedGroup, Red Sea, Kassala"}
+
+  janjaweedArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Janjaweed"]
+    attribute: ["janjaweedArmedNonGovernmentalOrganizedGroup", "Q178328"]
+    attribute: {"janjaweedArmedNonGovernmentalOrganizedGroup, Darfur"}
+
+  slammArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Sudan Liberation Movement/Army (Minnawi)", "SLM (Minnawi)", "SLA-MM"]
+    attribute: ["slammArmedNonGovernmentalOrganizedGroup", "Zaghawa"]
+
+  slmawArmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Sudan Liberation Movement/Army (al-Nur)", "SLM (al-Nur)", "SLM-AW", "SLA-AW"]
+    attribute: ["slmawArmedNonGovernmentalOrganizedGroup", "Fur"]
+
+  splmioPoliticalParty:
+    stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM-IO"]
+    attribute: ["splmioPoliticalParty", "Q17022177"]
