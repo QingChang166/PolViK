@@ -1,0 +1,54 @@
+concepts:
+  rwandanSecurityForces:
+   stringTokens: ["Rwandan National Police", "RNP", "Local Defense Force", "National Intelligence and Security             		   Services", "NISS"]
+##ethnicgroups
+  hutuEthnicGroup:
+   stringTokens: ["Hutu", "Bahutu", "Abahutu", "Lera", "Ndara", "Ndoga", "Ndogo", "Shobyo", "Tshogo", "Urulera"]
+  tutsiEthnicGroup:
+   stringTokens: ["Tutsi", "Abatutsi", "Watutsi", "Watusi", "Wahuma", "Wahima", "Imfure", "Batutsi", "Watoetsi", "Watussi", "Tutsis", "Banyamulenge", "Banyarwanda", "Imfure",
+                  "Tusi", Tussi", Mulenge", "Ruanda", "Tuti"]
+  twaEthnicGroup: ["Twa","Batwua", "Batwa" ]
+##politicalparties
+  MRNDParty:
+   stringTokens: ["MRND", "National Revolutionary Movement for Developement", "Mouvement Révolutionnaire National pour le Développement"]
+   attribute: ["MRNDParty", "1975-1991"]
+   attribute: ["MRNDParty", "hutuEthnicGroup"]
+  RDFParty:
+   stringTokens: ["Rwandan Patriotic Front", "RPF", "Front Patriotique Rwandais"]
+   attribute: ["RDFParty", "1994-Present"]
+   attribute: ["RDFParty", "tutsiEthnicGroup"]  ##contentious
+   attribute: ["RDFParty", "RPAArmedGroup"]
+  PSDParty:
+   stringTokens: ["Social Democratic Party", "PSD", "Parti Social Démocrate"]
+   attribute: ["PSDParty", "1991-Present"]
+  PLParty: 
+   stringTokens: ["Liberal Party", "PL", "Parti Libéral"]
+   attribute: ["PLParty", "1991-Present"]
+  RNCParty: 
+   stringTokens: ["Rwanda National Congress", "RNC", "Congrès National Rwandais"]
+   attribute: ["RCNParty", "2010-Present"]
+##armed groups
+  FARArmedGroup:
+   stringTokens: ["Rwandan Armed Forces", "FAR"]
+   attribute: ["FARArmedGroup", "1971-1994"]
+   attribute: ["FARArmedGroup", "MRNDParty"]
+   attribute: [FARArmedGroup", "hutuEthnicGroup"]
+  InterahamweArmedGroup:
+   stringTokens: ["Interahamwe"]
+   attribute: ["InterahamweArmedGroup", "1994-1998"]
+   attribute: ["InterahamweArmedGroup", "hutuEthnicGroup"]
+  RPAArmedGroup:
+   stringTokens: ["RPA", "Rwandan Patriotic Army"]
+   attribute: ["RPAArmedGroup", "1990-1994"]
+   attribute: ["RPAArmedGroup", "RDFParty"]
+   attribute: ["RPAArmedGroup", "tutsiEthnicGroup"]
+  FDLRArmedGroup:  ##here or DRC
+   stringTokens: ["Democratic Forces for the Liberation of Rwanda", "FDLR", "Forces Démocratiques pour la Libération du Rwanda"]
+   attribute: ["FDLRArmedGroup", "2000-Present"]
+   attribute: ["FDLRArmedGroup", "hutuEthnicGroup"]
+   
+  
+
+
+
+
