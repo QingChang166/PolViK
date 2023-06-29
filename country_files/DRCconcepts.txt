@@ -1,0 +1,182 @@
+concepts:
+  DRCSecurityForces:
+    stringTokens: ["Congolese military", "Congolese police", "Congolese security forces", "Forces Armées de la République Démocratique du Congo", "FARDC", "Police Nationale 				    Congolaise", "PNC", "Agence Nationale de Renseignments", "ANR", "Garde Républicaine", "Republican Guard", "Service Spécial de Sécurité du Président", "SSP",   			   "Gendarmerie Nationale"]
+  bembaEthnicGroup:
+   stringTokens: ["Bemba", "Bemba people", "Avemba", "Babemba", "Babemga", "Wawemba", "Walemba", "Wemba", "Wabemba", "Bembe", "Beembe"]
+   attribute: ["bembaEthnicGroup", "Q644450"]
+   attribute: ["bembaEthnicGroup", "Tshopo"]
+   attribute: ["bembaEthnicGroup", "Christianity"]
+   attribute: ["bembaEthnicGroup", "traditional African religions"]
+   attribute: ["bembaEthnicGroup", "Ichibemba"]  
+  hembaEthnicGroup:
+   stringTokens: ["Hemba", "Hemba people"]
+   attribute: ["hembaEthnicGroup", "Q3130001"]
+   attribute: ["hembaEthnicGroup", "hemba language"]
+   attribute: ["hembaEthnicGroup", "Christianity"]
+   attribute: ["hembaEthnicGroup", "Luba tradition"]
+   attribute: ["hembaEthnicGroup", "Kasai"]
+  hundeEthnicGroup:  ##start here with attributes
+   stringTokens: ["Hunde", "Hunde people"]
+   attribute: ["hundeEthnicGroup", "Q3143295]
+   attribute: ["hundeEthnicGroup", "South Kivu"]
+   attribute: ["hundeEthnicGroup", "North Kivu"]
+   attribute: ["hundeEthnicGroup", "Bantu spirtuality"]
+   attribute: ["hundeEthnicGroup", "Christianity"]
+   attribute: ["hundeEthnicGroup", "Islam"]
+  kongoEthnicGroup:
+   stringTokens: ["Kongo", "Kongo people", "Bakongo", "Esikongo", "Mwisikngo", "Mukongo", "Congo", "Fjort", "Frote", "Ikeleve", "Kakongo", "Kileta", "Nkongo", "Wacongoamni", 				  "Solongo", "Vili", "Sundi", "Woyo", "Zombo"]
+   attribute: ["kongoEthnicGroup", "Q640090"]
+   attribute: ["kongoEthnicGroup", "Christianity"]
+   attribute: ["kongoEthnicGroup", "Kongo religion"]
+  lubaEthnicGroup:
+   stringTokens: ["Luba", "Luba people", "Baluba"]
+   attribute: ["lubaEthnicGroup", "Q805841"]
+   attribute: ["lubaEthnicGroup", "Christianity"]
+   attribute: ["lubaEthnicGroup", "Bantu spirtuality"]
+   attribute: ["lubaEthnicGroup", "traditional African religions"]
+  lundaEthnicGroup:
+   stringTokens: ["Lunda", "Lunda people", "Alunda", "Arund", "Balunda", "Kalunda", "Luunda", "Valunda", "Aluund", "Ruund", "Aluun", "Tulunda", "Northern Lunda", "Southern Lunda" ]
+   attribute: ["lundaEthnicGroup", "Q1292932"]
+  mongoEthnicGroup:
+   stringTokens: ["Mongo", "Mongo people", "Nkundo", "Lomongo", "Mango", "Nkundu"]
+   attribute: ["mongoEthnicGroup", "Q927706"]
+   attribute: ["mongoEthnicGroup", "Christianity"]
+   attribute: ["mongoEthnicGroup", "traditional African religions"]
+   attribute: ["mongoEthnicGroup", "Equateur"]
+   attribute: ["mongoEthnicGroup", "Tshopo"]
+   attribute: ["mongoEthnicGroup", "Tshuapa"]
+   attribute: ["mongoEthnicGroup", "Mongala"]
+   attribute: ["mongoEthnicGroup", "Kwilu"]
+   attribute: ["mongoEthnicGroup", "Maï Ndombe"]
+   attribute: ["mongoEthnicGroup", "Kongo-Centrale"]
+   attribute: ["mongoEthnicGroup", "Kasai"]
+   attribute: ["mongoEthnicGroup", "Sankuru"]
+   attribute: ["mongoEthnicGroup", "Maniema"]
+   attribute: ["mongoEthnicGroup", "North Kivu"]
+   attribute: ["mongoEthnicGroup", "South Kivu"]
+   attribute: ["mongoEthnicGroup", "Tanganiyka"]
+   attribute: ["mongoEthnicGroup", "Ituri"]
+  nandeEthnicGroup:
+   stringTokens: ["Nande", "Nande people"]
+   attribute: ["nandeEthnicGroup", "Q3335624"]
+  ngalaEthnicGroup:
+   stringTokens: ["Ngala", "Ngala people", "Bangala", "Bangalas", "Gens d'Eau", "Mangla", "Mangaro", "Mongalla", "Bamangala", "Wangala"]
+   attribute: ["ngalaEthnicGroup", "Q106684441"] 
+  nyangaEthnicGroup:
+   stringTokens: ["Nyanga", "Nyanga people", "Banianga", "Banuanga", "Inyanga", "Kinyanga", "Nianga", "Wanyanga"]
+   attribute: ["nyangaEthnicGroup", "Q3346583"] 
+   attribute: ["nyangaEthnicGroup", "Kivu"] 
+  pendeEthnicGroup:
+   stringTokens: ["Pende", "Pende people", "Bapende", "Apende", "Aphende", "Ba-Pendi", "Bampende", "Gipende", "Kipende", "Kasai Pende", "Masindju", "Phende", "Pindi", "Pinji",     			  "Tupende"]
+   attribute: ["pendeEthnicGroup", "Q377119"] 
+  songyeEthnicGroup:
+   stringTokens: ["Songye", "Songye people", "Songe"]
+   attribute: ["songyeEthnicGroup", "Q810544"] 
+  tshokweEthnicGroup:
+   stringTokens: ["Tshokwe", "Tshokwe people", "Chokwe", "Ciokwe", "Cokwe", "Bajokwe", "Badjok", "Quioco"]
+   attribute: ["tshokweEthnicGroup", "Q1075883"] 
+   attribute: ["tshokweEthnicGroup", "Christian"]
+   attribute: ["tshokweEthnicGroup", "animist"]
+  yakaEthnicGroup:
+   stringTokens: ["Yaka", "Yaka people", "Bayaka"]
+   attribute: ["yakaEthnicGroup", "Q2749225"] 
+  zandeEthnicGroup:
+   stringTokens: ["Zande", "Zande people", "Niam-niam", "Niam-niam peope", "Sandeh", "Azande"]
+   attribute: ["zandeEthnicGroup", "Q793575"] 
+   attribute: ["zandeEthnicGroup", "Christian"] 
+   attribute: ["zandeEthnicGroup", "traditional African religions"] 
+   attribute: ["zandeEthnicGroup", "Bas-Uele"] 
+   attribute: ["zandeEthnicGroup", "Haut-Uele"] 
+##political parties  ##does this time coding work
+  PPRDParty: 
+   stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
+   attribute: ["PPRDParty", "2002-2019"]
+  UDPSParty:
+   stringTokens: ["Union for Democracy and Social Progress", "UDPS"]
+   attribute: ["UDPSParty", "1982-Present"]
+   attribute: "UDPSParty", "Luba"]
+  MLCParty:
+   stringTokens: ["Movement for the Liberation of the Congo", "MLC"]
+   attribute: ["MLCParty", "MLCArmedGroup"]
+   attribute: ["MLCParty", "1998-Present"]
+   attribute: ["MLCParty", "Equateur"]
+  UNCParty:
+   stringTokens: ["Union for the Congolese Nation", "UNC"]
+   attribute: ["MLCParty", "2010-Present"]
+  PDSCParty:
+   stringTokens: ["Democratic Social Christian Party", "PDSC"]
+   attribute: ["PDSCParty", "1990-2010"]
+  PCTParty: 
+   stringTokens: ["Congolese Party of Labour", "PCT", "Popular Movement of the Revolution", "MPR"]
+   attribute: ["PCTParty", "1965-1997"]
+  RCDParty: 
+   stringTokens: ["Rally for Congolese Democracy", "RCD"]
+   attribute: ["RCDParty", "RCDArmedGroup"]
+   attribute: ["RCDParty", "2002-Present"]
+##armed groups
+   ADFArmedGroup:   ##should this go in Uganda instead
+    stringTokens: ["Allied Democratic Forces", "ADF", "ADF-Nalu", "Allied Democratic Forces- National Army for the Liberation of Uganda"]
+    attribute: ["ADFArmedGroup", "1996-Present"]
+    attribute: ["ADFArmedGroup", "North Kivu"]
+    attribute: ["ADFArmedGroup", "Islam"]
+   FDLRArmedGroup:   #should this go in Rwanda instead
+    stringTokens: ["FDLR", "Democratic Forces for the Liberation of Rwanda"]
+    attribute: ["FDLRArmedGroup", "2000-Present"]
+    attribute: ["FDLRArmedGroup", "North Kivu"]
+    attribute: ["FDLRArmedGroup", "South Kivu"]
+   M23ArmedGroup:  ##should this go in Rwanda instead
+    stringTokens: ["M23", "Congolese Revolutionary Army", "March 23 Movement"]
+    attribute: ["M23ArmedGroup", "2012-2013"
+    attribute: ["M23ArmedGroup", "North Kivu"]
+    attribute: ["M23ArmedGroup", "Tutsi"]
+  MaiMaiArmedGroup: 
+    stringTokens: ["Mai-Mai", "Mayi-Mayi", "Mai Mai", "Mayi Mayi"]
+    attribute: ["MaiMaiArmedGroup", "1990-Present"]
+    attribute: ["MaiMaiArmedGroup", "North Kivu"]
+    attribute: ["MaiMaiArmedGroup", "South Kivu"]
+    attribute: ["MaiMaiArmedGroup", "Maniema"]
+    attribute: ["MaiMaiArmedGroup", "Katanga"]
+  LRAArmedGroup:  ##should this go in Rwanda instead
+   stringTokens: ["LRA", "Lord's Resistance Army"]
+   attribute: ["LRAArmedGroup", "2005-Present"]
+   attribute: ["LRAArmedGroup", "Haut-Uele"]
+   attribute: ["LRAArmedGroup", "Bas-Uele"]
+  ARCArmedGroup: 
+   stringTokens: ["Congolese Revolutionary Army", "ARC"]
+   attribute: ["ARCArmedGroup", "2012-2013"]
+   attribute: ["ARCArmedGroup", "North Kivu"]
+  RaiaMutombokiArmedGroup: ##subset of Mai Mai?
+   stringTokens: ["Raia Mutomboki", "Raiya Mutomboki"]
+   attribute: ["RaiaMutombokiArmedGroup", "2005-Present"]
+   attribute: ["RaiaMutombokiArmedGroup", "South Kivu"]
+   attribute: ["RaiaMutombokiArmedGroup", "Maniema"]
+  NyaturaArmedGroup: 
+   stringTokens: ["Nyatura", "Mongols", "MAGRIV", "Mutuelle agricole des Virunga", "Nyatura-APRDC"]
+   attribute: ["NyaturaArmedGroup", "North Kivu"]
+   attribute: ["NyaturaArmedGroup", "2010-Present"]
+   attribute: ["NyaturaArmedGroup", "hutuEthnicGroup"]  ##hutuethnicgroup otherwise not represented in DRC knowledge graph
+  UPCArmedGroup:
+   stringTokens: ["UPC", "Union of Congolese Patriots"]
+   attribute: ["UPCArmedGroup", "Ituri"]
+   attribute: ["UPCArmedGroup", "2000-2006"]
+  KamwinaNsapuArmedGroup: 
+   stringTokens: ["Kamwina Nsapu"]
+   attribute: ["KamwinaNsapuArmedGroup", "2016-2019"]
+   attribute: ["KamwinaNsapuArmedGroup", "lubaEthnicGroup"]
+   attribute: ["KamwinaNsapuArmedGroup", "Kasai"]
+  MLCArmedGroup: 
+   stringTokens: ["MLC", "Movement for the Liberation of the Congo"]
+   attribute: ["MLCArmedGroup", "MLCParty"]
+   attribute: ["MLCArmedGroup", "Equateur"]
+  RCDArmedGroup:
+   stringTokens: ["RCD", "Rally for Congolese Democracy"]
+   attribute: ["RCDArmedGroup", "RCDParty"]
+
+
+
+
+
+
+
+
+
