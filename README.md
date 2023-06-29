@@ -1,3 +1,7 @@
+##country_files
+
+Knowledge graphs for countries in subSaharan Africa
+
 # triad_datacollecting
 Purpose: scripts to collate data for horizontal inequalities for triad project-- early WIP.
 
