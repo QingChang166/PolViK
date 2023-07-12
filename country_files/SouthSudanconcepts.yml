@@ -1,3 +1,5 @@
+##normalize file names  to camel case 
+
 concepts:
   SouthSudaneseArmedForces:
     stringTokens: ["South Sudan People's Defence Forces", "SSPDF", "Sudan People's Liberation Army", "SPLA"]
@@ -15,9 +17,9 @@ concepts:
   
   dinkaEthnicGroup:
     stringTokens: ["Dinka", "Dinka people", "Dinka tribe", "Denkawi"]
-    attribute: ["dinkaEthnicGroup", "Q212106"]
-    attribute: {"dinkaEthnicGroup, Bor, Rumbek, Aweil"}
-    attribute: {"dinkaEthnicGroup, Dinka, Christianity, Islam, Dinka religion"}
+    wikidataQnode: ["Q212106"]
+    language: {"Bor", "Rumbek", "Aweil"}  ##define more specifically--- normalize 
+    religion: { Dinka, Christianity, Islam, Dinka religion"}  ##define more specifically   ##check yml formatting --where does it need commas 
 
   bariEthnicGroup:
     stringTokens: ["Bari", "Bari people"]
@@ -36,12 +38,12 @@ concepts:
   udfArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["United Democratic Front", "UDF"]
     attribute: ["udfArmedNonGovernmentalOrganizedGroup", "Q3278303"]
-    attribute: {"udfArmedNonGovernmentalOrganizedGroup, Juba"}
+    attribute: {"Juba"}  #known to operate  ##juba ambig  ##brackets need to be consistent   ##first slot, place name, second slot village, city, admin 1 2 country
   
   nsfArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["National Salvation Front", "NSF"]
     attribute: ["nsfArmedNonGovernmentalOrganizedGroup", "Q48800192"]
-    attribute: {"nsfArmedNonGovernmentalOrganizedGroup, Equatoria"}
+    attribute: {"nsfArmedNonGovernmentalOrganizedGroup, Equatoria"}  ###administrative state  ##quotes issues 
 
   sslmaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["South Sudan Liberation Movement/Army", "SSLM/A"]
