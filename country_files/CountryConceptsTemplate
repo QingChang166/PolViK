@@ -20,7 +20,13 @@ concepts:
    associatedEthnicGroup: []
    associatedReligion: []
    regionsMostActive: []
-
+  FirstTransnationalArmedGroup:
+   stringTokens: []
+   originCountry: []
+   regionsMostActive: []
+   associatedReligion: []
+   associatedEthnicGroup: [] 
+   groupType: []  ##"religious", "cross border militia", "mercenary" , "independence"
   
 
 
