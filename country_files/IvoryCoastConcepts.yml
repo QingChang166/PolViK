@@ -1,0 +1,247 @@
+concepts:
+    IvoryCoastArmedForces:
+      stringTokens: ["Republican Forces of Ivory Coast", "Armed Forces of Côte d'Ivoire", "FACI", "FRCI"]
+      attribute: ["IvoryCoastArmedForces", "Q897759"]
+    
+    ### ethnic groups
+    mandeEthnicGroup:
+      stringTokens: ["Mande peoples", "Mande", "Mandé peoples", "Dyula", "Maninka"]
+      attribute: ["mandeEthnicGroup", "Q1407391"]
+      attribute: ["mandeEthnicGroup", "Islam"]
+      attribute: ["mandeEthnicGroup", "Séguéla"]
+      attribute: ["mandeEthnicGroup", "Kouto"]
+      attribute: ["mandeEthnicGroup", "Touba"]
+      attribute: ["mandeEthnicGroup", "Ouaninou"]
+      attribute: ["mandeEthnicGroup", "Toulepleu"]
+      attribute: ["mandeEthnicGroup", "Boundiali"]
+      attribute: ["mandeEthnicGroup", "Kabadougou"]
+      attribute: ["mandeEthnicGroup", "Bafing"]
+      attribute: ["mandeEthnicGroup", "Worodougou"]
+
+    danEthnicGroup:
+      stringTokens: ["Dan people", "Dan", "Yakuba", "Dan-Gioh", "Gio", "Gyo", "Gere", "Yacouba", "Yacuba"]
+      attribute: ["danEthnicGroup", "Q1804699"]
+      attribute: ["danEthnicGroup", "Moyen-Cavally"]
+      attribute: ["danEthnicGroup", "Dix-Huit Montagnes"]
+      attribute: ["danEthnicGroup", "Man"]
+      attribute: ["danEthnicGroup", "Danané"]
+      attribute: ["danEthnicGroup", "Biankouma"]
+      attribute: ["danEthnicGroup", "Zouan-Hounien"]
+      attribute: ["danEthnicGroup", "Tonkpi"]
+
+    senufoEthnicGroup:
+      stringTokens: ["Senufo people", "Senufo", "Siena", "Senefo", "Sene", "Senoufo", "Syénambélé"]
+      attribute: ["senufoEthnicGroup", "Q1266038"]
+      attribute: ["senufoEthnicGroup", "Animist"]
+      attribute: ["senufoEthnicGroup", "Islam"]
+      attribute: ["senufoEthnicGroup", "Korhogo"]
+      attribute: ["senufoEthnicGroup", "Boundiali"]
+      attribute: ["senufoEthnicGroup", "Bagoué Region"]
+      attribute: ["senufoEthnicGroup", "Ferkessedougou"]
+      attribute: ["senufoEthnicGroup", "Tengrela"]
+      attribute: ["senufoEthnicGroup", "Odienné"]
+      attribute: ["senufoEthnicGroup", "Savanes Region"]
+      attribute: ["senufoEthnicGroup", "Minignan"]
+      attribute: ["senufoEthnicGroup", "Béré Region"]
+
+    akanEthnicGroup:
+      stringTokens: ["Akan", "Akan people", "Akans"]
+      attribute: ["akanEthnicGroup", "Q415693"]
+      attribute: ["akanEthnicGroup", "Christianity"]
+      attribute: ["akanEthnicGroup", "Akan religion"]
+      attribute: ["akanEthnicGroup", "Islam"]
+      attribute: ["akanEthnicGroup", "Agnéby Region"]
+      attribute: ["akanEthnicGroup", "Agboville"]
+      attribute: ["akanEthnicGroup", "Adzopé"]
+      attribute: ["akanEthnicGroup", "Bélier Region"]
+      attribute: ["akanEthnicGroup", "Tiebissou"]
+      attribute: ["akanEthnicGroup", "Gôh-Djiboua Region"]
+      attribute: ["akanEthnicGroup", "Gagnoa"]
+      attribute: ["akanEthnicGroup", "Divo"]
+      attribute: ["akanEthnicGroup", "Lacs Region"]
+      attribute: ["akanEthnicGroup", "Yamoussoukro"]
+      attribute: ["akanEthnicGroup", "N'zi-Comoé Region"]
+      attribute: ["akanEthnicGroup", "Dimbokro"]
+      attribute: ["akanEthnicGroup", "Sud-Comoé Region"]
+      attribute: ["akanEthnicGroup", "Aboisso"]
+        
+    kruEthnicGroup:
+      stringTokens: ["Kru", "Kru people", "Caraw", "Krao", "Krou", "Kroomen", "Krumen"]
+      attribute: ["kruEthnicGroup", "Q1537493"]
+      attribute: ["kruEthnicGroup", "Christianity"]
+      attribute: ["kruEthnicGroup", "African traditional religions"]
+      attribute: ["kruEthnicGroup", "Sunni Islam"]
+      attribute: ["kruEthnicGroup", "Bas-Sassandra"]
+      attribute: ["kruEthnicGroup", "San-Pédro"]
+      attribute: ["kruEthnicGroup", "Sassandra-Marahoué"]
+      attribute: ["kruEthnicGroup", "Tabou"]
+      attribute: ["kruEthnicGroup", "Grand-Béréby"]
+      attribute: ["kruEthnicGroup", "San-Pédro"]
+
+    beteEthnicGroup:
+      stringTokens: ["Bété people", "Bété", "Betegbo", "Bhete"]
+      attribute: ["beteEthnicGroup", "Q1019506"]
+      attribute: ["beteEthnicGroup", "Christianity"]
+      attribute: ["beteEthnicGroup", "Traditional religions"]
+      attribute: ["beteEthnicGroup", "Gôh-Djiboua"]
+      attribute: ["beteEthnicGroup", "Lôh-Djiboua"]
+      attribute: ["beteEthnicGroup", "Haut-Sassandra"]
+      attribute: ["beteEthnicGroup", "Marahoué"]
+      attribute: ["beteEthnicGroup", "Montagnes"]
+      attribute: ["beteEthnicGroup", "Guiglo"]
+      attribute: ["beteEthnicGroup", "Duekoué"]
+
+    baouleEthnicGroup:
+      stringTokens: ["Baoulé people", "Baoulé", "Baule", "Kwa"]
+      attribute: ["baouleEthnicGroup", "Q811460"]
+      attribute: ["baouleEthnicGroup", "Christianity"]
+      attribute: ["baouleEthnicGroup", "Traditional religions"]
+      attribute: ["baouleEthnicGroup", "Gbêkê"]
+      attribute: ["baouleEthnicGroup", "Lôh-Djiboua"]
+      attribute: ["baouleEthnicGroup", "Sassandra-Marahoué"]
+      attribute: ["baouleEthnicGroup", "Haut-Sassandra"]
+      attribute: ["baouleEthnicGroup", "Yamoussoukro"]
+
+    anyiEthnicGroup:
+      stringTokens: ["Anyi people", "Anyi", "Agnis", "Agni", "Ani", "Ndenie"]
+      attribute: ["anyiEthnicGroup", "Q613920"]
+      attribute: ["anyiEthnicGroup", "Christianity"]
+      attribute: ["anyiEthnicGroup", "Akan religion"]
+      attribute: ["anyiEthnicGroup", "Moyen-Comoé"]
+      attribute: ["anyiEthnicGroup", "Indénié-Djuablin"]
+      attribute: ["anyiEthnicGroup", "Moronou"]
+      attribute: ["anyiEthnicGroup", "Abengourou"]
+      attribute: ["anyiEthnicGroup", "Agnibilékrou"]
+      attribute: ["anyiEthnicGroup", "Bongouanou"]
+
+    abbeEthnicGroup:
+      stringTokens: ["Abbe", "Abbe people", "Abbé people"]
+      attribute: ["abbeEthnicGroup", "Q336851"]
+      attribute: ["abbeEthnicGroup", "Agboville"]
+      attribute: ["abbeEthnicGroup", "Korhogo"]
+      attribute: ["abbeEthnicGroup", "Ferkessédougou"]
+      attribute: ["abbeEthnicGroup", "Boundiali"]
+
+    attieEthnicGroup:
+      stringTokens: ["Attie", "Attie people", "Akie people", "Ake", "Atie", "Atye", "Akye", "Attie", "Atshe", "Kuroba"]
+      attribute: ["attieEthnicGroup", "Q417996"]
+      attribute: ["attieEthnicGroup", "Guiglo"]
+      attribute: ["attieEthnicGroup", "Taï"]
+      attribute: ["attieEthnicGroup", "Daloa"]
+      attribute: ["attieEthnicGroup", "Man"]
+      attribute: ["attieEthnicGroup", "Bangolo"]
+
+    hausaEthnicGroup:
+      stringTokens: ["Hausa people", "Hausa", "Haoussa", "Haussa", "Houssa", "Hausaawaa", "Hausawa", "Hawsa", "Mgbakpa"]
+      attribute: ["hausaEthnicGroup", "Q33938"]
+      attribute: ["hausaEthnicGroup", "Islam"]
+      attribute: ["hausaEthnicGroup", "Tchologo"]
+      attribute: ["hausaEthnicGroup", "Bagoué"]
+      attribute: ["hausaEthnicGroup", "Kabadougou"]
+      attribute: ["hausaEthnicGroup", "Poro"]
+      attribute: ["hausaEthnicGroup", "Boundiali"]
+      attribute: ["hausaEthnicGroup", "Ferkessédougou"]
+      attribute: ["hausaEthnicGroup", "Korhogo"]
+      attribute: ["hausaEthnicGroup", "Ouangolodougou"]
+
+    bonoEthnicGroup:
+      stringTokens: ["Bono", "Bobo people", "Brong people", "Brong", "Abron", "Bron"]
+      attribute: ["bonoEthnicGroup", "Q927326"]
+      attribute: ["bonoEthnicGroup", "Bono ancestral worship and spirituality"]
+      attribute: ["bonoEthnicGroup", "Christianity"]
+      attribute: ["bonoEthnicGroup", "Doropo"]
+      attribute: ["bonoEthnicGroup", "Zanzan"]
+
+    ### linguistic groups
+    danLinguisticGroup:
+      stringTokens: ["Dan language", "Dan"]
+      attribute: ["danLinguisticGroup", "Q1158971"]
+
+    guroLinguisticGroup:
+      stringTokens: ["Guro language", "Guro"]
+      attribute: ["guroLinguisticGroup", "Q35251"]
+
+    guereLinguisticGroup:
+      stringTokens: ["Guere language", "Guere"]
+      attribute: ["guereLinguisticGroup", "Q36919"]
+
+    wobeLinguisticGroup:
+      stringTokens: ["Wobe language", "Wobe", "Wobé"]
+      attribute: ["wobeLinguisticGroup", "Q3915363"]
+
+    senufoLinguisticGroup:
+      stringTokens: ["Senufo languages", "Senufo"]
+      attribute: ["senufoLinguisticGroup", "Q33795"]
+
+    akanfoLinguisticGroup:
+      stringTokens: ["Akan languages", "Akan"]
+      attribute: ["akanLinguisticGroup", "Q28026"]
+
+    cebaaraLinguisticGroup:
+      stringTokens: ["Cebaara", "Cebaara languages", "Cebaara Senoufo"]
+      attribute: ["cebaaraLinguisticGroup", "Q10975121"]
+
+    kolangoLinguisticGroup:
+      stringTokens: ["Kulango language", "Kulango"]
+      attribute: ["kolangoLinguisticGroup", "Q35731"]
+
+    ### NSAs
+    fnciArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Forces Nouvelles", "Forces Nouvelles de Côte d'Ivoire", "New Forces of Ivory Coast", "FNCI", "FN", "FAFN"]
+      attribute: ["fnciArmedNonGovernmentalOrganizedGroup", "Q1436666"]
+      attribute: ["fnciArmedNonGovernmentalOrganizedGroup", "2002-2007"]
+    
+    mpciArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Patriotic Movement of Ivory Coast", "Mouvement patriotique de la Côte d'Ivoire", "MPCI"]
+      attribute: ["mpciArmedNonGovernmentalOrganizedGroup", "Q2723943"]
+
+    mpigoArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Ivorian Popular Movement of the Great West", "MPIGO"]
+      attribute: ["mpigoArmedNonGovernmentalOrganizedGroup", "Q3326773"]
+    
+    mjpArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Movement for Justice and Peace", "Mouvement pour la justice et la paix", "MJP"]
+      attribute: ["mjpArmedNonGovernmentalOrganizedGroup", "Q2744381"]
+      attribute: ["mjpArmedNonGovernmentalOrganizedGroup", "2002-2004"]
+
+    flgoArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Great West Liberation Front", "FLGO", "Front de libération du Grand Ouest"]
+      attribute: ["flgoArmedNonGovernmentalOrganizedGroup", "Q3088466"]
+
+    cojepproGovernmentMilitia:
+    stringTokens: ["Congrès Panafricain des Jeunes et des Patriotes", "COJEP", "Young Patriots"]
+    attribute: ["cojepproGovernmentMilitia", "Q2577116"]
+
+    ### Political parties
+    mfaPoliticalParty:
+      stringTokens: ["Movement of the Forces of the Future", "MFA"]
+      attribute: ["mfaPoliticalParty", "Q3326623"]
+
+    fpiPoliticalParty:
+      stringTokens: ["Ivorian Popular Front",  "Front populaire ivoirien", "FPI"]
+      attribute: ["fpiPoliticalParty", "Q1422092"]
+
+    rhdpPoliticalParty:
+      stringTokens: ["Rally of Houphouëtists for Democracy and Peace", "RHDP"]
+      attribute: ["rhdpPoliticalParty", "Q2132038"]
+
+    pdciPoliticalParty:
+      stringTokens: ["Democratic Party of Ivory Coast – African Democratic Rally", "PDCI", "PDCI-RDA"]
+      attribute: ["pdcirdaPoliticalParty", "Q1455532"]
+
+    edsPoliticalParty:
+      stringTokens: ["Together for Democracy and Sovereignty", "EDS"]
+      attribute: ["edsPoliticalParty", "Q109023679"]
+
+    udpciPoliticalParty:
+      stringTokens: ["Union for Democracy and Peace in Ivory Coast", "Union for Democracy and Peace in Côte d'Ivoire", "UDPCI"]
+      attribute: ["udpciPoliticalParty", "Q3550425"]
+
+    rdrPoliticalParty:
+      stringTokens: ["Rally of the Republicans", "RDR"]
+      attribute: ["rdrPoliticalParty", "Q1669673"]
+
+    
+
+
+      
