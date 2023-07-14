@@ -1,0 +1,317 @@
+concepts:
+    LiberianArmedForces:
+      stringTokens: ["Armed Forces of Liberia", "AFL", "Liberian military"]
+      attribute: ["LiberianArmedForces", "Q3331367"]
+    
+    ### ethnic groups
+    kpelleEthnicGroup:
+      stringTokens: ["Kpelle", "Kpelle people"]
+      attribute: ["kpelleEthnicGroup", "Q930128"]
+      attribute: ["kpelleEthnicGroup", "Christianity"]
+      attribute: ["kpelleEthnicGroup", "Traditional"]
+      attribute: ["kpelleEthnicGroup", "Islam"]
+      attribute: ["kpelleEthnicGroup", "Bong County"]
+      attribute: ["kpelleEthnicGroup", "Lofa"]
+      attribute: ["kpelleEthnicGroup", "Nimba"]
+      attribute: ["kpelleEthnicGroup", "Grand Bassa"]
+      attribute: ["kpelleEthnicGroup", "Montserrado County"]
+
+    bassaEthnicGroup:
+      stringTokens: ["Bassa", "Bassa people", "Basa"]
+      attribute: ["bassaEthnicGroup", "Q810462"]
+      attribute: ["bassaEthnicGroup", "Christianity"]
+      attribute: ["bassaEthnicGroup", "Grand Bassa County"]
+      attribute: ["bassaEthnicGroup", "Buchanan"]
+      attribute: ["bassaEthnicGroup", "Montserrado County"]
+      attribute: ["bassaEthnicGroup", "Margibi County"]
+      attribute: ["bassaEthnicGroup", "River Cess County"]
+
+    danEthnicGroup:
+      stringTokens: ["Dan", "Dan people", "Gio", "Gyo"]
+      attribute: ["danEthnicGroup", "Q1804699"]
+      attribute: ["danEthnicGroup", "Nimba County"]
+      attribute: ["danEthnicGroup", "Tappita"]
+      attribute: ["danEthnicGroup", "Traditional"]
+
+    manoEthnicGroup:
+      stringTokens: ["Mano people", "Mano"]
+      attribute: ["manoEthnicGroup", "Q17110031"]
+      attribute: ["manoEthnicGroup", "Nimba County"]
+      attribute: ["manoEthnicGroup", "Lofa County"]
+
+    kruEthnicGroup:
+      stringTokens: ["Kru", "Kru people", "Krou", "Krao"]
+      attribute: ["kruEthnicGroup", "Q1537493"]
+      attribute: ["kruEthnicGroup", "Grand Kru"]
+      attribute: ["kruEthnicGroup", "Sinoe"]
+      attribute: ["kruEthnicGroup", "Maryland"]
+      attribute: ["kruEthnicGroup", "Christianity"]
+      attribute: ["kruEthnicGroup", "African traditional religions"]
+      attribute: ["kruEthnicGroup", "Sunni Islam"]
+
+    mandingoEthnicGroup:
+      stringTokens: ["Mandingo", "Mandinka", "Mandinka people"]
+      attribute: ["mandingoEthnicGroup", "Q819186"]
+      attribute: ["mandingoEthnicGroup", "Lofa"]
+      attribute: ["mandingoEthnicGroup", "Bong"]
+      attribute: ["mandingoEthnicGroup", "Nimba"]
+      attribute: ["mandingoEthnicGroup", "Grand Cape Mount"]
+      attribute: ["mandingoEthnicGroup", "Bomi"]
+      attribute: ["mandingoEthnicGroup", "Gbarpolu"]
+      attribute: ["mandingoEthnicGroup", "Christianity"]
+      attribute: ["mandingoEthnicGroup", "Traditional religions"]
+      attribute: ["mandingoEthnicGroup", "Islam"]
+
+    americoliberiansEthnicGroup:
+      stringTokens: ["Americo-Liberian", "Americo-Liberian people"]
+      attribute: ["americoliberiansEthnicGroup", "Q3267945"]
+      attribute: ["americoliberiansEthnicGroup", "Mambah-Kaba"]
+      attribute: ["americoliberiansEthnicGroup", "Protestantism"]
+      attribute: ["americoliberiansEthnicGroup", "Catholocism"]
+
+    lomaEthnicGroup:
+      stringTokens: ["Loma", "Loma people"]
+      attribute: ["lomaEthnicGroup", "Q1859406"]
+      attribute: ["lomaEthnicGroup", "Lofa"]
+      attribute: ["lomaEthnicGroup", "Bong"]
+      attribute: ["lomaEthnicGroup", "Gbarpolu"]
+      attribute: ["lomaEthnicGroup", "Christianity"]
+      attribute: ["lomaEthnicGroup", "Traditional"]
+      attribute: ["lomaEthnicGroup", "Islam"]
+
+    golaEthnicGroup:
+      stringTokens: ["Gola", "Gola people"]
+      attribute: ["golaEthnicGroup", "Q1534501"]
+      attribute: ["golaEthnicGroup", "Grand Cape Mount"]
+      attribute: ["golaEthnicGroup", "Gbarpolu"]
+      attribute: ["golaEthnicGroup", "Islam"]
+
+    greboEthnicGroup:
+      stringTokens: ["Grebo", "Glebo"]
+      attribute: ["greboEthnicGroup", "Q1164772"]
+      attribute: ["greboEthnicGroup", "Grand Gedeh"]
+      attribute: ["greboEthnicGroup", "Maryland"]
+      attribute: ["greboEthnicGroup", "Zwedru"]
+      attribute: ["greboEthnicGroup", "Fish town"]
+      attribute: ["greboEthnicGroup", "Karloken"]
+      attribute: ["greboEthnicGroup", "Harper"]
+
+    vaiEthnicGroup:
+      stringTokens: ["Vai", "Vai people"]
+      attribute: ["vaiEthnicGroup", "Q2002234"]
+      attribute: ["vaiEthnicGroup", "Grand Cape Mount"]
+      attribute: ["vaiEthnicGroup", "Robertsport"]
+      attribute: ["vaiEthnicGroup", "Sinje"]
+      attribute: ["vaiEthnicGroup", "Bomi"]
+      attribute: ["vaiEthnicGroup", "Klay"]
+      attribute: ["vaiEthnicGroup", "Tubmanburg"]
+      attribute: ["vaiEthnicGroup", "Margibi"]
+      attribute: ["vaiEthnicGroup", "Kakata"]
+      attribute: ["vaiEthnicGroup", "Montserrado"]
+      attribute: ["vaiEthnicGroup", "Monrovia"]
+      attribute: ["vaiEthnicGroup", "Islam"]
+      attribute: ["vaiEthnicGroup", "Christianity"]
+
+    kissiEthnicGroup:
+      stringTokens: ["Kissi", "Kissi people", "Kisi"]
+      attribute: ["kissiEthnicGroup", "Q1743773"]
+      attribute: ["kissiEthnicGroup", "Nimba"]
+      attribute: ["kissiEthnicGroup", "Grand Gedeh"]
+      attribute: ["kissiEthnicGroup", "Maryland"]
+      attribute: ["kissiEthnicGroup", "Tappita"]
+      attribute: ["kissiEthnicGroup", "Bahn"]
+      attribute: ["kissiEthnicGroup", "Zwedru"]
+      attribute: ["kissiEthnicGroup", "Islam"]
+      attribute: ["kissiEthnicGroup", "Christianity"]
+      attribute: ["kissiEthnicGroup", "Traditional"]
+
+    krahnEthnicGroup:
+      stringTokens: ["Krahn", "Krahn people", "Sapo", "Wee", "Wobe", "Guere"]
+      attribute: ["krahnEthnicGroup", "Q265962"]
+      attribute: ["krahnEthnicGroup", "Grand Gedeh"]
+      attribute: ["krahnEthnicGroup", "River Gee"]
+      attribute: ["krahnEthnicGroup", "Sinoe"]
+      attribute: ["krahnEthnicGroup", "Maryland"]
+      attribute: ["krahnEthnicGroup", "Zwedru"]
+      attribute: ["krahnEthnicGroup", "Ethnic religions"]
+      attribute: ["krahnEthnicGroup", "Christianity"]
+      attribute: ["krahnEthnicGroup", "Evangelical"]
+
+    ### linguistic groups
+    kpelleLinguisticGroup:
+      stringTokens: ["Kpelle language"]
+      attribute: ["kpelleLinguisticGroup", "Q35673"]
+
+    kruLinguisticGroup:
+      stringTokens: ["Kru", "Kru languages"]
+      attribute: ["kruLinguisticGroup", "Q33535"]
+
+    bassaLinguisticGroup:
+      stringTokens: ["Bassa language", "Bassa"]
+      attribute: ["bassaLinguisticGroup", "Q34949"]
+
+    danLinguisticGroup:
+      stringTokens: ["Dan", "Dan language"]
+      attribute: ["danLinguisticGroup", "Q1158971"]
+
+    manoLinguisticGroup:
+      stringTokens: ["Mano", "Mano language"]
+      attribute: ["manoLinguisticGroup", "Q3913286"]
+
+    golaLinguisticGroup:
+      stringTokens: ["Gola", "Gola language"]
+      attribute: ["golaLinguisticGroup", "Q35482"]
+  
+    vaiLinguisticGroup:
+      stringTokens: ["Vai", "Vai language"]
+      attribute: ["vaiLinguisticGroup", "Q36939"]
+
+    ### rebel groups
+    ndplArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["National Democratic Front of Liberia", "NDPL"]
+      attribute: ["ndplArmedNonGovernmentalOrganizedGroup", "Q1520172"]
+
+    ulimoArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["ULIMO", "United Liberation Movement of Liberia for Democracy"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q7888232"]
+
+    npflArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["NPFL", "NATIONAL PATRIOTIC FRONT OF LIBERIA"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q1576536"]
+
+    inpflArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Independent National Patriotic Front of Liberia", "INPFL"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q474569"]
+
+    lurdArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["LIBERIANS UNITED FOR RECONCILIATION AND DEMOCRACY", "LURD"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q3238013"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "1999-2003"]
+
+    modelArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["MODEL", "MOVEMENT FOR DEMOCRACY IN LIBERIA"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q3326792"]
+
+    lpcArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Liberia Peace Council", "LPC"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q6541093"]
+    
+    ldfArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Lofa Defense Force", "LDF"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q6666641"]
+
+    rufArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Revolutionary United Front", "RUF"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q1141973"]
+
+    ### paramilitaries
+    atuproGovernmentMilitia:
+      stringTokens: ["ATU", "Anti-Terrorist Unit"]
+      attribute: ["atuproGovernmentMilitia", "Q4774296"]
+      attribute: ["atuproGovernmentMilitia", "1998-2003"]
+
+    ### Political parties
+    lplPoliticalParty:
+      stringTokens: ["Labor Party of Liberia", "LPL"]
+      attribute: ["lplPoliticalParty", "Q6467187"]
+
+    fdpPoliticalParty:
+      stringTokens: ["Free Democratic Party", "FDP"]
+      attribute: ["fdpPoliticalParty", "Q5499798"]
+
+    lerpPoliticalParty:
+      stringTokens: ["Liberia Equal Rights Party", "LERP"]
+      attribute: ["lerpPoliticalParty", "Q6541089"]
+
+    uppPoliticalParty:
+      stringTokens: ["United People's Party", "UPP"]
+      attribute: ["uppPoliticalParty", "Q11606780"]
+
+    lppPoliticalParty:
+      stringTokens: ["LPP", "Liberian People's Party"]
+      attribute: ["lppPoliticalParty", "Q6541131"]
+
+    ndplPoliticalParty:
+      stringTokens: ["National Democratic Party of Liberia", "NDPL"]
+      attribute: ["ndplPoliticalParty", "Q1520172"]
+
+    nppPoliticalParty:
+      stringTokens: ["National Patriotic Party", "NPP"]
+      attribute: ["nppPoliticalParty", "Q1142176"]
+
+    ndmPoliticalParty:
+      stringTokens: ["New Deal Movement", "NDM"]
+      attribute: ["ndmPoliticalParty", "Q7006835"]
+
+    ndcPoliticalParty:
+      stringTokens: ["National Democratic Coalition", "NDC"]
+      attribute: ["ndcPoliticalParty", "Q6972209"]
+
+    cdcPoliticalParty:
+      stringTokens: ["Congress for Democratic Change", "CDC"]
+      attribute: ["cdcPoliticalParty", "Q1125914"]
+
+    pdplPoliticalParty:
+      stringTokens: ["People's Democratic Party of Liberia", "PDPL"]
+      attribute: ["pdplPoliticalParty", "Q7165536"]
+
+    upPoliticalParty:
+      stringTokens: ["Unity Party", "UP"]
+      attribute: ["upPoliticalParty", "Q550159"]
+
+    lpPoliticalParty:
+      stringTokens: ["Liberty Party", "LP"]
+      attribute: ["lpPoliticalParty", "Q1142892"]
+
+    ancPoliticalParty:
+      stringTokens: ["Alternative National Congress", "ANC"]
+      attribute: ["ancPoliticalParty", "Q18712104"]
+
+    pupPoliticalParty:
+      stringTokens: ["People's Unification Party", "PUP", "Native People's Party"]
+      attribute: ["pupPoliticalParty", "Q18712486"]
+
+    linuPoliticalParty:
+      stringTokens: ["Liberia National Union", "LINU"]
+      attribute: ["linuPoliticalParty", "Q6541092"]
+
+    alcopPoliticalParty:
+      stringTokens: ["All Liberia Coalition Party", "ALCOP"]
+      attribute: ["alcopPoliticalParty", "Q4729052"]
+  
+    faplPoliticalParty:
+      stringTokens: ["Freedom Alliance Party of Liberia", "FAPL"]
+      attribute: ["faplPoliticalParty", "Q5500481"]
+
+    ldpPoliticalParty:
+      stringTokens: ["Liberia Destiny Party", "LDP"]
+      attribute: ["ldpPoliticalParty", "Q6541121"]
+
+    nplPoliticalParty:
+      stringTokens: ["National Party of Liberia", "NPL"]
+      attribute: ["nplPoliticalParty", "Q6974817"]
+
+    nrpPoliticalParty:
+      stringTokens: ["National Reformation Party", "NRP"]
+      attribute: ["nrpPoliticalParty", "Q6975241"]
+
+    nudpPoliticalParty:
+      stringTokens: ["National Union for Democratic Progress", "NUDP"]
+      attribute: ["nudpPoliticalParty", "Q16937291"]
+
+    natvipolPoliticalParty:
+      stringTokens: ["National Vision Party of Liberia", "NATVIPOL"]
+      attribute: ["natvipolPoliticalParty", "Q6979316"]
+
+    prodemPoliticalParty:
+      stringTokens: ["Progressive Democratic Party", "PRODEM"]
+      attribute: ["prodemPoliticalParty", "Q7248727"]
+    
+    rulpPoliticalParty:
+      stringTokens: ["Reformed United Liberia Party", "RULP"]
+      attribute: ["rulpPoliticalParty", "Q7307543"]
+    
+    uldPoliticalParty:
+      stringTokens: ["Union of Liberian Democrats", "ULD"]
+      attribute: ["uldPoliticalParty", "Q16901041"]
+    
