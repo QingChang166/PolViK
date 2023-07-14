@@ -1,0 +1,28 @@
+concepts:
+  CountrySecurityForces:
+   stringTokens: ["", ""]  ##aliases go here
+##ethnicgroups
+  firstEthnicGroup:
+   stringTokens: ["", "", ""]  ##aliases
+   wikidataQnode: ["Q192647"]  #wikidata q node
+   languagesMostSpoken: ["", "", ""]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["", ""]  ##religions most practiced- can be blank
+   livesIn: ["", ""]  places in country they live in, comment the geographic unit like ##administrative state  here
+##politicalparties
+  FirstParty:
+   stringTokens: []
+   associatedEthnicGroup: []
+   geographicRepresentation: [""]  ##particular regions the group represents  ##can be blank
+   associatedReligion: [""]  ##can be blank
+##armed groups
+  FirstArmedGroup:
+   stringTokens: []
+   associatedEthnicGroup: []
+   associatedReligion: []
+   regionsMostActive: []
+
+  
+
+
+
+
