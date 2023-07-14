@@ -1,0 +1,227 @@
+concepts:
+    SierreLeoneArmedForces:
+      stringTokens: ["Republic of Sierra Leone Armed Forces", "RSLAF", "Sierra Leone Armed Forces", "Sierra Leonean army"]
+      attribute: ["SierreLeoneArmedForces", "Q1507285"]
+    
+    ### ethnic groups
+    mendeEthnicGroup:
+      stringTokens: ["Mende", "Mende people", "Boumpe", "Hulo", "Huro", "Kossa", "Kosso", "Mendi", "Kpa Mende", "Sewa Mende", "Ko Mende"]
+      attribute: ["mendeEthnicGroup", "Q1262400"]
+      attribute: ["mendeEthnicGroup", "Islam"]
+      attribute: ["mendeEthnicGroup", "Christianity"]
+      attribute: ["mendeEthnicGroup", "Traditional"]
+      attribute: ["mendeEthnicGroup", "Bo"]
+      attribute: ["mendeEthnicGroup", "Moyamba"]
+      attribute: ["mendeEthnicGroup", "Pujehun"]
+      attribute: ["mendeEthnicGroup", "Bonthe"]
+      attribute: ["mendeEthnicGroup", "Kailahun"]
+      attribute: ["mendeEthnicGroup", "Kenema"]
+      attribute: ["mendeEthnicGroup", "Freetown"]
+
+    temneEthnicGroup:
+      stringTokens: ["Temne people", "Temne", "Temen", "Timni", "Time people", "Timmanee", "Atemne", "Temeni"]
+      attribute: ["temneEthnicGroup", "Q748316"]
+      attribute: ["temneEthnicGroup", "Islam"] 
+      attribute: ["temneEthnicGroup", "Christianity"]
+      attribute: ["temneEthnicGroup", "Bombali"] 
+      attribute: ["temneEthnicGroup", "Port Loko"] 
+      attribute: ["temneEthnicGroup", "Kambia"] 
+      attribute: ["temneEthnicGroup", "Freetown"] 
+      attribute: ["temneEthnicGroup", "Koinadugu"] 
+      attribute: ["temneEthnicGroup", "Tonkolili"] 
+
+    limbaEthnicGroup:
+      stringTokens: ["Limba people", "Limba", "Limbah"]
+      attribute: ["limbaEthnicGroup", "Q2533513"]
+      attribute: ["limbaEthnicGroup", "Islam"]
+      attribute: ["limbaEthnicGroup", "Christianity"]
+      attribute: ["limbaEthnicGroup", "Indigenous beliefs"]
+      attribute: ["limbaEthnicGroup", "Freetown"] 
+      attribute: ["limbaEthnicGroup", "Bombali"] 
+      attribute: ["limbaEthnicGroup", "Tonkolili"] 
+      attribute: ["limbaEthnicGroup", "Kambia"] 
+
+    fulaEthnicGroup:
+      stringTokens: ["Fula people", "Fula"]
+      attribute: ["fulaEthnicGroup", "Q5507771"]
+      attribute: ["fulaEthnicGroup", "Islam"]
+      attribute: ["fulaEthnicGroup", "Port Loko"]
+      attribute: ["fulaEthnicGroup", "Kambia"]
+      attribute: ["fulaEthnicGroup", "Bombali"]
+      attribute: ["fulaEthnicGroup", "Tonkolili"]
+      attribute: ["fulaEthnicGroup", "Koinadugu"]
+      attribute: ["fulaEthnicGroup", "Kono"]
+      attribute: ["fulaEthnicGroup", "Freetown"]
+      attribute: ["fulaEthnicGroup", "Kailahun"]
+      attribute: ["fulaEthnicGroup", "Kenema"]
+      attribute: ["fulaEthnicGroup", "Pujehun"]
+   
+    mandinkaEthnicGroup:
+      stringTokens: ["Mandinka", "Mandinka people"]
+      attribute: ["mandinkaEthnicGroup", "Q6748086"]
+      attribute: ["mandinkaEthnicGroup", "Sunni Islam"]
+
+    konoEthnicGroup:
+      stringTokens: ["Kono people", "Kono"]
+      attribute: ["konoEthnicGroup", "Q3198706"]
+      attribute: ["konoEthnicGroup", "Islam"]
+      attribute: ["konoEthnicGroup", "Christianity"]
+      attribute: ["konoEthnicGroup", "Indigenous religions"]
+      attribute: ["konoEthnicGroup", "Kono District"]
+      attribute: ["konoEthnicGroup", "Koidu Town"]
+
+    krioEthnicGroup:
+      stringTokens: ["Krio", "Krio people", "Creole"]
+      attribute: ["krioEthnicGroup", "Q2983498"]
+      attribute: ["krioEthnicGroup", "Anglican"]
+      attribute: ["krioEthnicGroup", "Methodist"]
+      attribute: ["krioEthnicGroup", "Catholic"]
+      attribute: ["krioEthnicGroup", "Baptist"]
+      attribute: ["krioEthnicGroup", "Freetown"] 
+      attribute: ["krioEthnicGroup", "Bo"] 
+      attribute: ["krioEthnicGroup", "Kenema"] 
+      attribute: ["krioEthnicGroup", "Makeni"] 
+
+    okuEthnicGroup:
+      stringTokens: ["Oku", "Oku people", "Aku Marabout", "Yoruba"]
+      attribute: ["okuEthnicGroup", "Q25351821"]
+      attribute: ["okuEthnicGroup", "Sunni Islam"]
+
+    kurankoEthnicGroup:
+      stringTokens: ["Kuranko", "Kuranko people", "Kolanko", "Korank"]
+      attribute: ["kurankoEthnicGroup", "Q924230"]
+      attribute: ["kurankoEthnicGroup", "Islam"]
+      attribute: ["kurankoEthnicGroup", "Koinadugu "]
+      attribute: ["kurankoEthnicGroup", "Kabala"]
+      attribute: ["kurankoEthnicGroup", "Falaba"]
+      attribute: ["kurankoEthnicGroup", "Bafodia"]
+      attribute: ["kurankoEthnicGroup", "Yagala"]
+
+    lokoEthnicGroup:
+      stringTokens: ["Loko", "Loko people", "Landogo"]
+      attribute: ["lokoEthnicGroup", "Q829604"]
+      attribute: ["lokoEthnicGroup", "Islam"]
+      attribute: ["lokoEthnicGroup", "Christianity"]
+      attribute: ["lokoEthnicGroup", "Indegenous beliefs"]
+      attribute: ["lokoEthnicGroup", "Bombali"]
+      attribute: ["lokoEthnicGroup", "Port Loko"]
+      attribute: ["lokoEthnicGroup", "Tonkolili "]
+
+    susuEthnicGroup:
+      stringTokens: ["Susu", "Susu people", "Soso"]
+      attribute: ["susuEthnicGroup", "Q1479265"]
+      attribute: ["susuEthnicGroup", "Sunni Islam"]
+      attribute: ["susuEthnicGroup", "Kambia"]
+      attribute: ["susuEthnicGroup", "Port Loko"]
+      attribute: ["susuEthnicGroup", "Koinadugu"]
+
+    yalunkaEthnicGroup:
+      stringTokens: ["Yalunka people", "Yalunka"]
+      attribute: ["yalunkaEthnicGroup", "Q3160743"]
+      attribute: ["yalunkaEthnicGroup", "Islam"]
+      attribute: ["yalunkaEthnicGroup", "Falaba"]
+      attribute: ["yalunkaEthnicGroup", "Kono"]
+      attribute: ["yalunkaEthnicGroup", "Kambia"]
+      attribute: ["yalunkaEthnicGroup", "Koinadugu"]
+
+    kissiEthnicGroup:
+      stringTokens: ["Kissi", "Kissi people", "Kisi"]
+      attribute: ["kissiEthnicGroup", "Q1743773"]
+      attribute: ["kissiEthnicGroup", "Christianity"]
+      attribute: ["kissiEthnicGroup", "Traditional"]
+      attribute: ["kissiEthnicGroup", "Islam"]
+      attribute: ["kissiEthnicGroup", "Kailahun"]
+      attribute: ["kissiEthnicGroup", "Kono"]
+      attribute: ["kissiEthnicGroup", "Pujehun"]
+
+    sherbroEthnicGroup:
+      stringTokens: ["Sherbro", "Sherbro people"]
+      attribute: ["sherbroEthnicGroup", "Q1004543"]
+      attribute: ["sherbroEthnicGroup", "Christianity"]
+      attribute: ["sherbroEthnicGroup", "Sherbro Island"]
+
+    ### linguistic groups
+    mendeLinguisticGroup:
+      stringTokens: ["Mende language", "Mende"]
+      attribute: ["mendeLinguisticGroup", "Q1478672"]
+
+    temneLinguisticGroup:
+      stringTokens: ["Temne language", "Temne", "Timne"]
+      attribute: ["temneLinguisticGroup", "Q36613"]
+
+    susuLinguisticGroup:
+      stringTokens: ["Susu language", "Susu", "Soso"]
+      attribute: ["susuLinguisticGroup", "Q33990"]
+
+    kissiLinguisticGroup:
+      stringTokens: ["Kissi language", "Kissi", "Kisi"]
+      attribute: ["kissiLinguisticGroup", "Q35696"]
+
+    sherbroLinguisticGroup:
+      stringTokens: ["Sherbro language", "Sherbro"]
+      attribute: ["sherbroLinguisticGroup", "Q36339"]
+
+    ### NSAs
+    rufArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Revolutionary United Front", "RUF"]
+      attribute: ["rufArmedNonGovernmentalOrganizedGroup", "Q1141973"]
+      attribute: ["rufArmedNonGovernmentalOrganizedGroup", "1991-2002"]
+
+    afrcArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Armed Forces Revolutionary Council", "AFRC"]
+      attribute: ["afrcArmedNonGovernmentalOrganizedGroup", "Q4793014"]
+      attribute: ["afrcArmedNonGovernmentalOrganizedGroup", "1997-2002"]
+
+    wsbArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["West Side Boys", "WSB", "West Side Niggaz", "West Side Junglers"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q614512"]
+      attribute: ["ArmedNonGovernmentalOrganizedGroup", "1998-2000"]
+
+    kamajorsArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Kamajors"]
+      attribute: ["kamajorsArmedNonGovernmentalOrganizedGroup", "Q776493"]
+    
+    cdfproGovernmentMilitia:
+      stringTokens: ["Civil Defense Forces", "CDF"]
+      attribute: ["cdfproGovernmentMilitia", "Q5124462"]
+
+    ### Political parties
+    slppPoliticalParty:
+      stringTokens: ["Sierra Leone People's Party", "SLPP"]
+      attribute: ["slppPoliticalParty", "Q2033938"]
+
+    apcPoliticalParty:
+      stringTokens: ["All People's Congress", "APC"]
+      attribute: ["apcPoliticalParty", "Q385749"]
+
+    gapPoliticalParty:
+      stringTokens: ["Grand Alliance Party", "GAP"]
+      attribute: ["gapPoliticalParty", "Q5594230"]
+
+    plpPoliticalParty:
+      stringTokens: ["Peace and Liberation Party"]
+      attribute: ["plpPoliticalParty", "Q7157487"]
+
+    pdpPoliticalParty:
+      stringTokens: ["People's Democratic Party"]
+      attribute: ["pdpPoliticalParty", "Q7165533"]
+
+    pmdcPoliticalParty:
+      stringTokens: ["People's Movement for Democratic Change", "PMDC"]
+      attribute: ["pmdcPoliticalParty", "Q6151267"]
+
+    unppPoliticalParty:
+      stringTokens: ["United National People's Party"]
+      attribute: ["unppPoliticalParty", "Q7888303"]
+
+    upPoliticalParty:
+      stringTokens: ["Unity Party"]
+      attribute: ["upPoliticalParty", "Q55636708"]
+
+    yppPoliticalParty:
+      stringTokens: ["Young People's Party"]
+      attribute: ["yppPoliticalParty", "Q8058347"]
+
+    nadpPoliticalParty:
+      stringTokens: ["National Alliance Democratic Party"]
+      attribute: ["nadpPoliticalParty", "Q6970284"]
