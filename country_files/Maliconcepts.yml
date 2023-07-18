@@ -18,7 +18,7 @@ concepts:
 
     tuaregEthnicGroup:
       stringTokens: ["Tuareg", "Twareg", "Touareg"]
-      attribute: ["tuaregEthnicGroup", "Q58843"]
+      wikidataQnode: ["Q58843"]
       attribute: ["tuaregEthnicGroup", "Sunni Islam"]
       attribute: ["tuaregEthnicGroup", "Kidal"]
 
