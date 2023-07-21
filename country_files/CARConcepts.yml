@@ -114,6 +114,7 @@ concepts:
   upcArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["UPC", "Union for Peace in the Central African Republic"]
     attribute: ["upcArmedNonGovernmentalOrganizedGroup", "Q56305291"]
+    associtedgroup: ["Fulani people"]
     
   antibalakaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Anti-Balaka armed group", "Anti-Balaka", "XX_branches"]
