@@ -14,12 +14,15 @@ concepts:
    associatedEthnicGroup: []
    geographicRepresentation: [""]  ##particular regions the group represents  ##can be blank
    associatedReligion: [""]  ##can be blank
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
 ##armed groups
   FirstArmedGroup:
    stringTokens: []
    associatedEthnicGroup: []
    associatedReligion: []
    regionsMostActive: []
+   yearsActiveasArmedGroup: []
   FirstTransnationalArmedGroup:
    stringTokens: []
    originCountry: []
