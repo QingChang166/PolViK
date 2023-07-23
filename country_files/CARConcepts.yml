@@ -1,15 +1,14 @@
 concepts:
   CentralAfricanArmedForces:
     stringTokens: ["Central African Ground Forces", "Central African Air Force", "National Gerdarmerie", "Republican Guard", "National Police", "CAAF", "Central African Forces", "FACA"]
-    attribute: ["CentralAfricanArmedForces", "Q2862862"]
-    attribute: {"CentralAfricanArmedForces, Bangui"}
-  
-  sangoEthnicGroup:
-    stringTokens: ["Sango", "Sango people"]
-    attribute: ["sangoEthnicGroup", "Q60849912"]
-    attribute: {"sangoEthnicGroup", "Bangui"}
-
-  mandjaEthnicGroup:
+  ##ethnicgroups
+    sangoEthnicGroup:
+     stringTokens: ["Sango", "Sango people"]
+     wikidataQnode: ["Q60849912"]
+     languagesMostSpoken: []
+     religionsMostPracticed: []
+     livesIn: 
+   mandjaEthnicGroup:
     stringTokens: ["Manja", "Mandja", "Mandja people"]
     attribute: ["mandjaEthnicGroup", "Q1584363"]
     attribute: {"mandjaEthnicGroup, Ouham, Nana-Gribizi, Kémo"}
