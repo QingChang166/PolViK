@@ -3,10 +3,13 @@ concepts:
     stringTokens: ["Congolese military", "Congolese police", "Congolese security forces", "Forces Armées de la République Démocratique 
     du Congo", "FARDC", "Police Nationale Congolaise", "PNC", "Agence Nationale de Renseignments", "ANR", "Garde Républicaine", 
    "Republican Guard", "Service Spécial de Sécurité du Président", "SSP", "Gendarmerie Nationale"]
-  bembaEthnicGroup:
+  ##ethnicgroup
+ bembaEthnicGroup:
    stringTokens: ["Bemba", "Bemba people", "Avemba", "Babemba", "Babemga", "Wawemba", "Walemba", "Wemba", "Wabemba", "Bembe", "Beembe"]
-   attribute: ["bembaEthnicGroup", "Q644450"]
-   attribute: ["bembaEthnicGroup", "Tshopo"]
+   wikidataQnode: ["Q644450"]
+   languagesMostSpoken: ["Ichibemba"]
+   religionsMostPracticed: ["Christianity","traditional African religions"]
+   livesIn: ["Tshopo"]
    attribute: ["bembaEthnicGroup", "Christianity"]
    attribute: ["bembaEthnicGroup", "traditional African religions"]
    attribute: ["bembaEthnicGroup", "Ichibemba"]  
