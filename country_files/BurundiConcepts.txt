@@ -12,7 +12,7 @@ concepts:
    livesIn: 
   tutsiEthnicGroup:
    stringTokens: ["Tutsi", "Abatutsi", "Watutsi", "Watusi", "Wahuma", "Wahima", "Imfure", "Batutsi", "Watoetsi", "Watussi", "Tutsis",     
-                "Banyamulenge", "Banyarwanda", "Imfure", "Tusi", Tussi", Mulenge", "Ruanda", "Tuti"]
+                "Banyamulenge", "Banyarwanda", "Imfure", "Tusi", "Tussi", "Mulenge", "Ruanda", "Tuti"]
    wikidataQnode:  ["Q193092"]
   twaEthnicGroup: 
    stringTokens: ["Twa","Batwua", "Batwa" ]
