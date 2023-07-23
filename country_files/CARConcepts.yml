@@ -8,193 +8,172 @@ concepts:
      languagesMostSpoken: []
      religionsMostPracticed: []
      livesIn: 
-   mandjaEthnicGroup:
-    stringTokens: ["Manja", "Mandja", "Mandja people"]
-    attribute: ["mandjaEthnicGroup", "Q1584363"]
-    attribute: {"mandjaEthnicGroup, Ouham, Nana-Gribizi, Kémo"}
-
-  gbayaEthnicGroup:
-    stringTokens: ["Gbaya", "Gbaya people", "Baya", "Baya people", "Gbaya-Bossangoa", "Bokoto"]
-    attribute: ["gbayaEthnicGroup", "Q1496762"]
-    attribute: {"gbayaEthnicGroup, Ouham, Ouham Pendé, Nana-Mambéré, Mambéré-Kadéï, Sangha-Mbaéré, Kémo, Lobaye"}
-
-  bandalindaLanguageGroup:
-    stringTokens: ["Banda Linda", "Banda Bambari", "Linda", "Banda-Bambari Linda"]
-    attribute: ["bandalindaLanguageGroup", "Q4854293"]
-    attribute: {"bandalindaLanguageGroup, Haut-Mbomou, Ouaka, Basse-Kotto"}
-
-  fulaniEthnicGroup:
-    stringTokens: ["Fulani", "Fulani people", "Fula", "Peuhlg"]
-    attribute: ["fulaniEthnicGroup", "Q202575"]
-    attribute: {"fulaniEthnicGroup, Ouham Pendé"}
-
-  bandabandaLanguageGroup:
-    stringTokens: ["Banda-Banda"]
-    attribute: ["bandabandaLanguageGroup", "Q3450674"]
-    attribute: {"bandabandaLanguageGroup, Nana-Gribizi, Haut-Mbomou, Mbomou, Ouaka, Basse-Kotto, Ouham, Ouham Pendé, Kémo, Ombella M'Poko"}
-
-  yakomaEthnicGroup:
-    stringTokens: ["Yakoma", "Yakoma people"]
-    attribute: ["yakomaEthnicGroup", "Q1165330"]
-    attribute: {"yakomaEthnicGroup, Basse-Kotto, Mbomou, Ombella M'Poko, Bangui"}
-
-  bandaEthnicGroup:
-    stringTokens: ["Banda", "Banda people"]
-    attribute: ["bandaEthnicGroup", "Q806236"]
-    attribute: {"bandaEthnicGroup, Basse-Kotto, Mbomou, Ouaka"}
-
-  gbanuLanguageGroup:
-    stringTokens: ["Gbanu"]
-    attribute: ["gbanuLanguageGroup", "Q3914945"]
-    attribute: {"gbanuLanguageGroup, Basse-Kotto, Mbomou, Ouaka"}
-  
-  bandangbuguLanguageGroup:
-    stringTokens: ["Banda-Ngbugu", "Ngbugu language", "South Banda",  "Langba", "Ngbandi"]
-    attribute: ["bandangbuguLanguageGroup", "Q36481"]
-    attribute: {"bandangbuguLanguageGroup, Basse-Kotto, Mbomou"}
-
-  kareLanguageGroup:
-    stringTokens: ["Kari", "Kare"]
-    attribute: ["kareLanguageGroup", "Q35554"]
-    attribute: {"kareLanguageGroup, Ouham, Ouham Pendé"}
-
-  ngbakaEthnicGroup:
-    stringTokens: ["Ngbaka", "Ngbaka Mabo", "Bwaka", "Mbaka", "Ngbaka people"]
-    attribute: ["ngbakaEthnicGroup", "Q1165960"]
-    attribute: {"ngbakaEthnicGroup, Ombella M'Poko, Lobaye"}
-  
-  panaLanguageGroup:
-    stringTokens: ["Pana"]
-    attribute: ["panaLanguageGroup", "Q36241"]
-    attribute: {"panaLanguageGroup, Ouham, Ouham Pendé"}
-
-  baggaraEthnicGroup:
-    stringTokens: ["baggaraEthnicGroup", "Baggara people", "Baggara Arabs", "Shuwa Arab"]
-    attribute: ["baggaraEthnicGroup", "Q799892"]
-    attribute: {"baggaraEthnicGroup, "}
-
-  kabaLanguageGroup:
-    stringTokens: ["Sara Kaba", "Kaba", "Kaba language"]
-    attribute: ["kabaLanguageGroup", "Q25559318"]
-    attribute: {"kabaLanguageGroup, Bamingui-Bangoran, Vakaga"}
-
-  azandeEthnicGroup:
-    stringTokens: ["Azande", "Azande people"]
-    attribute: ["azandeEthnicGroup", "Q12077124"]
-    attribute: {"azandeEthnicGroup, Haute-Kotto, Mbomou"}
-
-  zandeLanguageGroup:
-    stringTokens: ["Zande", "Zande language"]
-    attribute: ["zandeLanguageGroup", "Q35015"]
-    attribute: {"zandeLanguageGroup, Haute-Mbomou, Mbomou"}
-
-  mbatiEthnicGroup:
-    stringTokens: ["Mbati", "Mbati people", "Isongo"]
-    attribute: ["mbatiEthnicGroup", "Q62997639"]
-    attribute: {"mbatiEthnicGroup, "}
-
-  nzakaraLanguageGroup:
-    stringTokens: ["Nzakara", "Nzakara language"]
-    attribute: ["nzakaraLanguageGroup", "Q3913339"]
-
-  bandambresLanguageGroup:
-    stringTokens: ["Banda-Mbres", "Banda-Mbres language"]
-    attribute: ["bandambresLanguageGroup", "Q3450724"]
-
-  bandandeleLanguageGroup:
-    stringTokens: ["Banda-Ndele", "Banda-Ndele people"]
-    attribute: ["bandandeleLanguageGroup", "Q34850"]
-
-  aliLanguageGroup:
-    stringTokens: ["Ali", "Ali language"]
-    attribute: ["aliLanguageGroup", "Q34814"]
-    attribute: {"aliLanguageGroup, Ombella M'Poko"}
-
-  upcArmedNonGovernmentalOrganizedGroup:
+    mandjaEthnicGroup:
+     stringTokens: ["Manja", "Mandja", "Mandja people"]
+     wikidataQnode: ["Q1584363"]
+   gbayaEthnicGroup:
+     stringTokens: ["Gbaya", "Gbaya people", "Baya", "Baya people", "Gbaya-Bossangoa", "Bokoto"]
+     wikidataQnode: ["Q1496762"]
+     attribute: {"gbayaEthnicGroup, Ouham, Ouham Pendé, Nana-Mambéré, Mambéré-Kadéï, Sangha-Mbaéré, Kémo, Lobaye"}
+   bandalindaLanguageGroup:
+     stringTokens: ["Banda Linda", "Banda Bambari", "Linda", "Banda-Bambari Linda"]
+     wikidataQnode: ["Q4854293"]
+     attribute: {"bandalindaLanguageGroup, Haut-Mbomou, Ouaka, Basse-Kotto"}
+   fulaniEthnicGroup:
+     stringTokens: ["Fulani", "Fulani people", "Fula", "Peuhlg"]
+     wikidataQnode: ["Q202575"]
+     attribute: {"fulaniEthnicGroup, Ouham Pendé"}
+   bandabandaLanguageGroup:
+     stringTokens: ["Banda-Banda"]
+     wikidataQnode: ["Q3450674"]
+     attribute: {"bandabandaLanguageGroup, Nana-Gribizi, Haut-Mbomou, Mbomou, Ouaka, Basse-Kotto, Ouham, Ouham Pendé, Kémo, Ombella M'Poko"}
+   yakomaEthnicGroup:
+     stringTokens: ["Yakoma", "Yakoma people"]
+     wikidataQnode: ["Q1165330"]
+     attribute: {"yakomaEthnicGroup, Basse-Kotto, Mbomou, Ombella M'Poko, Bangui"}
+   bandaEthnicGroup:
+     stringTokens: ["Banda", "Banda people"]
+     wikidataQnode: ["Q806236"]
+     attribute: {"bandaEthnicGroup, Basse-Kotto, Mbomou, Ouaka"}
+   gbanuLanguageGroup:
+     stringTokens: ["Gbanu"]
+     wikidataQnode: ["Q3914945"]
+     attribute: {"gbanuLanguageGroup, Basse-Kotto, Mbomou, Ouaka"}
+   bandangbuguLanguageGroup:
+     stringTokens: ["Banda-Ngbugu", "Ngbugu language", "South Banda",  "Langba", "Ngbandi"]
+     wikidataQnode: ["Q36481"]
+     attribute: {"bandangbuguLanguageGroup, Basse-Kotto, Mbomou"}
+   kareLanguageGroup:
+     stringTokens: ["Kari", "Kare"]
+     wikidataQnode: ["Q35554"]
+     attribute: {"kareLanguageGroup, Ouham, Ouham Pendé"}
+   ngbakaEthnicGroup:
+     stringTokens: ["Ngbaka", "Ngbaka Mabo", "Bwaka", "Mbaka", "Ngbaka people"]
+     wikidataQnode: ["Q1165960"]
+     attribute: {"ngbakaEthnicGroup, Ombella M'Poko, Lobaye"}
+   panaLanguageGroup:
+     stringTokens: ["Pana"]
+     wikidataQnode: ["Q36241"]
+     attribute: {"panaLanguageGroup, Ouham, Ouham Pendé"}
+   baggaraEthnicGroup:
+     stringTokens: ["baggaraEthnicGroup", "Baggara people", "Baggara Arabs", "Shuwa Arab"]
+     wikidataQnode: ["Q799892"]
+     attribute: {"baggaraEthnicGroup, "}
+   kabaLanguageGroup:
+     stringTokens: ["Sara Kaba", "Kaba", "Kaba language"]
+     wikidataQnode: ["Q25559318"]
+     attribute: {"kabaLanguageGroup, Bamingui-Bangoran, Vakaga"}
+   azandeEthnicGroup:
+     stringTokens: ["Azande", "Azande people"]
+     wikidataQnode: ["Q12077124"]
+     attribute: {"azandeEthnicGroup, Haute-Kotto, Mbomou"}
+   zandeLanguageGroup:
+     stringTokens: ["Zande", "Zande language"]
+     wikidataQnode: ["Q35015"]
+     attribute: {"zandeLanguageGroup, Haute-Mbomou, Mbomou"}
+   mbatiEthnicGroup:
+     stringTokens: ["Mbati", "Mbati people", "Isongo"]
+     wikidataQnode: ["Q62997639"]
+     attribute: {"mbatiEthnicGroup, "}
+   nzakaraLanguageGroup:
+     stringTokens: ["Nzakara", "Nzakara language"]
+     wikidataQnode: ["Q3913339"]
+   bandambresLanguageGroup:
+     stringTokens: ["Banda-Mbres", "Banda-Mbres language"]
+     wikidataQnode: ["Q3450724"]
+   bandandeleLanguageGroup:
+     stringTokens: ["Banda-Ndele", "Banda-Ndele people"]
+     wikidataQnode: ["Q34850"]
+   aliLanguageGroup:
+     stringTokens: ["Ali", "Ali language"]
+     wikidataQnode: ["Q34814"]
+     attribute: {"aliLanguageGroup, Ombella M'Poko"}
+##armedgroup
+   upcArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["UPC", "Union for Peace in the Central African Republic"]
     attribute: ["upcArmedNonGovernmentalOrganizedGroup", "Q56305291"]
     associtedgroup: ["Fulani people"]
     
-  antibalakaArmedNonGovernmentalOrganizedGroup:
+   antibalakaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Anti-Balaka armed group", "Anti-Balaka", "XX_branches"]
     attribute: ["antibalakaArmedNonGovernmentalOrganizedGroup", "Q15311839"]
 
-  mlcjArmedNonGovernmentalOrganizedGroup:
+   mlcjArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Movement of Central African Liberators for Justice", "Central African Liberators for Justice Movement", "MLCJ"]
     attribute: ["mlcjArmedNonGovernmentalOrganizedGroup", "Q3326634"]
 
-  mpcArmedNonGovernmentalOrganizedGroup:
+   mpcArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Central African Patriotic Movement", "MPC"]
     attribute: ["mpcArmedNonGovernmentalOrganizedGroup", "Q56305293"]
 
-  fprcArmedNonGovernmentalOrganizedGroup:
+   fprcArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Popular Front for the Renaissance in the Central African Republic", "Popular Front for the Rebirth of Central African Republic", "FPRC"]
     attribute: ["fprcArmedNonGovernmentalOrganizedGroup", "Q56305647"]
 
-  fdpcArmedNonGovernmentalOrganizedGroup:
+   fdpcArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Front Démocratique du Peuple Centrafricain", "FDPC", "Democratic Front of the Central African People"]
     attribute: ["fdpcArmedNonGovernmentalOrganizedGroup", "Q3088479"]
 
-  3rArmedNonGovernmentalOrganizedGroup:
+   3rArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Return, Reclamation and Rehabilitation", "3R"]
     attribute: ["3rArmedNonGovernmentalOrganizedGroup", "Q67198684"]
 
-  selekaArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Séléka", "Ex-Séléka coalition group"]
-    attribute: ["selekaArmedNonGovernmentalOrganizedGroup", "Q7666027"]
+   selekaArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Séléka", "Ex-Séléka coalition group"]
+     attribute: ["selekaArmedNonGovernmentalOrganizedGroup", "Q7666027"]
 
-  rjArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["RJ", "Revolution and Justice", "RJ-Belanga", "RJ-Sayo Branch"]
-    attribute: ["rjArmedNonGovernmentalOrganizedGroup", "Q25377343"]
+   rjArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["RJ", "Revolution and Justice", "RJ-Belanga", "RJ-Sayo Branch"]
+     attribute: ["rjArmedNonGovernmentalOrganizedGroup", "Q25377343"]
 
-  rprcArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Patriotic Rally for the Renewal of the Central African Republic", "RPRC"]
-    attribute: ["rprcArmedNonGovernmentalOrganizedGroup", "Q56305385"]
+   rprcArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Patriotic Rally for the Renewal of the Central African Republic", "RPRC"]
+     attribute: ["rprcArmedNonGovernmentalOrganizedGroup", "Q56305385"]
 
-  cpcArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Coalition of Patriots for Change", "CPC"]
-    attribute: ["cpcArmedNonGovernmentalOrganizedGroup", "Q104519767"]
+   cpcArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Coalition of Patriots for Change", "CPC"]
+     attribute: ["cpcArmedNonGovernmentalOrganizedGroup", "Q104519767"]
 
-  lraArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Lord's Resistance Army insurgency", "LRA"]
-    attribute: ["lraArmedNonGovernmentalOrganizedGroup", "Q303801"]
+   lraArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Lord's Resistance Army insurgency", "LRA"]
+     attribute: ["lraArmedNonGovernmentalOrganizedGroup", "Q303801"]
 
-  mrprcArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["People’s Resistance Movement for the Refoundation of the Central African Republic", "MRPRC"]
-    attribute: ["mrprcArmedNonGovernmentalOrganizedGroup", "Q18391354"]
+   mrprcArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["People’s Resistance Movement for the Refoundation of the Central African Republic", "MRPRC"]
+     attribute: ["mrprcArmedNonGovernmentalOrganizedGroup", "Q18391354"]
 
-  parrdArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["People's Army for the Restoration of the Republic and Democracy", "PARRD"]
-    attribute: ["parrdArmedNonGovernmentalOrganizedGroup", "Q2862843"]
+   parrdArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["People's Army for the Restoration of the Republic and Democracy", "PARRD"]
+     attribute: ["parrdArmedNonGovernmentalOrganizedGroup", "Q2862843"]
 
-  fprArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Popular Front for Recovery", "FPR"]
-    attribute: ["fprArmedNonGovernmentalOrganizedGroup", "Q15138850"]
+   fprArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Popular Front for Recovery", "FPR"]
+     attribute: ["fprArmedNonGovernmentalOrganizedGroup", "Q15138850"]
 
-  ufdrArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Union of Democratic Forces for Unity", "UFDR"]
-    attribute: ["ufdrArmedNonGovernmentalOrganizedGroup", "Q1771298"]
+   ufdrArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Union of Democratic Forces for Unity", "UFDR"]
+     attribute: ["ufdrArmedNonGovernmentalOrganizedGroup", "Q1771298"]
 
-  aprdArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["People's Army for the Restoration of Democracy", "APRD"]
-    attribute: ["aprdArmedNonGovernmentalOrganizedGroup", "Q2862843"]
+   aprdArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["People's Army for the Restoration of Democracy", "APRD"]
+     attribute: ["aprdArmedNonGovernmentalOrganizedGroup", "Q2862843"]
 
-  prncArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Party of the Rally of the Central African Nation", "PRNC"]
-    attribute: ["prncArmedNonGovernmentalOrganizedGroup", "Q115805634"]
+   prncArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Party of the Rally of the Central African Nation", "PRNC"]
+     attribute: ["prncArmedNonGovernmentalOrganizedGroup", "Q115805634"]
 
-  cpskArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Patriotic Convention for Saving the Country", "CPSK"]
-    attribute: ["cpskArmedNonGovernmentalOrganizedGroup", "Q16204352"]
+   cpskArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Patriotic Convention for Saving the Country", "CPSK"]
+     attribute: ["cpskArmedNonGovernmentalOrganizedGroup", "Q16204352"]
 
-  cpjpArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["Convention of Patriots for Justice and Peace", "CPJP"]
-    attribute: ["cpjpArmedNonGovernmentalOrganizedGroup", "Q1129388"]
+   cpjpArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Convention of Patriots for Justice and Peace", "CPJP"]
+     attribute: ["cpjpArmedNonGovernmentalOrganizedGroup", "Q1129388"]
 
-  ufrArmedNonGovernmentalOrganizedGroup:
-    stringTokens: ["UFR", "Union des Forces Républicaines", "Union of Republican Forces"]
-    attribute: ["ufrArmedNonGovernmentalOrganizedGroup", ""]
-    attribute: ["ufrArmedNonGovernmentalOrganizedGroup", "2006-2008"]
+   ufrArmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["UFR", "Union des Forces Républicaines", "Union of Republican Forces"]
+     attribute: ["ufrArmedNonGovernmentalOrganizedGroup", ""]
+     attribute: ["ufrArmedNonGovernmentalOrganizedGroup", "2006-2008"]
 
 
 
