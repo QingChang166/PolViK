@@ -1,6 +1,8 @@
 concepts:
   DRCSecurityForces:
-    stringTokens: ["Congolese military", "Congolese police", "Congolese security forces", "Forces Armées de la République Démocratique du Congo", "FARDC", "Police Nationale 				    Congolaise", "PNC", "Agence Nationale de Renseignments", "ANR", "Garde Républicaine", "Republican Guard", "Service Spécial de Sécurité du Président", "SSP",   			   "Gendarmerie Nationale"]
+    stringTokens: ["Congolese military", "Congolese police", "Congolese security forces", "Forces Armées de la République Démocratique 
+    du Congo", "FARDC", "Police Nationale Congolaise", "PNC", "Agence Nationale de Renseignments", "ANR", "Garde Républicaine", 
+   "Republican Guard", "Service Spécial de Sécurité du Président", "SSP", "Gendarmerie Nationale"]
   bembaEthnicGroup:
    stringTokens: ["Bemba", "Bemba people", "Avemba", "Babemba", "Babemga", "Wawemba", "Walemba", "Wemba", "Wabemba", "Bembe", "Beembe"]
    attribute: ["bembaEthnicGroup", "Q644450"]
