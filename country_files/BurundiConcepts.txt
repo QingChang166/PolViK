@@ -1,8 +1,8 @@
 concepts:
   BurundiSecurityForces:
-   stringTokens: ["National Defense Force", "FDN", "Force de Défense Nationale", "Burundian police", "Burundi police", "National Police of Burundi", "PNB", "Police Nationale du 
-                   Burundi", "Burundian security forces", "Burundi security forces", "National Intelligence Service", "SNR", "Service National de Renseignement", "Burundian Army",
-                  "Burundi Army"]
+   stringTokens: ["National Defense Force", "FDN", "Force de Défense Nationale", "Burundian police", "Burundi police", "National Police 
+   of Burundi", "PNB", "Police Nationale du Burundi", "Burundian security forces", "Burundi security forces", "National Intelligence 
+   Service", "SNR", "Service National de Renseignement", "Burundian Army","Burundi Army"]
 ##ethnicgroups
   hutuEthnicGroup:
    stringTokens: ["Hutu", "Bahutu", "Abahutu", "Lera", "Ndara", "Ndoga", "Ndogo", "Shobyo", "Tshogo", "Urulera"]
@@ -10,7 +10,7 @@ concepts:
    languagesMostSpoken: []
    religionsMostPracticed: []
    livesIn: 
-  hutuEthnicGroup:
+  tutsiEthnicGroup:
    stringTokens: ["Tutsi", "Abatutsi", "Watutsi", "Watusi", "Wahuma", "Wahima", "Imfure", "Batutsi", "Watoetsi", "Watussi", "Tutsis",     
                 "Banyamulenge", "Banyarwanda", "Imfure", "Tusi", Tussi", Mulenge", "Ruanda", "Tuti"]
    wikidataQnode:  ["Q193092"]
@@ -20,46 +20,33 @@ concepts:
 ##political parties
   UPRONAparty:
    stringTokens: ["Union for National Progress", "UPRONA", "Union pour le Progrès national"]
-   attribute: ["UPRONAParty", "1958-Present"]
-   attribute: ["UPRONAParty", "tutsiEthnicGroup"]
+   associatedEthnicGroup: ["tutsiEthnicGroup"]
   FRODEBUParty: 
    stringTokens: ["Front for Democracy in Burundi", "FRODEBU", "Front pour la Démocratie au Burundi"]
-   attribute: ["FRODEBUParty", "1992-Present"]
-   attribute: ["FRODEBUParty", "hutuEthnicGroup"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]
   CNDDFDDParty:
-   stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil for the Defense of Democracy", "Forces for the      		   Defense of Democracy", "Alias: Conseil National Pour la Défense de la Démocratie–Forces pour la Défense de la Démocratie"]
-   attribute: ["CNDDFDDParty", "2005-Present"]
-   attribute: ["CNDDFDDParty", "hutuEthnicGroup"]
-   attribute: ["CNDDFDDParty", "CNDDFDDArmedGroup"]
+   stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil for 
+   the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la Démocratie–Forces 
+   pour la Défense de la Démocratie"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]
   FNLParty:  ## need Rwanda/DRC disambig
    stringTokens: ["National Liberation Forces", "FNL", "Forces pour la Libération Nationale"]
-   attribute: ["FNLParty", "2009-Present"]
-   attribute: ["FNLParty", "FNLArmedGroup"]
-   attribute: ["FNLParty", "hutuEthnicGroup"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]
  ##ArmedGroups
    CNDDFDDArmedGroup:  ##how to disambig?
-    stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil for the Defense of Democracy", "Forces for the      		   Defense of Democracy", "Alias: Conseil National Pour la Défense de la Démocratie–Forces pour la Défense de la Démocratie"]
-    attribute: ["CNDDFDDArmedGroup", "CNDDFDDParty"]
-    attribute: ["CNDDFDDArmedGroup", "1994-2005"]
-    attribute: ["CNDDFDDArmedGroup", "hutuEthnicGroup"]
-    attribute: ["CNDDFDDArmedGroup", "Q688151"]
+    stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil 
+    for the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la Démocratie– 
+    Forces pour la Défense de la Démocratie"]
+    associatedEthnicGroup: ["hutuEthnicGroup"]
   FNLArmedGroup:
     stringTokens: ["National Liberation Forces", "FNL", "Forces pour la Libération Nationale", "Palipehutu-FNL"]
-    attribute: ["FNLArmedGroup", "FNLParty"]
-    attribute: ["FNLArmedGroup", "1980-Present"]
-    attribute: ["FNLArmedGroup", "Q1192535"]
-    attribute: ["FNLArmedGroup", "hutuEthnicGroup"]
+    associatedEthnicGroup: ["hutuEthnicGroup"]
   ImbonerakureArmedGroup:
    stringTokens: ["Imbonerakure", "Youth Wing of the CNDD-FDD"]
-   attribute: ["ImbonerakureArmedGroup", "2010-Present"]
-   attribute: ["ImbonerakureArmedGroup", "CNDDFDDArmedGroup"]
-   attribute: ["ImbonerakureArmedGroup", "hutuEthnicGroup"]
-   attribute: ["ImbonerakureArmedGroup", "Q19860737"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]
   JRRArmedGroup:
    stringTokens: ["JRR", "Jeunesse Révolutionnaire Rwagasore", "Union for National Progress (UPRONA) Youth Wing"}
-   attribute: ["JRRArmedGroup", "UPRONAParty"]
-   attribute: ["JRRArmedGroup", "1962-1993"]
-   attribute: ["JRRArmedGroup", "tutsiEthnicGroup"]
+   associatedEthnicGroup: ["tutsiEthnicGroup"]
   
   
   
