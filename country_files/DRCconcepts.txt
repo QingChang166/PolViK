@@ -33,7 +33,7 @@ concepts:
    stringTokens: ["Luba", "Luba people", "Baluba"]
    wikidataQnode: ["Q805841"]
    languagesMostSpoken: []
-   religionsMostPracticed: ["Christianity", "Bantu spirituality","traditional African religions"]
+   religionsMostPracticed: ["Christianity", "Bantu spirituality", "traditional African religions"]
    livesIn: []
   lundaEthnicGroup:
    stringTokens: ["Lunda", "Lunda people", "Alunda", "Arund", "Balunda", "Kalunda", "Luunda", "Valunda", "Aluund", "Ruund", "Aluun", 
@@ -43,55 +43,45 @@ concepts:
    stringTokens: ["Mongo", "Mongo people", "Nkundo", "Lomongo", "Mango", "Nkundu"]
    wikidataQnode: ["Q927706"]
    languagesMostSpoken: []
-   religionsMostPracticed: []
-   livesIn: []
-   attribute: ["mongoEthnicGroup", "Christianity"]
-   attribute: ["mongoEthnicGroup", "traditional African religions"]
-   attribute: ["mongoEthnicGroup", "Equateur"]
-   attribute: ["mongoEthnicGroup", "Tshopo"]
-   attribute: ["mongoEthnicGroup", "Tshuapa"]
-   attribute: ["mongoEthnicGroup", "Mongala"]
-   attribute: ["mongoEthnicGroup", "Kwilu"]
-   attribute: ["mongoEthnicGroup", "Maï Ndombe"]
-   attribute: ["mongoEthnicGroup", "Kongo-Centrale"]
-   attribute: ["mongoEthnicGroup", "Kasai"]
-   attribute: ["mongoEthnicGroup", "Sankuru"]
-   attribute: ["mongoEthnicGroup", "Maniema"]
-   attribute: ["mongoEthnicGroup", "North Kivu"]
-   attribute: ["mongoEthnicGroup", "South Kivu"]
-   attribute: ["mongoEthnicGroup", "Tanganiyka"]
-   attribute: ["mongoEthnicGroup", "Ituri"]
+   religionsMostPracticed: ["Christianity", "traditional African religions"]
+   livesIn: ["Equateur", "Tshopo", "Tshuapa", "Mongala", "Kwilu", "Maï Ndombe", "Kongo-Centrale", "Kasai", "Sankuru", "Maniema", "North 
+   Kivu", "South Kivu", "Tanganyika", "Ituri" ] ##provinces, and Tanganyika was a sovereign state until 1964
   nandeEthnicGroup:
    stringTokens: ["Nande", "Nande people"]
-   attribute: ["nandeEthnicGroup", "Q3335624"]
+   wikidataQnode: ["Q3335624"]
   ngalaEthnicGroup:
    stringTokens: ["Ngala", "Ngala people", "Bangala", "Bangalas", "Gens d'Eau", "Mangla", "Mangaro", "Mongalla", "Bamangala", "Wangala"]
-   attribute: ["ngalaEthnicGroup", "Q106684441"] 
+   wikidataQnode: ["Q106684441"] 
   nyangaEthnicGroup:
    stringTokens: ["Nyanga", "Nyanga people", "Banianga", "Banuanga", "Inyanga", "Kinyanga", "Nianga", "Wanyanga"]
-   attribute: ["nyangaEthnicGroup", "Q3346583"] 
-   attribute: ["nyangaEthnicGroup", "Kivu"] 
+   wikidataQnode: ["Q3346583"] 
+   languagesMostSpoken: []
+   religionsMostPracticed: []
+   livesIn: ["Kivu"]
   pendeEthnicGroup:
-   stringTokens: ["Pende", "Pende people", "Bapende", "Apende", "Aphende", "Ba-Pendi", "Bampende", "Gipende", "Kipende", "Kasai Pende", "Masindju", "Phende", "Pindi", "Pinji",     			  "Tupende"]
-   attribute: ["pendeEthnicGroup", "Q377119"] 
+   stringTokens: ["Pende", "Pende people", "Bapende", "Apende", "Aphende", "Ba-Pendi", "Bampende", "Gipende", "Kipende", "Kasai Pende", 
+   "Masindju", "Phende", "Pindi", "Pinji", "Tupende"]
+   wikidataQnode: ["Q377119"] 
   songyeEthnicGroup:
    stringTokens: ["Songye", "Songye people", "Songe"]
-   attribute: ["songyeEthnicGroup", "Q810544"] 
+   wikidataQnode: ["Q810544"] 
   tshokweEthnicGroup:
    stringTokens: ["Tshokwe", "Tshokwe people", "Chokwe", "Ciokwe", "Cokwe", "Bajokwe", "Badjok", "Quioco"]
-   attribute: ["tshokweEthnicGroup", "Q1075883"] 
-   attribute: ["tshokweEthnicGroup", "Christian"]
-   attribute: ["tshokweEthnicGroup", "animist"]
+   wikidataQnode: ["Q1075883"]
+   languagesMostSpoken: []
+   religionsMostPracticed: ["Christian", "animist"]
+   livesIn: []
   yakaEthnicGroup:
    stringTokens: ["Yaka", "Yaka people", "Bayaka"]
-   attribute: ["yakaEthnicGroup", "Q2749225"] 
+   wikidataQnode: ["Q2749225"] 
   zandeEthnicGroup:
    stringTokens: ["Zande", "Zande people", "Niam-niam", "Niam-niam peope", "Sandeh", "Azande"]
-   attribute: ["zandeEthnicGroup", "Q793575"] 
+   wikidataQnode: ["Q793575"]
+   languagesMostSpoken: []
+   religionsMostPracticed: ["Christian", "traditional African religions"]
+   livesIn: ["Bas-Uele", "Haut-Uele"]
    attribute: ["zandeEthnicGroup", "Christian"] 
-   attribute: ["zandeEthnicGroup", "traditional African religions"] 
-   attribute: ["zandeEthnicGroup", "Bas-Uele"] 
-   attribute: ["zandeEthnicGroup", "Haut-Uele"] 
+   attribute: ["zandeEthnicGroup", "traditional African religions"]
 ##political parties  ##does this time coding work
   PPRDParty: 
    stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
