@@ -1,0 +1,161 @@
+concepts:
+    ChadianSecurityForces:
+     stringTokens: ["Chadian Security Forces", "CSF", "Chad National Army", "Military of Chad"]
+     wikidataQnode: ["Q874971"]
+  
+  ## ethnicgroups
+   toubouEthnicGroup:
+     stringTokens: ["Toubou", "Toubou people", "Tubu", "Gorane"]
+     wikidataQnode: ["Q521547"]
+     languagesMostSpoken: ["Tebu languages", "Arabic"]
+     religionsMostPracticed: ["Sunni Islam"]
+     livesIn: ["Tibesti"]
+  
+   saraEthnicGroup:
+     stringTokens: ["Sara", "Sara people"]
+     wikidataQnode: ["Q969552"]
+     languagesMostSpoken: ["Sara languages"]
+     religionsMostPracticed: ["Christianity", "Traditional African religion", "Islam"]
+     livesIn: ["Logone", "Moyen-Chari", "Chari-Baguirmi", "Mandoul", "Mayo-Kebbi"]
+  
+   tamaEthnicGroup:
+     stringTokens: ["Tama", "Tama people"]
+     wikidataQnode: ["Q3847982"]
+     languagesMostSpoken: ["Tama language"]
+     religionsMostPracticed: ["Muslim"]
+     livesIn: ["Hadjer-Lamis", "Hadjerai"]
+  
+   zaghawaEthnicGroup:
+     stringTokens: ["Zaghawa", "Zaghawa people"]
+     wikidataQnode: ["Q140328"]
+     languagesMostSpoken: ["Beria"]
+     religionsMostPracticed: ["Sunni Islam"]
+     livesIn: ["Tibesti", "Borkou", "Ennedi", "Wadi Fira"]
+  
+   hadjaraiEthnicGroup:
+     stringTokens: ["Hadjarai"]
+     wikidataQnode: ["Q5637911"]
+     languagesMostSpoken: ["Hadjarai language"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Guéra", "Wadi Fira", "Batha"]
+  
+   arabEthnicGroup:
+     stringTokens: ["Arab", "Arab people"]
+     wikidataQnode: ["Q35323"]
+     languagesMostSpoken: ["Arabic"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Ouaddaï", "Sila"]
+    
+  ## politicalparties
+   csaParty:
+     stringTokens: ["Chadian Social Action"]
+     wikidataQnode:  ["Q5066454"]
+  
+   cppParty:
+     stringTokens: ["National Movement for the Cultural and Social Revolution", "Chadian Progressive Party"]
+     wikidataQnode:  ["Q1970314"]
+     associatedEthnicGroup: ["Sara people"]
+  
+   urdParty:
+     stringTokens: ["Union for Renewal and Democracy"]
+     wikidataQnode:  ["Q669116"]
+  
+   mpsParty:
+     stringTokens: ["Patriotic Salvation Movement"]
+     wikidataQnode:  ["Q1576278"]
+  
+   rdpParty:
+     stringTokens: ["Rally for Democracy and Progress"]
+     wikidataQnode:  ["Q3623619"]
+  
+   farParty:
+     stringTokens: ["Federation, Action for the Republic"]
+     wikidataQnode:  ["Q5440722"]
+
+   unirParty:
+     stringTokens: ["National Union for Independence and Revolution"]
+     wikidataQnode:  ["Q6979102"]
+     time: ["1984-1990"]
+
+   undrParty:
+     stringTokens: ["National Union for Democracy and Renewal"]
+     wikidataQnode:  ["Q1168907"]
+
+   uditParty:
+     stringTokens: ["Independent Democratic Union of Chad"]
+     wikidataQnode:  ["Q20982164"]
+
+   girtParty:
+     stringTokens: ["Grouping of Rural and Independent Chadians"]
+     wikidataQnode:  ["Q5611313"]
+
+   msaParty:
+     stringTokens: ["African Socialist Movement"]
+     wikidataQnode:  ["Q3326838"]
+
+   udsrParty:
+     stringTokens: ["Democratic and Socialist Union of the Resistance"]
+     wikidataQnode:  ["Q2164587"]
+
+   psitParty:
+     stringTokens: ["Independent Socialist Party of Chad"]
+     wikidataQnode:  ["Q1705046"]
+
+   nrcdParty:
+     stringTokens: ["National Rally of Chadian Democrats ", "National Rally for Democracy in Chad"]
+     wikidataQnode:  ["Q6975198"]
+
+   udtParty:
+     stringTokens: ["Chadian Democratic Union"]
+     wikidataQnode:  ["Q3550258"]
+  
+   nrdcParty:
+     stringTokens: ["National Rally for Development and Progress"]
+     wikidataQnode:  ["Q3658492"]
+
+  ## armed groups
+   factArmedGroup:
+     stringTokens: ["Front for Change and Concord in Chad", "FACT"]
+     associatedEthnicGroup: ["Gorane", "Toubou"]
+     wikidataQnode: ["Q25345086"]
+  
+   ufddArmedGroup:
+     stringTokens: ["Union of Forces for Democracy and Development", "UFDD"]
+     wikidataQnode: ["Q828786"]
+     associatedEthnicGroup: ["Gorane", "Toubou"]
+  
+   rfcArmedGroup:
+     stringTokens: ["Rally of Forces for Change", "RFC"]
+     associatedEthnicGroup: ["Zaghawa"]
+     wikidataQnode: ["Q3419890"]
+  
+   mdjtArmedGroup:
+     stringTokens: ["Movement for Democracy and Justice in Chad", "MDJT"]
+     associatedEthnicGroup: ["Zaghawa"]
+     wikidataQnode: ["Q3326794"]
+  
+   frolinatArmedGroup:
+     stringTokens: ["Liberation Front of Chad", "FROLINAT"]
+     associatedEthnicGroup: ["Arabs", "Tama", "Hadjerai"]
+     wikidataQnode: ["Q1075228"]
+  
+   fprArmedGroup:
+     stringTokens: ["Popular Front for Recovery", "FPR"]
+     associatedEthnicGroup: ["Tama"]
+     wikidataQnode: ["Q15138850"]
+  
+   mprArmedGroup:
+     stringTokens: ["Chadian People's Revolutionary Movement", "MPR"]
+     wikidataQnode: ["Q5066453"]
+
+   cntArmedGroup:
+     stringTokens: ["Chadian National Concord"]
+     wikidataQnode: ["Q105162358"]
+
+   anrArmedGroup:
+     stringTokens: ["National Resistance Alliance", "ANR"]
+
+   cdrArmedGroup:
+     stringTokens: ["Revolutionary Democratic Council", "CDR"]
+     wikidataQnode: ["Q5255813"]
+
