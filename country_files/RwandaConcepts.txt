@@ -7,7 +7,7 @@ concepts:
    wikidataQnode: ["Q192647"]
    languagesMostSpoken: []
    religionsMostPracticed: []
-   livesIn: 
+   livesIn: []
   tutsiEthnicGroup:
    stringTokens: ["Tutsi", "Abatutsi", "Watutsi", "Watusi", "Wahuma", "Wahima", "Imfure", "Batutsi", "Watoetsi", "Watussi", "Tutsis", "Banyamulenge", 
                 "Banyarwanda", "Imfure", "Tusi", Tussi", Mulenge", "Ruanda", "Tuti"]
