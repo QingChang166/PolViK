@@ -1,8 +1,8 @@
 concepts:
   BurundiSecurityForces:
    stringTokens: ["National Defense Force", "FDN", "Force de Défense Nationale", "Burundian police", "Burundi police", "National Police 
-   of Burundi", "PNB", "Police Nationale du Burundi", "Burundian security forces", "Burundi security forces", "National Intelligence 
-   Service", "SNR", "Service National de Renseignement", "Burundian Army","Burundi Army"]
+                 of Burundi", "PNB", "Police Nationale du Burundi", "Burundian security forces", "Burundi security forces", "National 
+                 Intelligence Service", "SNR", "Service National de Renseignement", "Burundian Army","Burundi Army"]
 ##ethnicgroups
   hutuEthnicGroup:
    stringTokens: ["Hutu", "Bahutu", "Abahutu", "Lera", "Ndara", "Ndoga", "Ndogo", "Shobyo", "Tshogo", "Urulera"]
@@ -12,7 +12,7 @@ concepts:
    livesIn: 
   tutsiEthnicGroup:
    stringTokens: ["Tutsi", "Abatutsi", "Watutsi", "Watusi", "Wahuma", "Wahima", "Imfure", "Batutsi", "Watoetsi", "Watussi", "Tutsis",     
-                "Banyamulenge", "Banyarwanda", "Imfure", "Tusi", "Tussi", "Mulenge", "Ruanda", "Tuti"]
+                 "Banyamulenge", "Banyarwanda", "Imfure", "Tusi", "Tussi", "Mulenge", "Ruanda", "Tuti"]
    wikidataQnode:  ["Q193092"]
   twaEthnicGroup: 
    stringTokens: ["Twa","Batwua", "Batwa" ]
@@ -26,8 +26,8 @@ concepts:
    associatedEthnicGroup: ["hutuEthnicGroup"]
   CNDDFDDParty:
    stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil for 
-   the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la Démocratie–Forces 
-   pour la Défense de la Démocratie"]
+                 the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la 
+                 Démocratie–Forces pour la Défense de la Démocratie"]
    associatedEthnicGroup: ["hutuEthnicGroup"]
   FNLParty:  ## need Rwanda/DRC disambig
    stringTokens: ["National Liberation Forces", "FNL", "Forces pour la Libération Nationale"]
@@ -35,18 +35,18 @@ concepts:
  ##ArmedGroups
    CNDDFDDArmedGroup:  ##how to disambig?
     stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil 
-    for the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la Démocratie– 
-    Forces pour la Défense de la Démocratie"]
+                  for the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la 
+                  Démocratie–Forces pour la Défense de la Démocratie"]
     associatedEthnicGroup: ["hutuEthnicGroup"]
-  FNLArmedGroup:
+   FNLArmedGroup:
     stringTokens: ["National Liberation Forces", "FNL", "Forces pour la Libération Nationale", "Palipehutu-FNL"]
     associatedEthnicGroup: ["hutuEthnicGroup"]
-  ImbonerakureArmedGroup:
-   stringTokens: ["Imbonerakure", "Youth Wing of the CNDD-FDD"]
-   associatedEthnicGroup: ["hutuEthnicGroup"]
-  JRRArmedGroup:
-   stringTokens: ["JRR", "Jeunesse Révolutionnaire Rwagasore", "Union for National Progress (UPRONA) Youth Wing"}
-   associatedEthnicGroup: ["tutsiEthnicGroup"]
+   ImbonerakureArmedGroup:
+    stringTokens: ["Imbonerakure", "Youth Wing of the CNDD-FDD"]
+    associatedEthnicGroup: ["hutuEthnicGroup"]
+   JRRArmedGroup:
+    stringTokens: ["JRR", "Jeunesse Révolutionnaire Rwagasore", "Union for National Progress (UPRONA) Youth Wing"}
+    associatedEthnicGroup: ["tutsiEthnicGroup"]
   
   
   
