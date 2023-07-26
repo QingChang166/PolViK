@@ -1,10 +1,9 @@
 concepts:
   DRCSecurityForces:
-    stringTokens: ["Congolese military", "Congolese police", "Congolese security forces", "Forces Armées de la République Démocratique 
-    du Congo", "FARDC", "Police Nationale Congolaise", "PNC", "Agence Nationale de Renseignments", "ANR", "Garde Républicaine", 
-    "Republican Guard", "Service Spécial de Sécurité du Président", "SSP", "Gendarmerie Nationale"]
-  ##ethnicgroup
- bembaEthnicGroup:
+   stringTokens: ["Congolese military", "Congolese police", "Congolese security forces", "Forces Armées de la République Démocratique 
+                  du Congo", "FARDC", "Police Nationale Congolaise", "PNC", "Agence Nationale de Renseignments", "ANR", "Garde 
+                  Républicaine","Republican Guard", "Service Spécial de Sécurité du Président", "SSP", "Gendarmerie Nationale"] ##ethnicgroup
+  bembaEthnicGroup:
    stringTokens: ["Bemba", "Bemba people", "Avemba", "Babemba", "Babemga", "Wawemba", "Walemba", "Wemba", "Wabemba", "Bembe", "Beembe"]
    wikidataQnode: ["Q644450"]
    languagesMostSpoken: ["Ichibemba"]
@@ -24,7 +23,7 @@ concepts:
    livesIn: ["South Kivu", "North Kivu"] 
   kongoEthnicGroup:
    stringTokens: ["Kongo", "Kongo people", "Bakongo", "Esikongo", "Mwisikngo", "Mukongo", "Congo", "Fjort", "Frote", "Ikeleve", 
-  "Kakongo", "Kileta", "Nkongo", "Wacongoamni", "Solongo", "Vili", "Sundi", "Woyo", "Zombo"]
+                 "Kakongo", "Kileta", "Nkongo", "Wacongoamni", "Solongo", "Vili", "Sundi", "Woyo", "Zombo"]
    wikidataQnode: ["Q640090"]
    languagesMostSpoken: []
    religionsMostPracticed: ["Christianity", "Kongo religion"]
@@ -37,7 +36,7 @@ concepts:
    livesIn: []
   lundaEthnicGroup:
    stringTokens: ["Lunda", "Lunda people", "Alunda", "Arund", "Balunda", "Kalunda", "Luunda", "Valunda", "Aluund", "Ruund", "Aluun", 
-   "Tulunda", "Northern Lunda", "Southern Lunda" ]
+                 "Tulunda", "Northern Lunda", "Southern Lunda" ]
    wikidataQnode: ["Q1292932"]
   mongoEthnicGroup:
    stringTokens: ["Mongo", "Mongo people", "Nkundo", "Lomongo", "Mango", "Nkundu"]
@@ -45,7 +44,7 @@ concepts:
    languagesMostSpoken: []
    religionsMostPracticed: ["Christianity", "traditional African religions"]
    livesIn: ["Equateur", "Tshopo", "Tshuapa", "Mongala", "Kwilu", "Maï Ndombe", "Kongo-Centrale", "Kasai", "Sankuru", "Maniema", "North 
-   Kivu", "South Kivu", "Tanganyika", "Ituri" ] ##provinces, and Tanganyika was a sovereign state until 1964
+            Kivu", "South Kivu", "Tanganyika", "Ituri" ] ##provinces, and Tanganyika was a sovereign state until 1964
   nandeEthnicGroup:
    stringTokens: ["Nande", "Nande people"]
    wikidataQnode: ["Q3335624"]
@@ -60,7 +59,7 @@ concepts:
    livesIn: ["Kivu"]
   pendeEthnicGroup:
    stringTokens: ["Pende", "Pende people", "Bapende", "Apende", "Aphende", "Ba-Pendi", "Bampende", "Gipende", "Kipende", "Kasai Pende", 
-   "Masindju", "Phende", "Pindi", "Pinji", "Tupende"]
+                 "Masindju", "Phende", "Pindi", "Pinji", "Tupende"]
    wikidataQnode: ["Q377119"] 
   songyeEthnicGroup:
    stringTokens: ["Songye", "Songye people", "Songe"]
@@ -80,8 +79,6 @@ concepts:
    languagesMostSpoken: []
    religionsMostPracticed: ["Christian", "traditional African religions"]
    livesIn: ["Bas-Uele", "Haut-Uele"]
-   attribute: ["zandeEthnicGroup", "Christian"] 
-   attribute: ["zandeEthnicGroup", "traditional African religions"]
 ##political parties  ##does this time coding work
   PPRDParty: 
    stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
