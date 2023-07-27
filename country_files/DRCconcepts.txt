@@ -18,22 +18,17 @@ concepts:
   hundeEthnicGroup:  ##start here with attributes
    stringTokens: ["Hunde", "Hunde people"]
    wikidataQnode: ["Q3143295]
-   languagesMostSpoken: []
    religionsMostPracticed: ["Bantu spirituality", "Christianity", "Islam"]
    livesIn: ["South Kivu", "North Kivu"] 
   kongoEthnicGroup:
    stringTokens: ["Kongo", "Kongo people", "Bakongo", "Esikongo", "Mwisikngo", "Mukongo", "Congo", "Fjort", "Frote", "Ikeleve", 
                  "Kakongo", "Kileta", "Nkongo", "Wacongoamni", "Solongo", "Vili", "Sundi", "Woyo", "Zombo"]
    wikidataQnode: ["Q640090"]
-   languagesMostSpoken: []
    religionsMostPracticed: ["Christianity", "Kongo religion"]
-   livesIn: [] 
   lubaEthnicGroup:
    stringTokens: ["Luba", "Luba people", "Baluba"]
    wikidataQnode: ["Q805841"]
-   languagesMostSpoken: []
    religionsMostPracticed: ["Christianity", "Bantu spirituality", "traditional African religions"]
-   livesIn: []
   lundaEthnicGroup:
    stringTokens: ["Lunda", "Lunda people", "Alunda", "Arund", "Balunda", "Kalunda", "Luunda", "Valunda", "Aluund", "Ruund", "Aluun", 
                  "Tulunda", "Northern Lunda", "Southern Lunda" ]
@@ -41,7 +36,6 @@ concepts:
   mongoEthnicGroup:
    stringTokens: ["Mongo", "Mongo people", "Nkundo", "Lomongo", "Mango", "Nkundu"]
    wikidataQnode: ["Q927706"]
-   languagesMostSpoken: []
    religionsMostPracticed: ["Christianity", "traditional African religions"]
    livesIn: ["Equateur", "Tshopo", "Tshuapa", "Mongala", "Kwilu", "Maï Ndombe", "Kongo-Centrale", "Kasai", "Sankuru", "Maniema", "North 
             Kivu", "South Kivu", "Tanganyika", "Ituri" ] ##provinces, and Tanganyika was a sovereign state until 1964
@@ -54,8 +48,6 @@ concepts:
   nyangaEthnicGroup:
    stringTokens: ["Nyanga", "Nyanga people", "Banianga", "Banuanga", "Inyanga", "Kinyanga", "Nianga", "Wanyanga"]
    wikidataQnode: ["Q3346583"] 
-   languagesMostSpoken: []
-   religionsMostPracticed: []
    livesIn: ["Kivu"]
   pendeEthnicGroup:
    stringTokens: ["Pende", "Pende people", "Bapende", "Apende", "Aphende", "Ba-Pendi", "Bampende", "Gipende", "Kipende", "Kasai Pende", 
@@ -67,24 +59,25 @@ concepts:
   tshokweEthnicGroup:
    stringTokens: ["Tshokwe", "Tshokwe people", "Chokwe", "Ciokwe", "Cokwe", "Bajokwe", "Badjok", "Quioco"]
    wikidataQnode: ["Q1075883"]
-   languagesMostSpoken: []
    religionsMostPracticed: ["Christian", "animist"]
-   livesIn: []
   yakaEthnicGroup:
    stringTokens: ["Yaka", "Yaka people", "Bayaka"]
    wikidataQnode: ["Q2749225"] 
   zandeEthnicGroup:
    stringTokens: ["Zande", "Zande people", "Niam-niam", "Niam-niam peope", "Sandeh", "Azande"]
    wikidataQnode: ["Q793575"]
-   languagesMostSpoken: []
    religionsMostPracticed: ["Christian", "traditional African religions"]
    livesIn: ["Bas-Uele", "Haut-Uele"]
 ##political parties  ##does this time coding work
   PPRDParty: 
    stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
    attribute: ["PPRDParty", "2002-2019"]
   UDPSParty:
    stringTokens: ["Union for Democracy and Social Progress", "UDPS"]
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
    attribute: ["UDPSParty", "1982-Present"]
    attribute: "UDPSParty", "Luba"]
   MLCParty:
