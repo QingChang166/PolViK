@@ -1,0 +1,188 @@
+Cameroonarmedforcesconcepts:
+    SecurityForces:
+     stringTokens: ["Cameroon Armed Forces", "FAC"]
+     wikidataQnode: ["Q1051657"]
+  
+  ## ethnicgroups
+    semibantiEthnicGroup:
+     stringTokens: ["Semi-Bantu"]
+     wikidataQnode: ["Q15975413"]
+     languagesMostSpoken: [""]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+  
+    bamilekeEthnicGroup:
+     stringTokens: ["Bamileke people"] # it is a semi-Bantu community
+     wikidataQnode: ["Q806017"]
+     languagesMostSpoken: ["Bamileke languages"]
+     religionsMostPracticed: ["Traditional"]
+     livesIn: ["West", "North-West", "South-West"]
+  
+    bamumEthnicGroup:
+     stringTokens: ["Bamum people"]
+     wikidataQnode: ["Q322083"]
+     languagesMostSpoken: ["Bamum"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Bamboutos"]
+  
+    tikarEthnicGroup:
+     stringTokens: ["Tikar people", "Tikar"]
+     wikidataQnode: ["Q241843"]
+     languagesMostSpoken: ["Tikar"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Mbam-et-Kim"]
+  
+    bassaEthnicGroup:
+     stringTokens: ["Bassa people", "Bassa"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Bantu languages"]
+     religionsMostPracticed: ["African religion"]
+     livesIn: [""]
+  
+    dualaEthnicGroup:
+     stringTokens: ["Duala", "Duala people"]
+     wikidataQnode: ["Q1262591"]
+     languagesMostSpoken: ["Duala"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Littoral", "Moungo", "Nkam", "Wouri"]
+
+    betipahuinEthnicGroup:
+     stringTokens: ["Beti-Pahuin", "Fang-Beti", ""]
+     wikidataQnode: ["Q1042768"]
+     languagesMostSpoken: ["Beti language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    bantuEthnicGroup:
+     stringTokens: ["Bantu", "Bantu people"] # Bantu people include different Bantu ethnic groups such as Beti-Pahuin, Fang, Douala, Baka. 
+     wikidataQnode: ["Q173371"]
+     languagesMostSpoken: ["Bantu languages"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""] # very widespread in the country
+
+    makaaEthnicGroup:
+     stringTokens: ["Makaa", "Makaa people"]
+     wikidataQnode: ["Q1324834"]
+     languagesMostSpoken: ["Byep", "Makaa"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Southern rain forest zone"]
+
+    fangEthnicGroup:
+     stringTokens: ["Fang people", "Fang"]
+     wikidataQnode: ["Q1295544"]
+     languagesMostSpoken: ["Fang language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Ambam"]
+
+    njemEthnicGroup:
+     stringTokens: ["Njem", "Njem people"]
+     wikidataQnode: ["Q1994271"]
+     languagesMostSpoken: ["Njyem"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Lomié", "Ngoyla", "Djadom"]
+
+    bakaEthnicGroup:
+     stringTokens: ["Baka", "Baka people", "Baka Pygmy"]
+     wikidataQnode: ["Q203747"]
+     languagesMostSpoken: ["Baka"]
+     religionsMostPracticed: ["African traditional religion"]
+     livesIn: ["Meyiboto", "Nyong River"]
+
+    fulaEthnicGroup:
+     stringTokens: ["Fula", "Fula languages", "Fulbe"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula languages"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Diamare", "Logone-et-Chari", "Bénoué"]
+
+    kirdiEthnicGroup:
+     stringTokens: ["Kirdi", "Kirdi people"]
+     wikidataQnode: ["Q1430603"]
+     languagesMostSpoken: ["Chadic languages"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["North", "Extreme North Region"]
+
+    igboEthnicGroup:
+     stringTokens: ["Igbo people", "Igbo"]
+     wikidataQnode: ["Q244157"]
+     languagesMostSpoken: ["Igbo languages"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Douala"]
+
+    oronEthnicGroup:
+     stringTokens: ["Oron", "Oron people"]
+     wikidataQnode: ["Q7103776"]
+     languagesMostSpoken: ["Oro"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Bakassi region"]
+    
+  ## politicalparties
+    sdfParty:
+     stringTokens: ["Social Democratic Front"]
+     wikidataQnode:  ["Q1470113"]
+  
+    cuParty:
+     stringTokens: ["Cameroonian Union"]
+     wikidataQnode:  ["Q5026464"]
+  
+    upcParty:
+     stringTokens: ["Union of the Peoples of Cameroon"]
+     wikidataQnode:  ["Q1860584"]
+
+    cnuParty:
+     stringTokens: ["Cameroonian National Union", "CNU"]
+     wikidataQnode:  [""]
+  
+    kndpParty:
+     stringTokens: ["Kamerun National Democratic Party", "KNDP"]
+     wikidataQnode:  ["Q12350429"]
+  
+    cpncParty:
+     stringTokens: ["Cameroon People's National Convention"]
+     wikidataQnode:  ["Q18737112"]
+  
+    nudpParty:
+     stringTokens: ["National Union for Democracy and Progress"]
+     wikidataQnode:  ["Q6979097"]
+  
+    cpdmParty:
+     stringTokens: ["People's Democratic Movement", "CPDM", "Cameroon People's Democratic Movement "]
+     wikidataQnode:  ["Q953447"]
+  
+  ## armed groups
+    bamosdArmedGroup:
+     stringTokens: ["BAKASSI FREEDOM FIGHTERS", "BAMOSD"]
+     associatedEthnicGroup: ["Oron people"]
+     wikidataQnode: ["Q4849025"]
+  
+    mddArmedGroup:
+     stringTokens: ["MOVEMENT FOR DEMOCRACY AND DEVELOPMENT", "MDD"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q29414"]
+  
+    mendArmedGroup:
+     stringTokens: ["MOVEMENT FOR THE EMANCIPATION OF THE NIGER DELTA", "MEND"]
+     associatedEthnicGroup: [""] 
+     wikidataQnode: ["Q29414"]
+  
+    adfArmedGroup:
+     stringTokens: ["Ambazonia Defence Forces", "ADF"]
+     associatedEthnicGroup: ["Ambazonian"]
+     wikidataQnode: ["Q55603782"]
+  
+    sclcArmedGroup:
+     stringTokens: ["Southern Cameroons Defence Forces", "SCLC"]
+     associatedEthnicGroup: ["Ambazonian"]
+     wikidataQnode: ["Q63443289"]
+  
+    bhArmedGroup:
+     stringTokens: ["Boko Haram"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q212372"]
+
+    iswapArmedGroup:
+     stringTokens: ["Islamic State West Africa "]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q86661119"]
+
+    
