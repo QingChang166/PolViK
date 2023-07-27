@@ -79,24 +79,30 @@ concepts:
    yearsActiveasEntity: [""]
    yearsActiveasParty: [""]
    attribute: ["UDPSParty", "1982-Present"]
-   attribute: "UDPSParty", "Luba"]
   MLCParty:
    stringTokens: ["Movement for the Liberation of the Congo", "MLC"]
-   attribute: ["MLCParty", "MLCArmedGroup"]
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
    attribute: ["MLCParty", "1998-Present"]
-   attribute: ["MLCParty", "Equateur"]
   UNCParty:
    stringTokens: ["Union for the Congolese Nation", "UNC"]
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
    attribute: ["MLCParty", "2010-Present"]
   PDSCParty:
    stringTokens: ["Democratic Social Christian Party", "PDSC"]
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
    attribute: ["PDSCParty", "1990-2010"]
   PCTParty: 
    stringTokens: ["Congolese Party of Labour", "PCT", "Popular Movement of the Revolution", "MPR"]
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
    attribute: ["PCTParty", "1965-1997"]
   RCDParty: 
    stringTokens: ["Rally for Congolese Democracy", "RCD"]
-   attribute: ["RCDParty", "RCDArmedGroup"]
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
    attribute: ["RCDParty", "2002-Present"]
 ##armed groups
    ADFArmedGroup:   ##should this go in Uganda instead
