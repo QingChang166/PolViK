@@ -14,67 +14,65 @@ concepts:
   gbayaEthnicGroup:
    stringTokens: ["Gbaya", "Gbaya people", "Baya", "Baya people", "Gbaya-Bossangoa", "Bokoto"]
    wikidataQnode: ["Q1496762"]
-   attribute: {"gbayaEthnicGroup, Ouham, Ouham Pendé, Nana-Mambéré, Mambéré-Kadéï, Sangha-Mbaéré, Kémo, Lobaye"}
+   livesIn: ["Ouham", "Ouham Pendé", "Nana-Mambéré", "Mambéré-Kadéï", "Sangha-Mbaéré", "Kémo", "Lobaye"]
   bandalindaLanguageGroup:
    stringTokens: ["Banda Linda", "Banda Bambari", "Linda", "Banda-Bambari Linda"]
    wikidataQnode: ["Q4854293"]
-   attribute: {"bandalindaLanguageGroup, Haut-Mbomou, Ouaka, Basse-Kotto"}
+   livesIn: ["Haut-Mbomou", "Ouaka, "Basse-Kotto"]
   fulaniEthnicGroup:
    stringTokens: ["Fulani", "Fulani people", "Fula", "Peuhlg"]
    wikidataQnode: ["Q202575"]
-   attribute: {"fulaniEthnicGroup, Ouham Pendé"}
+   livesIn: ["Ouham Pendé"]
   bandabandaLanguageGroup:
    stringTokens: ["Banda-Banda"]
    wikidataQnode: ["Q3450674"]
-   attribute: {"bandabandaLanguageGroup, Nana-Gribizi, Haut-Mbomou, Mbomou, Ouaka, Basse-Kotto, Ouham, Ouham Pendé, Kémo, Ombella M'Poko"}
+   livesIn: ["Nana-Gribizi", "Haut-Mbomou", "Mbomou", "Ouaka", "Basse-Kotto", "Ouham", "Ouham Pendé", "Kémo", "Ombella M'Poko"]
   yakomaEthnicGroup:
    stringTokens: ["Yakoma", "Yakoma people"]
    wikidataQnode: ["Q1165330"]
-   attribute: {"yakomaEthnicGroup, Basse-Kotto, Mbomou, Ombella M'Poko, Bangui"}
+   livesIn: ["Basse-Kotto", "Mbomou", "Ombella M'Poko", "Bangui"]
   bandaEthnicGroup:
    stringTokens: ["Banda", "Banda people"]
    wikidataQnode: ["Q806236"]
-   attribute: {"bandaEthnicGroup, Basse-Kotto, Mbomou, Ouaka"}
+   livesIn: ["Basse-Kotto", "Mbomou", "Ouaka"]
   gbanuLanguageGroup:
    stringTokens: ["Gbanu"]
    wikidataQnode: ["Q3914945"]
-   attribute: {"gbanuLanguageGroup, Basse-Kotto, Mbomou, Ouaka"}
+   livesIn: ["Basse-Kotto", "Mbomou", "Ouaka"]
   bandangbuguLanguageGroup:
    stringTokens: ["Banda-Ngbugu", "Ngbugu language", "South Banda",  "Langba", "Ngbandi"]
    wikidataQnode: ["Q36481"]
-   attribute: {"bandangbuguLanguageGroup, Basse-Kotto, Mbomou"}
+   livesIn: ["Basse-Kotto", "Mbomou"]
   kareLanguageGroup:
    stringTokens: ["Kari", "Kare"]
    wikidataQnode: ["Q35554"]
-   attribute: {"kareLanguageGroup, Ouham, Ouham Pendé"}
+   livesIn: ["Ouham", "Ouham Pendé"]
   ngbakaEthnicGroup:
    stringTokens: ["Ngbaka", "Ngbaka Mabo", "Bwaka", "Mbaka", "Ngbaka people"]
    wikidataQnode: ["Q1165960"]
-   attribute: {"ngbakaEthnicGroup, Ombella M'Poko, Lobaye"}
+   livesIn: ["Ombella M'Poko", "Lobaye"]
   panaLanguageGroup:
    stringTokens: ["Pana"]
    wikidataQnode: ["Q36241"]
-   attribute: {"panaLanguageGroup, Ouham, Ouham Pendé"}
+   livesIn: ["Ouham", "Ouham Pendé"]
   baggaraEthnicGroup:
    stringTokens: ["baggaraEthnicGroup", "Baggara people", "Baggara Arabs", "Shuwa Arab"]
    wikidataQnode: ["Q799892"]
-   attribute: {"baggaraEthnicGroup, "}
   kabaLanguageGroup:
    stringTokens: ["Sara Kaba", "Kaba", "Kaba language"]
    wikidataQnode: ["Q25559318"]
-   attribute: {"kabaLanguageGroup, Bamingui-Bangoran, Vakaga"}
+   livesIn: ["Bamingui-Bangoran", "Vakaga"]
   azandeEthnicGroup:
    stringTokens: ["Azande", "Azande people"]
    wikidataQnode: ["Q12077124"]
-   attribute: {"azandeEthnicGroup, Haute-Kotto, Mbomou"}
+   livesIn: ["Haute-Kotto", "Mbomou"]
   zandeLanguageGroup:
    stringTokens: ["Zande", "Zande language"]
    wikidataQnode: ["Q35015"]
-   attribute: {"zandeLanguageGroup, Haute-Mbomou, Mbomou"}
+   livesIn: ["Haute-Mbomou", "Mbomou"]
   mbatiEthnicGroup:
    stringTokens: ["Mbati", "Mbati people", "Isongo"]
    wikidataQnode: ["Q62997639"]
-   attribute: {"mbatiEthnicGroup, "}
   nzakaraLanguageGroup:
    stringTokens: ["Nzakara", "Nzakara language"]
    wikidataQnode: ["Q3913339"]
@@ -87,7 +85,7 @@ concepts:
   aliLanguageGroup:
    stringTokens: ["Ali", "Ali language"]
    wikidataQnode: ["Q34814"]
-   attribute: {"aliLanguageGroup, Ombella M'Poko"}
+   livesIn: ["Ombella M'Poko"]
 ##armedgroup
   upcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UPC", "Union for Peace in the Central African Republic"]
