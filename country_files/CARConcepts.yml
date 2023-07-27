@@ -89,69 +89,48 @@ concepts:
 ##armedgroup
   upcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UPC", "Union for Peace in the Central African Republic"]
-   attribute: ["upcArmedNonGovernmentalOrganizedGroup", "Q56305291"]
    associtedgroup: ["Fulani people"] 
   antibalakaArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Anti-Balaka armed group", "Anti-Balaka", "XX_branches"]
-   attribute: ["antibalakaArmedNonGovernmentalOrganizedGroup", "Q15311839"]
   mlcjArmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["Movement of Central African Liberators for Justice", "Central African Liberators for Justice Movement", "MLCJ"]
-   attribute: ["mlcjArmedNonGovernmentalOrganizedGroup", "Q3326634"]
+   stringTokens: ["Movement of Central African Liberators for Justice", "Central African Liberators for Justice Movement", "MLCJ"] 
   mpcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Central African Patriotic Movement", "MPC"]
-   attribute: ["mpcArmedNonGovernmentalOrganizedGroup", "Q56305293"]
   fprcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Popular Front for the Renaissance in the Central African Republic", "Popular Front for the Rebirth of Central African Republic", "FPRC"]
-   attribute: ["fprcArmedNonGovernmentalOrganizedGroup", "Q56305647"]
   fdpcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Front Démocratique du Peuple Centrafricain", "FDPC", "Democratic Front of the Central African People"]
-   attribute: ["fdpcArmedNonGovernmentalOrganizedGroup", "Q3088479"]
   3rArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Return, Reclamation and Rehabilitation", "3R"]
-   attribute: ["3rArmedNonGovernmentalOrganizedGroup", "Q67198684"]
   selekaArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Séléka", "Ex-Séléka coalition group"]
-   attribute: ["selekaArmedNonGovernmentalOrganizedGroup", "Q7666027"]
   rjArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["RJ", "Revolution and Justice", "RJ-Belanga", "RJ-Sayo Branch"]
-   attribute: ["rjArmedNonGovernmentalOrganizedGroup", "Q25377343"]
   rprcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Patriotic Rally for the Renewal of the Central African Republic", "RPRC"]
-   attribute: ["rprcArmedNonGovernmentalOrganizedGroup", "Q56305385"]
   cpcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Coalition of Patriots for Change", "CPC"]
-   attribute: ["cpcArmedNonGovernmentalOrganizedGroup", "Q104519767"]
   lraArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Lord's Resistance Army insurgency", "LRA"]
-   attribute: ["lraArmedNonGovernmentalOrganizedGroup", "Q303801"]
   mrprcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People’s Resistance Movement for the Refoundation of the Central African Republic", "MRPRC"]
-   attribute: ["mrprcArmedNonGovernmentalOrganizedGroup", "Q18391354"]
   parrdArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Army for the Restoration of the Republic and Democracy", "PARRD"]
-   attribute: ["parrdArmedNonGovernmentalOrganizedGroup", "Q2862843"]
   fprArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Popular Front for Recovery", "FPR"]
-   attribute: ["fprArmedNonGovernmentalOrganizedGroup", "Q15138850"]
   ufdrArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Union of Democratic Forces for Unity", "UFDR"]
-   attribute: ["ufdrArmedNonGovernmentalOrganizedGroup", "Q1771298"]
   aprdArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Army for the Restoration of Democracy", "APRD"]
-   attribute: ["aprdArmedNonGovernmentalOrganizedGroup", "Q2862843"]
   prncArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Party of the Rally of the Central African Nation", "PRNC"]
-   attribute: ["prncArmedNonGovernmentalOrganizedGroup", "Q115805634"]
   cpskArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Patriotic Convention for Saving the Country", "CPSK"]
-   attribute: ["cpskArmedNonGovernmentalOrganizedGroup", "Q16204352"]
   cpjpArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Convention of Patriots for Justice and Peace", "CPJP"]
-   attribute: ["cpjpArmedNonGovernmentalOrganizedGroup", "Q1129388"]
   ufrArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UFR", "Union des Forces Républicaines", "Union of Republican Forces"]
-   attribute: ["ufrArmedNonGovernmentalOrganizedGroup", ""]
-   attribute: ["ufrArmedNonGovernmentalOrganizedGroup", "2006-2008"]
+   yearsActiveasArmedGroup: ["2006-2008"]
 
 
 
