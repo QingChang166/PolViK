@@ -1,191 +1,113 @@
 concepts:
     IvoryCoastArmedForces:
       stringTokens: ["Republican Forces of Ivory Coast", "Armed Forces of Côte d'Ivoire", "FACI", "FRCI"]
-      attribute: ["IvoryCoastArmedForces", "Q897759"]
-    
     ### ethnic groups
     mandeEthnicGroup:
       stringTokens: ["Mande peoples", "Mande", "Mandé peoples", "Dyula", "Maninka"]
-      attribute: ["mandeEthnicGroup", "Q1407391"]
-      attribute: ["mandeEthnicGroup", "Islam"]
-      attribute: ["mandeEthnicGroup", "Séguéla"]
-      attribute: ["mandeEthnicGroup", "Kouto"]
-      attribute: ["mandeEthnicGroup", "Touba"]
-      attribute: ["mandeEthnicGroup", "Ouaninou"]
-      attribute: ["mandeEthnicGroup", "Toulepleu"]
-      attribute: ["mandeEthnicGroup", "Boundiali"]
-      attribute: ["mandeEthnicGroup", "Kabadougou"]
-      attribute: ["mandeEthnicGroup", "Bafing"]
-      attribute: ["mandeEthnicGroup", "Worodougou"]
-
+      wikidataQnode: ["Q1407391"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Séguéla", "Kouto", "Touba", "Ouaninou", "Toulepleu", "Boundiali", "Kabadougou", "Bafing", "Worodougou"]
     danEthnicGroup:
       stringTokens: ["Dan people", "Dan", "Yakuba", "Dan-Gioh", "Gio", "Gyo", "Gere", "Yacouba", "Yacuba"]
-      attribute: ["danEthnicGroup", "Q1804699"]
-      attribute: ["danEthnicGroup", "Moyen-Cavally"]
-      attribute: ["danEthnicGroup", "Dix-Huit Montagnes"]
-      attribute: ["danEthnicGroup", "Man"]
-      attribute: ["danEthnicGroup", "Danané"]
-      attribute: ["danEthnicGroup", "Biankouma"]
-      attribute: ["danEthnicGroup", "Zouan-Hounien"]
-      attribute: ["danEthnicGroup", "Tonkpi"]
-
+      wikidataQnode: ["Q1804699"]
+      languagesMostSpoken: []
+      religionsMostPracticed: []
+      livesIn: ["Moyen-Cavally", "Dix-Huit Montagnes", "Dix-Huit Montagnes", "Man", "Danané", "Biankouma", "Zouan-Hounien", "Tonkpi"]
     senufoEthnicGroup:
       stringTokens: ["Senufo people", "Senufo", "Siena", "Senefo", "Sene", "Senoufo", "Syénambélé"]
-      attribute: ["senufoEthnicGroup", "Q1266038"]
-      attribute: ["senufoEthnicGroup", "Animist"]
-      attribute: ["senufoEthnicGroup", "Islam"]
-      attribute: ["senufoEthnicGroup", "Korhogo"]
-      attribute: ["senufoEthnicGroup", "Boundiali"]
-      attribute: ["senufoEthnicGroup", "Bagoué Region"]
-      attribute: ["senufoEthnicGroup", "Ferkessedougou"]
-      attribute: ["senufoEthnicGroup", "Tengrela"]
-      attribute: ["senufoEthnicGroup", "Odienné"]
-      attribute: ["senufoEthnicGroup", "Savanes Region"]
-      attribute: ["senufoEthnicGroup", "Minignan"]
-      attribute: ["senufoEthnicGroup", "Béré Region"]
-
+      wikidataQnode: ["Q1266038"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Animist", "Islam"]
+      livesIn: ["Korhogo", "Boundiali", "Bagoué Region", "Ferkessedougou", "Tengrela", "Odienné", "Savanes Region", "Minignan", "Béré Region"]
     akanEthnicGroup:
       stringTokens: ["Akan", "Akan people", "Akans"]
-      attribute: ["akanEthnicGroup", "Q415693"]
-      attribute: ["akanEthnicGroup", "Christianity"]
-      attribute: ["akanEthnicGroup", "Akan religion"]
-      attribute: ["akanEthnicGroup", "Islam"]
-      attribute: ["akanEthnicGroup", "Agnéby Region"]
-      attribute: ["akanEthnicGroup", "Agboville"]
-      attribute: ["akanEthnicGroup", "Adzopé"]
-      attribute: ["akanEthnicGroup", "Bélier Region"]
-      attribute: ["akanEthnicGroup", "Tiebissou"]
-      attribute: ["akanEthnicGroup", "Gôh-Djiboua Region"]
-      attribute: ["akanEthnicGroup", "Gagnoa"]
-      attribute: ["akanEthnicGroup", "Divo"]
-      attribute: ["akanEthnicGroup", "Lacs Region"]
-      attribute: ["akanEthnicGroup", "Yamoussoukro"]
-      attribute: ["akanEthnicGroup", "N'zi-Comoé Region"]
-      attribute: ["akanEthnicGroup", "Dimbokro"]
-      attribute: ["akanEthnicGroup", "Sud-Comoé Region"]
-      attribute: ["akanEthnicGroup", "Aboisso"]
-        
+      wikidataQnode: ["Q415693"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Christianity", "Akan religion", "Islam",]
+      livesIn: ["Agnéby Region", "Agboville", "Adzopé", "Bélier Region", "Tiebissou", "Gôh-Djiboua Region", "Gagnoa", "Divo", "Lacs Region", "Yamoussoukro", "N'zi-Comoé Region", "Dimbokro", "Sud-Comoé Region", "Aboisso"]
     kruEthnicGroup:
       stringTokens: ["Kru", "Kru people", "Caraw", "Krao", "Krou", "Kroomen", "Krumen"]
-      attribute: ["kruEthnicGroup", "Q1537493"]
-      attribute: ["kruEthnicGroup", "Christianity"]
-      attribute: ["kruEthnicGroup", "African traditional religions"]
-      attribute: ["kruEthnicGroup", "Sunni Islam"]
-      attribute: ["kruEthnicGroup", "Bas-Sassandra"]
-      attribute: ["kruEthnicGroup", "San-Pédro"]
-      attribute: ["kruEthnicGroup", "Sassandra-Marahoué"]
-      attribute: ["kruEthnicGroup", "Tabou"]
-      attribute: ["kruEthnicGroup", "Grand-Béréby"]
-      attribute: ["kruEthnicGroup", "San-Pédro"]
-
+      wikidataQnode: ["Q1537493"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Christianity", "African traditional religions", "Sunni Islam" ]
+      livesIn: ["Bas-Sassandra", "San-Pédro", "Sassandra-Marahoué", "Tabou", "Grand-Béréby", "San-Pédro"]
     beteEthnicGroup:
       stringTokens: ["Bété people", "Bété", "Betegbo", "Bhete"]
-      attribute: ["beteEthnicGroup", "Q1019506"]
-      attribute: ["beteEthnicGroup", "Christianity"]
-      attribute: ["beteEthnicGroup", "Traditional religions"]
-      attribute: ["beteEthnicGroup", "Gôh-Djiboua"]
-      attribute: ["beteEthnicGroup", "Lôh-Djiboua"]
-      attribute: ["beteEthnicGroup", "Haut-Sassandra"]
-      attribute: ["beteEthnicGroup", "Marahoué"]
-      attribute: ["beteEthnicGroup", "Montagnes"]
-      attribute: ["beteEthnicGroup", "Guiglo"]
-      attribute: ["beteEthnicGroup", "Duekoué"]
-
+      wikidataQnode: ["Q1019506"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Christianity", "Traditional religions",  ]
+      livesIn: ["Gôh-Djiboua", "Lôh-Djiboua", "Haut-Sassandra", "Marahoué", "Montagnes", "Guiglo", "Duekoué"]
     baouleEthnicGroup:
       stringTokens: ["Baoulé people", "Baoulé", "Baule", "Kwa"]
-      attribute: ["baouleEthnicGroup", "Q811460"]
-      attribute: ["baouleEthnicGroup", "Christianity"]
-      attribute: ["baouleEthnicGroup", "Traditional religions"]
-      attribute: ["baouleEthnicGroup", "Gbêkê"]
-      attribute: ["baouleEthnicGroup", "Lôh-Djiboua"]
-      attribute: ["baouleEthnicGroup", "Sassandra-Marahoué"]
-      attribute: ["baouleEthnicGroup", "Haut-Sassandra"]
-      attribute: ["baouleEthnicGroup", "Yamoussoukro"]
-
+      wikidataQnode: ["Q811460"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Christianity", "Traditional religions", ]
+      livesIn: ["Gbêkê", "Lôh-Djiboua", "Sassandra-Marahoué", "Haut-Sassandra", "Yamoussoukro"]
     anyiEthnicGroup:
       stringTokens: ["Anyi people", "Anyi", "Agnis", "Agni", "Ani", "Ndenie"]
-      attribute: ["anyiEthnicGroup", "Q613920"]
-      attribute: ["anyiEthnicGroup", "Christianity"]
-      attribute: ["anyiEthnicGroup", "Akan religion"]
-      attribute: ["anyiEthnicGroup", "Moyen-Comoé"]
-      attribute: ["anyiEthnicGroup", "Indénié-Djuablin"]
-      attribute: ["anyiEthnicGroup", "Moronou"]
-      attribute: ["anyiEthnicGroup", "Abengourou"]
-      attribute: ["anyiEthnicGroup", "Agnibilékrou"]
-      attribute: ["anyiEthnicGroup", "Bongouanou"]
-
+      wikidataQnode: ["Q613920"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Christianity", "Akan religion", ]
+      livesIn: ["Moyen-Comoé", "Indénié-Djuablin", "Moronou", "Abengourou", "Agnibilékrou", "Bongouanou"]
     abbeEthnicGroup:
       stringTokens: ["Abbe", "Abbe people", "Abbé people"]
-      attribute: ["abbeEthnicGroup", "Q336851"]
-      attribute: ["abbeEthnicGroup", "Agboville"]
-      attribute: ["abbeEthnicGroup", "Korhogo"]
-      attribute: ["abbeEthnicGroup", "Ferkessédougou"]
-      attribute: ["abbeEthnicGroup", "Boundiali"]
-
+      wikidataQnode: ["Q336851"]
+      languagesMostSpoken: []
+      religionsMostPracticed: []
+      livesIn: ["Agboville", "Korhogo", "Ferkessédougou", "Boundiali"]
     attieEthnicGroup:
       stringTokens: ["Attie", "Attie people", "Akie people", "Ake", "Atie", "Atye", "Akye", "Attie", "Atshe", "Kuroba"]
-      attribute: ["attieEthnicGroup", "Q417996"]
-      attribute: ["attieEthnicGroup", "Guiglo"]
-      attribute: ["attieEthnicGroup", "Taï"]
-      attribute: ["attieEthnicGroup", "Daloa"]
-      attribute: ["attieEthnicGroup", "Man"]
-      attribute: ["attieEthnicGroup", "Bangolo"]
-
+      wikidataQnode: ["Q417996"]
+      languagesMostSpoken: []
+      religionsMostPracticed: []
+      livesIn: ["Guiglo", "Taï", "Daloa", "Man", "Bangolo"]
     hausaEthnicGroup:
       stringTokens: ["Hausa people", "Hausa", "Haoussa", "Haussa", "Houssa", "Hausaawaa", "Hausawa", "Hawsa", "Mgbakpa"]
-      attribute: ["hausaEthnicGroup", "Q33938"]
-      attribute: ["hausaEthnicGroup", "Islam"]
-      attribute: ["hausaEthnicGroup", "Tchologo"]
-      attribute: ["hausaEthnicGroup", "Bagoué"]
-      attribute: ["hausaEthnicGroup", "Kabadougou"]
-      attribute: ["hausaEthnicGroup", "Poro"]
-      attribute: ["hausaEthnicGroup", "Boundiali"]
-      attribute: ["hausaEthnicGroup", "Ferkessédougou"]
-      attribute: ["hausaEthnicGroup", "Korhogo"]
-      attribute: ["hausaEthnicGroup", "Ouangolodougou"]
-
+      wikidataQnode: ["Q33938"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Islam", ]
+      livesIn: ["Tchologo", "Bagoué", "Kabadougou", "Poro", "Boundiali", "Ferkessédougou", "Korhogo", "Ouangolodougou" ]
     bonoEthnicGroup:
       stringTokens: ["Bono", "Bobo people", "Brong people", "Brong", "Abron", "Bron"]
-      attribute: ["bonoEthnicGroup", "Q927326"]
-      attribute: ["bonoEthnicGroup", "Bono ancestral worship and spirituality"]
-      attribute: ["bonoEthnicGroup", "Christianity"]
-      attribute: ["bonoEthnicGroup", "Doropo"]
-      attribute: ["bonoEthnicGroup", "Zanzan"]
-
+      wikidataQnode: ["Q927326"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Bono ancestral worship and spirituality", "Christianity"]
+      livesIn: ["Doropo", "Zanzan"]
     ### linguistic groups
     danLinguisticGroup:
       stringTokens: ["Dan language", "Dan"]
-      attribute: ["danLinguisticGroup", "Q1158971"]
+      wikidataQnode: ["Q1158971"]
 
     guroLinguisticGroup:
       stringTokens: ["Guro language", "Guro"]
-      attribute: ["guroLinguisticGroup", "Q35251"]
+      wikidataQnode: ["Q35251"]
 
     guereLinguisticGroup:
       stringTokens: ["Guere language", "Guere"]
-      attribute: ["guereLinguisticGroup", "Q36919"]
+      wikidataQnode: ["Q36919"]
 
     wobeLinguisticGroup:
       stringTokens: ["Wobe language", "Wobe", "Wobé"]
-      attribute: ["wobeLinguisticGroup", "Q3915363"]
+      wikidataQnode: ["Q3915363"]
 
     senufoLinguisticGroup:
       stringTokens: ["Senufo languages", "Senufo"]
-      attribute: ["senufoLinguisticGroup", "Q33795"]
+      wikidataQnode: ["Q33795"]
 
     akanfoLinguisticGroup:
       stringTokens: ["Akan languages", "Akan"]
-      attribute: ["akanLinguisticGroup", "Q28026"]
+      wikidataQnode: ["Q28026"]
 
     cebaaraLinguisticGroup:
       stringTokens: ["Cebaara", "Cebaara languages", "Cebaara Senoufo"]
-      attribute: ["cebaaraLinguisticGroup", "Q10975121"]
+      wikidataQnode: ["Q10975121"]
 
     kolangoLinguisticGroup:
       stringTokens: ["Kulango language", "Kulango"]
-      attribute: ["kolangoLinguisticGroup", "Q35731"]
+      wikidataQnode: ["Q35731"]
 
-    ### NSAs
+    ###armedgroups
     fnciArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Forces Nouvelles", "Forces Nouvelles de Côte d'Ivoire", "New Forces of Ivory Coast", "FNCI", "FN", "FAFN"]
       attribute: ["fnciArmedNonGovernmentalOrganizedGroup", "Q1436666"]
