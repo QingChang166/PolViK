@@ -6,7 +6,7 @@ concepts:
 ## ethnicgroups
   gurmaEthnicGroup:
    stringTokens: ["Gurma", "Gurma people"]
-   wikidataQnode: ["Q1294392)"]
+   wikidataQnode: ["Q1294392"]
    languagesMostSpoken: ["Gur languages"]
    religionsMostPracticed: ["Islam"]
    livesIn: ["Fada N'Gourma"]
