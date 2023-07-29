@@ -1,7 +1,7 @@
 concepts:
     IvoryCoastArmedForces:
       stringTokens: ["Republican Forces of Ivory Coast", "Armed Forces of Côte d'Ivoire", "FACI", "FRCI"]
-    ### ethnic groups
+  ###ethnic groups
     mandeEthnicGroup:
       stringTokens: ["Mande peoples", "Mande", "Mandé peoples", "Dyula", "Maninka"]
       wikidataQnode: ["Q1407391"]
@@ -78,90 +78,57 @@ concepts:
     danLinguisticGroup:
       stringTokens: ["Dan language", "Dan"]
       wikidataQnode: ["Q1158971"]
-
     guroLinguisticGroup:
       stringTokens: ["Guro language", "Guro"]
       wikidataQnode: ["Q35251"]
-
     guereLinguisticGroup:
       stringTokens: ["Guere language", "Guere"]
       wikidataQnode: ["Q36919"]
-
     wobeLinguisticGroup:
       stringTokens: ["Wobe language", "Wobe", "Wobé"]
       wikidataQnode: ["Q3915363"]
-
     senufoLinguisticGroup:
       stringTokens: ["Senufo languages", "Senufo"]
       wikidataQnode: ["Q33795"]
-
     akanfoLinguisticGroup:
       stringTokens: ["Akan languages", "Akan"]
       wikidataQnode: ["Q28026"]
-
     cebaaraLinguisticGroup:
       stringTokens: ["Cebaara", "Cebaara languages", "Cebaara Senoufo"]
       wikidataQnode: ["Q10975121"]
-
     kolangoLinguisticGroup:
       stringTokens: ["Kulango language", "Kulango"]
       wikidataQnode: ["Q35731"]
-
+      ### Political parties
+    mfaPoliticalParty:
+      stringTokens: ["Movement of the Forces of the Future", "MFA"]
+    fpiPoliticalParty:
+      stringTokens: ["Ivorian Popular Front",  "Front populaire ivoirien", "FPI"]
+    rhdpPoliticalParty:
+      stringTokens: ["Rally of Houphouëtists for Democracy and Peace", "RHDP"]
+    pdciPoliticalParty:
+      stringTokens: ["Democratic Party of Ivory Coast – African Democratic Rally", "PDCI", "PDCI-RDA"]
+    edsPoliticalParty:
+      stringTokens: ["Together for Democracy and Sovereignty", "EDS"]
+    udpciPoliticalParty:
+      stringTokens: ["Union for Democracy and Peace in Ivory Coast", "Union for Democracy and Peace in Côte d'Ivoire", "UDPCI"]
+    rdrPoliticalParty:
+      stringTokens: ["Rally of the Republicans", "RDR"]
     ###armedgroups
     fnciArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Forces Nouvelles", "Forces Nouvelles de Côte d'Ivoire", "New Forces of Ivory Coast", "FNCI", "FN", "FAFN"]
-      attribute: ["fnciArmedNonGovernmentalOrganizedGroup", "Q1436666"]
-      attribute: ["fnciArmedNonGovernmentalOrganizedGroup", "2002-2007"]
-    
+      yearsActiveasArmedGroup: ["2002-2007"]
     mpciArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Patriotic Movement of Ivory Coast", "Mouvement patriotique de la Côte d'Ivoire", "MPCI"]
-      attribute: ["mpciArmedNonGovernmentalOrganizedGroup", "Q2723943"]
-
     mpigoArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ivorian Popular Movement of the Great West", "MPIGO"]
-      attribute: ["mpigoArmedNonGovernmentalOrganizedGroup", "Q3326773"]
-    
     mjpArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Movement for Justice and Peace", "Mouvement pour la justice et la paix", "MJP"]
-      attribute: ["mjpArmedNonGovernmentalOrganizedGroup", "Q2744381"]
-      attribute: ["mjpArmedNonGovernmentalOrganizedGroup", "2002-2004"]
-
+      yearsActiveasArmedGroup: ["2002-2004"]
     flgoArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Great West Liberation Front", "FLGO", "Front de libération du Grand Ouest"]
-      attribute: ["flgoArmedNonGovernmentalOrganizedGroup", "Q3088466"]
-
     cojepproGovernmentMilitia:
     stringTokens: ["Congrès Panafricain des Jeunes et des Patriotes", "COJEP", "Young Patriots"]
-    attribute: ["cojepproGovernmentMilitia", "Q2577116"]
-
-    ### Political parties
-    mfaPoliticalParty:
-      stringTokens: ["Movement of the Forces of the Future", "MFA"]
-      attribute: ["mfaPoliticalParty", "Q3326623"]
-
-    fpiPoliticalParty:
-      stringTokens: ["Ivorian Popular Front",  "Front populaire ivoirien", "FPI"]
-      attribute: ["fpiPoliticalParty", "Q1422092"]
-
-    rhdpPoliticalParty:
-      stringTokens: ["Rally of Houphouëtists for Democracy and Peace", "RHDP"]
-      attribute: ["rhdpPoliticalParty", "Q2132038"]
-
-    pdciPoliticalParty:
-      stringTokens: ["Democratic Party of Ivory Coast – African Democratic Rally", "PDCI", "PDCI-RDA"]
-      attribute: ["pdcirdaPoliticalParty", "Q1455532"]
-
-    edsPoliticalParty:
-      stringTokens: ["Together for Democracy and Sovereignty", "EDS"]
-      attribute: ["edsPoliticalParty", "Q109023679"]
-
-    udpciPoliticalParty:
-      stringTokens: ["Union for Democracy and Peace in Ivory Coast", "Union for Democracy and Peace in Côte d'Ivoire", "UDPCI"]
-      attribute: ["udpciPoliticalParty", "Q3550425"]
-
-    rdrPoliticalParty:
-      stringTokens: ["Rally of the Republicans", "RDR"]
-      attribute: ["rdrPoliticalParty", "Q1669673"]
 
     
 
