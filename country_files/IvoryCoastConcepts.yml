@@ -5,76 +5,61 @@ concepts:
     mandeEthnicGroup:
       stringTokens: ["Mande peoples", "Mande", "Mandé peoples", "Dyula", "Maninka"]
       wikidataQnode: ["Q1407391"]
-      languagesMostSpoken: []
       religionsMostPracticed: ["Islam"]
       livesIn: ["Séguéla", "Kouto", "Touba", "Ouaninou", "Toulepleu", "Boundiali", "Kabadougou", "Bafing", "Worodougou"]
     danEthnicGroup:
       stringTokens: ["Dan people", "Dan", "Yakuba", "Dan-Gioh", "Gio", "Gyo", "Gere", "Yacouba", "Yacuba"]
       wikidataQnode: ["Q1804699"]
-      languagesMostSpoken: []
-      religionsMostPracticed: []
       livesIn: ["Moyen-Cavally", "Dix-Huit Montagnes", "Dix-Huit Montagnes", "Man", "Danané", "Biankouma", "Zouan-Hounien", "Tonkpi"]
     senufoEthnicGroup:
       stringTokens: ["Senufo people", "Senufo", "Siena", "Senefo", "Sene", "Senoufo", "Syénambélé"]
       wikidataQnode: ["Q1266038"]
-      languagesMostSpoken: []
       religionsMostPracticed: ["Animist", "Islam"]
       livesIn: ["Korhogo", "Boundiali", "Bagoué Region", "Ferkessedougou", "Tengrela", "Odienné", "Savanes Region", "Minignan", "Béré Region"]
     akanEthnicGroup:
       stringTokens: ["Akan", "Akan people", "Akans"]
       wikidataQnode: ["Q415693"]
-      languagesMostSpoken: []
       religionsMostPracticed: ["Christianity", "Akan religion", "Islam",]
       livesIn: ["Agnéby Region", "Agboville", "Adzopé", "Bélier Region", "Tiebissou", "Gôh-Djiboua Region", "Gagnoa", "Divo", "Lacs Region", "Yamoussoukro", "N'zi-Comoé Region", "Dimbokro", "Sud-Comoé Region", "Aboisso"]
     kruEthnicGroup:
       stringTokens: ["Kru", "Kru people", "Caraw", "Krao", "Krou", "Kroomen", "Krumen"]
       wikidataQnode: ["Q1537493"]
-      languagesMostSpoken: []
       religionsMostPracticed: ["Christianity", "African traditional religions", "Sunni Islam" ]
       livesIn: ["Bas-Sassandra", "San-Pédro", "Sassandra-Marahoué", "Tabou", "Grand-Béréby", "San-Pédro"]
     beteEthnicGroup:
       stringTokens: ["Bété people", "Bété", "Betegbo", "Bhete"]
       wikidataQnode: ["Q1019506"]
-      languagesMostSpoken: []
       religionsMostPracticed: ["Christianity", "Traditional religions",  ]
       livesIn: ["Gôh-Djiboua", "Lôh-Djiboua", "Haut-Sassandra", "Marahoué", "Montagnes", "Guiglo", "Duekoué"]
     baouleEthnicGroup:
       stringTokens: ["Baoulé people", "Baoulé", "Baule", "Kwa"]
       wikidataQnode: ["Q811460"]
-      languagesMostSpoken: []
       religionsMostPracticed: ["Christianity", "Traditional religions", ]
       livesIn: ["Gbêkê", "Lôh-Djiboua", "Sassandra-Marahoué", "Haut-Sassandra", "Yamoussoukro"]
     anyiEthnicGroup:
       stringTokens: ["Anyi people", "Anyi", "Agnis", "Agni", "Ani", "Ndenie"]
       wikidataQnode: ["Q613920"]
-      languagesMostSpoken: []
       religionsMostPracticed: ["Christianity", "Akan religion", ]
       livesIn: ["Moyen-Comoé", "Indénié-Djuablin", "Moronou", "Abengourou", "Agnibilékrou", "Bongouanou"]
     abbeEthnicGroup:
       stringTokens: ["Abbe", "Abbe people", "Abbé people"]
       wikidataQnode: ["Q336851"]
-      languagesMostSpoken: []
-      religionsMostPracticed: []
       livesIn: ["Agboville", "Korhogo", "Ferkessédougou", "Boundiali"]
     attieEthnicGroup:
       stringTokens: ["Attie", "Attie people", "Akie people", "Ake", "Atie", "Atye", "Akye", "Attie", "Atshe", "Kuroba"]
       wikidataQnode: ["Q417996"]
-      languagesMostSpoken: []
-      religionsMostPracticed: []
       livesIn: ["Guiglo", "Taï", "Daloa", "Man", "Bangolo"]
     hausaEthnicGroup:
       stringTokens: ["Hausa people", "Hausa", "Haoussa", "Haussa", "Houssa", "Hausaawaa", "Hausawa", "Hawsa", "Mgbakpa"]
       wikidataQnode: ["Q33938"]
-      languagesMostSpoken: []
-      religionsMostPracticed: ["Islam", ]
+      religionsMostPracticed: ["Islam"]
       livesIn: ["Tchologo", "Bagoué", "Kabadougou", "Poro", "Boundiali", "Ferkessédougou", "Korhogo", "Ouangolodougou" ]
     bonoEthnicGroup:
       stringTokens: ["Bono", "Bobo people", "Brong people", "Brong", "Abron", "Bron"]
       wikidataQnode: ["Q927326"]
-      languagesMostSpoken: []
       religionsMostPracticed: ["Bono ancestral worship and spirituality", "Christianity"]
       livesIn: ["Doropo", "Zanzan"]
-    ### linguistic groups
+    ### linguisticgroups
     danLinguisticGroup:
       stringTokens: ["Dan language", "Dan"]
       wikidataQnode: ["Q1158971"]
@@ -99,7 +84,7 @@ concepts:
     kolangoLinguisticGroup:
       stringTokens: ["Kulango language", "Kulango"]
       wikidataQnode: ["Q35731"]
-      ### Political parties
+      ###Political parties
     mfaPoliticalParty:
       stringTokens: ["Movement of the Forces of the Future", "MFA"]
     fpiPoliticalParty:
