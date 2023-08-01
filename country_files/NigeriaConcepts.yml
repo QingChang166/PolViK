@@ -1,6 +1,7 @@
 concepts:
   NigerianSecurityForces:
     stringTokens: ["Nigerian military", "Nigerian police", "Nigerian security forces"]
+  ##ethnic groups
   igboEthnicGroup:
     stringTokens: ["Igbo", "Igbo people"]
   hausaEthnicGroup:
@@ -16,15 +17,10 @@ concepts:
   kanuriEthnicGroup:
     stringTokens: ["Kanuri", "Kanuri people"]
   ibibioEthnicGroup:
-    stringTokens: ["Ibibio", "Ibibio people"]
-    attribute: ["ibibioEthnicGroup", wikidata iD]
-    attribute: {"ibiboEthnicGroup, lis of administrative states.....}
-    ##time can be an attribute for political parties and armed groups 
+    stringTokens: ["Ibibio", "Ibibio people"] 
   nupeEthnicGroup:
     stringTokens: ["Nupe", "Nupe people"]
   gwariEthnicGroup:
     stringTokens: ["Gwari", "Gwari people"]
-    
-    
     ## political parties
     ## armed groups 
