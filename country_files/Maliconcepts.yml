@@ -1,113 +1,88 @@
 concepts:
     MalianArmedForces:
       stringTokens: ["Malian Armed Forces", "Malian Army", "Armed and Security Forces of Mali", "FAMA"]
-      attribute: ["MalianArmedForces", "Q174145"]
-    
     bambaraEthnicGroup:
       stringTokens: ["Bambara", "Bambara people"]
-      attribute: ["bambaraEthnicGroup", "Q504685"]
-      attribute: ["bambaraEthnicGroup", "Islam"]
-      attribute: ["bambaraEthnicGroup", "Bambara language"]
-      attribute: ["bambaraEthnicGroup", "Bamako"]
-
+      wikidataQnode: ["Q504685"]
+      languagesMostSpoken: ["Bambara language"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Bamako"] 
     fulaEthnicGroup:
       stringTokens: ["Fula", "Fulani", "Fula people", "Fulani people", "Hausa", "Fulbe people", "Peul", "Peulh"]
-      attribute: ["fulaEthnicGroup", "Q202575"]
-      attribute: ["fulaEthnicGroup", "Islam"]
-      attribute: ["fulaEthnicGroup", "Mopti"]
-
+      wikidataQnode: ["Q202575"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Mopti"]
     tuaregEthnicGroup:
       stringTokens: ["Tuareg", "Twareg", "Touareg"]
       wikidataQnode: ["Q58843"]
-      attribute: ["tuaregEthnicGroup", "Sunni Islam"]
-      attribute: ["tuaregEthnicGroup", "Kidal"]
-
+      religionsMostPracticed: ["Sunni Islam"]
+      livesIn: ["Kidal"]
     soninkeEthnicGroup:
       stringTokens: ["Soninke", "Soninke people"]
-      attribute: ["soninkeEthnicGroup", "Q1146970"]
-      attribute: ["soninkeEthnicGroup", "Sunni Islam"]
-      attribute: ["soninkeEthnicGroup", "Soninke"]
-    
+      wikidataQnode: ["Q1146970"]
+      religionsMostPracticed: ["Sunni Islam"]
+      livesIn: ["Soninke"] 
     mandinkaEthnicGroup:
       stringTokens: ["Malinke", "Malinke people", "Mandinka"]
-      attribute: ["mandinkaEthnicGroup", "Q819186"]
-      attribute: ["mandinkaEthnicGroup", "Islam"]
-      attribute: ["mandinkaEthnicGroup", "Kayes"]
-
+      wikidataQnode: ["Q819186"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Kayes"] 
     boboEthnicGroup:
       stringTokens: ["Bobo", "Bobo people"]
-      attribute: ["boboEthnicGroup", "Q888796"]
-      attribute: ["boboEthnicGroup", "African traditional religion"]
-
+      wikidataQnode: ["Q888796"]
+      religionsMostPracticed: ["African traditional religion"]
     bozoEthnicGroup:
       stringTokens: ["Bozo", "Bozo people"]
-      attribute: ["bozoEthnicGroup", "Islam"]
-      attribute: ["bozoEthnicGroup", "Q896172"]
-      attribute: ["Djenné", "Mopti", "Youwarou", "Tenenkou", "Bandiagara"]
-
+      wikidataQnode: ["Q896172"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Djenné", "Mopti", "Youwarou", "Tenenkou", "Bandiagara"]
     senufoEthnicGroup:
       stringTokens: ["Senufo people", "Senufo"]
-      attribute: ["senufoEthnicGroup", "Q1266038"]
-      attribute: ["senufoEthnicGroup", "Animist"]
-      attribute: ["senufoEthnicGroup", "Islam"]
-      attribute: ["senufoEthnicGroup", "Kadiolo"]
-
+      wikidataQnode: ["Q1266038"]
+      religionsMostPracticed: ["Animist", "Islam"]
+      livesIn: ["Kadiolo"]
     dogonEthnicGroup:
       stringTokens: ["Dogon people", "Dogon"]
-      attribute: ["dogonEthnicGroup", "Q215583"]
-      attribute: ["dogonEthnicGroup", "African traditional religion"]
-      attribute: ["tuaregEthnicGroup", "Islam"]
-      attribute: ["tuaregEthnicGroup", "Christianity"]
-
+      wikidataQnode: ["Q215583"]
+      religionsMostPracticed: ["African traditional religion", "Islam", "Christianity"]
     songhaiEthnicGroup:
       stringTokens: ["Songhai", "Songhai people"]
-      attribute: ["songhaiEthnicGroup", "Q487902"]
-      attribute: ["songhaiEthnicGroup", "Islam"]
-  
+      wikidataQnode: ["Q487902"]
+      religionsMostPracticed: ["Islam"]
     mplaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["People's Movement for the Liberation of Azawad", "Popular Movement for the Liberation of Azawad", "MPLA", "MPA"]
-      attribute: ["mplaArmedNonGovernmentalOrganizedGroup", "Azawad"]
-      
+      livesIn: ["Azawad"]
     ansaralshariaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ansar al-Sharia"]
-      attribute: ["ansaralshariaArmedNonGovernmentalOrganizedGroup", "Q4669205"]
-      attribute: ["ansaralshariaArmedNonGovernmentalOrganizedGroup", "Azawad"]
-
+      wikidataQnode: ["Q4669205"]
+      livesIn: ["Azawad"]
     aadArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ansar Dine", "Ansar al-Din", "AAD"]
-      attribute: ["aadArmedNonGovernmentalOrganizedGroup", "Q568900"]
-
+      wikidataQnode: ["Q568900"]
     ansatusislamArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ansar ul Islam"]
-      attribute: ["ansatusislamArmedNonGovernmentalOrganizedGroup", "Q28499712"]
-
+      wikidataQnode: ["Q28499712"]
     fiaaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Arab Islamic Front of Azawad", "FIAA"]
-      attribute: ["fiaaArmedNonGovernmentalOrganizedGroup", "Q3088499"]
-
+      wikidataQnode: ["Q3088499"]
     maaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Arab Movement of Azawad", "National Liberation Front of Azawad", "MAA", "FLNA"]
-      attribute: ["maaArmedNonGovernmentalOrganizedGroup", "Q12177450"]
-
+      wikidataQnode: ["Q12177450"]
     hcuaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["High Council for the Unity of Azawad", "HCUA", "Haut conseil pour l'unité de l'Azawad"]
-      attribute: ["hcuaArmedNonGovernmentalOrganizedGroup", "Q15141050"]
-    
+      wikidataQnode: ["Q15141050"]
     cmaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Coordination for the Movements of Azawad", "CMA"]
-      attribute: ["cmaArmedNonGovernmentalOrganizedGroup", "Q19955892"]
-    
+      wikidataQnode: ["Q19955892"]
     miaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Islamic Movement of Azawad", "MIA"]
-      attribute: ["miaArmedNonGovernmentalOrganizedGroup", "Azawad"]
-    
+      livesIn: ["Azawad"]
     gatiaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Imghad Tuareg Self-Defense Group and Allies", "GATIA", "Tuareg Imghad and Allies Self-Defense Group"]
       attribute: ["gatiaArmedNonGovernmentalOrganizedGroup", "Azawad"]
-      attribute: ["gatiaArmedNonGovernmentalOrganizedGroup", "Q17629446"]
-    
+      wikidataQnode: ["Q17629446"]
     msaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Movement for the Salvation of Azawad", "MSA"]
-      attribute: ["msaArmedNonGovernmentalOrganizedGroup", "Q28498949"]
-      attribute: ["msaArmedNonGovernmentalOrganizedGroup", "Azawad"]
+      wikidataQnode: ["Q28498949"]
+      livesIn: ["Azawad"]
   
