@@ -5,57 +5,82 @@ concepts:
   rsfproGovernmentMilitia:
     stringTokens: ["Rapid Support Forces", "RSF"]
     wikidataQnode: ["Q18210867"]
+  ##ethnic group
   bejaEthnicGroup:
     stringTokens: ["Beja People", "Beja"]
     wikidataQnode: ["Q813961"]
-    attribute: {"bejaEthnicGroup, Kassala"}
-    attribute: {"bejaEthnicGroup, Arabic, Beja, Tigre, Sunni Islam"}
+    languagesMostSpoken: ["Arabic"]
+    religionsMostPracticed: ["Sunni Islam"]
+    associatedEthnicGroup: ["Beja", "Tigre"]
+    livesIn: ["Kassala"]
   furEthnicGroup:
     stringTokens: ["Fur", "Fur People", "Fordunga", "Furawi", "Konjara", "Kungara"]
     wikidataQnode: ["Q1124032"]
-    attribute: {"furEthnicGroup, Nyala"}
-    attribute: {"furEthnicGroup, Sunni Islam, Fur"}
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: ["Nyla", "Fur"]
   nubianEthnicGroup:
     stringTokens: ["Nubian people", "Nubian"]
     wikidataQnode: ["Q15140604"]
+    languagesMostSpoken: []
+    religionsMostPracticed: []
+    livesIn: []
     attribute: {"nubianEthnicGroup, Dongola, Wadi Halfa"}
     attribute: {"nubianEthnicGroup, Sunni Islam, Nubian languages (Andaandi, Nobiin, Kenzi), Arabic"}
   nubaEthnicGroup:
     stringTokens: ["Nuba", "Nuba people", "Nubans"]
     wikidataQnode: ["Q1280105"]
+    languagesMostSpoken: []
+    religionsMostPracticed: []
+    livesIn: []
     attribute: {"nubaEthnicGroup, Kadugli"}
     attribute: {"nubaEthnicGroup, Heiban, Otoro, Sunni Islam"}
   shaigiyaEthnicGroup:
     stringTokens: ["Shaigiya tribe", "Shaigiya", "Shaiqiya", "Shawayga", "Shaykia", "Arabian Nubian", "Shaikia"]
     wikidataQnode: ["Q7462404"]
+    languagesMostSpoken: []
+    religionsMostPracticed: []
+    livesIn: []
     attribute: {"shaigiyaEthnicGroup, Albawga"}
     attribute: {"shaigiyaEthnicGroup, Sudanese Arabs, Sunni Islam, Sudanese Arabic"}
   nuerEthnicGroup:
     stringTokens: ["Nuer", "Nuer People"]
     wikidataQnode: ["Q822279"]
+    languagesMostSpoken: []
+    religionsMostPracticed: []
+    livesIn: []
     attribute: {"nuerEthnicGroup, Nahr Atiem"}
     attribute: {"nuerEthnicGroup, Nuer language, Christianity, Nuer religion"}
   zandeEthnicGroup:
     stringTokens: ["Zande", "Azande people"]
     wikidataQnode: ["Q793575"]
+    languagesMostSpoken: []
+    religionsMostPracticed: []
+    livesIn: []
     attribute: {"zandeEthnicGroup, Yambio"}
     attribute: {"zandeEthnicGroup, Christianity, African Traditional Religion, Zande"}
   zaghawaEthnicGroup:
     stringTokens: ["Zaghawa people", "Zaghawa", "Beri"]
     wikidataQnode: ["Q140328"]
+    languagesMostSpoken: []
+    religionsMostPracticed: []
+    livesIn: []
     attribute: {"zaghawaEthnicGroup, Kutum"}
   masalitEthnicGroup:
     stringTokens: ["Masalit people", "Masalit"]
     wikidataQnode: ["Q1640583"]
+    languagesMostSpoken: []
+    religionsMostPracticed: []
+    livesIn: []
     attribute: {"masalitEthnicGroup, Al Geneina"}
   rashaidaEthnicGroup:
     stringTokens: ["Rashaida people", "Bani Rasheed"]
     wikidataQnode: ["Q1540444"]
     attribute: {"rashaidaEthnicGroup, Tokar"}
+  ##armed groups
   bejacongressArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Beja Congress", "BC"]
     wikidataQnode: ["Q814968"]
-    attribute: ["bejaArmedNonGovernmentalOrganizedGroup, Beja"]
+    associatedEthnicGroup: ["Beja"]
   lraArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["LRA", "Lord's Resistance Army"]
     wikidataQnode: ["Q108462"]
@@ -65,36 +90,43 @@ concepts:
   srfArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["SRF", "Sudan Revolutionary Front"]
     wikidataQnode: ["Q3374306"]
+    livesIn: []
     attribute: {"srfArmedNonGovernmentalOrganizedGroup, Kauda"}
   slmaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan Liberation Movement/Army", "SLM", "SLA", "SLM/A"]
     wikidataQnode: ["Q751442"]
+    livesIn: []
     attribute: {"slmaArmedNonGovernmentalOrganizedGroup, Darfur"}
   jemArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Justice and Equality Movement", "JEM"]
     wikidataQnode: ["Q852370"]
+    livesIn: []
     attribute: {"jemArmedNonGovernmentalOrganizedGroup, Darfur"}
   splmnArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["SPLM-N", "Sudan People's Liberation Movement–North"]
     wikidataQnode: ["Q7633328"]
+    livesIn: []
     attribute: {"splmnArmedNonGovernmentalOrganizedGroup, South Kordofan, Blue Nile"}
   splaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["SPLA", "Sudan People's Liberation Army"]
     wikidataQnode: ["Q7633328"]
-    attribute: {"splaArmedNonGovernmentalOrganizedGroup, "}
   efArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Eastern Front", "EF"]
     wikidataQnode: ["Q1278182"]
+    livesIn: []
     attribute: {"efArmedNonGovernmentalOrganizedGroup, Red Sea, Kassala"}
   janjaweedArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Janjaweed"]
     wikidataQnode: ["Q178328"]
+    livesIn: []
     attribute: {"janjaweedArmedNonGovernmentalOrganizedGroup, Darfur"}
   slammArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan Liberation Movement/Army (Minnawi)", "SLM (Minnawi)", "SLA-MM"]
+    livesIn: []
     attribute: ["slammArmedNonGovernmentalOrganizedGroup", "Zaghawa"]
   slmawArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan Liberation Movement/Army (al-Nur)", "SLM (al-Nur)", "SLM-AW", "SLA-AW"]
+    livesIn: []
     attribute: ["slmawArmedNonGovernmentalOrganizedGroup", "Fur"]
   splmioPoliticalParty:
     stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM-IO"]
