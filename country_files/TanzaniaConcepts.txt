@@ -1,0 +1,158 @@
+concepts:
+  TanzaniaSecurityForces:
+   stringTokens: ["Tanzania People's Defense Force", "TPDF", "Jeshi la Wanachi wa Tanzania", "JWTZ", "Tanzanian Police Force", "Polisi wa Tanzania", "Field Force Unit", "FFU",
+                   "Tanzania Intelligence and Security Service", "TISS", "Usalama wa Taifa", "Tanzanian Army", "Tanzanian Police"  ]  
+
+
+
+##ethnicgroups
+  SukumaEthnicGroup:
+   stringTokens: ["Sukuma", "Basukuma", "Suku", "Wasukuma"]  
+   wikidataQnode: ["Q1474755"]  
+   languagesMostSpoken: ["SukumaLanguageGroup"]  
+   religionsMostPracticed: ["Christianity", "Islam"] 
+   livesIn: ["Mwanza", "Mara", Simiyu", "Shinyanga"]  ##administrative state, region
+  NyamweziEthnicGroup:
+   stringTokens: ["Nyamwezi", "Wanynamwezi", "Banyamwezi", "Niamwezi", "Nyamuezi", "Nyamwese", "Nyamwesi", "Wanjamwezi"]
+   wikidataQnode: ["Q1262850"]  
+   languagesMostSpoken: ["NyamweziLanguageGroup"]  
+   religionsMostPracticed: ["Christianity"] 
+   livesIn: ["Tabora"]  ##administrative state, region
+ ChagaEthnicGroup:
+   stringTokens: ["Chaga", "Chagga", "Wasu", "Wachaga", "Djaga", "Dschagga", "Wachagga", "Caga", "Dschaga", "Jajja", "Kichaga", "Kishaka", "Wadschagga", "Washaga"]
+   wikidataQnode: ["Q920233"]  
+   languagesMostSpoken: ["ChagaLanguageGroup"]  
+   religionsMostPracticed: ["Christianity", "Islam"] 
+   livesIn: ["Kilimanjaro", "Arusha"]  ##administrative state, region
+ HayaEthnicGroup:
+   stringTokens: ["Haya", "Wahaya", "Ziba"]
+   wikidataQnode: ["Q1824726"]
+   languagesMostSpoken: ["RuhayaLanguageGroup"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Kagera"] ##administrative state, region
+ MakondeEthnicGroup:
+   stringTokens: ["Makonde", "Wamakonde"]
+   wikidataQnode: ["Q48885"]
+   languagesMostSpoken: ["WakondeLanguageGroup", "KiswahiliLanguageGroup"]
+   religionsMostPracticed: ["Christianity", "Islam"]
+   livesIn: ["Mtwara"] ##administrative state, region
+ HeheEthnicGroup:
+   stringTokens: ["Hehe", "Wahehe"]
+   wikidataQnode: ["Q1261861"]
+   languagesMostSpoken: ["HeheLanguageGroup", "KiswahiliLanguageGroup"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Iringa"] ##administrative state, region
+ GogoEthnicGroup:
+   stringTokens: ["Gogo", "Wagogo"]
+   wikidataQnode: ["Q1261861"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Dodoma"] ##administrative state, region
+ HaEthnicGroup:
+   stringTokens: ["Ha", "Wahha", "Kiha", "Abaha"]
+   wikidataQnode: ["Q2995962"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Kigoma"] ##administrative state, region
+ BenaEthnicGroup:
+   stringTokens: ["Bena", "Wabena", "Ekibena"]
+   wikidataQnode: ["Q1115893"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Njombe"] ##administrative state, region
+ ZaramoEthnicGroup:
+   stringTokens: ["Zaramo", "Dzalamo", "Zalamo", "Zaramu", "Saramo", "Wazaramo", "Myagatwa"]
+   wikidataQnode: ["Q147725"]
+   languageMostSpoken: ["KiswahiliLanguageGroup"]
+   religionsMostPracticed: ["Islam"]
+   livesIn: ["Pwani", "Dar es Salaam""] ##administrative state, region
+ ZigulaEthnicGroup:
+   stringTokens: ["Zigula", "Zigua", "Seguha", "Uzigula", "Wazigua", "Zegura"]
+   wikidataQnode: ["Q202778"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Tanga", "Pwani"] ##administrative state, region
+ SwahiliEthnicGroup:
+   stringTokens: ["Swahili", "Kiswahili", "Waswahili", "Suaheli", "Suaili", "Wasuaheli"]
+   wikidataQnode: ["Q721854"]
+   languagesMostSpoken: ["KiswahiliLanguageGroup"]
+   religionsMostPracticed: ["Islam"]
+   livesIn: ["Zanzibar"] ##administrative state, region
+ RangiEthnicGroup:
+   stringTokens: ["Rangi", "Warangi"]
+   wikidataQnode: ["Q3140807"]
+   religionsMostPracticed: ["Islam", "Christianity"]
+   livesIn: ["Kondoa", "Dodoma"] ##administrative state, region
+ FipaEthnicGroup:
+   stringTokens: ["Fipa", "Wafipa"]
+   wikidataQnode: ["Q2995992"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Rukwa"] ##administrative state, region
+ PareEthnicGroup:
+   stringTokens: ["Pare", "Wapare", "Chasu", "Asu", "Athu", "Casu", "Ciathu", "Upare", "Vasu", "Vuasu"]
+   wikidataQnode: ["Q612976"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Kilimanjaro"] ##administrative state, region
+ TumbukaEthnicGroup:
+   stringTokens: ["Tumbuka", "Watumbuka", "Tumbuca", "Tomboka", "Kamanga", "Batumbuka", "Matumbuka", "Henga"]
+   wikidataQnode: ["Q534134"]
+   religionsMostPracticed: ["Christianity"]
+ NyakyusaEthnicGroup:
+   stringTokens: ["Nyakyusa", "Wanuakyusa", "Nyekyosa", "Banyakusa", "Sokile"]
+   wikidataQnode: ["Q3140817"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Mbeya"] ##administrative state, region  
+ SambaaEthnicGroup:
+   stringTokens: ["Sambaa", "Wasambaa", "Shambala", "Shambaa", "Sambala", "Sambara", "Wasambaa"]
+   wikidataQnode: ["Q283465)"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Tanga"] ##administrative state, region 
+ IndoTanzanianEthnicGroup:
+   stringTokens: ["Indians", "Asians in Tanzania", "Indo-Tanzanians"]
+   wikidataQnode: ["Q6024143)"]
+   religionsMostPracticed: ["Islam", "Hindu"]
+   livesIn: ["Zanzibar", "Dar es Salaam", "Arusha"] ##administrative state, region 
+
+##politicalparties
+  CCMParty:
+   stringTokens: ["CCM", "Chama Cha Mapinduzi", "Party of the Revolution", "Tanganyika African National Union", "TANU", "Afro-Shirazi Party", "ASP"]
+   yearsActiveasParty: ["1977-Present"]
+ ChademaParty:
+   stringTokens: ["Chadema", "Chama cha Demokrasia na Maendeleo", "The Party for Democracy and Progress"]
+   yearsActiveasParty: ["1992-Present"]
+ ActParty:
+   stringTokens: ["ACT-Wazalendo", "Alliance for Change and Transparency"]
+   yearsActiveasParty: ["2014-Present"
+ CUFParty:  
+   stringTokens:["Civic United Front", "CUF", "Chama Cha Wanachi"]
+   yearsActiveasParty: ["1992-2019"]
+   regionsMostActive: ["Zanzibar"]
+ 
+##language groups
+KiswahiliLanguageGroup:
+   stringTokens: ["Swahili, "Kiswahili"]
+   wikidataQnode: ["Q132111"]
+EnglishLanguageGroup:
+   stringTokens: ["English"]
+   wikidataQnode: ["Q1860"]
+SukumaLanguageGroup:
+  stringTokens: ["Sukuma"]
+  wikidataQnode: ["Q36694"]
+  livesIn: ["Mwanza", "Shinyanga", "Simiyu"]
+NyamweziLanguageGroup:
+  stringTokens: ["Nyamwezi"]
+  wikidataQnode: ["Q1332242"]
+  livesIn: ["Tabora"]
+ChagaLanguageGroup:
+  stringTokens: ["Chaga"]
+  wikidataQnode: ["Q3272632"]
+  livesIn: ["Kilimanjaro"]
+HayaLanguageGroup:
+  stringTokens: ["Haya"]
+  wikidataQnode: ["Q33363"]
+  livesIn: ["Kagera"]
+MakondeLanguageGroup:
+  stringTokens: ["Makonde"]
+  wikidataQnode: ["Q33311"]
+  livesIn: ["Mtwara"]
+
+
+
+
+
