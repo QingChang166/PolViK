@@ -3,59 +3,55 @@
 concepts:
   SouthSudaneseArmedForces:
     stringTokens: ["South Sudan People's Defence Forces", "SSPDF", "Sudan People's Liberation Army", "SPLA"]
-    attribute: ["SouthSudaneseArmedForces", "Q912908"]
-  
+    wikidataQnode: ["Q912908"]
   lotukoEthnicGroup:
     stringTokens: ["Lotuko people", "Lotuko", "Otuho", "Latuka", "Lotuho"]
-    attribute: ["latokaEthnicGroup", "Q115862"]
+    wikidataQnode: ["Q115862"]
     attribute: {"latokaEthnicGroup, Torit"} 
-
   shillukEthnicGroup:
-    stringTokens: ["Shilluk people", "Shilluk", ""]
-    attribute: ["shillukEthnicGroup", "Q1134682"]
+    stringTokens: ["Shilluk people", "Shilluk"]
+    wikidataQnode: ["Q1134682"]
     attribute: {"shillukEthnicGroup, Malakal"}
-  
   dinkaEthnicGroup:
     stringTokens: ["Dinka", "Dinka people", "Dinka tribe", "Denkawi"]
     wikidataQnode: ["Q212106"]
     language: {"Bor", "Rumbek", "Aweil"}  ##define more specifically--- normalize 
     religion: { Dinka, Christianity, Islam, Dinka religion"}  ##define more specifically   ##check yml formatting --where does it need commas 
-
   bariEthnicGroup:
     stringTokens: ["Bari", "Bari people"]
-    attribute: ["bariEthnicGroup", "Q200453"]
+    wikidataQnode: ["Q200453"]
     attribute: {"bariEthnicGroup, Bari"}
     attribute: {"bariEthnicGroup, Bari language, Christianity, African Traditional Religion, Islam"}
 
   splmPoliticalParty:
     stringTokens: ["SPLM", "Sudan People's Liberation Movement"]
-    attribute: ["splmPoliticalParty", "Q459960"]
+    wikidataQnode: ["Q459960"]
 
   splmaioArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM/A-IO"]
-    attribute: ["splmaioArmedNonGovernmentalOrganizedGroup", "Q17022177"]
+    wikidataQnode: ["Q17022177"]
   
   udfArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["United Democratic Front", "UDF"]
-    attribute: ["udfArmedNonGovernmentalOrganizedGroup", "Q3278303"]
+    wikidataQnode: ["Q3278303"]
     attribute: {"Juba"}  #known to operate  ##juba ambig  ##brackets need to be consistent   ##first slot, place name, second slot village, city, admin 1 2 country
   
   nsfArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["National Salvation Front", "NSF"]
-    attribute: ["nsfArmedNonGovernmentalOrganizedGroup", "Q48800192"]
+    wikidataQnode: ["Q48800192"]
     attribute: {"nsfArmedNonGovernmentalOrganizedGroup, Equatoria"}  ###administrative state  ##quotes issues 
 
   sslmaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["South Sudan Liberation Movement/Army", "SSLM/A"]
-    attribute: ["sslmaArmedNonGovernmentalOrganizedGroup", "Q3373953"]
+    wikidataQnode: ["Q3373953"]
 
   ssdmaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["South Sudan Democratic Movement/Army", "SSDM/A"]
-    attribute: ["ssdmaArmedNonGovernmentalOrganizedGroup", "Q7568577"]
+    wikidataQnode: ["Q7568577"]
 
   ssumaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["South Sudan United Movement", "SSUM/A"]
-    attribute: ["ArmedNonGovernmentalOrganizedGroup", "Q55391113"]
+    wikidataQnode: ["Q55391113"]
   
   ssnlmArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["South Sudan National Liberation Movement", "SSNLM"]
