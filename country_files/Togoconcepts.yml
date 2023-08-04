@@ -1,0 +1,133 @@
+concepts:
+    TogoleseSecurityForces:
+     stringTokens: ["Togolese Armed Forces", "Armed forces of Togo", "Military of Togo", "FAT"]
+     wikidataQnode: ["Q718167"]
+  
+  ## ethnicgroups
+    eweEthnicGroup:
+     stringTokens: ["Ewe people"]
+     wikidataQnode: ["Q732317"]
+     languagesMostSpoken: ["Ewe"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Maritime", "Plateaux", "Centrale Region"]
+    
+    kabyeEthnicGroup:
+     stringTokens: ["Kabiye", "Kabye", "Kabre", "Cabrai"]
+     wikidataQnode: ["Q8102636"]
+     languagesMostSpoken: ["Kabye"]
+     religionsMostPracticed: ["Traditional beliefs"]
+     livesIn: ["Kara", "Savanes"]
+
+    minaEthnicGroup:
+     stringTokens: ["Mina people"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Mina"]
+     religionsMostPracticed: ["Vodun"]
+     livesIn: ["Maritime"]
+
+    temEthnicGroup:
+     stringTokens: ["Tem", "Tem people", "Temba", "Kotokoliare"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Tem language"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Centrale", "Kara"]
+
+    lossoEthnicGroup:
+     stringTokens: ["Losso people", "Losso", "Nawda", "Nawdba"]
+     wikidataQnode: ["Q1972445"]
+     languagesMostSpoken: ["Nawdm"]
+     religionsMostPracticed: ["Animism"]
+     livesIn: ["Doufelgou"]
+
+    ajaEthnicGroup:
+     stringTokens: ["Aja people", "Adja"]
+     wikidataQnode: ["Q357684"]
+     languagesMostSpoken: ["Ajda"]
+     religionsMostPracticed: ["Vodun"]
+     livesIn: ["Atlantique"]
+
+    yorubaEthnicGroup:
+     stringTokens: ["Yoruba"]
+     wikidataQnode: ["Q190168"]
+     languagesMostSpoken: ["Yoruba"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Atakpame"]
+
+## politicalparties
+    rptParty:
+     stringTokens: ["Rally of the Togolese People"]
+     wikidataQnode:  ["Q1514253"]
+  
+    cstParty:
+     stringTokens: ["Let's Save Togo Collective"]
+     wikidataQnode:  ["Q16540801"]
+  
+    unirParty:
+     stringTokens: ["Union for the Republic"]
+     wikidataQnode:  ["Q22080618"]
+  
+    ufcParty:
+     stringTokens: ["Union of Forces for Change"]
+     wikidataQnode:  ["Q2151805"]
+  
+    acrParty:
+     stringTokens: ["Action Committee for Renewal"]
+     wikidataQnode:  ["Q4677086"]
+  
+    ptpParty:
+     stringTokens: ["Togolese Party of Progress"]
+     wikidataQnode:  ["Q2800838"]
+  
+    ucpnParty:
+     stringTokens: ["Union of Chiefs and Peoples of the North"]
+     wikidataQnode:  ["Q22115648"]
+  
+    Party:
+     stringTokens: ["Party of Togolese Unity", "Committee of Togolese Unity", "CUT", "PUT"]
+     wikidataQnode:  ["Q2985355"]
+  
+    ancParty:
+     stringTokens: ["National Alliance for Change"]
+     wikidataQnode:  ["Q2838206"]
+  
+    utdParty:
+     stringTokens: ["Togolese Union for Democracy"]
+     wikidataQnode:  ["Q23777567"]
+
+    raParty:
+     stringTokens: ["Rainbow Alliance"]
+     wikidataQnode:  ["Q22080518"]
+  
+    mcrParty:
+     stringTokens: ["Movement of Centrist Republicans"]
+     wikidataQnode:  ["Q6926745"]
+
+    netParty:
+     stringTokens: ["New Togolese Commitment"]
+     wikidataQnode:  ["Q22080481"]
+
+    pdpParty:
+     stringTokens: ["Pan-African Democratic Party"]
+     wikidataQnode:  ["Q5255671"]
+
+    mpddParty:
+     stringTokens: ["Patriotic Movement for Democracy and Development"]
+     wikidataQnode:  ["Q104844434"]
+
+    addiParty:
+     stringTokens: ["Alliance of Democrats for Integral Development"]
+     wikidataQnode:  ["Q4732444"]
+
+ ## armed groups
+    mtdArmedGroup:
+     stringTokens: ["Togolese Movement for Democracy", "Mouvement Togolais pour la Democratie", "MTD"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+    jnimArmedGroup:
+     stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal Muslimin"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q28877411"]
+  
+
+

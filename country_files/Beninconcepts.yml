@@ -1,0 +1,229 @@
+concepts:
+    BeninSecurityForces:
+     stringTokens: ["Benin Armed Forces", "FAB", "Military of Benin"]
+     wikidataQnode: ["Q637348"]
+  
+  ## ethnicgroups
+    fonEthnicGroup:
+     stringTokens: ["Fon", "Fon nu", "Agadja", "Dahomey"]
+     wikidataQnode: ["Q12257903"]
+     languagesMostSpoken: ["Fon language"]
+     religionsMostPracticed: ["Vodun"]
+     livesIn: ["Cotonou", "Porto-Novo"]
+
+    yorubaEthnicGroup:
+     stringTokens: ["Yoruba people", "Yoruba"]
+     wikidataQnode: ["Q190168"]
+     languagesMostSpoken: ["Yoruba"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Southwestern part of Benin"]
+
+    baribaEthnicGroup:
+     stringTokens: ["Bariba people", "Bariba"]
+     wikidataQnode: ["Q808185"]
+     languagesMostSpoken: ["Bariba"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Borgou", "Alibori"]
+
+    fulaEthnicGroup:
+     stringTokens: ["Fula people", "Fulani", "Peul", "Fulbe"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+
+    tammariEthnicGroup:
+     stringTokens: ["Tammari people", "Batammariba", "Tamberma", "Somba", "Otamari", "Ottamar"]
+     wikidataQnode: ["Q1117480"]
+     languagesMostSpoken: ["Tammari language "]
+     religionsMostPracticed: ["Animist"]
+     livesIn: ["Atakora"]
+
+    dendiEthnicGroup:
+     stringTokens: ["Dendi people"]
+     wikidataQnode: ["Q17073583"]
+     languagesMostSpoken: ["Dendi"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Collines"]
+
+    ajaEthnicGroup:
+     stringTokens: ["Aja people", "Adja"]
+     wikidataQnode: ["Q357684"]
+     languagesMostSpoken: ["Ajda"]
+     religionsMostPracticed: ["Vodun"]
+     livesIn: [""]
+
+    mahiEthnicGroup:
+     stringTokens: ["Mahi people"]
+     wikidataQnode: ["Q6733951"]
+     languagesMostSpoken: ["Mahi"]
+     religionsMostPracticed: ["Vodun"]
+     livesIn: ["Abomey"]
+
+    gurmaEthnicGroup:
+     stringTokens: ["Gurma people"]
+     wikidataQnode: ["Q1294392"]
+     languagesMostSpoken: ["Gourmanché"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Atakora", "Alibori"]
+
+    eweEthnicGroup:
+     stringTokens: ["Ewe people"]
+     wikidataQnode: ["Q732317"]
+     languagesMostSpoken: ["Ewe"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Mono", "Couffo"]
+
+    moledagbonEthnicGroup:
+     stringTokens: ["Mole-Dagbon people", "Mabia", "Mole-Dagbon people", "Mole-Dagbani", "Gur/Mabia family"]
+     wikidataQnode: ["Q25039528"]
+     languagesMostSpoken: ["Dagbani", "Dagbanle", "Dagbanli"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+    
+  ## politicalparties
+    Party:
+     stringTokens: ["Dahomeyan Democratic Party"]
+     wikidataQnode:  ["Q18349964"]
+  
+    Party:
+     stringTokens: ["Union for Future Benin"]
+     wikidataQnode:  ["Q3550441"]
+  
+    Party:
+     stringTokens: ["Hope Force"]
+     wikidataQnode:  ["Q16909755"]
+  
+    Party:
+     stringTokens: ["National Union for Democracy and Progress"]
+     wikidataQnode:  ["Q6979093"]
+  
+    Party:
+     stringTokens: ["United Democratic Force"]
+     wikidataQnode:  ["Q20647991"]
+  
+    Party:
+     stringTokens: ["Republican Party of Dahomey"]
+     wikidataQnode:  ["Q18394066"]
+
+    Party:
+     stringTokens: ["African Movement for Development and Progress"]
+     wikidataQnode:  ["Q4689865)"]
+
+    uddParty:
+     stringTokens: ["Dahomeyan Democratic Union"]
+     wikidataQnode:  ["Q18205675"]
+
+    mddParty:
+     stringTokens: ["Dahomeyan Democratic Movement"]
+     wikidataQnode:  ["Q18349960"]
+
+    Party:
+     stringTokens: ["People's Revolutionary Party of Beni"]
+     wikidataQnode:  ["Q478120"]
+
+    Party:
+     stringTokens: ["Key Force"]
+     wikidataQnode:  ["Q3076831"]
+
+    pnddParty:
+     stringTokens: ["National Party for Democracy and Development"]
+     wikidataQnode:  ["Q18379571"]
+
+    fcbeParty:
+     stringTokens: ["Cowry Forces for an Emerging Benin"]
+     wikidataQnode:  ["Q5179821"]
+
+    psdParty:
+     stringTokens: ["Social Democratic Party"]
+     wikidataQnode:  ["Q3088954"]
+
+    Party:
+     stringTokens: ["Democratic Renewal Party"]
+     wikidataQnode:  ["Q5255784"]
+
+    ag13bParty:
+     stringTokens: ["G13 Baobab Alliance"]
+     wikidataQnode:  ["Q18356732"]
+
+    unParty:
+     stringTokens: ["Union Makes the Nation"]
+     wikidataQnode:  ["Q7885823"]
+  
+    unsdParty:
+     stringTokens: ["National Union for Solidarity and Development"]
+     wikidataQnode:  ["Q18379625"]
+
+    Party:
+     stringTokens: ["Movement for Solidarity, Union and Progress"]
+     wikidataQnode:  ["Q18391359"]
+
+    udrnParty:
+     stringTokens: ["Union for Democracy and National Reconstruction"]
+     wikidataQnode:  ["Q18356540"]
+
+    pvpParty:
+     stringTokens: ["Patriotic Revival Party"]
+     wikidataQnode:  ["Q20982206"]
+
+    Party:
+     stringTokens: ["National Rally for Democracy"]
+     wikidataQnode:  ["Q6975195"]
+
+    Party:
+     stringTokens: ["Benin Rebirth Party"]
+     wikidataQnode:  ["Q4888024"]
+
+    nccParty:
+     stringTokens: ["Our Common Cause"]
+     wikidataQnode:  ["Q18358728"]
+
+    Party:
+     stringTokens: ["Liberal Democrats' Rally for National Reconstruction – Vivoten"]
+     wikidataQnode:  ["Q6540656"]
+
+    Party:
+     stringTokens: ["Action Front for Renewal and Development"]
+     wikidataQnode:  ["Q3088445"]
+
+    Party:
+     stringTokens: ["Union for Democracy and National Solidarity"]
+     wikidataQnode:  ["Q7886425"]
+
+    Party:
+     stringTokens: ["Alliance for a Democratic Dynamic"]
+     wikidataQnode:  ["Q4732413"]
+
+    utrdParty:
+     stringTokens: ["Union for the Triumph of Democratic Renewal"]
+     wikidataQnode:  ["Q18356556"]
+
+    Party:
+     stringTokens: ["Rally for Progress and Renewal"]
+     wikidataQnode:  ["Q18393332"]
+
+    updParty:
+     stringTokens: ["Dahomeyan Progressive Union"]
+     wikidataQnode:  ["Q18205681"]
+
+    uprParty:
+     stringTokens: ["Union for Relief"]
+     wikidataQnode:  ["Q7886463"]
+
+    bpaParty:
+     stringTokens: ["African People's Bloc"]
+     wikidataQnode:  ["Q18161664"]
+
+  
+  ## armed groups
+    jnimArmedGroup:
+     stringTokens: ["Jama'at Nasr al-Islam wal Muslimin", "JNIM"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q28877411"]
+  
+    ArmedGroup:
+     stringTokens: [""]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+    

@@ -1,0 +1,144 @@
+concepts:
+    GhanaSecurityForces:
+     stringTokens: ["Ghana Armed Forces", "GAF", "Military of Ghana"]
+     wikidataQnode: ["Q260288"]
+  
+  ## ethnicgroups
+    akanEthnicGroup:
+     stringTokens: ["Akan poeple", "Akan"]
+     wikidataQnode: ["Q415693"]
+     languagesMostSpoken: ["Akan"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Ashanti Region"]
+
+    moledagbonEthnicGroup:
+     stringTokens: ["Mole-Dagbon people", "Mabia", "Mole-Dagbon people", "Mole-Dagbani", "Gur/Mabia family"]
+     wikidataQnode: ["Q25039528"]
+     languagesMostSpoken: ["Dagbani", "Dagbanle", "Dagbanli"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Northern Region", "Tamale"]
+
+    eweEthnicGroup:
+     stringTokens: ["Ewe people"]
+     wikidataQnode: ["Q732317"]
+     languagesMostSpoken: ["Ewe"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Volta Region"]
+
+    gaEthnicGroup:
+     stringTokens: ["Ga-Adangbe people", "Ga-Dangbe", "Ga-Dangme", "GaDangme"]
+     wikidataQnode: ["Q627897"]
+     languagesMostSpoken: ["Ga", "Dangme"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Greater Accra"]
+
+    gurmaEthnicGroup:
+     stringTokens: ["Gurma people"]
+     wikidataQnode: ["Q1294392"]
+     languagesMostSpoken: ["Gourmanché", "Gurma languages"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Upper East Region", "Upper West Region"]
+    
+    guangEthnicGroup:
+     stringTokens: ["Guang people"]
+     wikidataQnode: ["Q5613610"]
+     languagesMostSpoken: ["Guan"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    kusasiEthnicGroup:
+     stringTokens: ["Kusasi people", "Kusal", "Kusale", "Kussasi", "Kussassi"]
+     wikidataQnode: ["Q641332"]
+     languagesMostSpoken: ["Kusaal language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    konkombaEthnicGroup:
+     stringTokens: ["Konkomba people"]
+     wikidataQnode: ["Q1678775"]
+     languagesMostSpoken: ["Likpakpaln"]
+     religionsMostPracticed: ["Traditional African Religion"]
+     livesIn: [""]
+
+    akyemEthnicGroup:
+     stringTokens: ["Akyem people"]
+     wikidataQnode: ["Q418389"]
+     languagesMostSpoken: ["Twi language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Eastern Region", "Central Region", "Ashanti Region", "Accra"]
+
+    mamprusiEthnicGroup:
+     stringTokens: ["Mamprusi people"]
+     wikidataQnode: ["Q641337"]
+     languagesMostSpoken: ["Mampruli"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Nalerigu", "Gambaga", "Walewale"]
+
+  ## politicalparties
+    ndcParty:
+     stringTokens: ["National Democratic Congress"]
+     wikidataQnode:  ["Q200875"]
+  
+    cppParty:
+     stringTokens: ["Convention People's Party"]
+     wikidataQnode:  ["Q1129392"]
+  
+    nppParty:
+     stringTokens: ["New Patriotic Party"]
+     wikidataQnode:  ["Q1148441"]
+  
+    nppParty:
+     stringTokens: ["Northern People's Party"]
+     wikidataQnode:  ["Q1253664"]
+  
+    nlmParty:
+     stringTokens: ["National Liberation Movement"]
+     wikidataQnode:  ["National Liberation Movement"]
+  
+    uppParty:
+     stringTokens: ["United Progressive Party "]
+     wikidataQnode:  ["Q104866802"]
+
+    nalParty:
+     stringTokens: ["National Alliance of Liberals"]
+     wikidataQnode:  ["Q690836"]
+
+    pnpParty:
+     stringTokens: ["People's National Party "]
+     wikidataQnode:  ["Q2069633"]
+
+    pfpParty:
+     stringTokens: ["Popular Front Party"]
+     wikidataQnode:  ["Q2104298"]
+
+    uncParty:
+     stringTokens: ["United National Convention"]
+     wikidataQnode:  ["Q1578600"]
+
+    acpParty:
+     stringTokens: ["Action Congress Party"]
+     wikidataQnode:  ["Q343619"]
+
+    ncpParty:
+     stringTokens: ["National Convention Party"]
+     wikidataQnode:  ["Q1967014"]
+
+    ugccParty:
+     stringTokens: ["United Gold Coast Convention"]
+     wikidataQnode:  ["United Gold Coast Convention"]
+  
+  ## armed groups
+    nlcArmedGroup:
+     stringTokens: ["National Liberation Council", "NLC"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q1967432"]
+  
+    ArmedGroup:
+     stringTokens: ["The Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo)"]
+     associatedEthnicGroup: ["Ga-Adangbe people"]
+     wikidataQnode: [""]
+  
+    ArmedGroup:
+     stringTokens: ["The Military faction (forces of Jerry John Rawlings)"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]

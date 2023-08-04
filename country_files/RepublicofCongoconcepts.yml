@@ -1,0 +1,140 @@
+concepts:
+    CongoleseSecurityForces:
+     stringTokens: ["Armed Forces of the Republic of the Congo", "FARC", "Congolese armed forces", "Military of Congo"]
+     wikidataQnode: ["Q458231"]
+  
+  ## ethnicgroups
+    kongoEthnicGroup:
+     stringTokens: ["Kongo people", "Bakongo"]
+     wikidataQnode: ["Q640090"]
+     languagesMostSpoken: ["Kikongo"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Brazzaville", "Southern and southwestern regions"]
+
+    tekeEthnicGroup:
+     stringTokens: ["Teke people", "Bateke"]
+     wikidataQnode: ["Q811078"]
+     languagesMostSpoken: ["Tele languages"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Central and southwestern regions"]
+
+    lubaEthnicGroup:
+     stringTokens: ["Luba people", "Baluba"]
+     wikidataQnode: ["Q805841"]
+     languagesMostSpoken: ["Luba languages"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    mongoEthnicGroup:
+     stringTokens: ["Mongo people", "Nkundo", "Mongo", "Lomongo", "Mango"]
+     wikidataQnode: ["Q927706"]
+     languagesMostSpoken: ["Mongo"]  
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    mbochiEthnicGroup:
+     stringTokens: ["Mbochi people", "Mboshi", "Mbochi"]
+     wikidataQnode: ["Q1650456"]
+     languagesMostSpoken: ["Mbochi language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    kouyouEthnicGroup:
+     stringTokens: ["Kouyou people"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Kouyou language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    sanghaEthnicGroup:
+     stringTokens: ["Sangha people", "Sanga"]
+     wikidataQnode: ["Q7417971"]
+     languagesMostSpoken: ["Sangha language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    lariEthnicGroup:
+     stringTokens: ["Lari people", "Laari", "Laadi", "Ladi", "Balari", "Baladi"]
+     wikidataQnode: ["Q2749675"]
+     languagesMostSpoken: ["Lari"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Brazzaville", "Pointe-Noire", "Pool Department"]
+
+    viliEthnicGroup:
+     stringTokens: ["Vili people"]
+     wikidataQnode: ["Q3558407"]
+     languagesMostSpoken: ["Vili"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Atlantic coast", "Brazzaville"]
+    
+  ## politicalparties
+    upadsParty:
+     stringTokens: ["Pan-African Union for Social Democracy"]
+     wikidataQnode:  ["Q3550401"]
+  
+    uddiaParty:
+     stringTokens: ["Democratic Union for the Defense of African Interests"]
+     wikidataQnode:  ["Q1377588"]
+  
+    pctParty:
+     stringTokens: ["Congolese Party of Labour"]
+     wikidataQnode:  ["Q1785816"]
+  
+    mcddiParty:
+     stringTokens: ["Congolese Movement for Democracy and Integral Development"]
+     wikidataQnode:  ["Q3326534"]
+  
+    mnrParty:
+     stringTokens: ["National Movement of the Revolution"]
+     wikidataQnode:  ["Q6974417"]
+  
+    asmParty:
+     stringTokens: ["African Socialist Movement"]
+     wikidataQnode:  ["Q3326838"]
+
+    rdpsParty:
+     stringTokens: ["Rally for Democracy and Social Progress"]
+     wikidataQnode:  ["Q17075186"]
+  
+    udfParty:
+     stringTokens: ["United Democratic Forces"]
+     wikidataQnode:  ["Q3077027"]
+
+    ppcParty:
+     stringTokens: ["Congolese Progressive Party"]
+     wikidataQnode:  ["Q5160547"]
+  
+    marParty:
+     stringTokens: ["Action and Renewal Movement"]
+     wikidataQnode:  ["Q4677129"]
+
+    fdcParty:
+     stringTokens: ["Congolese Democratic Front"]
+     wikidataQnode:  ["Q5160543"]
+  
+  ## armed groups
+    ninjaArmedGroup:
+     stringTokens: ["Ninja"]
+     associatedEthnicGroup: ["Bakongo people"]
+     wikidataQnode: ["Q2376614"]
+  
+    fdpArmedGroup:
+     stringTokens: ["Cobra", "Forces Démocratique and Patriotique", "FDP"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q108146857"]
+  
+    cocoyeArmedGroup:
+     stringTokens: ["Cocoye"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q108266046"]
+  
+    ntsiloulousArmedGroup:
+     stringTokens: ["Ntsiloulous"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+    flecArmedGroup:
+     stringTokens: ["Front for the Liberation of the Enclave of Cabinda", "FLEC"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q608489"]
+

@@ -1,0 +1,139 @@
+concepts:
+    GambiaSecurityForces:
+     stringTokens: ["Gambia Armed Forces", "Military of the Gambia"]
+     wikidataQnode: ["Q147930"]
+  
+  ## ethnicgroups
+    mandinkaEthnicGroup:
+     stringTokens: ["Mandinka people"]
+     wikidataQnode: ["Q819186"]
+     languagesMostSpoken: ["Manding"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+
+    wolofEthnicGroup:
+     stringTokens: ["Wolof people", "Fanafa"]
+     wikidataQnode: ["Q217397"]
+     languagesMostSpoken: ["Wolof language"]
+     religionsMostPracticed: ["Sunni Islam"]
+     livesIn: ["Banjul", "Senegambia region"]
+    
+    fulaEthnicGroup:
+     stringTokens: ["Fula people", "Fulani", "Peul", "Fulbe"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+
+    jolaEthnicGroup:
+     stringTokens: ["Jola people", "Jola", "Diola", "Ajamat", "Kujamat"]
+     wikidataQnode: ["Q1226906"]
+     languagesMostSpoken: ["Jola"]
+     religionsMostPracticed: ["Animism", "Islam"]
+     livesIn: ["Foni district"]
+
+    sererEthnicGroup:
+     stringTokens: ["Serer people"]
+     wikidataQnode: ["Q739970"]
+     languagesMostSpoken: ["Serer"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+
+    akuEthnicGroup:
+     stringTokens: ["Aku people", "Krio", "Creoles", "Gambian Creole people"]
+     wikidataQnode: ["Q423669"]
+     languagesMostSpoken: ["Gambian Creole (Aku)"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Banjul"]
+
+    manjakEthnicGroup:    
+     stringTokens: ["Manjago people", "Manjak", "Mandyak people"]
+     wikidataQnode: ["Q1726724"]
+     languagesMostSpoken: ["Manjago"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+
+    bambaraEthnicGroup:
+     stringTokens: ["Bambara"]
+     wikidataQnode: ["Q504685"]
+     languagesMostSpoken: ["Bambara language"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+
+    susuEthnicGroup:
+     stringTokens: ["Susu"]
+     wikidataQnode: ["Q1479265"]
+     languagesMostSpoken: ["Susu"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Banjul"]
+
+    mankanyaEthnicGroup:
+     stringTokens: ["Mankanya people"]
+     wikidataQnode: ["Q3285298"]
+     languagesMostSpoken: ["Mankanya"]
+     religionsMostPracticed: ["Roman Catholic"]
+     livesIn: [""]
+    
+    soninkeEthnicGroup:
+     stringTokens: ["Serahule", "Soninke people"]
+     wikidataQnode: ["Q1146970"]
+     languagesMostSpoken: ["Soninke"]
+     religionsMostPracticed: ["Sunni Islam"]
+     livesIn: ["Basse"]
+    
+  ## politicalparties
+    udpParty:
+     stringTokens: ["United Democratic Party"]
+     wikidataQnode:  ["Q2495179"]
+  
+    aprcParty:
+     stringTokens: ["Alliance for Patriotic Reorientation and Construction"]
+     wikidataQnode:  ["Q2143319"]
+  
+    pdoisarty:
+     stringTokens: ["People's Democratic Organisation for Independence and Socialism"]
+     wikidataQnode:  ["Q2069620"]
+  
+    nrpParty:
+     stringTokens: ["National Reconciliation Party"]
+     wikidataQnode:  ["Q1786600"]
+  
+    prpParty:
+     stringTokens: ["People's Progressive Party"]
+     wikidataQnode:  ["Q1752906"]
+  
+    gdcParty:
+     stringTokens: ["Gambia Democratic Congress"]
+     wikidataQnode:  ["Q28949959"]
+
+    naddParty:
+     stringTokens: ["National Alliance for Democracy and Development"]
+     wikidataQnode:  ["National Alliance for Democracy and Development"]
+  
+    gppParty:
+     stringTokens: ["Gambian People's Party"]
+     wikidataQnode:  ["Q1294641"]
+
+    upParty:
+     stringTokens: ["United Party"]
+     wikidataQnode:  ["Q1409964"]
+  
+    dcaParty:
+     stringTokens: ["Democratic Congress Alliance"]
+     wikidataQnode:  ["Q1185839"]
+
+    mcpParty:
+     stringTokens: ["Muslim Congress Party"]
+     wikidataQnode:  ["Q1492935"]
+  
+    dpParty:
+     stringTokens: ["Democratic Party"]
+     wikidataQnode:  ["Q2698062"]
+  
+  ## armed groups
+    ArmedGroup:
+     stringTokens: ["National Revolutionary Council", "NRC"]
+     associatedEthnicGroup: ["Jola people"]
+     wikidataQnode: [""]
+     time: ["1994-1996"]
+  

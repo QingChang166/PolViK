@@ -1,0 +1,144 @@
+concepts:
+    SenegaleseSecurityForces:
+     stringTokens: ["Armed Forces of Senegal", "Military of Senegal"]
+     wikidataQnode: ["Q833095"]
+  
+  ## ethnicgroups
+    wolofEthnicGroup:
+     stringTokens: ["Wolof people"]
+     wikidataQnode: ["Q217397"]
+     languagesMostSpoken: ["Wolof language"]
+     religionsMostPracticed: ["Sunni Islam"]
+     livesIn: ["Northwestern Region"]
+    
+    fulaEthnicGroup:
+     stringTokens: ["Fula people", "Fulani", "Peul", "Fulbe"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Middle Senegal River Valley"]
+
+    jolaEthnicGroup:
+     stringTokens: ["Jola people", "Jola", "Diola", "Ajamat"]
+     wikidataQnode: ["Q1226906"]
+     languagesMostSpoken: ["Jola"]
+     religionsMostPracticed: ["Animism", "Islam"]
+     livesIn: ["Lower Casamance region"]
+
+    sererEthnicGroup:
+     stringTokens: ["Serer people"]
+     wikidataQnode: ["Q739970"]
+     languagesMostSpoken: ["Serer"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Thiès region", "Fatick regions"]
+
+    bainukEthnicGroup:
+     stringTokens: ["Bainuk people"]
+     wikidataQnode: ["Q803905"]
+     languagesMostSpoken: ["Banyum language"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+
+    balantaEthnicGroup:
+     stringTokens: ["Balanta people"]
+     wikidataQnode: ["Q804639"]
+     languagesMostSpoken: ["Balanta"]
+     religionsMostPracticed: ["Roman Catholicism", "Islam"]
+     livesIn: [""]
+
+    manjakEthnicGroup:
+     stringTokens: ["Manjak people"]
+     wikidataQnode: ["Q1726724"]
+     languagesMostSpoken: ["Manjak"]
+     religionsMostPracticed: ["Christianity", "Islam"]
+     livesIn: [""]
+
+    mankanyaEthnicGroup:
+     stringTokens: ["Mankanya people"]
+     wikidataQnode: ["Q3285298"]
+     languagesMostSpoken: ["Mankanya"]
+     religionsMostPracticed: ["Roman Catholic"]
+     livesIn: [""]
+
+    karoninkaEthnicGroup:
+     stringTokens: ["Karoninka people", "Karone"]
+     wikidataQnode: ["Q3193565"]
+     languagesMostSpoken: ["Karon"]
+     religionsMostPracticed: [""]
+     livesIn: ["Casamance"]
+
+    mandinkaEthnicGroup:
+     stringTokens: ["Mandinka people"]
+     wikidataQnode: ["Q819186"]
+     languagesMostSpoken: ["Manding"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+    
+  ## politicalparties
+    afpParty:
+     stringTokens: ["Alliance of the Forces of Progress"]
+     wikidataQnode:  ["Q2217942"]
+  
+    psParty:
+     stringTokens: ["Socialist Party of Senegal"]
+     wikidataQnode:  ["Q2054438"]
+  
+    ajapdsParty:
+     stringTokens: ["And-Jëf/African Party for Democracy and Socialism"]
+     wikidataQnode:  ["Q489541"]
+  
+    sdpParty:
+     stringTokens: ["Senegalese Democratic Party"]
+     wikidataQnode:  ["Senegalese Democratic Party"]
+  
+    aprParty:
+     stringTokens: ["Alliance for the Republic "]
+     wikidataQnode:  ["Q2838226"]
+  
+    bggParty:
+     stringTokens: ["Bokk Gis Gis"]
+     wikidataQnode:  ["Q20982148"]
+
+    pssParty:
+     stringTokens: ["Senegalese Solidarity Party"]
+     wikidataQnode:  ["Q7450474"]
+  
+    udrParty:
+     stringTokens: ["Union for Democratic Renewal"]
+     wikidataQnode:  ["Q3550446"]
+
+    bpsParty:
+     stringTokens: ["Senegalese Popular Bloc"]
+     wikidataQnode:  ["Q2906761"]
+  
+    psasParty:
+     stringTokens: ["Senegalese Party of Socialist Action"]
+     wikidataQnode:  ["Q3366783"]
+
+    bdsParty:
+     stringTokens: ["Senegalese Democratic Bloc"]
+     wikidataQnode:  ["Q2364065"]
+  
+    sfioParty:
+     stringTokens: ["French Section of the Workers' International"]
+     wikidataQnode:  ["French Section of the Workers' International"]
+
+    usrParty:
+     stringTokens: ["Socialist Republican Union"]
+     wikidataQnode:  [""]
+
+    Party:
+     stringTokens: ["Takku Defaraat Sénégal"]
+     wikidataQnode:  ["Q7678432"]
+
+    Party:
+     stringTokens: ["Manko Taxawu Sénégal"]
+     wikidataQnode:  ["Q55643166"]
+  
+  ## armed groups
+    ArmedGroup:
+     stringTokens: ["Movement of Democratic Forces of Casamance", "MFDC"]
+     associatedEthnicGroup: ["Jola people"]
+     wikidataQnode: ["Q178254"]
+  
+    
