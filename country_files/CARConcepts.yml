@@ -1,7 +1,7 @@
 concepts:
   CentralAfricanArmedForces:
    stringTokens: ["Central African Ground Forces", "Central African Air Force", "National Gerdarmerie", "Republican Guard", "National Police", "CAAF", "Central African Forces", "FACA"]
-  ##ethnicgroups
+##ethnicandlanguagegroups
   sangoEthnicGroup:
    stringTokens: ["Sango", "Sango people"]
    wikidataQnode: ["Q60849912"]
@@ -86,6 +86,7 @@ concepts:
    stringTokens: ["Ali", "Ali language"]
    wikidataQnode: ["Q34814"]
    livesIn: ["Ombella M'Poko"]
+   
 ##armedgroup
   upcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UPC", "Union for Peace in the Central African Republic"]
