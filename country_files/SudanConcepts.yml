@@ -1,11 +1,7 @@
 concepts:
   SudaneseArmedForces:
     stringTokens: ["Sudanese Armed Forces", "SAF"]
-    wikidataQnode: ["Q18210867"]
-  rsfproGovernmentMilitia:
-    stringTokens: ["Rapid Support Forces", "RSF"]
-    wikidataQnode: ["Q18210867"]
-  ##ethnic group
+##ethnic group
   bejaEthnicGroup:
     stringTokens: ["Beja People", "Beja"]
     wikidataQnode: ["Q813961"]
@@ -61,7 +57,11 @@ concepts:
     stringTokens: ["Rashaida people", "Bani Rasheed"]
     wikidataQnode: ["Q1540444"]
     livesIn: ["Tokar"]
-  ##armed groups
+##political party
+  splmioPoliticalParty:
+    stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM-IO"]
+    wikidataQnode: ["Q17022177"]
+##armed groups
   bejacongressArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Beja Congress", "BC"]
     wikidataQnode: ["Q814968"]
@@ -105,6 +105,6 @@ concepts:
   slmawArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan Liberation Movement/Army (al-Nur)", "SLM (al-Nur)", "SLM-AW", "SLA-AW"]
     livesIn: ["Fur"]
-  splmioPoliticalParty:
-    stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM-IO"]
-    wikidataQnode: ["Q17022177"]
+  rsfproGovernmentMilitia:
+    stringTokens: ["Rapid Support Forces", "RSF"]
+    wikidataQnode: ["Q18210867"]
