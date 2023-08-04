@@ -1,7 +1,7 @@
 concepts:
   SouthSudaneseArmedForces:
     stringTokens: ["South Sudan People's Defence Forces", "SSPDF", "Sudan People's Liberation Army", "SPLA"]
-    wikidataQnode: ["Q912908"]
+##ethinic groups
   lotukoEthnicGroup:
     stringTokens: ["Lotuko people", "Lotuko", "Otuho", "Latuka", "Lotuho"]
     wikidataQnode: ["Q115862"]
