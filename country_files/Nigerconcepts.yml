@@ -1,7 +1,6 @@
 nafconcepts:
     SecurityForces:
      stringTokens: ["Niger Armed Forces", "FAN", "NAF"]
-     wikidataQnode: ["Q692228"]
 ## ethnicgroups
     hausaEthnicGroup:
      stringTokens: ["Hausa", "Hausa people", "Haussa"]
