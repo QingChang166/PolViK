@@ -2,9 +2,6 @@ concepts:
   TanzaniaSecurityForces:
    stringTokens: ["Tanzania People's Defense Force", "TPDF", "Jeshi la Wanachi wa Tanzania", "JWTZ", "Tanzanian Police Force", "Polisi wa Tanzania", "Field Force Unit", "FFU",
                    "Tanzania Intelligence and Security Service", "TISS", "Usalama wa Taifa", "Tanzanian Army", "Tanzanian Police"  ]  
-
-
-
 ##ethnicgroups
   SukumaEthnicGroup:
    stringTokens: ["Sukuma", "Basukuma", "Suku", "Wasukuma"]  
@@ -105,7 +102,7 @@ concepts:
    livesIn: ["Tanga"] ##administrative state, region 
  IndoTanzanianEthnicGroup:
    stringTokens: ["Indians", "Asians in Tanzania", "Indo-Tanzanians"]
-   wikidataQnode: ["Q6024143)"]
+   wikidataQnode: ["Q6024143"]
    religionsMostPracticed: ["Islam", "Hindu"]
    livesIn: ["Zanzibar", "Dar es Salaam", "Arusha"] ##administrative state, region 
 
@@ -118,7 +115,7 @@ concepts:
    yearsActiveasParty: ["1992-Present"]
  ActParty:
    stringTokens: ["ACT-Wazalendo", "Alliance for Change and Transparency"]
-   yearsActiveasParty: ["2014-Present"
+   yearsActiveasParty: ["2014-Present"]
  CUFParty:  
    stringTokens:["Civic United Front", "CUF", "Chama Cha Wanachi"]
    yearsActiveasParty: ["1992-2019"]
