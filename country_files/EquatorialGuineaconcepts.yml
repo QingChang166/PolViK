@@ -1,0 +1,74 @@
+concepts:
+    EquatorialGuineaSecurityForces:
+     stringTokens: ["Armed Forces of Equatorial Guinea", "Military of Equatorial Guinea", "Equatorial Guinean military", "FAGE"]
+     wikidataQnode: ["Q2591870"]
+  
+  ## ethnicgroups
+   FangEthnicGroup:
+     stringTokens: ["Fang people", "Fang"]
+     wikidataQnode: ["Q1295544"]
+     languagesMostSpoken: ["Fang language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Río Muni"]
+
+   BubiEthnicGroup:
+     stringTokens: ["Bubi people", "Bobe", "Voove", "Ewota", "Bantu Bubi"]
+     wikidataQnode: ["Q41477"]s
+     languagesMostSpoken: ["Bube language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Bioko Island"]
+
+   KombeEthnicGroup:
+     stringTokens: ["Kombe people", "Ndowe"]
+     wikidataQnode: ["Q1154419"]
+     languagesMostSpoken: ["Kombe language"]
+     religionsMostPracticed: [""]
+     livesIn: ["Corsico Bay"]
+
+   FernandinoEthnicGroup:
+     stringTokens: ["Fernandino peoples"]
+     wikidataQnode: ["Q4483033"]
+     languagesMostSpoken: ["Fernando Poo Creole English"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Fernando Pó"]
+
+   AnnoboneseEthnicGroup:
+     stringTokens: ["Annobonese", "Annobon"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Portuguese Creole", "Annobosene Creole", "Fa d'Ambu"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Annobón"]
+    
+  ## politicalparties
+   CPDSPoliticalParty:
+     stringTokens: ["Convergence for Social Democracy"]
+     wikidataQnode:  ["Q2996391"]
+     associatedethnicgroup: ["Fang people"]
+     yearsActiveasParty: ["1990-present"]
+
+   PDGEPoliticalParty:
+     stringTokens: ["Democratic Party of Equatorial Guinea"]
+     wikidataQnode:  ["Q945167"]
+     yearsActiveasParty: ["1987-present"]
+
+   PAEGPoliticalParty:
+     stringTokens: ["Popular Action of Equatorial Guinea"]
+     wikidataQnode:  ["Q5656225"]
+     yearsActiveasParty: ["1990-present"]
+
+   PUEGPoliticalParty:
+     stringTokens: ["Popular Union of Equatorial Guinea"]
+     wikidataQnode:  ["Q18618907"]
+     yearsActiveasParty: ["1992-present"]
+
+   PIEGPoliticalParty:
+     stringTokens: ["Popular Idea of Equatorial Guinea"]
+     wikidataQnode:  ["Q9006697"]
+     yearsActiveasParty: ["1958-1970"]
+  
+   PUNTPoliticalParty:
+     stringTokens: ["United National Workers' Party"]
+     wikidataQnode:  ["Q1606430"]
+     yearsActiveasParty: ["1970-1979"]
+
+   

@@ -1,0 +1,118 @@
+concepts:
+    GuineaBissauSecurityForces:
+     stringTokens: ["Armed Forces of Guinea-Bissau" , "Military of Guinea-Bissau", "Revolutionary Armed Forces of the People"]
+     wikidataQnode: ["Q147717"]
+  
+  ## ethnicgroups
+   BalantaEthnicGroup:
+     stringTokens: ["Balanta people", "Balanta", "Balanda Brassa", "Balanta Mane", "Balante", "Brassa"]
+     wikidataQnode: ["Q804639"]
+     languagesMostSpoken: ["Balanta"]
+     religionsMostPracticed: ["Roman Catholicism"]
+     livesIn: ["Southern and central regions", "Tite"]
+
+   ManjakEthnicGroup:
+     stringTokens: ["Manjak people", "Manjaco", "Mandjak", "Manyako"]
+     wikidataQnode: ["Q1726724"]
+     languagesMostSpoken: ["Manjak language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Coastal areas", "Bigene"]
+
+   PapelEthnicGroup:
+     stringTokens: ["Papel people", "Papel", "Moium", "Oium", "Papei", "Pepel", "Pelels"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Papel"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Coastal areas", "Quinhamel"]
+
+   FulaEthnicGroup:
+     stringTokens: ["Fula people", "Fulani", "Peul"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula languages"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Bafatá", "Gabú", "Oio", "Cacheu"]
+
+   MandinkaEthnicGroup:
+     stringTokens: ["Mandinka people", "Mandinka"]
+     wikidataQnode: ["Q819186"]
+     languagesMostSpoken: ["Manding languages"]
+     religionsMostPracticed: ["Traditional religions"]
+     livesIn: ["Coastal areas", "Farim"]
+    
+  ## politicalparties
+   RGB-MBPoliticalParty:
+     stringTokens: ["Resistance of Guinea-Bissau-Bafatá Movement"]
+     wikidataQnode:  ["Q7315625"]
+     yearsActiveasParty: ["1986-present"]
+
+   PRSPoliticalParty:
+     stringTokens: ["Party for Social Renewal"]
+     wikidataQnode:  ["Q461351"]
+     yearsActiveasParty: ["1992-present"]
+
+   PAIGCPoliticalParty:
+     stringTokens: ["African Party for the Independence of Guinea and Cape Verde"]
+     wikidataQnode:  ["Q776352"]
+     yearsActiveasParty: ["1956-present"]
+
+   PUSDPoliticalParty:
+     stringTokens: ["United Social Democratic Party"]
+     wikidataQnode:  ["Q7889155"]
+     yearsActiveasParty: ["1992-present"]
+
+   PRIDPoliticalParty:
+     stringTokens: ["Republican Party for Independence and Development"]
+     wikidataQnode:  ["Q16968513"]
+     yearsActiveasParty: ["2008-present"]
+
+   UMPoliticalParty:
+     stringTokens: ["Union for Change"]
+     wikidataQnode:  ["Q7886422"]
+     yearsActiveasParty: ["1994-present"]
+
+   APU-PDGBPoliticalParty:
+     stringTokens: ["Assembly of the People United", "Assembly of the People United–Democratic Party of Guinea-Bissau"]
+     wikidataQnode:  ["Q65086399"]
+     yearsActiveasParty: ["2014-present"]
+
+   Madem-G15PoliticalParty:
+     stringTokens: ["Madem G15", "Movement for Democratic Alternation, Group of 15"]
+     wikidataQnode:  ["Q62258541"]
+     yearsActiveasParty: ["2018-present"]
+
+   FDPoliticalParty:
+     stringTokens: ["Democratic Front"]
+     wikidataQnode:  ["Q16740046"]
+     yearsActiveasParty: ["1991-present"]
+
+   PDPPoliticalParty:
+     stringTokens: ["Democratic Party of Progress"]
+     wikidataQnode:  ["Q16955766"]
+     yearsActiveasParty: ["1992-present"]
+
+   FDSPoliticalParty:
+     stringTokens: ["Democratic Social Front"]
+     wikidataQnode:  ["Q17043850"]
+     yearsActiveasParty: ["1990-present"]
+
+   LIPEPoliticalParty:
+     stringTokens: ["Guinean League for Ecological Protection"]
+     wikidataQnode:  ["Q16739990"]
+     yearsActiveasParty: ["1991-present"]
+
+   PRDPoliticalParty:
+     stringTokens: ["Party for Renewal and Development"]
+     wikidataQnode:  ["Q17037979"]
+     yearsActiveasParty: ["1992-2004"]
+
+   MUDPoliticalParty:
+     stringTokens: ["Unity Movement for Democracy"]
+     wikidataQnode:  ["Q16978150"]
+     yearsActiveasParty: ["1992-2004"]
+  
+  ## armed groups
+   MJCDPJArmedGroup:
+     stringTokens: ["Military Junta for the Consolidation of Democracy, Peace and Justice"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
