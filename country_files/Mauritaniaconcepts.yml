@@ -1,0 +1,110 @@
+concepts:
+    MauritaniaSecurityForces:
+     stringTokens: ["Armed Forces of Mauritania"]
+     wikidataQnode: ["Q769807"]
+  
+  ## ethnicgroups
+   BedaineEthnicGroup:
+     stringTokens: ["Beidane", "Beidane people", "Beydan", "Baydan", "White Moors"]
+     wikidataQnode: ["Q448649"]
+     languagesMostSpoken: ["Hassaniya Arabic"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Nouakchott"]
+
+   SahrawisEthnicGroup:
+     stringTokens: ["Sahrawi people", "Sahrawis"]
+     wikidataQnode: ["Q577055"]
+     languagesMostSpoken: ["Arabic"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Tiris Zemmour"]
+
+   HaratinEthnicGroup:
+     stringTokens: ["Haratin people", "Haratin", "Black Moors"]
+     wikidataQnode: ["Q1584897"]
+     languagesMostSpoken: ["Arabic"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: [""]
+    
+  ## politicalparties
+   RFDPoliticalParty:
+     stringTokens: ["Rally of Democratic Forces", "Assembly of Democratic Forces"]
+     wikidataQnode:  ["Q930378"]
+     yearsActiveasParty: ["2002-present"]
+
+   PPMPoliticalParty:
+     stringTokens: ["Mauritanian People's Party"]
+     wikidataQnode:  ["Q1698098"]
+     yearsActiveasParty: ["1961-1978"]
+
+   UDFPoliticalParty:
+     stringTokens: ["Union of Democratic Forces"]
+     wikidataQnode:  ["Q4119896"]
+     yearsActiveasParty: ["1991-2000"]
+
+   PRDPPoliticalParty:
+     stringTokens: ["Republican Party for Democracy and Renewal"]
+     wikidataQnode:  ["Q3366690"]
+     yearsActiveasParty: ["1992-present"]
+
+   APPPoliticalParty:
+     stringTokens: ["People's Progressive Alliance"]
+     wikidataQnode:  ["Q7165717"]
+    yearsActiveasParty: [""]
+
+   UPRPoliticalParty:
+     stringTokens: ["Union for the Republic"]
+     wikidataQnode:  ["Q7886485"]
+     yearsActiveasParty: ["2009-2022"]
+
+   RNRDPoliticalParty:
+     stringTokens: ["National Rally for Reform and Development"]
+     wikidataQnode:  ["Q12184844"]
+     yearsActiveasParty: ["2007-present"]
+
+   UFPPoliticalParty:
+     stringTokens: ["Union of the Forces of Progress"]
+     wikidataQnode:  ["Q4119039"]
+     yearsActiveasParty: ["1991-present"]
+
+   PRMPoliticalParty:
+     stringTokens: ["Mauritanian Regroupment Party"]
+     wikidataQnode:  ["Q15980850"]
+     yearsActiveasParty: ["1958-1961"]
+
+   PUDSPoliticalParty:
+     stringTokens: ["Socialist Democratic Unionist Party"]
+     wikidataQnode:  ["Q7550404"]
+     yearsActiveasParty: ["1994-present"]
+     associatedethnicgroup: ["Arab people"]
+
+   ACPoliticalParty:
+     stringTokens: ["Action for Change"]
+     wikidataQnode:  ["Q4677199"]
+    yearsActiveasParty: ["1996-2002"]
+
+   UPMPoliticalParty:
+     stringTokens: ["Mauritanian Progressive Union"]
+     wikidataQnode:  ["Q17009697"]
+    yearsActiveasParty: ["1948-1958"]
+
+   RDUPoliticalParty:
+     stringTokens: ["Rally for Democracy and Unity"]
+     wikidataQnode:  ["Q7287085"]
+    yearsActiveasParty: ["1991-present"]
+
+   UDPPoliticalParty:
+     stringTokens: ["Union for Democracy and Progress"]
+     wikidataQnode:  ["Q9091826"]
+     yearsActiveasParty: ["1993-present"]
+  
+  ## armed groups
+   AQIMArmedGroup:
+     stringTokens: ["al-Qaeda in the Islamic Maghreb"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q2635966"]
+  
+   PolisarioArmedGroup:
+     stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario"]
+     associatedEthnicGroup: ["Sahrawi people"]
+     wikidataQnode: ["Q240425"]
+  
