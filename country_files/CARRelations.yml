@@ -1,6 +1,15 @@
 relations:
-  - (officialStateSecurityForces, )
-  - (ethnicGroup, )
+  - (officialStateSecurityForces, CentralAfricanArmedForces)
+  - (ethnicGroup, sango)
+  - (ethnicGroup, mandja)
+  - (ethnicGroup, gbaya)
+  - (ethnicGroup, banda)
+  - (ethnicGroup, 
+  - (LanguageGroup, bandalinda)
+  - (LanguageGroup, fulani)
+  - (LanguageGroup, bandabanda)
+  - (ethnicGroup, yakoma)
+  - (LanguageGroup, 
   - (politicalParty, )
   - (ArmedNonGovernmentalOrganizedGroup, )
   - (armedGroup, )
