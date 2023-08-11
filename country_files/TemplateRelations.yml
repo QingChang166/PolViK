@@ -1,5 +1,7 @@
 relations:
   - (officialStateSecurityForces, )
   - (ethnicGroup, )
-  - (armedGroup, ) 
+  - (politicalParty, )
+  - (ArmedNonGovernmentalOrganizedGroup, )
+  - (armedGroup, )
   - (politicalParty, )
