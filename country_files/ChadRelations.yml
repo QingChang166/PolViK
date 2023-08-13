@@ -30,4 +30,3 @@ relations:
   - (armedGroup, cnt)
   - (armedGroup, anr)
   - (armedGroup, cdr)
-  - (politicalParty, )
