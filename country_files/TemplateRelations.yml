@@ -4,4 +4,3 @@ relations:
   - (politicalParty, )
   - (ArmedNonGovernmentalOrganizedGroup, )
   - (armedGroup, )
-  - (politicalParty, )
