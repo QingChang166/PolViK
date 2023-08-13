@@ -1,0 +1,13 @@
+relations:
+  - (officialStateSecurityForces, EquatorialGuineaSecurityForces)
+  - (ethnicGroup, Fang)
+  - (ethnicGroup, Bubi)
+  - (ethnicGroup, Kombe)
+  - (ethnicGroup, Fernandino)
+  - (ethnicGroup, Annobonese)
+  - (politicalParty, CPDS)
+  - (politicalParty, PDGE)
+  - (politicalParty, PAEG)
+  - (politicalParty, PUEG)
+  - (politicalParty, PIEG)
+  - (politicalParty, PUNT)
