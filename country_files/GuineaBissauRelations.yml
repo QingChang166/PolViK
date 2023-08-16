@@ -1,0 +1,10 @@
+relations:
+  - (officialStateSecurityForces, GuineaBissauSecurityForces)
+  - (ethnicGroup, Balanta)
+  - (ethnicGroup, Manjak)
+  - (ethnicGroup, Papel)
+  - (ethnicGroup, Fula)
+  - (ethnicGroup, Mandinka)
+  - (politicalParty, )
+  - (ArmedNonGovernmentalOrganizedGroup, )
+  - (armedGroup, )
