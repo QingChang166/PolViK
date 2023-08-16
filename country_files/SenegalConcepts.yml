@@ -136,7 +136,7 @@ concepts:
      wikidataQnode:  ["Q55643166"]
   
   ## armed groups
-    ArmedGroup:
+    mfdcArmedGroup:
      stringTokens: ["Movement of Democratic Forces of Casamance", "MFDC"]
      associatedEthnicGroup: ["Jola people"]
      wikidataQnode: ["Q178254"]
