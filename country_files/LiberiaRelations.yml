@@ -1,5 +1,5 @@
 relations:
-  - (officialStateSecurityForces, )
+  - (officialStateSecurityForces, LiberianArmedForces)
   - (ethnicGroup, )
   - (politicalParty, )
   - (ArmedNonGovernmentalOrganizedGroup, )
