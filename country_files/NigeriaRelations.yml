@@ -10,13 +10,7 @@ relations:
   - (ethnicGroup, ibibio)
   - (ethnicGroup, nupe)
   - (ethnicGroup, gwari)
-  - (armedGroup, badOneArmedGroup) 
-  - (politicalParty, badOnePoliticalParty)
-
-  
-  
-
 ###NEED ceoncept name not string name
 ##connect parents to children
-##we are encoding "is a" relations not "related" relations so don't worry about political parties that are are also armed groups, treat them as two seperate entities
+##we are encoding "is a" relations not "related" relations so don't worry about political parties that are also armed groups, treat them as two seperate entities
 
