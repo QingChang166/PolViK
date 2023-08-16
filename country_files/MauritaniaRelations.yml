@@ -1,0 +1,8 @@
+relations:
+  - (officialStateSecurityForces, MauritaniaSecurityForces)
+  - (ethnicGroup, Bedaine)
+  - (ethniGroup, Sahrawis)
+  - (ethnicGroup, Haratin)
+  - (politicalParty, )
+  - (ArmedNonGovernmentalOrganizedGroup, )
+  - (armedGroup, )
