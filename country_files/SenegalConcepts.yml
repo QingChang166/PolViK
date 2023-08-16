@@ -127,11 +127,11 @@ concepts:
      stringTokens: ["Socialist Republican Union"]
      wikidataQnode:  [""]
 
-    Party:
+    tdsParty:
      stringTokens: ["Takku Defaraat Sénégal"]
      wikidataQnode:  ["Q7678432"]
 
-    Party:
+    mtsParty:
      stringTokens: ["Manko Taxawu Sénégal"]
      wikidataQnode:  ["Q55643166"]
   
