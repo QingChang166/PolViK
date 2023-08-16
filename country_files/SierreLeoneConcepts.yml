@@ -86,25 +86,6 @@ concepts:
     sherbroLinguisticGroup:
       stringTokens: ["Sherbro language", "Sherbro"]
       wikidataQnode: ["Q36339"]
-###armed groups
-    rufArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["Revolutionary United Front", "RUF"]
-      wikidataQnode: ["Q1141973"]
-      yearsActiveasArmedGroup: ["1991-2002"]
-    afrcArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["Armed Forces Revolutionary Council", "AFRC"]
-      wikidataQnode: ["Q4793014"]
-      yearsActiveasArmedGroup: ["1997-2002"]
-    wsbArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["West Side Boys", "WSB", "West Side Niggaz", "West Side Junglers"]
-      wikidataQnode: ["Q614512"]
-      yearsActiveasArmedGroup: ["1998-2000"]
-    kamajorsArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["Kamajors"]
-      wikidataQnode: ["Q776493"]
-    cdfproGovernmentMilitia:
-      stringTokens: ["Civil Defense Forces", "CDF"]
-      wikidataQnode: ["Q5124462"]
 ### Political parties
     slppPoliticalParty:
       stringTokens: ["Sierra Leone People's Party", "SLPP"]
@@ -136,3 +117,22 @@ concepts:
     nadpPoliticalParty:
       stringTokens: ["National Alliance Democratic Party"]
       wikidataQnode: ["Q6970284"]
+###armed groups
+    rufArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Revolutionary United Front", "RUF"]
+      wikidataQnode: ["Q1141973"]
+      yearsActiveasArmedGroup: ["1991-2002"]
+    afrcArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Armed Forces Revolutionary Council", "AFRC"]
+      wikidataQnode: ["Q4793014"]
+      yearsActiveasArmedGroup: ["1997-2002"]
+    wsbArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["West Side Boys", "WSB", "West Side Niggaz", "West Side Junglers"]
+      wikidataQnode: ["Q614512"]
+      yearsActiveasArmedGroup: ["1998-2000"]
+    kamajorsArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Kamajors"]
+      wikidataQnode: ["Q776493"]
+    cdfproGovernmentMilitia:
+      stringTokens: ["Civil Defense Forces", "CDF"]
+      wikidataQnode: ["Q5124462"]
