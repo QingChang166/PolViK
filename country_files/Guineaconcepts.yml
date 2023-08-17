@@ -1,0 +1,159 @@
+concepts:
+   GuineaSecurityForces:
+     stringTokens: ["Republic of Guinea Armed Forces", "Military of Guinea", "Guinean military", "Guinean Armed Forces"]
+     wikidataQnode: ["Q835345"]
+  
+  ## ethnicgroups
+   MalinkeEthnicGroup:
+     stringTokens: ["Malinke", "Malinke people", "Mandinka"]
+     wikidataQnode: ["Q819186"]
+     languagesMostSpoken: ["Manding language"]
+     religionsMostPracticed: ["Traditional religions"]
+     livesIn: ["Kouroussa"]
+
+   FulaEthnicGroup:
+     stringTokens: ["Fula people", "Fulani", "Fulbe"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula language"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Koundara Prefecture", "Fouta Djallon", "Mamou", "Labé Prefecture"]
+
+   SusuEthnicGroup:
+     stringTokens: ["Susu people", "Susu"]
+     wikidataQnode: ["Q1479265"]
+     languagesMostSpoken: ["Susu language"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Forécariah Prefecture", "Pamelap town", "Bissikrima town", "Faranah Prefecture"]
+
+   KisiiEthnicGroup:
+     stringTokens: ["Kissi people", "Kisi", "Kisii"]
+     wikidataQnode: ["Q1743773"]
+     languagesMostSpoken: ["Kissi language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Kissidougou"]
+
+   KpelleEthnicGroup:
+     stringTokens: ["Kpelle people", "Gberese", "Gerze", "Guerze", "Kpelli", "Kpwélé", "Kpwesi"]
+     wikidataQnode: ["Q930128"]
+     languagesMostSpoken: ["Kpelle language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Nzérékoré"]
+
+   LomaEthnicGroup:
+     stringTokens: ["Loma people", "Loma", "Toma", "Loghoma", "Looma", "Lorma"]
+     wikidataQnode: ["Q1859406"]
+     languagesMostSpoken: ["Loma language"]
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Macenta"]
+    
+  ## politicalparties
+   PRGPoliticalParty:
+     stringTokens: ["Rally of the Guinean People"]
+     wikidataQnode:  ["Q2663294"]
+
+   UFDGPoliticalParty:
+     stringTokens: ["Union of Democratic Forces of Guinea"]
+     wikidataQnode:  ["Q577455"]
+     associatedEthnicGroup: ["Malinke people"]
+
+   UFRPoliticalParty:
+     stringTokens: ["Union of Republican Forces"]
+     wikidataQnode:  ["Q3550145"]
+
+   UPRPoliticalParty:
+     stringTokens: ["Union for Progress and Renewal"]
+     wikidataQnode:  ["Q7886460"]
+
+   DPG-ADRPoliticalParty:
+     stringTokens: ["Democratic Party of Guinea – African Democratic Rally"]
+     wikidataQnode:  ["Q1186265"]
+
+   UNRPoliticalParty:
+     stringTokens: ["Union for the New Republic"]
+     wikidataQnode:  ["Q1971828"]
+
+   PUPPoliticalParty:
+     stringTokens: ["Unity and Progress Party"]
+     wikidataQnode:  ["Q1583061"]
+
+   DSGPoliticalParty:
+     stringTokens: ["Socialist Democracy of Guinea"]
+     wikidataQnode:  ["Q7551545"]
+
+   ADPGPoliticalParty:
+     stringTokens: ["African Democratic Party of Guinea"]
+     wikidataQnode:  ["Q4689747"]
+  
+   ANPPoliticalParty:
+     stringTokens: ["National Alliance for Progress"]
+     wikidataQnode:  ["Q6970301"]
+
+   NFDPoliticalParty:
+     stringTokens: ["New Democratic Forces "]
+     wikidataQnode:  ["Q97151861"]
+
+   PULSPoliticalParty:
+     stringTokens: ["Party of Unity and Social Liberalism"]
+     wikidataQnode:  ["Q7140316"]
+
+   PPGPoliticalParty:
+     stringTokens: ["People's Party of Guinea"]
+     wikidataQnode:  ["Q16911346"]
+
+   PUDPoliticalParty:
+     stringTokens: ["Union for Development Party"]
+     wikidataQnode:  ["Q7886441"]
+
+   UPRPoliticalParty:
+     stringTokens: ["Union for Progress and Renewal"]
+     wikidataQnode:  [""]
+
+   UPGPoliticalParty:
+     stringTokens: ["Union for the Progress of Guinea"]
+     wikidataQnode:  ["Q7886481"]
+
+   UFRPoliticalParty:
+     stringTokens: ["Union of Republican Forces"]
+     wikidataQnode:  ["Q3550145"]
+
+   UFCPoliticalParty:
+     stringTokens: ["Union of the Forces of Change "]
+     wikidataQnode:  ["Q106898662"]
+
+  ## armed groups
+   RDFGArmedGroup:
+     stringTokens: ["Rally of Democratic Forces of Guinea"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q18393334"]
+  
+   AFRCArmedGroup:
+     stringTokens: ["Armed Forces Revolutionary Council", "AFRC"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q4793014"]
+  
+   LDFArmedGroup:
+     stringTokens: ["Lofa Defense Force"]
+     associatedEthnicGroup: ["Loma people"]
+     wikidataQnode: ["Q6666641"]
+  
+   ULIMOKArmedGroup:
+     stringTokens: ["ULIMO", "United Liberation Movement for Democracy in Liberia"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q7888232"]
+  
+   RUFArmedGroup:
+     stringTokens: ["Revolutionary United Front"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q1141973"]
+  
+ ## ProGovernment Militia
+   
+   CamaraproGovernmentMilitia:
+     stringTokens: ["Camara's Militias"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+
+   DonzosproGovernmentMilitia:
+     stringTokens: ["Donzos Militia"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
