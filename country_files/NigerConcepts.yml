@@ -21,7 +21,7 @@ nafconcepts:
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Agadez", "Tanout", "Arlit", "Tahoua", "Tillabéri", "Filingué"]
     fulaniEthnicGroup:
-     stringTokens: ["Fulani", "Fulani people", "Fulbe", "Fula"]
+     stringTokens: ["Fulani", "Fulani people", "Fulbe", "Fula", "Peuhl", "Peul"]
      wikidataQnode: ["Q202575"]
      languagesMostSpoken: ["Fula"]
      religionsMostPracticed: ["Islam"]
