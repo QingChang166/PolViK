@@ -9,7 +9,7 @@ nafconcepts:
      religionsMostPracticed: ["Islam"]
      livesIn: ["Maradi"]
     zarmaEthnicGroup:
-     stringTokens: ["Djerma-Songhai", "Zarma people"]
+     stringTokens: ["Djerma-Songhai", "Zarma people", "Zarma", "Djerma"]
      wikidataQnode: ["Q148004"]
      languagesMostSpoken: ["Zarma"]
      religionsMostPracticed: ["Islam"]
