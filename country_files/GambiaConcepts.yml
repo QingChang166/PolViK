@@ -131,7 +131,7 @@ concepts:
      wikidataQnode:  ["Q2698062"]
   
   ## armed groups
-    ArmedGroup:
+    nrcArmedGroup:
      stringTokens: ["National Revolutionary Council", "NRC"]
      associatedEthnicGroup: ["Jola people"]
      wikidataQnode: [""]
