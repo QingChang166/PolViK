@@ -23,5 +23,5 @@ relations:
   - (politicalParty, ncp)
   - (politicalParty, ugcc)
   - (armedGroup, nlc)
-  - (armedGroup, )
-  - (armedGroup, )
+  - (armedGroup, mfedea)
+  - (armedGroup, mfjjr)
