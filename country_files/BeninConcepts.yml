@@ -82,31 +82,31 @@ concepts:
      livesIn: [""]
     
   ## politicalparties
-    Party:
+    ddParty:
      stringTokens: ["Dahomeyan Democratic Party"]
      wikidataQnode:  ["Q18349964"]
   
-    Party:
+    ufbParty:
      stringTokens: ["Union for Future Benin"]
      wikidataQnode:  ["Q3550441"]
   
-    Party:
+    hfParty:
      stringTokens: ["Hope Force"]
      wikidataQnode:  ["Q16909755"]
   
-    Party:
+    nudpParty:
      stringTokens: ["National Union for Democracy and Progress"]
      wikidataQnode:  ["Q6979093"]
   
-    Party:
+    udfParty:
      stringTokens: ["United Democratic Force"]
      wikidataQnode:  ["Q20647991"]
   
-    Party:
+    rpdParty:
      stringTokens: ["Republican Party of Dahomey"]
      wikidataQnode:  ["Q18394066"]
 
-    Party:
+    amdpParty:
      stringTokens: ["African Movement for Development and Progress"]
      wikidataQnode:  ["Q4689865)"]
 
@@ -118,11 +118,11 @@ concepts:
      stringTokens: ["Dahomeyan Democratic Movement"]
      wikidataQnode:  ["Q18349960"]
 
-    Party:
+    prpbParty:
      stringTokens: ["People's Revolutionary Party of Beni"]
      wikidataQnode:  ["Q478120"]
 
-    Party:
+    kfParty:
      stringTokens: ["Key Force"]
      wikidataQnode:  ["Q3076831"]
 
@@ -138,7 +138,7 @@ concepts:
      stringTokens: ["Social Democratic Party"]
      wikidataQnode:  ["Q3088954"]
 
-    Party:
+    drpParty:
      stringTokens: ["Democratic Renewal Party"]
      wikidataQnode:  ["Q5255784"]
 
@@ -154,7 +154,7 @@ concepts:
      stringTokens: ["National Union for Solidarity and Development"]
      wikidataQnode:  ["Q18379625"]
 
-    Party:
+    msupParty:
      stringTokens: ["Movement for Solidarity, Union and Progress"]
      wikidataQnode:  ["Q18391359"]
 
@@ -166,11 +166,11 @@ concepts:
      stringTokens: ["Patriotic Revival Party"]
      wikidataQnode:  ["Q20982206"]
 
-    Party:
+    nrdParty:
      stringTokens: ["National Rally for Democracy"]
      wikidataQnode:  ["Q6975195"]
 
-    Party:
+    brpParty:
      stringTokens: ["Benin Rebirth Party"]
      wikidataQnode:  ["Q4888024"]
 
@@ -178,19 +178,19 @@ concepts:
      stringTokens: ["Our Common Cause"]
      wikidataQnode:  ["Q18358728"]
 
-    Party:
+    ldrnrvParty:
      stringTokens: ["Liberal Democrats' Rally for National Reconstruction – Vivoten"]
      wikidataQnode:  ["Q6540656"]
 
-    Party:
+    afrdParty:
      stringTokens: ["Action Front for Renewal and Development"]
      wikidataQnode:  ["Q3088445"]
 
-    Party:
+    udnsParty:
      stringTokens: ["Union for Democracy and National Solidarity"]
      wikidataQnode:  ["Q7886425"]
 
-    Party:
+    addParty:
      stringTokens: ["Alliance for a Democratic Dynamic"]
      wikidataQnode:  ["Q4732413"]
 
@@ -198,7 +198,7 @@ concepts:
      stringTokens: ["Union for the Triumph of Democratic Renewal"]
      wikidataQnode:  ["Q18356556"]
 
-    Party:
+    rprParty:
      stringTokens: ["Rally for Progress and Renewal"]
      wikidataQnode:  ["Q18393332"]
 
@@ -220,10 +220,4 @@ concepts:
      stringTokens: ["Jama'at Nasr al-Islam wal Muslimin", "JNIM"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q28877411"]
-  
-    ArmedGroup:
-     stringTokens: [""]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
-  
     
