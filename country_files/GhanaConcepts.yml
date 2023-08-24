@@ -133,12 +133,12 @@ concepts:
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q1967432"]
   
-    ArmedGroup:
+    mfedeaArmedGroup:
      stringTokens: ["The Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo)"]
      associatedEthnicGroup: ["Ga-Adangbe people"]
      wikidataQnode: [""]
   
-    ArmedGroup:
+    mfjjrArmedGroup:
      stringTokens: ["The Military faction (forces of Jerry John Rawlings)"]
      associatedEthnicGroup: [""]
      wikidataQnode: [""]
