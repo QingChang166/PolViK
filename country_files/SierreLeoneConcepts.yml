@@ -5,7 +5,7 @@ concepts:
     mendeEthnicGroup:
       stringTokens: ["Mende", "Mende people", "Boumpe", "Hulo", "Huro", "Kossa", "Kosso", "Mendi", "Kpa Mende", "Sewa Mende", "Ko Mende"]
       wikidataQnode: ["Q1262400"]
-      religionsMostPracticed: ["Islam", "Christianity", "Traditional"]
+      religionsMostPracticed: ["Islam", "Christianity", "Traditional religion"]
       livesIn: ["Bo", "Moyamba", "Pujehun", "Bonthe", "Kailahun", "Kenema", "Freetown"]
     temneEthnicGroup:
       stringTokens: ["Temne people", "Temne", "Temen", "Timni", "Time people", "Timmanee", "Atemne", "Temeni"]
@@ -35,7 +35,7 @@ concepts:
     krioEthnicGroup:
       stringTokens: ["Krio", "Krio people", "Creole"]
       wikidataQnode: ["Q2983498"]
-      religionsMostPracticed: ["Anglican", "Methodist", "Catholic", "Baptist"]
+      religionsMostPracticed: ["Anglican", "Methodist", "Catholicism", "Baptist"]
       livesIn: ["Freetown", "Bo", "Kenema", "Makeni"]
     okuEthnicGroup:
       stringTokens: ["Oku", "Oku people", "Aku Marabout", "Yoruba"]
@@ -64,7 +64,7 @@ concepts:
     kissiEthnicGroup:
       stringTokens: ["Kissi", "Kissi people", "Kisi"]
       wikidataQnode: ["Q1743773"]
-      religionsMostPracticed: ["Christianity", "Traditional", "Islam"]
+      religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
       livesIn: ["Kailahun", "Kono", "Pujehun"]
     sherbroEthnicGroup:
       stringTokens: ["Sherbro", "Sherbro people"]
