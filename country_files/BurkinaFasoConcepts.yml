@@ -77,7 +77,7 @@ concepts:
    stringTokens: ["Dagaaba people", "Dagaaba"]
    wikidataQnode: ["Q1157179"]
    languagesMostSpoken: ["Dagaare language"]
-   religionsMostPracticed: ["Traditional", "Islam", "Christianity"]
+   religionsMostPracticed: ["Traditional religion", "Islam", "Christianity"]
    livesIn: ["Léraba", "Ioba", "Kénédougou", "Noumbiel,"]
   biriforEthnicGroup:
    stringTokens: ["Birifor people"]
