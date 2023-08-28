@@ -11,7 +11,7 @@ Cameroonarmedforcesconcepts:
      stringTokens: ["Bamileke people"] # it is a semi-Bantu community
      wikidataQnode: ["Q806017"]
      languagesMostSpoken: ["Bamileke languages"]
-     religionsMostPracticed: ["Traditional"]
+     religionsMostPracticed: ["Traditional religion"]
      livesIn: ["West", "North-West", "South-West"]
     bamumEthnicGroup:
      stringTokens: ["Bamum people"]
