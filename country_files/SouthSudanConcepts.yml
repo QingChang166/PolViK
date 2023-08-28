@@ -20,7 +20,7 @@ concepts:
     wikidataQnode: ["Q200453"]
     associatedEthnicGroup: ["Bari"]
     languagesMostSpoken: ["Bari language"]
-    religionsMostPracticed: ["Christianity", "African traditional Religion", "Islam"]
+    religionsMostPracticed: ["Christianity", "African traditional religion", "Islam"]
   ##politicalparty
   splmPoliticalParty:
     stringTokens: ["SPLM", "Sudan People's Liberation Movement"]
