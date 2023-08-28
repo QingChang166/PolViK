@@ -68,25 +68,25 @@ TurkanaEthnicGroup:
    stringTokens: ["Turkana", "njTurkana", "Elgume", "Ng'aturkana", "Ng'aturkwana"]
    wikidataQnode: ["Q1453190"]  
    languagesMostSpoken: ["Turkana"]  
-   religionsMostPracticed: ["Christian"] 
+   religionsMostPracticed: ["Christianity"] 
    livesIn: ["Turkana County"]  ##administrative state, region
 EmbuEthnicGroup:
    stringTokens: ["Aembu", "Embu", "Kiemba"]
    wikidataQnode: ["Q2749449"]  
    languagesMostSpoken: ["Kîembu"]  
-   religionsMostPracticed: ["Christian"] 
+   religionsMostPracticed: ["Christianity"] 
    livesIn: ["Embu County"]  ##administrative state, region
 TaitaEthnicGroup:
    stringTokens: ["Taita", "Dawida", "Wataita"]
    wikidataQnode: ["Q1276078"]  
    languagesMostSpoken: ["Taita"]  
-   religionsMostPracticed: ["Christian"] 
+   religionsMostPracticed: ["Christianity"] 
    livesIn: ["Taita-Taveta County"]  ##administrative state, region
 KuriaEthnicGroup:
    stringTokens: ["Kuria", "AbaKurya]
    wikidataQnode: ["Q1552724"]  
    languagesMostSpoken: ["Ikikuria"]  
-   religionsMostPracticed: ["Christian"] 
+   religionsMostPracticed: ["Christianity"] 
    livesIn: ["Migori County"]  ##administrative state, region
  SwahiliEthnicGroup:
    stringTokens: ["Swahili", "Kiswahili", "Waswahili", "Suaheli", "Suaili", "Wasuaheli"]
