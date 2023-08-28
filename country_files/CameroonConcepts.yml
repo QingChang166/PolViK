@@ -97,7 +97,7 @@ Cameroonarmedforcesconcepts:
   ## politicalparties
     sdfParty:
      stringTokens: ["Social Democratic Front"]
-     wikidataQnode:  ["Q1470113"
+     wikidataQnode:  ["Q1470113"]
     cuParty:
      stringTokens: ["Cameroonian Union"]
      wikidataQnode:  ["Q5026464"]
