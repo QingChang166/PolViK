@@ -24,22 +24,22 @@ concepts:
     kruEthnicGroup:
       stringTokens: ["Kru", "Kru people", "Caraw", "Krao", "Krou", "Kroomen", "Krumen"]
       wikidataQnode: ["Q1537493"]
-      religionsMostPracticed: ["Christianity", "African traditional religions", "Sunni Islam" ]
+      religionsMostPracticed: ["Christianity", "African traditional religion", "Sunni Islam" ]
       livesIn: ["Bas-Sassandra", "San-Pédro", "Sassandra-Marahoué", "Tabou", "Grand-Béréby", "San-Pédro"]
     beteEthnicGroup:
       stringTokens: ["Bété people", "Bété", "Betegbo", "Bhete"]
       wikidataQnode: ["Q1019506"]
-      religionsMostPracticed: ["Christianity", "Traditional religions",  ]
+      religionsMostPracticed: ["Christianity", "Traditional religion"]
       livesIn: ["Gôh-Djiboua", "Lôh-Djiboua", "Haut-Sassandra", "Marahoué", "Montagnes", "Guiglo", "Duekoué"]
     baouleEthnicGroup:
       stringTokens: ["Baoulé people", "Baoulé", "Baule", "Kwa"]
       wikidataQnode: ["Q811460"]
-      religionsMostPracticed: ["Christianity", "Traditional religions", ]
+      religionsMostPracticed: ["Christianity", "Traditional religion"]
       livesIn: ["Gbêkê", "Lôh-Djiboua", "Sassandra-Marahoué", "Haut-Sassandra", "Yamoussoukro"]
     anyiEthnicGroup:
       stringTokens: ["Anyi people", "Anyi", "Agnis", "Agni", "Ani", "Ndenie"]
       wikidataQnode: ["Q613920"]
-      religionsMostPracticed: ["Christianity", "Akan religion", ]
+      religionsMostPracticed: ["Christianity", "Akan religion"]
       livesIn: ["Moyen-Comoé", "Indénié-Djuablin", "Moronou", "Abengourou", "Agnibilékrou", "Bongouanou"]
     abbeEthnicGroup:
       stringTokens: ["Abbe", "Abbe people", "Abbé people"]
