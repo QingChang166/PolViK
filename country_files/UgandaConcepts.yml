@@ -8,61 +8,61 @@ concepts:
    stringTokens: ["Baganda", "Ganda", "Buganda"]  ##aliases
    wikidataQnode: ["Q403656"]  #wikidata q node
    languagesMostSpoken: ["Luganda"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Muslim", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Muslim", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Central Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   BasogaEthnicGroup:
    stringTokens: ["Basoga", "Soga"]  ##aliases
    wikidataQnode: ["Q41299204"]  #wikidata q node
    languagesMostSpoken: ["Lusoga"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Muslim", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Muslim", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Eastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   BakigaEthnicGroup:
    stringTokens: ["Bakiga", "Kiga", "Abakiga"]  ##aliases
    wikidataQnode: ["Q804430"]  #wikidata q node
    languagesMostSpoken: ["Rukiga"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Southwestern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   ItesoEthnicGroup:
    stringTokens: ["Iteso", "Teso"]  ##aliases
    wikidataQnode: ["Q1281344"]  #wikidata q node
    languagesMostSpoken: ["Ateso"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Eastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   LangiEthnicGroup:
    stringTokens: ["Langi", "Lango", "Langui"]  ##aliases
    wikidataQnode: ["Q1273334"]  #wikidata q node
    languagesMostSpoken: ["Leblango"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Northern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   AcholiEthnicGroup:
    stringTokens: ["Acholi", "Acoli", "Acooli", "Atscholi", "Gan", "Lira Palwo", "Shuli"]  ##aliases
    wikidataQnode: ["Q340581"]  #wikidata q node
    languagesMostSpoken: ["Acholi"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Northern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   BagisuEthnicGroup:
    stringTokens: ["Bagisu", "Gisu", "Bamasaba", "Gishu", "Masaba", "Sokwia"]  ##aliases
    wikidataQnode: ["Q799929"]  #wikidata q node
    languagesMostSpoken: ["Lugisu"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Eastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   BanyankoleEthnicGroup:
    stringTokens: ["Banyankole", "Nkole", "Nyankore", "Banyaankole", "Ankole", "Bayankore", "Ankore", "Nyankole"]  ##aliases
    wikidataQnode: ["Q3634450"]  #wikidata q node
    languagesMostSpoken: ["Runyankole"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Southwestern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   BatoroEthnicGroup:
    stringTokens: ["Batoro", "Toro", "Batooro", "Tooro"]  ##aliases
    wikidataQnode: ["Q16707038"]  #wikidata q node
    languagesMostSpoken: ["Rutoro"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Western Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here	
   BunyoroEthnicGroup:
    stringTokens: ["Bunyoro", "Nyoro", "Unyoro"]  ##aliases
    wikidataQnode: ["Q889897"]  #wikidata q node
    languagesMostSpoken: ["Runyoro"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "Traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Western Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   IndianEthnicGroup:
    stringTokens: ["Indians", "Asians", "Ugandan Asians", "Ugandan Indians"]  ##aliases
@@ -74,30 +74,30 @@ concepts:
    stringTokens: ["Alur", "Jupaliri"]  ##aliases
    wikidataQnode: ["Q202353"]  #wikidata q node
    languagesMostSpoken: ["Alur"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Northwestern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   KaramojongEthnicGroup:
    stringTokens: ["Karamojong", "Karimojong", "Karamoja", "Karamojo", "Karamajong", "Karama", "Karimajong", "Ngakarimongjong"]  ##aliases
    wikidataQnode: ["Q185549"]  #wikidata q node
    languagesMostSpoken: ["Ngakarimojong"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Northeastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   RwenzururuEthnicGroup:
    stringTokens: ["Rwenzururu", "Bakonjo", "Baamba", "Konjo", "Konzo", "Bakondjo", "Banande", "Nande", "Ndande", "Wakondjo", "Wanande", "Ndgandi", "Wahaondjo", "Yira"]  ##aliases
    wikidataQnode: ["Q804474"]  #wikidata q node
    languagesMostSpoken: ["Konjo", "Amba"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Western Uganda", "Rwenzori Mountains"]  places in country they live in, comment the geographic unit like ##administrative state  here
   SamiaEthnicGroup:
    stringTokens: ["Samia", "Samia-Bugwe", "Bugwe"]  ##aliases
    languagesMostSpoken: ["Lusamia"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["Christian", "traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Eastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
   BatwaEthnicGroup:
    stringTokens: ["Batwa", "Twa", "pygmy", "Echuya Batwa"]  ##aliases
    wikidataQnode: ["Q5332860"]  #wikidata q node
    languagesMostSpoken: ["Konjo", "Amba"]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["traditional beliefs"]  ##religions most practiced- can be blank
+   religionsMostPracticed: ["Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Southwestern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
 ##politicalparties
   NRMParty:
