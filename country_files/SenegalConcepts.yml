@@ -22,7 +22,7 @@ concepts:
      stringTokens: ["Jola people", "Jola", "Diola", "Ajamat"]
      wikidataQnode: ["Q1226906"]
      languagesMostSpoken: ["Jola"]
-     religionsMostPracticed: ["Animism", "Islam"]
+     religionsMostPracticed: ["Animist", "Islam"]
      livesIn: ["Lower Casamance region"]
 
     sererEthnicGroup:
@@ -43,7 +43,7 @@ concepts:
      stringTokens: ["Balanta people"]
      wikidataQnode: ["Q804639"]
      languagesMostSpoken: ["Balanta"]
-     religionsMostPracticed: ["Roman Catholicism", "Islam"]
+     religionsMostPracticed: ["Roman Catholic", "Islam"]
      livesIn: [""]
 
     manjakEthnicGroup:
