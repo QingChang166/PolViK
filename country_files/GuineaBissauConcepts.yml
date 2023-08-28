@@ -8,7 +8,7 @@ concepts:
      stringTokens: ["Balanta people", "Balanta", "Balanda Brassa", "Balanta Mane", "Balante", "Brassa"]
      wikidataQnode: ["Q804639"]
      languagesMostSpoken: ["Balanta"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["Southern and central regions", "Tite"]
 
    ManjakEthnicGroup:
@@ -36,7 +36,7 @@ concepts:
      stringTokens: ["Mandinka people", "Mandinka"]
      wikidataQnode: ["Q819186"]
      languagesMostSpoken: ["Manding languages"]
-     religionsMostPracticed: ["Traditional religions"]
+     religionsMostPracticed: ["Traditional religion"]
      livesIn: ["Coastal areas", "Farim"]
     
   ## politicalparties
