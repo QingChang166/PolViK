@@ -14,13 +14,13 @@ concepts:
     stringTokens: ["Dinka", "Dinka people", "Dinka tribe", "Denkawi"]
     wikidataQnode: ["Q212106"]
     languagesMostSpoken: ["Bor", "Rumbek", "Aweil"]
-    religionsMostPracticed: ["Dinka", "Christianity", "Islam", "Dinka religion"]
+    religionsMostPracticed: ["Dinka", "Christianity", "Islam"]
   bariEthnicGroup:
     stringTokens: ["Bari", "Bari people"]
     wikidataQnode: ["Q200453"]
     associatedEthnicGroup: ["Bari"]
     languagesMostSpoken: ["Bari language"]
-    religionsMostPracticed: ["Christianity", "African Traditional Religion", "Islam"]
+    religionsMostPracticed: ["Christianity", "African traditional Religion", "Islam"]
   ##politicalparty
   splmPoliticalParty:
     stringTokens: ["SPLM", "Sudan People's Liberation Movement"]
