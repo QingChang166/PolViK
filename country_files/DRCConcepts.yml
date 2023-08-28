@@ -28,7 +28,7 @@ concepts:
   lubaEthnicGroup:
    stringTokens: ["Luba", "Luba people", "Baluba"]
    wikidataQnode: ["Q805841"]
-   religionsMostPracticed: ["Christianity", "Bantu spirituality", "traditional African religions"]
+   religionsMostPracticed: ["Christianity", "Bantu spirituality", "African traditional religion"]
   lundaEthnicGroup:
    stringTokens: ["Lunda", "Lunda people", "Alunda", "Arund", "Balunda", "Kalunda", "Luunda", "Valunda", "Aluund", "Ruund", "Aluun", 
                  "Tulunda", "Northern Lunda", "Southern Lunda" ]
@@ -36,7 +36,7 @@ concepts:
   mongoEthnicGroup:
    stringTokens: ["Mongo", "Mongo people", "Nkundo", "Lomongo", "Mango", "Nkundu"]
    wikidataQnode: ["Q927706"]
-   religionsMostPracticed: ["Christianity", "traditional African religions"]
+   religionsMostPracticed: ["Christianity", "African traditional religion"]
    livesIn: ["Equateur", "Tshopo", "Tshuapa", "Mongala", "Kwilu", "Maï Ndombe", "Kongo-Centrale", "Kasai", "Sankuru", "Maniema", "North 
             Kivu", "South Kivu", "Tanganyika", "Ituri" ] ##provinces, and Tanganyika was a sovereign state until 1964
   nandeEthnicGroup:
@@ -66,7 +66,7 @@ concepts:
   zandeEthnicGroup:
    stringTokens: ["Zande", "Zande people", "Niam-niam", "Niam-niam peope", "Sandeh", "Azande"]
    wikidataQnode: ["Q793575"]
-   religionsMostPracticed: ["Christian", "traditional African religions"]
+   religionsMostPracticed: ["Christianity", "African traditional religion"]
    livesIn: ["Bas-Uele", "Haut-Uele"]
 ##political parties  ##does this time coding work
   PPRDParty: 
