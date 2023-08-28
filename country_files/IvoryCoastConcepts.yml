@@ -19,7 +19,7 @@ concepts:
     akanEthnicGroup:
       stringTokens: ["Akan", "Akan people", "Akans"]
       wikidataQnode: ["Q415693"]
-      religionsMostPracticed: ["Christianity", "Akan religion", "Islam",]
+      religionsMostPracticed: ["Christianity", "Akan religion", "Islam"]
       livesIn: ["Agnéby Region", "Agboville", "Adzopé", "Bélier Region", "Tiebissou", "Gôh-Djiboua Region", "Gagnoa", "Divo", "Lacs Region", "Yamoussoukro", "N'zi-Comoé Region", "Dimbokro", "Sud-Comoé Region", "Aboisso"]
     kruEthnicGroup:
       stringTokens: ["Kru", "Kru people", "Caraw", "Krao", "Krou", "Kroomen", "Krumen"]
