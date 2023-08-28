@@ -13,7 +13,7 @@ concepts:
      stringTokens: ["Sara", "Sara people"]
      wikidataQnode: ["Q969552"]
      languagesMostSpoken: ["Sara languages"]
-     religionsMostPracticed: ["Christianity", "Traditional African religion", "Islam"]
+     religionsMostPracticed: ["Christianity", "African traditional religion", "Islam"]
      livesIn: ["Logone", "Moyen-Chari", "Chari-Baguirmi", "Mandoul", "Mayo-Kebbi"]
    tamaEthnicGroup:
      stringTokens: ["Tama", "Tama people"]
