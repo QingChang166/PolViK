@@ -29,7 +29,7 @@ concepts:
      stringTokens: ["Jola people", "Jola", "Diola", "Ajamat", "Kujamat"]
      wikidataQnode: ["Q1226906"]
      languagesMostSpoken: ["Jola"]
-     religionsMostPracticed: ["Animism", "Islam"]
+     religionsMostPracticed: ["Animist", "Islam"]
      livesIn: ["Foni district"]
 
     sererEthnicGroup:
