@@ -5,7 +5,7 @@ concepts:
     kpelleEthnicGroup:
       stringTokens: ["Kpelle", "Kpelle people"]
       wikidataQnode: ["Q930128"]
-      religionsMostPracticed: ["Christianity", "Traditional", "Islam"]
+      religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
       livesIn: ["Bong County", "Lofa", "Nimba", "Grand Bassa", "Montserrado County"]
     bassaEthnicGroup:
       stringTokens: ["Bassa", "Bassa people", "Basa"]
@@ -15,7 +15,7 @@ concepts:
     danEthnicGroup:
       stringTokens: ["Dan", "Dan people", "Gio", "Gyo"]
       wikidataQnode: ["Q1804699"]
-      religionsMostPracticed: ["Traditional"]
+      religionsMostPracticed: ["Traditional religion"]
       livesIn: ["Nimba County", "Tappita"]
     manoEthnicGroup:
       stringTokens: ["Mano people", "Mano"]
@@ -24,12 +24,12 @@ concepts:
     kruEthnicGroup:
       stringTokens: ["Kru", "Kru people", "Krou", "Krao"]
       wikidataQnode: ["Q1537493"]
-      religionsMostPracticed: ["Christianity", "African traditional religions", "Sunni Islam"]
+      religionsMostPracticed: ["Christianity", "African traditional religion", "Sunni Islam"]
       livesIn: ["Grand Kru", "Sinoe", "Maryland"]
     mandingoEthnicGroup:
       stringTokens: ["Mandingo", "Mandinka", "Mandinka people"]
       wikidataQnode: ["Q819186"]
-      religionsMostPracticed: ["Christianity", "Traditional religions", "Islam"]
+      religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
       livesIn: ["Lofa", "Bong", "Nimba", "Grand Cape Mount", "Bomi", "Gbarpolu"]
     americoliberiansEthnicGroup:
       stringTokens: ["Americo-Liberian", "Americo-Liberian people"]
@@ -39,7 +39,7 @@ concepts:
     lomaEthnicGroup:
       stringTokens: ["Loma", "Loma people"]
       wikidataQnode: ["Q1859406"]
-      religionsMostPracticed: ["Christianity", "Traditional", "Islam"]
+      religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
       livesIn: ["Lofa", "Bong", "Gbarpolu"]
     golaEthnicGroup:
       stringTokens: ["Gola", "Gola people"]
@@ -56,12 +56,12 @@ concepts:
       stringTokens: ["Vai", "Vai people"]
       wikidataQnode: ["Q2002234"]
       languagesMostSpoken: []
-      religionsMostPracticed: "Islam", "Christianity"]
+      religionsMostPracticed: ["Islam", "Christianity"]
       livesIn: ["Grand Cape Mount", "Robertsport", "Sinje", "Bomi", "Klay", "Tubmanburg", "Margibi", "Kakata", "Montserrado", "Monrovia"]
     kissiEthnicGroup:
       stringTokens: ["Kissi", "Kissi people", "Kisi"]
       wikidataQnode: ["Q1743773"]
-      religionsMostPracticed: ["Islam", "Christianity", "Traditional"]
+      religionsMostPracticed: ["Islam", "Christianity", "Traditional religion"]
       livesIn: ["Nimba", "Grand Gedeh", "Maryland", "Tappita", "Bahn", "Zwedru"]
     krahnEthnicGroup:
       stringTokens: ["Krahn", "Krahn people", "Sapo", "Wee", "Wobe", "Guere"]
