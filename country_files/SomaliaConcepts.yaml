@@ -1,0 +1,456 @@
+concepts:
+  mozambiqueSecurityForces:
+    stringTokens: ["Transitional National Government", "TNG", "Somali Armed Force", "Somali Police Force", "SPF", "Ciidanka Booliska Soomaaliya", "CBS", "Somali National Army", "Puntland Security Force", "PSF"] 
+    #Might want to decide if to code Puntland Security Force (PSF) as an separate Armed group, they are the foces of the Semi-autonomous region of Puntland
+#ethnicgroups
+  somaliEthnicGroup: # OK so technically only major ethnic group in somalia ... But its the clan stuff that is important, should I include this as ethnicity?
+      stringTokens: ["Somali", "Soomaali"]
+      wikidataQnode: ["Q241696"]
+      languagesMostSpoken: ["Somali"] # also known as Af-Soomaali, Wadaad, Osmanya
+      religionsMostPracticed: ["Suni Islam"]
+      livesIn: ["Galmudug", "Hirshabelle", "Hirshabelle", "Jubaland", "Puntland", "South West", "Somaliland"]
+      foreignLivesIn: ["Ethiopia", "Djibouti", "Kenya"]
+
+#politicalparties from wikipidia. If cant find dates, but states they are present I code from the 2020 election to present
+  cadiParty:
+      stringTokens: ["CAHDİ Party", "Justice and Development of Democracy and Self-Respectfulness Party", "Cadalada, Horumarinta, Dimuqradiyada Iyo Isqadarinta"]
+      wikidataQnode: ["Q20982149"]
+      yearsActiveasEntity: [] #active as an entity
+      yearsActiveasParty: ["2020-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  cdpParty:
+      stringTokens: ["Cosmopolitan Democratic Party", "Xisbiga Dimoqoraamdiga Danwadaag"]
+      wikidataQnode: ["Q102067751"]
+      yearsActiveasEntity: ["2015-Present"] #active as an entity
+      yearsActiveasParty: ["2015-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  dpsPaty:
+      stringTokens: ["Democratic Party of Somalia", "DPS"]
+      wikidataQnode: ["Q18388289"]
+      yearsActiveasEntity: ["2010-Present"] #active as an entity
+      yearsActiveasParty: ["2010-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  fnpParty:
+      stringTokens: ["Forum for National Parties", "Madasha Xisbiyada Qaran"]
+      wikidataQnode: ["Q85761767"]
+      yearsActiveasEntity: ["2020-Present"] #active as an entity
+      yearsActiveasParty: ["2020-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  haldoorPaty:
+      stringTokens: ["Haldoor Party"]
+      wikidataQnode: ["Q104872609"]
+      yearsActiveasEntity: ["2019-Present"] #active as an entity
+      yearsActiveasParty: ["2019-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  himiloParty:
+      stringTokens: ["Himilo Qaran"]
+      wikidataQnode: ["Q63322999"]
+      yearsActiveasEntity: ["2018-Present"] #active as an entity
+      yearsActiveasParty: ["2018-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: ["fnpParty"]
+      associatedEthnicGroup: []
+  qarasoorpPary:
+      stringTokens: ["Qaransoor Party"]
+      wikidataQnode: ["Q104871344"]
+      yearsActiveasEntity: ["2020-Present"] #active as an entity
+      yearsActiveasParty: ["2020-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  sjpParty:
+      stringTokens: ["Social Justice Party", "Social Justice Party (Somalia)"]
+      wikidataQnode: ["Q104903329"]
+      yearsActiveasEntity: ["2014-Present"] #active as an entity
+      yearsActiveasParty: ["2014-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  spmParty:
+      stringTokens: ["Somali Patriotic Movement", "SPM", "Dhaqdhaqaaqa Wadaniga Soomaaliyeed"]
+      wikidataQnode: ["Q1766415"]
+      yearsActiveasEntity: ["1989-1992", "2020-Present"] #active as an entity
+      yearsActiveasParty: ["1989-1992", "2020-Present"] #active as a political party
+      geographicRepresentation: ["Jubaland"] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  sgpPaty:
+      stringTokens: ["Somalia Green Party", "Xisbiga Cagaaran Soomaaliya", "SGP"]
+      wikidataQnode: ["Q7559168"]
+      yearsActiveasEntity: "1990-Present"] #active as an entity
+      yearsActiveasParty: ["1990-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  slpParty:
+      stringTokens: ["Somali Labour Party"]
+      wikidataQnode: ["Q104871484"]
+      yearsActiveasEntity: ["2011-Present"] #active as an entity
+      yearsActiveasParty: ["2011-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  ssupParty:
+      stringTokens: ["Somali Social Unity Party"]
+      wikidataQnode: ["Q65440671"]
+      yearsActiveasEntity: ["2020-Present"] #active as an entity
+      yearsActiveasParty: ["2020-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  nabadParty: #Listed on Wikipidia, but no actual page... and cant find anything on them, may be best to remove?
+      stringTokens: ["Nabad iyo Nolol"]
+      wikidataQnode: []
+      yearsActiveasEntity: ["2020-Present"] #active as an entity
+      yearsActiveasParty: ["2020-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  updpParty:
+      stringTokens: ["Union for Peace and Development Party", "Xisbiga Midowga Nabadda iyo Horumarka", "UPD", "XMNH"]
+      wikidataQnode: ["Q60775601"]
+      yearsActiveasEntity: ["2018-Present"] #active as an entity
+      yearsActiveasParty: ["2018-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: ["fnpParty"]
+      associatedEthnicGroup: []
+  wadajirPart:
+      stringTokens: ["Wadajir Party", "Xisbiga Wadajir", "XW" , "WP"]
+      wikidataQnode: ["Q96414176"]
+      yearsActiveasEntity: ["2016-Present"] #active as an entity
+      yearsActiveasParty: ["2016-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  arlsParty:
+      stringTokens: ["Alliance for the Re-liberation of Somalia", "ARS"]
+      wikidataQnode: ["Q2298600"]
+      yearsActiveasEntity: ["2007-2009"] #active as an entity
+      yearsActiveasParty: ["2007-2009"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  sanuParty:
+      stringTokens: ["Somali African National Union"]
+      wikidataQnode: []
+      yearsActiveasEntity: ["1964-2004"] #active as an entity
+      yearsActiveasParty: ["1964-2004"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  snaParty:
+      stringTokens: ["Somali National Alliance", "SNA"]
+      wikidataQnode: ["Q7559131"]
+      yearsActiveasEntity: ["1991-Present"] #active as an entity
+      yearsActiveasParty: ["2004-Present"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  srspPaty:
+      stringTokens: ["Somali Revolutionary Socialist Party", "SRSP", "Xisbiga Hantiwadaagga Kacaanka Soomaaliyeed", "XHKS"]
+      wikidataQnode: ["Q619530"]
+      yearsActiveasEntity: ["1976-1991"] #active as an entity
+      yearsActiveasParty: ["1976-1991"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  uscPaty:
+      stringTokens: ["United Somali Congress"]
+      wikidataQnode: ["Q946770"]
+      yearsActiveasEntity: ["1989-2000"] #active as an entity
+      yearsActiveasParty: ["1992-2000"] #active as a political party
+      geographicRepresentation: ["Galmudug"] #adminstrative states (wikipidia)
+      isPartof: ["uscPaty"]
+      associatedEthnicGroup: []
+  uspParty:
+      stringTokens: ["United Somali Parliamentarians"]
+      wikidataQnode: ["Q7889167"]
+      yearsActiveasEntity: ["2007-2018"] #active as an entity
+      yearsActiveasParty: ["2007-2018"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  pdpParty:
+      stringTokens: ["Peace and Development Party", "PDP", "Xisbiga Nabadda Iyo Horumarka"]
+      wikidataQnode: ["Q2054264"]
+      yearsActiveasEntity: ["2011-2019"] #active as an entity
+      yearsActiveasParty: [] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: ["fnpParty"]
+      associatedEthnicGroup: []
+  daljirParty:
+      stringTokens: ["Daljir Party"]
+      wikidataQnode: ["Q22079825"]
+      yearsActiveasEntity: ["2014-2018"] #active as an entity
+      yearsActiveasParty: ["2014-2018"] #active as a political party
+      geographicRepresentation: [] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+#Puntland
+  horseedParty:
+      stringTokens: ["Horseed", "Urur Siyaasadeedka Horseed"]
+      wikidataQnode: ["Q5905753"]
+      yearsActiveasEntity: ["2012-Present"] #active as an entity
+      yearsActiveasParty: ["2012-Present"] #active as a political party
+      geographicRepresentation: ["Puntland"] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+ jeParty:
+      stringTokens: ["Justice and Equality",]
+      wikidataQnode: []
+      yearsActiveasEntity: [] #active as an entity
+      yearsActiveasParty: [] #active as a political party
+      geographicRepresentation: ["Puntland"] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  kdParty:	#Ruling party of Puntland
+      stringTokens: ["Kaah Democracy", "Kaah Political Association"]
+      wikidataQnode: ["Q104876002"]
+      yearsActiveasEntity: ["2020-Present"] #active as an entity
+      yearsActiveasParty: ["2020-Present"] #active as a political party
+      geographicRepresentation: ["Puntland"] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+ udadParty:
+      stringTokens: ["Ururka Dadka Puntland", "UDAD", "Puntland People's Party"]
+      wikidataQnode: ["Q102424591"]
+      yearsActiveasEntity: ["2013-Present"] #active as an entity
+      yearsActiveasParty: ["2013-Present"] #active as a political party
+      geographicRepresentation: ["Puntland"] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+#Somaliland
+  sjdPaty:
+      stringTokens: ["For Justice and Development", "Ururka Caddaalada iyo Daryeelka", "UCID" , "Justice and Welfare Association"]
+      wikidataQnode: ["Q1239685"]
+      yearsActiveasEntity: ["2001-Present"] #active as an entity
+      yearsActiveasParty: ["2001-Present"] #active as a political party
+      geographicRepresentation: ["Somaliland"] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  kulmiyeParty:
+      stringTokens: ["Kulmiye", "Kulmiye Peace, Unity, and Development Party", "Peace, Unity, and Development Party", "Xisbiga Kulmiye Nabad, Midnimo iyo Horumarka"]
+      wikidataQnode: ["Q521072"]
+      yearsActiveasEntity: ["2003-Present"] #active as an entity
+      yearsActiveasParty: ["2003-Present"] #active as a political party
+      geographicRepresentation: ["Somaliland"] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+  waddaniParty:
+      stringTokens: ["Waddani", "Somaliland National Party", "Xisbiga Waddani", "Patriotic Party", "Waddani National Party"]
+      wikidataQnode: ["Q18395954"]
+      yearsActiveasEntity: ["2012-Present"] #active as an entity
+      yearsActiveasParty: ["2012-Present"] #active as a political party
+      geographicRepresentation: ["Somaliland"] #adminstrative states (wikipidia)
+      isPartof: []
+      associatedEthnicGroup: []
+
+  #rebels
+  adcArmedGroup: #AGD lists them in Somalia, but I cant find anything about them being there...
+      stringTokens: ["ADC", "23 May Democratic Alliance (Algeria)","23 May Democratic Alliance", " Alliance Démocratique du 23 mai pour le Changement"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["2007-2009"]
+      associatedEthnicGroup: []
+  itArmedGroup:
+      stringTokens: ["Islamic Tendency", "Ennahda Movement", "Ḥarakatu n-Nahḍah", "Mouvement Ennahdha","Ennahdha", "Renaissance Party"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["2006"]
+      associatedEthnicGroup: []
+  flcsArmedGroup:
+      stringTokens: ["FLCS", "Front for the Liberation of the Somali Coast", "Front de Libération de la Côte des Somalis"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["1975-1976"]
+      associatedEthnicGroup: ["somaliEthnicGroup"]
+  marhanclanArmedGroup:
+      stringTokens: ["Marhan Clan"]
+      regionsMostActive: ["Jubaland", "Galguduud",  "Mudug"]
+      isPartof: []
+      yearsActiveasArmed: ["1997-1998"]
+      associatedEthnicGroup: []
+  musasudiyalahowArmedGroup:
+      stringTokens: ["Musa Sudi Yalahow", "Musa Sudi Yalahow Militia"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["2001-2006"]
+      associatedEthnicGroup: []
+  mataabdulleArmedGroup:
+      stringTokens: ["Matan Abdulle"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["1999-2000"]
+      associatedEthnicGroup: []
+  sifArmedGroup:
+      stringTokens: ["Somali Islamic Front"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["2007-2009"]
+      associatedEthnicGroup: []
+  onlfArmedGroup:
+    stringTokens: ["ONLF", "Ogaden National Liberation Front", "Javhadda Waddaniga Xoreynta Ogaddeenya"]
+    isPartof: []
+    regionsMostActive: []
+    yearsActiveasArmed: ["1991-2014"]
+    associatedEthnicGroup: ["somaliEthnicGroup"]
+  ssdfArmedGroup:
+      stringTokens: ["Somali Salvation Democratic Front", "SSDF", "Democratic Front for Salvation of Somalia"]
+      regionsMostActive: ["Puntland"]
+      isPartof: []
+      yearsActiveasArmed: ["1979-1991"]
+      associatedEthnicGroup: ["somaliEthnicGroup"]
+  anmArmedGroup:
+      stringTokens: ["Somali National Movement", "Somali Islamic Democratic Party"]
+      regionsMostActive: ["Somaliland"]
+      isPartof: []
+      yearsActiveasArmed: ["1982-1991"]
+      associatedEthnicGroup: []
+  apmArmedGroup:
+      stringTokens: ["Somali Patriotic Movement", "SPM", "Dhaqdhaqaaqa Wadaniga Soomaaliyeed"]
+      regionsMostActive: ["Jubaland"]
+      isPartof: ["spmParty"]
+      yearsActiveasArmed: ["1989-2006"]
+      associatedEthnicGroup: []
+  uacArmedGroup:
+      stringTokens: ["United Somali Congress"]
+      regionsMostActive: ["Galmudug "]
+      isPartof: []
+      yearsActiveasArmed: ["1990-1992"]
+      associatedEthnicGroup: []
+  uscsnaArmedGroup:
+      stringTokens: ["United Somali Congress-Somali National Movement", "USC-SNA", "Somali National Alliance", "SNA"]
+      regionsMostActive: ["Galmudug "]
+      isPartof: [snaParty]
+      yearsActiveasArmed: ["1991-2004"]
+      associatedEthnicGroup: []
+  srrcArmedGroup:
+      stringTokens: ["Somali Reconciliation and Restoration Council", "SRRC"]
+      regionsMostActive: []
+      isPartof: ["2001-2004"] #from wikipidia
+      yearsActiveasArmed: []
+      associatedEthnicGroup: []
+  icuArmedGroup:
+      stringTokens: ["Islamic Courts Union"]
+      regionsMostActive: ["South West", "Hirshabelle", "Jubaland", "Galmudug"]
+      isPartof: []
+      yearsActiveasArmed: ["2006-2008"]
+      associatedEthnicGroup: []
+  iuArmedGroup:
+      stringTokens: ["Islamic Unity"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["1992-1997"]
+      associatedEthnicGroup: []
+  olfArmedGroup:
+      stringTokens: ["OLF", "Oromo Liberation Front"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["1997-2014"]
+      associatedEthnicGroup: ["somaliEthnicGroup"]
+  ilaArmedGroup:
+      stringTokens: ["Isbaheysiga Ladagaalanka Argagixisadda"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["2006"]
+      associatedEthnicGroup: []
+  jvaArmedGroup:
+      stringTokens: ["JVA", "Jubba Valley Alliance"]
+      regionsMostActive: ["Jubaland"]
+      isPartof: []
+      yearsActiveasArmed: ["1999-2006"]
+      associatedEthnicGroup: []
+  jsArmedGroup:
+      stringTokens: ["Jamhuuriyadda Soomaaliland"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: []
+      associatedEthnicGroup: []
+  rramadobehabsadeArmedGroup:
+      stringTokens: ["Reewin Resistance Army- Madobe and Habsade Faction", "Rahanweyn Resistance Army- Madobe and Habsade Faction" "RRA-Madobe and Habsade Faction"]
+      regionsMostActive: ["South West"]
+      isPartof: []
+      yearsActiveasArmed: ["2002"]
+      associatedEthnicGroup: []
+  rraArmedGroup:
+      stringTokens: ["Reewin Resistance Army", "Rahanweyn Resistance Army", "RRA"]
+      regionsMostActive: ["South West"]
+      isPartof: []
+      yearsActiveasArmed: ["1995-2002"]
+      associatedEthnicGroup: []
+  alshabaabArmedGroup:
+      stringTokens: ["Al-Shabaab"]
+      regionsMostActive: ["Puntland"]
+      isPartof: []
+      yearsActiveasArmed: ["2006-2017"]
+      associatedEthnicGroup: []
+  hrkArmedGroup:
+      stringTokens: ["Harakat Ras Kamboni", "HRK", "Ras Kamboni Brigades", "Muaskar Ras Kamboni", "Mu'askar Ras Kamboni"]
+      regionsMostActive: ["Jubbaland"]
+      isPartof: []
+      yearsActiveasArmed: ["2008-2009"]
+      associatedEthnicGroup: []
+  alqaidaArmedGroup:
+      stringTokens: ["Al-Qa'ida"]
+      regionsMostActive: ["Puntland"]
+      isPartof: []
+      yearsActiveasArmed: ["1998-2017"]
+      associatedEthnicGroup: []
+  aswjAmrdGroup:
+      stringTokens: ["ASWJ", "Ahlu-Sunah Wal-Jamea", "hlu Sunna Waljama'a"]
+      regionsMostActive: ["Galmudug "]
+      isPartof: []
+      yearsActiveasArmed: ["2008-2016"]
+      associatedEthnicGroup: []
+  snfmsabArmedGroup:
+      stringTokens: ["SNF-MSAB"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["1999"]
+      associatedEthnicGroup: []
+  dsaArmedGroup:
+      stringTokens: ["Digil Salvation Army", "DSA"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["1999-2000"]
+      associatedEthnicGroup: []
+  hizbulArmedGroup:
+      stringTokens: ["Hizbul Al Islam (Somalia)",  "Hizbul Islaami", "Hisbi Islam", "Hezb-ul Islam"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["2009-2013"]
+      associatedEthnicGroup: []
+  srnfArmedGroup:
+      stringTokens: ["Somali National Front"]
+      regionsMostActive: ["Jubaland"]
+      isPartof: []
+      yearsActiveasArmed: ["1991-1997"]
+      associatedEthnicGroup: []
+  fsmsaArmedGroup:
+      stringTokens: ["Forces of Shayk Muhammad Said Atom"]
+      regionsMostActive: ["Puntland"]
+      isPartof: []
+      yearsActiveasArmed: ["2008-2012"]
+      associatedEthnicGroup: []
+  fyhnArmedGroup:
+      stringTokens: ["Forces of Yussuf Hajji Nur"]
+      regionsMostActive: ["Puntland"]
+      isPartof: []
+      yearsActiveasArmed: ["2001-2002"]
+      associatedEthnicGroup: []
+  svaArmedGroup:
+      stringTokens: ["Shabelle Valley Alliance", "SVA"]
+      regionsMostActive: []
+      isPartof: []
+      yearsActiveasArmed: ["2011-2012"]
+      associatedEthnicGroup: []
