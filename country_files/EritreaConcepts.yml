@@ -121,7 +121,7 @@ concepts:
    associatedEthnicGroup: []
    regionsMostActive: ["Gash-Barka"]
    yearsActiveasArmed: ["1975-2003"] ##https://www.start.umd.edu/baad/narratives/eritrean-islamic-jihad-movement-eijm.html
-  alqaidaArmedGroup: #Not too sure what to do with this for as I cant find too many details on ALqaida in Eritrea specifically.... but it seems it did have apresene there
+  alqaidaArmedGroup: ##Not too sure what to do with this for as I cant find too many details on ALqaida in Eritrea specifically.... but it seems it did have apresene there
    stringTokens: ["Al-Qa'ida"]
    associatedEthnicGroup: []
    regionsMostActive: []
