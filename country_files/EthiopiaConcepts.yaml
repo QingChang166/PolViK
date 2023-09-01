@@ -311,335 +311,279 @@ concepts:
    yearsActiveasEntity: ["2000-Present"] ##active as an entity
    yearsActiveasParty: ["2000-Present"] ##active as a political party
   sepdcParty:
-      stringTokens: ["Southern Ethiopia Peoples' Democratic Coalition"]
-      wikidataQnode: ["Q1186382"]
-      yearsActiveasEntity: ["1992-Present"] #active as an entity
-      yearsActiveasParty: ["1992-Present"] #active as a political party
-      geographicRepresentation: ["Southern Nations, Nationalities, and Peoples' Region"] #adminstrative states (wikipidia)
+   stringTokens: ["Southern Ethiopia Peoples' Democratic Coalition"]
+   wikidataQnode: ["Q1186382"]
+   yearsActiveasEntity: ["1992-Present"] ##active as an entity
+   yearsActiveasParty: ["1992-Present"] ##active as a political party
   tdpParty:
-      stringTokens: ["Tigray Democratic Party"]
-      wikidataQnode: ["Q104203609"]
-      yearsActiveasEntity: ["1995-Present"] #active as an entity
-      yearsActiveasParty: ["2019-Present"] #active as a political party
-      geographicRepresentation: ["Tigray Region"] #adminstrative states (wikipidia)
-      associatedEthnicGroup: ["tigrayanEthnicGroup"]
+   stringTokens: ["Tigray Democratic Party"]
+   wikidataQnode: ["Q104203609"]
+   associatedEthnicGroup: ["tigrayanEthnicGroup"]
+   yearsActiveasEntity: ["1995-Present"] ##active as an entity
+   yearsActiveasParty: ["2019-Present"] ##active as a political party
   udjParty:
-      stringTokens: ["Unity for Democracy and Justice"]
-      wikidataQnode: ["Q280646"]
-      yearsActiveasEntity: ["2008-2019"] #active as an entity
-      yearsActiveasParty: ["2008-2019"] #active as a political party
-      geographicRepresentation: ["Addis Ababa Region"] #adminstrative states (wikipidia)
-      isPartof: ["madrekParty"]
+   stringTokens: ["Unity for Democracy and Justice"]
+   wikidataQnode: ["Q280646"]
+   yearsActiveasEntity: ["2008-2019"] ##active as an entity
+   yearsActiveasParty: ["2008-2019"] ##active as a political party
   sepdmParty:
-      stringTokens: ["Southern Ethiopian People's Democratic Movement"]
-      wikidataQnode: ["Q1186157"]
-      yearsActiveasEntity: ["1992-2019"] #active as an entity
-      yearsActiveasParty: ["1992-2019"] #active as a political party
-      geographicRepresentation: ["Southern Nations, Nationalities, and Peoples' Region"] #adminstrative states (wikipidia)
-      isPartof: ["eprdfParty"]
+   stringTokens: ["Southern Ethiopian People's Democratic Movement"]
+   wikidataQnode: ["Q1186157"]
+   yearsActiveasEntity: ["1992-2019"] ##active as an entity
+   yearsActiveasParty: ["1992-2019"] ##active as a political party
   andpParty:
-      stringTokens: ["Afar National Democratic Party"]
-      wikidataQnode: ["Q382122"]
-      yearsActiveasEntity: ["1999-2019"] #active as an entity
-      yearsActiveasParty: ["1999-2019"] #active as a political party
-      geographicRepresentation: ["Afar Region"] #adminstrative states (wikipidia)
-      associatedEthnicGroup: ["afarEthnicGroup"]
+   stringTokens: ["Afar National Democratic Party"]
+   wikidataQnode: ["Q382122"]
+   associatedEthnicGroup: ["afarEthnicGroup"]
+   yearsActiveasEntity: ["1999-2019"] ##active as an entity
+   yearsActiveasParty: ["1999-2019"] ##active as a political party
   adpParty:
-      stringTokens: ["Amhara Democratic Party"]
-      wikidataQnode: ["Q1966902"]
-      yearsActiveasEntity: ["1982-2019"] #active as an entity
-      yearsActiveasParty: ["1991-2019"] #active as a political party
-      geographicRepresentation: ["Amhara Region"] #adminstrative states (wikipidia)
-      associatedEthnicGroup: ["amharaEthnicGroup"]
-      isPartof: ["eprdfParty"]
+   stringTokens: ["Amhara Democratic Party"]
+   wikidataQnode: ["Q1966902"]
+   associatedEthnicGroup: ["amharaEthnicGroup"]
+   yearsActiveasEntity: ["1982-2019"] ##active as an entity
+   yearsActiveasParty: ["1991-2019"] ##active as a political party
   andoParty:
-      stringTokens: ["Argoba Nationality Democratic Organizatio"]
-      wikidataQnode: ["Q648049"]
-      yearsActiveasEntity: ["2000-Present"] #active as an entity
-      yearsActiveasParty: ["2000-Present"] #active as a political party
-      geographicRepresentation: ["Amhara Region", "Afar Regional"] #adminstrative states (wikipidia)
+   stringTokens: ["Argoba Nationality Democratic Organizatio"]
+   wikidataQnode: ["Q648049"]
+   yearsActiveasEntity: ["2000-Present"] ##active as an entity
+   yearsActiveasParty: ["2000-Present"] ##active as a political party
   bgpdufParty:
-      stringTokens: ["Benishangul-Gumuz People's Democratic Unity Front"]
-      wikidataQnode: ["Q817331"]
-      yearsActiveasEntity: ["1996-2019"] #active as an entity
-      yearsActiveasParty: ["1996-2019"] #active as a political party
-      geographicRepresentation: ["Benishangul-Gumuz Region"] #adminstrative states (wikipidia)
+   stringTokens: ["Benishangul-Gumuz People's Democratic Unity Front"]
+   wikidataQnode: ["Q817331"]
+   yearsActiveasEntity: ["1996-2019"] ##active as an entity
+   yearsActiveasParty: ["1996-2019"] ##active as a political party
   esdlParty:
-      stringTokens: ["Ethiopian Somali Democratic League", "ESDL"]
-      wikidataQnode: ["Q1371260"]
-      yearsActiveasEntity: ["1994-1998"] #active as an entity
-      yearsActiveasParty: ["1994-1998"] #active as a political party
-      geographicRepresentation: ["Somali Region"] #adminstrative states (wikipidia)
-      associatedEthnicGroup: ["somaliEthnicGroup"]
-      isPartof: ["eprdfParty"]
+   stringTokens: ["Ethiopian Somali Democratic League", "ESDL"]
+   wikidataQnode: ["Q1371260"]
+   associatedEthnicGroup: ["somaliEthnicGroup"]
+   yearsActiveasEntity: ["1994-1998"] ##active as an entity
+   yearsActiveasParty: ["1994-1998"] ##active as a political party
   espdpParty:
-      stringTokens: ["Ethiopian Somali People's Democratic Party", "Somali Democratic Party", "SDP"]
-      wikidataQnode: ["Q766610"]
-      yearsActiveasEntity: ["1998-2019"] #active as an entity
-      yearsActiveasParty: ["1998-2019"] #active as a political party
-      geographicRepresentation: ["Somali Region"] #adminstrative states (wikipidia)
-      associatedEthnicGroup: ["somaliEthnicGroup"]
-      isPartof: ["eprdfParty"]
+   stringTokens: ["Ethiopian Somali People's Democratic Party", "Somali Democratic Party", "SDP"]
+   wikidataQnode: ["Q766610"]
+   associatedEthnicGroup: ["somaliEthnicGroup"]
+   yearsActiveasEntity: ["1998-2019"] ##active as an entity
+   yearsActiveasParty: ["1998-2019"] ##active as a political party
   gpdmParty:
-      stringTokens: ["Gambela People's Democratic Movement", "Gambella Peoples’ Unity Democratic Movement"]
-      wikidataQnode: ["Q1134381"]
-      yearsActiveasEntity: ["2003-2019"] #active as an entity
-      yearsActiveasParty: ["2003-2019"] #active as a political party
-      geographicRepresentation: ["Gambela Region"] #adminstrative states (wikipidia)
-      isPartof: ["eprdfParty"]
+   stringTokens: ["Gambela People's Democratic Movement", "Gambella Peoples’ Unity Democratic Movement"]
+   wikidataQnode: ["Q1134381"]
+   yearsActiveasEntity: ["2003-2019"] ##active as an entity
+   yearsActiveasParty: ["2003-2019"] ##active as a political party
   hnlParty:
-      stringTokens: ["Hareri National League"]
-      wikidataQnode: ["Q1135103"]
-      yearsActiveasEntity: ["1991-2019"] #active as an entity
-      yearsActiveasParty: ["1991-2019"] #active as a political party
-      geographicRepresentation: ["Harari Region"] #adminstrative states (wikipidia)
-      isPartof: ["eprdfParty"]
+   stringTokens: ["Hareri National League"]
+   wikidataQnode: ["Q1135103"]
+   yearsActiveasEntity: ["1991-2019"] ##active as an entity
+   yearsActiveasParty: ["1991-2019"] ##active as a political party
   odpParty:
-      stringTokens: ["Oromo Democratic Party", "ODP"]
-      wikidataQnode: ["Q1186219"]
-      yearsActiveasEntity: ["1982-2019"] #active as an entity
-      yearsActiveasParty: ["1991-2019"] #active as a political party
-      geographicRepresentation: ["Oromo Region"] #adminstrative states (wikipidia)
-      associatedEthnicGroup: ["oromoEthnicGroup"]
-      isPartof: ["eprdfParty"]
+   stringTokens: ["Oromo Democratic Party", "ODP"]
+   wikidataQnode: ["Q1186219"]
+   associatedEthnicGroup: ["oromoEthnicGroup"]
+   yearsActiveasEntity: ["1982-2019"] ##active as an entity
+   yearsActiveasParty: ["1991-2019"] ##active as a political party
   opcParty:
-      stringTokens: ["Oromo People's Congress"]
-      wikidataQnode: ["Q1135107"]
-      yearsActiveasEntity: ["1996-2012"] #active as an entity
-      yearsActiveasParty: ["1996-2012"] #active as a political party
-      geographicRepresentation: ["Oromo Region"] #adminstrative states (wikipidia)
-      associatedEthnicGroup: ["oromoEthnicGroup"]
+   stringTokens: ["Oromo People's Congress"]
+   wikidataQnode: ["Q1135107"]
+   associatedEthnicGroup: ["oromoEthnicGroup"]
+   yearsActiveasEntity: ["1996-2012"] ##active as an entity
+   yearsActiveasParty: ["1996-2012"] ##active as a political party
   ofdmParty:
-      stringTokens: ["Oromo Federalist Democratic Movement"]
-      wikidataQnode: ["Q1134412"]
-      yearsActiveasEntity: ["2005-2012"] #active as an entity
-      yearsActiveasParty: ["2005-2012"] #active as a political party
-      geographicRepresentation: ["Oromo Region"] #adminstrative states (wikipidia)
-      associatedEthnicGroup: ["oromoEthnicGroup"]
-      isPartof: ["madrekParty", "ofcParty"]
+   stringTokens: ["Oromo Federalist Democratic Movement"]
+   wikidataQnode: ["Q1134412"]
+   associatedEthnicGroup: ["oromoEthnicGroup"]
+   yearsActiveasEntity: ["2005-2012"] ##active as an entity
+   yearsActiveasParty: ["2005-2012"] ##active as a political party
   mlltParty:
-      stringTokens: ["Marxist–Leninist League of Tigray", "MLLT"]
-      wikidataQnode: ["Q3815743"]
-      yearsActiveasEntity: ["1985-2012"] #active as an entity
-      yearsActiveasParty: ["1991-2012"] #active as a political party
-      geographicRepresentation: ["Tigray Region"] #adminstrative states (wikipidia)
-      isPartof: ["tplfParty", "eprdfParty"]
+   stringTokens: ["Marxist–Leninist League of Tigray", "MLLT"]
+   wikidataQnode: ["Q3815743"]
+   yearsActiveasEntity: ["1985-2012"] ##active as an entity
+   yearsActiveasParty: ["1991-2012"] ##active as a political party
   aeupParty:
-      stringTokens: ["All Ethiopian Unity Party"]
-      wikidataQnode: ["Q3815743"]
-      yearsActiveasEntity: ["2005-2022"] #active as an entity
-      yearsActiveasParty: ["2005-2022"] #active as a political party
-      geographicRepresentation: ["Amhara Region"]
-      isPartof: ["cudParty"]
+   stringTokens: ["All Ethiopian Unity Party"]
+   wikidataQnode: ["Q3815743"]
+   yearsActiveasEntity: ["2005-2022"] ##active as an entity
+   yearsActiveasParty: ["2005-2022"] ##active as a political party
   wpeParty:
-      stringTokens: ["Workers' Party of Ethiopia"]
-      wikidataQnode: ["Q627213"]
-      yearsActiveasEntity: ["1984-1991"] #active as an entity
-      yearsActiveasParty: ["1984-1991"] #active as a political party
-      geographicRepresentation: ["Addis Abada Region", "Tigray Region", "Afar Region", "Amhara Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Gambela Region", "Harari Region", "Oromia Region", "Sidama Region", "Somali Region", "South West Ethiopia Peoples' Region", "Southern Nations, Nationalities, and Peoples' Region"] #adminstrative states given that this pre-1991 the names of the states were different.
+   stringTokens: ["Workers' Party of Ethiopia"]
+   wikidataQnode: ["Q627213"]
+   yearsActiveasEntity: ["1984-1991"] ##active as an entity
+   yearsActiveasParty: ["1984-1991"] ##active as a political party
   semayawiParty:
-      stringTokens: ["Semayawi Party", "Blue Party"]
-      wikidataQnode: ["Q19605729"]
-      yearsActiveasEntity: ["2012-2019"] #active as an entity
-      yearsActiveasParty: ["2012-2019"] #active as a political party
-      geographicRepresentation: ["Addis Abada Region"] #adminstrative states (wikipidia)
+   stringTokens: ["Semayawi Party", "Blue Party"]
+   wikidataQnode: ["Q19605729"]
+   yearsActiveasEntity: ["2012-2019"] ##active as an entity
+   yearsActiveasParty: ["2012-2019"] ##active as a political party
   cudParty:
-      stringTokens: ["Coalition for Unity and Democracy", "CUD"]
-      wikidataQnode: ["Q1376302"]
-      yearsActiveasEntity: ["2004-2007"] #active as an entity
-      yearsActiveasParty: ["2004-2007"] #active as a political party
-      geographicRepresentation: ["Addis Abada Region", "Tigray Region", "Afar Region", "Amhara Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Gambela Region", "Harari Region", "Oromia Region", "Sidama Region", "Somali Region", "South West Ethiopia Peoples' Region", "Southern Nations, Nationalities, and Peoples' Region"] #adminstrative states given that this pre-1991 the names of the states were different. #adminstrative states (wikipidia)
-      isPartof: ["afdParty"]
+   stringTokens: ["Coalition for Unity and Democracy", "CUD"]
+   wikidataQnode: ["Q1376302"]
+   yearsActiveasEntity: ["2004-2007"] ##active as an entity
+   yearsActiveasParty: ["2004-2007"] ##active as a political party
   coedfParty:
-      stringTokens: ["Coalition of Ethiopian Democratic Forces", "COEDF"]
-      wikidataQnode: ["Q5137976"]
-      yearsActiveasEntity: [] #active as an entity
-      yearsActiveasParty: [] #active as a political party
-      geographicRepresentation: [] #adminstrative states (wikipidia)
+   stringTokens: ["Coalition of Ethiopian Democratic Forces", "COEDF"]
+   wikidataQnode: ["Q5137976"]
+   yearsActiveasEntity: [] ##active as an entity
+   yearsActiveasParty: [] ##active as a political party
   uedfParty:
-      stringTokens: ["United Ethiopian Democratic Forces"]
-      wikidataQnode: ["Q491145"]
-      yearsActiveasEntity: ["2005-2008"] #active as an entity
-      yearsActiveasParty: ["2005-2008"] #active as a political party
-      geographicRepresentation: ["Addis Abada Region"] #adminstrative states (wikipidia)
+   stringTokens: ["United Ethiopian Democratic Forces"]
+   wikidataQnode: ["Q491145"]
+   yearsActiveasEntity: ["2005-2008"] ##active as an entity
+   yearsActiveasParty: ["2005-2008"] ##active as a political party
   eduParty:
-      stringTokens: ["Ethiopian Democratic Union", "Teranafit", "EDU"]
-      wikidataQnode: ["Q16200284"]
-      yearsActiveasEntity: ["1974-2003"] #active as an entity
-      yearsActiveasParty: ["1991-2003"] #active as a political party
-      geographicRepresentation: ["Addis Abada Region"] #adminstrative states (wikipidia)
-      isPartof: ["ceffParty"]
+   stringTokens: ["Ethiopian Democratic Union", "Teranafit", "EDU"]
+   wikidataQnode: ["Q16200284"]
+   yearsActiveasEntity: ["1974-2003"] ##active as an entity
+   yearsActiveasParty: ["1991-2003"] ##active as a political party
   gpdupParty:
-      stringTokens: ["Gambela People's Democratic Unity Party"]
-      wikidataQnode: ["Q56274978"]
-      yearsActiveasEntity: ["1992-1998"] #active as an entity
-      yearsActiveasParty: ["1992-1998"] #active as a political party
-      geographicRepresentation: [Gambela Region] #adminstrative states (wikipidia)
+   stringTokens: ["Gambela People's Democratic Unity Party"]
+   wikidataQnode: ["Q56274978"]
+   yearsActiveasEntity: ["1992-1998"] ##active as an entity
+   yearsActiveasParty: ["1992-1998"] ##active as a political party
   gplmParty:
-      stringTokens: ["Gambela People's Liberation Movement"]
-      wikidataQnode: ["Q5519606"]
-      yearsActiveasEntity: ["1985–1998"] #active as an entity
-      yearsActiveasParty: [1991–1998] #active as a political party
-      geographicRepresentation: ["Gambela Region"] #adminstrative states (wikipidia)
+   stringTokens: ["Gambela People's Liberation Movement"]
+   wikidataQnode: ["Q5519606"]
+   yearsActiveasEntity: ["1985–1998"] ##active as an entity
+   yearsActiveasParty: [1991–1998] ##active as a political party
   ##armed groups
   #from Armed Groups Data Set
   #yearsActiveasArmed == year of first attack
   #pre 2020 data from AGD data, post from online sources
 
   tdfArmedGroup:
-    stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
-    regionsMostActive: ["Tigray", "Eritrea"]
-    isPartof: ["tplfParty", "eprdfArmedGroup", "eprdfParty", "ceffParty", "ufefcfArmedGroup", "tdfArmedGroup"]
-    yearsActiveasArmed: ["1976-1991", "2020-2022"] #CHECK LAST DATES
-    associatedEthnicGroup: ["tigrayanEthnicGroup"]
+   stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
+   associatedEthnicGroup: ["tigrayanEthnicGroup"]
+   regionsMostActive: ["Tigray", "Eritrea"]
+   yearsActiveasArmed: ["1976-1991", "2020-2022"] #CHECK LAST DATES
   eprdfArmedGroup:
-    stringTokens: ["EPRDF", "Ethiopian People's Revolutionary Democratic Front"]
-    regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
-    yearsActiveasArmed: ["1988-1991"]
-    isPartof: ["eprdfParty"]
+   stringTokens: ["EPRDF", "Ethiopian People's Revolutionary Democratic Front"]
+   regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
+   yearsActiveasArmed: ["1988-1991"]
   alfArmedGroup:
-    stringTokens: ["ALF", "Afar Liberation Front"]
-    regionsMostActive: ["Afar Region"]
-    isPartof: ["alfParty"]
-    yearsActiveasArmed: ["1977"]
-    associatedEthnicGroup: ["afarEthnicGroup"]
+   stringTokens: ["ALF", "Afar Liberation Front"]
+   associatedEthnicGroup: ["afarEthnicGroup"]
+   regionsMostActive: ["Afar Region"]
+   yearsActiveasArmed: ["1977"]
   ardufArmedGroup:
-    stringTokens: ["Afar Revolutionary Democratic Unity Front"]
-    regionsMostActive: ["Afar Region"]
-    isPartof: ["ardufParty","ufefcfArmedGroup"]
-    yearsActiveasArmed: ["1995-2010","2020-2022"]
-    associatedEthnicGroup: ["afarEthnicGroup"]
+   stringTokens: ["Afar Revolutionary Democratic Unity Front"]
+   associatedEthnicGroup: ["afarEthnicGroup"]
+   regionsMostActive: ["Afar Region"]
+   yearsActiveasArmed: ["1995-2010", "2020-2022"]
   alshabaabArmedGroup:
-    stringTokens: ["Al-Shabaab"]
-    regionsMostActive: ["Somali Region"]
-    yearsActiveasArmed: ["2006-2017"]
+   stringTokens: ["Al-Shabaab"]
+   regionsMostActive: ["Somali Region"]
+   yearsActiveasArmed: ["2006-2017"]
   aeupArmedGroup:
-    stringTokens: ["All Ethiopian Unity Party"]
-    regionsMostActive:
-    isPartof: ["aeupParty"]
-    yearsActiveasArmed: ["2005-Present"]
+   stringTokens: ["All Ethiopian Unity Party"]
+   regionsMostActive: []
+   yearsActiveasArmed: ["2005-Present"]
   cudArmedGroup:
-    stringTokens: ["CUD", "Coalition for Unity and Democracy"]
-    isPartof: ["cudParty"]
-    regionsMostActive:
-    yearsActiveasArmed: ["2006-2008"]
+   stringTokens: ["CUD", "Coalition for Unity and Democracy"]
+   regionsMostActive:
+   yearsActiveasArmed: ["2006-2008"]
   eduArmedGroup:
-    stringTokens: ["EDU", "Ethiopian Democratic Union"]
-    isPartof: [eduParty]
-    yearsActiveasArmed: ["1976-1979"] # Date of last attack but really they were "at war" with the gob until 1991
-    regionsMostActive: ["Tigray", "Amhara Region"]
+   stringTokens: ["EDU", "Ethiopian Democratic Union"]
+   yearsActiveasArmed: ["1976-1979"] ## Date of last attack but really they were "at war" with the gob until 1991
+   regionsMostActive: ["Tigray", "Amhara Region"]
   epdmArmedGroup:
-    stringTokens: ["Ethiopian People's Democratic Movement", "EPDM"]
-    regionsMostActive: ["Amhara Region"]
-    yearsActiveasArmed: ["1983-1991"]
-    isPartof: ["eprdfArmedGroup", "eprdfParty"]
+   stringTokens: ["Ethiopian People's Democratic Movement", "EPDM"]
+   regionsMostActive: ["Amhara Region"]
+   yearsActiveasArmed: ["1983-1991"]
   esrmArmedGroup:
-    stringTokens: ["Eritrean Islamic Reform Movement"]
-    regionsMostActive: ["Eritrea"]
-    yearsActiveasArmed: ["1975-2003"]
+   stringTokens: ["Eritrean Islamic Reform Movement"]
+   regionsMostActive: ["Eritrea"]
+   yearsActiveasArmed: ["1975-2003"]
   elfArmedGroup:
-    stringTokens: ["ELF", "Eritrean Liberation Front"]
-    regionsMostActive: ["Eritrea"]
-    yearsActiveasArmed: ["1961-1992"]
+   stringTokens: ["ELF", "Eritrean Liberation Front"]
+   regionsMostActive: ["Eritrea"]
+   yearsActiveasArmed: ["1961-1992"]
   eplfArmedGroup:
-    stringTokens: ["EPLF", "Eritrean People's Liberation Front"]
-    isPartof: ["eprdfArmedGroup", "pfdjParty"] #leaves after 1991 when Eritrea becomes independent the pfdjParty is in Eritra
-    regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
-    yearsActiveasArmed: ["1976-1991"]
-    associatedEthnicGroup: ["tigrinyaEthnicGroup"]
+   stringTokens: ["EPLF", "Eritrean People's Liberation Front"]
+   associatedEthnicGroup: ["tigrinyaEthnicGroup"]
+   regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
+   yearsActiveasArmed: ["1976-1991"]
   erdfAmedGroup:
-    stringTokens: ["Eritrean Revolutionary Democratic Front"]
-    regionsMostActive: ["Eritrea"]
-    yearsActiveasArmed: ["1999"]
+   stringTokens: ["Eritrean Revolutionary Democratic Front"]
+   regionsMostActive: ["Eritrea"]
+   yearsActiveasArmed: ["1999"]
   eprpArmedGroup:
-    stringTokens: ["EPRP", "Ethiopian Peoples Revolutionary Party"]
-    regionsMostActive: ["Tigray", "Addis Abada"]
-    yearsActiveasArmed: ["1972-1992"]
-    isPartof: ["eprpParty"]
+   stringTokens: ["EPRP", "Ethiopian Peoples Revolutionary Party"]
+   regionsMostActive: ["Tigray", "Addis Abada"]
+   yearsActiveasArmed: ["1972-1992"]
   ethArmedGroup:
-    stringTokens: ["Ethiopians"]
-    regionsMostActive:
-    yearsActiveasArmed:
+   stringTokens: ["Ethiopians"]
+   regionsMostActive:
+   yearsActiveasArmed:
   iuArmedGroup:
-    stringTokens: ["Islamic Unity"]
-    regionsMostActive:
-    yearsActiveasArmed: ["1992-1997"]
+   stringTokens: ["Islamic Unity"]
+   regionsMostActive:
+   yearsActiveasArmed: ["1992-1997"]
   iglfArmedGroup:
-    stringTokens: ["Issa and Gurgura Liberation Front"]
-    regionsMostActive: ["Somali Region"]
-    yearsActiveasArmed: ["1991-1994"]
+   stringTokens: ["Issa and Gurgura Liberation Front"]
+   regionsMostActive: ["Somali Region"]
+   yearsActiveasArmed: ["1991-1994"]
   onlfArmedGroup:
-    stringTokens: ["ONLF", "Ogaden National Liberation Front", "Javhadda Waddaniga Xoreynta Ogaddeenya"]
-    isPartof: ["onlfParty"]
-    regionsMostActive: ["Somali Region"]
-    yearsActiveasArmed: ["1991-1994"]
-    associatedEthnicGroup: ["somaliEthnicGroup"]
+   stringTokens: ["ONLF", "Ogaden National Liberation Front", "Javhadda Waddaniga Xoreynta Ogaddeenya"]
+   associatedEthnicGroup: ["somaliEthnicGroup"]
+   regionsMostActive: ["Somali Region"]
+   yearsActiveasArmed: ["1991-1994"]
   murletribeArmedGroup:
-    stringTokens: ["Murle Tribe"]
-    regionsMostActive:
-    yearsActiveasArmed: ["2012"]
+   stringTokens: ["Murle Tribe"]
+   regionsMostActive: []
+   yearsActiveasArmed: ["2012"]
   olfArmedGroup:
-    stringTokens: ["OLF", "Oromo Liberation Front"]
-    isPartof: ["olfParty"]
-    regionsMostActive: ["Oromo Region"]
-    yearsActiveasArmed: ["1974-1991"]
-    associatedEthnicGroup: ["oromoEthnicGroup"]
+   stringTokens: ["OLF", "Oromo Liberation Front"]
+   associatedEthnicGroup: ["oromoEthnicGroup"]
+   regionsMostActive: ["Oromo Region"]
+   yearsActiveasArmed: ["1974-1991"]
   slfArmedGroup:
-    stringTokens: ["SLF", "Sidama Liberation Front", "Sidama National Liberation Front", SNLF]
-    regionsMostActive: ["Sidama Region"]
-    yearsActiveasArmed: ["1978-1991", "2020-2022"]
-    associatedEthnicGroup: ["sidamaEthnicGroup"]
-    isPartof: ["slfParty"]
+   stringTokens: ["SLF", "Sidama Liberation Front", "Sidama National Liberation Front", SNLF]
+   associatedEthnicGroup: ["sidamaEthnicGroup"]
+   regionsMostActive: ["Sidama Region"]
+   yearsActiveasArmed: ["1978-1991", "2020-2022"]
   salfArmedGroup:
-    stringTokens: ["Somali Abo Liberation Front"]
-    regionsMostActive: ["Somali Region"]
-    yearsActiveasArmed: ["1976-1988"]
-    associatedEthnicGroup: ["somaliEthnicGroup"]
+   stringTokens: ["Somali Abo Liberation Front"]
+   associatedEthnicGroup: ["somaliEthnicGroup"]
+   regionsMostActive: ["Somali Region"]
+   yearsActiveasArmed: ["1976-1988"]
   sifArmedGroup:
-    stringTokens: ["Somali Islamic Front"]
-    regionsMostActive: ["Somali Region"]
-    yearsActiveasArmed: ["2007-2009"]
-    associatedEthnicGroup: ["somaliEthnicGroup"]
+   stringTokens: ["Somali Islamic Front"]
+   associatedEthnicGroup: ["somaliEthnicGroup"]
+   regionsMostActive: ["Somali Region"]
+   yearsActiveasArmed: ["2007-2009"]
   wslfArmedGroup:
-    stringTokens: ["Western Somali Liberation Front"]
-    regionsMostActive: ["Somali Region"]
-    yearsActiveasArmed: ["1975-1989"]
-    associatedEthnicGroup: ["somaliEthnicGroup"]
+   stringTokens: ["Western Somali Liberation Front"]
+   associatedEthnicGroup: ["somaliEthnicGroup"]
+   regionsMostActive: ["Somali Region"]
+   yearsActiveasArmed: ["1975-1989"]
   ufefcfArmedGroup:
-    stringTokens: ["United Front of Ethiopian Federalist and Confederalist Forces", "UFEFCF"]
-    yearsActiveasArmed: ["2021-2022"]
+   stringTokens: ["United Front of Ethiopian Federalist and Confederalist Forces", "UFEFCF"]
+   yearsActiveasArmed: ["2021-2022"]
   olaArmedGroup:
-    stringTokens: ["Oromo Liberation Army", "OLA", "Shene", "Shanee", "Oneg", "OLF-Shene"]
-    regionsMostActive: ["Oromo Region", "Amhara Region"]
-    yearsActiveasArmed: ["2018-Present"]
-    isPartof: ["ufefcfArmedGroup"]
+   stringTokens: ["Oromo Liberation Army", "OLA", "Shene", "Shanee", "Oneg", "OLF-Shene"]
+   regionsMostActive: ["Oromo Region", "Amhara Region"]
+   yearsActiveasArmed: ["2018-Present"]
   agewlfArmedGroup:
-    stringTokens: ["Agew Liberation Front"]
-    yearsActiveasArmed: ["2020-Present"]
-    isPartof: ["ufefcfArmedGroup"]
+   stringTokens: ["Agew Liberation Front"]
+   yearsActiveasArmed: ["2020-Present"]
   mgsArmedGroup:
-    stringTokens: ["Somali State Resistance", "MGS", "Muqaawamada Gobolka Soomaalida"]
-    yearsActiveasArmed: ["2020-Present"]
-    isPartof: ["ufefcfArmedGroup"]
-    associatedEthnicGroup: ["somaliEthnicGroup"]
+   stringTokens: ["Somali State Resistance", "MGS", "Muqaawamada Gobolka Soomaalida"]
+   associatedEthnicGroup: ["somaliEthnicGroup"]
+   yearsActiveasArmed: ["2020-Present"]
   gplaArmedGroup:
-    stringTokens: ["Gambella People's Liberation Army"]
-    yearsActiveasArmed: ["2020-Present"]
-    isPartof: ["ufefcfArmedGroup"]
+   stringTokens: ["Gambella People's Liberation Army"]
+   yearsActiveasArmed: ["2020-Present"]
   bplmArmedGroup:
-    stringTokens: ["Benishangul People's Liberation Movement","BPLM"]
-    yearsActiveasArmed: ["1996-2005", "2020-Present"]
-    isPartof: ["ufefcfArmedGroup"]
-    regionsMostActive: [Benishangul-Gumuz Region"]
-    associatedEthnicGroup: [] #This group is associated with the Berta and Gurmuz people but they are both under the 1% thrashold.
+   stringTokens: ["Benishangul People's Liberation Movement", "BPLM"]
+   associatedEthnicGroup: [] #This group is associated with the Berta and Gurmuz people but they are both under the 1% thrashold.
+   yearsActiveasArmed: ["1996-2005", "2020-Present"]
+   regionsMostActive: [Benishangul-Gumuz Region"]
   fanoArmedGroup:
-    stringTokens: ["Fano", "The Youth"]
-    yearsActiveasArmed: ["2010-Present"]
-    regionsMostActive: ["Amhara Region"]
-    associatedEthnicGroup: ["amharaEthnicGroup"]
+   stringTokens: ["Fano", "The Youth"]
+   associatedEthnicGroup: ["amharaEthnicGroup"]
+   yearsActiveasArmed: ["2010-Present"]
+   regionsMostActive: ["Amhara Region"]
   tdfArmedGroup:
-    stringTokens: ["Tigray Defense Forces", "TDF"]
-    yearsActiveasArmed: ["2020-2023"]
-    regionsMostActive: ["Tigray Region"]
-    associatedEthnicGroup: ["tigrayanEthnicGroup"]
-    isPartof: ["ufefcfArmedGroup"]
+   stringTokens: ["Tigray Defense Forces", "TDF"]
+   associatedEthnicGroup: ["tigrayanEthnicGroup"]
+   yearsActiveasArmed: ["2020-2023"]
+   regionsMostActive: ["Tigray Region"]
+   associatedEthnicGroup: ["tigrayanEthnicGroup"]
