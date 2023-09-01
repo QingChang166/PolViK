@@ -1,0 +1,6 @@
+relations:
+  - (officialStateSecurityForces, mozambiqueSecurityForces)
+  - (ethnicGroup, )
+  - (politicalParty, )
+  - (ArmedNonGovernmentalOrganizedGroup, )
+  - (armedGroup, )
