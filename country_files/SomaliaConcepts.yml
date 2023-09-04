@@ -23,7 +23,7 @@ concepts:
    associatedEthnicGroup: []
    yearsActiveasEntity: ["2015-Present"] ##active as an entity
    yearsActiveasParty: ["2015-Present"] ##active as a political party
-  dpsPaty:
+  dpsParty:
    stringTokens: ["Democratic Party of Somalia", "DPS"]
    wikidataQnode: ["Q18388289"]
    associatedEthnicGroup: []
@@ -35,7 +35,7 @@ concepts:
    associatedEthnicGroup: []
    yearsActiveasEntity: ["2020-Present"] ##active as an entity
    yearsActiveasParty: ["2020-Present"] ##active as a political party
-  haldoorPaty:
+  haldoorParty:
    stringTokens: ["Haldoor Party"]
    wikidataQnode: ["Q104872609"]
    yearsActiveasEntity: ["2019-Present"] ##active as an entity
@@ -46,7 +46,7 @@ concepts:
    associatedEthnicGroup: []
    yearsActiveasEntity: ["2018-Present"] ##active as an entity
    yearsActiveasParty: ["2018-Present"] ##active as a political party
-  qarasoorpPary:
+  qarasoorpParty:
    stringTokens: ["Qaransoor Party"]
    wikidataQnode: ["Q104871344"]
    associatedEthnicGroup: []
@@ -319,7 +319,7 @@ concepts:
    associatedEthnicGroup: []
    regionsMostActive: ["Puntland"]
    yearsActiveasArmed: ["1998-2017"]
-  aswjAmrdGroup:
+  aswjAmredGroup:
    stringTokens: ["ASWJ", "Ahlu-Sunah Wal-Jamea", "hlu Sunna Waljama'a"]
    associatedEthnicGroup: []
    regionsMostActive: ["Galmudug"]
