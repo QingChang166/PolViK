@@ -15,7 +15,7 @@ concepts:
    stringTokens: ["Twa","Batwua", "Batwa" ]
    wikidataQnode: ["Q7857394" ]
 ##political parties
-  UPRONAparty:
+  UPRONAParty:
    stringTokens: ["Union for National Progress", "UPRONA", "Union pour le Progrès national"]
    associatedEthnicGroup: ["tutsiEthnicGroup"]
   FRODEBUParty: 
