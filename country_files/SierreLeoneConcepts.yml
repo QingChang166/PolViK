@@ -87,34 +87,34 @@ concepts:
       stringTokens: ["Sherbro language", "Sherbro"]
       wikidataQnode: ["Q36339"]
 ### Political parties
-    slppPoliticalParty:
+    slppParty:
       stringTokens: ["Sierra Leone People's Party", "SLPP"]
       wikidataQnode: ["Q2033938"]
-    apcPoliticalParty:
+    apcParty:
       stringTokens: ["All People's Congress", "APC"]
       wikidataQnode: ["Q385749"]
-    gapPoliticalParty:
+    gapParty:
       stringTokens: ["Grand Alliance Party", "GAP"]
       wikidataQnode: ["Q5594230"]
-    plpPoliticalParty:
+    plpParty:
       stringTokens: ["Peace and Liberation Party"]
       wikidataQnode: ["Q7157487"]
-    pdpPoliticalParty:
+    pdpParty:
       stringTokens: ["People's Democratic Party"]
       wikidataQnode: ["Q7165533"]
     pmdcPoliticalParty:
       stringTokens: ["People's Movement for Democratic Change", "PMDC"]
       wikidataQnode: ["Q6151267"]
-    unppPoliticalParty:
+    unppParty:
       stringTokens: ["United National People's Party"]
       wikidataQnode: ["Q7888303"]
-    upPoliticalParty:
+    upParty:
       stringTokens: ["Unity Party"]
       wikidataQnode: ["Q55636708"]
-    yppPoliticalParty:
+    yppParty:
       stringTokens: ["Young People's Party"]
       wikidataQnode: ["Q8058347"]
-    nadpPoliticalParty:
+    nadpParty:
       stringTokens: ["National Alliance Democratic Party"]
       wikidataQnode: ["Q6970284"]
 ###armed groups
