@@ -58,7 +58,7 @@ concepts:
     wikidataQnode: ["Q1540444"]
     livesIn: ["Tokar"]
 ##political party
-  splmioPoliticalParty:
+  splmioParty:
     stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM-IO"]
     wikidataQnode: ["Q17022177"]
 ##armed groups
