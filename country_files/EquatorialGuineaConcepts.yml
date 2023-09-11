@@ -40,33 +40,33 @@ concepts:
      livesIn: ["Annobón"]
     
   ## politicalparties
-   CPDSPoliticalParty:
+   CPDSParty:
      stringTokens: ["Convergence for Social Democracy"]
      wikidataQnode:  ["Q2996391"]
      associatedethnicgroup: ["Fang people"]
      yearsActiveasParty: ["1990-present"]
 
-   PDGEPoliticalParty:
+   PDGEParty:
      stringTokens: ["Democratic Party of Equatorial Guinea"]
      wikidataQnode:  ["Q945167"]
      yearsActiveasParty: ["1987-present"]
 
-   PAEGPoliticalParty:
+   PAEGParty:
      stringTokens: ["Popular Action of Equatorial Guinea"]
      wikidataQnode:  ["Q5656225"]
      yearsActiveasParty: ["1990-present"]
 
-   PUEGPoliticalParty:
+   PUEGParty:
      stringTokens: ["Popular Union of Equatorial Guinea"]
      wikidataQnode:  ["Q18618907"]
      yearsActiveasParty: ["1992-present"]
 
-   PIEGPoliticalParty:
+   PIEGParty:
      stringTokens: ["Popular Idea of Equatorial Guinea"]
      wikidataQnode:  ["Q9006697"]
      yearsActiveasParty: ["1958-1970"]
   
-   PUNTPoliticalParty:
+   PUNTParty:
      stringTokens: ["United National Workers' Party"]
      wikidataQnode:  ["Q1606430"]
      yearsActiveasParty: ["1970-1979"]
