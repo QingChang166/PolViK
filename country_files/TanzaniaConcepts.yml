@@ -122,29 +122,29 @@ concepts:
    regionsMostActive: ["Zanzibar"]
  
 ##language groups
-KiswahiliLanguageGroup:
+KiswahiliLinguisticGroup:
    stringTokens: ["Swahili, "Kiswahili"]
    wikidataQnode: ["Q132111"]
-EnglishLanguageGroup:
+EnglishLinguisticGroup:
    stringTokens: ["English"]
    wikidataQnode: ["Q1860"]
-SukumaLanguageGroup:
+SukumaLinguisticGroup:
   stringTokens: ["Sukuma"]
   wikidataQnode: ["Q36694"]
   livesIn: ["Mwanza", "Shinyanga", "Simiyu"]
-NyamweziLanguageGroup:
+NyamweziLinguisticGroup:
   stringTokens: ["Nyamwezi"]
   wikidataQnode: ["Q1332242"]
   livesIn: ["Tabora"]
-ChagaLanguageGroup:
+ChagaLinguisticGroup:
   stringTokens: ["Chaga"]
   wikidataQnode: ["Q3272632"]
   livesIn: ["Kilimanjaro"]
-HayaLanguageGroup:
+HayaLinguisticGroup:
   stringTokens: ["Haya"]
   wikidataQnode: ["Q33363"]
   livesIn: ["Kagera"]
-MakondeLanguageGroup:
+MakondeLinguisticGroup:
   stringTokens: ["Makonde"]
   wikidataQnode: ["Q33311"]
   livesIn: ["Mtwara"]
