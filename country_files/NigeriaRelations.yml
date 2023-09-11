@@ -1,15 +1,15 @@
 relations:
   - (officialStateSecurityForces, NigerianSecurityForces)
-  - (ethnicGroup, igbo)
-  - (ethnicGroup, hausa)
-  - (ethnicGroup, fulani)
-  - (ethnicGroup, yoruba)
-  - (ethnicGroup, ijaw)
-  - (ethnicGroup, tiv)
-  - (ethnicGroup, kanuri)
-  - (ethnicGroup, ibibio)
-  - (ethnicGroup, nupe)
-  - (ethnicGroup, gwari)
+  - (EthnicGroup, igboEthnicGroup)
+  - (EthnicGroup, hausaEthnicGroup)
+  - (EthnicGroup, fulaniEthnicGroup)
+  - (EthnicGroup, yorubaEthnicGroup)
+  - (EthnicGroup, ijawEthnicGroup)
+  - (EthnicGroup, tivEthnicGroup)
+  - (EthnicGroup, kanuriEthnicGroup)
+  - (EthnicGroup, ibibioEthnicGroup)
+  - (EthnicGroup, nupeEthnicGroup)
+  - (EthnicGroup, gwariEthnicGroup)
 ###NEED ceoncept name not string name
 ##connect parents to children
 ##we are encoding "is a" relations not "related" relations so don't worry about political parties that are also armed groups, treat them as two seperate entities
