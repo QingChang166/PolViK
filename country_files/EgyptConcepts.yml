@@ -1,0 +1,160 @@
+concepts:
+  EgyptianSecurityForces:
+    stringTokens: ["Egyptian Armed Forces", "Egyptian military", "military of Egypt", "mil Egypt", "alquwwat almusalahat almisria", "Egyptian Army", "army of Egypt", "El Geish el Masry", "Egyptian Ground Forces", "al-Quwwāt al-Barriyya al-Miṣriyya", "Egyptian Navy", "al-Quwwāt el-Bahareya el-Miṣriyya", "na Egypt", "navy of Egypt", "Egypt navy", "Egyptian Navy Forces", "Egyptian Naval Force", "Egyptian Air Force", "EAF", "af Egypt", "air force of Egypt", "El Qūwāt El Gawīyä El Maṣrīya", "Egyptian Army Air Force", "EAAF", "Royal Egyptian Air Force", "REAF", "Royal Air Force", "RAF", "Egyptian Air Defense Forces", "Egyptian Air Defense Command", "air defense of Egypt", "ad Egypt", "EADF", "Quwwat El-Difa' El-Gawwi"]
+    wikidataQnode: ["Q1075553", "Q6479134", "Q382551", "Q1351405", "Q2985739"]
+
+##EthnicGroups
+  EgyptiansEthnicGroup:
+    stringTokens: ["Egyptians", "Egyptian people", "Egyptian Arabic"]
+    wikidataQnode: ["Q1061510"]
+  CoptsEthnicGroup:
+    stringTokens: ["Copts", "Copt"]
+    wikidataQnode: ["Q146744"]
+  # Below are less than 5%
+  #AbazinsEthnicGroup:
+  #  stringTokens: ["Abazins", "Abaza", "Abazinians", "Abazalar  MBArmedGroup:
+   stringTokens: ["Muslim Brotherhood Gangs", "Muslim Brotherhood"]
+   associatedEthnicGroup: []
+   wikidataQnode:["Q16190895"]
+  MBArmedGroup:
+   stringTokens: ["Muslim Brotherhood Gangs", "Muslim Brotherhood"]
+   associatedEthnicGroup: []
+   wikidataQnode:["Q16190895"]
+  #  wikidataQnode: ["Q213040"]
+  #TurksEthnicGroup:
+  #  stringTokens: ["Turks", "Turkish people", "people of Turkey"]
+  #  wikidataQnode: ["Q84072"]
+  #GreeksEthnicGroup:
+  #  stringTokens: ["Greeks", "Proto-Greeks", "Helladians", "Greek people", "Hellenes"]
+  #  wikidataQnode: ["Q539051"]
+  #BedouinEthnicGroup:
+  #  stringTokens: ["Bedouin", "Bedouins", "Bedouin people", "Bedouin tribes", "Beduin", "Bedu", "Badū", "Badawī"]
+  #  wikidataQnode: ["Q180688"]
+  #SiwiEthnicGroup:
+  #  stringTokens: ["Siwi people", "Siwan people", "Amazigh", "Berber", "Imazighen"] # belongs to "Berbers". I don't know if we need to add them in the tags.
+  #  wikidataQnode: ["Q2435861", "Q45315"]
+  #NubiansEthnicGroup:
+  #  stringTokens: ["Nubian people", "Nubians"]
+  #  wikidataQnode: ["Q15140604"]
+  #BejaEthnicGroup:
+  #  stringTokens: ["Beja people", "Blemmyes"]
+  #  wikidataQnode: ["Q813961"]
+  #DomEthnicGroup:
+  #  stringTokens: ["Dom people", "Domi", "Doms", "Ghagar", "Domari"] # Historically known as "Gypsian/Romani people"
+  #  wikidataQnode: ["Q2656122"]
+  #JewEthnicGroup:
+  #  stringTokens: ["Jewish people", "Jewish person", "Jew", "Jewish", "The Jews", "Jewry", "Jewish nation", "The Jewish people", "Jewish community", "Jews"]  
+  #  wikidataQnode: ["Q7325"]
+  
+##PoliticalParties
+  ASUParty:
+   stringTokens: ["Arab Socialist Union", "ASU"] # Active during 1962-1978. In June 1977, the law of political party was enacted, leading to a shift to a multi-party system. The centre wing of the ASU evolved into the National Democratic Party since then.
+   associatedEthnicGroup: [] # pan-Arabism, Secular
+   wikidataQnode: ["Q624111"]
+  EBParty:
+   stringTokens: ["Egyptian Bloc"] # An electoral alliance formed during 2011-2012 to prevent the Muslim Brotherhood, and its affiliated Freedom and Justice Party from winning.
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q254009"]
+  FEPParty:
+   stringTokens: ["Free Egyptians Party", "FEP"] # Founded after the 2011 Egyptian revolution.
+   associatedEthnicGroup: [] # Egyptian nationalism, Secular
+   wikidataQnode: ["Q962942"]
+  FJPParty:
+   stringTokens: ["Freedom and Justice Party", "FJP"] # Founded on 30 April 2011 and was banned on 9 August 2014, remaining underground since then.
+   associatedEthnicGroup: [] # Islamist political party
+   wikidataQnode: ["Q685715"]
+  HAIParty:
+   stringTokens: ["Liberal SocialisBaltagiyats Party", "HAI"] # Established in 1976 and dissolved in 2011
+   associatedEthnicGroup: [] # Islamic liberalism
+   wikidataQnode: ["Q402650"]
+  HaNParty:
+   stringTokens: ["Al-Nour Party", "Party of The Light", "Ḥizb an-Nūr", "HaN"] # Created after the 2011 Egyptian Revolution. 
+   associatedEthnicGroup: [] # Islamism
+   wikidataQnode: ["Q210461"]
+  HMDIParty:
+   stringTokens: ["Egyptian Social Democratic Party", "HMDI"] # Created after the 2011 Egyptian Revolution. 
+   associatedEthnicGroup: [] # Secularism
+   wikidataQnode: ["Q253911"]
+  LCPParty:
+   stringTokens: ["Liberal Constitutional Party", "LCP"] # Dissolved in 1952
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q743164"]
+  MBParty:
+   stringTokens: ["Muslim Brotherhood", "Muslim Brotherhood in Egypt"]
+   associatedEthnicGroup: [] # Islamism
+   wikidataQnode: ["Q16190895"]
+  NDPParty:
+   stringTokens: ["National Democratic Party", "NDP"] # Dissolved on April 16, 2011 by court order.
+   associatedEthnicGroup: [] # Egyptian Nationalism
+   wikidataQnode: ["Q841133"]
+  NFPParty:
+   stringTokens: ["Nation's Future Party", "NFP", "Future of the Nation Party", "Mostaqbal Watan"] # Founded in November 2014.
+   associatedEthnicGroup: [] # Egyptian nationalism, secularism
+   wikidataQnode: ["Q20982186"]
+  NUParty:
+   stringTokens: ["National Union"] # The political union between Egypt and Syria that existed from 1957 to 1962.
+   associatedEthnicGroup: [] # Arab nationalism
+   wikidataQnode: ["Q54900605"]
+  SaadistParty:
+   stringTokens: ["Saadist Institutional Party"] # Dissolved in 1952
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q12186375"]
+  EILPParty:
+   stringTokens: ["Egyptian Islamic Labour Party", "Socialist Labour Party"] # Founded in 1978
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q253725"]
+  NewWafdParty:
+   stringTokens: ["New Wafd Party", "Al-Wafd Party", "Egyptian Wafd Party", "Al-Wafd", "Wafd"] # Founded in 1978
+   associatedEthnicGroup: [] # all, Secular
+   wikidataQnode: ["Q767012"]
+  WafdParty:
+   stringTokens: ["Wafd Party"] # The party was dissolved in 1952, after the 1952 Egyptian Revolution.
+   associatedEthnicGroup: [] # all, Secular
+   wikidataQnode: ["Q748617"]
+     
+##ArmedGroups
+  ISILSPArmedGroup:
+   stringTokens: ["Islamic State – Sinai Province", "ISIL Sinai Province", "ISIL-SP", "Sinai Province of the Islamic State", "Daesh", "ISIL", "Islamic State in Iraq and Syria", "Islamic State of Iraq and Levant", "ISIS", "Islamic State Group", "Islamic State of Iraq and Syria", "Islamic State of Iraq and al-Sham", "The Islamic State", "IS", "Islamic State of Iraq and the Levant", "Jama’at Al-Tawhid wa Al-Jihad", "TQJBR", "Tanzim Qa’idat al Jihad fi Bilad al Rafidayn"]
+   associatedEthnicGroup: [""] # Ethnicity is not a primary organizing principle, Sunni Islamism
+   wikidataQnode: ["Q21070586", "Q2429253"]
+  AlGamaaAlIslamiyyaArmedGroup:
+   stringTokens: ["al-Gama'a al-Islamiyya", "al Jamaat al Islamiya", "al-Jama'a al-Islamiyya", "the Islamic Group", "El Gama'a El Islamiyya", "Islamic Groups", "Gamaat Islamiya", "al Jamaat al Islamiya"]
+   associatedEthnicGroup: [""] # Ethnicity is not a primary organizing principle, Sunni Islamism
+   wikidataQnode: ["Q285185"]
+  TawhidwalJihadArmedGroup:
+   stringTokens: ["Tawhid wal-Jihad", "Jahafil Al-Tawhid Wal-Jihad fi Filastin", "Tawhid al-Jihad (Gaza Strip)", "The Armies of Monotheism and Jihad in Palestine", "al-Tawhid wal-Jihad"]
+   associatedEthnicGroup: ["Palestinians", "Palestinian Arabs", "Arab Palestinians", "Palestinian people"]
+   wikidataQnode:["Q7689274"]"Jamaat Ansar al-Sunnah", "Jaish Ansar al-Sunna", ""
+  ABMGroup:
+   stringTokens: ["Ansar Bait al-Maqdis", "ABM", "Ansar Al-Quds"] # Defunct Egyptian jihadist militant group (2011-14). Most of the group became a branch of ISIL, renaming itself ISIL-Sinai Province.
+   associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
+   wikidataQnode:["Q15646812"]
+  HASMArmedGroup:
+   stringTokens: ["Hasm Movement", "Arms of Egypt Movement", "The Hasm Movement", "Harakat Sawa’d Misr", "Harakah Sawa’id Misr", "Harikat Souaid Misr", "HASM", "Movement of Egypt’s Forearms", "Movement of Egypt’s Arms", "Hassm", "Hamms", "Hassam", "Hasam"]
+   associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
+   wikidataQnode:["Q28162759"]
+  AAIArmedGroup:
+   stringTokens: ["Ansar al-Islam", "Ansar al-Sunna", "Jamaat Ansar al-Islam", "AI", "JAI", "AAI", "Ansar al-Islam fi Kurdistan"]
+   associatedEthnicGroup: ["Kurds", "Kurdish people", "Kurd"]
+   wikidataQnode:["Q568914"]
+  EIJArmedGroup:
+   stringTokens: ["Egyptian Islamic Jihad", "EIJ", "The Jihad Group", "The Jihad Organization", "al-Jihad", "The Jihad Organization"]
+   associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
+   wikidataQnode:["Q310214"]
+  # Pro-Government Militias
+  BaltagiyaArmedGroup:
+   stringTokens: ["Mubarak's Thugs/Baltagiya", "Mubarak's Baltagiya", "Mubarak's Thugs"] # Jan 1, 1990 - Feb 11, 2011
+   associatedEthnicGroup: []
+   wikidataQnode:[]
+  MBArmedGroup:
+   stringTokens: ["Muslim Brotherhood Gangs", "Muslim Brotherhood"] # Dec 10, 2012 - Jul 3, 2013
+   associatedEthnicGroup: []
+   wikidataQnode:["Q16190895"]
+  # Tribal groups omitted
+  
+  
+  
+  
+  
+
+  
