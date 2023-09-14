@@ -1,0 +1,132 @@
+concepts:
+    AlgerianSecurityForces:
+     stringTokens: ["Algerian People's National Army", "Combined military forces of Algeria", "Algerian Armed Forces"]
+     wikidataQnode: ["Q897700"]
+  
+  ## ethnicgroups
+   ArabEthnicGroup:
+     stringTokens: ["Arabs", "Arab people"]
+     wikidataQnode: ["Q35323"]
+     languagesMostSpoken: ["Arabic"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Northern regions", "Coastal regions"]
+
+   BerberEthnicGroup:
+     stringTokens: ["Berbers", "Amazigh", "Berber people"]
+     wikidataQnode: ["Q45315"]
+     languagesMostSpoken: ["Berber languages", "Tamazight", "Arabic"]
+     religionsMostPracticed: ["Sunni Islam"]
+     livesIn: ["Kabylie region"]
+
+  ## politicalparties
+   FLNPoliticalParty:
+     stringTokens: ["FLN", "National Liberation Front"]
+     wikidataQnode:  ["Q204543"]
+     yearsActiveasParty: ["1954-present"]
+
+   FNAPoliticalParty:
+     stringTokens: ["Algerian National Front"]
+     wikidataQnode:  ["Q912180"]
+     yearsActiveasParty: ["1980-present"]
+
+   RNDPoliticalParty:
+     stringTokens: ["RND", "Democratic National Rally"]
+     wikidataQnode:  ["Q840321"]
+     yearsActiveasParty: ["1997-present"]
+   
+   FFSPoliticalParty:
+     stringTokens: ["Socialist Forces Front", "FFS"]
+     wikidataQnode:  ["Q605960"]
+     yearsActiveasParty: ["1963-present"]
+
+   MSPPoliticalParty:
+     stringTokens: ["Movement of Society for Peace"]
+     wikidataQnode:  ["Q1889454"]
+     yearsActiveasParty: ["1990-present"]
+
+   MNRPoliticalParty:
+     stringTokens: ["Movement for National Reform"]
+     wikidataQnode:  ["Q852320"]
+     yearsActiveasParty: ["1999-present"]
+
+   WPPoliticalParty:
+     stringTokens: ["Workers' Party"]
+     wikidataQnode:  ["Q627196"]
+     yearsActiveasParty: ["1990-present"]
+
+   IRMPoliticalParty:
+     stringTokens: ["Islamic Renaissance Movement"]
+     wikidataQnode:  ["Q1790632"]
+     yearsActiveasParty: ["1990-present"]
+
+   FFPoliticalParty:
+     stringTokens: ["Future Front", "El Moustakbal Front"]
+     wikidataQnode:  ["Q3088407"]
+     yearsActiveasParty: ["2012-present"]
+
+   NCMPoliticalParty:
+     stringTokens: ["National Construction Movement"]
+     wikidataQnode:  ["Q77343344"]
+     yearsActiveasParty: ["2013-present"]
+
+   PVPPoliticalParty:
+     stringTokens: ["Voice of the People", "Voice of the People Party"]
+     wikidataQnode:  ["Q111748052"]
+
+   JDFPoliticalParty:
+     stringTokens: ["Justice and Development Front", "Front for Justice and Development"]
+     wikidataQnode:  ["Q3088456"]
+     yearsActiveasParty: ["2011-present"]
+
+   NDPoliticalParty:
+     stringTokens: ["New Dawn", "New Dawn Party"]
+     wikidataQnode:  ["Q12207717"]
+     yearsActiveasParty: ["2012-present"]
+  
+  ## armed groups
+   GIAArmedGroup:
+     stringTokens: ["Armed Islamic Group of Algeria"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q1125408"]
+  
+   FIDAArmedGroup:
+     stringTokens: ["Islamic Front for Armed Jihad"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q6082473"]
+  
+   AISArmedGroup:
+     stringTokens: ["Islamic Salvation Army"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q117184203"]
+  
+   GSPCArmedGroup:
+     stringTokens: ["Salafist Group for Preaching and Combat"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q311841"]
+  
+   THArmedGroup:
+     stringTokens: ["Takfir wal-Hijra"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q291419"]
+  
+   MOJWAArmedGroup:
+     stringTokens: ["Movement for Oneness and Jihad in West Africa", "Movement for Unity and Jihad in West Africa", "MOJVA", "MUJVA"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q550108"]
+  
+   IS-APArmedGroup:
+     stringTokens: ["Islamic State", "Islamic State – Algeria Province", "Jund al-Khilafah"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q18122635"]
+
+   AQIMArmedGroup:
+     stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q2635966"]
+  
+ ## ProGovernment Militia
+      
+   OJALproGovernmentMilitia:
+     stringTokens: ["Organisation of Young Free Algerians"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q663518"]
