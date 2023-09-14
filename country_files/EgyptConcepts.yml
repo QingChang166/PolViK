@@ -7,44 +7,70 @@ concepts:
   EgyptiansEthnicGroup:
     stringTokens: ["Egyptians", "Egyptian people", "Egyptian Arabic"]
     wikidataQnode: ["Q1061510"]
+    languagesMostSpoken: ["Arabic", "Egyptian Arabic"]
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: [""] 
   CoptsEthnicGroup:
     stringTokens: ["Copts", "Copt"]
     wikidataQnode: ["Q146744"]
+    languagesMostSpoken: []
+    religionsMostPracticed: ["Coptic Christianity"]
+    livesIn: [""] 
   # Below are less than 5%
   #AbazinsEthnicGroup:
   #  stringTokens: ["Abazins", "Abaza", "Abazinians", "Abazalar  MBArmedGroup:
-   stringTokens: ["Muslim Brotherhood Gangs", "Muslim Brotherhood"]
-   associatedEthnicGroup: []
-   wikidataQnode:["Q16190895"]
-  MBArmedGroup:
-   stringTokens: ["Muslim Brotherhood Gangs", "Muslim Brotherhood"]
-   associatedEthnicGroup: []
-   wikidataQnode:["Q16190895"]
   #  wikidataQnode: ["Q213040"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   #TurksEthnicGroup:
   #  stringTokens: ["Turks", "Turkish people", "people of Turkey"]
   #  wikidataQnode: ["Q84072"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   #GreeksEthnicGroup:
   #  stringTokens: ["Greeks", "Proto-Greeks", "Helladians", "Greek people", "Hellenes"]
   #  wikidataQnode: ["Q539051"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   #BedouinEthnicGroup:
   #  stringTokens: ["Bedouin", "Bedouins", "Bedouin people", "Bedouin tribes", "Beduin", "Bedu", "Badū", "Badawī"]
   #  wikidataQnode: ["Q180688"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   #SiwiEthnicGroup:
   #  stringTokens: ["Siwi people", "Siwan people", "Amazigh", "Berber", "Imazighen"] # belongs to "Berbers". I don't know if we need to add them in the tags.
   #  wikidataQnode: ["Q2435861", "Q45315"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   #NubiansEthnicGroup:
   #  stringTokens: ["Nubian people", "Nubians"]
   #  wikidataQnode: ["Q15140604"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   #BejaEthnicGroup:
   #  stringTokens: ["Beja people", "Blemmyes"]
   #  wikidataQnode: ["Q813961"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   #DomEthnicGroup:
   #  stringTokens: ["Dom people", "Domi", "Doms", "Ghagar", "Domari"] # Historically known as "Gypsian/Romani people"
   #  wikidataQnode: ["Q2656122"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   #JewEthnicGroup:
   #  stringTokens: ["Jewish people", "Jewish person", "Jew", "Jewish", "The Jews", "Jewry", "Jewish nation", "The Jewish people", "Jewish community", "Jews"]  
   #  wikidataQnode: ["Q7325"]
+  #  languagesMostSpoken: []
+  #  religionsMostPracticed: []
+  #  livesIn: [""] 
   
 ##PoliticalParties
   ASUParty:
