@@ -3,4 +3,4 @@ relations:
   - (ethnicGroup, )
   - (politicalParty, )
   - (ArmedNonGovernmentalOrganizedGroup, )
-  - (armedGroup, )
+  - (ArmedGroup, )
