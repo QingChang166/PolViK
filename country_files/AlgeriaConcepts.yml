@@ -19,66 +19,66 @@ concepts:
      livesIn: ["Kabylie region"]
 
   ## politicalparties
-   FLNPoliticalParty:
+   FLNParty:
      stringTokens: ["FLN", "National Liberation Front"]
      wikidataQnode:  ["Q204543"]
      yearsActiveasParty: ["1954-present"]
 
-   FNAPoliticalParty:
+   FNAParty:
      stringTokens: ["Algerian National Front"]
      wikidataQnode:  ["Q912180"]
      yearsActiveasParty: ["1980-present"]
 
-   RNDPoliticalParty:
+   RNDParty:
      stringTokens: ["RND", "Democratic National Rally"]
      wikidataQnode:  ["Q840321"]
      yearsActiveasParty: ["1997-present"]
    
-   FFSPoliticalParty:
+   FFSParty:
      stringTokens: ["Socialist Forces Front", "FFS"]
      wikidataQnode:  ["Q605960"]
      yearsActiveasParty: ["1963-present"]
 
-   MSPPoliticalParty:
+   MSPParty:
      stringTokens: ["Movement of Society for Peace"]
      wikidataQnode:  ["Q1889454"]
      yearsActiveasParty: ["1990-present"]
 
-   MNRPoliticalParty:
+   MNRParty:
      stringTokens: ["Movement for National Reform"]
      wikidataQnode:  ["Q852320"]
      yearsActiveasParty: ["1999-present"]
 
-   WPPoliticalParty:
+   WPPParty:
      stringTokens: ["Workers' Party"]
      wikidataQnode:  ["Q627196"]
      yearsActiveasParty: ["1990-present"]
 
-   IRMPoliticalParty:
+   IRMParty:
      stringTokens: ["Islamic Renaissance Movement"]
      wikidataQnode:  ["Q1790632"]
      yearsActiveasParty: ["1990-present"]
 
-   FFPoliticalParty:
+   FFParty:
      stringTokens: ["Future Front", "El Moustakbal Front"]
      wikidataQnode:  ["Q3088407"]
      yearsActiveasParty: ["2012-present"]
 
-   NCMPoliticalParty:
+   NCMParty:
      stringTokens: ["National Construction Movement"]
      wikidataQnode:  ["Q77343344"]
      yearsActiveasParty: ["2013-present"]
 
-   PVPPoliticalParty:
+   PVPParty:
      stringTokens: ["Voice of the People", "Voice of the People Party"]
      wikidataQnode:  ["Q111748052"]
 
-   JDFPoliticalParty:
+   JDFParty:
      stringTokens: ["Justice and Development Front", "Front for Justice and Development"]
      wikidataQnode:  ["Q3088456"]
      yearsActiveasParty: ["2011-present"]
 
-   NDPoliticalParty:
+   NDParty:
      stringTokens: ["New Dawn", "New Dawn Party"]
      wikidataQnode:  ["Q12207717"]
      yearsActiveasParty: ["2012-present"]
