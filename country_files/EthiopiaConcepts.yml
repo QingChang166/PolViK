@@ -7,7 +7,7 @@ concepts:
    stringTokens: ["Oromo", "Oromoo", "Galla people", "Galla", "Gallas", "Gala", "Gallinyas", "Ilma Orma", "Orma","Oromota", "Borana Oromo", "Booranaa", "Barentu", "Barentoo", "Baraytuma"] #Borana Oromo (and derivatives) and Barentu (and derivatives) are the two subdivisions of the group
    wikidataQnode: ["Q318674"]
    languagesMostSpoken: ["Oromo language", "Amharic"] ##also known as Afaan Oromoo and Galla although use of the last is often considered pejorative
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestant", "Catholic", "Waaqeffanna"]
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestantism", "Catholicism", "Waaqeffanna"]
    livesIn: ["Oromia Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Sidama Region"]
   amharaEthnicGroup:
    stringTokens: ["Amhara", "Amanarinya", "Amarinya", "Amarinnya", "Amharinya", "Kuchumba", "Shewa","Shoan", "Shuan"] #Shewa and derivatives is usally used for the Amhara who live in the Shewa region (no longer a official region), or as a shorthand for the "ruling class"
@@ -31,25 +31,25 @@ concepts:
    stringTokens: ["Sidamo", "Sidama", "Sidaamu Afoo"]
    wikidataQnode: ["Q1192069"]
    languagesMostSpoken: ["Sidama language", "Amharic"] ##also called Sidaamu Afoo
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestant", "Sunni Islam", "Catholic", "Traditional religion"]
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestantism", "Sunni Islam", "Catholicism", "Traditional religion"]
    livesIn: ["Sidama Region", "Southern Nations, Nationalities, and Peoples' Region"] ##Sidama Region became a state in 2019 prior it was part of the SNNPR
   gurageEthnicGroup:
    stringTokens: ["Gurage"]
    wikidataQnode: ["Q844307"]
    languagesMostSpoken: [ "Sebat Bet", "Inor", "Ezha", "Muher", "Geta", "Gumer", "Endegegn", "Chaha", "Soddo", "Masqan", "Zay"]
-   religionsMostPracticed: ["Sunni Islam", "Oriental Christian Orthodox", "Protestant", "Catholic"]
+   religionsMostPracticed: ["Sunni Islam", "Oriental Christian Orthodox", "Protestantism", "Catholicism"]
    livesIn: ["Southern Nations, Nationalities, and Peoples' Region", "Addis Ababa", "Oromia Region"]
   welaytaEthnicGroup:
    stringTokens: ["Welayta", "Wolayta", "Wolaitta"]
    wikidataQnode: ["Q954810"]
    languagesMostSpoken: ["Wolaytta", "Amharic"]
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestant"]
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestantism"]
    livesIn: ["Southern Nations, Nationalities, and People's Region"]
   hadiyaEthnicGroup:
    stringTokens: ["Hadiya", "Hadiyya", "Hadya", "Hadea", "Hadija", "Hadiyo", "Hadiyeh", "Adea", "Adia"]
    wikidataQnode: ["Q16930512"]
    languagesMostSpoken: ["Hadiyya language"]
-   religionsMostPracticed: ["Protestant", "Sunni Islam", "Traditional religion" ]
+   religionsMostPracticed: ["Protestantism", "Sunni Islam", "Traditional religion" ]
    livesIn: ["Southern Nations, Nationalities, and People's Region"]
   afarEthnicGroup:
    stringTokens: ["Afar", "Qafar", "Danakil", "Adali", "Odali"]
@@ -61,13 +61,13 @@ concepts:
    stringTokens: ["Gamo"]
    wikidataQnode: ["Q749854"]
    languagesMostSpoken: ["Gamo-Gofa-Dawro", "Amharic"]
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestant", "Traditional religion"]
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestantism", "Traditional religion"]
    livesIn: ["Southern Nations, Nationalities, and People's Region"]
   gedeoEthnicGroup:
    stringTokens: ["Gedeo" "Gadeo"]
    wikidataQnode: ["Q5529672"]
    languagesMostSpoken: ["Gedeo language", "Amharic"]
-   religionsMostPracticed: ["Protestant", "Oriental Christian Orthodox", "Traditional religion"]
+   religionsMostPracticed: ["Protestantism", "Oriental Christian Orthodox", "Traditional religion"]
    livesIn: ["Southern Nations, Nationalities, and People's Region", "Oromia Region"]
   SilteEthnicGroup:
    stringTokens: ["Silt'e"]
@@ -79,7 +79,7 @@ concepts:
    stringTokens: ["Kafficho", "Boro", "Caffa", "Caffina", "Caffino", "Gomaro", "Gonga", "Kafa", "Kaffa", "Kafico", "Kefa", "Kefinya", "Shinasha"]
    wikidataQnode: ["Q1721029"]
    languagesMostSpoken: ["Kafa", "Amharic"]
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestant",  "Traditional religion"] ##This one is a bit tricky as 2 sources disagree... Joshua says primarily Traditional with some Orthodox, Protestant and Islam but Wiki says primarily Orthodox with some Islam and very little traditional
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestantism",  "Traditional religion"] ##This one is a bit tricky as 2 sources disagree... Joshua says primarily Traditional with some Orthodox, Protestantism and Islam but Wiki says primarily Orthodox with some Islam and very little traditional
    livesIn: ["Southern Nations, Nationalities, and People's Region", "South West Ethiopia Peoples' Region"] #South West Region became a state in 2021 prior it was part of the SNNPR
   ##For the pre-1993 period where Eritrea is considered part of Ethiopia I am listing the same groups as for Eritrea
   tigrinyaEthnicGroup: #Very similar to tigrayanEthnicGroup in Ethiopia and were the same people until 9th century or Italian colonial rule in Eritrea depending who you ask
@@ -111,7 +111,7 @@ concepts:
    stringTokens: ["Bilen", "Blin", "Bogo", "Bogos", "North Agaw"]
    wikidataQnode: ["Q861736"]
    languagesMostSpoken: ["Bilen language", "Tigre", "Tigrinya"]
-   religionsMostPracticed: ["Sunni Islam", "Catholic", "Oriental Christian Orthodox"]
+   religionsMostPracticed: ["Sunni Islam", "Catholicism", "Oriental Christian Orthodox"]
    livesIn: ["Eritrea", "Maekel", "Anseba"]
   bejaEthnicGroup:
    stringTokens: ["Beja", "Beni-Amer", "Amer", "Nabtab"] #Beni-Amer and related are the subcategory of Beja in Eritrea and Sudan
@@ -123,7 +123,7 @@ concepts:
    stringTokens: [Kunama]
    wikidataQnode: ["Q1225113"]
    languagesMostSpoken: ["Kunama"]
-   religionsMostPracticed: ["Sunni Islam", "Catholic", "Protestant"]
+   religionsMostPracticed: ["Sunni Islam", "Catholicism", "Protestantism"]
    livesIn: ["Tigray Region", "Eritrea", "Gash-Barka"]
   naraEthnicGroup:
    stringTokens: ["Nara"]
