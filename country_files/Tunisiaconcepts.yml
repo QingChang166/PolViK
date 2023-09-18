@@ -1,0 +1,152 @@
+concepts:
+    TunisianSecurityForces:
+     stringTokens: ["Tunisian Armed Forces", "Combined military forces of Tunisia", "Military of Tunisia"]
+     wikidataQnode: ["Q926971"]
+  
+  ## ethnicgroups
+   EthnicGroup:
+     stringTokens: ["Arab", "Arab people"]
+     wikidataQnode: ["Q35323"]
+     languagesMostSpoken: ["Tunisian Arabic", "Arabic"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: 
+    
+  ## politicalparties
+    NTParty:
+     stringTokens: ["Nidaa Tounes", "Call for Tunisia"]
+     wikidataQnode: ["Q929717"]
+     yearsActiveasParty: ["2012-present"]
+  
+    CPRParty:
+     stringTokens: ["Congress for the Republic"]
+     wikidataQnode: ["Q1460650"]
+     yearsActiveasParty: ["2001-present"]
+
+    PPParty:
+     stringTokens: ["Current of Love", "Tayar el-Mahaba", "Popular Petition"]
+     wikidataQnode: ["Q1969819"]
+     yearsActiveasParty: ["2011-present"]
+  
+    NDParty:
+     stringTokens: ["Neo Destour / New Constitutional Liberal Party / Socialist Destourian Party / Democratic Constitutional Rally"]
+     wikidataQnode: ["Q1507590"]
+     yearsActiveasParty: ["1934-1964"]
+
+    SDPParty:
+     stringTokens: ["Socialist Destourian Party"]
+     wikidataQnode: ["Q1232615"]
+     yearsActiveasParty: ["1964-1988"]
+  
+    EPParty:
+     stringTokens: ["Ennahdha Party", "Renaissance Party", "Ennahda Movement"]
+     wikidataQnode: ["Q692022"]
+     yearsActiveasParty: ["1981-present"] 
+
+    FDTLParty:
+     stringTokens: ["Democratic Forum for Labour and Liberties", "Ettakatol"]
+     wikidataQnode: ["Q1371752"]
+     yearsActiveasParty: ["1994-present"]
+     
+    HTParty:
+     stringTokens: ["Heart of Tunisia", "Qalb Tounes", "Tunisian Social Peace Party", "Kalb Tounes"]
+     wikidataQnode: ["Q67263863"]
+     yearsActiveasParty: ["2019-present"]
+  
+    DCParty:
+     stringTokens: ["Democratic Current"]
+     wikidataQnode: ["Q17197994"]
+     yearsActiveasParty: ["2013-present"] 
+
+    PDLParty:
+     stringTokens: ["Free Destourian Party", "Free Constitutional Party"]
+     wikidataQnode: ["Q18205783"]
+     yearsActiveasParty: ["2013-present"]
+  
+    DCParty:
+     stringTokens: ["Dignity Coalition", "Al Karama"]
+     wikidataQnode: ["Q65227809"]
+     yearsActiveasParty: ["2019-present"]
+
+    PMParty:
+     stringTokens: ["People's Movement", "Echaab Movement", "Movement of the People"]
+     wikidataQnode: ["Q3326655"]
+     yearsActiveasParty: ["2005-present"]
+  
+    TTParty:
+     stringTokens: ["Tahya Tounes"]
+     wikidataQnode: ["Q64245468"]
+     yearsActiveasParty: ["2019-present"]
+  
+    MTParty:
+     stringTokens: ["Machrouu Tounes", "Project Tunisia"]
+     wikidataQnode: ["Q24185006"]
+     yearsActiveasParty: ["2016-present"]
+
+    ErrahmaParty:
+     stringTokens: ["Errahma", "Party of Mercy", "Hizb Errahma"]
+     wikidataQnode: ["Q70395486"]
+     yearsActiveasParty: ["2012-present"]
+  
+    RPUParty:
+     stringTokens: ["Republican People's Union"]
+     wikidataQnode: ["Q12183912"]
+     yearsActiveasParty: 
+
+    TAParty:
+     stringTokens: ["Tunisian Alternative", "Al Badil Ettounsi", "El Badil Ettounsi"]
+     wikidataQnode: ["Q29059550"]
+     yearsActiveasParty: ["2017-present"]
+  
+    ATParty:
+     stringTokens: ["Afek Tounes", "Tunisian Aspiration(s)", "Horizons of Tunisia"]
+     wikidataQnode: ["Q382146"]
+     yearsActiveasParty: ["2011-present"]
+
+    PFParty:
+     stringTokens: ["Popular Front", " Popular Front for the Realization of the Objectives of the Revolution"]
+     wikidataQnode: ["Q3088551"]
+     yearsActiveasParty: ["2012-present"]
+  
+    FVPParty:
+     stringTokens: ["Farmers' Voice Party"]
+     wikidataQnode: ["Q18618885"]
+     yearsActiveasParty: 
+  
+  ## armed groups
+    AQIMArmedGroup:
+     stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q2635966"]
+  
+    ISArmedGroup:
+     stringTokens: ["Islamic State insurgency in Tunisia"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q23198510"]
+  
+    JAK-TArmedGroup:
+     stringTokens: ["Jund al-Khilafah - Tunisia", "JAK-T"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+    TARArmedGroup:
+     stringTokens: ["General Revolutionary Committee for the Liberation of Gafsa", "Tunisian Armed Resistance"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+    ASTArmedGroup:
+     stringTokens: ["Ansar al-Shariah", "Supporters of Islamic Law in Tunisia"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q13257444"]
+  
+    alQaedaArmedGroup:
+     stringTokens: ["al-Qaeda"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q34490"]
+  
+ ## ProGovernment Militia
+    LPRproGovernmentMilitia:
+     stringTokens: ["League", "Committees for the Protection of the Revolution", "LPR"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+   

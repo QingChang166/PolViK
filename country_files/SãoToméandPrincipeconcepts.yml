@@ -1,0 +1,93 @@
+concepts:
+    SãoToméandPríncipeSecurityForces:
+     stringTokens: ["Armed Forces of São Tomé and Príncipe", "FASTP", "Armed forces of the nation of Sao Tome and Principe"]
+     wikidataQnode: ["Q3658684"]
+  
+  ## ethnicgroups
+   ForroEthnicGroup:
+     stringTokens: ["Forro"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Forro Creole"]
+     religionsMostPracticed: ["Roman Catholicism"]
+     livesIn: ["São Tomé", "São Tomé City"]
+
+    AngolaresEthnicGroup:
+     stringTokens: ["Angolares", "Angolar"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Angolar Creole"]
+     religionsMostPracticed: ["Catholicism"]
+     livesIn: ["São João dos Angolares"]
+
+    CapeVerdeanEthnicGroup:
+     stringTokens: ["Cape Verdean"]
+     wikidataQnode: ["Q5035144"]
+     languagesMostSpoken: ["Portuguese"]
+     religionsMostPracticed: ["Roman Catholicism"]
+     livesIn: 
+
+    Luso-AfricansEthnicGroup:
+     stringTokens: ["Luso-Africans"]
+     wikidataQnode: ["Q25103965"]
+     languagesMostSpoken: ["Portuguese"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: 
+
+    FangBetiEthnicGroup:
+     stringTokens: ["Fang-Beti", "Beti-Pahuin"]
+     wikidataQnode: ["Q1042768"]
+     languagesMostSpoken: ["Beti language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: 
+    
+  ## politicalparties
+    PCD-GRParty:
+     stringTokens: ["Democratic Convergence Party", " Democratic Convergence Party-Reflection Group"]
+     wikidataQnode: ["Q3463962"]
+     yearsActiveasParty: ["1990-present"]
+  
+    MLSTP–PSDParty:
+     stringTokens: ["Movement for the Liberation of São Tomé and Príncipe – Social Democratic Party"]
+     wikidataQnode: ["Q1276673"]
+     yearsActiveasParty: ["1960-present"]
+  
+    IDAParty:
+     stringTokens: ["Independent Democratic Action"]
+     wikidataQnode: ["Q2788422"]
+     yearsActiveasParty: ["1994-present"]
+  
+    FCDM-LPParty:
+     stringTokens: ["Force for Change Democratic Movement-Liberal Party"]
+     wikidataQnode: ["Q1566188)"]
+     yearsActiveasParty: ["2001-present"]
+  
+    MCI/PSParty:
+     stringTokens: ["Movement of Independent Citizens of São Tomé and Príncipe – Socialist Party"]
+     wikidataQnode: ["Q60748169"]
+     yearsActiveasParty: ["2018-present"]
+  
+    CDFParty:
+     stringTokens: ["Christian Democratic Front"]
+     wikidataQnode: ["Q5109503"]
+     yearsActiveasParty: ["1990-present"]
+  
+    PTSParty:
+     stringTokens: ["São Toméan Workers Party"]
+     wikidataQnode: ["Q7665743"]
+     yearsActiveasParty: []
+  
+    PLSParty:
+     stringTokens: ["Social Liberal Party"]
+     wikidataQnode: ["Q7550708"]
+     yearsActiveasParty: []
+  
+    UKParty:
+     stringTokens: ["Ue-Kedadji"]
+     wikidataQnode: ["Q7877401"]
+     yearsActiveasParty: []
+  
+    MSD–PVSTPParty:
+     stringTokens: ["Social Democratic Movement – Green Party"]
+     wikidataQnode: ["Q105006020"]
+     yearsActiveasParty: ["2017-present"]
+
+ 

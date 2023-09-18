@@ -1,0 +1,70 @@
+FACVconcepts:
+    SecurityForces:
+     stringTokens: ["Cape Verdean Armed Forces", "Cabo Verdean Armed Forces", "FACV", "Military of Cape Verde", "Cape Verde military", "People's Revolutionary Armed Forces", "CVAF", "Cape Verde Armed Forces"]
+     wikidataQnode: ["Q1546252"]
+  
+  ## ethnicgroups
+   CapeVerdeansEthnicGroup:
+     stringTokens: ["Cape Verdeans"]
+     wikidataQnode: ["Q19903733"]
+     languagesMostSpoken: ["Cape Verdean Creole", "Portuguese"]
+     religionsMostPracticed: ["Roman Catholicism"]
+     livesIn: ["Mindelo", "São Domingos"]
+
+   CreoleEthnicGroup:
+     stringTokens: ["Creole people", "Creole"]
+     wikidataQnode: ["Q498640"]
+     languagesMostSpoken: ["Creole languages"]
+     religionsMostPracticed: ["Roman Catholicism"]
+     livesIn: ["Praia", "Mindelo", "Island of Santiago", "São Vicente"]
+
+   FulaEthnicGroup:
+     stringTokens: ["Fula", "Fulani people", "Fulani", "Peuhl"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula languages"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Praia", "Island of Santiago"]
+
+   BalantaEthnicGroup:
+     stringTokens: ["Balanta people", "Balanta", "Balanda Brassa", "Balanta Brassa", "Balanta Mane", "Balante", "Brassa"]
+     wikidataQnode: ["Q804639"]
+     languagesMostSpoken: ["Balanta"]
+     religionsMostPracticed: ["Roman Catholicism"]
+     livesIn: ["Praia"]
+    
+  ## politicalparties
+    DCPParty:
+     stringTokens: ["Party for Democratic Convergence", "Democratic Convergence Party"]
+     wikidataQnode: ["Q5255592"]
+     yearsActiveasParty: ["1994-oresent"]
+  
+    MPDParty:
+     stringTokens: ["Movement for Democracy"]
+     wikidataQnode: ["Q1951190"]
+     yearsActiveasParty: ["1990-present"]
+  
+    PAICVParty:
+     stringTokens: ["African Party for the Independence of Cape Verde"]
+     wikidataQnode: ["Q497464"]
+     yearsActiveasParty: ["1981-present"]
+
+    UCIDParty:
+     stringTokens: ["Democratic and Independent Cape Verdean Union"]
+     wikidataQnode: ["Q3550046"] 
+     yearsActiveasParty: ["1981-present"]
+  
+    PRDParty: 
+     stringTokens: ["Democratic Renewal Party"]
+     wikidataQnode: ["Q5255783"]
+     yearsActiveasParty: ["2000-present"]
+
+    PTSParty:
+     stringTokens: ["Labour and Solidarity Party"]
+     wikidataQnode: ["Q6467536"]
+     yearsActiveasParty: ["1998-present"]
+  
+    PSDParty:
+     stringTokens: ["Social Democratic Party"]
+     wikidataQnode: ["Q3366708"]
+     yearsActiveasParty: ["1992-present"]
+  
