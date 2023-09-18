@@ -37,7 +37,7 @@ concepts:
       stringTokens: ["Bilen", "Blin", "Bogo", "Bogos", "North Agaw"]
       wikidataQnode: ["Q861736"]
       languagesMostSpoken: ["Bilen language", "Tigre", "Tigrinya"]
-      religionsMostPracticed: ["Sunni Islam", "Catholic", "Oriental Christian Orthodox"]
+      religionsMostPracticed: ["Sunni Islam", "Catholicism", "Oriental Christian Orthodox"]
       livesIn: ["Maekel", "Anseba"]
   bejaEthnicGroup:
       stringTokens: ["Beja", "Beni-Amer", "Amer", "Nabtab"] #Beni-Amer and related are the subcategory of Beja in Eritrea and Sudan
@@ -49,7 +49,7 @@ concepts:
       stringTokens: [Kunama]
       wikidataQnode: ["Q1225113"]
       languagesMostSpoken: ["Kunama"]
-      religionsMostPracticed: ["Sunni Islam", "Catholic", "Protestant"]
+      religionsMostPracticed: ["Sunni Islam", "Catholicism", "Protestant"]
       livesIn: ["Eritrea", "Gash-Barka"] ##Kunama
   naraEthnicGroup:
       stringTokens: ["Nara"]
