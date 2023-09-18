@@ -54,67 +54,67 @@ concepts:
      livesIn: [""]
     
   ## politicalparties
-    GDPPoliticalParty:
+    GDPParty:
      stringTokens: ["Gabonese Democratic Bloc", "Gabonese Democratic Party"]
      wikidataQnode:  ["Q1762536"]
      yearsActiveasParty: ["1947-1968"]
 
-    PGPPoliticalParty:
+    PGPParty:
      stringTokens: ["Gabonese Progress Party"]
      wikidataQnode:  ["Q3366469"]
      yearsActiveasParty: ["1990-present"]
 
-    UDSGPoliticalParty:
+    UDSGParty:
      stringTokens: ["Gabonese Social and Democratic Union"]
      wikidataQnode:  ["Q23023616"]
      yearsActiveasParty: ["1981-present"]
 
-    MORENAPoliticalParty:
+    MORENAParty:
      stringTokens: ["Movement for National Rectification"]
      wikidataQnode:  ["Q6926679"]
      yearsActiveasParty: [""]
 
-    UPGPoliticalParty:
+    UPGParty:
      stringTokens: ["Union of the Gabonese People"]
      wikidataQnode:  ["Q3550242"]
      yearsActiveasParty: ["1989-present"]
 
-    RNB-RPPGPoliticalParty:
+    RNB-RPPGParty:
      stringTokens: ["National Woodcutters' Rally – Rally for Gabon"]
      wikidataQnode:  ["Q3419915"]
      yearsActiveasParty: ["1990-present"]
 
-    CMGPoliticalParty:
+    CMGParty:
      stringTokens: ["Gabonese Mixed Committee"]
      wikidataQnode:  ["Q23023169"]
      yearsActiveasParty: ["1946-1953"]
 
-    LDPoliticalParty:
+    LDParty:
      stringTokens: ["The Democrats"]
      wikidataQnode:  ["Q60750915"]
      yearsActiveasParty: ["2017-present"]
 
-    ADEREPoliticalParty:
+    ADEREParty:
      stringTokens: ["Democratic and Republican Alliance"]
      wikidataQnode:  ["Q5255869"]
      yearsActiveasParty: [""]
 
-    CLRPoliticalParty:
+    CLRParty:
      stringTokens: ["Circle of Liberal Reformers"]
      wikidataQnode:  ["Q2945546"]
      yearsActiveasParty: ["1993-present"]
 
-    UPNRPoliticalParty:
+    UPNRParty:
      stringTokens: ["Union for the New Republic"]
      wikidataQnode:  ["Q22074584"]
      yearsActiveasParty: ["1958-1967"]
 
-    PSDPoliticalParty:
+    PSDParty:
      stringTokens: ["Social Democratic Party"]
      wikidataQnode:  ["Q3366711"]
      yearsActiveasParty: ["1991-present"]
 
-    PGCIPoliticalParty:
+    PGCIParty:
      stringTokens: ["Independent Centre Party of Gabon"]
      wikidataQnode:  ["Q23777576"]
      yearsActiveasParty: ["1990-present"]
