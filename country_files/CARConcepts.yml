@@ -1,7 +1,7 @@
 concepts:
   CentralAfricanArmedForces:
    stringTokens: ["Central African Ground Forces", "Central African Air Force", "National Gerdarmerie", "Republican Guard", "National Police", "CAAF", "Central African Forces", "FACA"]
-##ethnicandlanguagegroups
+##ethnicandlinguisticgroups
   sangoEthnicGroup:
    stringTokens: ["Sango", "Sango people"]
    wikidataQnode: ["Q60849912"]
@@ -15,7 +15,7 @@ concepts:
    stringTokens: ["Gbaya", "Gbaya people", "Baya", "Baya people", "Gbaya-Bossangoa", "Bokoto"]
    wikidataQnode: ["Q1496762"]
    livesIn: ["Ouham", "Ouham Pendé", "Nana-Mambéré", "Mambéré-Kadéï", "Sangha-Mbaéré", "Kémo", "Lobaye"]
-  bandalindaLanguageGroup:
+  bandalindaLinguisticGroup:
    stringTokens: ["Banda Linda", "Banda Bambari", "Linda", "Banda-Bambari Linda"]
    wikidataQnode: ["Q4854293"]
    livesIn: ["Haut-Mbomou", "Ouaka, "Basse-Kotto"]
@@ -23,7 +23,7 @@ concepts:
    stringTokens: ["Fulani", "Fulani people", "Fula", "Peuhlg"]
    wikidataQnode: ["Q202575"]
    livesIn: ["Ouham Pendé"]
-  bandabandaLanguageGroup:
+  bandabandaLinguisticGroup:
    stringTokens: ["Banda-Banda"]
    wikidataQnode: ["Q3450674"]
    livesIn: ["Nana-Gribizi", "Haut-Mbomou", "Mbomou", "Ouaka", "Basse-Kotto", "Ouham", "Ouham Pendé", "Kémo", "Ombella M'Poko"]
@@ -35,15 +35,15 @@ concepts:
    stringTokens: ["Banda", "Banda people"]
    wikidataQnode: ["Q806236"]
    livesIn: ["Basse-Kotto", "Mbomou", "Ouaka"]
-  gbanuLanguageGroup:
+  gbanuLinguisticGroup:
    stringTokens: ["Gbanu"]
    wikidataQnode: ["Q3914945"]
    livesIn: ["Basse-Kotto", "Mbomou", "Ouaka"]
-  bandangbuguLanguageGroup:
+  bandangbuguLinguisticGroup:
    stringTokens: ["Banda-Ngbugu", "Ngbugu language", "South Banda",  "Langba", "Ngbandi"]
    wikidataQnode: ["Q36481"]
    livesIn: ["Basse-Kotto", "Mbomou"]
-  kareLanguageGroup:
+  kareLinguisticGroup:
    stringTokens: ["Kari", "Kare"]
    wikidataQnode: ["Q35554"]
    livesIn: ["Ouham", "Ouham Pendé"]
@@ -51,14 +51,14 @@ concepts:
    stringTokens: ["Ngbaka", "Ngbaka Mabo", "Bwaka", "Mbaka", "Ngbaka people"]
    wikidataQnode: ["Q1165960"]
    livesIn: ["Ombella M'Poko", "Lobaye"]
-  panaLanguageGroup:
+  panaLinguisticGroup:
    stringTokens: ["Pana"]
    wikidataQnode: ["Q36241"]
    livesIn: ["Ouham", "Ouham Pendé"]
   baggaraEthnicGroup:
    stringTokens: ["baggaraEthnicGroup", "Baggara people", "Baggara Arabs", "Shuwa Arab"]
    wikidataQnode: ["Q799892"]
-  kabaLanguageGroup:
+  kabaLinguisticGroup:
    stringTokens: ["Sara Kaba", "Kaba", "Kaba language"]
    wikidataQnode: ["Q25559318"]
    livesIn: ["Bamingui-Bangoran", "Vakaga"]
@@ -66,7 +66,7 @@ concepts:
    stringTokens: ["Azande", "Azande people"]
    wikidataQnode: ["Q12077124"]
    livesIn: ["Haute-Kotto", "Mbomou"]
-  zandeLanguageGroup:
+  zandeLinguisticGroup:
    stringTokens: ["Zande", "Zande language"]
    wikidataQnode: ["Q35015"]
    livesIn: ["Haute-Mbomou", "Mbomou"]
@@ -76,13 +76,13 @@ concepts:
   nzakaraLanguageGroup:
    stringTokens: ["Nzakara", "Nzakara language"]
    wikidataQnode: ["Q3913339"]
-  bandambresLanguageGroup:
+  bandambresLinguisticGroup:
    stringTokens: ["Banda-Mbres", "Banda-Mbres language"]
    wikidataQnode: ["Q3450724"]
-  bandandeleLanguageGroup:
+  bandandeleLinguisticGroup:
    stringTokens: ["Banda-Ndele", "Banda-Ndele people"]
    wikidataQnode: ["Q34850"]
-  aliLanguageGroup:
+  aliLinguisticGroup:
    stringTokens: ["Ali", "Ali language"]
    wikidataQnode: ["Q34814"]
    livesIn: ["Ombella M'Poko"]
