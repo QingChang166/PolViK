@@ -85,19 +85,19 @@ concepts:
       stringTokens: ["Kulango language", "Kulango"]
       wikidataQnode: ["Q35731"]
       ###Political parties
-    mfaPoliticalParty:
+    mfaParty:
       stringTokens: ["Movement of the Forces of the Future", "MFA"]
-    fpiPoliticalParty:
+    fpiParty:
       stringTokens: ["Ivorian Popular Front",  "Front populaire ivoirien", "FPI"]
-    rhdpPoliticalParty:
+    rhdpParty:
       stringTokens: ["Rally of Houphouëtists for Democracy and Peace", "RHDP"]
-    pdciPoliticalParty:
+    pdciParty:
       stringTokens: ["Democratic Party of Ivory Coast – African Democratic Rally", "PDCI", "PDCI-RDA"]
-    edsPoliticalParty:
+    edsParty:
       stringTokens: ["Together for Democracy and Sovereignty", "EDS"]
-    udpciPoliticalParty:
+    udpciParty:
       stringTokens: ["Union for Democracy and Peace in Ivory Coast", "Union for Democracy and Peace in Côte d'Ivoire", "UDPCI"]
-    rdrPoliticalParty:
+    rdrParty:
       stringTokens: ["Rally of the Republicans", "RDR"]
     ###armedgroups
     fnciArmedNonGovernmentalOrganizedGroup:
