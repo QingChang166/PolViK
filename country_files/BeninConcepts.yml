@@ -35,7 +35,7 @@ concepts:
     tammariEthnicGroup:
      stringTokens: ["Tammari people", "Batammariba", "Tamberma", "Somba", "Otamari", "Ottamar"]
      wikidataQnode: ["Q1117480"]
-     languagesMostSpoken: ["Tammari language "]
+     languagesMostSpoken: ["Tammari language"]
      religionsMostPracticed: ["Animist"]
      livesIn: ["Atakora"]
 
