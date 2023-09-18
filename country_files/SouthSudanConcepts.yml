@@ -22,7 +22,7 @@ concepts:
     languagesMostSpoken: ["Bari language"]
     religionsMostPracticed: ["Christianity", "African traditional religion", "Islam"]
   ##politicalparty
-  splmPoliticalParty:
+  splmParty:
     stringTokens: ["SPLM", "Sudan People's Liberation Movement"]
     wikidataQnode: ["Q459960"]
   splmaioArmedNonGovernmentalOrganizedGroup:
