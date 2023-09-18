@@ -59,7 +59,7 @@ concepts:
   tshokweEthnicGroup:
    stringTokens: ["Tshokwe", "Tshokwe people", "Chokwe", "Ciokwe", "Cokwe", "Bajokwe", "Badjok", "Quioco"]
    wikidataQnode: ["Q1075883"]
-   religionsMostPracticed: ["Christian", "animist"]
+   religionsMostPracticed: ["Christian", "Animist"]
   yakaEthnicGroup:
    stringTokens: ["Yaka", "Yaka people", "Bayaka"]
    wikidataQnode: ["Q2749225"] 
