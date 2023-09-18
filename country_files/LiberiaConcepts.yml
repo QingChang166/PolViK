@@ -91,57 +91,57 @@ concepts:
       stringTokens: ["Vai", "Vai language"]
      wikidataQnode: ["Q36939"]
     ###Political parties
-    lplPoliticalParty:
+    lplParty:
       stringTokens: ["Labor Party of Liberia", "LPL"]
-    fdpPoliticalParty:
+    fdpParty:
       stringTokens: ["Free Democratic Party", "FDP"]
-    lerpPoliticalParty:
+    lerpParty:
       stringTokens: ["Liberia Equal Rights Party", "LERP"]
-    uppPoliticalParty:
+    uppParty:
       stringTokens: ["United People's Party", "UPP"]
-    lppPoliticalParty:
+    lppParty:
       stringTokens: ["LPP", "Liberian People's Party"]
-    ndplPoliticalParty:
+    ndplParty:
       stringTokens: ["National Democratic Party of Liberia", "NDPL"]
-    nppPoliticalParty:
+    nppParty:
       stringTokens: ["National Patriotic Party", "NPP"]
-    ndmPoliticalParty:
+    ndmParty:
       stringTokens: ["New Deal Movement", "NDM"]
-    ndcPoliticalParty:
+    ndcParty:
       stringTokens: ["National Democratic Coalition", "NDC"]
-    cdcPoliticalParty:
+    cdcParty:
       stringTokens: ["Congress for Democratic Change", "CDC"]
-    pdplPoliticalParty:
+    pdplParty:
       stringTokens: ["People's Democratic Party of Liberia", "PDPL"]
-    upPoliticalParty:
+    upParty:
       stringTokens: ["Unity Party", "UP"]
-    lpPoliticalParty:
+    lpParty:
       stringTokens: ["Liberty Party", "LP"]
-    ancPoliticalParty:
+    ancParty:
       stringTokens: ["Alternative National Congress", "ANC"]
-    pupPoliticalParty:
+    pupParty:
       stringTokens: ["People's Unification Party", "PUP", "Native People's Party"]
-    linuPoliticalParty:
+    linuParty:
       stringTokens: ["Liberia National Union", "LINU"]
-    alcopPoliticalParty:
+    alcopParty:
       stringTokens: ["All Liberia Coalition Party", "ALCOP"]
-    faplPoliticalParty:
+    faplParty:
       stringTokens: ["Freedom Alliance Party of Liberia", "FAPL"]
-    ldpPoliticalParty:
+    ldpParty:
       stringTokens: ["Liberia Destiny Party", "LDP"]
-    nplPoliticalParty:
+    nplParty:
       stringTokens: ["National Party of Liberia", "NPL"]
-    nrpPoliticalParty:
+    nrpParty:
       stringTokens: ["National Reformation Party", "NRP"]
-    nudpPoliticalParty:
+    nudpParty:
       stringTokens: ["National Union for Democratic Progress", "NUDP"]
-    natvipolPoliticalParty:
+    natvipolParty:
       stringTokens: ["National Vision Party of Liberia", "NATVIPOL"]
-    prodemPoliticalParty:
+    prodemParty:
       stringTokens: ["Progressive Democratic Party", "PRODEM"]
-    rulpPoliticalParty:
+    rulpParty:
       stringTokens: ["Reformed United Liberia Party", "RULP"]
-    uldPoliticalParty:
+    uldParty:
       stringTokens: ["Union of Liberian Democrats", "ULD"]
     ###armedgroups
     ndplArmedNonGovernmentalOrganizedGroup:
