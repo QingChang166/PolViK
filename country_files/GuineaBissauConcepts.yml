@@ -40,72 +40,72 @@ concepts:
      livesIn: ["Coastal areas", "Farim"]
     
   ## politicalparties
-   RGB-MBPoliticalParty:
+   RGB-MBParty:
      stringTokens: ["Resistance of Guinea-Bissau-Bafatá Movement"]
      wikidataQnode:  ["Q7315625"]
      yearsActiveasParty: ["1986-present"]
 
-   PRSPoliticalParty:
+   PRSParty:
      stringTokens: ["Party for Social Renewal"]
      wikidataQnode:  ["Q461351"]
      yearsActiveasParty: ["1992-present"]
 
-   PAIGCPoliticalParty:
+   PAIGCParty:
      stringTokens: ["African Party for the Independence of Guinea and Cape Verde"]
      wikidataQnode:  ["Q776352"]
      yearsActiveasParty: ["1956-present"]
 
-   PUSDPoliticalParty:
+   PUSDParty:
      stringTokens: ["United Social Democratic Party"]
      wikidataQnode:  ["Q7889155"]
      yearsActiveasParty: ["1992-present"]
 
-   PRIDPoliticalParty:
+   PRIDParty:
      stringTokens: ["Republican Party for Independence and Development"]
      wikidataQnode:  ["Q16968513"]
      yearsActiveasParty: ["2008-present"]
 
-   UMPoliticalParty:
+   UMParty:
      stringTokens: ["Union for Change"]
      wikidataQnode:  ["Q7886422"]
      yearsActiveasParty: ["1994-present"]
 
-   APU-PDGBPoliticalParty:
+   APU-PDGBParty:
      stringTokens: ["Assembly of the People United", "Assembly of the People United–Democratic Party of Guinea-Bissau"]
      wikidataQnode:  ["Q65086399"]
      yearsActiveasParty: ["2014-present"]
 
-   Madem-G15PoliticalParty:
+   Madem-G15Party:
      stringTokens: ["Madem G15", "Movement for Democratic Alternation, Group of 15"]
      wikidataQnode:  ["Q62258541"]
      yearsActiveasParty: ["2018-present"]
 
-   FDPoliticalParty:
+   FDParty:
      stringTokens: ["Democratic Front"]
      wikidataQnode:  ["Q16740046"]
      yearsActiveasParty: ["1991-present"]
 
-   PDPPoliticalParty:
+   PDPParty:
      stringTokens: ["Democratic Party of Progress"]
      wikidataQnode:  ["Q16955766"]
      yearsActiveasParty: ["1992-present"]
 
-   FDSPoliticalParty:
+   FDSParty:
      stringTokens: ["Democratic Social Front"]
      wikidataQnode:  ["Q17043850"]
      yearsActiveasParty: ["1990-present"]
 
-   LIPEPoliticalParty:
+   LIPEParty:
      stringTokens: ["Guinean League for Ecological Protection"]
      wikidataQnode:  ["Q16739990"]
      yearsActiveasParty: ["1991-present"]
 
-   PRDPoliticalParty:
+   PRDParty:
      stringTokens: ["Party for Renewal and Development"]
      wikidataQnode:  ["Q17037979"]
      yearsActiveasParty: ["1992-2004"]
 
-   MUDPoliticalParty:
+   MUDParty:
      stringTokens: ["Unity Movement for Democracy"]
      wikidataQnode:  ["Q16978150"]
      yearsActiveasParty: ["1992-2004"]
