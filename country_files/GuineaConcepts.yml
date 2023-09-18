@@ -47,76 +47,76 @@ concepts:
      livesIn: ["Macenta"]
     
   ## politicalparties
-   PRGPoliticalParty:
+   PRGParty:
      stringTokens: ["Rally of the Guinean People"]
      wikidataQnode:  ["Q2663294"]
 
-   UFDGPoliticalParty:
+   UFDGParty:
      stringTokens: ["Union of Democratic Forces of Guinea"]
      wikidataQnode:  ["Q577455"]
      associatedEthnicGroup: ["Malinke people"]
 
-   UFRPoliticalParty:
+   UFRParty:
      stringTokens: ["Union of Republican Forces"]
      wikidataQnode:  ["Q3550145"]
 
-   UPRPoliticalParty:
+   UPRParty:
      stringTokens: ["Union for Progress and Renewal"]
      wikidataQnode:  ["Q7886460"]
 
-   DPG-ADRPoliticalParty:
+   DPG-ADRParty:
      stringTokens: ["Democratic Party of Guinea – African Democratic Rally"]
      wikidataQnode:  ["Q1186265"]
 
-   UNRPoliticalParty:
+   UNRParty:
      stringTokens: ["Union for the New Republic"]
      wikidataQnode:  ["Q1971828"]
 
-   PUPPoliticalParty:
+   PUPParty:
      stringTokens: ["Unity and Progress Party"]
      wikidataQnode:  ["Q1583061"]
 
-   DSGPoliticalParty:
+   DSGParty:
      stringTokens: ["Socialist Democracy of Guinea"]
      wikidataQnode:  ["Q7551545"]
 
-   ADPGPoliticalParty:
+   ADPGParty:
      stringTokens: ["African Democratic Party of Guinea"]
      wikidataQnode:  ["Q4689747"]
   
-   ANPPoliticalParty:
+   ANPParty:
      stringTokens: ["National Alliance for Progress"]
      wikidataQnode:  ["Q6970301"]
 
-   NFDPoliticalParty:
+   NFDParty:
      stringTokens: ["New Democratic Forces "]
      wikidataQnode:  ["Q97151861"]
 
-   PULSPoliticalParty:
+   PULSParty:
      stringTokens: ["Party of Unity and Social Liberalism"]
      wikidataQnode:  ["Q7140316"]
 
-   PPGPoliticalParty:
+   PPGParty:
      stringTokens: ["People's Party of Guinea"]
      wikidataQnode:  ["Q16911346"]
 
-   PUDPoliticalParty:
+   PUDParty:
      stringTokens: ["Union for Development Party"]
      wikidataQnode:  ["Q7886441"]
 
-   UPRPoliticalParty:
+   UPRParty:
      stringTokens: ["Union for Progress and Renewal"]
      wikidataQnode:  [""]
 
-   UPGPoliticalParty:
+   UPGParty:
      stringTokens: ["Union for the Progress of Guinea"]
      wikidataQnode:  ["Q7886481"]
 
-   UFRPoliticalParty:
+   UFRParty:
      stringTokens: ["Union of Republican Forces"]
      wikidataQnode:  ["Q3550145"]
 
-   UFCPoliticalParty:
+   UFCParty:
      stringTokens: ["Union of the Forces of Change "]
      wikidataQnode:  ["Q106898662"]
 
