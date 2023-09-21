@@ -1,0 +1,156 @@
+concepts:
+    AngolanSecurityForces:
+     stringTokens: ["Angolan Armed Forces", "FAA"]
+     wikidataQnode: ["Q542209"]
+  
+  ## ethnicgroups
+    OvimbunduEthnicGroup:
+     stringTokens: ["Ovimbundu", "Ovimbundu people", "Mbundu Banguella", "Umbundu", "Vimbundo", "Kimbanda", "Mbundo", "Mbundu", "M'Bundo", "Nano", "Ocimbundo", "Ovimbundo", "Ovi-Mbundu", "South Mbundu", "Umbundo", "Valuanano", "Vanana", "Ovimbundu"]
+     wikidataQnode: ["Q1257799"]
+     languagesMostSpoken: ["Umbundu"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Novo Redondo", "Benguela", "Nova Lisboa"]
+
+    AmbunduEthnicGroup:
+     stringTokens: ["Ambundu", "Kimbundu", "Ndongo", "Ngola", "Ambundu", "Mbundu people"]
+     wikidataQnode: ["Q460091"]
+     languagesMostSpoken: ["Kimbundu"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    BakongoEthnicGroup:
+     stringTokens: ["Bakongo people", "Kongo", "Bakongo", "Esikongo", "Mwisikngo", "Mukongo", "Congo", "Fjort", "Frote", "Ikeleve", "Kakongo", "Kileta", "Nkongo", "Wacongomani"]
+     wikidataQnode: ["Q640090"]
+     languagesMostSpoken: ["Kikongo", "Kituba"]
+     religionsMostPracticed: ["Christianity"] 
+     livesIn: ["Ambrizete", "Cabinda"]
+
+    ChokweEthnicGroup:
+     stringTokens: ["Chokwe", "Lunda-Chokwe", "Chokwe people", "Kioko", "Bajokwe", "Chibokwe", "Kibokwe", "Ciokwe", "Cokwe", "Badjok"]
+     wikidataQnode: ["Q1075883"]
+     languagesMostSpoken: ["Chokwe"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Henrique de Carvalho", "Luso", "Rio Cassai", "Vila Serpa Pinto"]
+    
+    OvamboEthnicGroup:
+     stringTokens: ["Ovambo people", "Ovambo", "Aawambo", "Ambo", "Aawambo", "Ovawambo", "Ambo", "Aawambo", "Ovawambo", "Ovambos"]
+     wikidataQnode: ["Q1137067"]
+     languagesMostSpoken: ["Ovambo", "English"]
+     religionsMostPracticed: ["Lutheranism"]
+     livesIn: ["Central Southern coasts"]
+
+    GanguelaEthnicGroup:
+     stringTokens: ["Ganguela", "Nganguela", "Ganguela people"] 
+     wikidataQnode: ["Q113579872"]
+     languagesMostSpoken: ["Ganguela"]
+     religionsMostPracticed: 
+     livesIn: [""]
+
+    XindongaEthnicGroup:
+     stringTokens: ["Xindonga", "Xindonga people"]
+     wikidataQnode: ["Q2577356"]
+     languagesMostSpoken: ["Xindonga"]
+     religionsMostPracticed: 
+     livesIn: ["Cuando Cubango"]
+
+    YombeEthnicGroup:
+     stringTokens: ["Yombe people", "Yombe", "Kiombe", "Majombe", "Mayombe", "Mayumba", "Mayumbe", "Yumbe"]
+     wikidataQnode: ["Q1717132"]
+     languagesMostSpoken: 
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Cabindan Mayombe"]
+
+  ## politicalparties
+    MPLAParty:
+     stringTokens: ["People's Movement for the Liberation of Angola", "People's Movement for the Liberation of Angola - Labour Party"]
+     wikidataQnode: ["Q28551"]
+     yearsActiveasParty: ["1956-present"]
+
+    UNITAParty:
+     stringTokens: ["National Union for the Total Independence of Angola"]
+     wikidataQnode: ["Q28699"]
+     yearsActiveasParty: ["1966-present"]
+
+    CASA-CEParty:
+     stringTokens: ["Broad Convergence for the Salvation of Angola – Electoral Coalition", "CASA-CE"]
+     wikidataQnode: ["Q1129430"]
+     yearsActiveasParty: ["2012-present"]
+
+    FNLAParty:
+     stringTokens: ["National Liberation Front of Angola", "FNLA"]
+     wikidataQnode: ["Q907051"]
+     yearsActiveasParty: ["1954-present"]
+
+    PRSParty:
+     stringTokens: ["Social Renewal Party"]
+     wikidataQnode: ["Q1674856"]
+     yearsActiveasParty: ["1990-present"]
+  
+    PHAParty:
+     stringTokens: ["Humanist Party of Angola", "PHA"]
+     wikidataQnode: ["Q113624556"]
+     yearsActiveasParty: ["2020-present"]
+
+    MPDAParty:
+     stringTokens: ["Movement for Peace and Development for Angola"]
+     wikidataQnode: ["Q6926712"]
+     yearsActiveasParty: ["2004-present"]
+  
+    PDP-ANAParty:
+     stringTokens: ["Democratic Party for Progress – Angolan National Alliance"]
+     wikidataQnode: ["Q5255706"]
+     yearsActiveasParty: ["1991-present"]
+
+  ## armed groups
+    FLECArmedGroup:
+     stringTokens: ["Front for the Liberation of the Enclave of Cabinda", "FLEC"]
+     associatedEthnicGroup: ["Bakongo people"]
+     wikidataQnode: ["Q608489"]
+  
+    FLEC-FACArmedGroup:
+     stringTokens: ["Frente da Libertação do Enclave de Cabinda - Forças Armadas de Cabinda", "Front for the Liberation of the Enclave of Cabinda - Armed Forces of Cabinda"]
+     associatedEthnicGroup: ["Bakongo people"]
+     wikidataQnode: ["Q608489"]
+  
+    FLEC-RArmedGroup:
+     stringTokens: ["FLEC-R", "Front for the Liberation of the Enclave of Cabinda – Renewed"]
+     associatedEthnicGroup: ["Bakongo people"]
+     wikidataQnode: ["Q608489"]
+  
+    FLEC-FAC-TNArmedGroup:
+     stringTokens: ["FLEC-FAC-TN", "Front for the Liberation of the Enclave of Cabinda - Armed Forces of Cabinda - Tiago Nzita faction)"]
+     associatedEthnicGroup: ["Bakongo people"]
+     wikidataQnode: ["Q608489"]
+
+    UNITAArmedGroup:
+     stringTokens: ["National Union for the Total Independence of Angola"]
+     associatedEthnicGroup: ["Ovimbundu people"]
+     wikidataQnode: ["Q28699"]
+  
+    FLNAArmedGroup:
+     stringTokens: ["National Liberation Front of Angola"]
+     associatedEthnicGroup: ["Bakongo people"]
+     wikidataQnode: ["Q907051"]
+  
+ ## ProGovernment Militia
+      
+    CDOproGovernmentMilitia:
+     stringTokens: ["Civil Defence Organization"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: 
+  
+    PVBproGovernmentMilitia:
+     stringTokens: ["People's Vigilante Brigades"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: 
+  
+    EOproGovernmentMilitia:
+     stringTokens: ["Executive Outcomes"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q377026"]
+  
+    ODPproGovernmentMilitia:
+     stringTokens: ["People's Defence Organization"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: 
+  
