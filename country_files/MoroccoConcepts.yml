@@ -1,0 +1,182 @@
+concepts:
+  MoroccanSecurityForces:
+    stringTokens: ["Royal Moroccan Armed Forces", "Military of Morocco"]
+    wikidataQnode:["Q34511"]
+    
+###EthnicGroups:
+  ArabEthnicGroup:
+    stringTokens: ["Arabs", "Arab people", "Shukriya", "Shuwa", "Sukriya", "Arab", "the Arabs"]
+    wikidataQnode: ["Q35323"]
+    languagesMostSpoken: ["Arabic"]
+    religionsMostPracticed: ["Islam"]
+    livesIn: ["Guelmim-Oued Noun", "L'Oriental", "Drâa-Tafilalet", "Souss-Massa", "Fès-Meknès", "Tanger-Tétouan-Al Hoceïma", "Béni Mellal-Khénifra", "Marrakech-Safi", "Casablanca-Settat", "Rabat-Salé-Kénitra", "Fès-Meknès", "Laâyoune-Sakia El Hamra", "Dakhla-Oued Ed-Dahab"]
+
+  BerberEthnicGroup:
+    stringTokens: ["Berber", "Berbers", "Berber people", "Imazighen", "Amazigh"]
+    wikidataQnode: ["Q45315"]
+    languagesMostSpoken: ["Berber languages", "Tamazight", "Arabic"]
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: ["Guelmim-Oued Noun", "L'Oriental", "Drâa-Tafilalet", "Souss-Massa", "Fès-Meknès", "Tanger-Tétouan-Al Hoceïma", "Béni Mellal-Khénifra", "Marrakech-Safi", "Rabat-Salé-Kénitra", "Fès-Meknès", "Laâyoune-Sakia El Hamra]
+
+  SahrawiEthnicGroup:
+    stringTokens: ["Sahrawi", "Sahrawi people", "Ṣaḥrāwī", "Shuwa", "Sukriya", "Arab", "the Arabs"]
+    wikidataQnode: ["Q577055"]
+    languagesMostSpoken: ["Hassaniya Arabic" "Berber languages", "Arabic" ]
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: ["Guelmim-Oued Noun", "Laâyoune-Sakia El Hamra", "Dakhla-Oued Ed-Dahab"] # Mass presence in distriputed Moroccan-controlled zone in Western Sahara 
+    
+ # Minority groups less than 1%
+  #GnawaEthnicGroup:
+  #  stringTokens: ["Gnawa", "Gnaoua", "Ghanawa", "Ghanawi", "Gnawi"]
+  #  wikidataQnode: ["Q1533184"]
+  #  languagesMostSpoken: ["Arabic", "Berber"]
+  #  religionsMostPracticed: ["Islam"]
+  #  livesIn: []
+
+  #HaratinEthnicGroup:
+  #  stringTokens: ["Haratin", "Haratine", "Harratin", "Shwashin"]
+  #  wikidataQnode: ["Q1584897"]
+  #  languagesMostSpoken: ["Arabic", "Berber"]
+  #  religionsMostPracticed: ["Sunni Islam"]
+  #  livesIn: []
+    
+  #JewEthnicGroup: # Historically 350,000, now about 1000
+  #  stringTokens: ["Jewish person", "Jew", "Jewish", "The Jews", "Jewry", "Jewish nation", "The Jewish people", "Jewish community", "Jews"]
+  #  wikidataQnode: ["Q7325"]
+  #  languagesMostSpoken: ["Hebrew", "Arabic", "Berber"]
+  #  religionsMostPracticed: ["Judaism"]
+  #  livesIn: []  
+     
+###PoliticalParties
+  AMPParty:
+   stringTokens: ["Authenticity and Modernity Party", "PAM", "Parti National Démocrate puis Parti Démocrate Nationl"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q784586"]
+   yearsActiveasParty: ["2008-present"]
+
+  AAParty:
+   stringTokens: ["Covenant Party", "Al Ahd", "Al Ahd Addimocrati", "AA"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3366141"]
+   yearsActiveasParty: ["2002-present"]  
+  
+  CUParty:
+   stringTokens: ["Constitutional Union"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3550065"]
+   yearsActiveasParty: ["1983-present"]
+   
+  UDParty:
+   stringTokens: ["Democratic Union", "Union Démocratique"]
+   associatedEthnicGroup: ["Berber"]
+   wikidataQnode: ["Q3550246"] 
+   yearsActiveasParty: ["2001-present"] #split from Population Movement  
+  
+  FDICParty:
+   stringTokens: ["Front for the Defence of Constitutional Institutions", "FDIC"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3088555"]
+   yearsActiveasParty: ["1963-1970"] #Merged in the Popular Movement
+  
+  IPParty:
+   stringTokens: ["Istiqlal Party", "Independence Party"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q477273"]
+   yearsActiveasParty: ["1937-present"]
+  
+  MDSParty:
+   stringTokens: ["Democratic and Social Movement", "Mouvement Démocratique et Social", "MDS"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3326668"]
+   yearsActiveasParty: ["1996-present"]
+
+  MNPParty:
+   stringTokens: ["National Popular Movement", "Mouvement National Populaire", "MNP"]
+   associatedEthnicGroup: ["Berber"]
+   wikidataQnode: ["Q3326741"]
+   yearsActiveasParty: ["1991-2006"] #split from Popular Movement in 1991; merged back into Popular Movement in 2006
+  
+  MPParty:
+   stringTokens: ["Popular Movement", "Mouvement populaire"]
+   associatedEthnicGroup: ["Berber"]
+   wikidataQnode: ["Q1471276"]
+   yearsActiveasParty: ["1957-present"]
+    	
+  UNFPParty:
+   stringTokens: ["National Union of Popular Forces", "UNFP", "Union Nationale des Forces Populaires"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q692325"]
+   yearsActiveasParty: ["1959-2005"] # split from Istiqlal Party
+  
+  JDPParty:
+   stringTokens: ["Justice and Development Party", "JDP", "PJD"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q1255232"]
+   yearsActiveasParty: ["1967-present"] #split from Populat Movement
+  
+  PNDParty:
+   stringTokens: ["National Democratic Party", "Parti national-démocrate"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3366434"]
+   yearsActiveasParty: ["1981-present"] #split from National Rally of Independents
+  
+  PPSParty:
+   stringTokens: ["Party of Progress and Socialism", "Progress and Socialism", "Parti du Progrès et du Socialisme", "PPS"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q1888857"]
+   yearsActiveasParty: ["1974-present"]
+  
+  RNIParty:
+   stringTokens: ["National Rally of Independents", "Rassemblement National des Indépendants"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q1630297"]
+   yearsActiveasParty: ["1978-present"]
+  
+  USFPParty:
+   stringTokens: ["Socialist Union of Popular Forces", "Union Socialiste des Forces Populaires", "USFP"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q2297130"]
+   yearsActiveasParty: ["1975-present"] # split from National Union of Popular Forces
+
+###ArmedGroups
+  
+  PFArmedGroup:
+   stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario", "Popular Front for the Liberation of Saguia el-Hamra and Río de Oro"]
+   associatedEthnicGroup: ["Sahrawi"]
+   wikidataQnode: ["Q240425"]
+   yearsActive: ["1973-present"]
+   
+  SJArmedGroup:
+   stringTokens: ["Salafia Jihadia", "al-Salafiya al-jihadiya"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3469483"]
+   yearsActive: ["1990s-present"] #ally of Moroccan Islamic Combatant Group, Al-Qaeda and 20 February Movement 
+  
+  GICMArmedGroup:
+   stringTokens: ["Moroccan Islamic Combatant Group", "GICM", "Groupe Islamique Combattant Marocain"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q2357272"]
+   yearsActive: ["1990s-present"] #ally of Salafia Jihadia and Al-Qaeda
+  
+  F20ArmedGroup:
+   stringTokens: ["20 February Movement"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3326647"]
+   yearsActive: ["2011"] #ally of Salafia Jihadia
+  
+  SPArmedGroup:
+   stringTokens: ["Sirat al-Mustaqim", "The Straight Path", "as-Sirat al-Mustaqim"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveas: [] # splintered from Salafia Jihadia
+  
+  TakfirwalHijraArmedGroup:
+   stringTokens: ["Takfir wal-Hijra", "Takfir wa Hijra", "Jama'at al-Muslimin" ,"Excommunication and Exodus", "excommunication and emigration"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q291419"]
+   yearsActiveasParty: ["1971-present"] # Offshoot of Muslim Brotherhood
+  
+  
+  
+  
+  
