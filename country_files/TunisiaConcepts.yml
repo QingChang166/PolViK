@@ -4,7 +4,7 @@ concepts:
      wikidataQnode: ["Q926971"]
   
   ## ethnicgroups
-   EthnicGroup:
+   arabEthnicGroup:
      stringTokens: ["Arab", "Arab people"]
      wikidataQnode: ["Q35323"]
      languagesMostSpoken: ["Tunisian Arabic", "Arabic"]
