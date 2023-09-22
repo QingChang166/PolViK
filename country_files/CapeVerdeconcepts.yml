@@ -8,14 +8,14 @@ FACVconcepts:
      stringTokens: ["Cape Verdeans"]
      wikidataQnode: ["Q19903733"]
      languagesMostSpoken: ["Cape Verdean Creole", "Portuguese"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["Mindelo", "São Domingos"]
 
    CreoleEthnicGroup:
      stringTokens: ["Creole people", "Creole"]
      wikidataQnode: ["Q498640"]
      languagesMostSpoken: ["Creole languages"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["Praia", "Mindelo", "Island of Santiago", "São Vicente"]
 
    FulaEthnicGroup:
@@ -29,7 +29,7 @@ FACVconcepts:
      stringTokens: ["Balanta people", "Balanta", "Balanda Brassa", "Balanta Brassa", "Balanta Mane", "Balante", "Brassa"]
      wikidataQnode: ["Q804639"]
      languagesMostSpoken: ["Balanta"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["Praia"]
     
   ## politicalparties
