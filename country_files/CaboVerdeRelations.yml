@@ -1,0 +1,13 @@
+relations:
+  - (officialStateSecurityForces, )
+  - (EthnicGroup, CapeVerdeansEthnicGroup)
+  - (EthnicGroup, CreoleEthnicGroup)
+  - (EthnicGroup, FulaEthnicGroup)
+  - (EthnicGroup, BalantaEthnicGroup)
+  - (Party, DCPParty)
+  - (Party, MPDParty)
+  - (Party, PAICVParty)
+  - (Party, UCIDParty)
+  - (Party, PRDParty)
+  - (Party, PTSParty)
+  - (Party, PSDParty)
