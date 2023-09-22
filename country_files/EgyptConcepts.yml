@@ -145,7 +145,7 @@ concepts:
    stringTokens: ["Tawhid wal-Jihad", "Jahafil Al-Tawhid Wal-Jihad fi Filastin", "Tawhid al-Jihad (Gaza Strip)", "The Armies of Monotheism and Jihad in Palestine", "al-Tawhid wal-Jihad"]
    associatedEthnicGroup: ["Palestinians", "Palestinian Arabs", "Arab Palestinians", "Palestinian people"]
    wikidataQnode:["Q7689274"]"Jamaat Ansar al-Sunnah", "Jaish Ansar al-Sunna", ""
-  ABMGroup:
+  ABMArmedGroup:
    stringTokens: ["Ansar Bait al-Maqdis", "ABM", "Ansar Al-Quds"] # Defunct Egyptian jihadist militant group (2011-14). Most of the group became a branch of ISIL, renaming itself ISIL-Sinai Province.
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
    wikidataQnode:["Q15646812"]
@@ -162,11 +162,11 @@ concepts:
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
    wikidataQnode:["Q310214"]
   # Pro-Government Militias
-  BaltagiyaArmedGroup:
+  BaltagiyaGovernmentMilitia:
    stringTokens: ["Mubarak's Thugs/Baltagiya", "Mubarak's Baltagiya", "Mubarak's Thugs"] # Jan 1, 1990 - Feb 11, 2011
    associatedEthnicGroup: []
    wikidataQnode:[]
-  MBArmedGroup:
+  MBGovernmentMilitia:
    stringTokens: ["Muslim Brotherhood Gangs", "Muslim Brotherhood"] # Dec 10, 2012 - Jul 3, 2013
    associatedEthnicGroup: []
    wikidataQnode:["Q16190895"]
