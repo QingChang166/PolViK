@@ -1,5 +1,5 @@
 relations:
-  - (officialStateSecurityForces, )
+  - (officialStateSecurityForces, CaboVerdeSecurityForces)
   - (EthnicGroup, CapeVerdeansEthnicGroup)
   - (EthnicGroup, CreoleEthnicGroup)
   - (EthnicGroup, FulaEthnicGroup)
