@@ -1,6 +1,6 @@
 relations:
   - (officialStateSecurityForces, )
-  - (ethnicGroup, )
-  - (politicalParty, )
+  - (EthnicGroup, )
+  - (Party, )
   - (ArmedNonGovernmentalOrganizedGroup, )
   - (ArmedGroup, )
