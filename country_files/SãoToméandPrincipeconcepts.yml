@@ -8,7 +8,7 @@ concepts:
      stringTokens: ["Forro"]
      wikidataQnode: [""]
      languagesMostSpoken: ["Forro Creole"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["São Tomé", "São Tomé City"]
 
     AngolaresEthnicGroup:
@@ -22,7 +22,7 @@ concepts:
      stringTokens: ["Cape Verdean"]
      wikidataQnode: ["Q5035144"]
      languagesMostSpoken: ["Portuguese"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: 
 
     Luso-AfricansEthnicGroup:
