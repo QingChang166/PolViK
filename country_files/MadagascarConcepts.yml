@@ -1,0 +1,101 @@
+concepts:
+   MadagascarSecurityForces:
+     stringTokens: ["Madagascar People's Armed Forces", "Malagasy military", "Madagascar military", "Malagasy Armed Forces", "Armed Forces of Madagascar"]
+     wikidataQnode: ["Q218709"]
+  
+  ## ethnicgroups
+   MalagasyEthnicGroup:
+     stringTokens: ["Malagasy peoples", "Malgache"]
+     wikidataQnode: ["Q310983"]
+     languagesMostSpoken: ["Malagasy"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: 
+
+   ChineseEthnicGroup:
+     stringTokens: ["Chinese people"]
+     wikidataQnode: ["Q3275518"]
+     languagesMostSpoken: ["Chinese"]
+     religionsMostPracticed: ["Roman Catholicism"]
+     livesIn: 
+
+   IndiansEthnicGroup:
+     stringTokens: ["Indians"]
+     wikidataQnode: ["Q3192943"]
+     languagesMostSpoken: ["Gujarati"]
+     religionsMostPracticed: ["Hinduism"]
+     livesIn: 
+ 
+  ## politicalparties
+   TIMParty:
+     stringTokens: ["Tiako I Madagasikara", "I Love Madagascar"]
+     wikidataQnode: ["Q7800104"]
+     yearsActiveasParty: ["2002-present"]
+
+   AREMAParty:
+     stringTokens: ["Malagasy Revolutionary Party"]
+     wikidataQnode: ["Q514599"]
+     yearsActiveasParty: ["1976-present"]
+
+   TGVParty:
+     stringTokens: ["Young Malagasies Determined"]
+     wikidataQnode: ["Q8058262"]
+     yearsActiveasParty: ["2007-present"]
+
+   RPSDParty:
+     stringTokens: ["Rebirth of the Social Democratic Party"]
+     wikidataQnode: ["Q7302147"]
+     yearsActiveasParty: ["1993-present"]
+
+   AKFMParty:
+     stringTokens: ["Congress Party for the Independence of Madagascar"]
+     wikidataQnode: ["Q4345993"]
+     yearsActiveasParty: ["1958-present"]
+
+   LEADER-FaniloParty:
+     stringTokens: ["Economic Liberalism and Democratic Action for National Recovery"]
+     wikidataQnode: ["Q5333394"]
+     yearsActiveasParty: ["1992-present"]
+
+   PSDParty:
+     stringTokens: ["Social Democratic Party of Madagascar"]
+     wikidataQnode: ["Q7550585"]
+     yearsActiveasParty: ["1956-present"]
+
+   AVIParty:
+     stringTokens: ["Judged By Your Work Party"]
+     wikidataQnode: ["Q2783589"]
+     yearsActiveasParty: ["2001-present"]
+
+   MFMParty:
+     stringTokens: ["Movement for the Progress of Madagascar"]
+     wikidataQnode: ["Q936970"]
+     yearsActiveasParty: ["1972-present"]
+
+   VPM-MMMParty:
+     stringTokens: ["Vondrona Politika", "Vondrona Politika Miara dia Malagasy Miara Miainga"]
+     wikidataQnode: ["Q20982224"] 
+     yearsActiveasParty: 
+
+  ## armed groups
+   SARArmedGroup:
+     stringTokens: ["Supporters of Andry Rajoelina"]
+     associatedEthnicGroup: 
+     wikidataQnode: 
+  
+   SDRArmedGroup:
+     stringTokens: ["Supporters of Didier Ratsiraka"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+   SMRArmedGroup:
+     stringTokens: ["Supporters of Marc Ravalomanana"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+ ## ProGovernment Militia
+   YAproGovernmentMilitia:
+     stringTokens: ["Youth Awareness"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+   

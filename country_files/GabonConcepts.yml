@@ -1,121 +1,127 @@
 concepts:
-    GaboneseSecurityForces:
+   GaboneseSecurityForces:
      stringTokens: ["Armed Forces of Gabon", "Gabonese Defense and Security Forces"]
      wikidataQnode: ["Q927131"]
   
   ## ethnicgroups
-    FangEthnicGroup:
-     stringTokens: ["Fang people", "Fang"]
+   FangEthnicGroup:
+     stringTokens: ["Fang people", "Fan", "Mpangwe", "Pahouin", "Pamue", "Pangwe", "Fans", "Fang"]
      wikidataQnode: ["Q1295544"]
      languagesMostSpoken: ["Fang language"]
      religionsMostPracticed: ["Christianity"]
-     livesIn: ["Estuaire province"]
+     livesIn: ["Estuaire", "Woleu-Ntem"]
 
-    ShiraEthnicGroup:
-     stringTokens: ["Shira people", "Sira", "Eshira"]
-     wikidataQnode: ["Q3577483"]
-     languagesMostSpoken: ["Shira language"]
-     religionsMostPracticed: ["Christianity"]
-     livesIn: ["Ogooué River"]
-
-    TekeEthnicGroup:
-     stringTokens: ["Teke people", "Bateke"]
-     wikidataQnode: ["Q811078"]
-     languagesMostSpoken: ["Teke languages"]
-     religionsMostPracticed: ["African traditional religion"]
-     livesIn: ["Haut Ogooué"]
-
-    PunuEthnicGroup:
-     stringTokens: ["Punu people", "Punu", "Bapunu"]
+   PunuEthnicGroup:
+     stringTokens: ["Punu people", "Bapunu", "Bapounou", "Pouno", "Pounou", "	Banjabi"]
      wikidataQnode: ["Q2576790"]
-     languagesMostSpoken: ["Punu language", "Yipunu language"]
-     religionsMostPracticed: ["Christianity"]
-     livesIn: ["Nyanga province"]
+     languagesMostSpoken: ["Njebi language"]
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Haut-Ogooué", "Ngounié"]
 
-    MyeneEthnicGroup:
-     stringTokens: ["Myene people", "Myènè", "Omyene"]
-     wikidataQnode: ["Q3331917"]
-     languagesMostSpoken: ["Myene language"]
-     religionsMostPracticed: ["Christianity"]
-     livesIn: ["Estuaire"]
-
-    MbedeEthnicGroup:
-     stringTokens: ["Mbede people", "Mbere people", "Mbete"]
-     wikidataQnode: ["Q3303515"]
-     languagesMostSpoken: ["Mbede language"]
-     religionsMostPracticed: ["African traditional religion"]
-     livesIn: ["Haut-Ogooué province"]
-
-    MpongweEthnicGroup:
+   MpongweEthnicGroup:
      stringTokens: ["Mpongwe people"]
      wikidataQnode: ["Q2087633"]
-     languagesMostSpoken: ["Mpongwe"]
-     religionsMostPracticed: ["African traditional religion"]
-     livesIn: [""]
+     languagesMostSpoken: ["Mpongwe language"]
+     religionsMostPracticed: 
+     livesIn: ["Libreville"]
+
+   BongoEthnicGroup:
+     stringTokens: ["Bongo people", "Babongo", "Bazimba", "Pygmy"]
+     wikidataQnode: ["Q4074491"]
+     languagesMostSpoken: ["Bantu languages"]
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Haut-Ogooué"]
+
+   ShiraEthnicGroup:
+     stringTokens: ["Shira people", "Eshira"]
+     wikidataQnode: ["Q3577483"]
+     languagesMostSpoken: 
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Ogooué River", "N'Gounié."]
+
+   KotaEthnicGroup:
+     stringTokens: ["Kota people", "Bakota", "Bashake", "Bushamaye", "Dambono", "Kota-Kota", "Kuta", "Mahongwé", "Shake", "Shamaye"]
+     wikidataQnode: ["Q4358034"]
+     languagesMostSpoken: ["iKota language"]
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Haut Ogooué"]
+
+   OkandeEthnicGroup:
+     stringTokens: ["Okandé", "Okandé people"]
+     wikidataQnode: ["Q3350016"]
+     languagesMostSpoken: ["Mèmbè language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Ogooué-Ivindo"]
+
+   MyeneEthnicGroup:
+     stringTokens: ["Myene people", "Myene", "Myene", "Omyene", "Myènè"]
+     wikidataQnode: ["Q3331917"]
+     languagesMostSpoken: ["Myene languages"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Port-Gentil"]
     
   ## politicalparties
-    GDPParty:
-     stringTokens: ["Gabonese Democratic Bloc", "Gabonese Democratic Party"]
-     wikidataQnode:  ["Q1762536"]
-     yearsActiveasParty: ["1947-1968"]
+   PDGParty:
+     stringTokens: ["Gabonese Democratic Party"]
+     wikidataQnode: ["Q1762536"]
+     yearsActiveasParty: ["1968-present"]
 
-    PGPParty:
-     stringTokens: ["Gabonese Progress Party"]
-     wikidataQnode:  ["Q3366469"]
-     yearsActiveasParty: ["1990-present"]
-
-    UDSGParty:
+   UDSGParty:
      stringTokens: ["Gabonese Social and Democratic Union"]
-     wikidataQnode:  ["Q23023616"]
-     yearsActiveasParty: ["1981-present"]
+     wikidataQnode: ["Q23023616"]
+     yearsActiveasParty: ["1947-present"]
+  
+   Party:
+     stringTokens: ["National Regeneration Movement"]
+     wikidataQnode:  
+     yearsActiveasParty: 
 
-    MORENAParty:
-     stringTokens: ["Movement for National Rectification"]
-     wikidataQnode:  ["Q6926679"]
-     yearsActiveasParty: [""]
-
-    UPGParty:
-     stringTokens: ["Union of the Gabonese People"]
-     wikidataQnode:  ["Q3550242"]
+   MORENAParty:
+     stringTokens: ["Movement for National Rectification", "MORENA"]
+     wikidataQnode: ["Q6926679"]
+     yearsActiveasParty: ["1981-present"] 
+  
+   UPGarty:
+     stringTokens: ["Union of the Gabonese People", "UPG"]
+     wikidataQnode: ["Q3550242"]
      yearsActiveasParty: ["1989-present"]
 
-    RNB-RPPGParty:
+   PGPParty:
+     stringTokens: ["Gabonese Progress Party"]
+     wikidataQnode: ["Q3366469"]
+     yearsActiveasParty: ["1990-present"]
+  
+   NWR-RGParty:
      stringTokens: ["National Woodcutters' Rally – Rally for Gabon"]
-     wikidataQnode:  ["Q3419915"]
+     wikidataQnode: ["Q3419915"]
      yearsActiveasParty: ["1990-present"]
 
-    CMGParty:
+   CMGParty:
      stringTokens: ["Gabonese Mixed Committee"]
-     wikidataQnode:  ["Q23023169"]
-     yearsActiveasParty: ["1946-1953"]
+     wikidataQnode: ["Q23023169"]
+     yearsActiveasParty: ["1946-present"]
 
-    LDParty:
+   DemocratsParty:
      stringTokens: ["The Democrats"]
-     wikidataQnode:  ["Q60750915"]
+     wikidataQnode: ["Q60750915"]
      yearsActiveasParty: ["2017-present"]
-
-    ADEREParty:
-     stringTokens: ["Democratic and Republican Alliance"]
-     wikidataQnode:  ["Q5255869"]
-     yearsActiveasParty: [""]
-
-    CLRParty:
-     stringTokens: ["Circle of Liberal Reformers"]
-     wikidataQnode:  ["Q2945546"]
-     yearsActiveasParty: ["1993-present"]
-
-    UPNRParty:
-     stringTokens: ["Union for the New Republic"]
-     wikidataQnode:  ["Q22074584"]
-     yearsActiveasParty: ["1958-1967"]
-
-    PSDParty:
+  
+   NUParty:
+     stringTokens: ["National Union"]
+     wikidataQnode: ["Q22080862"]
+     yearsActiveasParty: ["2010-present"]
+ 
+   PSDParty:
      stringTokens: ["Social Democratic Party"]
-     wikidataQnode:  ["Q3366711"]
+     wikidataQnode: ["Q3366711"]
      yearsActiveasParty: ["1991-present"]
-
-    PGCIParty:
-     stringTokens: ["Independent Centre Party of Gabon"]
-     wikidataQnode:  ["Q23777576"]
-     yearsActiveasParty: ["1990-present"]
-
+ 
+   UPNRParty:
+     stringTokens: ["Union for the New Republic"]
+     wikidataQnode: ["Q22074584"]
+     yearsActiveasParty: ["2007-present"]
+ 
+   CLRParty:
+     stringTokens: ["Circle of Liberal Reformers"]
+     wikidataQnode: ["Q2945546"]
+     yearsActiveasParty: ["1993-present"]

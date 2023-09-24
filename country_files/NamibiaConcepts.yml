@@ -1,0 +1,141 @@
+concepts:
+   NamibiaSecurityForces:
+     stringTokens: ["Namibian Defence Force"]
+     wikidataQnode: ["Q514711"]
+  
+  ## ethnicgroups
+   OvamboEthnicGroup:
+     stringTokens: ["Ovambo people", "Ovambo", "Aawambo", "Ambo", "Aawambo", "Ovawambo", "Ambo", "Aawambo", "Ovawambo", "Ovambos"]
+     wikidataQnode: ["Q1137067"]
+     languagesMostSpoken: ["Ovambo", "English"]
+     religionsMostPracticed: ["Lutheranism"]
+     livesIn: [""]
+
+   KavangoEthnicGroup:
+     stringTokens: ["Kavango people", "Kavango", "vaKavango", "haKavango"]
+     wikidataQnode: ["Q648707"]
+     languagesMostSpoken: ["RuKwangali language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: 
+
+   MbanderuEthnicGroup:
+     stringTokens: ["Mbanderu people", "Ovambanderu", "Mbandieru"]
+     wikidataQnode: ["Q17072693"]
+     languagesMostSpoken: ["Otjiherero language"]
+     religionsMostPracticed: ["African Traditional Religion"]
+     livesIn: 
+
+   NamaEthnicGroup:
+     stringTokens: ["Nama people", "Nama", "Bergdama", "Bergdamara", "Dama", "Damara", "Namau", "Namaquas"]
+     wikidataQnode: ["Q694525"]
+     languagesMostSpoken: ["Nama language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: 
+
+   ColoredsEthnicGroup:
+     stringTokens: ["Coloreds"]
+     wikidataQnode: ["Q1130204"]
+     languagesMostSpoken: ["Afrikaans", "English"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: 
+     
+   SubiaEthnicGroup:
+     stringTokens: ["Ikuhane people", "Subiya", "Subia", "Masubia", "Masubiya", "Masupia", "Basubiya", "Basubia"]
+     wikidataQnode: ["Q7631357"]
+     languagesMostSpoken: ["Ikuhane language", "Subia language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: 
+
+   LoziEthnicGroup:
+     stringTokens: ["Lozi people", "Barotse", "Balozi", "Barotsi", "Barozi", "Barutse", "Marotse", "Rotse", "RoziLozi", "Baluyi"]
+     wikidataQnode: ["Q1267805"]
+     languagesMostSpoken: ["Lozi language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: 
+     
+   SanEthnicGroup:
+     stringTokens: ["San people", "Bushmen", "Basarwa", "Sarwa", "Saan", "Bosjesmans"]
+     wikidataQnode: ["Q172365"]
+     languagesMostSpoken: ["Kway languages"]
+     religionsMostPracticed: ["San religion"]
+     livesIn: 
+
+   BasterEthnicGroup:
+     stringTokens: ["Baster people", "Basters", "Baster", "Baasters", "Rehobothers", "Rehoboth Basters"]
+     wikidataQnode: ["Q263176"]
+     languagesMostSpoken: ["Afrikaans"]
+     religionsMostPracticed: ["Protestantism"]
+     livesIn: 
+     
+   HimbaEthnicGroup:
+     stringTokens: ["Himba people", "Himba", "OmuHimba", "OvaHimba", "Cimba", "Shimba", "Simba"]
+     wikidataQnode: ["Q612697"]
+     languagesMostSpoken: ["OtjiHimba"]
+     religionsMostPracticed: ["Monotheistic"]
+     livesIn: 
+    
+  ## politicalparties
+   SWAPOParty:
+     stringTokens: ["SWAPO", "South West Africa People's Organisation"]
+     wikidataQnode: ["Q467711"]
+     yearsActiveasParty: ["1960-present"]
+
+   UDFParty:
+     stringTokens: ["United Democratic Fron"]
+     wikidataQnode: ["Q488574"]
+     yearsActiveasParty: ["1989-2013"]
+
+   UNSWPParty:
+     stringTokens: ["United National South West Party"]
+     wikidataQnode: ["Q7888306"]
+     yearsActiveasParty: ["1963-present"]
+
+   NPSWAParty:
+     stringTokens: ["National Party of South West Africa"]
+     wikidataQnode: ["Q3251833"]
+     yearsActiveasParty: ["1939-1991"]
+
+   CDParty:
+     stringTokens: ["Congress of Democrats"]
+     wikidataQnode: [""]
+     yearsActiveasParty: ["1999-present"]
+
+   RDPParty:
+     stringTokens: ["Rally for Democracy and Progress"]
+     wikidataQnode: ["Q2129469"]
+     yearsActiveasParty: ["2007-present"]
+
+   ACTURParty:
+     stringTokens: ["Action Front for the Retention of Turnhalle Principles"]
+     wikidataQnode: [""]
+     yearsActiveasParty: [""]
+
+   DCDPParty:
+     stringTokens: ["Damara Christian Democratic Party"]
+     wikidataQnode: ["Q5211987"] 
+     yearsActiveasParty: ["1978-present"]
+
+   DECParty:
+     stringTokens: ["Damara Executive Committee"]
+     wikidataQnode: ["Q5211990"]
+     yearsActiveasParty: 
+
+   PDMParty:
+     stringTokens: ["Popular Democratic Movement", "Democratic Turnhalle Alliance"]
+     wikidataQnode: ["Q1155803"]
+     yearsActiveasParty: ["1977-present"]
+
+  ## armed groups
+   CLAArmedGroup:
+     stringTokens: ["Caprivi Liberation Army"]
+     associatedEthnicGroup: ["Lozi people"]
+     wikidataQnode: ["Q2496137"]
+     yearsActiveasParty: ["1994-present"]
+  
+   SWAPOArmedGroup:
+     stringTokens: ["South West Africa People's Organisation", "SWAPO"]
+     associatedEthnicGroup: ["Ovambo people"]
+     wikidataQnode: ["Q467711"]
+
+
+   
