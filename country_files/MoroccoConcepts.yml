@@ -24,7 +24,14 @@ concepts:
     languagesMostSpoken: ["Hassaniya Arabic" "Berber languages", "Arabic" ]
     religionsMostPracticed: ["Sunni Islam"]
     livesIn: ["Guelmim-Oued Noun", "Laâyoune-Sakia El Hamra", "Dakhla-Oued Ed-Dahab"] # Mass presence in distriputed Moroccan-controlled zone in Western Sahara 
-    
+  
+  MoorEthnicGroup:
+    stringTokens: ["Moor", "Moriscos", "Moriscoes"]
+    wikidataQnode: ["Q169260"]
+    languagesMostSpoken: ["Hassaniya Arabic" "Berber languages", "Arabic", "Zenaga Berber"]
+    religionsMostPracticed: ["Islam"]
+    livesIn: ["Guelmim-Oued Noun", "Laâyoune-Sakia El Hamra", "Dakhla-Oued Ed-Dahab"]
+  
  # Minority groups less than 1%
   #GnawaEthnicGroup:
   #  stringTokens: ["Gnawa", "Gnaoua", "Ghanawa", "Ghanawi", "Gnawi"]
@@ -120,6 +127,12 @@ concepts:
    wikidataQnode: ["Q3366434"]
    yearsActiveasParty: ["1981-present"] #split from National Rally of Independents
   
+  PUNSParty:
+   stringTokens: ["Sahrawi National Union Party", "Partido de Unión Nacional Saharaui", "PUNS"] # A political party set up by Francoist Spain to rally indigenous support in its rebellious Spanish Sahara colony (presently Western Sahara).
+   associatedEthnicGroup: ["Sahrawi"]
+   wikidataQnode: ["Q7399735"]
+   yearsActiveasParty: ["1974-1975"]
+   
   PPSParty:
    stringTokens: ["Party of Progress and Socialism", "Progress and Socialism", "Parti du Progrès et du Socialisme", "PPS"]
    associatedEthnicGroup: []
@@ -137,6 +150,12 @@ concepts:
    associatedEthnicGroup: []
    wikidataQnode: ["Q2297130"]
    yearsActiveasParty: ["1975-present"] # split from National Union of Popular Forces
+  
+  PFParty:
+   stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario", "Popular Front for the Liberation of Saguia el-Hamra and Río de Oro"]
+   associatedEthnicGroup: ["Sahrawi"]
+   wikidataQnode: ["Q240425"]
+   yearsActive: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
 
 ###ArmedGroups
   
@@ -144,7 +163,13 @@ concepts:
    stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario", "Popular Front for the Liberation of Saguia el-Hamra and Río de Oro"]
    associatedEthnicGroup: ["Sahrawi"]
    wikidataQnode: ["Q240425"]
-   yearsActive: ["1973-present"]
+   yearsActive: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
+    
+  SPLAArmedGroup:
+   stringTokens: ["Sahrawi People's Liberation Army","Armée populaire de libération sahraouie", "Military of Western Sahara", "Sahrawi Popular Liberation Army", "SPLA", "Ejército de Liberación Popular Saharaui", "ELPS", "ELP"]
+   associatedEthnicGroup: ["Sahrawi"]
+   wikidataQnode: ["Q2862977"]
+   yearsActive: ["1972-present"] # armed wing of of Sahrawi Arab Democratic Republic (SADR)
    
   SJArmedGroup:
    stringTokens: ["Salafia Jihadia", "al-Salafiya al-jihadiya"]
