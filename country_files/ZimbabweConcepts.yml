@@ -1,0 +1,365 @@
+concepts:
+  ZimbabweDefenceForces:
+    stringTokens: ["Zimbabwe Defence Forces", "ZDF", "military of Zimbabwe"]
+    wikidataQnode:["Q381383"]
+    
+###EthnicGroups:
+  ShonaEthnicGroup:
+    stringTokens: ["Shona", "Shona people", "Mashona", "Maswina", "Makalaka", "Makalanga", "Makaranga", "Zezuru"]
+    wikidataQnode: ["Q642613"]
+    languagesMostSpoken: ["Shona", "English", "Bantu", "chiShona"]
+    religionsMostPracticed: ["Christianity", "Shona traditional religion"]
+    livesIn: ["Midlands", "Harare", "Mashonaland West", "Mashonaland Central", "Mashonaland East", "Manicaland", "Masvingo"]
+    
+  ZuluEthnicGroup:
+    stringTokens: ["Zulu people", "Zulu", "amaZulu", "Zulu manes", "Isizulu", "Kafirs", "Zulus", "Zunda"]
+    wikidataQnode: ["Q129962"]
+    languagesMostSpoken: ["Zulu", "Tsonga", "Sotho", "English", "IsiZulu"]
+    religionsMostPracticed: ["Christianity", "Zulu religion"]
+    livesIn: ["Matabeleland South"] 
+  
+  NdebeleEthnicGroup:
+    stringTokens: ["Ndebele", "Northern Ndebele people", "amaNdebele", "Nguni"]
+    wikidataQnode: ["Q1211360"]
+    languagesMostSpoken: ["Northern Ndebele language", "siNdebele"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    livesIn: ["Midlands", "Matabeleland South", "Matabeleland North", "Bulawayo"]
+  
+  KalangaEthnicGroup:
+    stringTokens: ["Kalanga", "BaKalanga", "Bakalaka"]
+    wikidataQnode: ["Q1193813"]
+    languagesMostSpoken: ["TjiKalanga", "Shona languages", "Xitsonga", "TshiVenda language"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    livesIn: ["Matabeleland South"]
+  
+  TongaEthnicGroup:
+    stringTokens: ["Tonga", "Batonga", "tchitonga", "Batonka", "Gwembe", "Plateau Tonga", "Toka", "Tonka", "Valley Tonga"]
+    wikidataQnode: ["Q1431896"]
+    languagesMostSpoken: ["Northern Ndebele language", "siNdebele", "chiShona", "Shona", "Bantu", "Tonga", "chitonga", "Zambezi"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion", "Muzimu"]
+    livesIn: ["Matabeleland North"]
+  
+  NdauEthnicGroup:
+    stringTokens: ["Ndau", "Ndau people", "Njao", "Vandan", "vaNdau"]
+    wikidataQnode: ["Q760787"]
+    languagesMostSpoken: ["Ndau language", "chiNdau", "Bantu"]
+    religionsMostPracticed: ["Christianity", "Ndau traditional religion"]
+    livesIn: ["Manicaland"]
+  
+  VendaEthnicGroup:
+    stringTokens: ["Venda people", "Venda", "Tswetla", " Venḓa", "VhaVenḓa", "Vhangona", "Bavenda", "Bwenda"]
+    wikidataQnode: ["Q1785209"]
+    languagesMostSpoken: ["Tshi-Venda", "Venda language", "Bantu"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    livesIn: ["Matabeleland South"]
+  
+  XhosaEthnicGroup:
+    stringTokens: ["Xhosa", "Xhosa people", "Xhosa-speaking people"]
+    wikidataQnode: ["Q207996"]
+    languagesMostSpoken: ["IsiXhosa", "Zulu", "Sesotho", "English", "Afrikaans"]
+    religionsMostPracticed: ["Traditional African religion", "Christianity"]
+    livesIn: ["Bulawayo"]
+  
+  WhiteEthnicGroup:
+    stringTokens: ["White Zimbabweans", "White people in Zimbabwe", "Afrikaners", "Europeans", "Jews"]
+    wikidataQnode: ["Q7995667"]
+    languagesMostSpoken: ["English", "Afrikaans", "Greek", "Portuguese", "Italian"]
+    religionsMNational Youth ServiceostPracticed: ["Christianity", "Judaism"]
+    livesIn: ["Midlands", "Harare"]
+  
+  # Ethnic groups with population share less than 1% are omitted.
+  
+###PoliticalParties
+  ANCIParty:
+   stringTokens: ["African National Council Independents"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q889447"]
+   yearsActiveasParty: ["1974-1977"] # renamed as the United African National Council in 1977   
+ 
+  UANCParty:
+   stringTokens: ["United African National Council", "UANC"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q889447"]
+   yearsActiveasParty: ["1979-1994"] # merged with the Zimbabwe Unity Movement in 1994
+  
+  CPParty:
+   stringTokens: ["Centre Party", "Centre Party (Rhodesia)", "CP"] # opposed to the policies of the country's Rhodesian Front-dominated white minority government.
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q48803171"]
+   yearsActiveasParty: ["1968-1977"] # In 1977, the party merged with the Rhodesia Party to form the National Unifying Force.
+  
+  ConfPParty:
+   stringTokens: ["Confederate Party"] # was formed in 1953 as a successor to the Democratic Party by opponents of the Federation
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q23777611"]
+   yearsActiveasParty: ["1953-1958"] # was succeeded by the Dominion Party, which was established in 1956.
+  
+  DomPParty:
+   stringTokens: ["Dominion Party"] # was established in 1956 by a merger of several political groups and the remains of the Confederate Party
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q25183094"]
+   yearsActiveasParty: ["1956-1960"] # In 1960 the party split; the Northern Rhodesian and Nyasaland branches formed the Federal Dominion Party. The Southern Rhodesian branch was reconstituted in 1962 to form the Rhodesian Front.
+  
+  FPZParty:
+   stringTokens: ["Forum Party", "Forum Party of Zimbabwe", "FPZ"] #  formed by a merge between the Forum for Democratic Reform (Trust), which Dumbutshena had led, and the Open Forum. 
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q5473068"]
+   yearsActiveasParty: ["1993-1999"] # merged into the Movement for Democratic Change in December 1999.
+  
+  MDCParty:
+   stringTokens: ["Movement for Democratic Change", "MDC"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q2582118"]
+   yearsActiveasParty: ["1999-2005"] # plit over whether to contest the 2005 Zimbabwean Senate election into the Movement for Democratic Change – Tsvangirai (MDC-T), the larger party led by Morgan Tsvangirai, and the Movement for Democratic Change – Ncube, a smaller faction then led by Arthur Mutambara and later led by Welshman Ncube.
+  
+  MDCNParty:
+   stringTokens: ["Movement for Democratic Change—Ncube", "MDC-N"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q15980776"]
+   yearsActiveasParty: ["2005-2018"] # In the lead up to the 2018 Zimbabwean general election, the MDC-N joined an electoral coalition with Movement for Democratic Change – Tsvangirai (MDC–T) and other political parties which was called the MDC Alliance.
+  
+  MDCTParty:
+   stringTokens: ["Movement for Democratic Change – Tsvangirai", "MDC-T"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q1146616"]
+   yearsActiveasParty: ["2005-2018"] # In the lead up to the 2018 Zimbabwean general election, the MDC-N joined an electoral coalition with Movement for Democratic Change – Tsvangirai (MDC–T) and other political parties which was called the MDC Alliance.
+  
+  MDCAParty:
+    stringTokens: ["MDC Alliance", "Movement for Democratic Change Alliance", "MDC-A"]
+    associatedEthnicGroup: []
+    wikidataQnode: ["Q48800088"]
+    yearsActiveasParty: ["2018-2020"] # In 2018, the three member parties who were splinters of the original MDC (MDC-T, MDC-N and PDP) reunited to form a single political party under the name MDC-Alliance.
+  
+  MDCACParty:
+   stringTokens: ["MDC Alliance", "Movement for Democratic Change Alliance", "MDC-A"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q48800088"]
+   yearsActiveasParty: ["2021-present"] # In September 2021, Douglas Mwonzora, the leader of a splinter faction of the MDC-T, announced that the MDC-T would use the name MDC Alliance in forthcoming by-elections.
+  
+  CCCParty:
+   stringTokens: ["Citizens Coalition for Change", "CCC"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q110664645"]
+   yearsActiveasParty: [""] # Nelson Chamisa formed Citizens Coalition for Change after losing the squabbles over party name "MDC Alliance". 
+  
+  NPPParty:
+   stringTokens: ["National People’s Party", "National First Party"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: [""]
+   yearsActiveasParty: ["1965"]
+  
+  RWPPParty:
+   stringTokens: ["Rhodesian White People's Party", "RWPP]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q111936909"]
+   yearsActiveasParty: ["1976"]
+  
+  PDPParty:
+   stringTokens: ["People's Democratic Party", "PDP", "Movement for Democratic Change – Renewal"] #  broke away from the Movement for Democratic Change – Tsvangirai.
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q48798212"]
+   yearsActiveasParty: ["2015-2018"] # fter the 2018 election, the Tendai Biti-led faction of the PDP re-united with other splinter groups of the original MDC (MDC-T and MDC-N) to form a single party under the original name Movement for Democratic Change (MDC).
+  
+  PPParty:
+   stringTokens: ["Progressive Party"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q7570419"]
+   yearsActiveasParty: ["1928"]
+  
+  RPParty:
+   stringTokens: ["Reform Party"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q23035619"]
+   yearsActiveasParty: ["1932-1939"]
+  
+  RDAParty:
+   stringTokens: ["Responsible Government Association", "Rhodesia Party"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q7315991"]
+   yearsActiveasParty: ["1934; 1962-1968"]
+  
+  RLPParty:
+   stringTokens: ["Rhodesia Labour Party"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q7321052"]
+   yearsActiveasParty: ["1923-1950"]
+  
+  REUParty:
+   stringTokens: ["Rhodesia Electoral Union"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q7321073"]
+   yearsActiveasParty: ["1970"]
+  
+  RAPParty:
+   stringTokens: ["Rhodesian Action Party", "RAP"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q7321065"]
+   yearsActiveasParty: ["1977-1979"]
+  
+  RFParty:
+   stringTokens: ["Rhodesian Front", "RF"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q1185174"]
+   yearsActiveasParty: ["1962-1981"] # reconstituted itself as the Conservative Alliance of Zimbabwe in 1985
+  
+  CAZParty:
+   stringTokens: ["Conservative Alliance of Zimbabwe", "CAZ"] # previously RF
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q5163022"]
+   yearsActiveasParty: ["1985-1992"] # The Forum for Democratic Reform and the Forum Party (incorporating CAZ) emerged from this.
+  
+  SRLPParty:
+   stringTokens: ["Southern Rhodesia Liberal Party", "SRLP"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q7570405"]
+   yearsActiveasParty: ["1943-1950s"]
+  
+  UnionistsParty:
+   stringTokens: ["Unionists"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q7570414"]
+   yearsActiveasParty: ["1920"]
+  
+  UFPParty:
+   stringTokens: ["United Federal Party", "United Party", "United Rhodesia Party"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q7887759"]
+   yearsActiveasParty: ["1957-1963"] # merged into centre party
+  
+  UNFPParty:
+   stringTokens: ["United National Federal Party", "UNFP"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q7888292"]
+   yearsActiveasParty: ["1978-1980"]
+  
+  ZUPOParty:
+   stringTokens: ["Zimbabwe United People's Organisation", "ZUPO"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q8072020"]
+   yearsActiveasParty: ["1976-1980"]
+  
+  URPParty:
+   stringTokens: ["United Rhodesia Party", "URP"]
+   associatedEthnicGroup: ["White Zimbabweans"]
+   wikidataQnode: ["Q16943574"]
+   yearsActiveasParty: ["1933-1957"] # In 1957 it merged with the Federal Party to become the United Federal Party (UFP).
+  
+  ZANUParty:
+   stringTokens: ["Zimbabwe African National Union", "ZANU"] # as a split from the Zimbabwe African People's Union (ZAPU) in 1963.
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q203427"]
+   yearsActiveasParty: ["1963-1975"] # split in 1975 into wings loyal to Robert Mugabe and Ndabaningi Sithole, later respectively called ZANU–PF and ZANU–Ndonga.
+  
+  ZANUNParty:
+   stringTokens: ["Zimbabwe African National Union – Ndonga", "ZANU–Ndonga", "ZANU-N", "ZANU Mwenje", "ZANU Sithole"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q8071965"]
+   yearsActiveasParty: ["1975-present"]
+  
+  ZANUPFParty:
+   stringTokens: ["Zimbabwe African National Union – Patriotic Front", "ZANU-PF"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q1910161"]
+   yearsActiveasParty: ["1975-present"]
+  
+  ZAPUParty:
+   stringTokens: ["Zimbabwe African People's Union", "ZAPU"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q203423"]
+   yearsActiveasParty: ["1961-1962, 2008"] # ZAPU was banned in 1962 by the Rhodesian white minority government, and later engaged in a guerrilla war against it. It was relaunched in 2008.
+  
+  ZUMParty:
+   stringTokens: ["Zimbabwe Unity Movement", "ZUM"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q8072022"]
+   yearsActiveasParty: ["1988-1995"]
+  
+ ###ArmedGroups
+    
+  Party:
+   stringTokens: []
+   associatedEthnicGroup: [""] 
+   wikidataQnode: [""]
+   yearsActiveasParty: [""]
+  
+  Party:
+   stringTokens: []
+   associatedEthnicGroup: [""] 
+   wikidataQnode: [""]
+   yearsActiveasParty: [""]
+  PFArmedGroup:
+   stringTokens: ["PatriPatriotic Frontotic Front", "PF"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q7148042"]
+   yearsActive: ["1963-1980"]
+   	
+  ZIPRAArmedGroup:
+   stringTokens: ["Zimbabwe People's Revolutionary Army", "ZIPRA", "Zimbabwe African People's Union", "ZAPU"]
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q3426171"]
+   yearsActive: ["1964-1980"]
+   	
+  RenamoArmedGroup:
+   stringTokens: ["Renamo", "Resistência Nacional Moçambicana", "Mozambican National Resistance", "MNR", "RNM", "Movimento Nacional da Resistência de Mocambique"]
+   associatedEthnicGroup: ["Shona", "Ndau"]
+   wikidataQnode: ["Q1425821"]
+   yearsActive: ["1975-present"]
+   
+  ZANLAArmedGroup:
+   stringTokens: ["Zimbabwe African National Liberation Army", "ZANLA", "Zimbabwe African National Union", "ZANU", "ZANU-PF", "Zimbabwe African National Union-PF"] 
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q4570814"]
+   yearsActiveasParty: ["1965-1980"]
+ 
+  #Progovernment Militias
+   
+  ZANUPFMilitiaArmedGroup:
+   stringTokens: ["Zimbabwe African National Union-PF", "ZANU-PF", "Zimbabwe African National Union-PF"] 
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q1910161"]
+   yearsActiveasParty: ["1997-2013"]
+   
+  AlShababArmedGroup:
+   stringTokens: ["Al-Shabab of Zimbabwe", "Al-Shabab"] #	The group is commanded by Tapiwa Muto, a ZANU-PF youth officer.
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveasParty: ["2012-present"]
+   
+  ChipanganoArmedGroup:
+   stringTokens: ["Chipangano "] 
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveasParty: ["1980-present"] # Chipangano was created by the governing party ZANU-PF in the 1980s.
+   
+  JochomondoArmedGroup:
+   stringTokens: ["Jochomondo"] 
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveasParty: ["2000-present"] # Supported by ZANU-PF
+   
+  PeoplesMilitiaArmedGroup:
+   stringTokens: ["People's Militia"] 
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveasParty: ["1982-1993"]
+   
+  TopSixArmedGroup:
+   stringTokens: ["Top Six Vigilante Unit"] 
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveasParty: ["2013-present"] # Supported by ZANU-PF
+   
+  ZNLWVAArmedGroup:
+   stringTokens: ["War Vets", "The Zimbabwe National Liberation War Veterans Association", "ZNLWVA"] 
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3626667"]
+   yearsActiveasParty: ["1989-present"] # Supported by ZANU-PF
+   
+  NYSArmedGroup:
+   stringTokens: ["Youth Service Brigade", "Green Bombers", "National Youth Service", "Youth Brigade", "Youth militia"] 
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q6979525"]
+   yearsActiveasParty: ["2000-2009, 2010-2012"] # supported by ZANU-PF
+   
+    
+ 
