@@ -1,0 +1,11 @@
+relations:
+  - (officialStateSecurityForces, FrenchSecurityForces)
+  - (EthnicGroup, WhiteEthnicGroup)
+  - (EthnicGroup, MalagasyEthnicGroup)
+  - (EthnicGroup, AfrikansEthnicGroup)
+  - (EthnicGroup, ZarabesEthnicGroup)
+  - (EthnicGroup, MalbarsEthnicGroup)
+  - (EthnicGroup, ChineseEthnicGroup)
+  - (Party, PCRParty)
+  - (Party, FRParty)
+  - (Party, LPParty)
