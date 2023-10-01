@@ -22,21 +22,21 @@ concepts:
     stringTokens: ["Ndebele", "Northern Ndebele people", "amaNdebele", "Nguni"]
     wikidataQnode: ["Q1211360"]
     languagesMostSpoken: ["Northern Ndebele language", "siNdebele"]
-    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
     livesIn: ["Midlands", "Matabeleland South", "Matabeleland North", "Bulawayo"]
   
   KalangaEthnicGroup:
     stringTokens: ["Kalanga", "BaKalanga", "Bakalaka"]
     wikidataQnode: ["Q1193813"]
     languagesMostSpoken: ["TjiKalanga", "Shona languages", "Xitsonga", "TshiVenda language"]
-    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
     livesIn: ["Matabeleland South"]
   
   TongaEthnicGroup:
     stringTokens: ["Tonga", "Batonga", "tchitonga", "Batonka", "Gwembe", "Plateau Tonga", "Toka", "Tonka", "Valley Tonga"]
     wikidataQnode: ["Q1431896"]
     languagesMostSpoken: ["Northern Ndebele language", "siNdebele", "chiShona", "Shona", "Bantu", "Tonga", "chitonga", "Zambezi"]
-    religionsMostPracticed: ["Christianity", "Traditional African religion", "Muzimu"]
+    religionsMostPracticed: ["Christianity", "African traditional religion", "Muzimu"]
     livesIn: ["Matabeleland North"]
   
   NdauEthnicGroup:
@@ -50,14 +50,14 @@ concepts:
     stringTokens: ["Venda people", "Venda", "Tswetla", " Venḓa", "VhaVenḓa", "Vhangona", "Bavenda", "Bwenda"]
     wikidataQnode: ["Q1785209"]
     languagesMostSpoken: ["Tshi-Venda", "Venda language", "Bantu"]
-    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
     livesIn: ["Matabeleland South"]
   
   XhosaEthnicGroup:
     stringTokens: ["Xhosa", "Xhosa people", "Xhosa-speaking people"]
     wikidataQnode: ["Q207996"]
     languagesMostSpoken: ["IsiXhosa", "Zulu", "Sesotho", "English", "Afrikaans"]
-    religionsMostPracticed: ["Traditional African religion", "Christianity"]
+    religionsMostPracticed: ["African traditional religion", "Christianity"]
     livesIn: ["Bulawayo"]
   
   WhiteEthnicGroup:
