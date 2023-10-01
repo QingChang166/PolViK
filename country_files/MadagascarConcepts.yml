@@ -15,14 +15,14 @@ concepts:
      stringTokens: ["Chinese people"]
      wikidataQnode: ["Q3275518"]
      languagesMostSpoken: ["Chinese"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: 
 
    IndiansEthnicGroup:
      stringTokens: ["Indians"]
      wikidataQnode: ["Q3192943"]
      languagesMostSpoken: ["Gujarati"]
-     religionsMostPracticed: ["Hinduism"]
+     religionsMostPracticed: ["Hindu"]
      livesIn: 
  
   ## politicalparties
