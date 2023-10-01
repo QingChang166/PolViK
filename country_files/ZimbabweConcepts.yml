@@ -276,17 +276,6 @@ concepts:
   
  ###ArmedGroups
     
-  Party:
-   stringTokens: []
-   associatedEthnicGroup: [""] 
-   wikidataQnode: [""]
-   yearsActiveasParty: [""]
-  
-  Party:
-   stringTokens: []
-   associatedEthnicGroup: [""] 
-   wikidataQnode: [""]
-   yearsActiveasParty: [""]
   PFArmedGroup:
    stringTokens: ["PatriPatriotic Frontotic Front", "PF"]
    associatedEthnicGroup: ["African people"]
@@ -311,13 +300,6 @@ concepts:
    wikidataQnode: ["Q4570814"]
    yearsActiveasParty: ["1965-1980"]
  
-  #Progovernment Militias
-   
-  ZANUPFMilitiaArmedGroup:
-   stringTokens: ["Zimbabwe African National Union-PF", "ZANU-PF", "Zimbabwe African National Union-PF"] 
-   associatedEthnicGroup: ["African people"]
-   wikidataQnode: ["Q1910161"]
-   yearsActiveasParty: ["1997-2013"]
    
   AlShababArmedGroup:
    stringTokens: ["Al-Shabab of Zimbabwe", "Al-Shabab"] #	The group is commanded by Tapiwa Muto, a ZANU-PF youth officer.
@@ -337,12 +319,6 @@ concepts:
    wikidataQnode: []
    yearsActiveasParty: ["2000-present"] # Supported by ZANU-PF
    
-  PeoplesMilitiaArmedGroup:
-   stringTokens: ["People's Militia"] 
-   associatedEthnicGroup: []
-   wikidataQnode: []
-   yearsActiveasParty: ["1982-1993"]
-   
   TopSixArmedGroup:
    stringTokens: ["Top Six Vigilante Unit"] 
    associatedEthnicGroup: []
@@ -361,5 +337,16 @@ concepts:
    wikidataQnode: ["Q6979525"]
    yearsActiveasParty: ["2000-2009, 2010-2012"] # supported by ZANU-PF
    
-    
+  #Progovernment Militias
+   
+  ZANUPFMilitiaArmedGroup:
+   stringTokens: ["Zimbabwe African National Union-PF", "ZANU-PF", "Zimbabwe African National Union-PF"] 
+   associatedEthnicGroup: ["African people"]
+   wikidataQnode: ["Q1910161"]
+   yearsActiveasParty: ["1997-2013"]
  
+  PeoplesMilitiaArmedGroup:
+   stringTokens: ["People's Militia"] 
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveasParty: ["1982-1993"]
