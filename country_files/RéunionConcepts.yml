@@ -36,14 +36,14 @@ concepts:
      stringTokens: ["Malbars"]
      wikidataQnode: [""]
      languagesMostSpoken: ["French"]
-     religionsMostPracticed: ["Hinduism"]
+     religionsMostPracticed: ["Hindu"]
      livesIn: ["Saint-Denis"]
 
    ChineseEthnicGroup:
      stringTokens: ["Chinese people"]
      wikidataQnode: ["Q2963786"]
      languagesMostSpoken: ["Chinese"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["Saint-Denis"]
     
   ## politicalparties
