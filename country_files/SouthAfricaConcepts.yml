@@ -1,0 +1,505 @@
+concepts:
+  SouthAfricanDefenceForces:
+    stringTokens: ["South African Defence Force", "SADF", "Suid-Afrikaanse Weermag", "military of South Africa", "military of South Africa(1957-1994)"]
+    wikidataQnode:["Q381383"]
+    yearsActiveasMilitaty: ["1957-1994"]
+  
+  SouthAfricanNationalDefenceForces:
+    stringTokens: ["South African National Defence Force", "SANDF", "military of South Africa"]
+    wikidataQnode:["Q305314]
+    yearsActiveasMilitaty: ["1994-present"]
+
+###EthnicGroups:
+  XhosaEthnicGroup:
+    stringTokens: ["Xhosa", "Xhosa people", "Xhosa-speaking people"]
+    wikidataQnode: ["Q207996"]
+    languagesMostSpoken: ["IsiXhosa", "Zulu", "Sesotho", "English", "Afrikaans"]
+    religionsMostPracticed: ["Traditional African religion", "Christianity"]
+    livesIn: ["Eastern Cape", "Northern Cape", "Free State", "KwaZulu-Natal"]
+  
+  ZuluEthnicGroup:
+    stringTokens: ["Zulu people", "Zulu", "amaZulu", "Zulu manes", "Isizulu", "Kafirs", "Zulus", "Zunda"]
+    wikidataQnode: ["Q129962"]
+    languagesMostSpoken: ["Zulu", "Tsonga", "Sotho", "English", "IsiZulu"]
+    religionsMostPracticed: ["Christianity", "Zulu religion"]
+    livesIn: ["Free State", "KwaZulu-Natal", "Gauteng", "Mpumalanga"]
+  
+  PediEthnicGroup:
+    stringTokens: ["Pedi", "Bapedi", "Sotho", "Basotho", "Northern Sotho", "Basotho ba Lebowa", "Transvaal Sotho", "Marota", "Bamaroteng", "Sotho-Tswana"]
+    wikidataQnode: ["Q1265850"]
+    languagesMostSpoken: ["Pedi", "Sepedi", "English", "Afrikaans", "Bantu languages"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    livesIn: ["Limpopo", "Gauteng", "Mpumalanga", "North West"]
+  
+  AfrikanersEthnicGroup:
+    stringTokens: ["Afrikaners", "Afrikaner", "Afrikaner people", "Afrikander", "Boers"]
+    wikidataQnode: ["Q385799"]
+    languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
+    religionsMostPracticed: ["Calvinism", "Other Protestants", "Catholicism"]
+    livesIn: ["Western Cape", "Eastern Cape", "Nothern Cape", "Gauteng", "Free State", "Mpumalanga"]
+  
+  ColouredsEthnicGroup:
+    stringTokens: ["Coloured", "Coloureds", "Kleurlinge", "Bruinmense"]
+    wikidataQnode: ["Q1130204"]
+    languagesMostSpoken: ["Afrikaans", "English", "IsiXhosa", "Setswana"]
+    religionsMostPracticed: ["Christianity", "Islam"]
+    livesIn: ["Western Cape", "Eastern Cape", "Nothern Cape", "Gauteng", "Free State", "Mpumalanga"]
+  
+  SothoEthnicGroup:
+    stringTokens: ["South Sotho", "Southern Sotho speakers","Basuto", "Suthu","Souto", "Suto", "Basutos" "Sotho", "Basotho"]
+    wikidataQnode: ["Q577576"]
+    languagesMostSpoken: ["Sesotho", "IsiXhosa", "IsiZulu", "English", "Afrikaans"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    livesIn: ["Free State", "Eastern Cape"]
+  
+  TswanaEthnicGroup:
+    stringTokens: ["Tswana", "Tswana people" , "Batswana", "Motswana", "Bechuana", "Chuana", "Western Sotho", "Bechuanas"]
+    wikidataQnode: ["Q810917"]
+    languagesMostSpoken: ["Setswana", "English", "Afrikaans", "Nama"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    livesIn: ["Mpumalanga", "Gauteng", "Nothern Cape", "Free State", "Limpopo", "North West"]
+  
+  TsongaEthnicGroup:
+    stringTokens: ["Tsonga people", "Tsonga", "Vatsonga", "Baronga", "Bathonga", "Nhlanganue", "Ronga", "Songa", "Thonga", "Tonga"]
+    wikidataQnode: ["Q902325"]
+    languagesMostSpoken: ["Xitsonga", "Tsonga", "Portuguese", "English"]
+    religionsMostPracticed: ["African traditional religion", "Christianity"]
+    livesIn: ["Limpopo", "Mpumalanga"]
+  
+  SwaziEthnicGroup:
+    stringTokens: ["Swazi", "Swati", "Emaswati", "Liswati", "Amaswazi", "Isiswazi", "Ngwane", "Siswazi", "Tekela", "Tekeza"]
+    wikidataQnode: ["Q939691"]
+    languagesMostSpoken: ["Siswati", "English"]
+    religionsMostPracticed: ["Christianity", "Swazi religion"]
+    livesIn: ["Mpumalanga", "Gauteng", "Nothern Cape", "Free State"]
+  
+  MalaysEthnicGroup:
+    stringTokens: ["Cape Malays", "Cape Muslims", "Malays", "Cape Malay"]
+    wikidataQnode: ["Q1276753"]
+    languagesMostSpoken: ["Afrikaans", "South African English"]
+    religionsMostPracticed: ["Sunni Muslim"]
+    livesIn: ["Western Cape", "Gauteng"]
+  
+  IndiansEthnicGroup:
+    stringTokens: ["Asians", "Indians", "Indian South Africans"]
+    wikidataQnode: ["Q4120990"]
+    languagesMostSpoken: ["languages of the Indian subcontinent", "English" "Afrikaans"]
+    religionsMostPracticed: ["Hinduism", "Islam", "Christianity", "Sikhism", "Jainism", "Zoroastrianism"]
+    livesIn: ["Gauteng", "KwaZulu-Natal", "Western Cape", "Eastern Cape"]
+  
+  ChineseEthnicGroup:
+    stringTokens: ["Chinese", "Chinese South Africans"]
+    wikidataQnode: ["Q2400459"]
+    languagesMostSpoken: ["English", "Afrikaans", "Cantonese", "Mandarin", "Hokkien"]
+    religionsMostPracticed: []
+    livesIn: ["Gauteng", "KwaZulu-Natal", "Western Cape", "Eastern Cape"]
+  
+  HonoraryWhitesEthnicGroup:
+    stringTokens: ["Honorary Whites", "East Asians"]
+    wikidataQnode: ["Q6148763"]
+    languagesMostSpoken: ["English", "Afrikaans", "Japanese", "Korean", "Cantonese", "Mandarin", "Hokkien"]
+    religionsMostPracticed: []
+    livesIn: ["Gauteng", "KwaZulu-Natal", "Western Cape", "Eastern Cape"]
+    
+  VendaEthnicGroup:
+    stringTokens: ["Venda people", "Venda", "Tswetla", " Venḓa", "VhaVenḓa", "Vhangona", "Bavenda", "Bwenda"]
+    wikidataQnode: ["Q1785209"]
+    languagesMostSpoken: ["Tshi-Venda", "Venda language", "Bantu"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    livesIn: ["Limpopo"]
+    
+  NdebeleEthnicGroup:
+    stringTokens: ["Ndebele", "Southern Ndebele people", "amaNdebele", "Nguni"]
+    wikidataQnode: ["Q1972827"]
+    languagesMostSpoken: ["Southern Ndebele language", "siNdebele"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    livesIn: ["Mpumalanga", "Limpopo"]
+
+###PoliticalParties
+
+  ANCParty:
+   stringTokens: ["African National Congress", "ANC", "SANNC"]
+   associatedEthnicGroup: [] # anti apartheid
+   wikidataQnode: ["Q83162"]
+   yearsActiveasParty: ["1912-present"] # legalized in 1990  
+  
+  ACDPParty:
+   stringTokens: ["African Christian Democratic Party", "ACDP"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q268613"]
+   yearsActiveasParty: ["1993-present"]
+  
+  APParty:
+   stringTokens: ["Afrikaner Party"]
+   associatedEthnicGroup: ["Afrikaners", "White"]
+   wikidataQnode: ["Q3366175"]
+   yearsActiveasParty: ["1941-1951"]
+  
+  AZAPOParty:
+   stringTokens: ["Azanian People's Organisation", "Azanian Peoples Organisation", "AZAPO"]
+   associatedEthnicGroup: ["African People"] # anti apartheid
+   wikidataQnode: ["Q793572"]
+   yearsActiveasParty: ["1999-present"] # founded in 1978
+  
+  COPEParty:
+   stringTokens: ["Congress of the People", "COPE"]
+   associatedEthnicGroup: [] # anti-apartheid
+   wikidataQnode: ["Q1125988"]
+   yearsActiveasParty: ["2008-present"]
+  
+  CPSAParty:
+   stringTokens: ["Conservative Party of South Africa", "Conservative Party", "Konserwatiewe Party van Suid-Afrika"]
+   associatedEthnicGroup: ["Afrikaners", "White"] # pro-apartheid
+   wikidataQnode: ["Q776414"]
+   yearsActiveasParty: ["1982-2004"]
+  
+  DAParty:
+   stringTokens: ["Democratic Alliance", "Demokratiese Alliansie", "DA"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q761877"]
+   yearsActiveasParty: ["2000-present"]
+  
+  DPParty:
+   stringTokens: ["Democratic Party", "DP"]
+   associatedEthnicGroup: [] # anti apartheid
+   wikidataQnode: ["Q780158"]
+   yearsActiveasParty: ["1989-2000"]
+  
+  DPSAParty:
+   stringTokens: ["Democratic Party (South Africa)", "Democratic Party"]
+   associatedEthnicGroup: [] # anti apartheid
+   wikidataQnode: ["Q5255693"]
+   yearsActiveasParty: ["1973-1977"]
+  
+  DRPParty:
+   stringTokens: ["Democratic Reform Party"]
+   associatedEthnicGroup: ["Coloreds"] # anti apartheid
+   wikidataQnode: ["Q25204007"]
+   yearsActiveasParty: ["1989"]
+  
+  DominionParty:
+   stringTokens: ["Dominion Party"]
+   associatedEthnicGroup: ["Afrikaners", "White"]
+   wikidataQnode: ["Q1975570"]
+   yearsActiveasParty: ["1934-1947"]
+  
+  EFFParty:
+   stringTokens: ["Economic Freedom Fighters", "EFF"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q15613585"]
+   yearsActiveasParty: ["2013-present"]
+  
+  PFPSAarty:
+   stringTokens: ["Federal Party", "Federal Party (SA)"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveasParty: ["1969-1994"]
+  
+  GNPParty:
+   stringTokens: ["Purified National Party", "Gesuiwerde Nasionale Party"]
+   associatedEthnicGroup: ["Afrikaners", "White"]
+   wikidataQnode: ["Q2526315"]
+   yearsActiveasParty: ["1935-1939"]
+  
+  HNPParty:
+   stringTokens: ["Herstigte Nasionale Party", "HNP", "Reconstituted National Party"]
+   associatedEthnicGroup: ["Afrikaners", "White"] # pro-apartheid
+   wikidataQnode: ["Q925910"]
+   yearsActiveasParty: ["1969-present"]
+  
+  IDParty:
+   stringTokens: ["Independent Democrats", "ID"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q256561"]
+   yearsActiveasParty: ["2003-2014"]
+  
+  IFPParty:
+   stringTokens: ["Inkatha Freedom Party", "IQembu leNkatha yeNkululeko", "IFP", "Inkatha National Cultural Liberation Movement"]
+   associatedEthnicGroup: ["Zulu"] # anti-apartheid
+   wikidataQnode: ["Q654444"]
+   yearsActiveasParty: ["1975-present"]
+  
+  HGParty:
+   stringTokens: ["Hertzog Group"]
+   associatedEthnicGroup: ["Afrikaners", "White"]
+   wikidataQnode: []
+   yearsActiveasParty: ["1940"]
+   
+  LPSAParty:
+   stringTokens: ["Labour Party", "Labour Party(1969)", "Labour Party of South Africa", "Arbeidersparty van Suid-Afrika"]
+   associatedEthnicGroup: ["Coloureds"] # anti-apartheid
+   wikidataQnode: ["Q779783"]
+   yearsActiveasParty: ["1969-1994"]
+  
+  SALPParty:
+   stringTokens: ["South African Labour Party", "Labour Party", "Suid-Afrikaanse Arbeidersparty", "SALP"]
+   associatedEthnicGroup: ["White", "Afrikaners"]
+   wikidataQnode: ["Q3136263"]
+   yearsActiveasParty: ["1910-1958"]
+  
+  NPParty:
+   stringTokens: ["National Party", "Nasionale Party", "National Party of South Africa", "Nationalist Party", "NP"]
+   associatedEthnicGroup: ["White", "Afrikaners"] # pro-apartheid
+   wikidataQnode: ["Q740718"]
+   yearsActiveasParty: ["1914-1997"]
+  
+  NFPParty:
+   stringTokens: ["National Federal Party"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   yearsActiveasParty: ["1989"]
+  
+  NPPParty:
+   stringTokens: ["National People’s Party", "National Peoples Party", "NPP"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q6974876"]
+   yearsActiveasParty: ["2007-2016"]
+  
+  NPP81Party:
+   stringTokens: ["National People’s Party", "National People’s Party (1981)"]
+   associatedEthnicGroup: ["Indian South Africans"] # anti-apartheid
+   wikidataQnode: ["Q6974877"]
+   yearsActiveasParty: ["1981-1994"]
+  
+  NUParty:
+   stringTokens: ["National Union"]
+   associatedEthnicGroup: [] # anti-apartheid 
+   wikidataQnode: ["Q2782176"]
+   yearsActiveasParty: ["1960-1961"]
+  
+  NNPParty:
+   stringTokens: ["New National Party", "NNP"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q1751732"]
+   yearsActiveasParty: ["1997-2005"]
+  
+  NRPParty:
+   stringTokens: ["New Republic Party", "NRP"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q7011169"]
+   yearsActiveasParty: ["1977-1988"]
+  
+  PACParty:
+   stringTokens: ["Pan Africanist Congress of Azania", "Pan Africanist Congress", "PAC"]
+   associatedEthnicGroup: ["African people", "Black Nationalism"] # anti-apartheid
+   wikidataQnode: ["Q775460"]
+   yearsActiveasParty: ["1959-present"]
+  
+  NOGParty:
+   stringTokens: ["New Order Group", "New Order"]
+   associatedEthnicGroup: ["White"] # facism, white supremacy
+   wikidataQnode: ["Q1086147"]
+   yearsActiveasParty: ["1943"]
+  
+  PCPParty:
+   stringTokens: ["People's Congress Party"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: []
+   yearsActiveasParty: ["1984"]
+  
+  PFPParty:
+   stringTokens: ["Progressive Federal Party", "PFP", "Progressiewe Federale Party"]
+   associatedEthnicGroup: [] # anti-apartheid
+   wikidataQnode: ["Q2096864"]
+   yearsActiveasParty: ["1977-1989"]
+  
+  PPParty:
+   stringTokens: ["Progressive Party", "PP", "Progressiewe Party"]
+   associatedEthnicGroup: [] # anti-apartheid 
+   wikidataQnode: ["Q2784503"]
+   yearsActiveasParty: ["1959-1975"]
+  
+  PPCCParty:
+   stringTokens: ["Progressive Party (Cape Colony)", "Progressive Party of the Cape Colony", "Progressive Party"]
+   associatedEthnicGroup: ["White"] 
+   wikidataQnode: ["Q7248781"]
+   yearsActiveasParty: ["1890-1910"]
+  
+  RoosParty:
+   stringTokens: ["Roos Party"]
+   associatedEthnicGroup: ["White"] 
+   wikidataQnode: ["Q1170754"]
+   yearsActiveasParty: ["1933"]
+  
+  SolidarityParty:
+   stringTokens: ["Solidarity"]
+   associatedEthnicGroup: ["Coloreds", "Indian South Africans"] # aiming at repealing discrimination, though stay in the apartheid parliament
+   wikidataQnode: ["Q85851930"]
+   yearsActiveasParty: ["1984-1989"]
+  
+  SACPParty:
+   stringTokens: ["South African Communist Party", "SACP", "Communist Party of South Africa", "CPSA"]
+   associatedEthnicGroup: [] # anti-apartheid 
+   wikidataQnode: ["Q305317"]
+   yearsActiveasParty: ["1921-present"]
+  
+  SAPParty:
+   stringTokens: ["South African Party", "Suid-Afrikaanse Party", "Zuidafrikaanse Partij"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q1473242"]
+   yearsActiveasParty: ["1911-1934"]
+  
+  UPParty:
+   stringTokens: ["Unionist Party", "Unioniste Party", "UP"]
+   associatedEthnicGroup: ["White"] 
+   wikidataQnode: ["Q2403816"]
+   yearsActiveasParty: ["1910-1920"]
+   
+  UDMParty:
+   stringTokens: ["United Democratic Movement", "UDM"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q1788070"]
+   yearsActiveasParty: ["1997-present"]
+  
+  UPParty:
+   stringTokens: ["United Party", "United South African National Party", "Verenigde Party", "Verenigde Suid-Afrikaanse Nasionale Party"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q1812146"]
+   yearsActiveasParty: ["1934-1977"]
+  
+  VFParty:
+   stringTokens: ["Freedom Front Plus", "FF Plus", "Vryheidsfront Plus", "VF Plus", "Freedom Front", "FF+"]
+   associatedEthnicGroup: ["Afrikaners", "Afrikaans-speaking Coloureds"] 
+   wikidataQnode: ["Q510163"]
+   yearsActiveasParty: ["1994-present"]
+ 
+###ArmedGroups
+  
+  SWAPOArmedGroup:
+   stringTokens: ["South West Africa People's Organisation", "SWAPO", "South-West Africa People's Organization", "SWAPO Party of Namibia",  "Suidwes-Afrikaanse Volks Organisasie",  "SWAVO"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q467711"]
+   yearsActiveasArmedGroup: ["1966-1990"]
+  
+  MKArmedGroup:
+   stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["African National Congress", "ANC"]
+   wikidataQnode: ["Q1136236"]
+   yearsActiveasArmedGroup: ["1961-1993"]
+  
+  BBBArmedGroup:
+   stringTokens: ["Blanke Bevrydingsbeweging", "BBB", "White Liberation Movement"] 
+   associatedEthnicGroup: ["Afrikaners", "White"]
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q15980788"]
+   yearsActiveasArmedGroup: ["1985-1988"]
+  
+  SAYRCOArmedGroup:
+   stringTokens: ["South African Youth Revolutionary Council", "SAYRCO"] 
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   associatedSocialMovement: ["Black Consciousness Movement", "BCM"] # Trained by ZANU-PF
+   wikidataQnode: ["Q7565816"]
+   yearsActiveasArmedGroup: ["1980s"]
+  
+  BoeremagArmedGroup:
+   stringTokens: ["Boeremag", "Boer Force"] 
+   associatedEthnicGroup: ["Afrikaners", "White"]
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q1130353"]
+   yearsActiveasArmedGroup: ["2002-present"]
+  
+  AWBArmedGroup:
+   stringTokens: ["Afrikaner Weerstandsbeweging", "AWB", "Afrikaner Resistance Movement"]
+   associatedEthnicGroup: ["Afrikaners", "White"]
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q385873"]
+   yearsActiveasArmedGroup: ["1973-present"]
+   
+  OVDArmedGroup:
+   stringTokens: ["Orde van die Dood", "Order of the Dead"] # militant wing of Afrikaner Weerstandsbeweging
+   associatedEthnicGroup: ["Afrikaners", "White"]
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q7100374"]
+   yearsActiveasArmedGroup: ["1973-present"]
+  
+  APLAArmedGroup:
+   stringTokens: ["Azanian People's Liberation Army",  "APLA", "Poqo"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["Pan Africanist Congress", "PAC"]
+   wikidataQnode: ["Q3643845"]
+   yearsActiveasArmedGroup: ["1961-1994"]
+  
+  AZANLAArmedGroup:
+   stringTokens: ["Azanian National Liberation Army", "AZANLA"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["Azanian People's Organisation", "AZAPO]
+   wikidataQnode: ["Q793572"]
+   yearsActiveasArmedGroup: ["1978-present"]
+ 
+ # Pro-government Militias 
+  
+  KabasaArmedGroup:
+   stringTokens: ["Kabasa"] 
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: []
+   yearsActiveasArmedGroup: ["1986-1994"]
+  
+  RAArmedGroup:
+   stringTokens: ["Red Ants", "Wozani Security"] 
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: []
+   yearsActiveasArmedGroup: ["2001-present"]
+   
+  WitdoekeArmedGroup:
+   stringTokens: ["Witdoeke"] 
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: []
+   yearsActiveasArmedGroup: ["1986-1994"]
+  
+  
+ # Non-militant actors related with Violence (unions, social movement)
+  UDFArmedGroup:
+   stringTokens: ["United Democratic Front", "UDF"] # A public organization protesting against apartheid. But is also related with conflicts.
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["Mass Democratic Movement", "MDM"]
+   wikidataQnode: ["Mass Democratic Movement"]
+   yearsActiveasArmedGroup: ["1973-1991"]
+  
+  BCMArmedGroup:
+   stringTokens: ["Black Consciousness Movement", "BCM"] 
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   associatedArmedGroup: ["SAYRCO", "South African Youth Revolutionary Council"]
+   wikidataQnode: ["Q880194"]
+   yearsActiveasArmedGroup: ["1960-present"]
+  
+  CotedaArmedGroup:
+   stringTokens: ["Cape Organisation for the Democratic Taxi Association", "Coteda", "Congress of Democratic Taxi Association(s)"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q110800315"]
+   yearsActiveasArmedGroup: ["1993-present"]
+  
+  CATAArmedGroup:
+   stringTokens: ["Cape Amalgamated Taxi Association", "CATA"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q110800315"]
+   yearsActiveasArmedGroup: []
+  
+  WebtaArmedGroup:
+   stringTokens: ["Western Cape Black Taxi Association", "Webta"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q110800315"]
+   yearsActiveasArmedGroup: []
+  
+  LagunyaArmedGroup:
+   stringTokens: ["Langa, Guguletu and Nyanga Taxi Association", "Lagunya"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q110800315"]
+   yearsActiveasArmedGroup: [""]
+  
+  NUMArmedGroup:
+   stringTokens: ["National Union of Mineworkers", "NUM"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q2485877"]
+   yearsActiveasArmedGroup: ["1982-present"]
