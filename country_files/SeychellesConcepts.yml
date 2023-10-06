@@ -1,0 +1,54 @@
+concepts:
+   SeychellesSecurityForces:
+     stringTokens: ["Seychelles People's Defence Force", "Military of Seychelles", "SPDF"]
+     wikidataQnode: ["Q3658209"]
+  
+  ## ethnicgroups
+   SeychelloisEthnicGroup:
+     stringTokens: ["Seychellois Creole people", "Seychellois Creole", "Seychellese Creole"]
+     wikidataQnode: ["Q4413201"]
+     languagesMostSpoken: ["Seychellois Creole"]
+     religionsMostPracticed: ["Christians"]
+     livesIn: 
+
+   Indo-SeychelloisEthnicGroup:
+     stringTokens: ["Indo-Seychellois", "Indo-Seychellois people"]
+     wikidataQnode: ["Q6025558"]
+     languagesMostSpoken: ["Seselwa Creole French"]
+     religionsMostPracticed: ["Hinduism"]
+     livesIn: ["Island of Mahe", "Praslin", "La Diguemall"]
+
+   Sino-SeychelloisEthnicGroup:
+     stringTokens: ["Sino-Seychellois", "Sino-Seychellois people"]
+     wikidataQnode: ["Q4919859"]
+     languagesMostSpoken: ["Seychellois Creole", "Mandarin"]
+     religionsMostPracticed: ["Roman Catholicism"]
+     livesIn: 
+ 
+  ## politicalparties
+   SNPParty:
+     stringTokens: ["Seychelles National Party", "SNP"]
+     wikidataQnode: ["Q1253973"]
+     yearsActiveasParty: ["1994-present"] 
+
+   USPParty:
+     stringTokens: ["United Seychelles", "Seychelles People's Progressive Front", "People's Party", "United Seychelles Party"]
+     wikidataQnode: ["Q206395"]
+     yearsActiveasParty: ["1964-present"]
+
+   SDPParty:
+     stringTokens: ["Seychelles Democratic Party"]
+     wikidataQnode: ["Q1266507"]
+     yearsActiveasParty: ["1964-present"]
+
+   LDSParty:
+     stringTokens: ["Linyon Demokratik Seselwa", "Seychellois Democratic Alliance/Union"]
+     wikidataQnode: ["Q48797479"]
+     yearsActiveasParty: ["2016-present"]
+
+   SAParty:
+     stringTokens: ["Seychellois Alliance"]
+     wikidataQnode: ["Q55641731"]
+     yearsActiveasParty: ["2015-2021"]
+
+  
