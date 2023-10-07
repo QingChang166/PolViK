@@ -1,0 +1,10 @@
+relations:
+  - (officialStateSecurityForces, SeychellesSecurityForces)
+  - (EthnicGroup, SeychelloisEthnicGroup)
+  - (EthnicGroup, Indo-SeychelloisEthnicGroup)
+  - (EthnicGroup, Sino-SeychelloisEthnicGroup)
+  - (Party, SNPParty)
+  - (Party, USPParty)
+  - (Party, SDPParty)
+  - (Party, LDSParty)
+  - (Party, SAParty)
