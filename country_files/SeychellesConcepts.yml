@@ -8,21 +8,21 @@ concepts:
      stringTokens: ["Seychellois Creole people", "Seychellois Creole", "Seychellese Creole"]
      wikidataQnode: ["Q4413201"]
      languagesMostSpoken: ["Seychellois Creole"]
-     religionsMostPracticed: ["Christians"]
+     religionsMostPracticed: ["Christianity"]
      livesIn: 
 
    Indo-SeychelloisEthnicGroup:
      stringTokens: ["Indo-Seychellois", "Indo-Seychellois people"]
      wikidataQnode: ["Q6025558"]
      languagesMostSpoken: ["Seselwa Creole French"]
-     religionsMostPracticed: ["Hinduism"]
+     religionsMostPracticed: ["Hindu"]
      livesIn: ["Island of Mahe", "Praslin", "La Diguemall"]
 
    Sino-SeychelloisEthnicGroup:
      stringTokens: ["Sino-Seychellois", "Sino-Seychellois people"]
      wikidataQnode: ["Q4919859"]
      languagesMostSpoken: ["Seychellois Creole", "Mandarin"]
-     religionsMostPracticed: ["Roman Catholicism"]
+     religionsMostPracticed: ["Roman Catholic"]
      livesIn: 
  
   ## politicalparties
