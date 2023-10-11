@@ -1,9 +1,51 @@
 concepts:
   NigerianSecurityForces:
-    stringTokens: ["Nigerian military", "Nigerian police", "Nigerian security forces"]
-  ##ethnic groups
-  igboEthnicGroup:
-    stringTokens: ["Igbo", "Igbo people"]
+   stringTokens: ["Nigerian Armed Forces", "Nigerian Army", "Nigerian Navy", "Nigerian Air Force", "NAF", "Nigerian police", "Nigeria Police Force", "NPF"]  ##aliases go here
+##ethnicgroups
+  IgboEthnicGroup:
+   stringTokens: ["Igbo", "Igbo people", "Ibo", "Ebo", "Eboe", "Heebo", "Iboe", "Eboeans"]  ##aliases
+   wikidataQnode: ["Q244157"]  #wikidata q node
+   languagesMostSpoken: ["Igbo"]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["Odinani", "Christianity"]  ##religions most practiced- can be blank
+   livesIn: ["Abia", "Anambra", "Ebonyi", "Enugu", "Imo", "Delta", "Rivers"]   ##administrative state  
+  HausaEthnicGroup:
+   stringTokens: ["Hausa", "Hausa people"]  ##aliases
+   wikidataQnode: ["Q192647"]  #wikidata q node
+   languagesMostSpoken: ["", "", ""]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["", ""]  ##religions most practiced- can be blank
+   livesIn: ["", ""]  places in country they live in, comment the geographic unit like ##administrative state  here
+     firstEthnicGroup:
+   stringTokens: ["", "", ""]  ##aliases
+   wikidataQnode: ["Q192647"]  #wikidata q node
+   languagesMostSpoken: ["", "", ""]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["", ""]  ##religions most practiced- can be blank
+   livesIn: ["", ""]  places in country they live in, comment the geographic unit like ##administrative state  here
+##politicalparties
+  FirstParty:
+   stringTokens: []
+   associatedEthnicGroup: []
+   geographicRepresentation: [""]  ##particular regions the group represents  ##can be blank
+   associatedReligion: [""]  ##can be blank
+   yearsActiveasEntity: [""]
+   yearsActiveasParty: [""]
+##armed groups
+  FirstArmedGroup:
+   stringTokens: []
+   associatedEthnicGroup: []
+   associatedReligion: []
+   regionsMostActive: []
+   yearsActiveasArmedGroup: []
+  FirstTransnationalArmedGroup:
+   stringTokens: []
+   originCountry: []
+   regionsMostActive: []
+   associatedReligion: []
+   associatedEthnicGroup: [] 
+   groupType: []  ##"religious", "cross border militia", "mercenary" , "independence"
+  
+
+
+
   hausaEthnicGroup:
     stringTokens: ["Hausa", "Hausa people"]
   fulaniEthnicGroup:
