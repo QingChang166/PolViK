@@ -9,60 +9,155 @@ concepts:
    religionsMostPracticed: ["Odinani", "Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Abia", "Anambra", "Ebonyi", "Enugu", "Imo", "Delta", "Rivers"]   ##administrative state  
   HausaEthnicGroup:
-   stringTokens: ["Hausa", "Hausa people"]  ##aliases
-   wikidataQnode: ["Q192647"]  #wikidata q node
-   languagesMostSpoken: ["", "", ""]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["", ""]  ##religions most practiced- can be blank
-   livesIn: ["", ""]  places in country they live in, comment the geographic unit like ##administrative state  here
-     firstEthnicGroup:
-   stringTokens: ["", "", ""]  ##aliases
-   wikidataQnode: ["Q192647"]  #wikidata q node
-   languagesMostSpoken: ["", "", ""]  ##languages most spoken-- can be blank
-   religionsMostPracticed: ["", ""]  ##religions most practiced- can be blank
-   livesIn: ["", ""]  places in country they live in, comment the geographic unit like ##administrative state  here
+   stringTokens: ["Hausa", "Hausa people", "Ausa", "Bahaushe", "Bahaushiya", "Hausawa", "Haussa", "Houssa", "Hausaawaa", "Housawa", "Hawsa", "Mgbakpa"]  ##aliases  Haoussa
+   wikidataQnode: ["Q33938"]  #wikidata q node
+   languagesMostSpoken: ["Hausa"]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["Islam"]  ##religions most practiced- can be blank
+   livesIn: ["Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Sokoto", "Zamfara", "Borno", "Bauchi", "Gombe", "Taraba", "Adamawa", "Plateau", "Yobe", "Nasarawa", "Niger"]  places in country they live in, comment the geographic unit like ##administrative state  here
+  FulaniEthnicGroup:
+   stringTokens: ["Fulani", "Fulani people", "Fulbe", "Peul", "Hilani", "Fallata", "Fellani", "Foulbe", "Ful", "Haalpulaar", "Peulh", "Pulaar", "Pullo",
+                  "Fullah", "Peuple", "Fula", "Fellata", "Filani", "Foula", "Fulfilde", "Pulo", "Foulah", "Fulah", "Fulahs", "Felata", "Fulfulde",
+                  "Felfede", "Futa", "Fula people" ]  ##aliases
+   wikidataQnode: ["Q202575"]  #wikidata q node
+   languagesMostSpoken: ["Fula"]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["Islam"]  ##religions most practiced- can be blank
+   livesIn: ["Gombe", "Sokoto", "Katsina", "Bauchi", "Kebbi", "Yobe", "Benue"]  places in country they live in, comment the geographic unit like ##administrative state  here
+  YorubaEthnicGroup:
+   stringTokens: ["Yoruba", "Yoruba people", "Joroeba", "Yariba", "Yooba", "Yorba", "Yorouba"]  ##aliases 
+   wikidataQnode: ["Q190168"]  #wikidata q node
+   languagesMostSpoken: ["Yoruba"]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["Yoruba"]  ##religions most practiced- can be blank
+   livesIn: ["Ekiti", "Lagos", "Ogun", "Ondo", "Osun", "Oyo", "Kwara", "Kogi", "Edo"]  
+ IjawEthnicGroup:
+   stringTokens: ["Ijaw", "Ijaw people", "Ijo", "Bonny", "Ibani", "Ijan", "Nembe", "Ubani"] 
+   wikidataQnode: ["Q528981"]  #wikidata q node
+   livesIn: ["Bayelsa", "Delta", "Rivers", "Edo", "Akwa Ibom"]  
+ TivEthnicGroup:
+   stringTokens: ["Tiv", "Tiv people", "Mbitse", "Mitshi", "Munchi", "Munshi", "Tivi", "Tiwi", "Munci", "Mba-tivi", "Michi", "Midsi", "Munsi"]  ##aliases
+   wikidataQnode: ["Q1235705"]  #wikidata q node
+   languagesMostSpoken: ["Tiv"]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["Christian"]  ##religions most practiced- can be blank
+   livesIn: ["Benue", "Plateau", "Taraba", "Nasarawa", "Cross River", "Adamwa", "Kaduna", "Abuja"]  
+ KanuriEthnicGroup:
+   stringTokens: ["Kanuri", "Kanuri people", "Aga", "Baribari", "Beriberi", "Bornu", "Kanouri", "Kanoury", "Manga"]  ##aliases 
+   wikidataQnode: ["Q572665"]  #wikidata q node
+   languagesMostSpoken: ["Kanuri"]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["Islam"]  ##religions most practiced- can be blank
+   livesIn: ["Borno", "Yobe", "Jigawa", "Gombe", "Bauchi"]  places in country they live in, comment the geographic unit like ##administrative state  here
+ IbibioEthnicGroup:
+   stringTokens: ["Ibibio", "Ibibio people", ""]  ##aliases
+   wikidataQnode: ["Q239577]  #wikidata q node
+   languagesMostSpoken: ["Ibibio"]  ##languages most spoken-- can be blank
+   livesIn: ["Cross River", "Akwa Ibom", "Abia"]  places in country they live in, comment the geographic unit like ##administrative state  here
+  NupeEthnicGroup:
+   stringTokens: ["Nupe", "Nupe people", "Bassa-Nge", "Ibara", "Nufawa", "Nupeci", "Nupecidji", "Nupenchi", "Nupencizi", "Abawa"]  ##aliases
+   wikidataQnode: ["Q1482397"]  #wikidata q node
+   languagesMostSpoken: ["Nupe"]  ##languages most spoken-- can be blank
+   religionsMostPracticed: ["Islam", "Christianity"]  ##religions most practiced- can be blank
+   livesIn: ["Niger", "Kwara", "Kogi", "Federal Capital Territory"]  places in country they live in, comment the geographic unit like ##administrative state  here
+  GwariEthnicGroup:
+   stringTokens: ["Gwari people", "Gwari", "Gbagyi", "Gbari", "Gwali"]  ##aliases
+   wikidataQnode: ["Q2568762"]  #wikidata q node
+   languagesMostSpoken: ["Gwari"]  ##languages most spoken-- can be blank
+   livesIn: ["Niger", "Kaduna", "Federal Capital Territory", "Nasarawa", "Kogi"]
 ##politicalparties
-  FirstParty:
-   stringTokens: []
-   associatedEthnicGroup: []
-   geographicRepresentation: [""]  ##particular regions the group represents  ##can be blank
-   associatedReligion: [""]  ##can be blank
-   yearsActiveasEntity: [""]
-   yearsActiveasParty: [""]
+  NPNParty:
+   stringTokens: ["National Party of Nigeria", "NPN"]
+   associatedEthnicGroup: ["HausaEthnicGroup", "FulaniEthnicGroup"]
+   associatedReligion: ["Islam"]  ##can be blank
+   yearsActiveasParty: ["1978-1988"]
+  UPNParty:
+   stringTokens: ["Unity Party of Nigeria", "UPN"]
+   associatedEthnicGroup: ["YorubaEthnicGroup"]
+   associatedReligion: ["Christian"]  ##can be blank
+   yearsActiveasParty: ["1978-1983"]
+ PRPParty:
+   stringTokens: ["People's Redemption Party", "PRP"]
+   associatedEthnicGroup: ["HausaEthnicGroup", "FulaniEthnicGroup"]
+   geographicRepresentation: ["Islam"]  ##particular regions the group represents  ##can be blank
+   yearsActiveasParty: ["1978-1988"]
+  SDPParty:
+   stringTokens: ["Social Democratic Party", "SDP"]
+   yearsActiveasParty: ["1989-1993"]
+  NRCParty:
+   stringTokens: ["National Republican Convention", "NRC"]
+   yearsActiveasParty: ["1989-1993"]
+  ANPPParty:
+   stringTokens: ["ANPP", "All Nigeria Peoples Party"]
+   yearsActiveasParty: ["1998-2013"]
+  PDPParty:
+   stringTokens: ["People's Democratic Party", "PDP"]
+   yearsActiveasParty: ["1998-present"]
+  ACNParty:
+   stringTokens: ["ACN", "AC", "Action Congress", "Action Congress of Nigeria"]
+   associatedEthnicGroup: ["YorubaEthnicGroup"]
+   associatedReligion: ["Christianity"]  ##can be blank
+   yearsActiveasParty: ["2006-2013"]
+  APCParty:
+   stringTokens: ["All Progressives Congress", "APC"]
+   yearsActiveasParty: ["2013-present"]
 ##armed groups
-  FirstArmedGroup:
-   stringTokens: []
-   associatedEthnicGroup: []
-   associatedReligion: []
-   regionsMostActive: []
-   yearsActiveasArmedGroup: []
-  FirstTransnationalArmedGroup:
-   stringTokens: []
-   originCountry: []
-   regionsMostActive: []
-   associatedReligion: []
-   associatedEthnicGroup: [] 
-   groupType: []  ##"religious", "cross border militia", "mercenary" , "independence"
-  
+  NDAArmedGroup:
+   stringTokens: ["Niger Delta Avengers", "NDA"]
+   regionsMostActive: ["Delta", "Bayelsa", "Rivers"]
+   yearsActiveasArmedGroup: ["2016- present"]
+  MENDArmedGroup:
+   stringTokens: ["Movement for the Emancipation of the Niger Delta", "MEND"]
+   regionsMostActive: ["Delta", "Rivers", "Bayelsa"]
+   yearsActiveasArmedGroup: ["2005-2015"]
+  FulaniMilitantArmedGroup:
+   stringTokens: ["Fulani Militant Groups", "Herdsmen militias"]
+   associatedEthnicGroup: ["FulaniEthnicGroup"]
+   associatedReligion: ["Islam"]
+   regionsMostActive: ["Benue", "Plateau", "Taraba"]
+   yearsActiveasArmedGroup: ["2010s- present"]
+  IPOBArmedGroup:
+   stringTokens: ["IPOB", "Indigenous People of Biafra", "ESN", "Eastern Security Network"]
+   associatedEthnicGroup: ["IgboEthnicGroup"]
+   yearsActiveasArmedGroup: ["2012-present"]
+  OPCArmedGroup:
+   stringTokens: ["OPC", "O'odua Peoples Congress"]
+   associatedEthnicGroup: ["YorubaEthnicGroup"]
+   yearsActiveasArmedGroup: ["1994- present"]
+  NDPVFArmedGroup:
+   stringTokens: ["Niger Delta People's Volunteer Force",  "NDPVF"]
+   regionsMostActive: ["Rivers"]
+   yearsActiveasArmedGroup: ["2004-present"]
+  APCArmedGroup:
+   stringTokens: ["Arewa People's Congress", "APC]
+   associatedEthnicGroup: ["HausaEthnicGroup", "FulaniEthnicGroup"]
+   yearsActiveasArmedGroup: ["1999-present"]
+  JRCArmedGroup:
+   stringTokens: ["JRC, "Joint Revolutionary Council"]
+   regionsMostActive: ["Rivers", "Delta", "Bayelsa"]
+   yearsActiveasArmedGroup: ["2000s- present"]
+  IMNArmedGroup:
+   stringTokens: ["Islamic Movement in Nigeria", "IMN"]
+   associatedReligion: ["Islam"]
+   regionsMostActive: ["Kaduna", "Kano", "Zaria"]
+   yearsActiveasArmedGroup: ["1970s-present"]
+  BakassiArmedGroup:
+   stringTokens: ["Bakassi Boys"]
+   associatedEthnicGroup: ["IgboEthnicGroup"]
+   regionsMostActive: ["Abia", "Anambra"]
+   yearsActiveasArmedGroup: ["1990s-2000s"]
+  BokoHaramTransnationalArmedGroup:
+   stringTokens: ["Boko Haram", "Islamic State's West Africa Province"]
+   originCountry: ["Nigeria"]
+   regionsMostActive: ["Borno", "Yobe", Adamwa"]
+   associatedReligion: ["Islam"]
+   associatedEthnicGroup: ["KanuriEthnicGroup"] 
+   groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
+  AnsaruTransnationalArmedGroup:
+   stringTokens: ["Ansaru", "Jama'atu Anasural Muslimina Fi Biladis Sudan", "Vanguards for the Protection of Muslims in Black Africa", "al-Qaeda in the Islamic Maghreb", "AQIM"]
+   originCountry: ["Algeria"]
+   regionsMostActive: ["Kano", "Kaduna", "Borno"]
+   associatedReligion: ["Islam"]
+   groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
 
 
 
-  hausaEthnicGroup:
-    stringTokens: ["Hausa", "Hausa people"]
-  fulaniEthnicGroup:
-    stringTokens: ["Fulani", "Fulani people"]
-  yorubaEthnicGroup:
-    stringTokens: ["Yoruba", "Yoruba people"]
-  ijawEthnicGroup:
-    stringTokens: ["Ijaw", "Ijaw people"]
-  tivEthnicGroup:
-    stringTokens: ["Tiv", "Tiv people"]
-  kanuriEthnicGroup:
-    stringTokens: ["Kanuri", "Kanuri people"]
-  ibibioEthnicGroup:
-    stringTokens: ["Ibibio", "Ibibio people"] 
-  nupeEthnicGroup:
-    stringTokens: ["Nupe", "Nupe people"]
-  gwariEthnicGroup:
-    stringTokens: ["Gwari", "Gwari people"]
-    ## political parties
-    ## armed groups 
+
+
+
+
