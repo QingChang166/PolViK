@@ -1,0 +1,157 @@
+concepts:
+  LethotoDefenceForces:
+    stringTokens: ["Lesotho Defence Force", "LDF"]
+    wikidataQnode:["Q6531326"]
+    
+###EthnicGroups:
+  SothoEthnicGroup:
+    stringTokens: ["South Sotho", "Southern Sotho speakers","Basuto", "Suthu","Souto", "Suto", "Basutos" "Sotho", "Basotho"]
+    wikidataQnode: ["Q577576"]
+    languagesMostSpoken: ["Sesotho", "IsiXhosa", "IsiZulu", "English", "Afrikaans"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    livesIn: [""]
+  
+  XhosaEthnicGroup:
+    stringTokens: ["Xhosa", "Xhosa people", "Xhosa-speaking people"]
+    wikidataQnode: ["Q207996"]
+    languagesMostSpoken: ["IsiXhosa", "Zulu", "Sesotho", "English", "Afrikaans"]
+    religionsMostPracticed: ["Traditional African religion", "Christianity"]
+    livesIn: [""]
+  
+   WhiteEthnicGroup:
+     stringTokens: ["White", "Afrikaners"]
+     wikidataQnode: ["Q16151362"]
+     languagesMostSpoken: ["Afrikaans", "English", "Greek", "Serbian"]
+     religionsMNostPracticed: ["Christianity", "Judaism"]
+     livesIn: [""]
+
+###PoliticalParties
+  ABCParty:
+   stringTokens: ["All Basotho Convention", "ABC", "Kobo-tata ea Basotho)"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q1346132"]
+   yearsActiveasParty: ["2006-present"]
+  
+  ADParty:
+   stringTokens: ["Alliance of Democrats", "AD", "Lekhotla la Kopano ea Sechaba", "Pele-Feela"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q30611875"]
+   yearsActiveasParty: ["2016-present"]
+  
+  BCPParty:
+   stringTokens: ["Basotho Congress Party", "Basutoland Congress Party", "BCP", "Basutoland African Congress"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q512488"]
+   yearsActiveasParty: ["1952-present"] # renamed BCP in 1957
+  
+  BNPParty:
+   stringTokens: ["Basotho National Party", "Basutoland National Party", "BNP"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q304032"]
+   yearsActiveasParty: ["1959-present"]
+  
+  DCParty:
+   stringTokens: ["Democratic Congress"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q1185836"]
+   yearsActiveasParty: ["2011-present"]
+  
+  LCDParty:
+   stringTokens: ["Lesotho Congress for Democracy", "LCD"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q939391"]
+   yearsActiveasParty: ["1997-present"]
+  
+  LPCParty:
+   stringTokens: ["Lesotho People's Congress", "LPC"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q19289142"]
+   yearsActiveasParty: ["2001-present"]
+  
+  LWPParty:
+   stringTokens: ["Lesotho Workers' Party", "LWP"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6531338"]
+   yearsActiveasParty: ["2002-present"]
+  
+  MFPParty:
+   stringTokens: ["Marematlou Freedom Party", "MFP"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q1314792"]
+   yearsActiveasParty: ["1962-present"]
+  
+  MTParty:
+   stringTokens: ["Marema-Tlou Party", "Marematlou Party"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q4868410"] # Qnode for 1965 Basutoland election
+   yearsActiveasParty: ["1965"]
+  
+  MMLParty:
+   stringTokens: ["Communist Party of Lesotho", "Mokhatio oa Makomonisi a Lesotho"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q4229906"]
+   yearsActiveasParty: ["1962-present"]
+  
+  MECParty:
+   stringTokens: ["Movement for Economic Change", "MEC", "Sethala sa Kholiso ea Moruo"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q30319081"]
+   yearsActiveasParty: ["2017-present"]
+  
+  NIPParty:
+   stringTokens: ["National Independent Party", "NIP"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6973497"]
+   yearsActiveasParty: ["1984-present"]
+  
+  PFDParty:
+   stringTokens: ["Popular Front for Democracy", "Khoeetsa ea Sechaba"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q2104299"]
+   yearsActiveasParty: ["1990-present"]
+  
+  RCLParty:
+   stringTokens: ["Reformed Congress of Lesotho", "RCL"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q20828842"]
+   yearsActiveasParty: ["2014-present"]
+  
+  RFPParty:
+   stringTokens: ["Revolution for Prosperity", "RFP", "Thalaboliba ea Ntlafatso"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q114562488"]
+   yearsActiveasParty: ["2022-present"]
+  
+  BAPParty:
+   stringTokens: ["Basotho Action Party", "BAP"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q114577239"]
+   yearsActiveasParty: ["2021-present"]
+  
+  SRParty:
+   stringTokens: ["Socialist Revolutionaries", "Socialist Revolutionay Party", "SR", "SRP", "Kanana Ea Basotho)"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q114594226"]
+   yearsActiveasParty: ["2017-present"]
+
+###ArmedGroups
+
+  LLAArmedGroup:
+   stringTokens: ["Lesotho Liberation Army", "LLA"] # associated with Azanian People's Liberation Army
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["Basutoland Congress Party"]
+   wikidataQnode: ["Q1820854"]
+   yearsActiveasArmedGroup: ["1974-1990"]
+  
+  # Pro-government militias:
+  
+  YLArmedGroup:
+   stringTokens: ["Youth League (Lesotho)", "Youth League"] # associated with Azanian People's Liberation Army
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["Basutho National Party"]
+   wikidataQnode: [""]
+   yearsActiveasArmedGroup: ["1984-1986"]
+  
+
+  
+  

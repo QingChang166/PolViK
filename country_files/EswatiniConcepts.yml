@@ -1,0 +1,238 @@
+concepts:
+  RoyalSwazilandDefenceForces:
+    stringTokens: ["Royal Swaziland Defence Force"]
+    wikidataQnode:["Q2076767"]
+    yearsActiveasDefenceForces: ["1968-1979"]
+    
+  UmbufoEswatiniDefenceForces:
+    stringTokens: ["Umbutfo Eswatini Defence Force", "UEDF", "Military of Swaziland"]
+    wikidataQnode:["Q2076767"]
+    yearsActiveasDefenceForces: ["1979-present"]
+
+###EthnicGroups:
+  SwaziEthnicGroup:
+    stringTokens: ["Swazi", "Swati", "Emaswati", "Liswati", "Amaswazi", "Isiswazi", "Ngwane", "Siswazi", "Tekela", "Tekeza"]
+    wikidataQnode: ["Q939691"]
+    languagesMostSpoken: ["Siswati", "English"]
+    religionsMostPracticed: ["Christianity", "Swazi religion"]
+    livesIn: [""]
+  
+  ZuluEthnicGroup:
+    stringTokens: ["Zulu people", "Zulu", "amaZulu", "Zulu manes", "Isizulu", "Kafirs", "Zulus", "Zunda"]
+    wikidataQnode: ["Q129962"]
+    languagesMostSpoken: ["Zulu", "Tsonga", "Sotho", "English", "IsiZulu"]
+    religionsMostPracticed: ["Christianity", "Zulu religion"]
+    livesIn: [""]
+  
+  TsongaEthnicGroup:
+    stringTokens: ["Tsonga people", "Tsonga", "Vatsonga", "Baronga", "Bathonga", "Nhlanganue", "Ronga", "Songa", "Thonga", "Tonga"]
+    wikidataQnode: ["Q902325"]
+    languagesMostSpoken: ["Xitsonga", "Tsonga", "Portuguese", "English"]
+    religionsMostPracticed: ["African traditional religion", "Christianity"]
+    livesIn: [""]
+  
+   AfrikanersEthnicGroup:
+     stringTokens: ["Afrikaners", "Afrikaner", "Afrikaner people", "Afrikander", "Boers"]
+     wikidataQnode: ["Q385799"]
+     languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
+     religionsMostPracticed: ["Calvinism", "Other Protestants", "Catholicism"]
+     livesIn: [""]
+
+   # Ethnic groups with population share less than 1% are omitted.
+
+###PoliticalParties
+  INMParty:
+   stringTokens: ["Imbokodvo National Movement", "INM"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6025175"]
+   yearsActiveasParty: ["1964-1973"]
+  
+  PUDEMOParty:
+   stringTokens: ["People's United Democratic Movement", "PUDEMO", "Insika Yenkhululeko Yemaswati"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q4992581"]
+   yearsActiveasParty: ["1983-present"]
+  
+  NNLCParty:
+   stringTokens: ["Ngwane National Liberatory Congress", "NNLC"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q8349833"]
+   yearsActiveasParty: ["1963-1973"] # split from SPP
+  
+  SPPParty:
+   stringTokens: ["Swaziland Progressive Party", "SPP"]
+   associatedEthnicGroup: [""] # Anti-racism
+   wikidataQnode: ["Q17108650"]
+   yearsActiveasParty: ["1960-1973"]
+  
+  USAParty:
+   stringTokens: ["United Swaziland Association", "USA"]
+   associatedEthnicGroup: ["Afrikaners", "White"] # White Supremacy
+   wikidataQnode: ["Q96412713"]
+   yearsActiveasParty: ["1963"]
+  
+  SWACOPAParty:
+   stringTokens: ["Swaziland Communist Party", "SWACOPA"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q943149"]
+   yearsActiveasParty: ["1994-?"]
+  
+  CPSParty:
+   stringTokens: ["Communist Party of Swaziland", "CPS"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q24833821"]
+   yearsActiveasParty: ["2011-present"]
+  
+  AUDPParty:
+   stringTokens: ["African United Democratic Party"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q98390702"]
+   yearsActiveasParty: ["2005-present"]
+  
+  SWADEPAParty:
+   stringTokens: ["Swazi Democratic Party", "SWADEPA", "Swazi Democratic Party"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q16948302"]
+   yearsActiveasParty: ["2011-present"]
+  
+  SSNMParty:
+   stringTokens: ["Sive Siyinqaba National Movement", "SSNM"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q98389907"]
+   yearsActiveasParty: ["2006-present"]
+  
+  EFFSWAParty:
+   stringTokens: ["Economic Freedom Fighters of Swaziland", "EFF", "EFF SWA"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q111915733"]
+   yearsActiveasParty: ["2020-present"]
+  
+  MPPParty:
+   stringTokens: ["Maxter Political Party"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  IPParty:
+   stringTokens: ["Inhlava Party"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""] # previously Inhlava Forum
+  
+  NGWASOREPParty:
+   stringTokens: ["Ngwane Socialist Revolutionary Party", "NGWASOREP"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  OMPParty:
+   stringTokens: ["Owen Murray Party"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  SWALIMOParty:
+   stringTokens: ["Swaziland Liberation Movement", "SWALIMO"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  SWANAFROParty:
+   stringTokens: ["Swaziland National Front", "SWANAFRO"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  SNPPParty:
+   stringTokens: ["Swaziland National Progressive Party", "SNPP"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  IPMParty:
+   stringTokens: ["Inhlava Political Movement"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  MNCParty:
+   stringTokens: ["Mbandzeni National Convention"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  SSPMParty:
+   stringTokens: ["Sive Siyinqaba, Sibahle Sinje Political Movement"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  SDFParty:
+   stringTokens: ["Swaziland Democratic Front"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  SIFParty:
+   stringTokens: ["Swaziland Independence Front"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  SUFParty:
+   stringTokens: ["Swaziland United Front"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+  
+  UMParty:
+   stringTokens: ["Umbane Movement"]
+   associatedEthnicGroup: [""]
+   wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
+   yearsActiveasParty: [""]
+
+###ArmedGroups
+  UPLAArmedGroup:
+   stringTokens: ["Umbane People's Liberation Army"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["PUDEMO"]
+   wikidataQnode: ["Q4992581"] # The qnode of PUDEMO
+   yearsActiveasArmedGroup: [""]
+  
+  SWAYOCOArmedGroup:
+   stringTokens: ["Swaziland Youth Congress", "SWAYOCO"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["PUDEMO"]
+   wikidataQnode: ["Q4992581"] # The qnode of PUDEMO
+   yearsActiveasArmedGroup: [""]
+  
+  RenamoArmedGroup:
+   stringTokens: ["Renamo", "Resistência Nacional Moçambicana", "Mozambican National Resistance", "MNR", "RNM", "Movimento Nacional da Resistência de Mocambique"]
+   associatedEthnicGroup: ["Shona", "Ndau"]
+   associatedPoliticalParty: [""]
+   wikidataQnode: ["Q1425821"]
+   yearsActive: ["1975-present"]
+  
+  MKArmedGroup:
+   stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
+   associatedEthnicGroup: []
+   associatedPoliticalParty: ["African National Congress", "ANC"]
+   wikidataQnode: ["Q1136236"]
+   yearsActiveasArmedGroup: ["1961-1993"]  # terrorist attack in 1984
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
