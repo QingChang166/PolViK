@@ -1,0 +1,185 @@
+concepts:
+   SecurityForces:
+     stringTokens: ["Army of National Development", "Comorian Armed Forces", "National Development Army", "military of Comoros", "Comoran military", "Comorian Security Force", "Comorian Defense Force"]
+     wikidataQnode: ["Q158692"]
+  
+  ## ethnicgroups
+   MwaliComorianEthnicGroup:
+     stringTokens: ["Mwali Comorian"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Comorian", "Mwali"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Mohéli", "Mwali Island", "Fomboni"]
+
+   NgazijaEthnicGroup:
+     stringTokens: ["Ngazija Comorian"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Comorian", "Ngazidja"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Moroni"]
+
+   NzwaniEthnicGroup:
+     stringTokens: ["Nzwani Comorian"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Nzwani Comorian"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Dindri"]
+   
+  ## politicalparties
+   CRCParty:
+     stringTokens: ["Convention for the Renewal of the Comoros", "CRC"]
+     wikidataQnode: ["Q5166253"]
+     yearsActiveasParty: ["2002-present"]
+
+   RDRParty:
+     stringTokens: ["Rally for Democracy and Renewal", "RDR"]
+     wikidataQnode: ["Q20982213"]
+     yearsActiveasParty: ["1993-1996"]
+
+   NRDParty:
+     stringTokens: ["National Rally for Development"]
+     wikidataQnode: ["Q20982190"]
+     yearsActiveasParty: ["1996-1996"]
+
+   OPParty:
+     stringTokens: ["Orange Party"]
+     wikidataQnode: ["Q106866436"] 
+     yearsActiveasParty: [""]
+
+   JPParty:
+     stringTokens: ["Juwa Party"]
+     wikidataQnode: ["Q20982167"]
+     yearsActiveasParty: ["2013-present"]
+
+   UPDCParty:
+     stringTokens: ["Union for the Development of the Comoros"]
+     wikidataQnode:  ["Q20982223"]
+     yearsActiveasParty: ["2013-present"]
+
+   RDCParty:
+     stringTokens: ["Democratic Rally of the Comoros"]
+     wikidataQnode: ["Q20982157"]
+     yearsActiveasParty: ["2013-present"]
+
+   RADHIParty:
+     stringTokens: ["Rally for an Alternative of Harmonious and Integrated Development"]
+     wikidataQnode: ["Q20982212"]
+     yearsActiveasParty: [""]
+
+   PECParty:
+     stringTokens: ["Party for the Comorian Agreement"]
+     wikidataQnode: ["Q20982205"]
+     yearsActiveasParty: [""]
+
+   UCPParty:
+     stringTokens: ["Comorian Union for Progress"]
+     wikidataQnode: ["Q5155192"]
+     yearsActiveasParty: ["1982-1996"]
+
+   CHUMAParty:
+     stringTokens: ["Islands' Fraternity and Unity Party"]
+     wikidataQnode: ["Q20982166"]
+     yearsActiveasParty: ["1980-present"]
+
+   FNJParty:
+     stringTokens: ["National Front for Justice", "FNJ"]
+     wikidataQnode: ["Q20982189"]
+     yearsActiveasParty: [""]
+
+   CdlAParty:
+     stringTokens: ["Camp of the Autonomous Islands"]
+     wikidataQnode: ["Q5027716"]
+     yearsActiveasParty: [""]
+
+   CDUParty:
+     stringTokens: ["Comorian Democratic Union"]
+     wikidataQnode: ["Q16681998"]
+     yearsActiveasParty: ["1968-present"]
+
+   PCDPParty:
+     stringTokens: ["Comorian Party for Democracy and Progress", "PCDP"]
+     wikidataQnode: ["Q20982153"]
+     yearsActiveasParty: [""]
+
+   FPCParty:
+     stringTokens: ["Comorian Popular Front", "FPC"]
+     wikidataQnode: ["Q19946139"]
+     yearsActiveasParty: [""]
+
+   FDCParty:
+     stringTokens: ["Democratic Front of the Comoros"]
+     wikidataQnode: ["Q20982156"]
+     yearsActiveasParty: [""]
+
+   RDPCParty:
+     stringTokens: ["Democratic Rally of the Comorian People", "RDPC"]
+     wikidataQnode: ["Q16672202"]
+     yearsActiveasParty: ["1968-present"]
+
+   DPAParty:
+     stringTokens: ["Dialogue Proposition Action", "DPA"]
+     wikidataQnode: ["Q19946090"]
+     yearsActiveasParty: [""]
+
+   MBParty:
+     stringTokens: ["Maecha Bora"]
+     wikidataQnode: ["Q20982176"] 
+     yearsActiveasParty: [""]
+
+   MDPParty:
+     stringTokens: ["Movement for Democracy and Progress", "People's Democratic Movement", "MDP"]
+     wikidataQnode: ["Q20982182"] 
+     yearsActiveasParty: [""]
+
+   MOURADParty:
+     stringTokens: ["Movement for Renewal and Democratic Action", "MOURAD"]
+     wikidataQnode: ["Q20982183"]
+     yearsActiveasParty: ["1990-present"]
+
+   MPCParty:
+     stringTokens: ["Movement for the Comoros", "MPC"]
+     wikidataQnode: ["Q6926708"]
+     yearsActiveasParty: ["1997-present"]
+
+   UNDCParty:
+     stringTokens: ["National Union for Democracy in the Comoros", "UNDC"]
+     wikidataQnode: ["Q20982191"]
+     yearsActiveasParty: [""]
+
+   NguzoParty:
+     stringTokens: ["Nguzo"]
+     wikidataQnode: ["Q20982193"]
+     yearsActiveasParty: [""]
+
+   PSNParty:
+     stringTokens: ["Party for National Salvation", "PSN"]
+     wikidataQnode: ["Q20982204"]
+     yearsActiveasParty: [""]
+
+   RACHADEParty:
+     stringTokens: ["Rally for Change and Democracy", "RACHADE"]
+     wikidataQnode: ["Q19946109"]
+     yearsActiveasParty: ["1991-present"]
+
+   UwezoParty:
+     stringTokens: ["Realising Freedom's Capability", "Uwezo"]
+     wikidataQnode: ["Q19946160"]
+     yearsActiveasParty: ["1984-present"]
+  
+   TwamayaParty:
+     stringTokens: ["Twamaya"]
+     wikidataQnode: ["Q20982218"]
+     yearsActiveasParty: [""]
+
+   UDDParty:
+     stringTokens: ["Union of Democrats for Development", "UDD"]
+     wikidataQnode: ["Q20656527"]
+     yearsActiveasParty: [""]
+
+  ## armed groups
+    APMArmedGroup:
+     stringTokens: ["Anjouan People's Movement"]
+     associatedEthnicGroup: ["Ngazija Comorian", "Nzwani Comorian"]
+     wikidataQnode: [""]
+  
+    
