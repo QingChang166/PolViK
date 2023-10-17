@@ -1,0 +1,277 @@
+concepts:
+  MauritiusPoliceForce:
+    stringTokens: ["Mauritius Police Force", "MPF", "military of Zimbabwe"]
+    wikidataQnode:["Q6793789"]
+
+###EthnicGroups:
+  HinduEthnicGroup:
+    stringTokens: ["Hindus", "follower of Hinduism", "Hindus", "Hindoo", "Hindoos", "adherent of Hinduism", "Hinduism adherent"]
+    wikidataQnode: ["Q10090"]
+    languagesMostSpoken: ["Hindi", "Creole", "Bhojpuri", "Tamil"]
+    religionsMostPracticed: ["Hinduism"]
+    livesIn: ["Flacq", "Grand Port", "Moka", "Plaines Wilhems", "Rivière du Rempart", "Savanne", "Rodrigues"]
+    
+  CreolesEthnicGroup:
+    stringTokens: ["Creole", "Crioulo", "Criollo", "Creolo", "Créole", "Kriolu", "Criol", "Kreyol", "Kreol", "Kriol", "Krio", "Kriyoyo", "Creoles", "Creole people", "Creole peoples"]
+    wikidataQnode: ["Q498640"]
+    languagesMostSpoken: ["Creole languages", "Creole", "French"]
+    religionsMostPracticed: ["Christianity", "Rastafari"]
+    livesIn: ["Port Louis", "Rivière Noire", "Pamplemousses"]
+  
+  MuslimsEthnicGroup:
+    stringTokens: ["Muslims", "Muslim people"]
+    wikidataQnode: ["Q47740"]
+    languagesMostSpoken: ["Creole", "Arabic", "Urdu"]
+    religionsMostPracticed: ["Islam", "Sunnis", "Sunni Shafia", "Shia", "Bohra"]
+    livesIn: ["Port Louis", "Rivière Noire", "Moka", "Pamplemousses", "Plaines Wilhems"]
+  
+  TamilEthnicGroup:
+    stringTokens: ["Tamil", "Tamils", "Tamil people", "Damulian", "Tamal", "Tamalsan", "Tambul", "Tamilans", "Tamilian", "Tamilians", "Tamilar", "Tamilarkar", "Tamili", "Tamizhar"]
+    wikidataQnode: ["Q173491"]
+    languagesMostSpoken: ["Tamil", "Creole", "English", "French"]
+    religionsMostPracticed: ["Hinduism", "Christianity"]
+    livesIn: ["Port Louis", "Moka", "Plaines Wilhems"]
+  
+  TelugusEthnicGroup:
+    stringTokens: ["Telugus", "Telugu people"]
+    wikidataQnode: ["Q418708"]
+    languagesMostSpoken: ["Telugu"]
+    religionsMostPracticed: ["Hinduism", "Christianity", "Islam", "Buddhism"]
+    livesIn: ["Port Louis"]
+  
+  MarathisEthnicGroup:
+    stringTokens: ["Marathi people", "Marathis"]
+    wikidataQnode: ["Q1265028"]
+    languagesMostSpoken: ["Marathi"]
+    religionsMostPracticed: ["Hinduism", "Christianity", "Islam", "Buddhism", "Jainism", "Judaism"]
+    livesIn: ["Port Louis"]
+  
+  FrancoMauritiansEthnicGroup:
+    stringTokens: ["Franco-Mauritians", "White"]
+    wikidataQnode: ["Q3082329"]
+    languagesMostSpoken: ["French", "Creole"]
+    religionsMostPracticed: ["Catholicism"]
+    livesIn: ["Port Louis", "Rivière Noire", "Moka", "Pamplemousses", "Plaines Wilhems"]
+  
+##PoliticalParties
+
+  AAParty:
+   stringTokens: ["Alliance de L'Avenir", "Alliance of Future"] # Alliance of Labour Party, MSM and PMSD
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q4732476"]
+   yearsActiveasParty: ["1983-1991, 2010-present"] 
+   
+  
+  ACParty:
+   stringTokens: ["Alliance du Coeur"] # Alliance of MMM, Union Nationale and Mouvement Mauricien Social Démocrate (MMSD)
+   associatedEthnicGroup: [] 
+   wikidataQnode: [""]
+   yearsActiveasParty: ["2010"] 
+  
+  MMMParty:
+   stringTokens: ["Mouvement Militant Mauricien", "MMM", "Mauritian Militant Movement"] # Youth wing: Militant Youth
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q3326727"]
+   yearsActiveasParty: ["1969-present"] 
+ 
+  MMMSPParty:
+   stringTokens: ["Mouvement Militant Mauricien Socialiste Progressiste", "MMMSP"] # split from MMM
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q97179704"]
+   yearsActiveasParty: ["1973-present"] 
+  
+  
+  FSMParty:
+   stringTokens: ["Mauritian Solidarity Front", "Front Solidarité Mauricien", "FSM", "Hizbullah"]
+   associatedEthnicGroup: ["Muslims"] 
+   wikidataQnode: ["Q15980710"]
+   yearsActiveasParty: ["1990-present"] 
+  
+  
+  IPParty:
+   stringTokens: ["Independence Party", "Parti de L'indépendance"] # An alliance of the Labour Party (Mauritius), Independent Forward Bloc (IFB) and Comité d'Action Musulman (CAM)
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q96382027"]
+   yearsActiveasParty: ["1966-1976"] 
+  
+  
+  IFBParty:
+   stringTokens: ["Independent Forward Bloc", "IFB"]
+   associatedEthnicGroup: ["Hindus", "Tamils", "Telugus", "Marathis"] 
+   wikidataQnode: ["Q96584891"]
+   yearsActiveasParty: ["1958-1970s"] 
+  
+  
+  CAMParty:
+   stringTokens: ["Muslim Committee of Action", "Comité d'Action Musulman", "Comité d'Action Mauricien", "CAM"]
+   associatedEthnicGroup: ["Muslims"] 
+   wikidataQnode: ["Q96146403"]
+   yearsActiveasParty: ["1959-1976"] 
+  
+ PTrParty:
+   stringTokens: ["Labour Party", "Parti Travailliste", "PTr", "PTR"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q3366796"]
+   yearsActiveasParty: ["1936-present"]
+   
+  ALParty:
+   stringTokens: ["L'Alliance Lepep", "Alliance Lepep"] # MSM-PMSD-ML coalition
+   associatedEthnicGroup: [] 
+   wikidataQnode: [""]
+   yearsActiveasParty: ["2014"]
+  
+  VertsParty:
+   stringTokens: ["The Greens", "Fraternal Greens", "Les Verts Fraternels", "Verts"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q7738242"]
+   yearsActiveasParty: ["2002-present"]
+  
+  ASParty:
+   stringTokens: ["Alliance Sociale"] # Alliance of the Mauritian Labour Party, Mauritian Party of Xavier-Luc Duval, The Greens, Republican Movement and the Mauritian Militant Socialist Movement.
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q1276379"]
+   yearsActiveasParty: ["2005"]
+  
+  MDNRDParty:
+   stringTokens: ["Mouvement Démocratique National Raj Dayal", "National Democratic Movement Raj Dayal"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: [""]
+   yearsActiveasParty: ["2000-2005"]
+  
+  MTDParty:
+   stringTokens: ["Mouvement des Travaillistes Democrates", "Democratic Labour Movement"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: [""]
+   yearsActiveasParty: ["1983-1991"]
+  
+  MRParty:
+   stringTokens: ["Republican Movement", "Mouvement Républicain"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q7314609"]
+   yearsActiveasParty: ["1990-present"]
+  
+  MMSMParty:
+   stringTokens: ["Mauritian Militant Socialist Movement", "MMSM", "Mouvement Militant Socialiste Mauricien"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q6793750"]
+   yearsActiveasParty: ["1995-2008"] # merged into MMM
+  
+  MSMMMMParty:
+   stringTokens: ["Mouvement Socialiste Militant — Mouvement Militant Mauricien", "Mouvement Socialiste Militant/Mouvement Militant Mauricien", "MSM/MMM", "Militiant Socialist Movement — Mauritian Militant Movement", "Militiant Socialist Movement/Mauritian Militant Movement"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q6717807"]
+   yearsActiveasParty: ["1991-2005"]
+  
+  RoderiguesParty:
+   stringTokens: ["Rodrigues Movement", "Mouvement rodriguais"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q7357460"]
+   yearsActiveasParty: ["1992-present"]
+  
+  MSMParty:
+   stringTokens: ["Militant Socialist Movement", "Mouvement Socialiste Militant", "MSM"] # split from MMM
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q6851928"]
+   yearsActiveasParty: ["1981-present"]
+  
+  OPRParty:
+   stringTokens: ["Rodrigues People's Organisation", "OPR","Organisation du Peuple Rodriguais"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q7357462"]
+   yearsActiveasParty: ["2000-present"]
+  
+  PANParty:
+   stringTokens: ["Parti Alliance Nationale", "National Alliance Party"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: [""]
+   yearsActiveasParty: ["1982"]
+  
+  PaGaDuParty:
+   stringTokens: ["Parti Gaetan Duval", "Gaetan Duval Party"] # split from PMSD
+   associatedEthnicGroup: ["Franco-Mauritian", "Creole"] 
+   wikidataQnode: ["Q3099909"]
+   yearsActiveasParty: ["1995"]
+  
+  PMSDParty:
+   stringTokens: ["Mauritian Social Democratic Party", "PMSD", "Parti Mauricien Social Démocrate", "Mauritian Conservative Party"]
+   associatedEthnicGroup: ["Franco-Mauritian", "Creole"] 
+   wikidataQnode: ["Q6793756"]
+   yearsActiveasParty: ["1955-present"]
+  
+  PMXDParty:
+   stringTokens: ["Parti Mauricien Xavier-Luc Duval", "PMXD", "Mauritian Party of Xavier-Luc Duval"] # split from PMSD
+   associatedEthnicGroup: ["Franco-Mauritian", "Creole"] 
+   wikidataQnode: ["Q6793751"]
+   yearsActiveasParty: ["1998-2009"]
+  
+  PSMParty:
+   stringTokens: ["Mauritian Socialist Party", "Parti Socialiste Mauricien", "PSM"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: ["Q104873600"]
+   yearsActiveasParty: ["1979-1983"] # merged into MSM
+  
+  RMParty:
+   stringTokens: ["Ralliement Mauricien"] # Later becomes PMSD
+   associatedEthnicGroup: ["Franco-Mauritian", "Creole"] 
+   wikidataQnode: ["Q104856877"]
+   yearsActiveasParty: ["1953-1965"]
+  
+  PTRMMMParty:
+   stringTokens: ["Parti Travailliste — Mouvement Militant Mauricien", "Parti Travailliste/Mouvement Militant Mauricien", "PTR/MMM", "The Labor Party — Mauritian Militant Movement", "The Labor Party/Mauritian Militant Movement"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: [""]
+   yearsActiveasParty: ["1995-2014"]
+  
+  
+  PTRPMSDParty:
+   stringTokens: ["Parti Travailliste — Parti Mauricien Social Democrate", "Parti Travailliste/Parti Mauricien Social Democrate", "PTR/PMSD", "Labour Party — Mauritian Social Democrat Party", "Labour Party/Mauritian Social Democrat Party"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: [""]
+   yearsActiveasParty: ["1991"]
+  
+  PTRPMXDParty:
+   stringTokens: ["Parti Travailliste — Parti Mauricien Xavier-Luc Duval", "Parti Travailliste/Parti Mauricien Xavier-Luc Duval", "PTR/PMXD", "Labour Party — Mauritian Party of Xavier-Luc Duval", "Labour Party/Mauritian Party of Xavier-Luc Duval"]
+   associatedEthnicGroup: [] 
+   wikidataQnode: [""]
+   yearsActiveasParty: ["2000"] 
+  
+###ArmedGroups
+  
+  # I found no records of the armed groups' activities in Mauritius.
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
