@@ -9,63 +9,70 @@ concepts:
     wikidataQnode: ["Q810917"]
     languagesMostSpoken: ["Tswana", "Setswana", "English", "Afrikaans", "Nama"]
     religionsMostPracticed: ["Christianity", "African traditional religion"]
-    livesIn: [""]
+    livesIn: ["North West", "Chobe", "Central", "Kweneng", "Southern", "North East", "Kgatleng", "South East", "Southern", "Gaborone", "Jwaneng", "Lobatse", "Selibe Phikwe", "Orapa", "Sowa Town", "Francistown"]
   
   KalangaEthnicGroup:
     stringTokens: ["Kalanga", "BaKalanga", "Bakalaka"]
     wikidataQnode: ["Q1193813"]
     languagesMostSpoken: ["TjiKalanga", "Shona languages", "Xitsonga", "TshiVenda language"]
-    religionsMostPracticed: ["Christianity", "African traditional religion"]
-    livesIn: [""]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    livesIn: ["North West", "North East", "Central", "Francistown", "Sowa Town", "Selibe Phikwe"]
   
   KgalagadiEthnicGroup:
     stringTokens: ["Kgalagadi people", "Kgalagadi", "Bakgalagadi"]
     wikidataQnode: ["Q122166535"]
     languagesMostSpoken: ["Kgalagadi", "Tswana", "English"]
     religionsMostPracticed: ["Christianity", "African traditional religion"]
-    livesIn: ["Gantsi", "Kgalagadi"]
+    livesIn: ["Ganzi", "Kgalagadi"]
   
   SanEthnicGroup:
     stringTokens: ["San people", "Saan", "Bushmen", "Basarwa", "Sarwa", "Bosjesmans"]
     wikidataQnode: ["Q172365"]
     languagesMostSpoken: ["Khoisan", "Khoe", "Tuu", "Kxʼa", "English", "Portuguese"]
     religionsMostPracticed: ["San religion", "Christianity"]
-    livesIn: [""]
+    livesIn: ["Kgalagadi"]
   
   HereroEthnicGroup:
     stringTokens: ["Herero people", "Herero", "Hereros", "Ovaherero"]
     wikidataQnode: ["Q170088"]
     languagesMostSpoken: ["Herero", "Otjiherero"]
     religionsMostPracticed: ["Christianity", "African traditional religion"]
-    livesIn: [""]
+    livesIn: ["North West", "Ganzi", "Orapa", "Central"]
   
   MbanderuEthnicGroup:
     stringTokens: ["Mbanderu people", "Ovambanderu", "Mbandieru"]
     wikidataQnode: ["Q17072693"]
     languagesMostSpoken: ["Herero", "Otjiherero"]
     religionsMostPracticed: ["African Traditional Religion", "Christianity", "Oupwee"]
-    livesIn: [""]
+    livesIn: ["North West", "Ghanzi"]
   
   YeyiEthnicGroup:
     stringTokens: ["Yeyi people", "Bayei", "Koba", "Mayeyi", "Yeei", "Yei", "Yeye"]
     wikidataQnode: ["Q4205797"]
     languagesMostSpoken: ["ShiYeyi"]
     religionsMostPracticed: ["African Traditional Religion", "Christianity"]
-    livesIn: [""]
+    livesIn: ["North West", "Central"]
+  
+  ShonaEthnicGroup:
+    stringTokens: ["Shona", "Shona people", "Mashona", "Maswina", "Makalaka", "Makalanga", "Makaranga", "Zezuru"]
+    wikidataQnode: ["Q642613"]
+    languagesMostSpoken: ["Shona", "English", "Bantu", "chiShona"]
+    religionsMostPracticed: ["Christianity", "Shona traditional religion"]
+    livesIn: ["North West", "Central"]
   
   MbukushuEthnicGroup:
     stringTokens: ["Mbukushu people", "Mbukushu"]
     wikidataQnode: ["Q16882745"]
     languagesMostSpoken: ["Mbukushu", "Thimbukushu"]
     religionsMostPracticed: ["Christianity", "African traditional religion"]
-    livesIn: [""]
+    livesIn: ["North West"]
   
   WhiteEthnicGroup:
     stringTokens: ["White", "Afrikaners"]
     wikidataQnode: ["Q16151362"]
     languagesMostSpoken: ["Afrikaans", "English", "Greek", "Serbian"]
     religionsMNostPracticed: ["Christianity", "Judaism"]
-    livesIn: [""]
+    livesIn: ["Ghanzi", "Kagalagadi", "Kweneng"]
   
   # Ethnic groups with population share less than 1% are omitted.
 

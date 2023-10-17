@@ -14,7 +14,7 @@ concepts:
     stringTokens: ["Xhosa", "Xhosa people", "Xhosa-speaking people"]
     wikidataQnode: ["Q207996"]
     languagesMostSpoken: ["IsiXhosa", "Zulu", "Sesotho", "English", "Afrikaans"]
-    religionsMostPracticed: ["African traditional religion", "Christianity"]
+    religionsMostPracticed: ["Traditional African religion", "Christianity"]
     livesIn: ["Eastern Cape", "Northern Cape", "Free State", "KwaZulu-Natal"]
   
   ZuluEthnicGroup:
@@ -35,7 +35,7 @@ concepts:
     stringTokens: ["Afrikaners", "Afrikaner", "Afrikaner people", "Afrikander", "Boers"]
     wikidataQnode: ["Q385799"]
     languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
-    religionsMostPracticed: ["Calvinism", "Protestants", "Catholicism"]
+    religionsMostPracticed: ["Calvinism", "Other Protestants", "Catholicism"]
     livesIn: ["Western Cape", "Eastern Cape", "Nothern Cape", "Gauteng", "Free State", "Mpumalanga"]
   
   ColouredsEthnicGroup:
@@ -84,7 +84,7 @@ concepts:
     stringTokens: ["Asians", "Indians", "Indian South Africans"]
     wikidataQnode: ["Q4120990"]
     languagesMostSpoken: ["languages of the Indian subcontinent", "English" "Afrikaans"]
-    religionsMostPracticed: ["Hindu", "Islam", "Christianity", "Sikhism", "Jainism", "Zoroastrianism"]
+    religionsMostPracticed: ["Hinduism", "Islam", "Christianity", "Sikhism", "Jainism", "Zoroastrianism"]
     livesIn: ["Gauteng", "KwaZulu-Natal", "Western Cape", "Eastern Cape"]
   
   ChineseEthnicGroup:
@@ -105,14 +105,14 @@ concepts:
     stringTokens: ["Venda people", "Venda", "Tswetla", " Venḓa", "VhaVenḓa", "Vhangona", "Bavenda", "Bwenda"]
     wikidataQnode: ["Q1785209"]
     languagesMostSpoken: ["Tshi-Venda", "Venda language", "Bantu"]
-    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
     livesIn: ["Limpopo"]
     
   NdebeleEthnicGroup:
     stringTokens: ["Ndebele", "Southern Ndebele people", "amaNdebele", "Nguni"]
     wikidataQnode: ["Q1972827"]
     languagesMostSpoken: ["Southern Ndebele language", "siNdebele"]
-    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
     livesIn: ["Mpumalanga", "Limpopo"]
 
 ###PoliticalParties

@@ -9,21 +9,28 @@ concepts:
     wikidataQnode: ["Q577576"]
     languagesMostSpoken: ["Sesotho", "IsiXhosa", "IsiZulu", "English", "Afrikaans"]
     religionsMostPracticed: ["Christianity", "African traditional religion"]
-    livesIn: [""]
+    livesIn: ["Butha-Buthe", "Leribe", "Qacha's Nek", "Quthing", "Berea", "Maseru", "Mafeteng", "Mohale's Hoek", "Mokhotlong", "Thaba-Tseka"]
+  
+  ZuluEthnicGroup:
+    stringTokens: ["Zulu people", "Zulu", "amaZulu", "Zulu manes", "Isizulu", "Kafirs", "Zulus", "Zunda"]
+    wikidataQnode: ["Q129962"]
+    languagesMostSpoken: ["Zulu", "Tsonga", "Sotho", "English", "IsiZulu"]
+    religionsMostPracticed: ["Christianity", "Zulu religion"]
+    livesIn: ["Butha-Buthe", "Leribe"]
   
   XhosaEthnicGroup:
     stringTokens: ["Xhosa", "Xhosa people", "Xhosa-speaking people"]
     wikidataQnode: ["Q207996"]
     languagesMostSpoken: ["IsiXhosa", "Zulu", "Sesotho", "English", "Afrikaans"]
     religionsMostPracticed: ["Traditional African religion", "Christianity"]
-    livesIn: [""]
+    livesIn: ["Qacha's Nek", "Quthing"]
   
    WhiteEthnicGroup:
      stringTokens: ["White", "Afrikaners"]
      wikidataQnode: ["Q16151362"]
      languagesMostSpoken: ["Afrikaans", "English", "Greek", "Serbian"]
      religionsMNostPracticed: ["Christianity", "Judaism"]
-     livesIn: [""]
+     livesIn: ["Berea", "Maseru"]
 
 ###PoliticalParties
   ABCParty:
