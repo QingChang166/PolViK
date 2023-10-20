@@ -22,7 +22,7 @@ concepts:
     stringTokens: ["Xhosa", "Xhosa people", "Xhosa-speaking people"]
     wikidataQnode: ["Q207996"]
     languagesMostSpoken: ["IsiXhosa", "Zulu", "Sesotho", "English", "Afrikaans"]
-    religionsMostPracticed: ["Traditional African religion", "Christianity"]
+    religionsMostPracticed: ["African traditional religion", "Christianity"]
     livesIn: ["Qacha's Nek", "Quthing"]
   
    WhiteEthnicGroup:
