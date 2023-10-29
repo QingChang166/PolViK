@@ -85,4 +85,8 @@ concepts:
       stringTokens: ["Movement for the Salvation of Azawad", "MSA"]
       wikidataQnode: ["Q28498949"]
       livesIn: ["Azawad"]
+     mlfArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Katibat Macina", "Macina Liberation Front"]
+      wikidataQnode: ["Q20725919"]
+      livesIn: [""]
   
