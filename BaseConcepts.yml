@@ -568,80 +568,80 @@ DublaEthnicGroup:
     stringTokens: ("Dubla")
 DutchEthnicGroup:
     stringTokens: ("Dutch")
-Dutch Afro-CaribbeanEthnicGroup:
+DutchAfro-CaribbeanEthnicGroup:
     stringTokens: ("Dutch Afro-Caribbean")
 Dwe'eEthnicGroup:
     stringTokens: ("Dwe'e")
 DyulaEthnicGroup:
     stringTokens: ("Dyula")
-East Indian CatholicsEthnicGroup:
-    stringTokens: ("East Indian Catholics", "")
+EastIndianCatholicsEthnicGroup:
+    stringTokens: ("East Indian Catholics")
 EbiraEthnicGroup:
-    stringTokens: ("Ebira", "")
+    stringTokens: ("Ebira")
 EdoEthnicGroup:
     stringTokens: ("Edo", "Ika", "Emai")
 EfikEthnicGroup:
-    stringTokens: ("Efik", "")
+    stringTokens: ("Efik")
 EgyptiansEthnicGroup:
     stringTokens: ("Egyptians", "Sa'idi")
 EkariEthnicGroup:
-    stringTokens: ("Ekari", "")
+    stringTokens: ("Ekari")
 EkoiEthnicGroup:
-    stringTokens: ("Ekoi", "")
+    stringTokens: ("Ekoi")
 ElbegliEthnicGroup:
-    stringTokens: ("Elbegli", "")
+    stringTokens: ("Elbegli")
 EmberaEthnicGroup:
-    stringTokens: ("Embera", "")
+    stringTokens: ("Embera")
 EnglishEthnicGroup:
-    stringTokens: ("English", "")
+    stringTokens: ("English")
 ErzyasEthnicGroup:
     stringTokens: ("Erzyas", "Shoksha")
 EsanEthnicGroup:
-    stringTokens: ("Esan", "")
+    stringTokens: ("Esan")
 EstoniansEthnicGroup:
-    stringTokens: ("Estonians", "Setos", "Võros", "Hiiumaans", "Saaremaans", "Ludza Estonians", "Gauja Estonians", "with significant populations in Argentina", "Australia", "Canada", "Finland", "Georgia (including Abkhazia)", "the United States")
+    stringTokens: ("Estonians", "Setos", "Võros", "Hiiumaans", "Saaremaans", "Ludza Estonians", "Gauja Estonians")
 EvenksEthnicGroup:
     stringTokens: ("Evenks", "Negidals")
 EvensEthnicGroup:
-    stringTokens: ("Evens", "")
+    stringTokens: ("Evens")
 EweEthnicGroup:
     stringTokens: ("Ewe", "Anlo Ewe", "Waci")
 Falkland IslandersEthnicGroup:
-    stringTokens: ("Falkland Islanders", "")
+    stringTokens: ("Falkland Islanders")
 FangEthnicGroup:
-    stringTokens: ("Fang", "")
+    stringTokens: ("Fang")
 Faroe IslandersEthnicGroup:
-    stringTokens: ("Faroe Islanders", "")
+    stringTokens: ("Faroe Islanders")
 FijiansEthnicGroup:
     stringTokens: ("Fijians", "Fijian Americans", "Fijian Australians", "Fijian British")
 Finnish TatarsEthnicGroup:
-    stringTokens: ("Finnish Tatars", "")
+    stringTokens: ("Finnish Tatars")
 FinnsEthnicGroup:
-    stringTokens: ("Finns", "Forest Finns", "Tornedalians", "Ingrian Finns (including Siberian Finns)", "Savonians", "Tavastians", "Finns proper", "Ostrobothnians", "Finnish Karelians", "Finland Swedes", "Kainuu", "and Murmansk Finns", "along with significant populations in Sweden", "Switzerland", "Australia", "United States (including Findians)", "Argentina", "and Canada (including Findians).")
+    stringTokens: ("Finns", "Forest Finns", "Tornedalians", "Ingrian Finns", "Siberian Finns", "Savonians", "Tavastians", "Finns proper", "Ostrobothnians", "Finnish Karelians", "Finland Swedes", "Kainuu", "Murmansk Finns")
 FipaEthnicGroup:
-    stringTokens: ("Fipa", "")
+    stringTokens: ("Fipa")
 FlemingsEthnicGroup:
-    stringTokens: ("Flemings", "")
+    stringTokens: ("Flemings")
 FonEthnicGroup:
-    stringTokens: ("Fon", "")
+    stringTokens: ("Fon")
 FrenchEthnicGroup:
-    stringTokens: ("French", "")
-French Afro-CaribbeanEthnicGroup:
+    stringTokens: ("French")
+FrenchAfro-CaribbeanEthnicGroup:
     stringTokens: ("French Afro-Caribbean", "Guadeloupeans", "Martinicans", "Saint-Martinois", "Barthelemois", "Afro-French Guianans", "Dominicans", "Haitians", "Saint Lucians")
-French CanadiansEthnicGroup:
-    stringTokens: ("French Canadians", "Quebecois", "Acadians (including Chiac)", "Franco-Terreneuvians", "Franco-Ontariens", "Franco-Manitobains", "Fransaskois", "Franco-Albertains", "Franco-Colombiens", "Franco-Yukonnais", "Franco-Tenois", "Franco-Nunavois", "Brayons", "Muskrat French", "French-Canadian Americans")
-French LouisianiansEthnicGroup:
-    stringTokens: ("French Louisianians", "Louisiana Creoles (including Cajuns and Creoles of color)", "Alabama Creoles (including Alabama Cajuns)", "and Missouri French")
+FrenchCanadiansEthnicGroup:
+    stringTokens: ("French Canadians", "Quebecois", "Acadians", "Chiac", "Franco-Terreneuvians", "Franco-Ontariens", "Franco-Manitobains", "Fransaskois", "Franco-Albertains", "Franco-Colombiens", "Franco-Yukonnais", "Franco-Tenois", "Franco-Nunavois", "Brayons", "Muskrat French", "French-Canadian Americans")
+FrenchLouisianiansEthnicGroup:
+    stringTokens: ("French Louisianians", "Louisiana Creoles", "Alabama Creoles", "Alabama Cajuns", "Missouri French")
 FrisiansEthnicGroup:
-    stringTokens: ("Frisians", "Westlauwers Frisians", "East Frisians", "North Frisians", "Saterland Frisians", "with significant populations in the United States")
+    stringTokens: ("Frisians", "Westlauwers Frisians", "East Frisians", "North Frisians", "Saterland Frisians")
 FriuliansEthnicGroup:
-    stringTokens: ("Friulians", "")
+    stringTokens: ("Friulians")
 FulaEthnicGroup:
     stringTokens: ("Fula", "Wodaabe", "Maasina Fulfulde")
 FurEthnicGroup:
-    stringTokens: ("Fur", "")
+    stringTokens: ("Fur")
 Fuyu KyrgyzEthnicGroup:
-    stringTokens: ("Fuyu Kyrgyz", "")
+    stringTokens: ("Fuyu Kyrgyz")
 Ga-AdangbeEthnicGroup:
     stringTokens: ("Ga-Adangbe", "Ga", "Adangbe")
 GabrieleñosEthnicGroup:
