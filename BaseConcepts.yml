@@ -1035,95 +1035,95 @@ KwintiEthnicGroup:
 KyrgyzEthnicGroup:
     stringTokens: ("Kyrgyz", "Significant populations in Turkey")
 LaksEthnicGroup:
-    stringTokens: ("Laks", "")
+    stringTokens: ("Laks")
 LamaholotEthnicGroup:
-    stringTokens: ("Lamaholot", "")
+    stringTokens: ("Lamaholot")
 LampungsEthnicGroup:
-    stringTokens: ("Lampungs", "")
+    stringTokens: ("Lampungs")
 LaniEthnicGroup:
-    stringTokens: ("Lani", "")
+    stringTokens: ("Lani")
 LaoEthnicGroup:
-    stringTokens: ("Lao", "")
+    stringTokens: ("Lao")
 LarrakiaEthnicGroup:
-    stringTokens: ("Larrakia", "")
+    stringTokens: ("Larrakia")
 LatviansEthnicGroup:
     stringTokens: ("Latvians", "Latgalians", "Kursenieki", "Selonians")
 LazEthnicGroup:
     stringTokens: ("Laz", "Turkish Laz", "Georgian Laz")
 LegaEthnicGroup:
-    stringTokens: ("Lega", "")
+    stringTokens: ("Lega")
 LembaEthnicGroup:
-    stringTokens: ("Lemba", "")
+    stringTokens: ("Lemba")
 LenapeEthnicGroup:
-    stringTokens: ("Lenape", "Munsee (including Christian Munsee (including Delaware Nation at Moraviantown)", "Stockbridge Munsee", "Munsee-Delaware Nation)", "Delaware Nation", "Delaware Tribe of Indians", "Lenape Indian Tribe of Delaware", "Delaware of Six Nations", "Nanticoke Lenni-Lenape", "Ramapough Mountain Indians")
+    stringTokens: ("Lenape", "Munsee", "Stockbridge Munsee", "Munsee-Delaware Nation)", "Delaware Nation", "Delaware Tribe of Indians", "Lenape Indian Tribe of Delaware", "Delaware of Six Nations", "Nanticoke Lenni-Lenape", "Ramapough Mountain Indians")
 LencaEthnicGroup:
-    stringTokens: ("Lenca", "")
+    stringTokens: ("Lenca")
 LezginsEthnicGroup:
-    stringTokens: ("Lezgins", "")
+    stringTokens: ("Lezgins")
 LhobaEthnicGroup:
     stringTokens: ("Lhoba", "Nishi", "Na", "Galo", "Mishmi people", "Tagin", "Adi")
 LhotshampaEthnicGroup:
-    stringTokens: ("Lhotshampa", "")
+    stringTokens: ("Lhotshampa")
 LiEthnicGroup:
-    stringTokens: ("Li", "")
+    stringTokens: ("Li")
 LimbaEthnicGroup:
-    stringTokens: ("Limba", "")
+    stringTokens: ("Limba")
 Lipka TatarsEthnicGroup:
-    stringTokens: ("Lipka Tatars", "")
+    stringTokens: ("Lipka Tatars")
 LisuEthnicGroup:
     stringTokens: ("Lisu", "Lipo")
 LithuaniansEthnicGroup:
-    stringTokens: ("Lithuanians", "Samogitians", "Aukstaitians", "Lietuvninkai", "along with significant populations in the United States", "Canada", "Brazil", "Poland and the United Kingdom")
+    stringTokens: ("Lithuanians", "Samogitians", "Aukstaitians", "Lietuvninkai")
 LivoniansEthnicGroup:
-    stringTokens: ("Livonians", "")
+    stringTokens: ("Livonians")
 LombardsEthnicGroup:
     stringTokens: ("Lombards", "Lombards of Sicily")
 LubaEthnicGroup:
-    stringTokens: ("Luba", "Luba-Kasai", "Luba-Katanga", "Hemba (including Bangubangu)", "Songe", "Lulua")
+    stringTokens: ("Luba", "Luba-Kasai", "Luba-Katanga", "Hemba", "Bangubangu", "Songe", "Lulua")
 LuhyaEthnicGroup:
-    stringTokens: ("Luhya", "Bukusu", "Idakho", "Isukha", "Kabras", "Khayo", "Kisa", "Marachi", "Maragoli", "Marama", "Nyole", "Samia", "Tachoni", "Tiriki", "Tsotso", "Wanga", "")
+    stringTokens: ("Luhya", "Bukusu", "Idakho", "Isukha", "Kabras", "Khayo", "Kisa", "Marachi", "Maragoli", "Marama", "Nyole", "Samia", "Tachoni", "Tiriki", "Tsotso", "Wanga")
 LumbeeEthnicGroup:
-    stringTokens: ("Lumbee", "")
+    stringTokens: ("Lumbee")
 LuoEthnicGroup:
-    stringTokens: ("Luo", "")
+    stringTokens: ("Luo")
 LursEthnicGroup:
     stringTokens: ("Lurs", "Bakhtiari", "Iranian Laks")
 LuritjaEthnicGroup:
-    stringTokens: ("Luritja", "")
+    stringTokens: ("Luritja")
 LuxembourgersEthnicGroup:
-    stringTokens: ("Luxembourgers", "Significant populations in Brazil and the United States")
+    stringTokens: ("Luxembourgers")
 MaasaiEthnicGroup:
     stringTokens: ("Maasai", "Samburu", "Arusha", "Kwavi")
 MacaneseEthnicGroup:
-    stringTokens: ("Macanese", "")
+    stringTokens: ("Macanese")
 MacedoniansEthnicGroup:
-    stringTokens: ("Macedonians", "Torbesh", "Mijaks", "Brsjaks", "along with significant populations in Australia", "Germany", "Italy", "Switzerland and Greece")
+    stringTokens: ("Macedonians", "Torbesh", "Mijaks", "Brsjaks")
 MacushiEthnicGroup:
-    stringTokens: ("Macushi", "")
+    stringTokens: ("Macushi")
 MadiEthnicGroup:
-    stringTokens: ("Madi", "")
+    stringTokens: ("Madi")
 MadureseEthnicGroup:
     stringTokens: ("Madurese", "Boyanese")
 MafaEthnicGroup:
-    stringTokens: ("Mafa", "")
+    stringTokens: ("Mafa")
 MagahiEthnicGroup:
-    stringTokens: ("Magahi", "")
+    stringTokens: ("Magahi")
 MagarsEthnicGroup:
     stringTokens: ("Magars", "Ale", "Gharti", "Chantayal", "Saru", "Pun")
 MaguindanaoEthnicGroup:
-    stringTokens: ("Maguindanao", "")
+    stringTokens: ("Maguindanao")
 MaharEthnicGroup:
-    stringTokens: ("Mahar", "")
+    stringTokens: ("Mahar")
 MaithilsEthnicGroup:
     stringTokens: ("Maithils", "Karan Kayastha", "Brahmin", "Chhetri", "Vaisya")
 MakaaEthnicGroup:
     stringTokens: ("Makaa", "South Makaa", "North Makaa")
 MakahEthnicGroup:
-    stringTokens: ("Makah", "")
+    stringTokens: ("Makah")
 MakassareseEthnicGroup:
-    stringTokens: ("Makassarese", "")
-Makianese [id]EthnicGroup:
-    stringTokens: ("Makianese [id]", "Tabayama", "Jitinee")
+    stringTokens: ("Makassarese")
+MakianeseEthnicGroup:
+    stringTokens: ("Makianese", "Tabayama", "Jitinee")
 MakondeEthnicGroup:
     stringTokens: ("Makonde", "Machinga")
 MakuaEthnicGroup:
@@ -1131,61 +1131,61 @@ MakuaEthnicGroup:
 MalagasyEthnicGroup:
     stringTokens: ("Malagasy", "Merina", "Sihanaka", "Betsileo", "Zafimaniry", "Antaifasy", "Antemoro", "Antaisaka", "Antambahoaka", "Tandroy", "Antankarana", "Antanosy", "Bara", "Betsimisaraka", "Bezanozano", "Mahafaly", "Makoa", "Mikea", "Sakalava", "Tanala", "Tsimihety", "Vezo")
 MalayaliEthnicGroup:
-    stringTokens: ("Malayali", "Ambalavasi", "Dheevara", "Nair", "Paravar", "Mappilas", "Ezhava", "Latheen Mappilas", "St. Thomas Christians along with significant populations in the United Arab Emirates", "Saudi Arabia", "Oman", "Qatar", "Kuwait and Bahrain")
+    stringTokens: ("Malayali", "Ambalavasi", "Dheevara", "Nair", "Paravar", "Mappilas", "Ezhava", "Latheen Mappilas", "St. Thomas Christians") 
 MalaysEthnicGroup:
-    stringTokens: ("Malays", "Kedahans", "Pattani", "Pahang", "Pontianaks", "Terengganuarians", "Kelantanese", "Perakians", "Berau", "Loloan Malays", "Proto-Malay (including Orang Kuala", "Jakun", "Orang Rimba", "Orang Seletar", "and Temuan) Cape Malays", "Cocos Malays", "Bangka Malays", "Thai Malays", "Burmese Malays")
+    stringTokens: ("Malays", "Kedahans", "Pattani", "Pahang", "Pontianaks", "Terengganuarians", "Kelantanese", "Perakians", "Berau", "Loloan Malays", "Proto-Malay", "Orang Kuala", "Jakun", "Orang Rimba", "Orang Seletar", "Temuan Cape Malays", "Cocos Malays", "Bangka Malays", "Thai Malays", "Burmese Malays")
 MaldiviansEthnicGroup:
     stringTokens: ("Maldivians", "Mahls")
 MalteseEthnicGroup:
-    stringTokens: ("Maltese", "Gozitans", "with significant populations in Greece (including Corfu)")
+    stringTokens: ("Maltese", "Gozitans",)
 MambaiEthnicGroup:
-    stringTokens: ("Mambai", "")
+    stringTokens: ("Mambai")
 MambilaEthnicGroup:
     stringTokens: ("Mambila", "Somyev")
 ManavsEthnicGroup:
-    stringTokens: ("Manavs", "")
+    stringTokens: ("Manavs")
 ManchusEthnicGroup:
-    stringTokens: ("Manchus", "Significant populations in Taiwan")
+    stringTokens: ("Manchus")
 MandaeansEthnicGroup:
-    stringTokens: ("Mandaeans", "Iraq", "Iran")
+    stringTokens: ("Mandaeans")
 MandareseEthnicGroup:
-    stringTokens: ("Mandarese", "")
+    stringTokens: ("Mandarese")
 MandinkaEthnicGroup:
     stringTokens: ("Mandinka", "Bolon")
 Mangalorean CatholicsEthnicGroup:
-    stringTokens: ("Mangalorean Catholics", "")
+    stringTokens: ("Mangalorean Catholics")
 ManggaraiEthnicGroup:
-    stringTokens: ("Manggarai", "")
+    stringTokens: ("Manggarai")
 ManjakEthnicGroup:
-    stringTokens: ("Manjak", "")
+    stringTokens: ("Manjak")
 ManxEthnicGroup:
-    stringTokens: ("Manx", "Significant populations in the United States")
+    stringTokens: ("Manx")
 MāoriEthnicGroup:
-    stringTokens: ("Māori", "Māori Indians", "with significant populations in the United Kingdom", "Australia", "and the United States")
+    stringTokens: ("Māori", "Māori Indians")
 Mappila MuslimsEthnicGroup:
-    stringTokens: ("Mappila Muslims", "")
+    stringTokens: ("Mappila Muslims")
 MapucheEthnicGroup:
-    stringTokens: ("Mapuche", "Huilliche", "Moluche", "Pehuenche", "along with Mestizos such as Chileans")
+    stringTokens: ("Mapuche", "Huilliche", "Moluche", "Pehuenche")
 MaranaoEthnicGroup:
-    stringTokens: ("Maranao", "")
+    stringTokens: ("Maranao")
 MarathiEthnicGroup:
     stringTokens: ("Marathi", "Mahar", "Maratha", "Kunbi", "Dhangar", "Bhoi")
 MarisEthnicGroup:
     stringTokens: ("Maris", "Meadow Mari", "Hill Mari", "Northwestern Mari", "Eastern Mari", "Mountain Mari")
 MaronitesEthnicGroup:
-    stringTokens: ("Maronites", "Significant populations in Syria", "Cyprus and Israel along with the greater Lebanese diaspora")
+    stringTokens: ("Maronites")
 Marquesas IslandersEthnicGroup:
-    stringTokens: ("Marquesas Islanders", "")
+    stringTokens: ("Marquesas Islanders")
 MarshalleseEthnicGroup:
-    stringTokens: ("Marshallese", "")
+    stringTokens: ("Marshallese")
 MasaEthnicGroup:
-    stringTokens: ("Masa", "")
+    stringTokens: ("Masa")
 MasalitEthnicGroup:
-    stringTokens: ("Masalit", "")
+    stringTokens: ("Masalit")
 MatawaiEthnicGroup:
-    stringTokens: ("Matawai", "")
+    stringTokens: ("Matawai")
 Mauritian CreolesEthnicGroup:
-    stringTokens: ("Mauritian Creoles", "")
+    stringTokens: ("Mauritian Creoles")
 MayaEthnicGroup:
     stringTokens: ("Maya", "Maya", "Achi", "Chuj", "Chʼortiʼ", "Itza", "Kʼicheʼ", "Qʼeqchiʼ", "Xinca", "Tektitek", "Huastecan", "Mopan", "Lacandon", "Chontal", "Akatek", "Jakaltek", "Qʼanjobʼal", "Tzeltal", "Mochoʼ", "Tojolab'al", "Mam", "Ixil", "Tzotzil", "Poqomam", "Yucatecan Maya", "Motozintlecos", "Awakatek", "Kaqchikel", "Sakapultek", "Sipakapense", "Uspantek", "Chʼol", "and Tzʼutujil")
 MazahuaEthnicGroup:
