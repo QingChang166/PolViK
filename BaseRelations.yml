@@ -20,7 +20,8 @@ relations:  # parent concept, child concept, tuples
     - (nonGovernmentalOrganizedGroup, laborGroup)  # use this only for nongov labor groups
     - (laborGroup, laborUnion)
     - (people, ethnicGroup)  # ethnic group does not have to be organized
-    - (ethnicGroup, hispanicEthnicGroup)
+    - (EthnicGroup, hispanicEthnicGroup)
+    - (EthnicGroup, MayaEthnicGroup)
     - (people, employmentGroup)  # employment group does not have to be organized
     - (employmentGroup, farmers)
     - (employmentGroup, bankersFinancial)
