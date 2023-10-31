@@ -645,89 +645,87 @@ Fuyu KyrgyzEthnicGroup:
 Ga-AdangbeEthnicGroup:
     stringTokens: ("Ga-Adangbe", "Ga", "Adangbe")
 GabrieleñosEthnicGroup:
-    stringTokens: ("Gabrieleños", "")
+    stringTokens: ("Gabrieleños")
 GagauzEthnicGroup:
-    stringTokens: ("Gagauz", "")
+    stringTokens: ("Gagauz")
 GajalEthnicGroup:
-    stringTokens: ("Gajal", "")
+    stringTokens: ("Gajal")
 GaliciansEthnicGroup:
     stringTokens: ("Galicians", "Couto Mistans")
 GamilaraayEthnicGroup:
-    stringTokens: ("Gamilaraay", "")
+    stringTokens: ("Gamilaraay")
 GandaEthnicGroup:
     stringTokens: ("Ganda", "Abayudaya")
 GarhwalisEthnicGroup:
-    stringTokens: ("Garhwalis", "")
+    stringTokens: ("Garhwalis")
 GarifunasEthnicGroup:
-    stringTokens: ("Garifunas", "Significant populations in the United States")
+    stringTokens: ("Garifunas")
 GarosEthnicGroup:
-    stringTokens: ("Garos", "")
-Gaviao (Je)EthnicGroup:
-    stringTokens: ("Gaviao (Je)", "Parkateje", "Pykobje")
+    stringTokens: ("Garos")
+GaviaoEthnicGroup:
+    stringTokens: ("Gaviao", "Parkateje", "Pykobje")
 GayoneseEthnicGroup:
-    stringTokens: ("Gayonese", "")
+    stringTokens: ("Gayonese")
 GbagyiEthnicGroup:
-    stringTokens: ("Gbagyi", "")
+    stringTokens: ("Gbagyi")
 GbayaEthnicGroup:
-    stringTokens: ("Gbaya", "Bokoto", "Kara", "Buli (including Toongo)", "Ali", "Mandja", "Gbaya-Bossangoa", "Bozom", "Mbodomo", "Gbanu", "Bangandu")
+    stringTokens: ("Gbaya", "Bokoto", "Kara", "Buli", "Toongo", "Ali", "Mandja", "Gbaya-Bossangoa", "Bozom", "Mbodomo", "Gbanu", "Bangandu")
 GedeoEthnicGroup:
-    stringTokens: ("Gedeo", "")
+    stringTokens: ("Gedeo")
 GelaoEthnicGroup:
-    stringTokens: ("Gelao", "")
+    stringTokens: ("Gelao")
 GeorgiansEthnicGroup:
-    stringTokens: ("Georgians", "Adjarians", "Mingrelians", "Svans", "Tushetians", "Meskhetians", "Imerkhevians", "Ingiloys", "Bats", "[note 34] with significant populations in Turkey (including Chveneburi", "France", "Belgium", "Poland", "Russia", "Spain", "Ukraine", "the United States", "and Iran")
+    stringTokens: ("Georgians", "Adjarians", "Mingrelians", "Svans", "Tushetians", "Meskhetians", "Imerkhevians", "Ingiloys", "Bats")
 GermansEthnicGroup:
     stringTokens: ("Germans", "Bavarians", "Swabians")
 GhomarasEthnicGroup:
-    stringTokens: ("Ghomaras", "")
+    stringTokens: ("Ghomaras")
 GhorbatiEthnicGroup:
     stringTokens: ("Ghorbati", "Mugats")
 GibraltariansEthnicGroup:
-    stringTokens: ("Gibraltarians", "Significant populations in the United Kingdom")
+    stringTokens: ("Gibraltarians")
 GilaksEthnicGroup:
-    stringTokens: ("Gilaks", "")
+    stringTokens: ("Gilaks")
 GitxsanEthnicGroup:
-    stringTokens: ("Gitxsan", "")
+    stringTokens: ("Gitxsan")
 Goan CatholicsEthnicGroup:
-    stringTokens: ("Goan Catholics", "")
+    stringTokens: ("Goan Catholics")
 GodoberisEthnicGroup:
-    stringTokens: ("Godoberis", "")
+    stringTokens: ("Godoberis")
 GolaEthnicGroup:
-    stringTokens: ("Gola", "")
+    stringTokens: ("Gola")
 GondsEthnicGroup:
     stringTokens: ("Gonds", "Godha", "Madia Gonds", "Muria", "Koya")
 GoralsEthnicGroup:
     stringTokens: ("Gorals", "Sącz Lachs", "Silesian Gorals")
 GoraniEthnicGroup:
-    stringTokens: ("Gorani", "")
+    stringTokens: ("Gorani")
 GorontaloEthnicGroup:
-    stringTokens: ("Gorontalo", "")
+    stringTokens: ("Gorontalo")
 GoshaEthnicGroup:
-    stringTokens: ("Gosha", "")
-Great AndamaneseEthnicGroup:
-    stringTokens: ("Great Andamanese", "")
+    stringTokens: ("Gosha")
+GreatAndamaneseEthnicGroup:
+    stringTokens: ("Great Andamanese")
 GreeksEthnicGroup:
-    stringTokens: ("Greeks", "Greek Cypriots", "Pontic Greeks", "Cappadocian Greeks", "Sarakatsani", "Souliotes", "Urums", "Grikos", "Macedonian Greeks", "Anatolian Greeks", "Tsakonians", "Maniots", "Karagounides", "Mikrasiates [el]", "Phanariots", "Egyptian Greeks", "Caucasus Greeks", "Cretan Muslims", "Sfakians", "Slavophone Greeks", "Corfiot Greeks", "Melkites (including Antiochian Greeks", "Jerusalemite Greeks", "and Alexandrian Greeks) and also sizeable populations of Arvanites", "Aromanians and Megleno-Romanians who identify as ethnic Greeks", "along with significant populations in Albania (including Northern Epirotes)", "Turkey", "Ukraine", "Georgia", "the United States", "the United Kingdom", "Germany", "Australia", "France", "Italy (including Grikos)", "Malta", "and Canada")
-Gros VentreEthnicGroup:
-    stringTokens: ("Gros Ventre", "")
+    stringTokens: ("Greeks", "Greek Cypriots", "Pontic Greeks", "Cappadocian Greeks", "Sarakatsani", "Souliotes", "Urums", "Grikos", "Macedonian Greeks", "Anatolian Greeks", "Tsakonians", "Maniots", "Karagounides", "Mikrasiates", "Phanariots", "Egyptian Greeks", "Caucasus Greeks", "Cretan Muslims", "Sfakians", "Slavophone Greeks", "Corfiot Greeks", "Melkites", "Antiochian Greeks", "Jerusalemite Greeks", "Alexandrian Greeks",  "Arvanites")
 GuajajaraEthnicGroup:
-    stringTokens: ("Guajajara", "")
+    stringTokens: ("Guajajara")
 GuanEthnicGroup:
     stringTokens: ("Guan", "Gonja", "Kyode", "Cherepon", "Efutu", "Anyanga", "Larteh", "Chumburung", "Krache", "Anum-Boso")
 GuaraniEthnicGroup:
-    stringTokens: ("Guarani", "Chiriguanos", "along with Mestizos such as Paraguayans")
+    stringTokens: ("Guarani", "Chiriguanos")
 GujaratiEthnicGroup:
     stringTokens: ("Gujarati", "Koli", "Bharwad", "Khoja", "Patidar", "Sunni Bohra", "Lohana", "Vagri", "Kharva", "Charan", "Baria", "Momna", "Ghanchi", "Shenva", "Bhambi Khalpa", "Zarabes", "Bhoi", "Luso-Indians", "Gujarati Americans")
-Gujjar / GurjarEthnicGroup:
-    stringTokens: ("Gujjar / Gurjar", "Khatana", "Solanki", "Parihar", "Tanwar", "Parmar", "chandel", "Chauhan", "Bhadana", "Bhatti", "Kohli", "Tomar", "Panwar", "Pawar", "Bainsla", "Bagri", "Hans", "etc.")
+GujjarEthnicGroup:
+    stringTokens: ("Gujjar", "Gurjar", "Khatana", "Solanki", "Parihar", "Tanwar", "Parmar", "chandel", "Chauhan", "Bhadana", "Bhatti", "Kohli", "Tomar", "Panwar", "Pawar", "Bainsla", "Bagri", "Hans")
 GumuzEthnicGroup:
-    stringTokens: ("Gumuz", "")
+    stringTokens: ("Gumuz")
 GunaEthnicGroup:
-    stringTokens: ("Guna", "")
+    stringTokens: ("Guna")
 GurageEthnicGroup:
-    stringTokens: ("Gurage", "Kistane", "Zay", "Inor", "Mesqan", "Muher Sebat Bet (including Chaha)")
+    stringTokens: ("Gurage", "Kistane", "Zay", "Inor", "Mesqan", "Muher Sebat Bet", "Chaha")
 GurindjiEthnicGroup:
-    stringTokens: ("Gurindji", "")
+    stringTokens: ("Gurindji")
 GurmaEthnicGroup:
     stringTokens: ("Gurma", "Ntcham", "Bimoba")
 GurungsEthnicGroup:
@@ -735,117 +733,117 @@ GurungsEthnicGroup:
 GurunsiEthnicGroup:
     stringTokens: ("Gurunsi", "Lukpa", "Kabye", "Tem", "Lamba", "Delo", "Bago-Kusuntu", "Chala", "Lyele", "Nuna", "Kalamse", "Pana", "Kassena", "Winye", "Deg", "Puguli", "Paasaal", "Sisaala", "Chakali", "Siti", "Tamprusi", "Vagla")
 Gwich'inEthnicGroup:
-    stringTokens: ("Gwich'in", "")
+    stringTokens: ("Gwich'in")
 HaEthnicGroup:
-    stringTokens: ("Ha", "")
+    stringTokens: ("Ha")
 HadiyaEthnicGroup:
-    stringTokens: ("Hadiya", "")
+    stringTokens: ("Hadiya")
 HadzaEthnicGroup:
-    stringTokens: ("Hadza", "")
+    stringTokens: ("Hadza")
 HaidaEthnicGroup:
-    stringTokens: ("Haida", "")
+    stringTokens: ("Haida")
 HaislaEthnicGroup:
-    stringTokens: ("Haisla", "")
+    stringTokens: ("Haisla")
 HänEthnicGroup:
-    stringTokens: ("Hän", "")
-Han ChineseEthnicGroup:
-    stringTokens: ("Han Chinese", "Subei", "Yue (including Cantonese", "Punti", "Taishanese (including Taishanese Hongkongers)", "Hongkongers (including Punti)", "Macau", "and Namshun)", "Tankas (including Fuzhou Tankas)", "Hui (including Panthays)", "Fujianese (including Fuzhounese", "Hoklos", "Hui'an maidens", "Putianese", "Fujianese Hongkongers", "Fokien", "and Teochew)", "Gaoshan Han", "Gan", "Tunbao", "Pinghua (including Northern Pinghua and Southern Pinghua)", "Hakka (including Ngai (including Dan))", "Hainanese", "Hebei", "Hunanese", "Jianghuai", "Shandong", "Sichuanese", "Wu (including Shanghainese", "Ningbonese", "and Wenzhounese)", "Kokang Chinese", "Han Taiwanese (including Hoklo Taiwanese and Benshengren)", "Sino-Singaporeans (including Straits Chinese)", "Chin Haw", "Hwagyo", "along with significant populations in the United States (including Hoklos", "Hongkongers", "Fuzhounese Americans", "and Hakkas)", "Mongolia", "Malaysia (including Penangite Chinese", "Straits Chinese", "and Peranakans (including Baba-Nyonya and Kiau–Seng))", "Thailand", "Indonesia (including Benteng)", "Myanmar", "Canada (including Hongkongers)", "the Philippines (including Sangleys)", "Peru", "Australia (including Hong Kong Australians)", "Vietnam (including Chinese Nùng and Ngai (including Dan))", "Japan", "Russia", "France (including Chinois and Wenzhounese French)", "the United Kingdom (including Hong Kong Britons)", "South Africa", "Italy", "Bulgaria", "Germany", "Korea (including North Korea and South Korea)", "Fiji", "Finland", "Spain", "India", "Laos", "Brazil", "the Netherlands (including Hongkongers)", "Argentina", "Panama", "Madagascar", "Mauritius (including Namshun", "Fokien", "Hakka", "and Sino-creoles)", "Seychelles", "Venezuela", "Cambodia (including Teochew", "Cantonese Cambodians", "Hainanese Cambodians", "Hoklos", "and Hakkas)", "Belgium", "Denmark", "Iran", "Ireland", "Israel", "Kazakhstan", "Kyrgyzstan", "the Czech Republic", "Chinese Bangladeshis", "the Caribbean (including Cuba", "the Dominican Republic", "Haiti", "Jamaica", "Puerto Rico", "Trinidad and Tobago", "Belize", "Suriname", "and Guyana)", "Chile", "Costa Rica", "Brazil", "Nicaragua", "Pakistan", "Palau", "Papua New Guinea", "Portugal", "Mozambique", "Romania", "Samoa", "Serbia", "Sri Lanka", "Sweden", "Turkey", "the United Arab Emirates", "Uruguay", "Algeria", "Angola", "Botswana", "Cameroon", "Cape Verde", "the Democratic Republic of the Congo", "Egypt", "Ethiopia", "Ghana", "Kenya", "Lesotho", "Libya", "Malawi", "Mali", "Morocco", "Namibia", "Nigeria", "the Republic of Congo", "Senegal", "Tanzania", "Uganda", "Zambia", "Zimbabwe", "and New Zealand")
+    stringTokens: ("Hän")
+HanChineseEthnicGroup:
+    stringTokens: ("Han Chinese", "Subei", "Yue", "Cantonese", "Punti", "Taishanese", "Hongkongers", "Macau", "Namshun", "Tankas", "Hui", "Panthays", "Fujianese", "Fuzhounese", "Hoklos", "Hui'an maidens", "Putianese", "Fujianese Hongkongers", "Fokien", "Teochew", "Gaoshan Han", "Gan", "Tunbao", "Pinghua", "Hakka", "Ngai", "Dan", "Hainanese", "Hebei", "Hunanese", "Jianghuai", "Shandong", "Sichuanese", "Wu", "Shanghainese", "Ningbonese", "Wenzhounese", "Kokang Chinese", "Han Taiwanese", "Hoklo Taiwanese", "Benshengren", "Sino-Singaporeans", "Straits Chinese", "Chin Haw", "Hwagyo")
 HaniEthnicGroup:
-    stringTokens: ("Hani", "")
+    stringTokens: ("Hani")
 HarariEthnicGroup:
-    stringTokens: ("Harari", "")
+    stringTokens: ("Harari")
 HaratinsEthnicGroup:
-    stringTokens: ("Haratins", "")
+    stringTokens: ("Haratins")
 HausaEthnicGroup:
-    stringTokens: ("Hausa", "")
+    stringTokens: ("Hausa")
 HawaiiansEthnicGroup:
-    stringTokens: ("Hawaiians", "")
+    stringTokens: ("Hawaiians")
 HayaEthnicGroup:
-    stringTokens: ("Haya", "")
+    stringTokens: ("Haya")
 HazarasEthnicGroup:
-    stringTokens: ("Hazaras", "")
+    stringTokens: ("Hazaras")
 HeiltsukEthnicGroup:
-    stringTokens: ("Heiltsuk", "")
+    stringTokens: ("Heiltsuk")
 HereroEthnicGroup:
     stringTokens: ("Herero", "OvaHimba", "Ovambanderu")
 HinukhEthnicGroup:
-    stringTokens: ("Hinukh", "")
-Hispanic AmericansEthnicGroup:
-    stringTokens: ("Hispanic Americans", "Mexican (Northeastern Mexican", "Northwestern Mexican", "Baja Californian", "Western Mexican", "Abajeno", "Central Mexican", "Southern Mexican", "Coastal Mexican", "Chiapaneco", "Yucateco", "Basque-Mexican", "Mexican-American)", "Colombian (Cundinamarqués", "Bogotan", "Boyacense", "Santandereano", "Huilense", "Tolimense", "Paisa", "Caucano", "Pastuso", "Valluno", "Llanero", "Amazonian Colombian", "Guajiro", "Sabanero", "Samario", "Vallenato", "Chochoano", "Tumaqueño", "Basque-Colombian", "Colombian-American)", "Argentinian (North Argentinian", "Guaranitic", "Cuyano", "Cordobes", "Puntano", "Litoraleno", "Porteno", "Patagonian", "Basque-Argentinian", "Argentinian-American)", "Peruvian (Ecuatorial Peruvian", "Coastal Peruvian", "Andean Peruvian", "Amazonian Peruvian", "Peruvian-American)", "Venezuelan (Amazonian Venezuelan", "Llanero", "Andean Venezuelan", "Western Venezuelan", "Eastern Venezuelan", "Island Venezuelan", "Caraqueno", "Zuliano", "Central Venezuelan", "Venezuelan-American", "Venezuelan-Colombian)", "Chilean (Chilean-American)", "Ecuadorian (Quiteno", "Riobambeno", "Cuencano", "Lojano", "Esmeraldeno", "Manabita", "Guayaco", "Amazonian Ecuadorian", "Ecuadorian-American)", "Guatemalan (Guatemalan-American)", "Bolivian (Bolivian-American)", "Cuban (Cuban-American)", "Dominican (Dominican-American)", "Honduran (Honduran-American)", "Paraguayan (Paraguayan-American)", "Nicaraguan (Nicaraguan-American)", "Salvadoran (Caliche", "Lenca", "Salvadoran-American)", "Costa Rican (Costa Rican-American)", "Panamanian (Panamanian-American)", "Uruguayan (Uruguayan-American)", "Islenos", "Hispanic-Belizean", "Puerto Rican", "Hispanic Americans in the United States (Chicano", "Nuyorican)", "colonial-era Hispanos in the USA and their modern descendants (Tejanos", "Californios", "Neomexicanos", "Floridanos", "Isleños", "Louisiana Spanish-Creoles)", "Spanish-Americans in the United States (Asturian-American", "Basque-American", "Catalan-American", "Canarian-American", "Galician-American)", "along with significant populations in the United States", "Spain", "France", "Canada", "Italy", "Japan", "Germany", "United Kingdom", "Portugal", "Australia and Sweden")
+    stringTokens: ("Hinukh")
+HispanicAmericansEthnicGroup:
+    stringTokens: ("Hispanic Americans", "Mexican", "Northeastern Mexican", "Northwestern Mexican", "Baja Californian", "Western Mexican", "Abajeno", "Central Mexican", "Southern Mexican", "Coastal Mexican", "Chiapaneco", "Yucateco", "Basque-Mexican", "Mexican-American", "Colombian", "Cundinamarqués", "Bogotan", "Boyacense", "Santandereano", "Huilense", "Tolimense", "Paisa", "Caucano", "Pastuso", "Valluno", "Llanero", "Amazonian Colombian", "Guajiro", "Sabanero", "Samario", "Vallenato", "Chochoano", "Tumaqueño", "Basque-Colombian", "Colombian-American", "Argentinian", "North Argentinian", "Guaranitic", "Cuyano", "Cordobes", "Puntano", "Litoraleno", "Porteno", "Patagonian", "Basque-Argentinian", "Argentinian-American)", "Peruvian (Ecuatorial Peruvian", "Coastal Peruvian", "Andean Peruvian", "Amazonian Peruvian", "Peruvian-American)", "Venezuelan (Amazonian Venezuelan", "Llanero", "Andean Venezuelan", "Western Venezuelan", "Eastern Venezuelan", "Island Venezuelan", "Caraqueno", "Zuliano", "Central Venezuelan", "Venezuelan-American", "Venezuelan-Colombian", "Chilean", "Chilean-American", "Ecuadorian" "Quiteno", "Riobambeno", "Cuencano", "Lojano", "Esmeraldeno", "Manabita", "Guayaco", "Amazonian Ecuadorian", "Ecuadorian-American", "Guatemalan", "Guatemalan-American", "Bolivian", "Bolivian-American", "Cuban", "Cuban-American", "Dominican", "Dominican-American", "Honduran", "Honduran-American", "Paraguayan", "Paraguayan-American", "Nicaraguan", "Nicaraguan-American", "Salvadoran", "Caliche", "Lenca", "Salvadoran-American", "Costa Rican", "Costa Rican-American", "Panamanian", "Panamanian-American", "Uruguayan", "Uruguayan-American", "Islenos", "Hispanic-Belizean", "Puerto Rican", "Chicano", "Nuyorican", "Tejanos", "Californios", "Neomexicanos", "Floridanos", "Isleños", "Louisiana Spanish-Creoles", "Asturian-American", "Basque-American", "Catalan-American", "Canarian-American", "Galician-American")
 HmongEthnicGroup:
     stringTokens: ("Hmong", "A-Hmao", "Gha-Mu", "Xong", "Pa-Hng", "Hmong Americans")
 HopiEthnicGroup:
-    stringTokens: ("Hopi", "")
+    stringTokens: ("Hopi")
 HuliEthnicGroup:
-    stringTokens: ("Huli", "")
+    stringTokens: ("Huli")
 HungariansEthnicGroup:
-    stringTokens: ("Hungarians", "Paloc", "Matyo", "Magyarabs", "Hungarian Cumans", "along with significant populations in Romania (including Szekelys (including Bukovina Szekelys) and Csangos)", "Slovakia", "Serbia", "Ukraine", "Croatia", "Slovenia", "Germany", "the United States", "and Canada")
+    stringTokens: ("Hungarians", "Paloc", "Matyo", "Magyarabs", "Hungarian Cumans", "Szekelys", "Bukovina Szekelys", "Csangos")
 HunzibsEthnicGroup:
-    stringTokens: ("Hunzibs", "")
+    stringTokens: ("Hunzibs")
 HutteritesEthnicGroup:
     stringTokens: ("Hutterites", "Schmiedeleut", "Lehrerleut", "Dariusleut")
 HutuEthnicGroup:
-    stringTokens: ("Hutu", "")
+    stringTokens: ("Hutu")
 IbanEthnicGroup:
     stringTokens: ("Iban", "Mualang")
 IbanagEthnicGroup:
-    stringTokens: ("Ibanag", "")
+    stringTokens: ("Ibanag")
 IbibioEthnicGroup:
     stringTokens: ("Ibibio", "Eket", "Anaang", "Oron")
 IcelandersEthnicGroup:
-    stringTokens: ("Icelanders", "")
+    stringTokens: ("Icelanders")
 IdomaEthnicGroup:
     stringTokens: ("Idoma", "Agatu", "Alago", "Yala")
 IgboEthnicGroup:
     stringTokens: ("Igbo", "Anioma", "Aro", "Edda", "Ekpeye", "Etche", "Ezaa", "Ika", "Ikwerre", "Ikwo", "Isu", "Izzi", "Mbaise", "Mgbo", "Ngwa", "Nri-Igbo", "Ogba", "Ohafia", "Ohuhu", "Onitsha-Ado", "Ukwuani", "Waawa", "Igbo Jews")
 IgedeEthnicGroup:
-    stringTokens: ("Igede", "")
+    stringTokens: ("Igede")
 IgorotEthnicGroup:
-    stringTokens: ("Igorot", "Balangao", "Bontoc", "Ibaloi", "Ifugao (including Kalanguya)", "Isnag", "Kalinga", "Kankanaey")
+    stringTokens: ("Igorot", "Balangao", "Bontoc", "Ibaloi", "Ifugao", "Kalanguya", "Isnag", "Kalinga", "Kankanaey")
 IjawEthnicGroup:
     stringTokens: ("Ijaw", "Bille", "Engenni", "Ibani", "Kalabari", "Kula", "Nkoro", "Nkoroo", "Obolo")
-Ili TurksEthnicGroup:
-    stringTokens: ("Ili Turks", "")
+IliTurksEthnicGroup:
+    stringTokens: ("Ili Turks")
 IlocanoEthnicGroup:
-    stringTokens: ("Ilocano", "")
+    stringTokens: ("Ilocano")
 Indo-CaribbeanEthnicGroup:
-    stringTokens: ("Indo-Caribbean", "Indo-Barbadian", "Indo-Dominican", "Indo-Grenadians", "Indo-Guadeloupeans", "Indo-Haitians", "Indo-Jamaicans", "Indo-Martiniquais", "Indo-Kittitians and Indo-Nevisians", "Indo-Saint Lucian", "Indo-Trinidadian and Tobagonian", "Indo-Vincentian", "Indo-Belizeans", "Indo-Guyanese", "Indo-Surinamese")
+    stringTokens: ("Indo-Caribbean", "Indo-Barbadian", "Indo-Dominican", "Indo-Grenadians", "Indo-Guadeloupeans", "Indo-Haitians", "Indo-Jamaicans", "Indo-Martiniquais", "Indo-Kittitians", "Indo-Nevisians", "Indo-Saint Lucian", "Indo-Trinidadian and Tobagonian", "Indo-Vincentian", "Indo-Belizeans", "Indo-Guyanese", "Indo-Surinamese")
 Indo-FijiansEthnicGroup:
     stringTokens: ("Indo-Fijians", "Significant populations in Australia", "New Zealand", "United States", "Canada", "and United Kingdom")
 Indo-MauritiansEthnicGroup:
-    stringTokens: ("Indo-Mauritians", "")
+    stringTokens: ("Indo-Mauritians")
 Indus KohistanisEthnicGroup:
-    stringTokens: ("Indus Kohistanis", "")
+    stringTokens: ("Indus Kohistanis")
 IngushesEthnicGroup:
-    stringTokens: ("Ingushes", "")
+    stringTokens: ("Ingushes")
 InnuEthnicGroup:
     stringTokens: ("Innu", "Naskapi")
 InuitEthnicGroup:
-    stringTokens: ("Inuit", "Greenlandics (including Kalaallit", "Tunumiit", "Inughuit and Greenlandic Danes)", "Inupiat (including Nunamiut)", "Inuktitut", "Inuvialuit", "Iglulik Inuit (including Aivilingmiut)")
+    stringTokens: ("Inuit", "Greenlandics", "Kalaallit", "Tunumiit", "Inughuit", "Greenlandic Danes", "Inupiat", "Nunamiut", "Inuktitut", "Inuvialuit", "Iglulik Inuit", "Aivilingmiut")
 IranunEthnicGroup:
-    stringTokens: ("Iranun", "")
+    stringTokens: ("Iranun")
 Iraqi TurkmenEthnicGroup:
-    stringTokens: ("Iraqi Turkmen", "")
+    stringTokens: ("Iraqi Turkmen")
 IraqwEthnicGroup:
-    stringTokens: ("Iraqw", "")
+    stringTokens: ("Iraqw")
 IrishEthnicGroup:
-    stringTokens: ("Irish", "Irish Catholics", "Significant populations of Irish diaspora around the World such as in United States (including Scotch-Irish Americans)", "United Kingdom (including Ulster Scots people) Canada (including Scotch-Irish Canadians)", "Australia", "New Zealand", "Mainland Europe", "Mexico", "Argentina", "Chile", "Uruguay", "Puerto Rico", "and India")
-Irish TravellersEthnicGroup:
-    stringTokens: ("Irish Travellers", "Significant populations in the United Kingdom", "and the United States")
+    stringTokens: ("Irish", "Irish Catholics")
+IrishTravellersEthnicGroup:
+    stringTokens: ("Irish Travellers")
 IsanEthnicGroup:
-    stringTokens: ("Isan", "")
+    stringTokens: ("Isan")
 IsokoEthnicGroup:
-    stringTokens: ("Isoko", "")
+    stringTokens: ("Isoko")
 Istro-RomaniansEthnicGroup:
-    stringTokens: ("Istro-Romanians", "")
+    stringTokens: ("Istro-Romanians")
 ItaliansEthnicGroup:
-    stringTokens: ("Italians", "Molise Croats", "[19] Dalmatian Italians", "Istrian Italians", "Niçard Italians")
+    stringTokens: ("Italians", "Molise Croats", "Dalmatian Italians", "Istrian Italians", "Niçard Italians")
 ItawesEthnicGroup:
-    stringTokens: ("Itawes", "")
+    stringTokens: ("Itawes")
 ItelmensEthnicGroup:
-    stringTokens: ("Itelmens", "")
+    stringTokens: ("Itelmens")
 IzhoriansEthnicGroup:
-    stringTokens: ("Izhorians", "")
+    stringTokens: ("Izhorians")
 Jamaican MaroonsEthnicGroup:
     stringTokens: ("Jamaican Maroons")
 JambianEthnicGroup:
