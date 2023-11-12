@@ -7,6 +7,7 @@ relations:  # parent concept, child concept, tuples
     - (people, organizedGroup)
     - (organizedGroup, nonGovernmentalOrganizedGroup)
     - (organizedGroup, governmentGroup)
+
     - (governmentGroup, nationalAdministrativeGovernment)
     - (governmentGroup, subNationalAdministrativeGovernment)
     - (governmentGroup, governmentLaborOrganization)
