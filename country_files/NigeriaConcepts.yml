@@ -1,4 +1,4 @@
-concepts:
+##concepts:
   NigerianSecurityForces:
    stringTokens: ["Nigerian Armed Forces", "Nigerian Army", "Nigerian Navy", "Nigerian Air Force", "NAF", "Nigerian police", "Nigeria Police Force", "NPF"] 
    wikidataQnode: ["Q250774"]
