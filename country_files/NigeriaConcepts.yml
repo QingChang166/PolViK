@@ -175,42 +175,42 @@ concepts:
      wikidataQnode: ["Q1432251"] 
      yearsActiveasParty: ["1998-2013"]
 
-   CPCParty:
+  CPCParty:
      stringTokens: ["Congress for Progressive Change"]
      wikidataQnode: ["Q5160852"] 
      yearsActiveasParty: ["2009-2013"]
 
-   DPNParty:
+  DPNParty:
      stringTokens: ["Democratic Party of Nigeria"]
      wikidataQnode: ["Q1551163"]
      yearsActiveasParty: ["1998-present"]
 
-   GNPPParty:
+  GNPPParty:
      stringTokens: ["Great Nigeria People's Party"]
      wikidataQnode: ["Q5599626"]
      yearsActiveasParty: ["Q5599626"]
 
-   NCNCParty:
+  NCNCParty:
      stringTokens: ["National Council of Nigeria and the Cameroons", "National Convention of Nigerian Citizens,"]
      wikidataQnode: ["Q1754230"]
      yearsActiveasParty: ["1944-1966"]
 
-   NNDPParty:
+  NNDPParty:
      stringTokens: ["Nigerian National Democratic Party"]
      wikidataQnode: ["Q1989646"]
      yearsActiveasParty: ["1923-1938"]
 
-   NPPParty:
+  NPPParty:
      stringTokens: ["Nigerian Peoples Party"]
      wikidataQnode: ["Q7033003"]
   
-   PDPParty:
+  PDPParty:
      stringTokens: ["People's Democratic Party", "PDP"]
      yearsActiveasParty: ["1998-present"]
      wikidataQnode: ["Q1551163"]
 
 ## armed groups
-   BokoHaramTransnationalArmedGroup:
+ BokoHaramTransnationalArmedGroup:
    stringTokens: ["Boko Haram", "Islamic State's West Africa Province", "Jamā'at Ahl as-Sunnah lid-Da'wah wa'l-Jihād", "People Committed to the Prophet's Teachings for Propagation and Jihad", "Wilayat Gharb Afriqiyya"]
    originCountry: ["Nigeria"]
    regionsMostActive: ["Borno", "Yobe", "Adamwa"]
@@ -219,7 +219,7 @@ concepts:
    groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
    wikidataQnode: ["Q212372"]
 
-  ISArmedGroup:
+ ISArmedGroup:
      stringTokens: ["Islamic State", "Daesh", "ISIL", "Islamic State in Iraq and Syria", "Islamic State of Iraq and Levant", "ISIS", "Islamic State Group", "Islamic State of Iraq and Syria", "Islamic State of Iraq and al-Sham", "The Islamic State", "IS", "Islamic State of Iraq and the Levant"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q2429253"]
