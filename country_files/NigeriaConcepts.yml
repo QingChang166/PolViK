@@ -205,7 +205,7 @@ concepts:
      wikidataQnode: ["Q7033003"]
   
   PDPParty:
-    stringTokens: ["People's Democratic Party", "PDP"]
+     stringTokens: ["People's Democratic Party", "PDP"]
      yearsActiveasParty: ["1998-present"]
      wikidataQnode: ["Q1551163"]
 
