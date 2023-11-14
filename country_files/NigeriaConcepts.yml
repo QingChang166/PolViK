@@ -16,7 +16,7 @@ concepts:
    wikidataQnode: ["Q33938"]  
    languagesMostSpoken: ["Hausa"] 
    religionsMostPracticed: ["Islam"]  
-   livesIn: ["Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Sokoto", "Zamfara", "Borno", "Bauchi", "Gombe", "Taraba", "Adamawa", "Plateau", "Yobe", "Nasarawa", "Niger"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Sokoto", "Zamfara", "Borno", "Bauchi", "Gombe", "Taraba", "Adamawa", "Plateau", "Yobe", "Nasarawa", "Niger"]  
   
   FulaniEthnicGroup:
    stringTokens: ["Fulani", "Fulani people", "Fulbe", "Peul", "Hilani", "Fallata", "Fellani", "Foulbe", "Ful", "Haalpulaar", "Peulh", "Pulaar", "Pullo",
@@ -49,7 +49,7 @@ concepts:
      livesIn: ["Cross River", "Akwa Ibom", "Abia"]
    
   KanuriEthnicGroup:
-     stringTokens: ["Kanuri", "Kanuri people", "Aga" "Baribari", "Beriberi", "Bornu", "Kanouri", "Kanoury", "Manga"]
+     stringTokens: ["Kanuri", "Kanuri people", "Aga", "Baribari", "Beriberi", "Bornu", "Kanouri", "Kanoury", "Manga"]
      wikidataQnode: ["Q572665"]
      languagesMostSpoken: ["Kanuri"]
      religionsMostPracticed: ["Islam"]
