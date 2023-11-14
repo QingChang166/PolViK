@@ -205,133 +205,133 @@ concepts:
      wikidataQnode: ["Q7033003"]
   
   PDPParty:
-     stringTokens: ["People's Democratic Party", "PDP"]
+    stringTokens: ["People's Democratic Party", "PDP"]
      yearsActiveasParty: ["1998-present"]
      wikidataQnode: ["Q1551163"]
 
 ## armed groups
- BokoHaramTransnationalArmedGroup:
-   stringTokens: ["Boko Haram", "Islamic State's West Africa Province", "Jamā'at Ahl as-Sunnah lid-Da'wah wa'l-Jihād", "People Committed to the Prophet's Teachings for Propagation and Jihad", "Wilayat Gharb Afriqiyya"]
-   originCountry: ["Nigeria"]
-   regionsMostActive: ["Borno", "Yobe", "Adamwa"]
-   associatedReligion: ["Islam"]
-   associatedEthnicGroup: ["KanuriEthnicGroup"] 
-   groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
-   wikidataQnode: ["Q212372"]
+   BokoHaramTransnationalArmedGroup:
+     stringTokens: ["Boko Haram", "Islamic State's West Africa Province", "Jamā'at Ahl as-Sunnah lid-Da'wah wa'l-Jihād", "People Committed to the Prophet's Teachings for Propagation and Jihad", "Wilayat Gharb Afriqiyya"]
+     originCountry: ["Nigeria"]
+     regionsMostActive: ["Borno", "Yobe", "Adamwa"]
+     associatedReligion: ["Islam"]
+     associatedEthnicGroup: ["KanuriEthnicGroup"] 
+     groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
+     wikidataQnode: ["Q212372"]
 
- ISArmedGroup:
+   ISArmedGroup:
      stringTokens: ["Islamic State", "Daesh", "ISIL", "Islamic State in Iraq and Syria", "Islamic State of Iraq and Levant", "ISIS", "Islamic State Group", "Islamic State of Iraq and Syria", "Islamic State of Iraq and al-Sham", "The Islamic State", "IS", "Islamic State of Iraq and the Levant"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q2429253"]
   
-  AnsaruArmedGroup:
+    AnsaruArmedGroup:
      stringTokens: ["Ansaru"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q4770527"]
 
-  APCArmedGroup:
-   stringTokens: ["Arewa People's Congress", "APC"]
-   associatedEthnicGroup: ["HausaEthnicGroup", "FulaniEthnicGroup"]
-   yearsActiveasArmedGroup: ["1999-present"]
-   wikidataQnode: ["Q4789124"]
+    APCArmedGroup:
+      stringTokens: ["Arewa People's Congress", "APC"]
+      associatedEthnicGroup: ["HausaEthnicGroup", "FulaniEthnicGroup"]
+      yearsActiveasArmedGroup: ["1999-present"]
+      wikidataQnode: ["Q4789124"]
   
-  BAMOSDArmedGroup:
-     stringTokens: ["Bakassi Movement for Self-Determination"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: ["Q4849025"]
+    BAMOSDArmedGroup:
+      stringTokens: ["Bakassi Movement for Self-Determination"]
+      associatedEthnicGroup: [""]
+      wikidataQnode: ["Q4849025"]
   
-  BZFArmedGroup:
-     stringTokens: ["Biafra Zionist Front"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: ["Q25064532"]
+    BZFArmedGroup:
+      stringTokens: ["Biafra Zionist Front"]
+      associatedEthnicGroup: [""]
+      wikidataQnode: ["Q25064532"]
   
-  CJTFArmedGroup:
-     stringTokens: ["Civilian Joint Task Force"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: ["Q16899334"]
+    CJTFArmedGroup:
+      stringTokens: ["Civilian Joint Task Force"]
+      associatedEthnicGroup: [""]
+      wikidataQnode: ["Q16899334"]
 
-  ISWAPArmedGroup:
-     stringTokens: ["Islamic State – West Africa Province"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: ["Q86661119"]
+    ISWAPArmedGroup:
+      stringTokens: ["Islamic State – West Africa Province"]
+      associatedEthnicGroup: [""]
+      wikidataQnode: ["Q86661119"]
 
-  MENDArmedGroup:
-   stringTokens: ["Movement for the Emancipation of the Niger Delta", "MEND"]
-   regionsMostActive: ["Delta", "Rivers", "Bayelsa"]
-   yearsActiveasArmedGroup: ["2005-2015"]
+    MENDArmedGroup:
+      stringTokens: ["Movement for the Emancipation of the Niger Delta", "MEND"]
+      regionsMostActive: ["Delta", "Rivers", "Bayelsa"]
+      yearsActiveasArmedGroup: ["2005-2015"]
 
-  NDAArmedGroup:
-   stringTokens: ["Niger Delta Avengers", "NDA"]
-   regionsMostActive: ["Delta", "Bayelsa", "Rivers"]
-   yearsActiveasArmedGroup: ["2016- present"]
+    NDAArmedGroup:
+      stringTokens: ["Niger Delta Avengers", "NDA"]
+      regionsMostActive: ["Delta", "Bayelsa", "Rivers"]
+      yearsActiveasArmedGroup: ["2016- present"]
 
   NDGJMArmedGroup:
      stringTokens: ["Niger Delta Greenland Justice Mandate"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q27963608"]
 
-  NDLFArmedGroup:
+   NDLFArmedGroup:
      stringTokens: ["Niger Delta Liberation Front"]
      associatedEthnicGroup: 
      wikidataQnode: ["Q1989618"]
      yearsActiveasParty: ["2005-2014"]
   
-  NDPVFArmedGroup:
+   NDPVFArmedGroup:
      stringTokens: ["Niger Delta People's Volunteer Force", "NDPVF"]
      associatedEthnicGroup: ["Ijaw people"]
      wikidataQnode: ["Q3748918"]
      regionsMostActive: ["Rivers"]
      yearsActiveasArmedGroup: ["2004-present"]
   
-  NDVArmedGroup:
+   NDVArmedGroup:
      stringTokens: ["Niger Delta Vigilante"]
      associatedEthnicGroup: ["Ijaw people"]
      wikidataQnode: ["Q7032757"]
   
-  OPCArmedGroup:
+   OPCArmedGroup:
      stringTokens: ["Oodua Peoples Congress", "Oodua Liberation Movement "]
      associatedEthnicGroup: ["Yoruba people"]
      wikidataQnode: ["Q2043439"]
   
-  FulaniMilitantArmedGroup:
-   stringTokens: ["Fulani Militant Groups", "Herdsmen militias"]
-   associatedEthnicGroup: ["FulaniEthnicGroup"]
-   associatedReligion: ["Islam"]
-   regionsMostActive: ["Benue", "Plateau", "Taraba"]
-   yearsActiveasArmedGroup: ["2010s- present"]
+   FulaniMilitantArmedGroup:
+     stringTokens: ["Fulani Militant Groups", "Herdsmen militias"]
+     associatedEthnicGroup: ["FulaniEthnicGroup"]
+     associatedReligion: ["Islam"]
+     regionsMostActive: ["Benue", "Plateau", "Taraba"]
+     yearsActiveasArmedGroup: ["2010s- present"]
 
-  IPOBArmedGroup:
-   stringTokens: ["IPOB", "Indigenous People of Biafra", "ESN", "Eastern Security Network"]
-   associatedEthnicGroup: ["IgboEthnicGroup"]
-   yearsActiveasArmedGroup: ["2012-present"]
+   IPOBArmedGroup:
+     stringTokens: ["IPOB", "Indigenous People of Biafra", "ESN", "Eastern Security Network"]
+     associatedEthnicGroup: ["IgboEthnicGroup"]
+     yearsActiveasArmedGroup: ["2012-present"]
 
-  OPCArmedGroup:
-   stringTokens: ["OPC", "O'odua Peoples Congress"]
-   associatedEthnicGroup: ["YorubaEthnicGroup"]
-   yearsActiveasArmedGroup: ["1994- present"]
+   OPCArmedGroup:
+     stringTokens: ["OPC", "O'odua Peoples Congress"]
+     associatedEthnicGroup: ["YorubaEthnicGroup"]
+     yearsActiveasArmedGroup: ["1994- present"]
 
-  JRCArmedGroup:
-   stringTokens: ["JRC", "Joint Revolutionary Council"]
-   regionsMostActive: ["Rivers", "Delta", "Bayelsa"]
-   yearsActiveasArmedGroup: ["2000s- present"]
+   JRCArmedGroup:
+     stringTokens: ["JRC", "Joint Revolutionary Council"]
+     regionsMostActive: ["Rivers", "Delta", "Bayelsa"]
+     yearsActiveasArmedGroup: ["2000s- present"]
 
-  IMNArmedGroup:
-   stringTokens: ["Islamic Movement in Nigeria", "IMN"]
-   associatedReligion: ["Islam"]
-   regionsMostActive: ["Kaduna", "Kano", "Zaria"]
-   yearsActiveasArmedGroup: ["1970s-present"]
+   IMNArmedGroup:
+     stringTokens: ["Islamic Movement in Nigeria", "IMN"]
+     associatedReligion: ["Islam"]
+     regionsMostActive: ["Kaduna", "Kano", "Zaria"]
+     yearsActiveasArmedGroup: ["1970s-present"]
 
-  BakassiArmedGroup:
-   stringTokens: ["Bakassi Boys"]
-   associatedEthnicGroup: ["IgboEthnicGroup"]
-   regionsMostActive: ["Abia", "Anambra"]
-   yearsActiveasArmedGroup: ["1990s-2000s"]
-   wikidataQnode: ["Q804255"]
+   BakassiArmedGroup:
+     stringTokens: ["Bakassi Boys"]
+     associatedEthnicGroup: ["IgboEthnicGroup"]
+     regionsMostActive: ["Abia", "Anambra"]
+     yearsActiveasArmedGroup: ["1990s-2000s"]
+     wikidataQnode: ["Q804255"]
 
-  AnsaruTransnationalArmedGroup:
-   stringTokens: ["Ansaru", "Jama'atu Anasural Muslimina Fi Biladis Sudan", "Vanguards for the Protection of Muslims in Black Africa", "al-Qaeda in the Islamic Maghreb", "AQIM"]
-   originCountry: ["Algeria"]
-   regionsMostActive: ["Kano", "Kaduna", "Borno"]
-   associatedReligion: ["Islam"]
-   groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
+   AnsaruTransnationalArmedGroup:
+     stringTokens: ["Ansaru", "Jama'atu Anasural Muslimina Fi Biladis Sudan", "Vanguards for the Protection of Muslims in Black Africa", "al-Qaeda in the Islamic Maghreb", "AQIM"]
+     originCountry: ["Algeria"]
+     regionsMostActive: ["Kano", "Kaduna", "Borno"]
+     associatedReligion: ["Islam"]
+     groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
 
