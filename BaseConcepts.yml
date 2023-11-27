@@ -18,15 +18,28 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   rebelGroup:
     stringTokens: ["rebel group", "rebel organization", "rebels", "successionist"]
   governmentGroup:
-    stringTokens: ["government", "state", "official bureacracy"]
+    stringTokens: ["government", "state", "official bureacracy", "Senate", "House of Representatives", "President", "Parliament", 
+                   "House of Commons", "House of Lords", "Crown", "King", "Queen", "monarch", "Prime Minister", "Federal Assembly", "Duma", "Federation Council",
+                   "National Congress", "Central Committee", "Politburo", "Politburo Standing Committee", "National People’s Congress", "NPC Standing Committee",
+                   "National Congress", "Lower House", "Upper House", "Executive Branch", "Council of States", "House of the People", "Chamber of Deputies"]
+  nationalJudicialGovernment:
+    stringTokens: ["courts", "judges", "Court of Appeals", "District Courts", "Federal Judiciary", "Marshals", "Marshals Service", "Appellate Committee of the House of Lords"
+                   "Judicial Committee of the Privy Council", "Senior Court", "Court of Appeal", "High Court of Justice", "Crown Court", "Court of Session",
+                   "High Court of Justiciary", "Constitutional Court", "Chief Jusice", "Trial Courts", "Supreme Federal Court"]
   nationalAdministrativeGovernment:
-    stringTokens: ["federal bureacracy"]
+    stringTokens: ["federal bureacracy", "Department of Defense", "Federal Bureau of Investigation", "Department of Homeland Security", "Central Bank", "Fed", 
+                   "federal reserve", "first lord of treasury", "minister for the civil service", "minister for the union", "Central Military Commission", "State Council",
+                   "Chinese People’s Political Consultative Conference", "Ministers of the State"]
+  nationalDiplomacyGovernment:
+    stringTokens: ["diplomat", "consulate", "embassy", "mission", "diplomatic mission"]
   subNationalAdministrativeGovernment:
     stringTokens: ["subnational bureacracy", "provincial bureacracy", "subnational officials", "provincial officials", "local officials"]
   governmentLaborOrganization:
     stringTokens: []
   officialStateSecurityForces:
-    stringTokens: ["army", "security forces", "police", "air force", "navy", "miilitary"]
+    stringTokens: ["army", "security forces", "police", "air force", "navy", "military", "armed forces", "troops", "strategic missile troops", "airborne troops", "ground force",
+                  "rocket force", "strategic support force", "army aviation command", "military police", "military firefighter corps", "police department",
+                  "federal police", "highway police", "national public security force"]
   armedNonGovernmentalOrganizedGroup:
     stringTokens: ["armed group", "militia", "violent organization"]
   proGovernmentMilitia:
