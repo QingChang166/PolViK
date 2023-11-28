@@ -11,6 +11,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender"]
   nonBinaryGender:
     stringTokens: ["non-binary", "nonbinary", "non-binary gender"]
+  enslavedPeople: 
+    stringTokens: ["slave", "fifth wife", "forced labor", "indentured", "ritual servitude", "bondage"]
   organizedGroup:
     stringTokens: ["organization", "group"]
   nonGovernmentalOrganizedGroup:
