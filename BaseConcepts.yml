@@ -45,6 +45,18 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                   "federal police", "highway police", "national public security force", "national police", "police"]
   armedNonGovernmentalOrganizedGroup:
     stringTokens: ["armed group", "militia", "violent organization"]
+  internationalNonGovernmentalOrganizedGroup:
+    stringTokens: ["ActionAid", "ACTED", "ADRA", "AIESEC", "CAFOD", "CARE", "CRS", "Cuso International", "Danish Relief Council", "Islamic Relief", "International
+                    Olympic Committee", "Mercy Corps", "Oxfam", "Save the Children", "SOS Children's Villages", "Tzu Chi Foundation", "World Vision International",
+                    "WDJPO", "WDO", "Plan International", "International Federation of Freight Forwarders Associations", "FIATA", "International Air Traffic Association",
+                    "IATA", "Amref Health Africa", "Doctors without Borders", "Gavi", "The Global Fund", "Compassion International", "FIMCAP", "International Federation of
+                    Catholic Parochial Youth Movements", "Plan", "Reggio Children's Foundation", "World Association of Girl Scouts and Girl Guides", "WAGGGS", "World Organization
+                    of the Scout Movement", "WOSM", "European Association of History Educators", "Junior Achievement", "The Library Project", "OpenMindProjects", "International Rescue
+                    Committee", "IRC", "Human Rights Watch", "HRW", "Amnesty International", "Commonwealth Human Rights Initiative", "Friends of Peoples Close to Nature", 
+                    "Humanists International", "International Christian Concern", "International Commission Against the Death Penalty", "International Federation for Human Rights",
+                    "Survival International", "Greenpeace", "International POPs Elimination Network", "International Union for the Conservation of Nature", "World Wildlife Fund",
+                    "WWF", "WaterAid", "Water.org", "Initiative Eau", "Water for People", "Sister Cities International", "World Federation of United Nations Associations", "Lutheran World Relief",
+                    "COSPAR", "Committee on Space Research", "RIPE NCC", "IMIRAD"]
   proGovernmentMilitia:
     stringTokens: ["pro-government militia", "militia allied with the government"]
   informationCollectionOrganization:
