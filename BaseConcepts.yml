@@ -59,6 +59,17 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                     "Survival International", "Greenpeace", "International POPs Elimination Network", "International Union for the Conservation of Nature", "World Wildlife Fund",
                     "WWF", "WaterAid", "Water.org", "Initiative Eau", "Water for People", "Sister Cities International", "World Federation of United Nations Associations", "Lutheran World Relief",
                     "COSPAR", "Committee on Space Research", "RIPE NCC", "IMIRAD"]
+  multinationalCorporation:
+    stringTokens: ["Microsoft", "IBM", "Apple", "Walmart", "Nestle", "Proctor and Gamble", "Berkshire Hathway", "Amazon", "Alphabet", "Johnson and Johnson", 
+                   "General Electric", "United Heath Group", "CVS Health", "Volkswagon", "Trafigura", "Uniper", "McKesson", "Toyota", "Samsung", "Foxconn", "Vodafone",
+                   "Jumia", "Standard Bank Group", "BMW", "Barclays"]
+  oilMultinationalCorporation:
+    stringTokens: ["ExxonMobile", "Chevron", "Royal Dutch Shell", "Total Energies", "BP", "British Petroleum", "Conoco Phillips", "Sinopec", "Occidental Petroleum",
+                   "China National Petroleum", "Saudi Aramco", "Eni", "PetroChina", "SLB", "Equinor", "Valero", "Valero Energy", "Shell", "Phillips 66", "Marathon
+                   Petroleum", "Lukoil", "Halliburton", "Petrobas", "Baker Hughes", "Rosneft Oil", "Gazprom"]
+  miningMultinationalCorporation:
+    stringTokens: ["Glencore", "Jiangxi Copper", "BHP", "Rio Tinto", "Aluminum Corporation of China", "Vale", "Zijin Mining Group", "Anglo American", "Hindalco Industries",
+                   "CMOC Group", "De Beers", "Xstrata", "Barrick"]
   proGovernmentMilitia:
     stringTokens: ["pro-government militia", "militia allied with the government"]
   informationCollectionOrganization:
