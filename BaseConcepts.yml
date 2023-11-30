@@ -52,8 +52,20 @@ Continents:
     stringTokens: ["Asia"]
     countriesIn: ["China", "Japan", "Indonesia", "Malaysia", "India", "Pakistan", "Bangladesh", "Phillippines", "Vietnam", "Thailand", "Myanmar", "South Korea", "Uzbekistan", "Malaysia", "Nepal", "North Korea", "Kazakhstan", "Cambodia", "Azerbaijan", "Tajikistan", "Laos", "Kyrgyzstan", "Turkmenistan", "Singapore", "Georgia", "Armenia", "Mongolia", "Bahrain", "Timor-Leste", "Bhutan", "Maldives", "Brunei"]
   europeContinent:
-    stringTokens: [Europe]
-    countriesIn: ["Russia", "France", "Belgium", "Germany", "Spain", "Luxembourg", "Austria", "Italy", "Greece", "Portugal", "Switzerland", "United Kingdom", "Netherlands", "Poland", "Ukraine", "Sweden", "Norway", "Ireland", "Denmark", "Croatia", "Romania", "Turkey", "Ice;and", "Finland", "Czechia", "Albania", "Hungary", "Malta", "Liechtenstein", "Serbia", "Cyprus", "Bulgaria", "Lithuania", "Slovenia", "Estonia", "Lativia", "Vatican City", "Monaco", "Montenegro", "Kosovo", "Bosnia and Herzegovina", "Andorra", "Moldova", "Belarus", "North Macedonia", "Faroe Islands", "San Marino", "Holy See"]
+    stringTokens: ["Europe"]
+    countriesIn: ["Russia", "France", "Belgium", "Germany", "Spain", "Luxembourg", "Austria", "Italy", "Greece", "Portugal", "Switzerland", "United Kingdom", "Netherlands", "Poland", "Ukraine", "Sweden", "Norway", "Ireland", "Denmark", "Croatia", "Romania", "Turkey", "Iceland", "Finland", "Czechia", "Albania", "Hungary", "Malta", "Liechtenstein", "Serbia", "Cyprus", "Bulgaria", "Lithuania", "Slovenia", "Estonia", "Lativia", "Vatican City", "Monaco", "Montenegro", "Kosovo", "Bosnia and Herzegovina", "Andorra", "Moldova", "Belarus", "North Macedonia", "Faroe Islands", "San Marino", "Holy See"]
+  northamericaContinent:
+    stringTokens: ["North America"]
+    countriesIn: ["United States of America", "Mexico", "Canada", "Guatemala", "Haiti", "Dominican Republic", "Cuba", "Honduras", "Nicaragua", "El Salvador", "Costa Rica", "Panama", "Puerto Rico", "Jamaica", "Trinidad and Tobago", "Bahamas", "Belize", "Guadeloupe", "Martinique", "Barbados", "Curacao", "Saint Lucia", "Grenada", "Aruba", "Saint Vincent and the Grenadines", "United States Virgin Islands", "Antigua and Barbuda", "Dominica", "Cayman Islands", "Bermuda", "Greenland", "Saint Kitts and Nevis", "Turks and Caicos Islands", "Sint Maarten", "Saint Martin", "British Virgin Islands", "Caribbean Netherlands", "Anguilla", "saint Barthelemy", "Saint Pierre and Miquelon", "Montserrat"]
+  antarcticaContinent:
+    stringTokens: ["Antarctica"]
+    countriesIn: ["Antarctica"]
+  southamericaContinent:
+    stringTokens: ["South America"]
+    countriesIn: ["Brazil", "Argentina", "Colombia", "Peru", "Venezuela", "Chile", "Ecuador", "Bolivia", "Paraguay", "Uruguay", "Guyana", "Suriname", "French Guiana", "Falkland Islands"]
+  africaContinent:
+    stringTokens: ["Africa"]
+    countriesIn: [ 
   internationalNonGovernmentalOrganizedGroup:
     stringTokens: ["ActionAid", "ACTED", "ADRA", "AIESEC", "CAFOD", "CARE", "CRS", "Cuso International", "Danish Relief Council", "Islamic Relief", "International
                     Olympic Committee", "Mercy Corps", "Oxfam", "Save the Children", "SOS Children's Villages", "Tzu Chi Foundation", "World Vision International",
