@@ -50,13 +50,13 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
 Continents: 
   asiaContinent:
     stringTokens: ["Asia"]
-    countriesIn: ["China", "Japan", "Indonesia", "Malaysia", "India", "Pakistan", "Bangladesh", "Phillippines", "Vietnam", "Thailand", "Myanmar", "South Korea", "Uzbekistan", "Malaysia", "Nepal", "North Korea", "Kazakhstan", "Cambodia", "Azerbaijan", "Tajikistan", "Laos", "Kyrgyzstan", "Turkmenistan", "Singapore", "Georgia", "Armenia", "Mongolia", "Bahrain", "Timor-Leste", "Bhutan", "Maldives", "Brunei"]
+    countriesIn: ["China", "Japan", "Indonesia", "Malaysia", "India", "Pakistan", "Bangladesh", "Phillippines", "Vietnam", "Thailand", "Myanmar", "South Korea", "Uzbekistan", "Malaysia", "Nepal", "North Korea", "Kazakhstan", "Cambodia", "Azerbaijan", "Tajikistan", "Laos", "Kyrgyzstan", "Turkmenistan", "Singapore", "Georgia", "Armenia", "Mongolia", "Timor-Leste", "Bhutan", "Maldives", "Brunei"]
   europeContinent:
     stringTokens: ["Europe"]
     countriesIn: ["Russia", "France", "Belgium", "Germany", "Spain", "Luxembourg", "Austria", "Italy", "Greece", "Portugal", "Switzerland", "United Kingdom", "Netherlands", "Poland", "Ukraine", "Sweden", "Norway", "Ireland", "Denmark", "Croatia", "Romania", "Turkey", "Iceland", "Finland", "Czechia", "Albania", "Hungary", "Malta", "Liechtenstein", "Serbia", "Cyprus", "Bulgaria", "Lithuania", "Slovenia", "Estonia", "Lativia", "Vatican City", "Monaco", "Montenegro", "Kosovo", "Bosnia and Herzegovina", "Andorra", "Moldova", "Belarus", "North Macedonia", "Faroe Islands", "San Marino", "Holy See"]
   northamericaContinent:
     stringTokens: ["North America"]
-    countriesIn: ["United States of America", "Mexico", "Canada", "Guatemala", "Haiti", "Dominican Republic", "Cuba", "Honduras", "Nicaragua", "El Salvador", "Costa Rica", "Panama", "Puerto Rico", "Jamaica", "Trinidad and Tobago", "Bahamas", "Belize", "Guadeloupe", "Martinique", "Barbados", "Curacao", "Saint Lucia", "Grenada", "Aruba", "Saint Vincent and the Grenadines", "United States Virgin Islands", "Antigua and Barbuda", "Dominica", "Cayman Islands", "Bermuda", "Greenland", "Saint Kitts and Nevis", "Turks and Caicos Islands", "Sint Maarten", "Saint Martin", "British Virgin Islands", "Caribbean Netherlands", "Anguilla", "Saint Barthelemy", "Saint Pierre and Miquelon", "Montserrat"]
+    countriesIn: ["United States of America", "Mexico", "Canada", "Guatemala", "Haiti", "The Dominican Republic", "Cuba", "Honduras", "Nicaragua", "El Salvador", "Costa Rica", "Panama", "Puerto Rico", "Jamaica", "Trinidad and Tobago", "Bahamas", "Belize", "Guadeloupe", "Martinique", "Barbados", "Curacao", "Saint Lucia", "Grenada", "Aruba", "Saint Vincent and the Grenadines", "United States Virgin Islands", "Antigua and Barbuda", "Dominica", "Cayman Islands", "Bermuda", "Greenland", "Saint Kitts and Nevis", "Turks and Caicos Islands", "Sint Maarten", "Saint Martin", "British Virgin Islands", "Caribbean Netherlands", "Anguilla", "Saint Barthelemy", "Saint Pierre and Miquelon", "Montserrat"]
   antarcticaContinent:
     stringTokens: ["Antarctica"]
     countriesIn: ["Antarctica"]
@@ -65,13 +65,19 @@ Continents:
     countriesIn: ["Nigeria", "Ethiopia", "Egypt", "Democratic Republic of Congo", "Tanzania", "South Africa", "Kenya", "Uganda", "Sudan", "Algeria", "Morocco", "Angola", "Ghana", "Mozambique", "Madagascar", "Cote d'Ivoire", "Cameroon", "Niger", "Mali", "Burkina Faso", "Malawi", "Zambia", "Chad", "Somalia", "Senegal", "Zimbabwe", "Guinea", "Rwanda", "Benin", "Burundi", "Tunisia", "South Sudan", "Togo", "Sierra Leone", "Libya", "Congo", "Central African Republic", "Liberia", "Mauritania", "Eritrea", "Gambia", "Botswana", "Namibia", "Gabon", "Lesotho", "Guinea-Bissau", "Equatorial Guinea", "Mauritius", "Eswatini", "Djibouti", "Comoros", "Cabo Verde", "Sao Tome and Principe", "Seychelles"]
   southamericaContinent:
     stringTokens: ["South America"]
-    countriesIn: ["Argentina", "Bolivia", "Brazil", "Chile", "Col
-  southamericaContinent:
-    stringTokens: ["South America"]
     countriesIn: ["Brazil", "Argentina", "Colombia", "Peru", "Venezuela", "Chile", "Ecuador", "Bolivia", "Paraguay", "Uruguay", "Guyana", "Suriname", "French Guiana", "Falkland Islands"]
-  africaContinent:
-    stringTokens: ["Africa"]
-    countriesIn: [ 
+  middleeastContinent:
+    stringTokens: ["Middle East"]
+    countriesIn: ["Akrotiri and Dhekelia", "Bahrain", "Cyprus", "Egypt", "Iran", "Iraq", "Israel", "Jordan", "Kuwait", "Lebanon", "Oman", "Palestine", "Qatar", "Saudi Arabia", "Syria", "United Arab Emirates", "Yemen"]
+  australiaContinent:
+    stringTokens: ["Australia"]
+    countriesIn: ["Australia", "Papa New Guinea", "New Zealand", "Fiji", "Solomon Islands", "Micronesia", "Vanuatu", "French Polynesia", "New Caledonia", "Samoa", "Guam", "Kiribati", "Tonga", "Northern Mariana Islands", "American Samoa", "Marshall Islands", "Palau", "Cook Islands", "Nauru", "Wallis and Futuna Islands", "Tuvalu", "Niue", "Tokelau"] 
+  internationalGovernmentalOrganizedGroup:
+    stringTokens: ["UN", "UNCDF", "UNICEF", "UNIFEM", "UNDP", "UNEP", "UNHCR", "UN HABITAT", "UNITAR", "UNODC", "UNFPA", "UNRWA", "UNU", "UNV", "ICJ", "ICSC", "ICTY", "ICTR", "INSTRAW", "UNAIDS", "WFP", "FAO", "IARC", "IAEA", "ICAO", "IFAD", "ILO", "IMO", "ITU", "UNESCO", "UPU", "WHO", "WIPO", "WMO", "BIS", "IMF", "NADB", "UN Regional Development Banks", 
+                   "African Development Bank", "ADB", "EBRD", "IDB", "World Bank Group", "IBRD", "ICSID", "IFC", "MIGA", "BECC", "CIAT", "IAII", "IICA", "IAI", "IATTC", "OAS", "PAHO", "PAIGH", "ACPF", "PUASP", "APERC", "Colombo Plan Council", "GLFC", "IEA", "MEDRC", "NAA", "NATO", "NEA", "OECD", "SPC", "CIFOR", "CEC", "Commission for Labor Cooperation", "CCAMLR",
+                   "CTBTO", "CITES", "COSPAS-SARSAT", "ECC", "GBIF", "TGF", "HCOPIL", "International Agreement on the Maintenance of Certain Lights in the Red Sea", "PCA", "International Bureau for the Protection of Industrial Property", "International Bureau for the Publication of Customs Tariffs", "BIPM", "ICARDA", "ICCROM", "ICO", "ICCAT", "ICRC", "ICAC", "ICES", 
+                   "INTERPOL", "ICRISAT", "IDLO", "IEFS", "IFDC", "IGC", "HFSP", "IHO", "International Institute for Cotton", "UNIDROIT", "IMSO", "OIML", "IOM", "INTOSAI", "IPGRI", "IRENA", "IRSG", "ISTC", "ISTA", "ISNAR", "ITSO", "ITC", "ITTO", "International Union of Credit and Investment Insurers", "IWC", "IPU", "Iran-United States Claims Tribunal", "ITER", "KEDO", 
+                   "MFO", "CEC", "NPAFC", "OPCW", "OSCE", "PASO", "PIANC", "REC", "STCU", "Sierra Leone Special Court", "WCO", "The World Heritage Fund", "OIE", "WTO"]
   internationalNonGovernmentalOrganizedGroup:
     stringTokens: ["ActionAid", "ACTED", "ADRA", "AIESEC", "CAFOD", "CARE", "CRS", "Cuso International", "Danish Relief Council", "Islamic Relief", "International
                     Olympic Committee", "Mercy Corps", "Oxfam", "Save the Children", "SOS Children's Villages", "Tzu Chi Foundation", "World Vision International",
