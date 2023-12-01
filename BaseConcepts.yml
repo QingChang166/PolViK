@@ -56,10 +56,16 @@ Continents:
     countriesIn: ["Russia", "France", "Belgium", "Germany", "Spain", "Luxembourg", "Austria", "Italy", "Greece", "Portugal", "Switzerland", "United Kingdom", "Netherlands", "Poland", "Ukraine", "Sweden", "Norway", "Ireland", "Denmark", "Croatia", "Romania", "Turkey", "Iceland", "Finland", "Czechia", "Albania", "Hungary", "Malta", "Liechtenstein", "Serbia", "Cyprus", "Bulgaria", "Lithuania", "Slovenia", "Estonia", "Lativia", "Vatican City", "Monaco", "Montenegro", "Kosovo", "Bosnia and Herzegovina", "Andorra", "Moldova", "Belarus", "North Macedonia", "Faroe Islands", "San Marino", "Holy See"]
   northamericaContinent:
     stringTokens: ["North America"]
-    countriesIn: ["United States of America", "Mexico", "Canada", "Guatemala", "Haiti", "Dominican Republic", "Cuba", "Honduras", "Nicaragua", "El Salvador", "Costa Rica", "Panama", "Puerto Rico", "Jamaica", "Trinidad and Tobago", "Bahamas", "Belize", "Guadeloupe", "Martinique", "Barbados", "Curacao", "Saint Lucia", "Grenada", "Aruba", "Saint Vincent and the Grenadines", "United States Virgin Islands", "Antigua and Barbuda", "Dominica", "Cayman Islands", "Bermuda", "Greenland", "Saint Kitts and Nevis", "Turks and Caicos Islands", "Sint Maarten", "Saint Martin", "British Virgin Islands", "Caribbean Netherlands", "Anguilla", "saint Barthelemy", "Saint Pierre and Miquelon", "Montserrat"]
+    countriesIn: ["United States of America", "Mexico", "Canada", "Guatemala", "Haiti", "Dominican Republic", "Cuba", "Honduras", "Nicaragua", "El Salvador", "Costa Rica", "Panama", "Puerto Rico", "Jamaica", "Trinidad and Tobago", "Bahamas", "Belize", "Guadeloupe", "Martinique", "Barbados", "Curacao", "Saint Lucia", "Grenada", "Aruba", "Saint Vincent and the Grenadines", "United States Virgin Islands", "Antigua and Barbuda", "Dominica", "Cayman Islands", "Bermuda", "Greenland", "Saint Kitts and Nevis", "Turks and Caicos Islands", "Sint Maarten", "Saint Martin", "British Virgin Islands", "Caribbean Netherlands", "Anguilla", "Saint Barthelemy", "Saint Pierre and Miquelon", "Montserrat"]
   antarcticaContinent:
     stringTokens: ["Antarctica"]
     countriesIn: ["Antarctica"]
+  africaContinent: 
+    stringTokens: ["Africa"]
+    countriesIn: ["Nigeria", "Ethiopia", "Egypt", "Democratic Republic of Congo", "Tanzania", "South Africa", "Kenya", "Uganda", "Sudan", "Algeria", "Morocco", "Angola", "Ghana", "Mozambique", "Madagascar", "Cote d'Ivoire", "Cameroon", "Niger", "Mali", "Burkina Faso", "Malawi", "Zambia", "Chad", "Somalia", "Senegal", "Zimbabwe", "Guinea", "Rwanda", "Benin", "Burundi", "Tunisia", "South Sudan", "Togo", "Sierra Leone", "Libya", "Congo", "Central African Republic", "Liberia", "Mauritania", "Eritrea", "Gambia", "Botswana", "Namibia", "Gabon", "Lesotho", "Guinea-Bissau", "Equatorial Guinea", "Mauritius", "Eswatini", "Djibouti", "Comoros", "Cabo Verde", "Sao Tome and Principe", "Seychelles"]
+  southamericaContinent:
+    stringTokens: ["South America"]
+    countriesIn: ["Argentina", "Bolivia", "Brazil", "Chile", "Col
   southamericaContinent:
     stringTokens: ["South America"]
     countriesIn: ["Brazil", "Argentina", "Colombia", "Peru", "Venezuela", "Chile", "Ecuador", "Bolivia", "Paraguay", "Uruguay", "Guyana", "Suriname", "French Guiana", "Falkland Islands"]
