@@ -32,7 +32,9 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   foreignPeopleNonmigrant: 
      stringTokens: ["foreign", "foreign workers", "foreign diplomats", "diplomats", "diplomatic representatives", "foreign nationals", "expatriate"]
   foreignPeoplemigrant: 
-     stringTokens: ["displaced people", "migrant", "refugee", "aslyee", "displaced populations", "displaced persons", "IDPS"]
+     stringTokens: ["migrant", "refugee", "aslyee", "undocumented"]
+  DisplacedPeople: 
+     stringTokens: ["displaced people", "displaced populations", "displaced persons", "IDPS", "internally displaced"]
   organizedGroup:
     stringTokens: ["organization", "group"]
   religiousGroup: 
