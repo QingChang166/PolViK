@@ -17,7 +17,7 @@ concepts:
    livesIn: ["Kasai"]
   hundeEthnicGroup:  ##start here with attributes
    stringTokens: ["Hunde", "Hunde people"]
-   wikidataQnode: ["Q3143295]
+   wikidataQnode: ["Q3143295"]
    religionsMostPracticed: ["Bantu spirituality", "Christianity", "Islam"]
    livesIn: ["South Kivu", "North Kivu"] 
   kongoEthnicGroup:
@@ -59,7 +59,7 @@ concepts:
   tshokweEthnicGroup:
    stringTokens: ["Tshokwe", "Tshokwe people", "Chokwe", "Ciokwe", "Cokwe", "Bajokwe", "Badjok", "Quioco"]
    wikidataQnode: ["Q1075883"]
-   religionsMostPracticed: ["Christian", "Animist"]
+   religionsMostPracticed: ["Christian", "animist"]
   yakaEthnicGroup:
    stringTokens: ["Yaka", "Yaka people", "Bayaka"]
    wikidataQnode: ["Q2749225"] 
