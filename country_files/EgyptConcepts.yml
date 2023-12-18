@@ -1,6 +1,6 @@
 concepts:
   EgyptianSecurityForces:
-    stringTokens: ["Egyptian Armed Forces", "Egyptian military", "military of Egypt", "mil Egypt", "alquwwat almusalahat almisria"]
+    stringTokens: ["Egyptian Armed Forces", "Egyptian military", "military of Egypt", "mil Egypt", "alquwwat almusalahat almisria", "Supreme Council of the Armed Forces", "SCAF"]
     wikidataQnode: ["Q1075553"]
 
 ##EthnicGroups
@@ -144,32 +144,31 @@ concepts:
   TawhidwalJihadArmedGroup:
    stringTokens: ["Tawhid wal-Jihad", "Jahafil Al-Tawhid Wal-Jihad fi Filastin", "Tawhid al-Jihad (Gaza Strip)", "The Armies of Monotheism and Jihad in Palestine", "al-Tawhid wal-Jihad"]
    associatedEthnicGroup: ["Palestinians", "Palestinian Arabs", "Arab Palestinians", "Palestinian people"]
-   wikidataQnode:["Q7689274"]"Jamaat Ansar al-Sunnah", "Jaish Ansar al-Sunna", ""
+   wikidataQnode: ["Q7689274"]"Jamaat Ansar al-Sunnah", "Jaish Ansar al-Sunna", ""
   ABMArmedGroup:
    stringTokens: ["Ansar Bait al-Maqdis", "ABM", "Ansar Al-Quds"] # Defunct Egyptian jihadist militant group (2011-14). Most of the group became a branch of ISIL, renaming itself ISIL-Sinai Province.
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
-   wikidataQnode:["Q15646812"]
+   wikidataQnode: ["Q15646812"]
   HASMArmedGroup:
    stringTokens: ["Hasm Movement", "Arms of Egypt Movement", "The Hasm Movement", "Harakat Sawa’d Misr", "Harakah Sawa’id Misr", "Harikat Souaid Misr", "HASM", "Movement of Egypt’s Forearms", "Movement of Egypt’s Arms", "Hassm", "Hamms", "Hassam", "Hasam"]
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
-   wikidataQnode:["Q28162759"]
+   wikidataQnode: ["Q28162759"]
   AAIArmedGroup:
    stringTokens: ["Ansar al-Islam", "Ansar al-Sunna", "Jamaat Ansar al-Islam", "AI", "JAI", "AAI", "Ansar al-Islam fi Kurdistan"]
    associatedEthnicGroup: ["Kurds", "Kurdish people", "Kurd"]
-   wikidataQnode:["Q568914"]
+   wikidataQnode: ["Q568914"]
   EIJArmedGroup:
    stringTokens: ["Egyptian Islamic Jihad", "EIJ", "The Jihad Group", "The Jihad Organization", "al-Jihad", "The Jihad Organization"]
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
-   wikidataQnode:["Q310214"]
+   wikidataQnode: ["Q310214"]
   # Pro-Government Militias
   BaltagiyaGovernmentMilitia:
    stringTokens: ["Mubarak's Thugs/Baltagiya", "Mubarak's Baltagiya", "Mubarak's Thugs"] # Jan 1, 1990 - Feb 11, 2011
    associatedEthnicGroup: []
-   wikidataQnode:[]
+   wikidataQnode: []
   MBGovernmentMilitia:
-   stringTokens: ["Muslim Brotherhood Gangs", "Muslim Brotherhood"] # Dec 10, 2012 - Jul 3, 2013
-   associatedEthnicGroup: []
-   wikidataQnode:["Q16190895"]
+   stringTokens: ["Muslim Brotherhood Gangs", "Muslim Brotherhood", "MB", "Brotherhood"] # Dec 10, 2012 - Jul 3, 2013
+   wikidataQnode: ["Q16190895"]
   # Tribal groups omitted
   
   
