@@ -1,6 +1,6 @@
 concepts:
     ChadianSecurityForces:
-     stringTokens: ["Chadian Security Forces", "CSF", "Chad National Army", "Military of Chad"]
+     stringTokens: ["Chadian Security Forces", "CSF", "Chad National Army", "Military of Chad", "Chadian National Army", "ANT"]
      wikidataQnode: ["Q874971"]
   ## ethnicgroups
    toubouEthnicGroup:
@@ -41,54 +41,54 @@ concepts:
      livesIn: ["Ouaddaï", "Sila"]
   ## politicalparties
    csaParty:
-     stringTokens: ["Chadian Social Action"]
+     stringTokens: ["Chadian Social Action", "AST", "Action Sociale Tchadienne"]
      wikidataQnode:  ["Q5066454"]
-   cppParty:
-     stringTokens: ["National Movement for the Cultural and Social Revolution", "Chadian Progressive Party"]
+   pptParty:
+     stringTokens: ["National Movement for the Cultural and Social Revolution", "Chadian Progressive Party", "PPT"]
      wikidataQnode:  ["Q1970314"]
      associatedEthnicGroup: ["Sara people"]
    urdParty:
-     stringTokens: ["Union for Renewal and Democracy"]
+     stringTokens: ["Union for Renewal and Democracy", "URD]
      wikidataQnode:  ["Q669116"]
    mpsParty:
-     stringTokens: ["Patriotic Salvation Movement"]
+     stringTokens: ["Patriotic Salvation Movement", "MPS"]
      wikidataQnode:  ["Q1576278"]
    rdpParty:
-     stringTokens: ["Rally for Democracy and Progress"]
+     stringTokens: ["Rally for Democracy and Progress", "Rassemblement pour la démocratie et le progrès"]
      wikidataQnode:  ["Q3623619"]
    farParty:
-     stringTokens: ["Federation, Action for the Republic"]
+     stringTokens: ["Federation, Action for the Republic", "FAR"]
      wikidataQnode:  ["Q5440722"]
    unirParty:
-     stringTokens: ["National Union for Independence and Revolution"]
+     stringTokens: ["National Union for Independence and Revolution", "UNIR"]
      wikidataQnode:  ["Q6979102"]
      yearsActiveasParty: ["1984-1990"]
    undrParty:
-     stringTokens: ["National Union for Democracy and Renewal"]
+     stringTokens: ["National Union for Democracy and Renewal", "UNDR"]
      wikidataQnode:  ["Q1168907"]
    uditParty:
-     stringTokens: ["Independent Democratic Union of Chad"]
+     stringTokens: ["Independent Democratic Union of Chad", "UDIT"]
      wikidataQnode:  ["Q20982164"]
    girtParty:
-     stringTokens: ["Grouping of Rural and Independent Chadians"]
+     stringTokens: ["Grouping of Rural and Independent Chadians", "GIRT"]
      wikidataQnode:  ["Q5611313"]
    msaParty:
-     stringTokens: ["African Socialist Movement"]
+     stringTokens: ["African Socialist Movement", "APSP"]
      wikidataQnode:  ["Q3326838"]
    udsrParty:
-     stringTokens: ["Democratic and Socialist Union of the Resistance"]
+     stringTokens: ["Democratic and Socialist Union of the Resistance", "UDSR"]
      wikidataQnode:  ["Q2164587"]
    psitParty:
-     stringTokens: ["Independent Socialist Party of Chad"]
+     stringTokens: ["Independent Socialist Party of Chad", "PSIT"]
      wikidataQnode:  ["Q1705046"]
    nrcdParty:
-     stringTokens: ["National Rally of Chadian Democrats ", "National Rally for Democracy in Chad"]
+     stringTokens: ["National Rally of Chadian Democrats", "National Rally for Democracy in Chad"]
      wikidataQnode:  ["Q6975198"]
    udtParty:
-     stringTokens: ["Chadian Democratic Union"]
+     stringTokens: ["Chadian Democratic Union", "Democratic Union", "UDT"]
      wikidataQnode:  ["Q3550258"]
-   nrdcParty:
-     stringTokens: ["National Rally for Development and Progress"]
+   vivaParty:
+     stringTokens: ["National Rally for Development and Progress", "VIVA"]
      wikidataQnode:  ["Q3658492"]
 ## armed groups
    factArmedGroup:
