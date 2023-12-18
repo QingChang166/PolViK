@@ -82,7 +82,17 @@ concepts:
      stringTokens: ["New Dawn", "New Dawn Party"]
      wikidataQnode:  ["Q12207717"]
      yearsActiveasParty: ["2012-present"]
-  
+
+   RCDParty:
+     stringTokens: ["RCD", "Rally for Culture and Democracy"]
+     wikidataQnode:  ["Q1627773"]
+     yearsActiveasParty: ["1989-present"]
+
+   FISParty:
+     stringTokens: ["FIS", "Islamic Salvation Front", "al-Jabhah al-Islāmiyah lil-Inqādh", "Front Islamique du Salut"]
+     wikidataQnode: ["Q734545"]
+     yearsActiveasParty: ["1989-1992"]
+
   ## armed groups
    GIAArmedGroup:
      stringTokens: ["Armed Islamic Group of Algeria"]
