@@ -132,6 +132,24 @@ concepts:
   ufrArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UFR", "Union des Forces Républicaines", "Union of Republican Forces"]
    yearsActiveasArmedGroup: ["2006-2008"]
+  ufdrArmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["UFDR", "Union of Democratic Forces for Unity", "Union des Forces Démocratiques pour le Rassemblement"]
+   yearsActiveasArmedGroup: ["2006-2012"]
+   wikidataQnode: ["Q1771298"]
+  mlcArmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Movement for the Liberation of the Congo"]
+   yearsActiveasArmedGroup: ["2003-present"]
+   wikidataQnode: ["Q144806"]
+   
+##politicalparty
+  mlpcPoliticalParty:
+   stringTokens: ["MLPC", "Movement for the Liberation of the Central African People"]
+   yearsactiveasPoliticalParty: ["1978-present"]
+   wikidataQnode: ["Q3326601"]
+  rdcPoliticalParty: 
+   stringTokens: ["RDC", "Central African Democratic Rally"]
+   yarsactiveasPoliticalParty: ["1987-present"]
+   wikidataQnode: ["Q1582199"]
 
 
 
