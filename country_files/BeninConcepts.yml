@@ -214,7 +214,10 @@ concepts:
      stringTokens: ["African People's Bloc"]
      wikidataQnode:  ["Q18161664"]
 
-  
+    saParty:
+     stringTokens: ["Star Alliance", "Alliance Étoile"]
+     wikidataQnode: ["Q15513264"]
+
   ## armed groups
     jnimArmedGroup:
      stringTokens: ["Jama'at Nasr al-Islam wal Muslimin", "JNIM"]
