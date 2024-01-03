@@ -118,16 +118,28 @@ concepts:
 ###PoliticalParties
 
   ANCParty:
-   stringTokens: ["African National Congress", "ANC", "SANNC"]
+   stringTokens: ["African National Congress", "ANC", "SANNC", "African National Congress Party"]
    associatedEthnicGroup: [] # anti apartheid
    wikidataQnode: ["Q83162"]
    yearsActiveasParty: ["1912-present"] # legalized in 1990  
+  
+  AbMParty:
+   stringTokens: ["Abahlali baseMjondolo", "AbM", "Umbutho wabampofu", "the residents of the shacks"] #a socialist shack dwellers' movement
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q644673"] # Since it is a social movement for the shack people, I don't know if it is feasible to place this concept under the "party". 
+   yearsActiveasParty: ["2005-present"]
   
   ACDPParty:
    stringTokens: ["African Christian Democratic Party", "ACDP"]
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q268613"]
    yearsActiveasParty: ["1993-present"]
+  
+  AgangParty:
+   stringTokens: ["Agang South Africa", "Agang"]
+   associatedEthnicGroup: ["African People"] # anti apartheid
+   wikidataQnode: ["Q4969082"]
+   yearsActiveasParty: ["2013-2019"]
   
   APParty:
    stringTokens: ["Afrikaner Party"]
@@ -244,7 +256,7 @@ concepts:
    yearsActiveasParty: ["1914-1997"]
   
   NFPParty:
-   stringTokens: ["National Federal Party"]
+   stringTokens: ["National Federal Party", "NFP"]
    associatedEthnicGroup: []
    wikidataQnode: []
    yearsActiveasParty: ["1989"]
@@ -496,6 +508,13 @@ concepts:
    associatedPoliticalParty: []
    wikidataQnode: ["Q110800315"]
    yearsActiveasArmedGroup: [""]
+  
+  PAGADArmedGroup:
+   stringTokens: ["PAGAD", "People Against Gangsterism and Drugs"] # An organized and armed group killing gang leaders
+   associatedEthnicGroup: []
+   associatedPoliticalParty: []
+   wikidataQnode: ["Q2254846"]
+   yearsActiveasArmedGroup: ["1996-present"]
   
   NUMArmedGroup:
    stringTokens: ["National Union of Mineworkers", "NUM"]

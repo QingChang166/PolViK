@@ -11,66 +11,112 @@ concepts:
     religionsMostPracticed: ["Islam"]
     livesIn: ["Alexandria", "Assiut", "Aswan", "Behera", "Beni Suef", "Cairo", "Dakahlia", "Damietta", "Fayoum", "Gharbia", "Giza", "Ismailia", "Kafr El-Shikh", "Kalyoubia", "Luxor", "Matrouh", "Menia", "Menoufia", "New Valley", "North Sinai", "Port Said", "Qena", "Red Sea", "Sharkia", "South Sinai", "Suez", "Suhag"] 
   CoptsEthnicGroup:
-    stringTokens: ["Copts", "Copt"]
+    stringTokens: ["Copts", "Copt", "Christian"]
     wikidataQnode: ["Q146744"]
     languagesMostSpoken: ["Arabic", "Coptic"]
-    religionsMostPracticed: ["Coptic Christianity"]
+    religionsMostPracticed: ["Coptic Christianity", "Christianity"]
     livesIn: ["Beni Suef", "Cairo", "Giza", "New Valley", "Suhag"] 
+  
   # Below are less than 5%
-  #AbazinsEthnicGroup:
-  #  stringTokens: ["Abazins", "Abaza", "Abazinians", "Abazalar  MBArmedGroup:
-  #  wikidataQnode: ["Q213040"]
-  #  languagesMostSpoken: ["Abaza", "Russian", "Arabic", "Turkish"]
-  #  religionsMostPracticed: ["Sunni Islam"]
-  #  livesIn: ["Sharkia"] 
-  #TurksEthnicGroup:
-  #  stringTokens: ["Turks", "Turkish people", "people of Turkey"]
-  #  wikidataQnode: ["Q84072"]
-  #  languagesMostSpoken: ["Turkish", "Arabic"]
-  #  religionsMostPracticed: ["Sunni Islam"]
-  #  livesIn: ["Kalyoubia"] 
-  #GreeksEthnicGroup:
-  #  stringTokens: ["Greeks", "Proto-Greeks", "Helladians", "Greek people", "Hellenes", "Egyptiotes"]
-  #  wikidataQnode: ["Q539051"]
-  #  languagesMostSpoken: ["Greek", "Arabic", "French", "English"]
-  #  religionsMostPracticed: ["Coptic Christianity", "Greek Christianity"]
-  #  livesIn: ["Alexandria", "Cairo"] 
-  #BedouinEthnicGroup:
-  #  stringTokens: ["Bedouin", "Bedouins", "Bedouin people", "Bedouin tribes", "Beduin", "Bedu", "Badū", "Badawī"]
-  #  wikidataQnode: ["Q180688"]
-  #  languagesMostSpoken: ["Arabic", "Mehri"]
-  #  religionsMostPracticed: ["Sunni Islam"]
-  #  livesIn: ["North Sinai"] 
-  #SiwiEthnicGroup:
-  #  stringTokens: ["Siwi people", "Siwan people", "Amazigh", "Berber", "Imazighen"] # belongs to "Berbers". I don't know if we need to add them in the tags.
-  #  wikidataQnode: ["Q2435861"]
-  #  languagesMostSpoken: ["Siwi Berber", "Arabic"]
-  #  religionsMostPracticed: ["Islam"]
-  #  livesIn: ["Matrouh"] 
-  #NubiansEthnicGroup:
-  #  stringTokens: ["Nubian people", "Nubians"]
-  #  wikidataQnode: ["Q15140604"]
-  #  languagesMostSpoken: ["Nubian languages", "Arabic"]
-  #  religionsMostPracticed: ["Sunni Islam"]
-  #  livesIn: ["Aswan"] 
-  #BejaEthnicGroup:
-  #  stringTokens: ["Beja people", "Blemmyes"]
-  #  wikidataQnode: ["Q813961"]
-  #  languagesMostSpoken: ["Arabic", "Beja", "Tigre"]
-  #  religionsMostPracticed: ["Sunni Islam"]
-  #  livesIn: ["Aswan"] 
-  #DomEthnicGroup:
-  #  stringTokens: ["Dom people", "Domi", "Doms", "Ghagar", "Domari", "Romani"] # Historically known as "Gypsian/Romani people"
-  #  wikidataQnode: ["Q2656122"]
-  #  languagesMostSpoken: ["Domari", "Arabic"]
-  #  religionsMostPracticed: ["Islam", "Christianity", "Romani religion"]
-  #  livesIn: ["Alexandria", "Behera"] 
+  AbazinsEthnicGroup:
+    stringTokens: ["Abazins", "Abaza", "Abazinians", "Abazalar  MBArmedGroup:
+    wikidataQnode: ["Q213040"]
+    languagesMostSpoken: ["Abaza", "Russian", "Arabic", "Turkish"]
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: ["Sharkia"] 
+  TurksEthnicGroup:
+    stringTokens: ["Turks", "Turkish people", "people of Turkey"]
+    wikidataQnode: ["Q84072"]
+    languagesMostSpoken: ["Turkish", "Arabic"]
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: ["Kalyoubia"] 
+  GreeksEthnicGroup:
+    stringTokens: ["Greeks", "Proto-Greeks", "Helladians", "Greek people", "Hellenes", "Egyptiotes"]
+    wikidataQnode: ["Q539051"]
+    languagesMostSpoken: ["Greek", "Arabic", "French", "English"]
+    religionsMostPracticed: ["Coptic Christianity", "Greek Christianity"]
+    livesIn: ["Alexandria", "Cairo"] 
+  BedouinEthnicGroup:
+    stringTokens: ["Bedouin", "Bedouins", "Bedouin people", "Bedouin tribes", "Beduin", "Bedu", "Badū", "Badawī"]
+    wikidataQnode: ["Q180688"]
+    languagesMostSpoken: ["Arabic", "Mehri"]
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: ["North Sinai"] 
+  SiwiEthnicGroup:
+    stringTokens: ["Siwi people", "Siwan people", "Amazigh", "Berber", "Imazighen"] # belongs to "Berbers". I don't know if we need to add them in the tags.
+    wikidataQnode: ["Q2435861"]
+    languagesMostSpoken: ["Siwi Berber", "Arabic"]
+    religionsMostPracticed: ["Islam"]
+    livesIn: ["Matrouh"] 
+  NubiansEthnicGroup:
+    stringTokens: ["Nubian people", "Nubians"]
+    wikidataQnode: ["Q15140604"]
+    languagesMostSpoken: ["Nubian languages", "Arabic"]
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: ["Aswan"] 
+  BejaEthnicGroup:
+    stringTokens: ["Beja people", "Blemmyes"]
+    wikidataQnode: ["Q813961"]
+    languagesMostSpoken: ["Arabic", "Beja", "Tigre"]
+    religionsMostPracticed: ["Sunni Islam"]
+    livesIn: ["Aswan"] 
+  DomEthnicGroup:
+    stringTokens: ["Dom people", "Domi", "Doms", "Ghagar", "Domari", "Romani"] # Historically known as "Gypsian/Romani people"
+    wikidataQnode: ["Q2656122"]
+    languagesMostSpoken: ["Domari", "Arabic"]
+    religionsMostPracticed: ["Islam", "Christianity", "Romani religion"]
+    livesIn: ["Alexandria", "Behera"] 
 
 ##PoliticalParties
   ASUParty:
    stringTokens: ["Arab Socialist Union", "ASU"] # Active during 1962-1978. In June 1977, the law of political party was enacted, leading to a shift to a multi-party system. The centre wing of the ASU evolved into the National Democratic Party since then.
    associatedEthnicGroup: [] # pan-Arabism, Secular
    wikidataQnode: ["Q624111"]
+  AlwasatParty:
+   stringTokens: ["al-Wasat Party", "Hizb al-Wasat", "Wasat", "Egyptian Wasat party", "Al-Wasat"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["1996-present"] #officially recognized in 2011 
+   wikidataQnode: ["Q291414"]
+  AlGhadParty:
+   stringTokens: ["el-Ghad", "el-Ghad Party", "Ḥizb el-Ghad", "al-Ghad Party", "AlGhad Party", "The Tomorrow Party"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["2001-present"]
+   wikidataQnode: ["Q286519"]
+  ElGeelParty:
+   stringTokens: ["El-Geel", "Democratic Generation Party", "Hizb El-Geel al-Democrati", "El Geel Democratic Party"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["2002-present"]
+   wikidataQnode: ["Q5255623"]
+  SocialistParty:
+   stringTokens: ["Socialist Party of Egypt", "Egyptian Socialist Party", "El-Hizb El-Ishtiraki El-Masri"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["2011-present"]
+   wikidataQnode: ["Q7551669"]
+  RepublicanParty:
+   stringTokens: ["Republican People's Party", "Republican Party", "Hezb Al-Shaeb Al-Gomhuri"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["2012-present"]
+   wikidataQnode: ["Q15980860"]
+  JusticeParty:
+   stringTokens: ["Justice Party", "Ḥizb el-Adl"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["2011-present"]
+   wikidataQnode: ["Q1346851"]
+  NationalistParty:
+   stringTokens: ["National Party of Egypt", "Hizb Masr al-Qawmi", "Nationalist Party"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["2011-present"] # by former members of NDP
+   wikidataQnode: ["Q4118028"]
+  DFPParty:
+   stringTokens: ["Democratic Front Party"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["2007-2013"] # merged into FEP in 2013
+   wikidataQnode: ["Q4120220"]
+  RenaissanceParty:
+   stringTokens: ["The Egyptian Renaissance Party", "Renaissance Party", "Revival Party"] 
+   associatedEthnicGroup: []
+   yearsActiveasParty: ["2011-present"] # by former members of NDP
+   wikidataQnode: ["Q502085"]        
   EBParty:
    stringTokens: ["Egyptian Bloc"] # An electoral alliance formed during 2011-2012 to prevent the Muslim Brotherhood, and its affiliated Freedom and Justice Party from winning.
    associatedEthnicGroup: []
@@ -84,7 +130,7 @@ concepts:
    associatedEthnicGroup: [] # Islamist political party
    wikidataQnode: ["Q685715"]
   HAIParty:
-   stringTokens: ["Liberal SocialisBaltagiyats Party", "HAI"] # Established in 1976 and dissolved in 2011
+   stringTokens: ["Liberal Socialis Party", "HAI"] # Established in 1976 and dissolved in 2011
    associatedEthnicGroup: [] # Islamic liberalism
    wikidataQnode: ["Q402650"]
   HaNParty:
@@ -120,7 +166,7 @@ concepts:
    associatedEthnicGroup: []
    wikidataQnode: ["Q12186375"]
   EILPParty:
-   stringTokens: ["Egyptian Islamic Labour Party", "Socialist Labour Party"] # Founded in 1978
+   stringTokens: ["Egyptian Islamic Labour Party", "Socialist Labour Party", "Socialist Labor Party"] # Founded in 1978
    associatedEthnicGroup: []
    wikidataQnode: ["Q253725"]
   NewWafdParty:
@@ -144,7 +190,7 @@ concepts:
   TawhidwalJihadArmedGroup:
    stringTokens: ["Tawhid wal-Jihad", "Jahafil Al-Tawhid Wal-Jihad fi Filastin", "Tawhid al-Jihad (Gaza Strip)", "The Armies of Monotheism and Jihad in Palestine", "al-Tawhid wal-Jihad"]
    associatedEthnicGroup: ["Palestinians", "Palestinian Arabs", "Arab Palestinians", "Palestinian people"]
-   wikidataQnode: ["Q7689274"]"Jamaat Ansar al-Sunnah", "Jaish Ansar al-Sunna", ""
+   wikidataQnode: ["Q7689274"]
   ABMArmedGroup:
    stringTokens: ["Ansar Bait al-Maqdis", "ABM", "Ansar Al-Quds"] # Defunct Egyptian jihadist militant group (2011-14). Most of the group became a branch of ISIL, renaming itself ISIL-Sinai Province.
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism

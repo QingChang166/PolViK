@@ -1,7 +1,7 @@
-concepts:
-  BotswanaDefenceForces:
+concepts: 
+  BotswanaDefenceForces: 
     stringTokens: ["Botswana Armed Forces", "BDF", "armed forces of Botswana", "mil Botswana", "military of Botswana"]
-    wikidataQnode:["Q740258"]
+    wikidataQnode: ["Q740258"]
 
 ###EthnicGroups:
   TswanaEthnicGroup:
@@ -26,7 +26,7 @@ concepts:
     livesIn: ["Ganzi", "Kgalagadi"]
   
   SanEthnicGroup:
-    stringTokens: ["San people", "Saan", "Bushmen", "Basarwa", "Sarwa", "Bosjesmans"]
+    stringTokens: ["San people", "Saan", "Bushmen", "Basarwa", "Sarwa", "Bosjesmans", "San"]
     wikidataQnode: ["Q172365"]
     languagesMostSpoken: ["Khoisan", "Khoe", "Tuu", "Kxʼa", "English", "Portuguese"]
     religionsMostPracticed: ["San religion", "Christianity"]
@@ -78,100 +78,100 @@ concepts:
 
 ###PoliticalParties
   BCPParty:
-   stringTokens: ["Botswana Congress Party", "BCP"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q4894021"]
-   yearsActiveasParty: ["1998-present"]
+    stringTokens: ["Botswana Congress Party", "BCP"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4894021"]
+    yearsActiveasParty: ["1998-present"]
   
   BDPParty:
-   stringTokens: ["Botswana Democratic Party", "BDP", "Bechuanaland Democratic Party"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q859825"]
-   yearsActiveasParty: ["1961-present"]
+    stringTokens: ["Botswana Democratic Party", "BDP", "Bechuanaland Democratic Party"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q859825"]
+    yearsActiveasParty: ["1961-present"]
   
   BIPParty:
-   stringTokens: ["Botswana Independence Party", "BIP", "Bechuanaland Independence Party"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q390056"]
-   yearsActiveasParty: ["1964-1995"]
+    stringTokens: ["Botswana Independence Party", "BIP", "Bechuanaland Independence Party"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q390056"]
+    yearsActiveasParty: ["1964-1995"]
   
   BWFParty:
-   stringTokens: ["Botswana Workers Front"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q4948932"]
-   yearsActiveasParty: ["1993"] #Joined UDF in 1994
+    stringTokens: ["Botswana Workers Front"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4948932"]
+    yearsActiveasParty: ["1993"] #Joined UDF in 1994
   
   BPFParty:
-   stringTokens: ["Botswana Patriotic Front", "BPF"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q72976241"]
-   yearsActiveasParty: ["2019-present"] # split from BDP
+    stringTokens: ["Botswana Patriotic Front", "BPF"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q72976241"]
+    yearsActiveasParty: ["2019-present"] # split from BDP
   
   APParty:
-   stringTokens: ["Alliance for Progressives", "AP"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q56295032"]
-   yearsActiveasParty: ["2017-present"] #split from BMD
+    stringTokens: ["Alliance for Progressives", "AP"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q56295032"]
+    yearsActiveasParty: ["2017-present"] #split from BMD
   
   NDFParty:
-   stringTokens: ["New Democratic Front", "NDF"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q4893598"]
-   yearsActiveasParty: ["2003-2004"] # split from BNF, joined forces with BCP in 2004
+    stringTokens: ["New Democratic Front", "NDF"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4893598"]
+    yearsActiveasParty: ["2003-2004"] # split from BNF, joined forces with BCP in 2004
   
   ISBOParty:
-   stringTokens: ["International Socialist Organization", "ISBO"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q4894013"]
-   yearsActiveasParty: [""]
+    stringTokens: ["International Socialist Organization", "ISBO"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4894013"]
+    yearsActiveasParty: [""]
   
   MELSParty:
-   stringTokens: ["MELS Movement of Botswana"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q949934"]
-   yearsActiveasParty: ["1994-present"]
+    stringTokens: ["MELS Movement of Botswana"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q949934"]
+    yearsActiveasParty: ["1994-present"]
 
   BNFParty:
-   stringTokens: ["Botswana National Front", "BNF"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q2310801"]
-   yearsActiveasParty: ["1965-present"]
+    stringTokens: ["Botswana National Front", "BNF"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q2310801"]
+    yearsActiveasParty: ["1965-present"]
   
   BPPParty:
-   stringTokens: ["Botswana People's Party", "BPP", "Bechuanaland People's Party"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q4893988"]
-   yearsActiveasParty: ["1960-present"]
+    stringTokens: ["Botswana People's Party", "BPP", "Bechuanaland People's Party"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4893988"]
+    yearsActiveasParty: ["1960-present"]
   
   UDCParty:
-   stringTokens: ["Umbrella for Democratic Change", "UDC"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q18347306"]
-   yearsActiveasParty: ["2012-present"]
+    stringTokens: ["Umbrella for Democratic Change", "UDC"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q18347306"]
+    yearsActiveasParty: ["2012-present"]
   
   BMDParty:
-   stringTokens: ["Botswana Movement for Democracy", "BMD"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q859682"]
-   yearsActiveasParty: ["2010-present"]
+    stringTokens: ["Botswana Movement for Democracy", "BMD"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q859682"]
+    yearsActiveasParty: ["2010-present"]
   
   BAMParty:
-   stringTokens: ["Botswana Alliance Movement", "BAM"]
-   associatedEthnicGroup: [""]
-   wikidataQnode: ["Q4893655"]
-   yearsActiveasParty: ["1999-2010"] # Merge into BCP
+    stringTokens: ["Botswana Alliance Movement", "BAM"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4893655"]
+    yearsActiveasParty: ["1999-2010"] # Merge into BCP
 
 ###ArmedGroups
 
- CLAArmedGroup:
-  stringTokens: ["Caprivi Liberation Army", "CLA"]
-  associatedEthnicGroup: ["Lozi people"]
-  wikidataQnode: ["Q2496137"]
-  yearsActive: ["1994-present"] #fled into Botswana in 1998 during thew Caprivi conflict
+  CLAArmedGroup:
+    stringTokens: ["Caprivi Liberation Army", "CLA"]
+    associatedEthnicGroup: ["Lozi people"]
+    wikidataQnode: ["Q2496137"]
+    yearsActive: ["1994-present"] #fled into Botswana in 1998 during thew Caprivi conflict
 
- MKArmedGroup:
-  stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
-  associatedEthnicGroup: []
-  associatedPoliticalParty: ["African National Congress", "ANC"]
-  wikidataQnode: ["Q1136236"]
-  yearsActiveasArmedGroup: ["1961-1993"] # terrorist attack in 1985
+  MKArmedGroup:
+    stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
+    associatedEthnicGroup: []
+    associatedPoliticalParty: ["African National Congress", "ANC"]
+    wikidataQnode: ["Q1136236"]
+    yearsActiveasArmedGroup: ["1961-1993"] # terrorist attack in 1985

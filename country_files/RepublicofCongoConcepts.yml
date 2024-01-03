@@ -66,8 +66,21 @@ concepts:
      languagesMostSpoken: ["Vili"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Atlantic coast", "Brazzaville"]
+     
+    pygmyEthnicGroup:
+     stringTokens: ["Pygmy peoples", "Pygmy people", "Pygmies", "Aka", "Baka", "Mbuti", "Pueblos pigmeos", "Pigmeos", "Pigmeo", "Pigmeo, Africano", "Gente del bosque"]
+     wikidataQnode: ["Q171927"]
+     languagesMostSpoken: ["Bantu languages", "Ubangian languages", "Central Sudanic languages"]
+     religionsMostPracticed: [""]
+     livesIn: [""]
     
   ## politicalparties
+    
+    caddParty:
+     stringTokens: ["Action Committee for the Defense of Democracy – Youth Movement", "CADD-MJ", "Comité d'action pour la défense de la démocratie - Mouvement de jeunesse"]
+     yearsActiveasArmed: ["1993-2013"]
+     wikidataQnode:  ["Q4677088"] #afflicated with PCT
+    
     upadsParty:
      stringTokens: ["Pan-African Union for Social Democracy"]
      wikidataQnode:  ["Q3550401"]
@@ -77,7 +90,7 @@ concepts:
      wikidataQnode:  ["Q1377588"]
   
     pctParty:
-     stringTokens: ["Congolese Party of Labour"]
+     stringTokens: ["Congolese Party of Labour", "Congolese Labor Party", "PCT"]
      wikidataQnode:  ["Q1785816"]
   
     mcddiParty:

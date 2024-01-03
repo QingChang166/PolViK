@@ -1,20 +1,23 @@
 concepts:
   ethiopiaSecurityForces:
     stringTokens: ["Coordinating Committee of the Armed Forces, Police and Territorial Army", "Provisional Military Administrative Council", "PMAC", "Derg", "Dergue", "Revolutionary Army", "Ethiopian National Defense Force", "ENDF", "Regional Defense Forces", "National Intelligence and Security Services", "NISS", "Ethiopian Federal Police", "EFP"]
+
   ##ethnicgroups
   ##Notes: for regions I am doing more than 5% and for religions more than 5% if no % mentioned I only list religions mentioned as practiced by the group
   oromoEthnicGroup:
-   stringTokens: ["Oromo", "Oromoo", "Galla people", "Galla", "Gallas", "Gala", "Gallinyas", "Ilma Orma", "Orma","Oromota", "Borana Oromo", "Booranaa", "Barentu", "Barentoo", "Baraytuma"] #Borana Oromo (and derivatives) and Barentu (and derivatives) are the two subdivisions of the group
-   wikidataQnode: ["Q318674"]
-   languagesMostSpoken: ["Oromo language", "Amharic"] ##also known as Afaan Oromoo and Galla although use of the last is often considered pejorative
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestantism", "Catholicism", "Waaqeffanna"]
-   livesIn: ["Oromia Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Sidama Region"]
+    stringTokens: ["Oromo", "Oromoo", "Galla people", "Galla", "Gallas", "Gala", "Gallinyas", "Ilma Orma", "Orma","Oromota", "Borana Oromo", "Booranaa", "Barentu", "Barentoo", "Baraytuma"] #Borana Oromo (and derivatives) and Barentu (and derivatives) are the two subdivisions of the group
+    wikidataQnode: ["Q318674"]
+    languagesMostSpoken: ["Oromo language", "Amharic"] ##also known as Afaan Oromoo and Galla although use of the last is often considered pejorative
+    religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestant", "Catholic", "Waaqeffanna"]
+    livesIn: ["Oromia Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Sidama Region"]
+  
   amharaEthnicGroup:
-   stringTokens: ["Amhara", "Amanarinya", "Amarinya", "Amarinnya", "Amharinya", "Kuchumba", "Shewa","Shoan", "Shuan"] #Shewa and derivatives is usally used for the Amhara who live in the Shewa region (no longer a official region), or as a shorthand for the "ruling class"
-   wikidataQnode: ["Q464237"]
-   languagesMostSpoken: ["Amharic"] ##also known as Amarinya, Kuchumba, Amharinya and Amarigna
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam"]
-   livesIn: ["Amhara Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Oromia Region", "Sidama Region"]
+    stringTokens: ["Amhara", "Amanarinya", "Amarinya", "Amarinnya", "Amharinya", "Kuchumba", "Shewa","Shoan", "Shuan"] #Shewa and derivatives is usally used for the Amhara who live in the Shewa region (no longer a official region), or as a shorthand for the "ruling class"
+    wikidataQnode: ["Q464237"]
+    languagesMostSpoken: ["Amharic"] ##also known as Amarinya, Kuchumba, Amharinya and Amarigna
+    religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam"]
+    livesIn: ["Amhara Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Oromia Region", "Sidama Region"]
+  
   somaliEthnicGroup:
    stringTokens: ["Somali", "Soomaali"]
    wikidataQnode: ["Q241696"]
@@ -31,25 +34,25 @@ concepts:
    stringTokens: ["Sidamo", "Sidama", "Sidaamu Afoo"]
    wikidataQnode: ["Q1192069"]
    languagesMostSpoken: ["Sidama language", "Amharic"] ##also called Sidaamu Afoo
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestantism", "Sunni Islam", "Catholicism", "Traditional religion"]
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestant", "Sunni Islam", "Catholic", "Traditional religion"]
    livesIn: ["Sidama Region", "Southern Nations, Nationalities, and Peoples' Region"] ##Sidama Region became a state in 2019 prior it was part of the SNNPR
   gurageEthnicGroup:
    stringTokens: ["Gurage"]
    wikidataQnode: ["Q844307"]
    languagesMostSpoken: [ "Sebat Bet", "Inor", "Ezha", "Muher", "Geta", "Gumer", "Endegegn", "Chaha", "Soddo", "Masqan", "Zay"]
-   religionsMostPracticed: ["Sunni Islam", "Oriental Christian Orthodox", "Protestantism", "Catholicism"]
+   religionsMostPracticed: ["Sunni Islam", "Oriental Christian Orthodox", "Protestant", "Catholic"]
    livesIn: ["Southern Nations, Nationalities, and Peoples' Region", "Addis Ababa", "Oromia Region"]
   welaytaEthnicGroup:
    stringTokens: ["Welayta", "Wolayta", "Wolaitta"]
    wikidataQnode: ["Q954810"]
    languagesMostSpoken: ["Wolaytta", "Amharic"]
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestantism"]
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestant"]
    livesIn: ["Southern Nations, Nationalities, and People's Region"]
   hadiyaEthnicGroup:
    stringTokens: ["Hadiya", "Hadiyya", "Hadya", "Hadea", "Hadija", "Hadiyo", "Hadiyeh", "Adea", "Adia"]
    wikidataQnode: ["Q16930512"]
    languagesMostSpoken: ["Hadiyya language"]
-   religionsMostPracticed: ["Protestantism", "Sunni Islam", "Traditional religion" ]
+   religionsMostPracticed: ["Protestant", "Sunni Islam", "Traditional religion" ]
    livesIn: ["Southern Nations, Nationalities, and People's Region"]
   afarEthnicGroup:
    stringTokens: ["Afar", "Qafar", "Danakil", "Adali", "Odali"]
@@ -61,13 +64,13 @@ concepts:
    stringTokens: ["Gamo"]
    wikidataQnode: ["Q749854"]
    languagesMostSpoken: ["Gamo-Gofa-Dawro", "Amharic"]
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestantism", "Traditional religion"]
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Protestant", "Traditional religion"]
    livesIn: ["Southern Nations, Nationalities, and People's Region"]
   gedeoEthnicGroup:
-   stringTokens: ["Gedeo" "Gadeo"]
+   stringTokens: ["Gedeo" ,"Gadeo"]
    wikidataQnode: ["Q5529672"]
    languagesMostSpoken: ["Gedeo language", "Amharic"]
-   religionsMostPracticed: ["Protestantism", "Oriental Christian Orthodox", "Traditional religion"]
+   religionsMostPracticed: ["Protestant", "Oriental Christian Orthodox", "Traditional religion"]
    livesIn: ["Southern Nations, Nationalities, and People's Region", "Oromia Region"]
   SilteEthnicGroup:
    stringTokens: ["Silt'e"]
@@ -79,7 +82,7 @@ concepts:
    stringTokens: ["Kafficho", "Boro", "Caffa", "Caffina", "Caffino", "Gomaro", "Gonga", "Kafa", "Kaffa", "Kafico", "Kefa", "Kefinya", "Shinasha"]
    wikidataQnode: ["Q1721029"]
    languagesMostSpoken: ["Kafa", "Amharic"]
-   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestantism",  "Traditional religion"] ##This one is a bit tricky as 2 sources disagree... Joshua says primarily Traditional with some Orthodox, Protestantism and Islam but Wiki says primarily Orthodox with some Islam and very little traditional
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestant",  "Traditional religion"] ##This one is a bit tricky as 2 sources disagree... Joshua says primarily Traditional with some Orthodox, Protestant and Islam but Wiki says primarily Orthodox with some Islam and very little traditional
    livesIn: ["Southern Nations, Nationalities, and People's Region", "South West Ethiopia Peoples' Region"] #South West Region became a state in 2021 prior it was part of the SNNPR
   ##For the pre-1993 period where Eritrea is considered part of Ethiopia I am listing the same groups as for Eritrea
   tigrinyaEthnicGroup: #Very similar to tigrayanEthnicGroup in Ethiopia and were the same people until 9th century or Italian colonial rule in Eritrea depending who you ask
@@ -111,7 +114,7 @@ concepts:
    stringTokens: ["Bilen", "Blin", "Bogo", "Bogos", "North Agaw"]
    wikidataQnode: ["Q861736"]
    languagesMostSpoken: ["Bilen language", "Tigre", "Tigrinya"]
-   religionsMostPracticed: ["Sunni Islam", "Catholicism", "Oriental Christian Orthodox"]
+   religionsMostPracticed: ["Sunni Islam", "Catholic", "Oriental Christian Orthodox"]
    livesIn: ["Eritrea", "Maekel", "Anseba"]
   bejaEthnicGroup:
    stringTokens: ["Beja", "Beni-Amer", "Amer", "Nabtab"] #Beni-Amer and related are the subcategory of Beja in Eritrea and Sudan
@@ -120,10 +123,10 @@ concepts:
    religionsMostPracticed: ["Sunni Islam"]
    livesIn: ["Eritrea", "Anseba", "Northern Red Sea"]
   kunamaEthnicGroup:
-   stringTokens: [Kunama]
+   stringTokens: ["Kunama"]
    wikidataQnode: ["Q1225113"]
    languagesMostSpoken: ["Kunama"]
-   religionsMostPracticed: ["Sunni Islam", "Catholicism", "Protestantism"]
+   religionsMostPracticed: ["Sunni Islam", "Catholic", "Protestant"]
    livesIn: ["Tigray Region", "Eritrea", "Gash-Barka"]
   naraEthnicGroup:
    stringTokens: ["Nara"]
@@ -135,9 +138,9 @@ concepts:
   ##politicalparties
   ##List from wikipidia
   ##Added Eritrean Parties pre-1991
-
+  
   tplfParty:
-   stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
+   stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
    wikidataQnode: ["Q1699287"]
    associatedEthnicGroup: ["tigrayanEthnicGroup"]
    yearsActiveasEntity: ["1975-Present"] ##active as an entity
@@ -177,8 +180,8 @@ concepts:
   aesmParty:
    stringTokens: ["All Ethiopian Socialist Movement", "MEISON"]
    wikidataQnode: ["Q1516222"]
-   yearsActiveasEntity: [1968-Present] ##active as an entity
-   yearsActiveasParty: [1991-Present] ##active as a political party
+   yearsActiveasEntity: ["1968-Present"] ##active as an entity
+   yearsActiveasParty: ["1991-Present"] ##active as a political party
   balderasParty:
    stringTokens: ["Balderas Party", "Balderas for Genuine Democracy Party", "Balderas for True Democracy Party"]
    wikidataQnode: []
@@ -254,7 +257,7 @@ concepts:
    yearsActiveasEntity: ["2019-2020"] ##active as an entity
    yearsActiveasParty: ["2019-2020"] ##active as a political party
   aapoParty:
-   stringTokens: ["All Amhara Peoples Organization"]
+   stringTokens: ["All Amhara Peoples Organization", "AAPO"]
    wikidataQnode: ["Q1135300"]
    associatedEthnicGroup: ["amharaEthnicGroup"]
    yearsActiveasEntity: ["1993-Present"] ##active as an entity
@@ -311,7 +314,7 @@ concepts:
    yearsActiveasEntity: ["2000-Present"] ##active as an entity
    yearsActiveasParty: ["2000-Present"] ##active as a political party
   sepdcParty:
-   stringTokens: ["Southern Ethiopia Peoples' Democratic Coalition"]
+   stringTokens: ["Southern Ethiopia Peoples' Democratic Coalition", "SEPDC"]
    wikidataQnode: ["Q1186382"]
    yearsActiveasEntity: ["1992-Present"] ##active as an entity
    yearsActiveasParty: ["1992-Present"] ##active as a political party
@@ -322,10 +325,35 @@ concepts:
    yearsActiveasEntity: ["1995-Present"] ##active as an entity
    yearsActiveasParty: ["2019-Present"] ##active as a political party
   udjParty:
-   stringTokens: ["Unity for Democracy and Justice"]
+   stringTokens: ["Unity for Democracy and Justice", "UDJ", "UDJP"]
    wikidataQnode: ["Q280646"]
    yearsActiveasEntity: ["2008-2019"] ##active as an entity
    yearsActiveasParty: ["2008-2019"] ##active as a political party
+  kpduParty:
+   stringTokens: ["Kafa People's Democratic Union", "KPDU"]
+   wikidataQnode: []
+   yearsActiveasEntity: ["1990-1994", "2019-present"] ##active as an entity
+   yearsActiveasParty: ["1990-1994", "2019-present"] ##active as a political party
+  oncParty:
+   stringTokens: ["Oromo National Congress", "ONC", "Oromo People's Congress", "OPC"] # change name to OPC before 2008
+   wikidataQnode: ["Q1135107"]
+   yearsActiveasEntity: ["1996-2012"] ##active as an entity
+   yearsActiveasParty: ["1996-2012"] ##active as a political party
+  ofdmParty:
+   stringTokens: ["Oromo Federalist Democratic Movement", "OFDM"]
+   wikidataQnode: ["Q1134412"]
+   yearsActiveasEntity: ["2005-2012"] ##active as an entity
+   yearsActiveasParty: ["2005-2012"] ##active as a political party
+  ofcParty:
+   stringTokens: ["Oromo Federalists Congress Party", "OFC", "Oromo Federalists Congress"] #merged by ONC and OFDM
+   wikidataQnode: ["Q105552917"]
+   yearsActiveasEntity: ["2012-present"] ##active as an entity
+   yearsActiveasParty: ["2012-present"] ##active as a political party
+  opdoParty:
+   stringTokens: ["Oromo Democratic Party", "ODP", "OPDO", "Oromo People's Democratic Organization"]
+   wikidataQnode: ["Q1186219"]
+   yearsActiveasEntity: ["1990-2019"] ##active as an entity
+   yearsActiveasParty: ["1990-2019"] ##active as a political party           
   sepdmParty:
    stringTokens: ["Southern Ethiopian People's Democratic Movement"]
    wikidataQnode: ["Q1186157"]
@@ -399,7 +427,7 @@ concepts:
    yearsActiveasEntity: ["1985-2012"] ##active as an entity
    yearsActiveasParty: ["1991-2012"] ##active as a political party
   aeupParty:
-   stringTokens: ["All Ethiopian Unity Party"]
+   stringTokens: ["All Ethiopian Unity Party", "AEUP"]
    wikidataQnode: ["Q3815743"]
    yearsActiveasEntity: ["2005-2022"] ##active as an entity
    yearsActiveasParty: ["2005-2022"] ##active as a political party
@@ -414,7 +442,7 @@ concepts:
    yearsActiveasEntity: ["2012-2019"] ##active as an entity
    yearsActiveasParty: ["2012-2019"] ##active as a political party
   cudParty:
-   stringTokens: ["Coalition for Unity and Democracy", "CUD"]
+   stringTokens: ["Coalition for Unity and Democracy", "CUD", "CUDP"]
    wikidataQnode: ["Q1376302"]
    yearsActiveasEntity: ["2004-2007"] ##active as an entity
    yearsActiveasParty: ["2004-2007"] ##active as a political party
@@ -424,7 +452,7 @@ concepts:
    yearsActiveasEntity: [] ##active as an entity
    yearsActiveasParty: [] ##active as a political party
   uedfParty:
-   stringTokens: ["United Ethiopian Democratic Forces"]
+   stringTokens: ["United Ethiopian Democratic Forces", "UEDF"]
    wikidataQnode: ["Q491145"]
    yearsActiveasEntity: ["2005-2008"] ##active as an entity
    yearsActiveasParty: ["2005-2008"] ##active as a political party
@@ -442,7 +470,7 @@ concepts:
    stringTokens: ["Gambela People's Liberation Movement"]
    wikidataQnode: ["Q5519606"]
    yearsActiveasEntity: ["1985–1998"] ##active as an entity
-   yearsActiveasParty: [1991–1998] ##active as a political party
+   yearsActiveasParty: ["1991–1998"] ##active as a political party
   ##armed groups
   #from Armed Groups Data Set
   #yearsActiveasArmed == year of first attack
@@ -535,7 +563,7 @@ concepts:
    regionsMostActive: ["Oromo Region"]
    yearsActiveasArmed: ["1974-1991"]
   slfArmedGroup:
-   stringTokens: ["SLF", "Sidama Liberation Front", "Sidama National Liberation Front", SNLF]
+   stringTokens: ["SLF", "Sidama Liberation Front", "Sidama National Liberation Front", "SNLF"]
    associatedEthnicGroup: ["sidamaEthnicGroup"]
    regionsMostActive: ["Sidama Region"]
    yearsActiveasArmed: ["1978-1991", "2020-2022"]
@@ -575,7 +603,7 @@ concepts:
    stringTokens: ["Benishangul People's Liberation Movement", "BPLM"]
    associatedEthnicGroup: [] #This group is associated with the Berta and Gurmuz people but they are both under the 1% thrashold.
    yearsActiveasArmed: ["1996-2005", "2020-Present"]
-   regionsMostActive: [Benishangul-Gumuz Region"]
+   regionsMostActive: ["Benishangul-Gumuz Region"]
   fanoArmedGroup:
    stringTokens: ["Fano", "The Youth"]
    associatedEthnicGroup: ["amharaEthnicGroup"]
