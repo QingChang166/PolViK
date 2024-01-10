@@ -2,20 +2,22 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   ROOT:
     stringTokens: []
   people:
-    stringTokens: ["people", "peoples", "human", "humans", "everyone", "population", "victims", "persons", "violators", "persons", "person", "individuals",
-                   "populace", "neighbors", "witnesses", "vulnerable populations", "volunteers", "voters", "visitors", "violators", "villagers", "viewers"]
+    stringTokens: ["people", "peoples", "human", "humans", "everyone", "population", "persons", "violators", "persons", "person", "individuals",
+                   "populace", "neighbors", "witnesses", "vulnerable populations", "volunteers", "voters", "visitors", "villagers", "viewers", 
+                    "sympathizers", "supporters", "spouse", "seeker", "speaker", "signatory", "signatories", "respondent", "relatives", "relations", "protestors", 
+                    "prosecuted", "prisoners", "prisoners of war", "POWs", "population", "populace" ]
   ageGroup: 
     stringTokens: ["age"]
   ChildAge:
-    stringTokens: ["child", "children", "baby", "youth", "student", "minor", "young", "students", "young individuals", "street children", "teenagers", "underage soliders", "child soliders"]
+    stringTokens: ["child", "children", "baby", "youth", "student", "minor", "young", "students", "young individuals", "street children", "teenagers", "underage soliders", "child soliders", "pupils"]
   ElderlyAge:
-    stringTokens: ["old people", "elderly", "elders"]
+    stringTokens: ["old people", "elderly", "elders", "senior", "retirement", "retiree"]
   genderGroup:
     stringTokens: ["gender"]
   maleGender:
-    stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender", "husband"] 
+    stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender", "husband", "son", "brother"] 
   femaleGender:
-    stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender", "wife", "wives"]
+    stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender", "wife", "wives", "sisters", "daughter"]
   nonBinaryGender:
     stringTokens: ["non-binary", "nonbinary", "non-binary gender"]
   TransGender:
@@ -29,10 +31,21 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   imprisonedPeople:
     stringTokens: ["prisoner", "prisoners", "inmate", "inmates", "detainee", "detainees"]
   criminalPeople:
-    stringTokens: ["traffickers", "smugglers"]
+    stringTokens: ["traffickers", "smugglers", "violators", "terrorist", "suspect", "rob", "rapist"]
+  victimsPeople:
+    stringTokens: ["victims", "tortured"]
+  leadersPeople:
+    stringTokens: ["traditional leaders"]
+  landOwnerPeople:
+     stringTokens: ["titleholder", "landlord"]
+  tenantPeople:
+    stringTokens: ["tenant"]
+  regionalPeople:
+    stringTokens: ["southerner", "northerner", "easterner", "westerner", "rural", "urban", "rural population", "urban population", "resident", "regional"]
   workersPeople:
      stringTokens: ["professors", "University Professors", "entrepreneurs", "contractors", "agricultural workers", "single worker", "worker", "lawyers",
-                    "young workers", "teachers", "colleagues", "wage earners", "servants", "vendors"]
+                    "young workers", "teachers", "colleagues", "wage earners", "servants", "vendors", "suppliers", "subconstractors", "staff", "shopkeeper", 
+                    "servants", "reporters", "publishers", "prosecutors", "professionals", "printer", "press", "porters"]
   domesticPeople:
      stringTokens: ["citizens", "residents", "nationals"]
   foreignPeopleNonmigrant: 
@@ -43,20 +56,18 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
      stringTokens: ["displaced people", "displaced populations", "displaced persons", "IDPS", "internally displaced"]
   organizedGroup:
     stringTokens: ["organization", "group"]
-  religiousGroup: 
-    stringTokens: ["religious groups"]
   nonGovernmentalOrganizedGroup:
     stringTokens: ["non-governmental group", "nongovernmental group", "ngo", "nongovernmental organization", "non-governmental organization", "womens groups",
-                   "women's groups", "transgender groups", "society groups"]
+                   "women's groups", "transgender groups", "society groups", "representatives", "local human rights groups"]
   rebelGroup:
-    stringTokens: ["rebel group", "rebel organization", "rebels", "successionist"]
+    stringTokens: ["rebel group", "rebel organization", "rebel", "successionist", "rebel militia group", "RMG", ]
   governmentGroup:
     stringTokens: ["government", "state", "official bureacracy", "Senate", "House of Representatives", "President", "Parliament", 
                    "House of Commons", "House of Lords", "Crown", "King", "Queen", "monarch", "Prime Minister", "Federal Assembly", "Duma", "Federation Council",
                    "National Congress", "Central Committee", "Politburo", "Politburo Standing Committee", "National People’s Congress", "NPC Standing Committee",
                    "National Congress", "Lower House", "Upper House", "Executive Branch", "Council of States", "House of the People", "Chamber of Deputies", "legislative branch",
                    "legislature", "vice president", "congress", "chamber of representatives", "council of state", "national assembly", "national council of provinces", "National Assembly",
-                   "Citizens Assembly", "Executive Council", "representatives", "leaders"]
+                   "Citizens Assembly", "Executive Council", "representatives", "leaders", "public officials"]
   nationalJudicialGovernment:
     stringTokens: ["courts", "judges", "Court of Appeals", "District Courts", "Federal Judiciary", "Marshals", "Marshals Service", "Appellate Committee of the House of Lords"
                    "Judicial Committee of the Privy Council", "Senior Court", "Court of Appeal", "High Court of Justice", "Crown Court", "Court of Session",
@@ -67,7 +78,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "federal reserve", "first lord of treasury", "minister for the civil service", "minister for the union", "Central Military Commission", "State Council",
                    "Chinese People’s Political Consultative Conference", "Ministers of the State", "minister of foreign affairs", "ministers"]
   nationalDiplomacyGovernment:
-    stringTokens: ["diplomat", "consulate", "embassy", "mission", "diplomatic mission"]
+    stringTokens: ["diplomat", "consulate", "embassy", "mission", "diplomatic mission", "rapporteur"]
   subNationalAdministrativeGovernment:
     stringTokens: ["subnational bureacracy", "provincial bureacracy", "subnational officials", "provincial officials", "local officials", "governors", "mayors",
                    "local administrators"]
@@ -77,13 +88,13 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["army", "security forces", "police", "air force", "navy", "military", "armed forces", "troops", "strategic missile troops", "airborne troops", "ground force",
                   "rocket force", "strategic support force", "army aviation command", "military police", "military firefighter corps", "police department",
                   "federal police", "highway police", "national public security force", "national police", "police", "military", "officers", "prison officers",
-                  "soliders", "wardens"]
+                  "soliders", "wardens", "state security forces", "SSF", "prison", "prison officials"]
   partiesInPower:
     stringTokens: []
   partiesOutOfPower:
-    stringTokens: ["opposition", "opposition parties", "opposition party", "opposition leaders", "opposition candidates", "opposition group", "Opposition political parties", "opposition demonstrators"]  
+    stringTokens: ["opposition", "opposition parties", "opposition party", "opposition leaders", "opposition candidates", "representatives of opposition groups", "opposition group", "Opposition political parties", "opposition demonstrators", "rivals"]  
   places:
-     stringTokens: ["zone", "villages", "universities", "territories", "street", "shops"]
+     stringTokens: ["zone", "villages, "universities", "university", "territories", "territory", "street", "residences", "shop", "station", "shelter", "sector", "seat", "school", "restaurant", "provinces"]
   bodyParts:
      stringTokens: ["wrist", "head", "chest", "stomach"]
   armedNonGovernmentalOrganizedGroup:
@@ -142,10 +153,12 @@ Continents:
   miningMultinationalCorporation:
     stringTokens: ["Glencore", "Jiangxi Copper", "BHP", "Rio Tinto", "Aluminum Corporation of China", "Vale", "Zijin Mining Group", "Anglo American", "Hindalco Industries",
                    "CMOC Group", "De Beers", "Xstrata", "Barrick"]
+  domesticCorporation: 
+    stringTokens: ["company", "private company", "public company", "companies", "public companies", "private companies"]
   proGovernmentMilitia:
     stringTokens: ["pro-government militia", "militia allied with the government"]
   informationCollectionOrganization:
-    stringTokens: ["inspector", "monitor", "local human rights monitors", "human rights monitors", "observers", "human rights report", "outside monitors", "international observers"]
+    stringTokens: ["inspector", "monitor", "local human rights monitors", "human rights monitors", "observers", "human rights report", "outside monitors", "international observers", "rights monitors"]
   spies:
     stringTokens: ["spies", "spy", "secret agent", "intelligence agent"]
   laborGroup:
@@ -166,6 +179,8 @@ Continents:
     stringTokens: ["unemployed", "jobless"]
   religionGroup:
     stringTokens: ["religious group", "religious organization"]
+  christianReligion:
+    stringTokens: ["Christian", "priest", "preacher"]
   orthodoxReligion:
     stringTokens: []
   greekOrthodox:
@@ -189,7 +204,7 @@ Continents:
   hinduReligion:
     stringTokens: ["hindu", "hindi"]
   muslimReligion:
-    stringTokens: []
+    stringTokens: ["Islam", "Muslim", "Shura", "Shura Council"]
   shiaReligion:
     stringTokens: ["shia", "shia people", "shia sect"]
   sunniReligion:
