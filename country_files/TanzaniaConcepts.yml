@@ -1,7 +1,7 @@
 concepts:
   TanzaniaSecurityForces:
    stringTokens: ["Tanzania People's Defense Force", "TPDF", "Jeshi la Wanachi wa Tanzania", "JWTZ", "Tanzanian Police Force", "Polisi wa Tanzania", "Field Force Unit", "FFU",
-                   "Tanzania Intelligence and Security Service", "TISS", "Usalama wa Taifa", "Tanzanian Army", "Tanzanian Police"  ]  
+                   "Tanzania Intelligence and Security Service", "TISS", "Usalama wa Taifa", "Tanzanian Army", "Tanzanian Police", "People's Militia Field Force"]  
 ##ethnicgroups
   SukumaEthnicGroup:
    stringTokens: ["Sukuma", "Basukuma", "Suku", "Wasukuma"]  
