@@ -3,11 +3,11 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: []
   people:
     stringTokens: ["people", "peoples", "human", "humans", "everyone", "population", "victims", "persons", "violators", "persons", "person", "individuals",
-                   "populace", "neighbors"]
+                   "populace", "neighbors", "witnesses", "vulnerable populations", "volunteers", "voters", "visitors", "violators", "villagers", "viewers"]
   ageGroup: 
     stringTokens: ["age"]
   ChildAge:
-    stringTokens: ["child", "children", "baby", "youth", "student", "minor", "young", "young individuals", "street children", "teenagers"]
+    stringTokens: ["child", "children", "baby", "youth", "student", "minor", "young", "students", "young individuals", "street children", "teenagers", "underage soliders", "child soliders"]
   ElderlyAge:
     stringTokens: ["old people", "elderly", "elders"]
   genderGroup:
@@ -15,24 +15,30 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   maleGender:
     stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender", "husband"] 
   femaleGender:
-    stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender", "wife"]
+    stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender", "wife", "wives"]
   nonBinaryGender:
     stringTokens: ["non-binary", "nonbinary", "non-binary gender"]
   TransGender:
-    stringTokens: ["transgender", "transgendered"]
+    stringTokens: ["transgender", "transgendered", "transexual", "transgendered people", "transgender persons", "transgender individuals", "transgender community"]
+  richPeople: 
+    stringTokens: ["wealthy", "rich"]
+  poorPeople:
+    stringTokens: ["poor", "homeless", "indigent"]
   enslavedPeople: 
     stringTokens: ["slave", "fifth wife", "forced labor", "indentured", "ritual servitude", "bondage"]
   imprisonedPeople:
     stringTokens: ["prisoner", "prisoners", "inmate", "inmates", "detainee", "detainees"]
+  criminalPeople:
+    stringTokens: ["traffickers", "smugglers"]
   workersPeople:
      stringTokens: ["professors", "University Professors", "entrepreneurs", "contractors", "agricultural workers", "single worker", "worker", "lawyers",
-                    "young workers", "teachers", "colleagues", "wage earners", "servants"]
+                    "young workers", "teachers", "colleagues", "wage earners", "servants", "vendors"]
   domesticPeople:
      stringTokens: ["citizens", "residents", "nationals"]
   foreignPeopleNonmigrant: 
-     stringTokens: ["foreign", "foreign workers", "foreign diplomats", "diplomats", "diplomatic representatives", "foreign nationals", "expatriate"]
+     stringTokens: ["foreign", "foreign workers", "foreign diplomats", "diplomats", "diplomatic representatives", "foreign nationals", "expatriate", "travelers"]
   foreignPeoplemigrant: 
-     stringTokens: ["migrant", "refugee", "aslyee", "undocumented"]
+     stringTokens: ["migrant", "refugee", "aslyee", "undocumented", "undocumented immigrants", "undocumented foreign workers", "unaccompanied minor"]
   DisplacedPeople: 
      stringTokens: ["displaced people", "displaced populations", "displaced persons", "IDPS", "internally displaced"]
   organizedGroup:
@@ -40,7 +46,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   religiousGroup: 
     stringTokens: ["religious groups"]
   nonGovernmentalOrganizedGroup:
-    stringTokens: ["non-governmental group", "nongovernmental group", "ngo", "nongovernmental organization", "non-governmental organization"]
+    stringTokens: ["non-governmental group", "nongovernmental group", "ngo", "nongovernmental organization", "non-governmental organization", "womens groups",
+                   "women's groups", "transgender groups", "society groups"]
   rebelGroup:
     stringTokens: ["rebel group", "rebel organization", "rebels", "successionist"]
   governmentGroup:
@@ -70,11 +77,15 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["army", "security forces", "police", "air force", "navy", "military", "armed forces", "troops", "strategic missile troops", "airborne troops", "ground force",
                   "rocket force", "strategic support force", "army aviation command", "military police", "military firefighter corps", "police department",
                   "federal police", "highway police", "national public security force", "national police", "police", "military", "officers", "prison officers",
-                  "solidiers"]
+                  "soliders", "wardens"]
   partiesInPower:
     stringTokens: []
   partiesOutOfPower:
     stringTokens: ["opposition", "opposition parties", "opposition party", "opposition leaders", "opposition candidates", "opposition group", "Opposition political parties", "opposition demonstrators"]  
+  places:
+     stringTokens: ["zone", "villages", "universities", "territories", "street", "shops"]
+  bodyParts:
+     stringTokens: ["wrist", "head", "chest", "stomach"]
   armedNonGovernmentalOrganizedGroup:
     stringTokens: ["armed group", "militia", "violent organization", "rebels", "insurgency groups", "insurgents"]
 Continents: 
@@ -105,9 +116,9 @@ Continents:
   internationalGovernmentalOrganizedGroup:
     stringTokens: ["UN", "UNCDF", "UNICEF", "UN Torture Committee", "international organization", "UNIFEM", "UNDP", "UNEP", "UNHCR", "UN HABITAT", "UNITAR", "UNODC", "UNFPA", "UNRWA", "UNU", "UNV", "ICJ", "ICSC", "ICTY", "ICTR", "INSTRAW", "UNAIDS", "WFP", "FAO", "IARC", "IAEA", "ICAO", "IFAD", "ILO", "IMO", "ITU", "UNESCO",  "UPU", "WHO", "WIPO", "WMO", "BIS", "IMF", "NADB", "UN Regional Development Banks", 
                    "African Development Bank", "ADB", "EBRD", "IDB", "World Bank Group", "IBRD", "ICSID", "IFC", "MIGA", "BECC", "CIAT", "IAII", "IICA", "IAI", "IATTC", "OAS", "PAHO", "PAIGH", "ACPF", "PUASP", "APERC", "Colombo Plan Council", "GLFC", "IEA", "MEDRC", "NAA", "NATO", "NEA", "OECD", "SPC", "CIFOR", "CEC", "Commission for Labor Cooperation", "CCAMLR",
-                   "CTBTO", "CITES", "COSPAS-SARSAT", "ECC", "GBIF", "TGF", "HCOPIL", "International Agreement on the Maintenance of Certain Lights in the Red Sea", "PCA", "International Bureau for the Protection of Industrial Property", "ICC", "International Bureau for the Publication of Customs Tariffs", "BIPM", "ICARDA", "ICCROM", "ICO", "ICCAT", "ICRC", "ICAC", "ICES", 
-                   "INTERPOL", "ICRISAT", "IDLO", "IEFS", "IFDC", "IGC", "HFSP", "IHO", "International Institute for Cotton", "UNIDROIT", "IMSO", "OIML", "IOM", "INTOSAI", "IPGRI", "IRENA", "IRSG", "ISTC", "ISTA", "ISNAR", "ITSO", "ITC", "ITTO", "International Union of Credit and Investment Insurers", "IWC", "IPU", "Iran-United States Claims Tribunal", "ITER", "KEDO", 
-                   "MFO", "CEC", "NPAFC", "OPCW", "OSCE", "PASO", "PIANC", "REC", "Committee UN", "UN Childrens", "Inter African members union", "STCU", "Sierra Leone Special Court", "WCO", "The World Heritage Fund", "OIE", "WTO"]
+                   "CTBTO", "CITES", "COSPAS-SARSAT", "ECC", "GBIF", "TGF", "HCOPIL", "UNOHCHR", "International Agreement on the Maintenance of Certain Lights in the Red Sea", "PCA", "International Bureau for the Protection of Industrial Property", "ICC", "International Bureau for the Publication of Customs Tariffs", "BIPM", "ICARDA", "ICCROM", "ICO", "ICCAT", "ICRC", "ICAC", "ICES", 
+                   "INTERPOL", "ICRISAT", "IDLO", "IEFS", "IFDC", "IGC", "HFSP", "IHO", "UN High Commissioner for Refugees", "International Institute for Cotton", "UNIDROIT", "IMSO", "OIML", "IOM", "INTOSAI", "IPGRI", "IRENA", "IRSG", "ISTC", "ISTA", "ISNAR", "ITSO", "ITC", "ITTO", "International Union of Credit and Investment Insurers", "IWC", "IPU", "Iran-United States Claims Tribunal", "ITER", "KEDO", 
+                   "MFO", "CEC", "NPAFC", "OPCW", "OSCE", "PASO", "PIANC", "REC", "Committee UN", "UNJHRO", "United Nations Joint Human Rights Office", "UN Childrens", "Inter African members union", "STCU", "Sierra Leone Special Court", "WCO", "The World Heritage Fund", "OIE", "WTO", "UNHRO", "UNHRC", "UNHCHR", "UNGoE", "UNFD", "UNCRC", "UN Secretary general", "UN peacekeeper", "UN officials", "UN Child", "UN Human", "UN High Commissioner"]
   internationalNonGovernmentalOrganizedGroup:
     stringTokens: ["ActionAid", "ACTED", "ADRA", "AIESEC", "CAFOD", "CARE", "CRS", "Cuso International", "Danish Relief Council", "Islamic Relief", "International
                     Olympic Committee", "Mercy Corps", "Oxfam", "Save the Children", "SOS Children's Villages", "Tzu Chi Foundation", "World Vision International",
@@ -118,7 +129,7 @@ Continents:
                     Committee", "IRC", "Human Rights Watch", "HRW", "Amnesty International", "Commonwealth Human Rights Initiative", "Friends of Peoples Close to Nature", 
                     "Humanists International", "International Christian Concern", "Red Cross", "International Commission Against the Death Penalty", "International Federation for Human Rights",
                     "Survival International", "Greenpeace", "International POPs Elimination Network", "International Union for the Conservation of Nature", "World Wildlife Fund",
-                    "WWF", "WaterAid", "Water.org", "Initiative Eau", "Water for People", "Sister Cities International", "World Federation of United Nations Associations", "Lutheran World Relief",
+                    "WWF", "WaterAid", "Water.org", "Initiative Eau", "Water for People", "Transparency International", "Sister Cities International", "World Federation of United Nations Associations", "Lutheran World Relief",
                     "COSPAR", "Committee on Space Research", "RIPE NCC",  "Human Rights League", "Human Rights League Executives", "IMIRAD", "International Committee of the Red Cross", "Federation for Action Christians"]
   multinationalCorporation:
     stringTokens: ["Microsoft", "IBM", "Apple", "Walmart", "Nestle", "Proctor and Gamble", "Berkshire Hathway", "Amazon", "Alphabet", "Johnson and Johnson", 
@@ -140,7 +151,7 @@ Continents:
   laborGroup:
    stringTokens: ["labor", "workers"]
   laborUnion:
-    stringTokens: ["labor union", "employees' union", "union", "labor group", "worker's rights group", "union leaders", "union members", "union representatives"]
+    stringTokens: ["labor union", "employees' union", "union", "strikeworkers", "strikers", "labor group", "worker's rights group", "union leaders", "union members", "union representatives", "union organizers"]
   ethnicGroup: # meaning a socially constructed grouping of people based on ascribed culture, ancestry, or language or some combination
     stringTokens: ["ethnic group", "ethnicity"]
   hispanicEthnicGroup:
