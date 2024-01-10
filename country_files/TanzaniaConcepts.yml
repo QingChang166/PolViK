@@ -104,7 +104,11 @@ concepts:
    stringTokens: ["Indians", "Asians in Tanzania", "Indo-Tanzanians"]
    wikidataQnode: ["Q6024143"]
    religionsMostPracticed: ["Islam", "Hindu"]
-   livesIn: ["Zanzibar", "Dar es Salaam", "Arusha"] ##administrative state, region 
+   livesIn: ["Zanzibar", "Dar es Salaam", "Arusha"] ##administrative state, region
+BarabaigEthnicGroup: 
+  stringTokens: ["Barabaig", "Barabaik", "Baraban", "Barbayiig", "Brariga", "Datooga"]
+  wikidataQnode: ["Q623122"]
+  livesIn: ["Manyara"]  #administrative state
 
 ##politicalparties
   CCMParty:
