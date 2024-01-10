@@ -108,7 +108,11 @@ concepts:
 BarabaigEthnicGroup: 
   stringTokens: ["Barabaig", "Barabaik", "Baraban", "Barbayiig", "Brariga", "Datooga"]
   wikidataQnode: ["Q623122"]
-  livesIn: ["Manyara"]  #administrative state
+  livesIn: ["Manyara"]  #administrative region
+BurundianRefugeeEthicGroup:
+  stringTokens: ["Burundian", "Burundian refugee"]
+  religionsMostPracticed: ["Christianity"]
+  livesIn: ["Kigoma"]  #administrative region
 
 ##politicalparties
   CCMParty:
