@@ -19,6 +19,7 @@ relations:
   - (EthnicGroup, NyakyusaEthnicGroup)
   - (EthnicGroup, SambaaEthnicGroup)
   - (EthnicGroup, IndoTanzanianEthnicGroup)
+  - (EthnicGroup, BarabaigEthnicGroup)
   - (Party, CCMParty)
   - (Party, ChademaParty)
   - (Party, ActParty)
