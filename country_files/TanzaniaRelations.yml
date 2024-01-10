@@ -20,6 +20,7 @@ relations:
   - (EthnicGroup, SambaaEthnicGroup)
   - (EthnicGroup, IndoTanzanianEthnicGroup)
   - (EthnicGroup, BarabaigEthnicGroup)
+  - (EthnicGroup, BurundianRefugeeEthnicGroup)
   - (Party, CCMParty)
   - (Party, ChademaParty)
   - (Party, ActParty)
