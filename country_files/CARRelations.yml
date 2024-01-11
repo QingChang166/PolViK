@@ -43,3 +43,5 @@ relations:
   - (ArmedNonGovernmentalOrganizedGroup, cpskArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, cpjpArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, ufrArmedNonGovernmentalOrganizedGroup)
+  - (Party, MLPCParty)
+  - (Party, RDCParty)
