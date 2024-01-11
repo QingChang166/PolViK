@@ -1,5 +1,6 @@
 relations:
   - (officialStateSecurityForces, ChadianSecurityForces)
+  - (officialStateSecurityForces, ChadianNationalArmy)
   - (EthnicGroup, toubouEthnicGroup)
   - (EthnicGroup, saraEthnicGroup)
   - (EthnicGroup, tamaEthnicGroup)
@@ -20,6 +21,7 @@ relations:
   - (Party, udsrParty)
   - (Party, psitParty)
   - (Party, nrcdParty)
+  - (Party, udtParty)
   - (ArmedGroup, factArmedGroup)
   - (ArmedGroup, ufddArmedGroup)
   - (ArmedGroup, rfcArmedGroup)
