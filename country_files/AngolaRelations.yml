@@ -22,6 +22,7 @@ relations:
   - (ArmedGroup, FLEC-FAC-TNArmedGroup)
   - (ArmedGroup, UNITAArmedGroup)
   - (ArmedGroup, FLNAArmedGroup)
+  - (ArmedGroup, MPLAArmedGroup)
   - (GovernmentMilitia, CDOproGovernmentMilitia)
   - (GovernmentMilitia, PVBproGovernmentMilitia)
   - (GovernmentMilitia, EOproGovernmentMilitia)
