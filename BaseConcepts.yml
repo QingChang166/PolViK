@@ -6,7 +6,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "populace", "neighbors", "witnesses", "vulnerable populations", "volunteers", "voters", "visitors", "villagers", "viewers", 
                     "sympathizers", "supporters", "spouse", "seeker", "speaker", "signatory", "signatories", "respondent", "relatives", "relations", "protestors", 
                     "prosecuted", "prisoners", "prisoners of war", "POWs", "population", "populace", "plantiffs", "patient", "passerby", "passenger", "partners", "parents", 
-                    "participants", "others", "members", "innocent person", "individual", "human", "household", "friends", "family members", "family", "families", "crowds",
+                    "participants", "others", "innocent person", "individual", "human", "household", "friends", "family members", "family", "families", "crowds",
                     "couples", "citizen", "civilian", "bystander", "anyone"]
   ageGroup: 
     stringTokens: ["age"]
@@ -43,7 +43,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   disabledPeople:
     stringTokens: ["persons with disabilities", "person with disabilities", "people with disabilities", "amputee", "albino", "blind", "deaf", "injuries", "disabilities", "amputation"]
   leadersPeople:
-    stringTokens: ["traditional leaders", "leaders", "chiefs"]
+    stringTokens: ["traditional leader", "leader", "chief", "community leader"]
   landOwnerPeople:
      stringTokens: ["titleholder", "landlord"]
   tenantPeople:
@@ -55,22 +55,22 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                     "young worker", "teachers", "colleagues", "wage earners", "servants", "vendors", "suppliers", "subconstractors", "staff", "shopkeeper", "labor", 
                     "servant", "reporter", "publisher", "prosecutor", "professionals", "printer", "press", "porter", "photographer", "miner", "mineworker", "journalist", "journalist en danger",
                     "JED", "inspector", "entrepeneur", "engineer", "employee", "editor", "driver", "doctor", "diamond worker", "director", "dealer", "crew members" , "correspondent", "contractor",
-                    "consultant", "blogger", "babysitter", "attorney"]
+                    "consultant", "blogger", "babysitter", "attorney", "caregiver", "businesswoman", "businesswomen", "businessman", "businessmen"]
   domesticPeople:
      stringTokens: ["citizens", "residents", "nationals"]
   foreignPeopleNonmigrant: 
      stringTokens: ["foreign", "foreign worker", "foreign diplomat", "diplomat", "diplomatic representative", "foreign national", "expatriate", "traveler", "nationals", "humanitarian workers",
-                    "expatriate", "dignatory", "dignatories", "ambassador"]
+                    "expatriate", "dignatory", "dignatories", "ambassador", "foreign representative"]
   foreignPeoplemigrant: 
      stringTokens: ["migrant", "refugee", "aslyee", "undocumented", "undocumented immigrants", "undocumented foreign workers", "unaccompanied minor", "pilgrims", "noncitizen", "alien"]
   DisplacedPeople: 
      stringTokens: ["displaced people", "displaced population", "displaced persons", "IDP", "internally displaced", "displaced", "displaced person", "Conflict- induced Displacement", "CID"]
   organizedGroup:
-    stringTokens: ["organization", "group"]
+    stringTokens: ["organization", "group", "community", "member", "communities"]
   nonGovernmentalOrganizedGroup:
     stringTokens: ["non-governmental group", "nongovernmental group", "ngo", "nongovernmental organization", "non-governmental organization", "womens groups",
                    "womens groups", "transgender groups", "society groups", "representatives", "local human rights groups", "organizers", "organization", "ngo representative", "civil society groups",
-                   "civil society"]
+                   "civil society", "local nongovernmental organziations", "community based organization", "CBO"]
   rebelGroup:
     stringTokens: ["rebel group", "rebel organization", "rebel", "successionist", "rebel militia group", "RMG", "former rebel" ]
   governmentGroup:
@@ -80,13 +80,13 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "National Congress", "Lower House", "Upper House", "Executive Branch", "Council of States", "House of the People", "Chamber of Deputies", "legislative branch",
                    "legislature", "vice president", "congress", "chamber of representatives", "council of state", "national assembly", "national council of provinces", "National Assembly",
                    "Citizens Assembly", "Executive Council", "representative", "leader", "public official", "officals", "National Executive Committee", "National authorities", "government",
-                   "governors", "govermental", "government officials"]
+                   "governors", "govermental", "government officials", "cabinet", "authority", "authorities"]
   nationalJudicialGovernment:
     stringTokens: ["courts", "judges", "Court of Appeals", "District Courts", "Federal Judiciary", "Marshals", "Marshals Service", "Appellate Committee of the House of Lords"
                    "Judicial Committee of the Privy Council", "Senior Court", "Court of Appeal", "High Court of Justice", "Crown Court", "Court of Session",
                    "High Court of Justiciary", "Constitutional Court", "Chief Jusice", "Trial Courts", "Supreme Federal Court", "Judiciary", "judicial branch"
                    "Superior Council of Judicature", "superior court", "supreme court of appeal", "bailiff", "magistrate", "ombudsman", "law enforcement officials", "jurist", "juries",
-                   "Judiciary", "judge", "jury", "court"]
+                   "Judiciary", "judge", "jury", "court", "bailiff"]
   nationalAdministrativeGovernment:
     stringTokens: ["federal bureacracy", "Department of Defense", "Federal Bureau of Investigation", "Department of Homeland Security", "Central Bank", "Fed", 
                    "federal reserve", "first lord of treasury", "minister for the civil service", "minister for the union", "Central Military Commission", "State Council",
@@ -114,7 +114,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   places:
      stringTokens: ["zone", "villages", "universities", "university", "territories", "territory", "street", "residences", "shop", "station", "shelter", "sector", "seat", "school", "restaurant", "provinces", "classroom", "city", "cities", "club", 
                     "plantations", "office", "land", "hospital", "headquarters", "ground", "field", "farm", "factory", "factories", "embassy", "embassies", "dormitory", "dormitories", "courtyard", "country", "countries", "center", "cementaries, "cementary",
-                    "capitol", "capital", "camp", "border", "boundaries", "boundary", "area"]
+                    "capitol", "capital", "camp", "border", "boundaries", "boundary", "area", "foreign embassy", "foreign embassies"]
   bodyParts:
      stringTokens: ["wrist", "head", "chest", "stomach", "hand", "genitals", "body", "bodies"]
   armedNonGovernmentalOrganizedGroup:
@@ -190,7 +190,7 @@ Continents:
   laborUnion:
     stringTokens: ["labor union", "employees' union", "union", "strikeworkers", "strikers", "labor group", "worker's rights group", "union leaders", "union members", "union representatives", "union organizers", "ITUC"]
   ethnicGroup: # meaning a socially constructed grouping of people based on ascribed culture, ancestry, or language or some combination
-    stringTokens: ["ethnic group", "ethnicity"]
+    stringTokens: ["ethnic group", "ethnicity", "minorities", "minority", "minority group", "indigenous", "indigenous groups", "ethnic", "ethnicities", "ethnic minorities"]
   hispanicEthnicGroup:
     stringTokens: ["hispanic", "hispanic origin"]
   employmentGroup:
@@ -198,13 +198,13 @@ Continents:
   farmers:
     stringTokens: ["farmer", "agriculture", "farmworkers"]
   bankersFinancial:
-    stringTokens: ["banking sector", "financial sector", "banking", "financial", "stock market", "investors", "liquidators"]
+    stringTokens: ["banking sector", "financial sector", "banking", "financial", "stock market", "investors", "liquidators", "bank"]
   unemployed:
     stringTokens: ["unemployed", "jobless"]
   religionGroup:
     stringTokens: ["religious group", "religious organization"]
   christianReligion:
-    stringTokens: ["Christian", "priest", "preacher", "clergy", "clergyman", "clergymen", "church"]
+    stringTokens: ["Christian", "priest", "preacher", "clergy", "clergyman", "clergymen", "church", "missionary", "missionaries", "ecunmenical inter church"]
   orthodoxReligion:
     stringTokens: []
   greekOrthodox:
