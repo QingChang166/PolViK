@@ -6,24 +6,27 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "populace", "neighbors", "witnesses", "vulnerable populations", "volunteers", "voters", "visitors", "villagers", "viewers", 
                     "sympathizers", "supporters", "spouse", "seeker", "speaker", "signatory", "signatories", "respondent", "relatives", "relations", "protestors", 
                     "prosecuted", "prisoners", "prisoners of war", "POWs", "population", "populace", "plantiffs", "patient", "passerby", "passenger", "partners", "parents", 
-                    "participants", "others"]
+                    "participants", "others", "members", "innocent person", "individual", "human", "household", "friends", "family members", "family", "families", "crowds",
+                    "couples", "citizen", "civilian", "bystander", "anyone"]
   ageGroup: 
     stringTokens: ["age"]
   ChildAge:
     stringTokens: ["child", "children", "baby", "youth", "student", "minor", "young", "students", "young individuals", "street children", "teenagers", "underage soliders", 
-                   "child soliders", "pupils", "orphans"]
+                   "child soliders", "pupils", "orphans", "juvenile", "infant"]
   ElderlyAge:
-    stringTokens: ["old people", "elderly", "elders", "senior", "retirement", "retiree"]
+    stringTokens: ["old people", "elderly", "elder", "senior", "retirement", "retiree", "older"]
   genderGroup:
     stringTokens: ["gender"]
   maleGender:
-    stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender", "husband", "son", "brother"] 
+    stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender", "husband", "son", "brother", "father", "husbands"] 
   femaleGender:
-    stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender", "wife", "wives", "sisters", "daughter"]
+    stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender", "wife", "wives", "sisters", "daughter", "mother"]
   nonBinaryGender:
     stringTokens: ["non-binary", "nonbinary", "non-binary gender"]
   TransGender:
     stringTokens: ["transgender", "transgendered", "transexual", "transgendered people", "transgender persons", "transgender individuals", "transgender community"]
+  queerPeople:
+    stringTokens: ["LGBTI individual", "LGBTI", "LGBT", "LGBT individual", "gay", "lesbian", "bisexual", "homosexual"]
   richPeople: 
     stringTokens: ["wealthy", "rich"]
   poorPeople:
@@ -31,56 +34,64 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   enslavedPeople: 
     stringTokens: ["slave", "fifth wife", "forced labor", "indentured", "ritual servitude", "bondage"]
   imprisonedPeople:
-    stringTokens: ["prisoner", "prisoners", "inmate", "inmates", "detainee", "detainees"]
+    stringTokens: ["prisoner", "prisoners", "inmate", "inmates", "detainee", "detainees", "arrested", "abducted"]
   criminalPeople:
-    stringTokens: ["traffickers", "smugglers", "violators", "terrorist", "suspect", "rob", "rapist", "poacher", "perpetrator"]
+    stringTokens: ["traffickers", "smugglers", "violators", "terrorist", "suspect", "rob", "rapist", "poacher", "perpetrator", "offender", "mutineer", 
+                    "murderer", "killer", "defendant", "criminals", "crimes", "accused", "abusers"]
   victimsPeople:
     stringTokens: ["victims", "tortured"]
   disabledPeople:
-    stringTokens: ["persons with disabilities", "person with disabilities", "people with disabilities", "amputees", "albino", "blind", "deaf"]
+    stringTokens: ["persons with disabilities", "person with disabilities", "people with disabilities", "amputee", "albino", "blind", "deaf", "injuries", "disabilities", "amputation"]
   leadersPeople:
-    stringTokens: ["traditional leaders"]
+    stringTokens: ["traditional leaders", "leaders", "chiefs"]
   landOwnerPeople:
      stringTokens: ["titleholder", "landlord"]
   tenantPeople:
     stringTokens: ["tenant"]
   regionalPeople:
-    stringTokens: ["southerner", "northerner", "easterner", "westerner", "rural", "urban", "rural population", "urban population", "resident", "regional", "orientale"]
+    stringTokens: ["southerner", "northerner", "easterner", "westerner", "rural", "urban", "rural population", "urban population", "resident", "regional", "orientale", "local"]
   workersPeople:
-     stringTokens: ["professor", "University Professor", "entrepreneur", "contractor", "agricultural worker", "single worker", "worker", "lawyer",
-                    "young worker", "teachers", "colleagues", "wage earners", "servants", "vendors", "suppliers", "subconstractors", "staff", "shopkeeper", 
-                    "servant", "reporter", "publisher", "prosecutor", "professionals", "printer", "press", "porter", "photographer"]
+     stringTokens: ["professor", "University Professor", "entrepreneur", "contractor", "agricultural worker", "single worker", "worker", "lawyer", "merchant", "laborers",
+                    "young worker", "teachers", "colleagues", "wage earners", "servants", "vendors", "suppliers", "subconstractors", "staff", "shopkeeper", "labor", 
+                    "servant", "reporter", "publisher", "prosecutor", "professionals", "printer", "press", "porter", "photographer", "miner", "mineworker", "journalist", "journalist en danger",
+                    "JED", "inspector", "entrepeneur", "engineer", "employee", "editor", "driver", "doctor", "diamond worker", "director", "dealer", "crew members" , "correspondent", "contractor",
+                    "consultant", "blogger", "babysitter", "attorney"]
   domesticPeople:
      stringTokens: ["citizens", "residents", "nationals"]
   foreignPeopleNonmigrant: 
-     stringTokens: ["foreign", "foreign workers", "foreign diplomats", "diplomats", "diplomatic representatives", "foreign nationals", "expatriate", "travelers"]
+     stringTokens: ["foreign", "foreign worker", "foreign diplomat", "diplomat", "diplomatic representative", "foreign national", "expatriate", "traveler", "nationals", "humanitarian workers",
+                    "expatriate", "dignatory", "dignatories", "ambassador"]
   foreignPeoplemigrant: 
-     stringTokens: ["migrant", "refugee", "aslyee", "undocumented", "undocumented immigrants", "undocumented foreign workers", "unaccompanied minor", "pilgrims"]
+     stringTokens: ["migrant", "refugee", "aslyee", "undocumented", "undocumented immigrants", "undocumented foreign workers", "unaccompanied minor", "pilgrims", "noncitizen", "alien"]
   DisplacedPeople: 
-     stringTokens: ["displaced people", "displaced populations", "displaced persons", "IDPS", "internally displaced"]
+     stringTokens: ["displaced people", "displaced population", "displaced persons", "IDP", "internally displaced", "displaced", "displaced person", "Conflict- induced Displacement", "CID"]
   organizedGroup:
     stringTokens: ["organization", "group"]
   nonGovernmentalOrganizedGroup:
     stringTokens: ["non-governmental group", "nongovernmental group", "ngo", "nongovernmental organization", "non-governmental organization", "womens groups",
-                   "womens groups", "transgender groups", "society groups", "representatives", "local human rights groups", "organizers", "organization"]
+                   "womens groups", "transgender groups", "society groups", "representatives", "local human rights groups", "organizers", "organization", "ngo representative", "civil society groups",
+                   "civil society"]
   rebelGroup:
-    stringTokens: ["rebel group", "rebel organization", "rebel", "successionist", "rebel militia group", "RMG", ]
+    stringTokens: ["rebel group", "rebel organization", "rebel", "successionist", "rebel militia group", "RMG", "former rebel" ]
   governmentGroup:
-    stringTokens: ["government", "state", "official bureacracy", "Senate", "House of Representatives", "President", "Parliament", 
+    stringTokens: ["government", "state", "official bureacracy", "Senate", "House of Representatives", "President", "Parliament", "execcutive", "executive committee",
                    "House of Commons", "House of Lords", "Crown", "King", "Queen", "monarch", "Prime Minister", "Federal Assembly", "Duma", "Federation Council",
                    "National Congress", "Central Committee", "Politburo", "Politburo Standing Committee", "National People’s Congress", "NPC Standing Committee",
                    "National Congress", "Lower House", "Upper House", "Executive Branch", "Council of States", "House of the People", "Chamber of Deputies", "legislative branch",
                    "legislature", "vice president", "congress", "chamber of representatives", "council of state", "national assembly", "national council of provinces", "National Assembly",
-                   "Citizens Assembly", "Executive Council", "representative", "leader", "public official", "officals"]
+                   "Citizens Assembly", "Executive Council", "representative", "leader", "public official", "officals", "National Executive Committee", "National authorities", "government",
+                   "governors", "govermental", "government officials"]
   nationalJudicialGovernment:
     stringTokens: ["courts", "judges", "Court of Appeals", "District Courts", "Federal Judiciary", "Marshals", "Marshals Service", "Appellate Committee of the House of Lords"
                    "Judicial Committee of the Privy Council", "Senior Court", "Court of Appeal", "High Court of Justice", "Crown Court", "Court of Session",
                    "High Court of Justiciary", "Constitutional Court", "Chief Jusice", "Trial Courts", "Supreme Federal Court", "Judiciary", "judicial branch"
-                   "Superior Council of Judicature", "superior court", "supreme court of appeal", "bailiff", "magistrates"]
+                   "Superior Council of Judicature", "superior court", "supreme court of appeal", "bailiff", "magistrate", "ombudsman", "law enforcement officials", "jurist", "juries",
+                   "Judiciary", "judge", "jury", "court"]
   nationalAdministrativeGovernment:
     stringTokens: ["federal bureacracy", "Department of Defense", "Federal Bureau of Investigation", "Department of Homeland Security", "Central Bank", "Fed", 
                    "federal reserve", "first lord of treasury", "minister for the civil service", "minister for the union", "Central Military Commission", "State Council",
-                   "Chinese People’s Political Consultative Conference", "Ministers of the State", "minister of foreign affairs", "ministers"]
+                   "Chinese People’s Political Consultative Conference", "Ministers of the State", "minister of foreign affairs", "ministry", "ONARS", "ministries", "interministrial",
+                   "council", "commissioner", "commission"]
   nationalDiplomacyGovernment:
     stringTokens: ["diplomat", "consulate", "embassy", "mission", "diplomatic mission", "rapporteur"]
   subNationalAdministrativeGovernment:
@@ -91,8 +102,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   officialStateSecurityForces:
     stringTokens: ["army", "security forces", "police", "air force", "navy", "military", "armed forces", "troops", "strategic missile troops", "airborne troops", "ground force",
                   "rocket force", "strategic support force", "army aviation command", "military police", "military firefighter corps", "police department",
-                  "federal police", "highway police", "national public security force", "national police", "military", "officers", "prison officers",
-                  "soliders", "wardens", "state security forces", "SSF", "prison", "prison officials, "policemen", "policeman"]
+                  "federal police", "highway police", "national public security force", "national police", "military", "officers", "prison officers", "force",
+                  "soliders", "wardens", "state security forces", "SSF", "prison", "prison officials, "policemen", "policeman", "officer", "military", "guards"]
   politicalPartiesGroups: 
      stringTokens: ["politicians", "parties", "political stakeholders", "party", "political party leaders", "political activists", "political groups"]
   partiesInPower:
@@ -101,11 +112,13 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["opposition", "opposition parties", "opposition party", "opposition leader", "opposition candidate", "representatives of opposition group", "opposition group", "Opposition political parties", "opposition demonstrators", "rivals"
                    "opposition representative", "opposition political party member", "opposition party member", "opposition member", "opposition demonstrator"]  
   places:
-     stringTokens: ["zone", "villages, "universities", "university", "territories", "territory", "street", "residences", "shop", "station", "shelter", "sector", "seat", "school", "restaurant", "provinces", "plantations"]
+     stringTokens: ["zone", "villages", "universities", "university", "territories", "territory", "street", "residences", "shop", "station", "shelter", "sector", "seat", "school", "restaurant", "provinces", "classroom", "city", "cities", "club", 
+                    "plantations", "office", "land", "hospital", "headquarters", "ground", "field", "farm", "factory", "factories", "embassy", "embassies", "dormitory", "dormitories", "courtyard", "country", "countries", "center", "cementaries, "cementary",
+                    "capitol", "capital", "camp", "border", "boundaries", "boundary", "area"]
   bodyParts:
-     stringTokens: ["wrist", "head", "chest", "stomach"]
+     stringTokens: ["wrist", "head", "chest", "stomach", "hand", "genitals", "body", "bodies"]
   armedNonGovernmentalOrganizedGroup:
-    stringTokens: ["armed group", "militia", "violent organization", "rebels", "insurgency groups", "insurgents"]
+    stringTokens: ["armed group", "militia", "violent organization", "rebel", "insurgency group", "insurgent", "militiamen", "fighter"]
 Continents: 
   asiaContinent:
     stringTokens: ["Asia"]
@@ -136,7 +149,8 @@ Continents:
                    "African Development Bank", "ADB", "EBRD", "IDB", "World Bank Group", "IBRD", "ICSID", "IFC", "MIGA", "BECC", "CIAT", "IAII", "IICA", "IAI", "IATTC", "OAS", "PAHO", "PAIGH", "ACPF", "PUASP", "APERC", "Colombo Plan Council", "GLFC", "IEA", "MEDRC", "NAA", "NATO", "NEA", "OECD", "SPC", "CIFOR", "CEC", "Commission for Labor Cooperation", "CCAMLR",
                    "CTBTO", "CITES", "COSPAS-SARSAT", "ECC", "GBIF", "TGF", "HCOPIL", "UNOHCHR", "International Agreement on the Maintenance of Certain Lights in the Red Sea", "PCA", "International Bureau for the Protection of Industrial Property", "ICC", "International Bureau for the Publication of Customs Tariffs", "BIPM", "ICARDA", "ICCROM", "ICO", "ICCAT", "ICRC", "ICAC", "ICES", 
                    "INTERPOL", "ICRISAT", "IDLO", "IEFS", "IFDC", "IGC", "HFSP", "IHO", "UN High Commissioner for Refugees", "International Institute for Cotton", "UNIDROIT", "IMSO", "OIML", "IOM", "INTOSAI", "IPGRI", "IRENA", "IRSG", "ISTC", "ISTA", "ISNAR", "ITSO", "ITC", "ITTO", "International Union of Credit and Investment Insurers", "IWC", "IPU", "Iran-United States Claims Tribunal", "ITER", "KEDO", 
-                   "MFO", "CEC", "NPAFC", "OPCW", "OSCE", "PASO", "PIANC", "REC", "Committee UN", "UNJHRO", "United Nations Joint Human Rights Office", "UN Childrens", "Inter African members union", "STCU", "Sierra Leone Special Court", "WCO", "The World Heritage Fund", "OIE", "WTO", "UNHRO", "UNHRC", "UNHCHR", "UNGoE", "UNFD", "UNCRC", "UN Secretary general", "UN peacekeeper", "UN officials", "UN Child", "UN Human", "UN High Commissioner"]
+                   "MFO", "CEC", "NPAFC", "OPCW", "OSCE", "PASO", "PIANC", "REC", "Committee UN", "UNJHRO", "United Nations Joint Human Rights Office", "UN Childrens", "Inter African members union", "STCU", "Sierra Leone Special Court", "WCO", "The World Heritage Fund", "OIE", "WTO", "UNHRO", "UNHRC", "UNHCHR", "UNGoE", "UNFD", "UNCRC", "UN Secretary general", "UN peacekeeper", "UN officials", "UN Child", 
+                   "UN Human", "UN High Commissioner", "international organizations", "International Criminal Tribunal for Rwanda (ICTR)", "FSD", "EU"]
   internationalNonGovernmentalOrganizedGroup:
     stringTokens: ["ActionAid", "ACTED", "ADRA", "AIESEC", "CAFOD", "CARE", "CRS", "Cuso International", "Danish Relief Council", "Islamic Relief", "International
                     Olympic Committee", "Mercy Corps", "Oxfam", "Save the Children", "SOS Children's Villages", "Tzu Chi Foundation", "World Vision International",
@@ -146,9 +160,10 @@ Continents:
                     of the Scout Movement", "WOSM", "European Association of History Educators", "Junior Achievement", "The Library Project", "OpenMindProjects", "International Rescue
                     Committee", "IRC", "Human Rights Watch", "HRW", "Amnesty International", "Commonwealth Human Rights Initiative", "Friends of Peoples Close to Nature", 
                     "Humanists International", "International Christian Concern", "Red Cross", "International Commission Against the Death Penalty", "International Federation for Human Rights",
-                    "Survival International", "Greenpeace", "International POPs Elimination Network", "International Union for the Conservation of Nature", "World Wildlife Fund",
+                    "Survival International", "Greenpeace", "International POPs Elimination Network", "International Union for the Conservation of Nature", "World Wildlife Fund", "Open Society Institute", 
                     "WWF", "WaterAid", "Water.org", "Initiative Eau", "Water for People", "Transparency International", "Sister Cities International", "World Federation of United Nations Associations", "Lutheran World Relief",
-                    "COSPAR", "Committee on Space Research", "RIPE NCC",  "Human Rights League", "Human Rights League Executives", "IMIRAD", "International Committee of the Red Cross", "Federation for Action Christians"]
+                    "COSPAR", "Committee on Space Research", "RIPE NCC",  "Human Rights League", "Human Rights League Executives", "IMIRAD", "International Committee of the Red Cross", "Federation for Action Christians"
+                    "international humanitarian organizations", "international groups", "IFEX"]
   multinationalCorporation:
     stringTokens: ["Microsoft", "IBM", "Apple", "Walmart", "Nestle", "Proctor and Gamble", "Berkshire Hathway", "Amazon", "Alphabet", "Johnson and Johnson", 
                    "General Electric", "United Heath Group", "CVS Health", "Volkswagon", "Trafigura", "Uniper", "McKesson", "Toyota", "Samsung", "Foxconn", "Vodafone",
@@ -161,17 +176,19 @@ Continents:
     stringTokens: ["Glencore", "Jiangxi Copper", "BHP", "Rio Tinto", "Aluminum Corporation of China", "Vale", "Zijin Mining Group", "Anglo American", "Hindalco Industries",
                    "CMOC Group", "De Beers", "Xstrata", "Barrick"]
   domesticCorporation: 
-    stringTokens: ["company", "private company", "public company", "companies", "public companies", "private companies", "parastals"]
+    stringTokens: ["company", "private company", "public company", "companies", "public companies", "firm", "private companies", "parastals", "industries", "industry", "enterprise", "employer", 
+                   "companies", "business"]
   proGovernmentMilitia:
     stringTokens: ["pro-government militia", "militia allied with the government"]
   informationCollectionOrganization:
-    stringTokens: ["inspector", "monitor", "local human rights monitors", "human rights monitors", "political observers", "observers", "human rights report", "outside monitors", "international observers", "rights monitors"]
+    stringTokens: ["inspector", "monitor", "local human rights monitors", "human rights monitors", "political observers", "observers", "human rights report", "outside monitors", "international observers", "rights monitors",
+                   "international human rights observers", "independent human rights observers"]
   spies:
     stringTokens: ["spies", "spy", "secret agent", "intelligence agent"]
   laborGroup:
    stringTokens: ["labor", "workers"]
   laborUnion:
-    stringTokens: ["labor union", "employees' union", "union", "strikeworkers", "strikers", "labor group", "worker's rights group", "union leaders", "union members", "union representatives", "union organizers"]
+    stringTokens: ["labor union", "employees' union", "union", "strikeworkers", "strikers", "labor group", "worker's rights group", "union leaders", "union members", "union representatives", "union organizers", "ITUC"]
   ethnicGroup: # meaning a socially constructed grouping of people based on ascribed culture, ancestry, or language or some combination
     stringTokens: ["ethnic group", "ethnicity"]
   hispanicEthnicGroup:
@@ -179,15 +196,15 @@ Continents:
   employmentGroup:
     stringTokens: []
   farmers:
-    stringTokens: ["farmers", "agriculture"]
+    stringTokens: ["farmer", "agriculture", "farmworkers"]
   bankersFinancial:
-    stringTokens: ["banking sector", "financial sector", "banking", "financial", "stock market"]
+    stringTokens: ["banking sector", "financial sector", "banking", "financial", "stock market", "investors", "liquidators"]
   unemployed:
     stringTokens: ["unemployed", "jobless"]
   religionGroup:
     stringTokens: ["religious group", "religious organization"]
   christianReligion:
-    stringTokens: ["Christian", "priest", "preacher"]
+    stringTokens: ["Christian", "priest", "preacher", "clergy", "clergyman", "clergymen", "church"]
   orthodoxReligion:
     stringTokens: []
   greekOrthodox:
@@ -211,7 +228,7 @@ Continents:
   hinduReligion:
     stringTokens: ["hindu", "hindi"]
   muslimReligion:
-    stringTokens: ["Islam", "Muslim", "Shura", "Shura Council"]
+    stringTokens: ["Islam", "Muslim", "Shura", "Shura Council", "Iman"]
   shiaReligion:
     stringTokens: ["shia", "shia people", "shia sect"]
   sunniReligion:
