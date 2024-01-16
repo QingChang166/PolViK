@@ -3,11 +3,18 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: []
   people:
     stringTokens: ["people", "peoples", "human", "humans", "everyone", "population", "persons", "violators", "person", "individuals",
-                   "populace", "neighbors", "witnesses", "vulnerable populations", "volunteers", "voters", "visitors", "villagers", "viewers", 
-                    "sympathizers", "supporters", "spouse", "seeker", "speaker", "signatory", "signatories", "respondent", "relatives", "relations", "protestors", 
-                    "prosecuted", "prisoners", "prisoners of war", "POWs", "population", "populace", "plantiffs", "patient", "passerby", "passenger", "partners", "parents", 
+                   "populace", "neighbors", "witnesses", "vulnerable populations", "volunteers", "visitors", "villagers", "viewers", 
+                    "spouse", "seeker", "speaker", "respondent", "relatives", "relations", "protestors", "beneficiary", "beneficiaries",
+                    "prosecuted", "prisoners","population", "populace", "plantiffs", "patient", "passerby", "passenger", "partners", "parents", 
                     "participants", "others", "innocent person", "individual", "human", "household", "friends", "family members", "family", "families", "crowds",
-                    "couples", "citizen", "civilian", "bystander", "anyone"]
+                    "couples", "citizen", "civilian", "bystander", "anyone", "heir", "adult", "applicant", "customer"]
+  politicalPeople: 
+    stringTokens: ["marcher", "protestor", "demonstrator", "signatory", "signatories", "supporter", "sympathizer", "voter", "dissident", "activist", "delegate", "candidate",
+                   "delegation", "extremist", "anti apartheid activist"]
+  fightingPeople:
+    stringTokens: ["commander", "defender", "solider", "combatant", "captor", "captured", "attacker"]
+  formerFightingPeople: 
+     stringTokens: ["excombatant", "exrebel", "veteran", "POW", "prisoner of war"]
   ageGroup: 
     stringTokens: ["age"]
   ChildAge:
@@ -37,11 +44,12 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["prisoner", "prisoners", "inmate", "inmates", "detainee", "detainees", "arrested", "abducted"]
   criminalPeople:
     stringTokens: ["traffickers", "smugglers", "violators", "terrorist", "suspect", "rob", "rapist", "poacher", "perpetrator", "offender", "mutineer", 
-                    "murderer", "killer", "defendant", "criminals", "crimes", "accused", "abusers"]
+                    "murderer", "killer", "defendant", "criminal", "crime", "accused", "abuser", "mob"]
   victimsPeople:
     stringTokens: ["victims", "tortured"]
   disabledPeople:
-    stringTokens: ["persons with disabilities", "person with disabilities", "people with disabilities", "amputee", "albino", "blind", "deaf", "injuries", "disabilities", "amputation"]
+    stringTokens: ["persons with disabilities", "person with disabilities", "people with disabilities", "amputee", "albino", "blind", "deaf", "injuries", "disabilities", "amputation",
+                   "person with AIDS", "persons with AIDS", "people with AIDS", "person with HIV", "person with HIV", "people with HIV"]
   leadersPeople:
     stringTokens: ["traditional leader", "leader", "chief", "community leader"]
   landOwnerPeople:
@@ -51,11 +59,11 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   regionalPeople:
     stringTokens: ["southerner", "northerner", "easterner", "westerner", "rural", "urban", "rural population", "urban population", "resident", "regional", "orientale", "local"]
   workersPeople:
-     stringTokens: ["professor", "University Professor", "entrepreneur", "contractor", "agricultural worker", "single worker", "worker", "lawyer", "merchant", "laborers",
-                    "young worker", "teachers", "colleagues", "wage earners", "servants", "vendors", "suppliers", "subconstractors", "staff", "shopkeeper", "labor", 
+     stringTokens: ["professor", "University Professor", "entrepreneur", "contractor", "agricultural worker", "single worker", "worker", "lawyer", "merchant", "laborers", "actor",
+                    "young worker", "teachers", "colleagues", "wage earners", "servants", "vendors", "suppliers", "subconstractors", "staff", "shopkeeper", "labor", "agent", "advisor",
                     "servant", "reporter", "publisher", "prosecutor", "professionals", "printer", "press", "porter", "photographer", "miner", "mineworker", "journalist", "journalist en danger",
                     "JED", "inspector", "entrepeneur", "engineer", "employee", "editor", "driver", "doctor", "diamond worker", "director", "dealer", "crew members" , "correspondent", "contractor",
-                    "consultant", "blogger", "babysitter", "attorney", "caregiver", "businesswoman", "businesswomen", "businessman", "businessmen"]
+                    "consultant", "blogger", "babysitter", "attorney", "caregiver", "businesswoman", "businesswomen", "businessman", "businessmen", "herder", "defense worker"]
   domesticPeople:
      stringTokens: ["citizens", "residents", "nationals"]
   foreignPeopleNonmigrant: 
@@ -66,7 +74,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   DisplacedPeople: 
      stringTokens: ["displaced people", "displaced population", "displaced persons", "IDP", "internally displaced", "displaced", "displaced person", "Conflict- induced Displacement", "CID"]
   organizedGroup:
-    stringTokens: ["organization", "group", "community", "member", "communities"]
+    stringTokens: ["organization", "group", "community", "member", "communities", "association", "assembly", "assemblies"]
   nonGovernmentalOrganizedGroup:
     stringTokens: ["non-governmental group", "nongovernmental group", "ngo", "nongovernmental organization", "non-governmental organization", "womens groups",
                    "womens groups", "transgender groups", "society groups", "representatives", "local human rights groups", "organizers", "organization", "ngo representative", "civil society groups",
@@ -103,9 +111,11 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["army", "security forces", "police", "air force", "navy", "military", "armed forces", "troops", "strategic missile troops", "airborne troops", "ground force",
                   "rocket force", "strategic support force", "army aviation command", "military police", "military firefighter corps", "police department",
                   "federal police", "highway police", "national public security force", "national police", "military", "officers", "prison officers", "force",
-                  "soliders", "wardens", "state security forces", "SSF", "prison", "prison officials, "policemen", "policeman", "officer", "military", "guards"]
+                  "defense force", "wardens", "state security forces", "SSF", "prison", "prison officials, "policemen", "policeman", "officer", "military", "guards"]
+  foreignSecurityForces:
+    stringTokens: ["foreign rebel", "foreign troop", "foreign force", "foreign army", "foreign armies"]
   politicalPartiesGroups: 
-     stringTokens: ["politicians", "parties", "political stakeholders", "party", "political party leaders", "political activists", "political groups"]
+     stringTokens: ["politicians", "parties", "political stakeholders", "party", "political party leaders", "political activists", "political groups", "campaign"]
   partiesInPower:
     stringTokens: []
   partiesOutOfPower:
@@ -118,7 +128,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   bodyParts:
      stringTokens: ["wrist", "head", "chest", "stomach", "hand", "genitals", "body", "bodies"]
   armedNonGovernmentalOrganizedGroup:
-    stringTokens: ["armed group", "militia", "violent organization", "rebel", "insurgency group", "insurgent", "militiamen", "fighter"]
+    stringTokens: ["armed group", "militia", "violent organization", "rebel", "insurgency group", "insurgent", "militiamen", "fighter", "armed", "armies",
+                   "army", "armed seperatist"]
 Continents: 
   asiaContinent:
     stringTokens: ["Asia"]
@@ -163,7 +174,7 @@ Continents:
                     "Survival International", "Greenpeace", "International POPs Elimination Network", "International Union for the Conservation of Nature", "World Wildlife Fund", "Open Society Institute", 
                     "WWF", "WaterAid", "Water.org", "Initiative Eau", "Water for People", "Transparency International", "Sister Cities International", "World Federation of United Nations Associations", "Lutheran World Relief",
                     "COSPAR", "Committee on Space Research", "RIPE NCC",  "Human Rights League", "Human Rights League Executives", "IMIRAD", "International Committee of the Red Cross", "Federation for Action Christians"
-                    "international humanitarian organizations", "international groups", "IFEX"]
+                    "international humanitarian organizations", "international groups", "IFEX", "Action by Christians for the Abolition of Torture", "ACAT"]
   multinationalCorporation:
     stringTokens: ["Microsoft", "IBM", "Apple", "Walmart", "Nestle", "Proctor and Gamble", "Berkshire Hathway", "Amazon", "Alphabet", "Johnson and Johnson", 
                    "General Electric", "United Heath Group", "CVS Health", "Volkswagon", "Trafigura", "Uniper", "McKesson", "Toyota", "Samsung", "Foxconn", "Vodafone",
