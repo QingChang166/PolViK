@@ -216,7 +216,7 @@ Continents:
     stringTokens: ["religious group", "religious organization"]
   christianReligion:
     stringTokens: ["Christian", "priest", "preacher", "clergy", "clergyman", "clergymen", "church", "missionary", "missionaries", "ecunmenical inter church"]
-  orthodoxReligion:
+  orthodoxChristian:
     stringTokens: []
   greekOrthodox:
     stringTokens: ["greek orthodox"]
@@ -230,20 +230,80 @@ Continents:
     stringTokens: ["coptic catholic", "greek catholic", "eastern catholic"]
   protestantReligion:
     stringTokens: ["protestant", "protestant faith"]
+  evangelicalProtestant:
+    stringTokens: ["evangelical"]
   anglicanReligion:
-    stringTokens: ["anglican"]
+    stringTokens: ["anglican", "episcopalian"]
+  christianityOfEastReligion:
+    stringTokens: []
+  restorationismReligion:
+    stringTokens: []
   jewishReligion:
     stringTokens: ["jewish", "jewish faith"]
   orthodoxJewishReligion:
     stringTokens: ["orthodox jewish", "jewish orthodox faith"]
   hinduReligion:
     stringTokens: ["hindu", "hindi"]
+  vaishnavismReligion:
+    stringTokens: ["Vaishnavism", "Krishnaism"]
+  shaivismReligion:
+    stringTokens: ["shaivism", "Shaivas", "Shaivites"]
+  shaktismReligion:
+    stringTokens: ["Shaktism", "Shakta"]
+  smartismReligion:
+    stringTokens: ["Smartism", "Smarta"]
   muslimReligion:
     stringTokens: ["Islam", "Muslim", "Shura", "Shura Council", "Iman"]
   shiaReligion:
-    stringTokens: ["shia", "shia people", "shia sect"]
+    stringTokens: ["shia", "shia people", "shia sect", "twelver", "zaidi", "ismaili", "nizari"]
   sunniReligion:
-    stringTokens: ["sunni", "sunni people", "sunni sect"]
+    stringTokens: ["sunni", "sunni people", "sunni sect", "salafi", "salafism", "sufi", "sufism"]
+  mukkahimaReligion:
+    stringTokens: ["muakkahima", "ibadi", "Kharijite"]
+  ahmadiyyaReligion:
+    stringTokens: ["Ahmadiyya", "Ahmadi"]
+  alevismReligion:
+    stringTokens: ["Alevism", "Alevi"]
+  quranismReligion:
+    stringTokens: ["Quranism", "United Submitters International"]
+  buddhismReligion:
+    stringTokens: ["Buddhist", "Buddhism", "buddha dharma"]
+  theravadaReligion:
+    stringTokens: ["theravada", "southern buddhism", "teachings of the elders"]
+  mahayanaReligion:
+    stringTokens: ["mahyana", "eastern buddhism", "great vehicle", "zen", "chan", "pure land"]
+  vajrayanaReligion:
+    stringTokens: ["vajrayana", "vajra vehicle", "mantrayana", "tantric buddhism",  "esoteric buddhism", "northern buddhism", "Indo-Tibetan Buddhism" ]
+  folkReligion:
+    stringTokens: ["folk religion"]
+  shintoReligion:
+    stringTokens: ["Shinto", "Shintoists"]
+  taoReligion:
+    stringTokens: ["Tao", "Taoism", "Dao", "Daoism"]
+  voodooReligion:
+    stringTokens: ["Vodun", "Vodon", "Vodoun", "Vodou", "Vudu", "Voudou", "Voodoo"]
+  sikhismReligion:
+    stringTokens: ["Sikhism", "Sikhi", "Sikh"]
+  spiritismReligion:
+    stringTokens: ["Spiritism", "Kardecism"]
+  muismReligion:
+    stringTokens: ["Muism", "Mu", "musok", "korean shamanism"]
+  confucianismRelgion:
+    stringTokens: ["Confucianism", "Ruism", "Ru classicism"]
+  bahaiReligion:
+    stringTokens: ["Bahai"]
+  jainismReligion: 
+     stringTokens: ["Jain", "Jainism", "Jain Dharma"]
+  cheondoismReligion:
+     stringTokens: ["Cheondoism", "Chondoism"]
+  hoahaoismReligion:
+    stringTokens: ["Hoahaoism", "hoa hao"]
+  caodaismReligion:
+    stringTokens: ["Caodaism", "Dai Dao Tam Ky Pho Do", "The Great Faith [for the] Third Universal Redemption"]
+  tenriismReligion:
+    stringTokens: ["tenriism", "tenrikyo"]
+  druzeReligion: 
+    stringTokens: ["druze", "Muwaḥḥidun"]
   languageGroup:
     stringTokens: ["linguistic group", "language group"]
   englishLanguage:
