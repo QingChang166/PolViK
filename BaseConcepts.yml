@@ -218,8 +218,16 @@ Continents:
     stringTokens: ["Christian", "priest", "preacher", "clergy", "clergyman", "clergymen", "church", "missionary", "missionaries", "ecunmenical inter church"]
   orthodoxChristian:
     stringTokens: []
+  orientalOrthodox:
+    stringtokens: ["oriental orthodox"]
+  ethiopianOrthodox:
+    stringTokens: ["Ethiopian Orthodox", "Tewahedo Church", "Tewahedo"]
+  copticOrthodox:
+    stringTokens: ["Coptic Orthodox", "Church of Alexandria"]
+  eritreanOrthodox:
+    stringTokens: ["Eritrean Orthodox"]
   greekOrthodox:
-    stringTokens: ["greek orthodox"]
+    stringTokens: ["greek orthodox", "greek orthodox church of alexandria"]
   russianOrthodox:
     stringTokens: ["russian orthodox"]
   catholicReligion:
@@ -233,11 +241,35 @@ Continents:
   evangelicalProtestant:
     stringTokens: ["evangelical"]
   anglicanReligion:
-    stringTokens: ["anglican", "episcopalian"]
+    stringTokens: ["anglican", "episcopalian", "Church of nigeria", "church of uganda", " anglican church of rwanda", "anglican church of kenya", "epispocal church of sudan and south sudan",
+                   "anglican church of southern africa", "anglican church of tanzania", "church of the province of central africa", "anglican church of burundi", 
+                   "church of christ in congo", "anglican community of congo", "church of the province of west africa", "reformed evangelical anglician church of south africa"]
   christianityOfEastReligion:
     stringTokens: []
+  baptistReligion:
+     stringTokens: ["baptist", "nigerian baptist convention", "baptist union of uganda", "baptist community of congo", "baptist convention of tanzania", "baptist community of the congo river",
+                    "baptist convention of kenya", "baptist convention of malawi", "ghana baptist convention", "union of baptist churches in rwanda", "evangelical baptist church of the central african republic"]
   restorationismReligion:
     stringTokens: []
+  irivingismReligion:
+     stringTokens: ["Irvingism", "Catholic Apostolic Church", "new apostolic church"]
+  lutheranismReligion:
+    stringTokens: ["Lutheranism", "Ethiopian Evangelical Church Mekane Yesus", "Evangelical Lutheran Church in Tanzania", "Malagasy Lutheran Church", "Lutheran Church of Christ in Nigeria",
+                   "Evangelical Lutheran Church in Namibia", "Evangelical Lutheran Church in Southern Africa", "Evangelical Lutheran Church in the Republic of Namibia", "Evangelical Lutheran Church of Cameroon",
+                   "Evangelical Lutheran Church in Zimbabwe"]
+  methodismReligion:
+    stringTokens: ["Methodism", "World Methodist Council", "Methodist Church Nigeria", "Methodist Church of Southern Africa", "United Methodist Church of Ivory Coast",
+                   "Methodist Church Ghana", "Methodist Church in Kenya", "United Methodist Church in Liberia", "Free Methodist church in Congo"]
+  calvinismReligion:
+    stringTokens: ["Calvinism", "Presbyterian Church of East Africa", "Presbyterian Church of Nigeria", "Presbyterian Church of Africa", "Church of Christ in Congo–Presbyterian Community of Congo",
+                  "Presbyterian Church of Cameroon", "Church of Central Africa Presbyterian", "Presbyterian Church in Sudan", "Presbyterian Church in Cameroon", "Evangelical Presbyterian Church, Ghana", 
+                  "Uniting Presbyterian Church in Southern Africa", "Presbyterian Church in Rwanda", "Church of Jesus Christ in Madagascar", "United Church in Zambia", "Evangelical Church of Cameroon",
+                  "Dutch Reformed Church in South Africa", "NGK", "Uniting Reformed Church in Southern Africa", "Lesotho Evangelical Church", "Christian Reformed Church of Nigeria",
+                  "Reformed Church in Zambia", "Evangelical Reformed Church in Angola", "Church of Christ in the Sudan Among the Tiv", "Evangelical Church of Congo", "Evangelical Congregational Church in Angola",
+                  "United Congregational Church of Southern Africa"]
+  pentecostalismReligion: 
+     stringTokens: ["pentecostalism", "Kale Heywet Church", "Ethiopian Full Gospel Believers Church", "General Council of the Assemblies of God Nigeria", "Apostolic Faith Mission of South Africa", 
+                    "Association of Pentecostal Churches of Rwanda"]
   jewishReligion:
     stringTokens: ["jewish", "jewish faith"]
   orthodoxJewishReligion:
