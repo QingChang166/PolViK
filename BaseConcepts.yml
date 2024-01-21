@@ -174,7 +174,8 @@ Continents:
                     "Survival International", "Greenpeace", "International POPs Elimination Network", "International Union for the Conservation of Nature", "World Wildlife Fund", "Open Society Institute", 
                     "WWF", "WaterAid", "Water.org", "Initiative Eau", "Water for People", "Transparency International", "Sister Cities International", "World Federation of United Nations Associations", "Lutheran World Relief",
                     "COSPAR", "Committee on Space Research", "RIPE NCC",  "Human Rights League", "Human Rights League Executives", "IMIRAD", "International Committee of the Red Cross", "Federation for Action Christians"
-                    "international humanitarian organizations", "international groups", "IFEX", "Action by Christians for the Abolition of Torture", "ACAT"]
+                    "international humanitarian organizations", "international groups", "IFEX", "Action by Christians for the Abolition of Torture", "ACAT", "World Muslim League", "World Assembly for Muslim Youth", 
+                    "Federation of Mab and Islamic Schools"]
   multinationalCorporation:
     stringTokens: ["Microsoft", "IBM", "Apple", "Walmart", "Nestle", "Proctor and Gamble", "Berkshire Hathway", "Amazon", "Alphabet", "Johnson and Johnson", 
                    "General Electric", "United Heath Group", "CVS Health", "Volkswagon", "Trafigura", "Uniper", "McKesson", "Toyota", "Samsung", "Foxconn", "Vodafone",
@@ -215,7 +216,8 @@ Continents:
   religionGroup:
     stringTokens: ["religious group", "religious organization"]
   christianReligion:
-    stringTokens: ["Christian", "priest", "preacher", "clergy", "clergyman", "clergymen", "church", "missionary", "missionaries", "ecunmenical inter church"]
+    stringTokens: ["Christian", "priest", "preacher", "clergy", "clergyman", "clergymen", "church", "missionary", "missionaries", "ecunmenical inter church", "Eternal Sacred Order of Cherubim and Seraphim ", "Council of African Instituted Churches",
+                   "Church of Christ Light of the Holy Spirit", "African Church of the Holy Spirit", "African Israel Church Nineveh"]
   orthodoxChristian:
     stringTokens: []
   orientalOrthodox:
@@ -237,9 +239,9 @@ Continents:
   nonRomanCatholic:
     stringTokens: ["coptic catholic", "greek catholic", "eastern catholic"]
   protestantReligion:
-    stringTokens: ["protestant", "protestant faith"]
+    stringTokens: ["protestant", "protestant faith", "zion christian church", "]
   evangelicalProtestant:
-    stringTokens: ["evangelical"]
+    stringTokens: ["evangelical", "evangelical church of west africa"]
   anglicanReligion:
     stringTokens: ["anglican", "episcopalian", "Church of nigeria", "church of uganda", " anglican church of rwanda", "anglican church of kenya", "epispocal church of sudan and south sudan",
                    "anglican church of southern africa", "anglican church of tanzania", "church of the province of central africa", "anglican church of burundi", 
@@ -250,7 +252,7 @@ Continents:
      stringTokens: ["baptist", "nigerian baptist convention", "baptist union of uganda", "baptist community of congo", "baptist convention of tanzania", "baptist community of the congo river",
                     "baptist convention of kenya", "baptist convention of malawi", "ghana baptist convention", "union of baptist churches in rwanda", "evangelical baptist church of the central african republic"]
   restorationismReligion:
-    stringTokens: []
+    stringTokens: ["Mormom", "Latter Day Saints", "church of jesus christ of the latter day saints"]
   irivingismReligion:
      stringTokens: ["Irvingism", "Catholic Apostolic Church", "new apostolic church"]
   lutheranismReligion:
@@ -269,7 +271,11 @@ Continents:
                   "United Congregational Church of Southern Africa"]
   pentecostalismReligion: 
      stringTokens: ["pentecostalism", "Kale Heywet Church", "Ethiopian Full Gospel Believers Church", "General Council of the Assemblies of God Nigeria", "Apostolic Faith Mission of South Africa", 
-                    "Association of Pentecostal Churches of Rwanda"]
+                    "Association of Pentecostal Churches of Rwanda", "Redeemed Christian Church of God", "Church of the Lord", "Aladura"]
+  mennoniteReligion: 
+    stringTokens: ["Mennonite", "Meserete Kristos Church"]
+  kimbanguismReligion:
+    stringTokens: ["Kimbanguism", "Kimbanguist Church"]
   jewishReligion:
     stringTokens: ["jewish", "jewish faith"]
   orthodoxJewishReligion:
@@ -290,6 +296,8 @@ Continents:
     stringTokens: ["shia", "shia people", "shia sect", "twelver", "zaidi", "ismaili", "nizari"]
   sunniReligion:
     stringTokens: ["sunni", "sunni people", "sunni sect", "salafi", "salafism", "sufi", "sufism"]
+  sufiReligion:
+    stringTokens: ["sufi", "sufism"]
   mukkahimaReligion:
     stringTokens: ["muakkahima", "ibadi", "Kharijite"]
   ahmadiyyaReligion:
@@ -336,6 +344,64 @@ Continents:
     stringTokens: ["tenriism", "tenrikyo"]
   druzeReligion: 
     stringTokens: ["druze", "Muwaḥḥidun"]
+  traditionalAfricanReligion:
+    stringTokens: []
+  bantuReligion: 
+    stringTokens: ["Bantu traditional belief", "Bantu folk belief", "Bantu mythology", "Bushongo traditional belief", "Bushongo folk belief", "Bushongo mythology",
+                   "Bantu religion", "Bushongo religion", "Kongo religion", "Kongo traditional belief", "Kongo folk belief", "Kongo mythology", "Lugbara religion", 
+                   "Lugbara traditional belief", "Lugbara folk belief", "lugbara mythology", "Baluba religion", "Baluba traditional belief", "Baluba folk belief", 
+                   "Baluba mythology", "Mbuti religion", "Mbuti folk belief", "Mbuti traditional belief", "Mbuti mythology", "gikuyu traditional beleif", "gikuyu folk belief",
+                   "gikuyu religion", "gikuyu folk belief", "akamba traditional belief", "akamba folk belief", "akamba religion", "akama mythology", "lozi mythology",
+                   "lozi religion", "lozi traditional belief", "lozi folk belief", "tumbuka mythology", "tumbuka folk belief", "tumbuka traditional belief", "tumbuka religion",
+                   "zulu mythology", "zulu traditional belief", "zulu folk belief", "zulu religion"]
+  hausaReligion:
+    stringTokens: ["Hausa religion", "hausa animism", "hausa folk belief", "Hausa traditional belief"]
+  lotukoReligion:
+    stringTokens: ["Lotuko religion", "Lotuko folk belief", "Lotuko traditional belief", "lotuko mythology"]
+  kushiteReligion:
+    stringTokens: ["Kushite religion", "Kushite folk belief", "Kushite traditional belief", "Kushite mythology"]
+  abaluhyaReligion:
+    stringTokens: ["Abaluhya religion", "Abaluhya folk belief", "Abaluhya traditional belief", "Abaluhya mythology"]
+  dinkaReligion:
+    stringTokens: ["Dinka religion", "dinka folk belief", "dinka traditional belief", "dinka mythology"]
+  malagasyReligion:
+    stringTokens: ["Malagasy mythology", "Malagasy folk belief", "Malagasy traditional belief", "Malagasy religion"]
+  maasaiReligion:
+    stringTokens: ["Maasai mythology", "Maasai folk belief", "Maasai traditional belief", "Masaai religion"]
+  kalenjinReligion:
+    stringTokens: ["Kalenjin mythology", "Kalenjin folk belief", "Kalenjin traditional belief", "Kalenjin religion"]
+  diniYaMsambwaReligion:
+    stringTokens: ["Dini Ya Msambwa", "religion of the ancestor"]
+  waaqeffannaReligion:
+    stringTokens: ["Waaqeffanna", "Waaqa"]
+  somaliReligion: 
+    stringTokens: ["somali religion", "somali folk belief", "somali traditional belief", "somali mythology"]
+  kemetismReligion:
+    stringTokens: ["Kemetism"]
+  punicReligion:
+    stringTokens: ["Punic", "Carthaginian religion", "West Phoenician religion"]
+  traditionalBerberReligion:
+    stringTokens: ["traditional berber religion", "berber religion"]
+  badimoReligion:
+    stringTokens: ["badimo", "badimo religion", "badimo mythology", "badimo folk belief", "badimo traditional belief"]
+  sanReligion:
+    stringTokens: ["san religion", "san traditional beliefs", "san folk beliefs", "san mythology"]
+  abwoiReligion:
+    stringTokens: ["abwoi religion", "abwoi traditional beliefs", "abwoi beliefs", "abwoi mythology"]
+  akanReligion:
+    stringTokens: ["akan religion", "akan traditional beliefs", "akan beliefs", "akan mythology"]
+  dahomeanReligion: 
+    stringTokens: ["dahomean religion", "dahomean traditional beliefs", "dahomean beliefs", "dahomean mythology"]
+  efikReligion: 
+    stringTokens: ["efik religion", "efik traditional beliefs", "efik beliefs", "efik mythology"]
+  edoReligion: 
+    stringTokens: ["edo religion", "edo traditional beliefs", "edo beliefs", "edo mythology"]
+  ijoReligion: 
+    stringTokens: ["ijo religion", "ijo traditional beliefs", "ijo beliefs", "ijo mythology"]
+  godianismReligion:
+    stringTokens: ["godianism", "chiism"]
+  odinalaReligion:
+    stringTokens: ["odinala", "odinani"]
   languageGroup:
     stringTokens: ["linguistic group", "language group"]
   englishLanguage:
