@@ -8,6 +8,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                     "prosecuted", "prisoners","population", "populace", "plantiffs", "patient", "passerby", "passenger", "partners", "parents", 
                     "participants", "others", "innocent person", "individual", "human", "household", "friends", "family members", "family", "families", "crowds",
                     "couples", "citizen", "civilian", "bystander", "anyone", "heir", "adult", "applicant", "customer"]
+  legalGroup:
+    stringTokens: []
   politicalPeople: 
     stringTokens: ["marcher", "protestor", "demonstrator", "signatory", "signatories", "supporter", "sympathizer", "voter", "dissident", "activist", "delegate", "candidate",
                    "delegation", "extremist", "anti apartheid activist"]
@@ -17,6 +19,10 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
      stringTokens: ["excombatant", "exrebel", "veteran", "POW", "prisoner of war"]
   ageGroup: 
     stringTokens: ["age"]
+  jobGroup:
+    stringTokens: ["job"]
+  incomeGroup:
+    stringTokens: ["income", "wealth"]
   ChildAge:
     stringTokens: ["child", "children", "baby", "youth", "student", "minor", "young", "students", "young individuals", "street children", "teenagers", "underage soliders", 
                    "child soliders", "pupils", "orphans", "juvenile", "infant"]
@@ -114,7 +120,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                   "defense force", "wardens", "state security forces", "SSF", "prison", "prison officials, "policemen", "policeman", "officer", "military", "guards"]
   foreignSecurityForces:
     stringTokens: ["foreign rebel", "foreign troop", "foreign force", "foreign army", "foreign armies"]
-  politicalPartiesGroups: 
+  politicalParties: 
      stringTokens: ["politicians", "parties", "political stakeholders", "party", "political party leaders", "political activists", "political groups", "campaign"]
   partiesInPower:
     stringTokens: []
@@ -176,6 +182,8 @@ Continents:
                     "COSPAR", "Committee on Space Research", "RIPE NCC",  "Human Rights League", "Human Rights League Executives", "IMIRAD", "International Committee of the Red Cross", "Federation for Action Christians"
                     "international humanitarian organizations", "international groups", "IFEX", "Action by Christians for the Abolition of Torture", "ACAT", "World Muslim League", "World Assembly for Muslim Youth", 
                     "Federation of Mab and Islamic Schools"]
+  corporationGroup:
+    stringTokens: ["corporation"]
   multinationalCorporation:
     stringTokens: ["Microsoft", "IBM", "Apple", "Walmart", "Nestle", "Proctor and Gamble", "Berkshire Hathway", "Amazon", "Alphabet", "Johnson and Johnson", 
                    "General Electric", "United Heath Group", "CVS Health", "Volkswagon", "Trafigura", "Uniper", "McKesson", "Toyota", "Samsung", "Foxconn", "Vodafone",
