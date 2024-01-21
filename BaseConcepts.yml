@@ -402,6 +402,16 @@ Continents:
     stringTokens: ["godianism", "chiism"]
   odinalaReligion:
     stringTokens: ["odinala", "odinani"]
+  asaaseYaaReligion:
+    stringTokens: ["Asaase Yaa"]
+  sererReligion:
+    stringTokens: ["serer", "a fat roog"]
+  yorubaReligion:
+    stringTokens: ["yoruba religion", "yoruba traditional belief", "yoruba folk belief", "yoruba mythology"]
+  dogonReligion:
+    stringTokens: ["dogon religion", "dogon traditional belief", "dogon folk belief", "dogon mythology"]
+  ifaReligion:
+    stringTokens: ["ifa religion", "ifa traditional belief", "ifa folk belief", "ifa mythology"]
   languageGroup:
     stringTokens: ["linguistic group", "language group"]
   englishLanguage:
