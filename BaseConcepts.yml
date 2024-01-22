@@ -428,7 +428,143 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   spanishLanguage:
     stringTokens: ["spanish", "spanish language"]
   portugeseLanguage:
-    stringTokens: ["portugese", "portugese language"]
+    stringTokens: ["portugese", "portugese language", "goan portugese", "nusantaran portugesese"]
+  mandarinChineseLanguage:
+     stringTokens: ["mandarin", "mandarin chinese language", "chinese language", "standard chinese"]
+  hindiLanguage:
+     stringTokens: ["hindi language", "hindi", "braj", "haryanvi", "bundeli", "kannauji", "hindustani", "deccani", "hyderabadi", "dhakaiya", "rekhta", "kauravi",
+                    "bombay hindi", "bihari hindi", "andaman creole hindi", "haflong hindi", "judeo-urdu", "awadhi", "carribean hindustani", "fiji hindi",
+                    "bagheli", "chhattisghari", "surgujia"]
+  arabicLanguage:
+    stringTokens: ["arabic", "arabic language"]
+  bengaliLanguage:
+    stringTokens: ["bengali language", "bengali", "eastern bangali", "rarhi", "varendri", "rangpuri", "manbhumi"]
+  russianLanguage: 
+     stringTokens: ["russian", "russian language"]
+  urduLanguage:
+    stringTokens: ["urdu", "urdu language",  "deccani", "dhakaiya", "judeo-Urdu"]
+  indonesianLanguage:
+    stringTokens: ["indonesian", "indonesian language"]
+  germanLanguage:
+    stringTokens: ["german", "german language"]
+  japaneseLanguage:
+    stringTokens: ["japanese language", "japanese"]
+  nigerianPidginLanguage:
+    stringTokens: ["nigerian pidgin language", "nigerian pidgin", "naija"]
+  egyptianArabicLanguage:
+    stringTokens: ["egyptian arabic language", "egyptian arabic", "egyptian", "egyptian language", "judeo-egyptian arabic"]
+  marathiLanguage:
+    stringTokens: ["marathi language", "marathi", "Maharashtrian Konkani", "Varhadi Marathi", "Thanjavur Marathi", "East Indian Marathi", "Judeo-Marathi",
+                   "Jhadi boli"]
+  teleguLanguage: 
+    stringTokens: ["telegu language", "telegu", "Telangana", "Rayalaseema",  "Coastal Andhra", "North Andhra"]
+  turkishLanguage:
+    stringTokens: ["turkish", "turkish language", "Cypriot Turkish", "Iraqi Turkmen", "Karamanli Turkish", "Meskhetian Turkish", "rumelian turkish", "syrian turkish"
+  tamilLanguage:
+    stringTokens: ["tamil", "tamil language", 	"Eelam", "Malesiyat", "Bunagurr", "Iyengar", "Kongu", "Chennai tamil", "Madurai", "Tiruneveli", "Sankethi", "Estate tamil",
+                   "Central tamil"]
+  yueChineseLanguage:
+    stringTokens: ["yue chinese language", "yue chinese", "cantonese", "cantonese language", 	"Yuehai", "Siyi", "Taishanese", "Gao–Yang", "Yong–Xun", "Gou–Lou",
+                   "Qin–Lian", "Wu–Hua"]
+  vietnameseLanguage: 
+    stringTokens: ["vietnamese", "vietnamese language"]
+  wuChineseLanguage:
+    stringTokens: ["wu chinese language", "wu chinese", "wu language", "wu", "Shanghainese", "Suzhounese", "Wenzhounese"]
+  tagalogLanguage:
+    stringTokens: ["tagalog", "tagalog language", 	"Bataan", "Batangas", "Bulacan", "Lubang", "manila tagalog", "marinduque tagalog", "puray tagalog", "tanay-paete", 
+                  "tayabas"]
+  koreanLanguage:
+    stringTokens: ["korean", "korean language", "hamgyong", "pyongan", "central korean", "gyeongsang", "jeolla", "jeju", "Ryukchin", "Yukchin"]
+  iranianPersianLanguage:
+    stringTokens: ["iranian persian language", "iranian persian", "persian", "persian language", "Abadani", "Araki", "Bandari", "Basseri", "Esfahani", "Karbalai", 
+                   "kashani", "kermani", "kermanshahi", "mashhadi", "qazvini", "shirazi", "tehrani", "yazdi"]
+  hausaLanguage: 
+    stringTokens: ["hausa", "hausa language", "Dauranci", "Kananci", "Bausanci", "Gudduranci", "Hadejanci", "Sakkwatanci", "Katsinanci", "Arewanci" "Zanhwaranci", "Kurhwayanci"
+                    "Katsina", "Arewa", "Arewaci", "Zazzaganci"]
+  swahiliLanguage:
+     stringTokens: ["swahili", "swahili language", "kiswahili", "kisawhili language", "kiamu"]
+  javaneseLanguage:
+     stringTokens: ["javanese", "javanese language"]
+  italianLanguage:
+    stringTokens: ["italian", "italian language"]
+  westernPunjabiLanguage:
+     stringTokens: ["western Punjabi language", "western punjabi", "punjabi language"]
+  easternPunjabiLanguage:
+     stringTokens: ["eastern Punjabi language", "eastern punjabi"]
+  gujaratiLanguage:
+     stringTokens: ["gujarati language", "gujarati"]
+  thaiLanguage:
+    stringTokens: ["thai", "thai language"]
+  kannadaLanguage:
+    stringTokens: ["kannada language", "kannada", "canarese", "canarese language"]
+  amharicLanguage:
+    stringTokens: ["amharic language", "amharic"]
+  bhojpuriLanguage:
+    stringTokens: ["bhojpuri", "bhojpuri language", "domra", "musahari"]
+  southernMinChineseLanguage:
+    stringTokens: ["southern min chinese language", "southern min chinese", "min chinese", "hokkein", "taiwanese"]
+  jinChineseLanguage: 
+    stringTokens: ["Jin Chinese language", "Jin Chinese"]
+  levantineArabicLanguage:
+    stringTokens: ["levantine arabic", "levantine arabic language", "shami"]
+  yorubaLanguage:
+    stringTokens: ["yoruba", "yoruba language"]
+  afrikaansLanguage:
+    stringTokens: ["afrikaans", "afrikaans language"]
+  berberLanguage:
+    stringTokens: ["berber", "berber language", "amazigh", "amazigh language", "Tamazight"]
+  chewaLanguage:
+    stringTokens: ["chewa", "chewa language"]
+  comorianLanguage:
+    stringTokens: ["comorian", "comorian language", "Shindzuani", "Shimaore", "Shimwali", "Shingazija"]
+  kikongoLanguage:
+    stringTokens: ["kikongo language", "kikongo", "kongo language"]
+  kinyarwandaLanguage:
+    stringTokens: ["kinyarwanda language", "kinyarwanda"]
+  kirundiLanguage:
+    stringTokens: ["kirundi language", "kirundi"]
+  malagasyLanguage:
+    stringTokens: ["malagasy language", "malagasy"]
+  ndebeleLanguage:
+    stringTokens: ["ndebele", "ndebele language"]
+  oromoLanguage:
+    stringTokens: ["oromo", "oromo language"]
+  sangoLanguage:
+    stringTokens: ["sango", "sango language"]
+  sepediLanguage:
+    stringTokens: ["sepedi", "sepedi language", "pedi", "Sesotho sa Lebowa"]
+  sesothoLanguage:
+    stringTokens: ["sesotho", "sesotho language", "sotho"]
+  setswanaLanguage:
+    stringTokens: ["setswana language", "setswana", "tswana"]
+  seychellesCreoleLanguage:
+    stringTokens: ["seychelles creole language", "seychelles creole", "seychelles kreol"]
+  shonaLanguage:
+    stringTokens: ["shona language", "shona", "central shonic"]
+  sindebeleLanguage:
+    stringTokens: ["sindebele language", "sindebele", "northern ndebele"]
+  somaliLanguage:
+    stringTokens: ["somali", "somali language"]
+  swatiLanguage:
+    stringTokens: ["swati", "swati language",]
+  tingrinyaLanguage: 
+    stringTokens: ["tingrinya", "tingrinya language"]
+  tsongaLanguage:
+    stringTokens: ["tsonga", "tsonga language", "xitsonga", "twsa", "ronga"]
+  vendaLanguage:
+    stringTokens: ["venda language", "venda"]
+  xhosaLanguage:
+    stringTokens: ["xhosa language", "xhosa"]
+  zuluLanguage:
+    stringTokens: ["zulu", "zulu language", "isiZulu"]
+  igboLanguage:
+    stringTokens: ["igbo language", "igbo"]
+  fulaLanguage:
+    stringTokens: ["fula language", "fula", "fulani language", "fulah language"]
+  wolofLanguage: 
+    stringTokens: ["wolof", "wolof language"]
+  khoisanLanguage:
+    stringTokens: ["khoisan", "khoisan language"]
   individualPerson:
     stringTokens: ["an individual", "person", ""]
   barackObama: # just as 2 examples, generally people will be recorded within specific countries
