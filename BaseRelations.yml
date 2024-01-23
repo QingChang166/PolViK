@@ -1036,6 +1036,8 @@ relations:  # parent concept, child concept, tuples
     - (religionGroup, tenriismReligion)
     - (religionGroup, druzeReligion)
     - (religionGroup, traditionalAfricanReligion)
+    - (religionGroup, animismReligion)
+    - (religionGroup, shamanismReligion)
     - (traditionalAfricanReligion, bantuReligion)
     - (traditionalAfricanReligion, hausaReligion)
     - (traditionalAfricanReligion, lotukoReligion)
