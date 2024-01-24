@@ -843,94 +843,169 @@ asmatEthnicGroup:
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "sunniReligion"]
 assiniboineEthnicGroup:
     stringTokens: ["Assiniboine", "Bizebina", "Insaombi", "Wokpanbi"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q682808"]
+    religionsMostPracticed: ["shamanismReligion", "christianReligion"]
 assyriansEthnicGroup:
-    stringTokens: ["Assyrians", "Iraqi Assyrians", "Turkish Assyrians", "Syrian Assyrians",  "Iranian Assyrians",  "Chaldean Assyrians", "Syriac Assyrians, "Hakkari",  "Urmia",  "Tyari", "Jilu", "Baz", "Tkhuma", "Nochiya"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Assyrians", "Iraqi Assyrians", "Turkish Assyrians", "Syrian Assyrians",  "Iranian Assyrians",  "Chaldean Assyrians", "Syriac Assyrians, "Hakkari",  
+                   "Urmia",  "Tyari", "Jilu", "Baz", "Tkhuma", "Nochiya", "aisors"]
+    wikidataID: ["Q377085"]
+    religionsMostPracticed: ["christianReligion", "jewishReligion", "protestantReligion"]
 asturiansEthnicGroup:
     stringTokens: ["Asturians", "Eonavians"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q3573453"]
+    religionsMostPracticed: ["catholicReligion"]
 atacamaEthnicGroup:
-    stringTokens: ["Atacama"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Atacama", "atacamenos"]
+    wikidataID: ["Q753125"]
+    religionsMostPracticed: ["christianReligion"]
 atayalsEthnicGroup:
     stringTokens: ["Atayals"]
+    wikidataID: ["Q701676"]
+    religionsMostPracticed: ["christianReligion", "animismReligion"]
 atiEthnicGroup:
-    stringTokens: ["Ati"]
+    stringTokens: ["Ati"]  
+    wikidataID: ["Q2714852"]
+    religionsMostPracticed: ["animismReligion", "catholicReligion"]
 atoniEthnicGroup:
     stringTokens: ["Atoni", "Amarasi"]
+    wikidataID: ["Q757538"]
+    religionsMostPracticed: ["christianReligion", "sunniReligion"]
 atyapEthnicGroup:
     stringTokens: ["Atyap"]
+    wikidataID: ["Q4217022"]
+    religionsMostPracticed: ["christianReligion", "traditionalAfricanreligion"]
 australIslandersEthnicGroup:
     stringTokens: ["Austral Islanders"]
+    wikidataID: ["Q115299116"]
+    religionsMostPracticed: ["protestantReligion", "catholicReligion"]
 austriansEthnicGroup:
     stringTokens: ["Austrians"]
+    wikidataID: ["Q237534"]
+    religionsMostPracticed: ["catholicReligion", "lutheranReligion", "sunniReligion"]
 avarsEthnicGroup:
     stringTokens: ["Avars", "Archis"]
+    wikidataID: ["Q8280625"]
+    religionsMostPracticed: ["sunniReligion"]
 awaEthnicGroup:
-    stringTokens: ["Awa"]
+    stringTokens: ["Awa"]    
+    wikidataID: ["Q114003032"]
+    religionsMostPracticed: [""]
 awadhisEthnicGroup:
     stringTokens: ["Awadhis", "Barhai"]
+    wikidataID: ["Q4829674"]
+    religionsMostPracticed: ["hinduismReligion", "shiaReligion"]
 aymaraEthnicGroup:
     stringTokens: ["Aymara"]
+    wikidataID: ["Q8281727"]
+    religionsMostPracticed: ["catholicReligion", "evangelicalReligion"]
 aynuEthnicGroup:
-    stringTokens: ["Aynu"]
+    stringTokens: ["Aynu", "aini", "abdal"]
+    wikidataID: ["Q307559"]
+    religionsMostPracticed: ["sunniRelgion", "alevismReligion"]
 azerbaijanisEthnicGroup:
-    stringTokens: ["Azerbaijanis", "Ayrums", "Baharlu", "Bayat", "Karadaghis", "Qajars", "Kuresunni", "Padar", "Qarapapaqs", "Shahsevan", "Terekeme", "Yeraz", "Afshar", "Javanshir Qizilbash", "Iranian Azeris"]
+    stringTokens: ["Azerbaijanis", "Ayrums", "Baharlu", "Bayat", "Karadaghis", "Qajars", "Kuresunni", "Padar", "Qarapapaqs", "Shahsevan", "Terekeme", "Yeraz", "Afshar", "Javanshir Qizilbash", "Iranian Azeris", "azeri"]
+    wikidataID: ["Q482942"]
+    religionsMostPracticed: ["shiaReligion", "sunniReligion"]
 baburandBuraEthnicGroup:
-    stringTokens: ["Babur and Bura", "Babur", "Bura"]
+    stringTokens: ["Babur and Bura", "Babur", "Bura", "pabir"]
+    wikidataID: ["Q115806563"]
+    religionsMostPracticed: ["HausaReligion"]
 bagvalalsEthnicGroup:
     stringTokens: ["Bagvalals"]
+    wikidataID: ["Q788562"]
+    religionsMostPracticed: ["sunniReligion"]
 bainingEthnicGroup:
     stringTokens: ["Baining"]
+    wikidataID: ["Q502474"]
+    religionsMostPracticed: ["methodismReligion", "catholicReligion"]
 baharnaEthnicGroup:
-    stringTokens: ["Baharna"]
+    stringTokens: ["Baharna", "bahraini"]
+    wikidataID: ["Q2879337"]
+    religionsMostPracticed: ["shiaReligion"]
 bahnarEthnicGroup:
     stringTokens: ["Bahnar"]
+    wikidataID: ["Q1347290"]
+    religionsMostPracticed: ["animismReligion", "christianReligion"]
 baiEthnicGroup:
     stringTokens: ["Bai"]
+    wikidataID: ["Q275453"]
+    religionsMostPracticed: ["buddhismReligion", "taoismReligion"]
 bakossiEthnicGroup:
-    stringTokens: ["Bakossi"]
+    stringTokens: ["Bakossi", "Kossi", "Akoose", "Akose", "Bakosi", "Basoni", "Basosi", "Sosi", "Kosi", "Nkosi", "Koose", "Bekoose", "Akosi"]
+    wikidataID: ["Q73629"]
+    religionsMostPracticed: ["christianReligion"]
 balantaEthnicGroup:
-    stringTokens: ["Balanta"]
+    stringTokens: ["Balanta", "balanda"]
+    wikidataID: ["Q804639"]
+    religionsMostPracticed: ["traditionalAfricanReligion", "catholicReligion", "sunniReligion"]
 balineseEthnicGroup:
     stringTokens: ["Balinese", "Bali Aga"]
+    wikidataID: ["Q1266626"]
+    religionsMostPracticed: ["hinduismReligion", "sunniIslam"]
 balkarsEthnicGroup:
     stringTokens: ["Balkars"]
+    wikidataID: ["Q8286746"]
+    religionsMostPracticed: ["suuniIslam"]
 balochsEthnicGroup:
     stringTokens: ["Balochs", "Askani", "Bajkani", "Bangulzai", "Barazani", "Bhurgari", "Bugti", "Buledi", "Chandio", "Darzada", "Dehwar", "Dodai", "Dombki", "Gabol", "Ghazini", "Jamali", "Jatoi", "Kalmati", "Khetran", "Kunara", "Langhani", "Lango", "Lashkrani", "Loharani", "Lund", "Marri", "Mazari", "Mengal", "Mirali", "Mugheri", "Muhammad Shahi", "Mullazai", "Nothazai", "Pitafi", "Qaisrani", "Rind", "Sadozai", "Sethwi", "Shaikhzadah", "Talpur", "Tauki", "Umrani", "Yarahmadzai", "Zardari", "Makrani"]
-balondo-ba-KonjaEthnicGroup:
+    wikidataID: ["Q201501"]
+    religionsMostPracticed: ["sunniIslam"]
+balondobaKonjaEthnicGroup:
     stringTokens: ["Balondo-ba-Konja"]
+    wikidataID: [""]
+    religionsMostPracticed: ["traditionalAfricanReligion"]
 baltiEthnicGroup:
     stringTokens: ["Balti"]
+    wikidataID: ["Q805677"]
+    religionsMostPracticed: ["shiaReligion"]
 bamarsEthnicGroup:
     stringTokens: ["Bamars", "Taungyo", "Yaw", "Intha", "Danu", "Anglo-Burmese"]
+    wikidataID: ["Q33028352"]
+    religionsMostPracticed: ["theravadaReligion"]
 bambaraEthnicGroup:
     stringTokens: ["Bambara"]
+    wikidataID: ["Q504685"]
+    religionsMostPracticed: ["muslimReligion"]
 bamilekeEthnicGroup:
     stringTokens: ["Bamileke", "Mengaka", "Ngiemboon", "Ngombale", "Ngomba", "Ngwe", "Yemba", "Fe'fe'", "Ghomala'", "Kwaʼ", "Nda'nda'", "Medumba"]
+    wikidataID: ["Q806017"]
+    religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion", "muslimReligion"]
 bamumEthnicGroup:
     stringTokens: ["Bamum"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 bandaEthnicGroup:
     stringTokens: ["Banda", "Central Banda", "South Banda", "West Banda"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 bangweuluTwaEthnicGroup:
     stringTokens: ["Bangweulu Twa"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 baniwaEthnicGroup:
     stringTokens: ["Baniwa"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 banjareseEthnicGroup:
     stringTokens: ["Banjarese"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 barakTurkmensEthnicGroup:
     stringTokens: ["Barak Turkmens"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 bariEthnicGroup:
     stringTokens: ["Bari", "Pojulu", "Kakwa", "Nyangwara", "Mandari", "Kuku"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 baribaEthnicGroup:
     stringTokens: ["Bariba"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 bashkirsEthnicGroup:
     stringTokens: ["Bashkirs"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 basquesEthnicGroup:
     stringTokens: ["Basques", "Navarreans", "Alavans", "Biscayans", "Gipuzkoans", "Northern Basques"]
 bassaEthnicGroup:
