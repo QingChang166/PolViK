@@ -638,129 +638,225 @@ afroArgentinesEthnicGroup:
 afroBraziliansEthnicGroup:
     stringTokens: ["Afro-Brazilians", "Zambo", "black brazilian", "african brazilian"]
     wikidataId: ["Q388315"]
-    religionsMostPracticed: ["catholicReligion", "pe]
+    religionsMostPracticed: ["catholicReligion", "pentecostalismReligion", "sunniReligion"]
 afroTurksEthnicGroup:
-    stringTokens: ["Afro-Turks"]
-    wikidataId: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Afro-Turks", "African Turks"]
+    wikidataId: ["Q4690204"]
+    religionsMostPracticed: ["sunniIslam"]
 agawEthnicGroup:
     stringTokens: ["Agaw", "Bilen", "Ximre", "Awi", "Qemant"]
-    wikidataId: [""]
-    religionsMostPracticed: [""]
+    wikidataId: ["Q56394"]
+    religionsMostPracticed: ["orientalOrthodox", "sunniReligion", "jewishReligion"]
 aghulsEthnicGroup:
     stringTokens: ["Aghuls"]
-    wikidataId: [""]
-    religionsMostPracticed: [""]
+    wikidataId: ["Q319066"]
+    religionsMostPracticed: ["sunniReligion"]
 ahomEthnicGroup:
     stringTokens: ["Ahom"]
-    wikidataId: [""]
-    religionsMostPracticed: [""]
+    wikidataId: ["Q402392"]
+    religionsMostPracticed: ["hinduReligion"]
 aimaqEthnicGroup:
-    stringTokens: ["Aimaq", "Aimaq Hazara", "Firozkohi", "Jamshidi", "Aimaq Kipchaks", "Timuri", "Taymani"]
-    wikidataId: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Aimaq", "Aimaq Hazara", "Firozkohi", "Jamshidi", "Aimaq Kipchaks", "Timuri", "Taymani", "aimak"]
+    wikidataId: ["Q405435"]
+    religionsMostPracticed: ["sunniReligion"]
 ainusEthnicGroup:
-    stringTokens: ["Ainus", "Hokkaido Ainu", "Ishikari Ainu", "Menasunkur Ainu", "Sumunkur Ainu", "Tokyo Ainu", "Sakhalin Ainu", "Russian Ainu"]
-    wikidataId: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Ainus", "Hokkaido Ainu", "Ishikari Ainu", "Menasunkur Ainu", "Sumunkur Ainu", "Tokyo Ainu", "Sakhalin Ainu", "Russian Ainu", "aino", "aynu",
+                   "eino", "ezo"]
+    wikidataId: ["Q101828"]
+    religionsMostPracticed: ["aninismReligion", "buddhismReligion", "shintoismReligion", "russianOrthodox"]
 ajaEthnicGroup:
-    stringTokens: ["Aja"]
-    wikidataId: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Aja", "adja", "adya"]
+    wikidataId: ["Q357684"]
+    religionsMostPracticed: ["christianReligion", "voodooReligion"]
 akaEthnicGroup:
     stringTokens: ["Aka"]
+    wikidataID: ["Q781814"]
+    religionsMostPracticed: [""]
 akansEthnicGroup:
     stringTokens: ["Akans", "Abbé", "Abidji", "Ahafo", "Ahanta", "Akuapem", "Akwamu", "Akyem", "Alladian", "Anyi", "Ashanti", "Assin", "Attie", "Avikam", "Baoulé", "Bonos", "Chakosi", "Egas", "Evalue", "Fante", "M'Bato", "Nzema", "Sefwi", "Tchaman", "Wasa"]
+    wikidataID: ["Q415693"]
+    religionsMostPracticed: ["christianReligion", "sunniReligion", "traditionalAfricanReligion"]
 akhaEthnicGroup:
     stringTokens: ["Akha", "Akeu"]
+    wikidataID: ["Q417628"]
+    religionsMostPracticed: ["christianReligion", "buddhismReligion", "aninismReligion"]
 akieEthnicGroup:
     stringTokens: ["Akie"]
-alaskan CreolesEthnicGroup:
+    wikidataID: [""]
+    religionsMostPracticed: [""]
+alaskanCreolesEthnicGroup:
     stringTokens: ["Alaskan Creoles"]
+    wikidataID: ["Q116882463"]
+    religionsMostPracticed: ["russianOrthodox"]
 alaviBohrasEthnicGroup:
     stringTokens: ["Alavi Bohras"]
+    wikidataID: ["Q5244973"]
+    religionsMostPracticed: ["shiaReligion"]
 alawitesEthnicGroup:
-    stringTokens: ["Alawites"]
+    stringTokens: ["Alawites", "nusyarites"]
+    wikidataID: ["Q209496"]
+    religionsMostPracticed: ["alawismReligion"]
 albaniansEthnicGroup:
     stringTokens: ["Albanians", "Ghegs", "Arbanasi", "Tosks", "Arbereshe", "Cham Albanians", "Arvanites"]
+    wikidataID: ["Q179248"]
+    religionsMostPracticed: ["sunniReligion", "catholicReligion", "easternOrthodox", "protestantReligion"]
 aleutsEthnicGroup:
-    stringTokens: ["Aleuts", "Agdaagux Tribe"]
+    stringTokens: ["Aleuts", "Agdaagux Tribe", "unangan", "alyoot", "unangin"]
+    wikidataID: ["Q191710"]
+    religionsMostPracticed: ["russianOrthodox", "animismReligion"]
 alexandrianGreekChristiansEthnicGroup:
     stringTokens: ["Alexandrian Greek Christians"]
+    wikidataID: [""]
+    religionsMostPracticed: ["christianReligion"]
 altaiansEthnicGroup:
     stringTokens: ["Altaians"]
+    wikidataID: ["Q244735"]
+    religionsMostPracticed: ["shamanismReligion", "russianOrthodox", "buddhismReligion"]
 alurEthnicGroup:
     stringTokens: ["Alur"]
+    wikidataID: ["Q202353"]
+    religionsMostPracticed: ["christianReligion", "sunniReligion"]
 alutiiqEthnicGroup:
     stringTokens: ["Alutiiq", "Chugach"]
+    wikidataID: ["Q2745405"]
+    religionsMostPracticed: ["animismReligion", "russianOrthodox"]
 alyutorsEthnicGroup:
     stringTokens: ["Alyutors"]
+    wikidataID: ["Q2679509"]
+    religionsMostPracticed: ["shamanismReligion"]
 amboneseEthnicGroup:
     stringTokens: ["Ambonese"]
+    wikidataID: ["Q1250259"]
+    religionsMostPracticed: ["protestantReligion", "catholicReligion", "sunniReligion"]
 ambunduEthnicGroup:
-    stringTokens: ["Ambundu"]
+    stringTokens: ["Ambundu", "mbundu", "kimbundu", "ndongo", "ngola"]
+    wikidataID: ["Q460091"]
+    religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
 americoLiberiansEthnicGroup:
     stringTokens: ["Americo-Liberians"]
+    wikidataID: ["Q3267945"]
+    religionsMostPracticed: ["protestantReligion", "catholicReligion"]
 amharaEthnicGroup:
     stringTokens: ["Amhara"]
+    wikidataID: ["Q464237"]
+    religionsMostPracticed: ["orientalOrthodox", "sunniMuslim", "jewishReligion"]
 amisEthnicGroup:
     stringTokens: ["Amis"]
+    wikidataID: ["Q205006"]
+    religionsMostPracticed: ["animismReligion", "christianReligion"]
 amishEthnicGroup:
     stringTokens: ["Amish", "Old Order Amish", "Swiss Amish", "Nebraska Amish", "Swartzentruber Amish", "Buchanan Amish", "Andy Weaver Amish", "Troyer Amish", "Byler Amish", "Renno Amish", "Holmes Old Order Amish", "Elkhart-LaGrange Amish", "Lancaster Amish", "Tobe Amish]", "New Order Amish"]
+    wikidataID: ["Q104444"]
+    religionsMostPracticed: ["christianReligion"]
 amungEthnicGroup:
-    stringTokens: ["Amung"]
+    stringTokens: ["Amung", "amungme", "hamung", "amuy", "uhunduni"]
+    wikidataID: ["Q2844528"]
+    religionsMostPracticed: ["christianReligion", "animismReligion"]
 andalusiansEthnicGroup:
     stringTokens: ["Andalusians"]
+    wikidataID: ["Q3777040"]
+    religionsMostPracticed: ["catholicReligion"]
 angloAfroCaribbeanEthnicGroup:
     stringTokens: ["Anglo Afro-Caribbean", "Afro-Antiguans and Barbudans", "Afro-Bahamians", "Afro-Barbadians", "Afro-Bermudians", "Afro-Dominicans", "Afro-Grenadians", "Afro-Guyanese", "Afro-Jamaicans", "Afro-Kittitians and Nevisians", "Afro-Saint Lucians", "Afro-Trinidadians and Tobagonians", "Afro-Vincentians", "Belizean Creole", "Raizal"]
-anglo-AmericansEthnicGroup:
+    wikidataID: ["Q2986879"]
+    religionsMostPracticed: ["christianReligion"]
+angloAmericansEthnicGroup:
     stringTokens: ["Anglo-Americans", "New England Americans", "Middle Atlantic Americans", "Midwestern Americans", "Southern Americans", "Western Americans"]
+    wikidataID: ["Q4745649"]
+    religionsMostPracticed: ["christianRelgion"]
 angloBurmeseEthnicGroup:
     stringTokens: ["Anglo-Burmese"]
+    wikidataID: ["Q1975588"]
+    religionsMostPracticed: ["christianReligion", "buddhismReligion"]
 angloCanadiansEthnicGroup:
     stringTokens: ["Anglo-Canadians", "Ontarian", "Anglo-Quebecers", "Nova Scotians", "New Brunswickers", "Manitoban", "British Columbians", "Prince Edward Islanders", "Saskatchewanians", "Albertans", "Newfoundlanders", "Labradorians", "Northwest Territorians", "Yukoners", "Anglo-Nunavummiut"]
+    wikidataID: ["Q4763597"]
+    religionsMostPracticed: ["christianReligion"]
 angloCelticAustraliansEthnicGroup:
     stringTokens: ["Anglo-Celtic Australians"]
+    wikidataID: ["Q388101"]
+    religionsMostPracticed: ["christianReligion"]
 angloIndiansEthnicGroup:
     stringTokens: ["Anglo-Indians"]
+    wikidataID: ["Q368125"]
+    religionsMostPracticed: ["protestantReligion", "catholicReligion", "muslimReligion", "hinduismReligion", "sikhismReligion"]
 angloIrishEthnicGroup:
     stringTokens: ["Anglo-Irish"]
-angloNew ZealandersEthnicGroup:
+    wikidataID: ["Q2849692"]
+    religionsMostPracticed: ["anglicanReligion"]
+angloNewZealandersEthnicGroup:
     stringTokens: ["Anglo-New Zealanders"]
+    wikidataID: ["Q28428697"]
+    religionsMostPracticed: ["christianReligion"]
 anguEthnicGroup:
-    stringTokens: ["Angu"]
-antiochian Greek ChristiansEthnicGroup:
+    stringTokens: ["Angu", "anga"]
+    wikidataID: ["Q2671423"]
+    religionsMostPracticed: [""]
+antiochianGreekChristiansEthnicGroup:
     stringTokens: ["Antiochian Greek Christians"]
+    wikidataID: ["Q21707952"]
+    religionsMostPracticed: ["greekOrthodox"]
 anuakEthnicGroup:
     stringTokens: ["Anuak"]
+    wikidataID: ["Q612213"]
+    religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
 apacheEthnicGroup:
     stringTokens: ["Apache", "Chiricahua", "Jicarilla", "Lipan", "Mescalero", "Salinero", "Plains Apache", "Western Apache"]
-apinajéEthnicGroup:
+    wikidataID: ["Q7496931"]
+    religionsMostPracticed: ["christianReligion", "animismReligion"]
+apinajeEthnicGroup:
     stringTokens: ["Apinajé"]
+    wikidataID: ["Q2469268"]
+    religionsMostPracticed: ["animismReligion"]
 arabsEthnicGroup:
     stringTokens: ["Arabs", "Bedouins", "Al-Sayyid Bedouins", "Palestinian Bedouins", "Jahalin Bedouins", "Negev Bedouins", "Galilee Bedouins", "Israeli-Arabs",  "Palestinian Metawalis", "Afro-Palestinians", "Egyptian Arabs", "Maghrebi Arabs", "Iranian Arabs", "Khuzestani Arabs", "Khorasani Arabs", "Huwalas", "Khamseh Arabs", "Sudanese Arabs", "Marsh Arabs", "Arab Christians", "Antiochians", "Jerusalemites", "Alexandrians", "Alawites", "Druze", "Hadharem", "Mhallami", "Rashaida", "Baggara Arabs", "Abbala Arabs", "Azawagh Arabs", "Diffa Arabs", "Manga Arabs", "Ababda", "Arab-Persians", "Arab-Berbers"]
+    wikidataID: ["Q35323"]
+    religionsMostPracticed: ["sunniReligion", "shiaReligion", "alawismReligion", "ibadiReligion", "greekOrthodox", "jewishReligion", "druzeReligion", "catholicReligion",
+                             "bahaiReligion"]
 arameansEthnicGroup:
     stringTokens: ["Arameans"]
+    wikidataID: ["Q185461"]
+    religionsMostPracticed: [""]
 arapahoEthnicGroup:
     stringTokens: ["Arapaho"]
-araráEthnicGroup:
+    wikidataID: ["Q626136"]
+    religionsMostPracticed: ["christianReligion", "shamanismReligion"]
+araraEthnicGroup:
     stringTokens: ["Arará"]
+    wikidataID: ["Q626203"]
+    religionsMostPracticed: ["voodooReligion", "yorubaReligion", "kongoReligion"]
 argobbaEthnicGroup:
     stringTokens: ["Argobba"]
+    wikidataID: ["Q648031"]
+    religionsMostPracticed: ["sunniReligion"]
 armeniansEthnicGroup:
     stringTokens: ["Armenians", "Turkish Armenians", "Hemshin", "Hidden Armenians", "Cherkesogai", "Armeno-Tats", "Zoks", "Hayhurum", "Karabakhis", "Udis"]
+    wikidataID: ["Q79797"]
+    religionsMostPracticed: ["protestantReligion", "catholicReligion"]
 ashkaliEthnicGroup:
     stringTokens: ["Ashkali"]
+    wikidataID: ["Q282427"]
+    religionsMostPracticed: ["muslimReligion"]
 asmatEthnicGroup:
     stringTokens: ["Asmat"]
+    wikidataID: ["Q643103"]
+    religionsMostPracticed: ["catholicReligion", "protestantReligion", "sunniReligion"]
 assiniboineEthnicGroup:
     stringTokens: ["Assiniboine", "Bizebina", "Insaombi", "Wokpanbi"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 assyriansEthnicGroup:
     stringTokens: ["Assyrians", "Iraqi Assyrians", "Turkish Assyrians", "Syrian Assyrians",  "Iranian Assyrians",  "Chaldean Assyrians", "Syriac Assyrians, "Hakkari",  "Urmia",  "Tyari", "Jilu", "Baz", "Tkhuma", "Nochiya"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 asturiansEthnicGroup:
     stringTokens: ["Asturians", "Eonavians"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 atacamaEthnicGroup:
     stringTokens: ["Atacama"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
 atayalsEthnicGroup:
     stringTokens: ["Atayals"]
 atiEthnicGroup:
@@ -769,7 +865,7 @@ atoniEthnicGroup:
     stringTokens: ["Atoni", "Amarasi"]
 atyapEthnicGroup:
     stringTokens: ["Atyap"]
-austral IslandersEthnicGroup:
+australIslandersEthnicGroup:
     stringTokens: ["Austral Islanders"]
 austriansEthnicGroup:
     stringTokens: ["Austrians"]
