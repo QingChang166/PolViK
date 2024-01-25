@@ -89,7 +89,7 @@ concepts:
       wikidataQnode: ["Q35482"]
     vaiLinguisticGroup:
       stringTokens: ["Vai", "Vai language"]
-     wikidataQnode: ["Q36939"]
+      wikidataQnode: ["Q36939"]
     ###Political parties
     lplParty:
       stringTokens: ["Labor Party of Liberia", "LPL"]
@@ -154,7 +154,7 @@ concepts:
       stringTokens: ["Independent National Patriotic Front of Liberia", "INPFL"]
     lurdArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["LIBERIANS UNITED FOR RECONCILIATION AND DEMOCRACY", "LURD"]
-     yearsActiveasArmedGroup: ["1999-2003"]
+      yearsActiveasArmedGroup: ["1999-2003"]
     modelArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["MODEL", "MOVEMENT FOR DEMOCRACY IN LIBERIA"]
     lpcArmedNonGovernmentalOrganizedGroup:

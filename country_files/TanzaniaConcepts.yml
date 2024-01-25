@@ -1,15 +1,15 @@
 concepts:
-  TanzaniaSecurityForces:
+ TanzaniaSecurityForces:
    stringTokens: ["Tanzania People's Defense Force", "TPDF", "Jeshi la Wanachi wa Tanzania", "JWTZ", "Tanzanian Police Force", "Polisi wa Tanzania", "Field Force Unit", "FFU",
                    "Tanzania Intelligence and Security Service", "TISS", "Usalama wa Taifa", "Tanzanian Army", "Tanzanian Police", "People's Militia Field Force"]  
 ##ethnicgroups
-  SukumaEthnicGroup:
+ SukumaEthnicGroup:
    stringTokens: ["Sukuma", "Basukuma", "Suku", "Wasukuma"]  
    wikidataQnode: ["Q1474755"]  
    languagesMostSpoken: ["SukumaLanguageGroup"]  
    religionsMostPracticed: ["Christianity", "Islam"] 
    livesIn: ["Mwanza", "Mara", Simiyu", "Shinyanga"]  ##administrative state, region
-  NyamweziEthnicGroup:
+ NyamweziEthnicGroup:
    stringTokens: ["Nyamwezi", "Wanynamwezi", "Banyamwezi", "Niamwezi", "Nyamuezi", "Nyamwese", "Nyamwesi", "Wanjamwezi"]
    wikidataQnode: ["Q1262850"]  
    languagesMostSpoken: ["NyamweziLanguageGroup"]  
@@ -59,7 +59,7 @@ concepts:
    wikidataQnode: ["Q147725"]
    languageMostSpoken: ["KiswahiliLanguageGroup"]
    religionsMostPracticed: ["Islam"]
-   livesIn: ["Pwani", "Dar es Salaam""] ##administrative state, region
+   livesIn: ["Pwani", "Dar es Salaam"] ##administrative state, region
  ZigulaEthnicGroup:
    stringTokens: ["Zigula", "Zigua", "Seguha", "Uzigula", "Wazigua", "Zegura"]
    wikidataQnode: ["Q202778"]
@@ -105,17 +105,17 @@ concepts:
    wikidataQnode: ["Q6024143"]
    religionsMostPracticed: ["Islam", "Hindu"]
    livesIn: ["Zanzibar", "Dar es Salaam", "Arusha"] ##administrative state, region
-BarabaigEthnicGroup: 
-  stringTokens: ["Barabaig", "Barabaik", "Baraban", "Barbayiig", "Brariga", "Datooga"]
-  wikidataQnode: ["Q623122"]
-  livesIn: ["Manyara"]  #administrative region
-BurundianRefugeeEthicGroup:
-  stringTokens: ["Burundian", "Burundian refugee"]
-  religionsMostPracticed: ["Christianity"]
-  livesIn: ["Kigoma"]  #administrative region
+ BarabaigEthnicGroup:
+   stringTokens: ["Barabaig", "Barabaik", "Baraban", "Barbayiig", "Brariga", "Datooga"]
+   wikidataQnode: ["Q623122"]
+   livesIn: ["Manyara"]  #administrative region
+ BurundianRefugeeEthicGroup:
+   stringTokens: ["Burundian", "Burundian refugee"]
+   religionsMostPracticed: ["Christianity"]
+   livesIn: ["Kigoma"]  #administrative region
 
 ##politicalparties
-  CCMParty:
+ CCMParty:
    stringTokens: ["CCM", "Chama Cha Mapinduzi", "Party of the Revolution", "Tanganyika African National Union", "TANU", "Afro-Shirazi Party", "ASP"]
    yearsActiveasParty: ["1977-Present"]
  ChademaParty:
@@ -124,38 +124,39 @@ BurundianRefugeeEthicGroup:
  ActParty:
    stringTokens: ["ACT-Wazalendo", "Alliance for Change and Transparency"]
    yearsActiveasParty: ["2014-Present"]
+   
  CUFParty:  
-   stringTokens:["Civic United Front", "CUF", "Chama Cha Wanachi"]
+   stringTokens: ["Civic United Front", "CUF", "Chama Cha Wanachi"]
    yearsActiveasParty: ["1992-2019"]
    regionsMostActive: ["Zanzibar"]
- 
+   
 ##language groups
-KiswahiliLinguisticGroup:
-   stringTokens: ["Swahili, "Kiswahili"]
-   wikidataQnode: ["Q132111"]
-EnglishLinguisticGroup:
-   stringTokens: ["English"]
-   wikidataQnode: ["Q1860"]
-SukumaLinguisticGroup:
-  stringTokens: ["Sukuma"]
-  wikidataQnode: ["Q36694"]
-  livesIn: ["Mwanza", "Shinyanga", "Simiyu"]
-NyamweziLinguisticGroup:
-  stringTokens: ["Nyamwezi"]
-  wikidataQnode: ["Q1332242"]
-  livesIn: ["Tabora"]
-ChagaLinguisticGroup:
-  stringTokens: ["Chaga"]
-  wikidataQnode: ["Q3272632"]
-  livesIn: ["Kilimanjaro"]
-HayaLinguisticGroup:
-  stringTokens: ["Haya"]
-  wikidataQnode: ["Q33363"]
-  livesIn: ["Kagera"]
-MakondeLinguisticGroup:
-  stringTokens: ["Makonde"]
-  wikidataQnode: ["Q33311"]
-  livesIn: ["Mtwara"]
+ KiswahiliLinguisticGroup:
+    stringTokens: ["Swahili", "Kiswahili"]
+    wikidataQnode: ["Q132111"]
+ EnglishLinguisticGroup:
+    stringTokens: ["English"]
+    wikidataQnode: ["Q1860"]
+ SukumaLinguisticGroup:
+   stringTokens: ["Sukuma"]
+   wikidataQnode: ["Q36694"]
+   livesIn: ["Mwanza", "Shinyanga", "Simiyu"]
+ NyamweziLinguisticGroup:
+   stringTokens: ["Nyamwezi"]
+   wikidataQnode: ["Q1332242"]
+   livesIn: ["Tabora"]
+ ChagaLinguisticGroup:
+   stringTokens: ["Chaga"]
+   wikidataQnode: ["Q3272632"]
+   livesIn: ["Kilimanjaro"]
+ HayaLinguisticGroup:
+   stringTokens: ["Haya"]
+   wikidataQnode: ["Q33363"]
+   livesIn: ["Kagera"]
+ MakondeLinguisticGroup:
+   stringTokens: ["Makonde"]
+   wikidataQnode: ["Q33311"]
+   livesIn: ["Mtwara"]
 
 
 

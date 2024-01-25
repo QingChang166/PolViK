@@ -1,12 +1,12 @@
 concepts:
   SouthAfricanDefenceForces:
     stringTokens: ["South African Defence Force", "SADF", "Suid-Afrikaanse Weermag", "military of South Africa", "military of South Africa(1957-1994)"]
-    wikidataQnode:["Q381383"]
+    wikidataQnode: ["Q381383"]
     yearsActiveasMilitaty: ["1957-1994"]
   
   SouthAfricanNationalDefenceForces:
     stringTokens: ["South African National Defence Force", "SANDF", "military of South Africa"]
-    wikidataQnode:["Q305314]
+    wikidataQnode: ["Q305314"]
     yearsActiveasMilitaty: ["1994-present"]
 
 ###EthnicGroups:
@@ -46,7 +46,7 @@ concepts:
     livesIn: [""]
   
   SothoEthnicGroup:
-    stringTokens: ["South Sotho", "Southern Sotho speakers","Basuto", "Suthu","Souto", "Suto", "Basutos" "Sotho", "Basotho"]
+    stringTokens: ["South Sotho", "Southern Sotho speakers","Basuto", "Suthu","Souto", "Suto", "Basutos", "Sotho", "Basotho"]
     wikidataQnode: ["Q577576"]
     languagesMostSpoken: ["Sesotho", "IsiXhosa", "IsiZulu", "English", "Afrikaans"]
     religionsMostPracticed: ["Christianity", "African traditional religion"]
@@ -83,7 +83,7 @@ concepts:
   IndiansEthnicGroup:
     stringTokens: ["Asians", "Indians", "Indian South Africans"]
     wikidataQnode: ["Q4120990"]
-    languagesMostSpoken: ["languages of the Indian subcontinent", "English" "Afrikaans"]
+    languagesMostSpoken: ["languages of the Indian subcontinent", "English", "Afrikaans"]
     religionsMostPracticed: ["Hinduism", "Islam", "Christianity", "Sikhism", "Jainism", "Zoroastrianism"]
     livesIn: ["Gauteng", "KwaZulu-Natal", "Western Cape", "Eastern Cape"]
   
@@ -339,7 +339,7 @@ concepts:
    wikidataQnode: ["Q1473242"]
    yearsActiveasParty: ["1911-1934"]
   
-  UPParty:
+  UPParty1:
    stringTokens: ["Unionist Party", "Unioniste Party", "UP"]
    associatedEthnicGroup: ["White"] 
    wikidataQnode: ["Q2403816"]

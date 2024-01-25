@@ -149,7 +149,7 @@ concepts:
    associatedEthnicGroup: ["hutuEthnicGroup"]  ##hutuethnicgroup otherwise not represented in DRC knowledge graph
    regionsMostActive: ["North Kivu"]
    yearsActiveasArmedGroup: ["2010-Present"]
-  UPCArmedGroup:
+  UPCArmedGroup1:
    stringTokens: ["UPC", "Union of Congolese Patriots"]
    regionsMostActive: ["Ituri"]
    yearsActiveasArmedGroup: ["2000-2006"]

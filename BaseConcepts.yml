@@ -96,9 +96,9 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "Citizens Assembly", "Executive Council", "representative", "leader", "public official", "officals", "National Executive Committee", "National authorities", "government",
                    "governors", "govermental", "government officials", "cabinet", "authority", "authorities"]
   nationalJudicialGovernment:
-    stringTokens: ["courts", "judges", "Court of Appeals", "District Courts", "Federal Judiciary", "Marshals", "Marshals Service", "Appellate Committee of the House of Lords"
+    stringTokens: ["courts", "judges", "Court of Appeals", "District Courts", "Federal Judiciary", "Marshals", "Marshals Service", "Appellate Committee of the House of Lords",
                    "Judicial Committee of the Privy Council", "Senior Court", "Court of Appeal", "High Court of Justice", "Crown Court", "Court of Session",
-                   "High Court of Justiciary", "Constitutional Court", "Chief Jusice", "Trial Courts", "Supreme Federal Court", "Judiciary", "judicial branch"
+                   "High Court of Justiciary", "Constitutional Court", "Chief Jusice", "Trial Courts", "Supreme Federal Court", "Judiciary", "judicial branch",
                    "Superior Council of Judicature", "superior court", "supreme court of appeal", "bailiff", "magistrate", "ombudsman", "law enforcement officials", "jurist", "juries",
                    "Judiciary", "judge", "jury", "court", "bailiff"]
   nationalAdministrativeGovernment:
@@ -117,7 +117,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["army", "security forces", "police", "air force", "navy", "military", "armed forces", "troops", "strategic missile troops", "airborne troops", "ground force",
                   "rocket force", "strategic support force", "army aviation command", "military police", "military firefighter corps", "police department",
                   "federal police", "highway police", "national public security force", "national police", "military", "officers", "prison officers", "force",
-                  "defense force", "wardens", "state security forces", "SSF", "prison", "prison officials, "policemen", "policeman", "officer", "military", "guards"]
+                  "defense force", "wardens", "state security forces", "SSF", "prison", "prison officials", "policemen", "policeman", "officer", "military", "guards"]
   foreignSecurityForces:
     stringTokens: ["foreign rebel", "foreign troop", "foreign force", "foreign army", "foreign armies"]
   politicalParties: 
@@ -125,11 +125,11 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   partiesInPower:
     stringTokens: []
   partiesOutOfPower:
-    stringTokens: ["opposition", "opposition parties", "opposition party", "opposition leader", "opposition candidate", "representatives of opposition group", "opposition group", "Opposition political parties", "opposition demonstrators", "rivals"
+    stringTokens: ["opposition", "opposition parties", "opposition party", "opposition leader", "opposition candidate", "representatives of opposition group", "opposition group", "Opposition political parties", "opposition demonstrators", "rivals",
                    "opposition representative", "opposition political party member", "opposition party member", "opposition member", "opposition demonstrator"]  
   places:
      stringTokens: ["zone", "villages", "universities", "university", "territories", "territory", "street", "residences", "shop", "station", "shelter", "sector", "seat", "school", "restaurant", "provinces", "classroom", "city", "cities", "club", 
-                    "plantations", "office", "land", "hospital", "headquarters", "ground", "field", "farm", "factory", "factories", "embassy", "embassies", "dormitory", "dormitories", "courtyard", "country", "countries", "center", "cementaries, "cementary",
+                    "plantations", "office", "land", "hospital", "headquarters", "ground", "field", "farm", "factory", "factories", "embassy", "embassies", "dormitory", "dormitories", "courtyard", "country", "countries", "center", "cementaries", "cementary",
                     "capitol", "capital", "camp", "border", "boundaries", "boundary", "area", "foreign embassy", "foreign embassies"]
   bodyParts:
      stringTokens: ["wrist", "head", "chest", "stomach", "hand", "genitals", "body", "bodies"]
@@ -170,17 +170,13 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "MFO", "CEC", "NPAFC", "OPCW", "OSCE", "PASO", "PIANC", "REC", "Committee UN", "UNJHRO", "United Nations Joint Human Rights Office", "UN Childrens", "Inter African members union", "STCU", "Sierra Leone Special Court", "WCO", "The World Heritage Fund", "OIE", "WTO", "UNHRO", "UNHRC", "UNHCHR", "UNGoE", "UNFD", "UNCRC", "UN Secretary general", "UN peacekeeper", "UN officials", "UN Child", 
                    "UN Human", "UN High Commissioner", "international organizations", "International Criminal Tribunal for Rwanda", "ICTR", "FSD", "EU"]
   internationalNonGovernmentalOrganizedGroup:
-    stringTokens: ["ActionAid", "ACTED", "ADRA", "AIESEC", "CAFOD", "CARE", "CRS", "Cuso International", "Danish Relief Council", "Islamic Relief", "International
-                    Olympic Committee", "Mercy Corps", "Oxfam", "Save the Children", "SOS Children's Villages", "Tzu Chi Foundation", "World Vision International",
+    stringTokens: ["ActionAid", "ACTED", "ADRA", "AIESEC", "CAFOD", "CARE", "CRS", "Cuso International", "Danish Relief Council", "Islamic Relief", "International Olympic Committee", "Mercy Corps", "Oxfam", "Save the Children", "SOS Children's Villages", "Tzu Chi Foundation", "World Vision International",
                     "WDJPO", "WDO", "Plan International", "International Federation of Freight Forwarders Associations", "FIATA", "International Air Traffic Association",
-                    "IATA", "Amref Health Africa", "Doctors without Borders", "Gavi", "The Global Fund", "Compassion International", "FIMCAP", "International Federation of
-                    Catholic Parochial Youth Movements", "Plan", "Reggio Children's Foundation", "World Association of Girl Scouts and Girl Guides", "WAGGGS", "World Organization
-                    of the Scout Movement", "WOSM", "European Association of History Educators", "Junior Achievement", "The Library Project", "OpenMindProjects", "International Rescue
-                    Committee", "IRC", "Human Rights Watch", "HRW", "Amnesty International", "Commonwealth Human Rights Initiative", "Friends of Peoples Close to Nature", 
+                    "IATA", "Amref Health Africa", "Doctors without Borders", "Gavi", "The Global Fund", "Compassion International", "FIMCAP", "International Federation of Catholic Parochial Youth Movements", "Plan", "Reggio Children's Foundation", "World Association of Girl Scouts and Girl Guides", "WAGGGS", "World Organization of the Scout Movement", "WOSM", "European Association of History Educators", "Junior Achievement", "The Library Project", "OpenMindProjects", "International Rescue Committee", "IRC", "Human Rights Watch", "HRW", "Amnesty International", "Commonwealth Human Rights Initiative", "Friends of Peoples Close to Nature",
                     "Humanists International", "International Christian Concern", "Red Cross", "International Commission Against the Death Penalty", "International Federation for Human Rights",
                     "Survival International", "Greenpeace", "International POPs Elimination Network", "International Union for the Conservation of Nature", "World Wildlife Fund", "Open Society Institute", 
                     "WWF", "WaterAid", "Water.org", "Initiative Eau", "Water for People", "Transparency International", "Sister Cities International", "World Federation of United Nations Associations", "Lutheran World Relief",
-                    "COSPAR", "Committee on Space Research", "RIPE NCC",  "Human Rights League", "Human Rights League Executives", "IMIRAD", "International Committee of the Red Cross", "Federation for Action Christians"
+                    "COSPAR", "Committee on Space Research", "RIPE NCC",  "Human Rights League", "Human Rights League Executives", "IMIRAD", "International Committee of the Red Cross", "Federation for Action Christians",
                     "international humanitarian organizations", "international groups", "IFEX", "Action by Christians for the Abolition of Torture", "ACAT", "World Muslim League", "World Assembly for Muslim Youth", 
                     "Federation of Mab and Islamic Schools"]
   corporationGroup:
@@ -191,8 +187,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "Jumia", "Standard Bank Group", "BMW", "Barclays"]
   oilMultinationalCorporation:
     stringTokens: ["ExxonMobile", "Chevron", "Royal Dutch Shell", "Total Energies", "BP", "British Petroleum", "Conoco Phillips", "Sinopec", "Occidental Petroleum",
-                   "China National Petroleum", "Saudi Aramco", "Eni", "PetroChina", "SLB", "Equinor", "Valero", "Valero Energy", "Shell", "Phillips 66", "Marathon
-                   Petroleum", "Lukoil", "Halliburton", "Petrobas", "Baker Hughes", "Rosneft Oil", "Gazprom"]
+                   "China National Petroleum", "Saudi Aramco", "Eni", "PetroChina", "SLB", "Equinor", "Valero", "Valero Energy", "Shell", "Phillips 66", "Marathon Petroleum", "Lukoil", "Halliburton", "Petrobas", "Baker Hughes", "Rosneft Oil", "Gazprom"]
   miningMultinationalCorporation:
     stringTokens: ["Glencore", "Jiangxi Copper", "BHP", "Rio Tinto", "Aluminum Corporation of China", "Vale", "Zijin Mining Group", "Anglo American", "Hindalco Industries",
                    "CMOC Group", "De Beers", "Xstrata", "Barrick"]
@@ -248,7 +243,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   nonRomanCatholic:
     stringTokens: ["coptic catholic", "greek catholic", "eastern catholic"]
   protestantReligion:
-    stringTokens: ["protestant", "protestant faith", "zion christian church", "]
+    stringTokens: ["protestant", "protestant faith", "zion christian church"]
   evangelicalProtestant:
     stringTokens: ["evangelical", "evangelical church of west africa"]
   anglicanReligion:
@@ -463,9 +458,9 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   teleguLanguage: 
     stringTokens: ["telegu language", "telegu", "Telangana", "Rayalaseema",  "Coastal Andhra", "North Andhra"]
   turkishLanguage:
-    stringTokens: ["turkish", "turkish language", "Cypriot Turkish", "Iraqi Turkmen", "Karamanli Turkish", "Meskhetian Turkish", "rumelian turkish", "syrian turkish"
+    stringTokens: ["turkish", "turkish language", "Cypriot Turkish", "Iraqi Turkmen", "Karamanli Turkish", "Meskhetian Turkish", "rumelian turkish", "syrian turkish"]
   tamilLanguage:
-    stringTokens: ["tamil", "tamil language", 	"Eelam", "Malesiyat", "Bunagurr", "Iyengar", "Kongu", "Chennai tamil", "Madurai", "Tiruneveli", "Sankethi", "Estate tamil",
+    stringTokens: ["tamil", "tamil language", "Eelam", "Malesiyat", "Bunagurr", "Iyengar", "Kongu", "Chennai tamil", "Madurai", "Tiruneveli", "Sankethi", "Estate tamil",
                    "Central tamil"]
   yueChineseLanguage:
     stringTokens: ["yue chinese language", "yue chinese", "cantonese", "cantonese language", 	"Yuehai", "Siyi", "Taishanese", "Gao–Yang", "Yong–Xun", "Gou–Lou",
@@ -483,7 +478,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["iranian persian language", "iranian persian", "persian", "persian language", "Abadani", "Araki", "Bandari", "Basseri", "Esfahani", "Karbalai", 
                    "kashani", "kermani", "kermanshahi", "mashhadi", "qazvini", "shirazi", "tehrani", "yazdi"]
   hausaLanguage: 
-    stringTokens: ["hausa", "hausa language", "Dauranci", "Kananci", "Bausanci", "Gudduranci", "Hadejanci", "Sakkwatanci", "Katsinanci", "Arewanci" "Zanhwaranci", "Kurhwayanci"
+    stringTokens: ["hausa", "hausa language", "Dauranci", "Kananci", "Bausanci", "Gudduranci", "Hadejanci", "Sakkwatanci", "Katsinanci", "Arewanci", "Zanhwaranci", "Kurhwayanci",
                     "Katsina", "Arewa", "Arewaci", "Zazzaganci"]
   swahiliLanguage:
      stringTokens: ["swahili", "swahili language", "kiswahili", "kisawhili language", "kiamu"]
@@ -550,7 +545,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   somaliLanguage:
     stringTokens: ["somali", "somali language"]
   swatiLanguage:
-    stringTokens: ["swati", "swati language",]
+    stringTokens: ["swati", "swati language"]
   tingrinyaLanguage: 
     stringTokens: ["tingrinya", "tingrinya language"]
   tsongaLanguage:
@@ -575,2040 +570,2040 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["barack obama", "obama", "president obama", "former president obama"]
   vladimirPutin:
     stringTokens: ["vladimir putin", "putin"]
-kungEthnicGroup:
+  kungEthnicGroup:
     stringTokens: ["!Kung", "Kung", "Ju'hoansi", "!XU"]
     wikidataId: ["Q847913"]
     religionsMostPracticed: ["animism", "shamanism"]
-abagusiiEthnicGroup:
+  abagusiiEthnicGroup:
     stringTokens: ["Abagusii", "kisii", "gusii", "mkisii"]
     wikidataId: ["Q1276025"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "Traditionalafricanreligion"]
-abazinsEthnicGroup:
+  abazinsEthnicGroup:
     stringTokens: ["Abazins"]
     wikidataId: ["Q213040"]
     religionsMostPracticed: ["sunniReligion"]
-abelamEthnicGroup:
+  abelamEthnicGroup:
     stringTokens: ["Abelam"]
     wikidataId: ["Q318517"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "animism"]
-abenakiEthnicGroup:
+  abenakiEthnicGroup:
     stringTokens: ["Abenaki", "Wabanaki"]
     wikidataId: ["Q318806)"]
     religionsMostPracticed: [""]
-abkhaziansEthnicGroup:
+  abkhaziansEthnicGroup:
     stringTokens: ["Abkhazians", "Sadz", "Afro-Abkhazians"]
     wikidataId: ["Q171795"]
     religionsMostPracticed: ["sunniReligion", "russianOrthodox"]
-acehneseEthnicGroup:
+  acehneseEthnicGroup:
     stringTokens: ["Acehnese", "aceh", "atjeh"]
     wikidataId: ["Q340520"]
     religionsMostPracticed: ["sunniReligion"]
-achaguaEthnicGroup:
+  achaguaEthnicGroup:
     stringTokens: ["Achagua"]
     wikidataId: ["Q1394162"]
     religionsMostPracticed: ["animism"]
-acholiEthnicGroup:
+  acholiEthnicGroup:
     stringTokens: ["Acholi", "Acoli", "Acooli", "Atscholi", "Gan", "Lira Palwo", "Shuli"]
     wikidataId: ["Q340581)"]
     religionsMostPracticed: ["catholicReligion", "pentecostalReligion", "anglicanReligion"]
-adjoukrouEthnicGroup:
+  adjoukrouEthnicGroup:
     stringTokens: ["Adjoukrou", "Adyukru"]
     wikidataId: ["Q2824498"]
     religionsMostPracticed: ["christianReligion", "catholicReligion", "protestantReligion", "evangelicalReligion", "animism"]
-afarEthnicGroup:
+  afarEthnicGroup:
     stringTokens: ["Afar"]
     wikidataId: ["Q211720"]
     religionsMostPracticed: ["sunniReligion"]
-afemaiEthnicGroup:
+  afemaiEthnicGroup:
     stringTokens: ["Afemai"]
     wikidataId: ["Q4688840"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "traditionalAfricanReligion"]
-africanAmericansEthnicGroup:
+  africanAmericansEthnicGroup:
     stringTokens: ["African-Americans", "Black Southerners", "Creoles of color", "Freedmen", "Black Seminoles", "Mascogos", "Cherokee Freedmen", "Choctaw Freedmen", "Creek Freedmen", "Gullah", "Samaná Americans"]
     wikidataId: ["Q49085"]
     religionsMostPracticed: ["protestantReligion", "evangelicalReligion", "catholicReligion", "muslimReligion", "restorationismReligion"]
-afrikanersEthnicGroup:
+  afrikanersEthnicGroup:
     stringTokens: ["Afrikaners", "Boers", "Afrikaner-Jews", "afrikander"]
     wikidataId: ["Q385799"]
     religionsMostPracticed: ["calvinismReligion", "protestantReligion", "catholicReligion"]
-afroArgentinesEthnicGroup:
+  afroArgentinesEthnicGroup:
     stringTokens: ["Afro-Argentines", "afro-argentinans"]
     wikidataId: ["Q3088284"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion"]
-afroBraziliansEthnicGroup:
+  afroBraziliansEthnicGroup:
     stringTokens: ["Afro-Brazilians", "Zambo", "black brazilian", "african brazilian"]
     wikidataId: ["Q388315"]
     religionsMostPracticed: ["catholicReligion", "pentecostalismReligion", "sunniReligion"]
-afroTurksEthnicGroup:
+  afroTurksEthnicGroup:
     stringTokens: ["Afro-Turks", "African Turks"]
     wikidataId: ["Q4690204"]
     religionsMostPracticed: ["sunniIslam"]
-agawEthnicGroup:
+  agawEthnicGroup:
     stringTokens: ["Agaw", "Bilen", "Ximre", "Awi", "Qemant"]
     wikidataId: ["Q56394"]
     religionsMostPracticed: ["orientalOrthodox", "sunniReligion", "jewishReligion"]
-aghulsEthnicGroup:
+  aghulsEthnicGroup:
     stringTokens: ["Aghuls"]
     wikidataId: ["Q319066"]
     religionsMostPracticed: ["sunniReligion"]
-ahomEthnicGroup:
+  ahomEthnicGroup:
     stringTokens: ["Ahom"]
     wikidataId: ["Q402392"]
     religionsMostPracticed: ["hinduReligion"]
-aimaqEthnicGroup:
+  aimaqEthnicGroup:
     stringTokens: ["Aimaq", "Aimaq Hazara", "Firozkohi", "Jamshidi", "Aimaq Kipchaks", "Timuri", "Taymani", "aimak"]
     wikidataId: ["Q405435"]
     religionsMostPracticed: ["sunniReligion"]
-ainusEthnicGroup:
+  ainusEthnicGroup:
     stringTokens: ["Ainus", "Hokkaido Ainu", "Ishikari Ainu", "Menasunkur Ainu", "Sumunkur Ainu", "Tokyo Ainu", "Sakhalin Ainu", "Russian Ainu", "aino", "aynu",
                    "eino", "ezo"]
     wikidataId: ["Q101828"]
     religionsMostPracticed: ["aninismReligion", "buddhismReligion", "shintoismReligion", "russianOrthodox"]
-ajaEthnicGroup:
+  ajaEthnicGroup:
     stringTokens: ["Aja", "adja", "adya"]
     wikidataId: ["Q357684"]
     religionsMostPracticed: ["christianReligion", "voodooReligion"]
-akaEthnicGroup:
+  akaEthnicGroup:
     stringTokens: ["Aka"]
     wikidataID: ["Q781814"]
     religionsMostPracticed: [""]
-akansEthnicGroup:
+  akansEthnicGroup:
     stringTokens: ["Akans", "Abbé", "Abidji", "Ahafo", "Ahanta", "Akuapem", "Akwamu", "Akyem", "Alladian", "Anyi", "Ashanti", "Assin", "Attie", "Avikam", "Baoulé", "Bonos", "Chakosi", "Egas", "Evalue", "Fante", "M'Bato", "Nzema", "Sefwi", "Tchaman", "Wasa"]
     wikidataID: ["Q415693"]
     religionsMostPracticed: ["christianReligion", "sunniReligion", "traditionalAfricanReligion"]
-akhaEthnicGroup:
+  akhaEthnicGroup:
     stringTokens: ["Akha", "Akeu"]
     wikidataID: ["Q417628"]
     religionsMostPracticed: ["christianReligion", "buddhismReligion", "aninismReligion"]
-akieEthnicGroup:
+  akieEthnicGroup:
     stringTokens: ["Akie"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-alaskanCreolesEthnicGroup:
+  alaskanCreolesEthnicGroup:
     stringTokens: ["Alaskan Creoles"]
     wikidataID: ["Q116882463"]
     religionsMostPracticed: ["russianOrthodox"]
-alaviBohrasEthnicGroup:
+  alaviBohrasEthnicGroup:
     stringTokens: ["Alavi Bohras"]
     wikidataID: ["Q5244973"]
     religionsMostPracticed: ["shiaReligion"]
-alawitesEthnicGroup:
+  alawitesEthnicGroup:
     stringTokens: ["Alawites", "nusyarites"]
     wikidataID: ["Q209496"]
     religionsMostPracticed: ["alawismReligion"]
-albaniansEthnicGroup:
+  albaniansEthnicGroup:
     stringTokens: ["Albanians", "Ghegs", "Arbanasi", "Tosks", "Arbereshe", "Cham Albanians", "Arvanites"]
     wikidataID: ["Q179248"]
     religionsMostPracticed: ["sunniReligion", "catholicReligion", "easternOrthodox", "protestantReligion"]
-aleutsEthnicGroup:
+  aleutsEthnicGroup:
     stringTokens: ["Aleuts", "Agdaagux Tribe", "unangan", "alyoot", "unangin"]
     wikidataID: ["Q191710"]
     religionsMostPracticed: ["russianOrthodox", "animismReligion"]
-alexandrianGreekChristiansEthnicGroup:
+  alexandrianGreekChristiansEthnicGroup:
     stringTokens: ["Alexandrian Greek Christians"]
     wikidataID: [""]
     religionsMostPracticed: ["christianReligion"]
-altaiansEthnicGroup:
+  altaiansEthnicGroup:
     stringTokens: ["Altaians"]
     wikidataID: ["Q244735"]
     religionsMostPracticed: ["shamanismReligion", "russianOrthodox", "buddhismReligion"]
-alurEthnicGroup:
+  alurEthnicGroup:
     stringTokens: ["Alur"]
     wikidataID: ["Q202353"]
     religionsMostPracticed: ["christianReligion", "sunniReligion"]
-alutiiqEthnicGroup:
+  alutiiqEthnicGroup:
     stringTokens: ["Alutiiq", "Chugach"]
     wikidataID: ["Q2745405"]
     religionsMostPracticed: ["animismReligion", "russianOrthodox"]
-alyutorsEthnicGroup:
+  alyutorsEthnicGroup:
     stringTokens: ["Alyutors"]
     wikidataID: ["Q2679509"]
     religionsMostPracticed: ["shamanismReligion"]
-amboneseEthnicGroup:
+  amboneseEthnicGroup:
     stringTokens: ["Ambonese"]
     wikidataID: ["Q1250259"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion", "sunniReligion"]
-ambunduEthnicGroup:
+  ambunduEthnicGroup:
     stringTokens: ["Ambundu", "mbundu", "kimbundu", "ndongo", "ngola"]
     wikidataID: ["Q460091"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
-americoLiberiansEthnicGroup:
+  americoLiberiansEthnicGroup:
     stringTokens: ["Americo-Liberians"]
     wikidataID: ["Q3267945"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion"]
-amharaEthnicGroup:
+  amharaEthnicGroup:
     stringTokens: ["Amhara"]
     wikidataID: ["Q464237"]
     religionsMostPracticed: ["orientalOrthodox", "sunniMuslim", "jewishReligion"]
-amisEthnicGroup:
+  amisEthnicGroup:
     stringTokens: ["Amis"]
     wikidataID: ["Q205006"]
     religionsMostPracticed: ["animismReligion", "christianReligion"]
-amishEthnicGroup:
+  amishEthnicGroup:
     stringTokens: ["Amish", "Old Order Amish", "Swiss Amish", "Nebraska Amish", "Swartzentruber Amish", "Buchanan Amish", "Andy Weaver Amish", "Troyer Amish", "Byler Amish", "Renno Amish", "Holmes Old Order Amish", "Elkhart-LaGrange Amish", "Lancaster Amish", "Tobe Amish]", "New Order Amish"]
     wikidataID: ["Q104444"]
     religionsMostPracticed: ["christianReligion"]
-amungEthnicGroup:
+  amungEthnicGroup:
     stringTokens: ["Amung", "amungme", "hamung", "amuy", "uhunduni"]
     wikidataID: ["Q2844528"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
-andalusiansEthnicGroup:
+  andalusiansEthnicGroup:
     stringTokens: ["Andalusians"]
     wikidataID: ["Q3777040"]
     religionsMostPracticed: ["catholicReligion"]
-angloAfroCaribbeanEthnicGroup:
+  angloAfroCaribbeanEthnicGroup:
     stringTokens: ["Anglo Afro-Caribbean", "Afro-Antiguans and Barbudans", "Afro-Bahamians", "Afro-Barbadians", "Afro-Bermudians", "Afro-Dominicans", "Afro-Grenadians", "Afro-Guyanese", "Afro-Jamaicans", "Afro-Kittitians and Nevisians", "Afro-Saint Lucians", "Afro-Trinidadians and Tobagonians", "Afro-Vincentians", "Belizean Creole", "Raizal"]
     wikidataID: ["Q2986879"]
     religionsMostPracticed: ["christianReligion"]
-angloAmericansEthnicGroup:
+  angloAmericansEthnicGroup:
     stringTokens: ["Anglo-Americans", "New England Americans", "Middle Atlantic Americans", "Midwestern Americans", "Southern Americans", "Western Americans"]
     wikidataID: ["Q4745649"]
     religionsMostPracticed: ["christianRelgion"]
-angloBurmeseEthnicGroup:
+  angloBurmeseEthnicGroup:
     stringTokens: ["Anglo-Burmese"]
     wikidataID: ["Q1975588"]
     religionsMostPracticed: ["christianReligion", "buddhismReligion"]
-angloCanadiansEthnicGroup:
+  angloCanadiansEthnicGroup:
     stringTokens: ["Anglo-Canadians", "Ontarian", "Anglo-Quebecers", "Nova Scotians", "New Brunswickers", "Manitoban", "British Columbians", "Prince Edward Islanders", "Saskatchewanians", "Albertans", "Newfoundlanders", "Labradorians", "Northwest Territorians", "Yukoners", "Anglo-Nunavummiut"]
     wikidataID: ["Q4763597"]
     religionsMostPracticed: ["christianReligion"]
-angloCelticAustraliansEthnicGroup:
+  angloCelticAustraliansEthnicGroup:
     stringTokens: ["Anglo-Celtic Australians"]
     wikidataID: ["Q388101"]
     religionsMostPracticed: ["christianReligion"]
-angloIndiansEthnicGroup:
+  angloIndiansEthnicGroup:
     stringTokens: ["Anglo-Indians"]
     wikidataID: ["Q368125"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion", "muslimReligion", "hinduismReligion", "sikhismReligion"]
-angloIrishEthnicGroup:
+  angloIrishEthnicGroup:
     stringTokens: ["Anglo-Irish"]
     wikidataID: ["Q2849692"]
     religionsMostPracticed: ["anglicanReligion"]
-angloNewZealandersEthnicGroup:
+  angloNewZealandersEthnicGroup:
     stringTokens: ["Anglo-New Zealanders"]
     wikidataID: ["Q28428697"]
     religionsMostPracticed: ["christianReligion"]
-anguEthnicGroup:
+  anguEthnicGroup:
     stringTokens: ["Angu", "anga"]
     wikidataID: ["Q2671423"]
     religionsMostPracticed: [""]
-antiochianGreekChristiansEthnicGroup:
+  antiochianGreekChristiansEthnicGroup:
     stringTokens: ["Antiochian Greek Christians"]
     wikidataID: ["Q21707952"]
     religionsMostPracticed: ["greekOrthodox"]
-anuakEthnicGroup:
+  anuakEthnicGroup:
     stringTokens: ["Anuak"]
     wikidataID: ["Q612213"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
-apacheEthnicGroup:
+  apacheEthnicGroup:
     stringTokens: ["Apache", "Chiricahua", "Jicarilla", "Lipan", "Mescalero", "Salinero", "Plains Apache", "Western Apache"]
     wikidataID: ["Q7496931"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
-apinajeEthnicGroup:
+  apinajeEthnicGroup:
     stringTokens: ["Apinajé"]
     wikidataID: ["Q2469268"]
     religionsMostPracticed: ["animismReligion"]
-arabsEthnicGroup:
+  arabsEthnicGroup:
     stringTokens: ["Arabs", "Bedouins", "Al-Sayyid Bedouins", "Palestinian Bedouins", "Jahalin Bedouins", "Negev Bedouins", "Galilee Bedouins", "Israeli-Arabs",  "Palestinian Metawalis", "Afro-Palestinians", "Egyptian Arabs", "Maghrebi Arabs", "Iranian Arabs", "Khuzestani Arabs", "Khorasani Arabs", "Huwalas", "Khamseh Arabs", "Sudanese Arabs", "Marsh Arabs", "Arab Christians", "Antiochians", "Jerusalemites", "Alexandrians", "Alawites", "Druze", "Hadharem", "Mhallami", "Rashaida", "Baggara Arabs", "Abbala Arabs", "Azawagh Arabs", "Diffa Arabs", "Manga Arabs", "Ababda", "Arab-Persians", "Arab-Berbers"]
     wikidataID: ["Q35323"]
     religionsMostPracticed: ["sunniReligion", "shiaReligion", "alawismReligion", "ibadiReligion", "greekOrthodox", "jewishReligion", "druzeReligion", "catholicReligion",
                              "bahaiReligion"]
-arameansEthnicGroup:
+  arameansEthnicGroup:
     stringTokens: ["Arameans"]
     wikidataID: ["Q185461"]
     religionsMostPracticed: [""]
-arapahoEthnicGroup:
+  arapahoEthnicGroup:
     stringTokens: ["Arapaho"]
     wikidataID: ["Q626136"]
     religionsMostPracticed: ["christianReligion", "shamanismReligion"]
-araraEthnicGroup:
+  araraEthnicGroup:
     stringTokens: ["Arará"]
     wikidataID: ["Q626203"]
     religionsMostPracticed: ["voodooReligion", "yorubaReligion", "kongoReligion"]
-argobbaEthnicGroup:
+  argobbaEthnicGroup:
     stringTokens: ["Argobba"]
     wikidataID: ["Q648031"]
     religionsMostPracticed: ["sunniReligion"]
-armeniansEthnicGroup:
+  armeniansEthnicGroup:
     stringTokens: ["Armenians", "Turkish Armenians", "Hemshin", "Hidden Armenians", "Cherkesogai", "Armeno-Tats", "Zoks", "Hayhurum", "Karabakhis", "Udis"]
     wikidataID: ["Q79797"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion"]
-ashkaliEthnicGroup:
+  ashkaliEthnicGroup:
     stringTokens: ["Ashkali"]
     wikidataID: ["Q282427"]
     religionsMostPracticed: ["muslimReligion"]
-asmatEthnicGroup:
+  asmatEthnicGroup:
     stringTokens: ["Asmat"]
     wikidataID: ["Q643103"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "sunniReligion"]
-assiniboineEthnicGroup:
+  assiniboineEthnicGroup:
     stringTokens: ["Assiniboine", "Bizebina", "Insaombi", "Wokpanbi"]
     wikidataID: ["Q682808"]
     religionsMostPracticed: ["shamanismReligion", "christianReligion"]
-assyriansEthnicGroup:
-    stringTokens: ["Assyrians", "Iraqi Assyrians", "Turkish Assyrians", "Syrian Assyrians",  "Iranian Assyrians",  "Chaldean Assyrians", "Syriac Assyrians, "Hakkari",  
+  assyriansEthnicGroup:
+    stringTokens: ["Assyrians", "Iraqi Assyrians", "Turkish Assyrians", "Syrian Assyrians",  "Iranian Assyrians",  "Chaldean Assyrians", "Syriac Assyrians", "Hakkari",
                    "Urmia",  "Tyari", "Jilu", "Baz", "Tkhuma", "Nochiya", "aisors"]
     wikidataID: ["Q377085"]
     religionsMostPracticed: ["christianReligion", "jewishReligion", "protestantReligion"]
-asturiansEthnicGroup:
+  asturiansEthnicGroup:
     stringTokens: ["Asturians", "Eonavians"]
     wikidataID: ["Q3573453"]
     religionsMostPracticed: ["catholicReligion"]
-atacamaEthnicGroup:
+  atacamaEthnicGroup:
     stringTokens: ["Atacama", "atacamenos"]
     wikidataID: ["Q753125"]
     religionsMostPracticed: ["christianReligion"]
-atayalsEthnicGroup:
+  atayalsEthnicGroup:
     stringTokens: ["Atayals"]
     wikidataID: ["Q701676"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
-atiEthnicGroup:
-    stringTokens: ["Ati"]  
+  atiEthnicGroup:
+    stringTokens: ["Ati"]
     wikidataID: ["Q2714852"]
     religionsMostPracticed: ["animismReligion", "catholicReligion"]
-atoniEthnicGroup:
+  atoniEthnicGroup:
     stringTokens: ["Atoni", "Amarasi"]
     wikidataID: ["Q757538"]
     religionsMostPracticed: ["christianReligion", "sunniReligion"]
-atyapEthnicGroup:
+  atyapEthnicGroup:
     stringTokens: ["Atyap"]
     wikidataID: ["Q4217022"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanreligion"]
-australIslandersEthnicGroup:
+  australIslandersEthnicGroup:
     stringTokens: ["Austral Islanders"]
     wikidataID: ["Q115299116"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion"]
-austriansEthnicGroup:
+  austriansEthnicGroup:
     stringTokens: ["Austrians"]
     wikidataID: ["Q237534"]
     religionsMostPracticed: ["catholicReligion", "lutheranReligion", "sunniReligion"]
-avarsEthnicGroup:
+  avarsEthnicGroup:
     stringTokens: ["Avars", "Archis"]
     wikidataID: ["Q8280625"]
     religionsMostPracticed: ["sunniReligion"]
-awaEthnicGroup:
-    stringTokens: ["Awa"]    
+  awaEthnicGroup:
+    stringTokens: ["Awa"]
     wikidataID: ["Q114003032"]
     religionsMostPracticed: [""]
-awadhisEthnicGroup:
+  awadhisEthnicGroup:
     stringTokens: ["Awadhis", "Barhai"]
     wikidataID: ["Q4829674"]
     religionsMostPracticed: ["hinduismReligion", "shiaReligion"]
-aymaraEthnicGroup:
+  aymaraEthnicGroup:
     stringTokens: ["Aymara"]
     wikidataID: ["Q8281727"]
     religionsMostPracticed: ["catholicReligion", "evangelicalReligion"]
-aynuEthnicGroup:
+  aynuEthnicGroup:
     stringTokens: ["Aynu", "aini", "abdal"]
     wikidataID: ["Q307559"]
     religionsMostPracticed: ["sunniRelgion", "alevismReligion"]
-azerbaijanisEthnicGroup:
+  azerbaijanisEthnicGroup:
     stringTokens: ["Azerbaijanis", "Ayrums", "Baharlu", "Bayat", "Karadaghis", "Qajars", "Kuresunni", "Padar", "Qarapapaqs", "Shahsevan", "Terekeme", "Yeraz", "Afshar", "Javanshir Qizilbash", "Iranian Azeris", "azeri"]
     wikidataID: ["Q482942"]
     religionsMostPracticed: ["shiaReligion", "sunniReligion"]
-baburandBuraEthnicGroup:
+  baburandBuraEthnicGroup:
     stringTokens: ["Babur and Bura", "Babur", "Bura", "pabir"]
     wikidataID: ["Q115806563"]
     religionsMostPracticed: ["HausaReligion"]
-bagvalalsEthnicGroup:
+  bagvalalsEthnicGroup:
     stringTokens: ["Bagvalals"]
     wikidataID: ["Q788562"]
     religionsMostPracticed: ["sunniReligion"]
-bainingEthnicGroup:
+  bainingEthnicGroup:
     stringTokens: ["Baining"]
     wikidataID: ["Q502474"]
     religionsMostPracticed: ["methodismReligion", "catholicReligion"]
-baharnaEthnicGroup:
+  baharnaEthnicGroup:
     stringTokens: ["Baharna", "bahraini"]
     wikidataID: ["Q2879337"]
     religionsMostPracticed: ["shiaReligion"]
-bahnarEthnicGroup:
+  bahnarEthnicGroup:
     stringTokens: ["Bahnar"]
     wikidataID: ["Q1347290"]
     religionsMostPracticed: ["animismReligion", "christianReligion"]
-baiEthnicGroup:
+  baiEthnicGroup:
     stringTokens: ["Bai"]
     wikidataID: ["Q275453"]
     religionsMostPracticed: ["buddhismReligion", "taoismReligion"]
-bakossiEthnicGroup:
+  bakossiEthnicGroup:
     stringTokens: ["Bakossi", "Kossi", "Akoose", "Akose", "Bakosi", "Basoni", "Basosi", "Sosi", "Kosi", "Nkosi", "Koose", "Bekoose", "Akosi"]
     wikidataID: ["Q73629"]
     religionsMostPracticed: ["christianReligion"]
-balantaEthnicGroup:
+  balantaEthnicGroup:
     stringTokens: ["Balanta", "balanda"]
     wikidataID: ["Q804639"]
     religionsMostPracticed: ["traditionalAfricanReligion", "catholicReligion", "sunniReligion"]
-balineseEthnicGroup:
+  balineseEthnicGroup:
     stringTokens: ["Balinese", "Bali Aga"]
     wikidataID: ["Q1266626"]
     religionsMostPracticed: ["hinduismReligion", "sunniIslam"]
-balkarsEthnicGroup:
+  balkarsEthnicGroup:
     stringTokens: ["Balkars"]
     wikidataID: ["Q8286746"]
     religionsMostPracticed: ["suuniIslam"]
-balochsEthnicGroup:
+  balochsEthnicGroup:
     stringTokens: ["Balochs", "Askani", "Bajkani", "Bangulzai", "Barazani", "Bhurgari", "Bugti", "Buledi", "Chandio", "Darzada", "Dehwar", "Dodai", "Dombki", "Gabol", "Ghazini", "Jamali", "Jatoi", "Kalmati", "Khetran", "Kunara", "Langhani", "Lango", "Lashkrani", "Loharani", "Lund", "Marri", "Mazari", "Mengal", "Mirali", "Mugheri", "Muhammad Shahi", "Mullazai", "Nothazai", "Pitafi", "Qaisrani", "Rind", "Sadozai", "Sethwi", "Shaikhzadah", "Talpur", "Tauki", "Umrani", "Yarahmadzai", "Zardari", "Makrani"]
     wikidataID: ["Q201501"]
     religionsMostPracticed: ["sunniIslam"]
-balondobaKonjaEthnicGroup:
+  balondobaKonjaEthnicGroup:
     stringTokens: ["Balondo-ba-Konja"]
     wikidataID: [""]
     religionsMostPracticed: ["traditionalAfricanReligion"]
-baltiEthnicGroup:
+  baltiEthnicGroup:
     stringTokens: ["Balti"]
     wikidataID: ["Q805677"]
     religionsMostPracticed: ["shiaReligion"]
-bamarsEthnicGroup:
+  bamarsEthnicGroup:
     stringTokens: ["Bamars", "Taungyo", "Yaw", "Intha", "Danu", "Anglo-Burmese"]
     wikidataID: ["Q33028352"]
     religionsMostPracticed: ["theravadaReligion"]
-bambaraEthnicGroup:
+  bambaraEthnicGroup:
     stringTokens: ["Bambara"]
     wikidataID: ["Q504685"]
     religionsMostPracticed: ["muslimReligion"]
-bamilekeEthnicGroup:
+  bamilekeEthnicGroup:
     stringTokens: ["Bamileke", "Mengaka", "Ngiemboon", "Ngombale", "Ngomba", "Ngwe", "Yemba", "Fe'fe'", "Ghomala'", "Kwaʼ", "Nda'nda'", "Medumba"]
     wikidataID: ["Q806017"]
     religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion", "muslimReligion"]
-bamumEthnicGroup:
+  bamumEthnicGroup:
     stringTokens: ["Bamum"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-bandaEthnicGroup:
+  bandaEthnicGroup:
     stringTokens: ["Banda", "Central Banda", "South Banda", "West Banda"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-bangweuluTwaEthnicGroup:
+  bangweuluTwaEthnicGroup:
     stringTokens: ["Bangweulu Twa"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-baniwaEthnicGroup:
+  baniwaEthnicGroup:
     stringTokens: ["Baniwa"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-banjareseEthnicGroup:
+  banjareseEthnicGroup:
     stringTokens: ["Banjarese"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-barakTurkmensEthnicGroup:
+  barakTurkmensEthnicGroup:
     stringTokens: ["Barak Turkmens"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-bariEthnicGroup:
+  bariEthnicGroup:
     stringTokens: ["Bari", "Pojulu", "Kakwa", "Nyangwara", "Mandari", "Kuku"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-baribaEthnicGroup:
+  baribaEthnicGroup:
     stringTokens: ["Bariba"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-bashkirsEthnicGroup:
+  bashkirsEthnicGroup:
     stringTokens: ["Bashkirs"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-basquesEthnicGroup:
+  basquesEthnicGroup:
     stringTokens: ["Basques", "Navarreans", "Alavans", "Biscayans", "Gipuzkoans", "Northern Basques"]
-bassaEthnicGroup:
+  bassaEthnicGroup:
     stringTokens: ["Bassa"]
-bastersEthnicGroup:
+  bastersEthnicGroup:
     stringTokens: ["Basters"]
-batakEthnicGroup:
+  batakEthnicGroup:
     stringTokens: ["Batak", "Angkola", "Karo", "Mandailing", "Pakpak", "Simalungun", "Toba", "Alas", "Kluet", "Singkil"]
-bateriEthnicGroup:
+  bateriEthnicGroup:
     stringTokens: ["Bateri"]
-batwaEthnicGroup:
+  batwaEthnicGroup:
     stringTokens: ["Batwa"]
-bauziEthnicGroup:
+  bauziEthnicGroup:
     stringTokens: ["Bauzi"]
-bejaEthnicGroup:
+  bejaEthnicGroup:
     stringTokens: ["Beja", "Bishari", "Hadendoa", "Hedareb", "Amarar", "Beni-Amer"]
-belarusiansEthnicGroup:
+  belarusiansEthnicGroup:
     stringTokens: ["Belarusians"]
-belizean CreolesEthnicGroup:
+  belizean CreolesEthnicGroup:
     stringTokens: ["Belizean Creoles"]
-bembaEthnicGroup:
+  bembaEthnicGroup:
     stringTokens: ["Bemba"]
-bembeEthnicGroup:
+  bembeEthnicGroup:
     stringTokens: ["Bembe"]
-bengalisEthnicGroup:
+  bengalisEthnicGroup:
     stringTokens: ["Bengalis", "Bengali Muslims", "Bengali Hindus", "Bengali Buddhists", "Bengali Christians", "British Bangladeshis", "Middle Eastern Bangladeshis", "Malaysian Bangladeshis", "Bangladeshi Canadians", "Italo-Bangladeshis", "Polish Bangladeshis", "Bangladeshi New Zealanders", "Bangladeshi Australians", "Maldivian Bangladeshis", "Japanese Bangladeshis", "Bengali Americans", "Bangladeshi Americans", "Bangals", "Ghotis", "Dhakaiyas", "Mahifarash", "Shershabadia", "Mahimal", "Sylhetis"]
-berbersEthnicGroup:
+  berbersEthnicGroup:
     stringTokens: ["Berbers","Amazigh", "Central Atlas Berbers", "Chaouis", "Kabyle", "Kountas", "Chenouas", "Ghomaras", "Godala", "Hawwara", "Matmatas", "Mozabite", "Nafusis", "Rifians", "Shilha", "Siwi", "Tuaregs", "Awjila", "Arab-Berbers", "Sanhaja Berbers", "Jerba", "Zayanes", "Igdalen"]
-beromEthnicGroup:
+  beromEthnicGroup:
     stringTokens: ["Berom"]
-bertaEthnicGroup:
+  bertaEthnicGroup:
     stringTokens: ["Berta"]
-betawisEthnicGroup:
+  betawisEthnicGroup:
     stringTokens: ["Betawis"]
-betiEthnicGroup:
+  betiEthnicGroup:
     stringTokens: ["Beti", "Ewondo", "Eton"]
-bezhtaEthnicGroup:
+  bezhtaEthnicGroup:
     stringTokens: ["Bezhta"]
-bhilsEthnicGroup:
+  bhilsEthnicGroup:
     stringTokens: ["Bhils", "Barda", "Bhagalia", "Bhilala", "Bhil Gametia", "Bhil Garasia", "Bhil Kataria", "Bhil Mama", "Bhil Mavchi", "Dholi Bhil", "Dungri Bhil", "Damor", "Dungri Garasia", "Mewasi Bhil", "Nirdhi Bhil", "Rawal Bhil", "Tadvi Bhil", "Vasava", "Bhil Meena", "Chaudhri", "Bagdi"]
-bhojpurisEthnicGroup:
+  bhojpurisEthnicGroup:
     stringTokens: ["Bhojpuris", "Paswan", "Teli"]
-bhumijsEthnicGroup:
+  bhumijsEthnicGroup:
     stringTokens: ["Bhumijs"]
-bicolanosEthnicGroup:
+  bicolanosEthnicGroup:
     stringTokens: ["Bicolanos", "Central Bikol", "Sorsoganons", "Catandunganons", "Rinconada", "Albayanon"]
-bidayuhEthnicGroup:
+  bidayuhEthnicGroup:
     stringTokens: ["Bidayuh", "Kendayan", "Selako", "Bakatiʼ", "Sara Bakati'", "Laraʼ", "Bukar–Sadong", "Biatah", "Tringgus", "Jagoi", "Jangkang", "Kembayan", "Semandang", "Ribun", "Nyaduʼ", "Sanggau"]
-bilalaEthnicGroup:
+  bilalaEthnicGroup:
     stringTokens: ["Bilala"]
-bimaneseEthnicGroup:
+  bimaneseEthnicGroup:
     stringTokens: ["Bimanese"]
-bishnupriyaManipurisEthnicGroup:
+  bishnupriyaManipurisEthnicGroup:
     stringTokens: ["Bishnupriya Manipuris"]
-bissaEthnicGroup:
+  bissaEthnicGroup:
     stringTokens: ["Bissa"]
-blaanEthnicGroup:
+  blaanEthnicGroup:
     stringTokens: ["Blaan"]
-blackfootEthnicGroup:
+  blackfootEthnicGroup:
     stringTokens: ["Blackfoot", "Kainai Nation", "Piegan Blackfeet", "Piikani Nation", "Siksika Nation"]
-boaEthnicGroup:
+  boaEthnicGroup:
     stringTokens: ["Boa"]
-bodoEthnicGroup:
+  bodoEthnicGroup:
     stringTokens: ["Bodo", "Mech", "Kachari"]
-bokotaEthnicGroup:
+  bokotaEthnicGroup:
     stringTokens: ["Bokota"]
-bondeiEthnicGroup:
+  bondeiEthnicGroup:
     stringTokens: ["Bondei"]
-bororoEthnicGroup:
+  bororoEthnicGroup:
     stringTokens: ["Bororo"]
-bosniaksEthnicGroup:
+  bosniaksEthnicGroup:
     stringTokens: ["Bosniaks"]
-botlikhsEthnicGroup:
+  botlikhsEthnicGroup:
     stringTokens: ["Botlikhs"]
-bouyeiEthnicGroup:
+  bouyeiEthnicGroup:
     stringTokens: ["Bouyei", "Giay"]
-bozoEthnicGroup:
+  bozoEthnicGroup:
     stringTokens: ["Bozo"]
-brahuisEthnicGroup:
+  brahuisEthnicGroup:
     stringTokens: ["Brahuis", "Raisani", "Jhalawan", "Sarawan", "Mengal", "Zagar", "Zakria Zae", "Sasoli"]
-bretonsEthnicGroup:
+  bretonsEthnicGroup:
     stringTokens: ["Bretons"]
-bribriEthnicGroup:
+  bribriEthnicGroup:
     stringTokens: ["Bribri"]
-bruEthnicGroup:
+  bruEthnicGroup:
     stringTokens: ["Bru"]
-bruneianEthnicGroup:
+  bruneianEthnicGroup:
     stringTokens: ["Bruneian", "Kedayan Bruneian"]
-bubiEthnicGroup:
+  bubiEthnicGroup:
     stringTokens: ["Bubi"]
-buduEthnicGroup:
+  buduEthnicGroup:
     stringTokens: ["Budu"]
-budukhsEthnicGroup:
+  budukhsEthnicGroup:
     stringTokens: ["Budukhs"]
-budumaEthnicGroup:
+  budumaEthnicGroup:
     stringTokens: ["Buduma"]
-bugineseEthnicGroup:
+  bugineseEthnicGroup:
     stringTokens: ["Buginese"]
-bulgariansEthnicGroup:
+  bulgariansEthnicGroup:
     stringTokens: ["Bulgarians", "Pomaks", "Paulicians", "Macedonian Bulgarians", "Bessarabian Bulgarians", "Dobrujan Bulgarians", "Thracian Bulgarians"]
-bununEthnicGroup:
+  bununEthnicGroup:
     stringTokens: ["Bunun"]
-burghersEthnicGroup:
+  burghersEthnicGroup:
     stringTokens: ["Burghers", "Dutch Burghers", "Portuguese Burghers"]
-burushosEthnicGroup:
+  burushosEthnicGroup:
     stringTokens: ["Burushos"]
-buryatsEthnicGroup:
+  buryatsEthnicGroup:
     stringTokens: ["Buryats"]
-butoneseEthnicGroup:
+  butoneseEthnicGroup:
     stringTokens: ["Butonese"]
-bwaEthnicGroup:
+  bwaEthnicGroup:
     stringTokens: ["Bwa"]
-cahuillaEthnicGroup:
+  cahuillaEthnicGroup:
     stringTokens: ["Cahuilla", "Pass Cahuilla", "Agua Caliente Cahuilla", "Morongo Cahuilla", "Mountain Cahuilla", "Cahuilla Band of Indians", "Los Coyotes Cahuilla", "Ramona Cahuilla", "Santa Rosa Cahuilla", "Desert Cahuilla", "Augustine Cahuilla", "Cabazon Cahuillla", "Torres Martinez Desert Cahuilla"]
-caldocheEthnicGroup:
+  caldocheEthnicGroup:
     stringTokens: ["Caldoche"]
-camminantiEthnicGroup:
+  camminantiEthnicGroup:
     stringTokens: ["Camminanti"]
-canary IslandersEthnicGroup:
+  canary IslandersEthnicGroup:
     stringTokens: ["Canary Islanders", "Isleños", "Louisiana Isleños"]
-capeColouredsEthnicGroup:
+  capeColouredsEthnicGroup:
     stringTokens: ["Cape Coloureds"]
-capeMalaysEthnicGroup:
+  capeMalaysEthnicGroup:
     stringTokens: ["Cape Malays"]
-capeVerdeansEthnicGroup:
+  capeVerdeansEthnicGroup:
     stringTokens: ["Cape Verdeans"]
-caroliniansEthnicGroup:
+  caroliniansEthnicGroup:
     stringTokens: ["Carolinians"]
-catalansEthnicGroup:
+  catalansEthnicGroup:
     stringTokens: ["Catalans", "Balears", "Algherese", "Andorrans", "Roussillonese"]
-cayugaEthnicGroup:
+  cayugaEthnicGroup:
     stringTokens: ["Cayuga"]
-chagaEthnicGroup:
+  chagaEthnicGroup:
     stringTokens: ["Chaga"]
-chagossiansEthnicGroup:
+  chagossiansEthnicGroup:
     stringTokens: ["Chagossians"]
-chaharmahaliTurksEthnicGroup:
+  chaharmahaliTurksEthnicGroup:
     stringTokens: ["Chaharmahali Turks"]
-chakmasEthnicGroup:
+  chakmasEthnicGroup:
     stringTokens: ["Chakmas"]
-chamorroEthnicGroup:
+  chamorroEthnicGroup:
     stringTokens: ["Chamorro"]
-chamsEthnicGroup:
+  chamsEthnicGroup:
     stringTokens: ["Chams", "Churu", "Jarai", "Rade", "Raglai", "Utsuls"]
-charrúaEthnicGroup:
+  charrúaEthnicGroup:
     stringTokens: ["Charrúa", "Chaná"]
-chechensEthnicGroup:
+  chechensEthnicGroup:
     stringTokens: ["Chechens", "Kists", "Chechen Kurds", "Aukhs"]
-chehalisEthnicGroup:
+  chehalisEthnicGroup:
     stringTokens: ["Chehalis", "Lower Chehalis", "Upper Chehalis"]
-chelkansEthnicGroup:
+  chelkansEthnicGroup:
     stringTokens: ["Chelkans"]
-chepangEthnicGroup:
+  chepangEthnicGroup:
     stringTokens: ["Chepang"]
-chenouasEthnicGroup:
+  chenouasEthnicGroup:
     stringTokens: ["Chenouas"]
-cherokeeEthnicGroup:
+  cherokeeEthnicGroup:
     stringTokens: ["Cherokee", "Cherokee Nation", "Eastern Band", "United Keetoowah Band", "Cherokee Freedmen"]
-chewaEthnicGroup:
+  chewaEthnicGroup:
     stringTokens: ["Chewa"]
-cheyennesEthnicGroup:
+  cheyennesEthnicGroup:
     stringTokens: ["Cheyennes"]
-chineseTatarsEthnicGroup:
+  chineseTatarsEthnicGroup:
     stringTokens: ["Chinese Tatars"]
-choctawEthnicGroup:
+  choctawEthnicGroup:
     stringTokens: ["Choctaw", "Choctaw Freedmen"]
-chokweEthnicGroup:
+  chokweEthnicGroup:
     stringTokens: ["Chokwe"]
-choRoEthnicGroup:
+  choRoEthnicGroup:
     stringTokens: ["Cho Ro"]
-chuanqingEthnicGroup:
+  chuanqingEthnicGroup:
     stringTokens: ["Chuanqing"]
-chukchisEthnicGroup:
+  chukchisEthnicGroup:
     stringTokens: ["Chukchis"]
-chulymsEthnicGroup:
+  chulymsEthnicGroup:
     stringTokens: ["Chulyms"]
-chumashEthnicGroup:
+  chumashEthnicGroup:
     stringTokens: ["Chumash"]
-chutiyaEthnicGroup:
+  chutiyaEthnicGroup:
     stringTokens: ["Chutiya", "Deori"]
-chuukeseEthnicGroup:
+  chuukeseEthnicGroup:
     stringTokens: ["Chuukese"]
-chuvansEthnicGroup:
+  chuvansEthnicGroup:
     stringTokens: ["Chuvans"]
-chuvashEthnicGroup:
+  chuvashEthnicGroup:
     stringTokens: ["Chuvash", "Virjal", "Anatri"]
-cintaLargaEthnicGroup:
+  cintaLargaEthnicGroup:
     stringTokens: ["Cinta Larga"]
-circassiansEthnicGroup:
+  circassiansEthnicGroup:
     stringTokens: ["Circassians", "Abzakhs", "Adygeans", "Besleneys", "Bzhedugs", "Chemirgoys", "Cherkess", "Kabardians", "Natukhajs", "Shapsugs", "Ubykhs", "Hatuqways"]
-cireboneseEthnicGroup:
+  cireboneseEthnicGroup:
     stringTokens: ["Cirebonese"]
-cocopahEthnicGroup:
+  cocopahEthnicGroup:
     stringTokens: ["Cocopah"]
-cofanEthnicGroup:
+  cofanEthnicGroup:
     stringTokens: ["Cofan"]
-cookIslandersEthnicGroup:
+  cookIslandersEthnicGroup:
     stringTokens: ["Cook Islanders"]
-comancheEthnicGroup:
+  comancheEthnicGroup:
     stringTokens: ["Comanche"]
-comoriansEthnicGroup:
+  comoriansEthnicGroup:
     stringTokens: ["Comorians", "Grande Comorians", "Anjouans", "Mohélians", "Maorais"]
-confederadosEthnicGroup:
+  confederadosEthnicGroup:
     stringTokens: ["Confederados"]
-coptsEthnicGroup:
+  coptsEthnicGroup:
     stringTokens: ["Copts"]
-cornishEthnicGroup:
+  cornishEthnicGroup:
     stringTokens: ["Cornish"]
-corsicansEthnicGroup:
+  corsicansEthnicGroup:
     stringTokens: ["Corsicans", "Corsican Americans", "Corsican Puerto Ricans"]
-coushattaEthnicGroup:
+  coushattaEthnicGroup:
     stringTokens: ["Coushatta"]
-creeEthnicGroup:
+  creeEthnicGroup:
     stringTokens: ["Cree", "James Bay Cree", "Moose Cree", "Swampy Cree", "Woodland Cree", "Papaschase"]
-crimean TatarsEthnicGroup:
+  crimean TatarsEthnicGroup:
     stringTokens: ["Crimean Tatars", "Steppe Tatars", "Mountain Tatars"]
-croatsEthnicGroup:
+  croatsEthnicGroup:
     stringTokens: ["Croats", "Bunjevci", "Krashovani", "Janjevci", "Šokci", "Bosnian Croats", "Croat Muslims"]
-crowEthnicGroup:
+  crowEthnicGroup:
     stringTokens: ["Crow"]
-czechoslovaksEthnicGroup:
+  czechoslovaksEthnicGroup:
     stringTokens: ["Czechoslovaks"]
-czechsEthnicGroup:
+  czechsEthnicGroup:
     stringTokens: ["Czechs", "Bohemians", "Chodové"]
-dagaabaEthnicGroup:
+  dagaabaEthnicGroup:
     stringTokens: ["Dagaaba"]
-dagombasEthnicGroup:
+  dagombasEthnicGroup:
     stringTokens: ["Dagombas"]
-damaraEthnicGroup:
+  damaraEthnicGroup:
     stringTokens: ["Damara"]
-danesEthnicGroup:
+  danesEthnicGroup:
     stringTokens: ["Danes"]
-darginsEthnicGroup:
+  darginsEthnicGroup:
     stringTokens: ["Dargins", "Kaitags", "Kubachis", "Itsaris", "Chirags"]
-dawoodiBohraEthnicGroup:
+  dawoodiBohraEthnicGroup:
     stringTokens: ["Dawoodi Bohra"]
-deccaniEthnicGroup:
+  deccaniEthnicGroup:
     stringTokens: ["Deccani", "Hyderabadi"]
-dinkaEthnicGroup:
+  dinkaEthnicGroup:
     stringTokens: ["Dinka"]
-dobrujaTatarsEthnicGroup:
+  dobrujaTatarsEthnicGroup:
     stringTokens: ["Dobruja Tatars"]
-dogonEthnicGroup:
+  dogonEthnicGroup:
     stringTokens: ["Dogon", "Ampari Dogon", "Nyamboli", "Tebul U", "Mombo Dogon", "Escarpment Dogon", "Tommo So", "Jamsai Dogon", "Nanga Dogon", "Yanda Dogon", "Walo", "Beente", "Duleri Dogon", "Pinia", "Bondum Dogon", "Dogul Dogon", "Budu", "Western Plains Dogon", "Toro-tegu Dogon", "Bangande"]
-dograsEthnicGroup:
+  dograsEthnicGroup:
     stringTokens: ["Dogras"]
-dolgansEthnicGroup:
+  dolgansEthnicGroup:
     stringTokens: ["Dolgans"]
-domsEthnicGroup:
+  domsEthnicGroup:
     stringTokens: ["Doms", "Garachi"]
-dongxiangsEthnicGroup:
+  dongxiangsEthnicGroup:
     stringTokens: ["Dongxiangs"]
-doukhoborsEthnicGroup:
+  doukhoborsEthnicGroup:
     stringTokens: ["Doukhobors"]
-druzeEthnicGroup:
+  druzeEthnicGroup:
     stringTokens: ["Druze", "Lebanese Druze", "Syrian Druze", "Israeli Druze", "Jordanian Druze"]
-dublaEthnicGroup:
+  dublaEthnicGroup:
     stringTokens: ["Dubla"]
-dutchEthnicGroup:
+  dutchEthnicGroup:
     stringTokens: ["Dutch"]
-dutchAfroCaribbeanEthnicGroup:
+  dutchAfroCaribbeanEthnicGroup:
     stringTokens: ["Dutch Afro-Caribbean"]
-dweeEthnicGroup:
+  dweeEthnicGroup:
     stringTokens: ["Dwe'e"]
-dyulaEthnicGroup:
+  dyulaEthnicGroup:
     stringTokens: ["Dyula"]
-eastIndianCatholicsEthnicGroup:
+  eastIndianCatholicsEthnicGroup:
     stringTokens: ["East Indian Catholics"]
-ebiraEthnicGroup:
+  ebiraEthnicGroup:
     stringTokens: ["Ebira"]
-edoEthnicGroup:
+  edoEthnicGroup:
     stringTokens: ["Edo", "Ika", "Emai"]
-efikEthnicGroup:
+  efikEthnicGroup:
     stringTokens: ["Efik"]
-egyptiansEthnicGroup:
+  egyptiansEthnicGroup:
     stringTokens: ["Egyptians", "Sa'idi"]
-ekariEthnicGroup:
+  ekariEthnicGroup:
     stringTokens: ["Ekari"]
-ekoiEthnicGroup:
+  ekoiEthnicGroup:
     stringTokens: ["Ekoi"]
-elbegliEthnicGroup:
+  elbegliEthnicGroup:
     stringTokens: ["Elbegli"]
-emberaEthnicGroup:
+  emberaEthnicGroup:
     stringTokens: ["Embera"]
-englishEthnicGroup:
+  englishEthnicGroup:
     stringTokens: ["English"]
-erzyasEthnicGroup:
+  erzyasEthnicGroup:
     stringTokens: ["Erzyas", "Shoksha"]
-esanEthnicGroup:
+  esanEthnicGroup:
     stringTokens: ["Esan"]
-estoniansEthnicGroup:
+  estoniansEthnicGroup:
     stringTokens: ["Estonians", "Setos", "Võros", "Hiiumaans", "Saaremaans", "Ludza Estonians", "Gauja Estonians"]
-evenksEthnicGroup:
+  evenksEthnicGroup:
     stringTokens: ["Evenks", "Negidals"]
-evensEthnicGroup:
+  evensEthnicGroup:
     stringTokens: ["Evens"]
-eweEthnicGroup:
+  eweEthnicGroup:
     stringTokens: ["Ewe", "Anlo Ewe", "Waci"]
-falkland IslandersEthnicGroup:
+  falkland IslandersEthnicGroup:
     stringTokens: ["Falkland Islanders"]
-fangEthnicGroup:
+  fangEthnicGroup:
     stringTokens: ["Fang"]
-faroe IslandersEthnicGroup:
+  faroe IslandersEthnicGroup:
     stringTokens: ["Faroe Islanders"]
-fijiansEthnicGroup:
+  fijiansEthnicGroup:
     stringTokens: ["Fijians", "Fijian Americans", "Fijian Australians", "Fijian British"]
-finnishTatarsEthnicGroup:
+  finnishTatarsEthnicGroup:
     stringTokens: ["Finnish Tatars"]
-finnsEthnicGroup:
+  finnsEthnicGroup:
     stringTokens: ["Finns", "Forest Finns", "Tornedalians", "Ingrian Finns", "Siberian Finns", "Savonians", "Tavastians", "Finns proper", "Ostrobothnians", "Finnish Karelians", "Finland Swedes", "Kainuu", "Murmansk Finns"]
-fipaEthnicGroup:
+  fipaEthnicGroup:
     stringTokens: ["Fipa"]
-flemingsEthnicGroup:
+  flemingsEthnicGroup:
     stringTokens: ["Flemings"]
-fonEthnicGroup:
+  fonEthnicGroup:
     stringTokens: ["Fon"]
-frenchEthnicGroup:
+  frenchEthnicGroup:
     stringTokens: ["French"]
-frenchAfroCaribbeanEthnicGroup:
+  frenchAfroCaribbeanEthnicGroup:
     stringTokens: ["French Afro-Caribbean", "Guadeloupeans", "Martinicans", "Saint-Martinois", "Barthelemois", "Afro-French Guianans", "Dominicans", "Haitians", "Saint Lucians"]
-frenchCanadiansEthnicGroup:
+  frenchCanadiansEthnicGroup:
     stringTokens: ["French Canadians", "Quebecois", "Acadians", "Chiac", "Franco-Terreneuvians", "Franco-Ontariens", "Franco-Manitobains", "Fransaskois", "Franco-Albertains", "Franco-Colombiens", "Franco-Yukonnais", "Franco-Tenois", "Franco-Nunavois", "Brayons", "Muskrat French", "French-Canadian Americans"]
-frenchLouisianiansEthnicGroup:
+  frenchLouisianiansEthnicGroup:
     stringTokens: ["French Louisianians", "Louisiana Creoles", "Alabama Creoles", "Alabama Cajuns", "Missouri French"]
-frisiansEthnicGroup:
+  frisiansEthnicGroup:
     stringTokens: ["Frisians", "Westlauwers Frisians", "East Frisians", "North Frisians", "Saterland Frisians"]
-friuliansEthnicGroup:
+  friuliansEthnicGroup:
     stringTokens: ["Friulians"]
-fulaEthnicGroup:
+  fulaEthnicGroup:
     stringTokens: ["Fula", "Wodaabe", "Maasina Fulfulde"]
-furEthnicGroup:
+  furEthnicGroup:
     stringTokens: ["Fur"]
-fuyu KyrgyzEthnicGroup:
+  fuyu KyrgyzEthnicGroup:
     stringTokens: ["Fuyu Kyrgyz"]
-gaAdangbeEthnicGroup:
+  gaAdangbeEthnicGroup:
     stringTokens: ["Ga-Adangbe", "Ga", "Adangbe"]
-gabrieleñosEthnicGroup:
+  gabrieleñosEthnicGroup:
     stringTokens: ["Gabrieleños"]
-gagauzEthnicGroup:
+  gagauzEthnicGroup:
     stringTokens: ["Gagauz"]
-gajalEthnicGroup:
+  gajalEthnicGroup:
     stringTokens: ["Gajal"]
-galiciansEthnicGroup:
+  galiciansEthnicGroup:
     stringTokens: ["Galicians", "Couto Mistans"]
-gamilaraayEthnicGroup:
+  gamilaraayEthnicGroup:
     stringTokens: ["Gamilaraay"]
-gandaEthnicGroup:
+  gandaEthnicGroup:
     stringTokens: ["Ganda", "Abayudaya"]
-garhwalisEthnicGroup:
+  garhwalisEthnicGroup:
     stringTokens: ["Garhwalis"]
-garifunasEthnicGroup:
+  garifunasEthnicGroup:
     stringTokens: ["Garifunas"]
-garosEthnicGroup:
+  garosEthnicGroup:
     stringTokens: ["Garos"]
-gaviaoEthnicGroup:
+  gaviaoEthnicGroup:
     stringTokens: ["Gaviao", "Parkateje", "Pykobje"]
-gayoneseEthnicGroup:
+  gayoneseEthnicGroup:
     stringTokens: ["Gayonese"]
-gbagyiEthnicGroup:
+  gbagyiEthnicGroup:
     stringTokens: ["Gbagyi"]
-gbayaEthnicGroup:
+  gbayaEthnicGroup:
     stringTokens: ["Gbaya", "Bokoto", "Kara", "Buli", "Toongo", "Ali", "Mandja", "Gbaya-Bossangoa", "Bozom", "Mbodomo", "Gbanu", "Bangandu"]
-gedeoEthnicGroup:
+  gedeoEthnicGroup:
     stringTokens: ["Gedeo"]
-gelaoEthnicGroup:
+  gelaoEthnicGroup:
     stringTokens: ["Gelao"]
-georgiansEthnicGroup:
+  georgiansEthnicGroup:
     stringTokens: ["Georgians", "Adjarians", "Mingrelians", "Svans", "Tushetians", "Meskhetians", "Imerkhevians", "Ingiloys", "Bats"]
-germansEthnicGroup:
+  germansEthnicGroup:
     stringTokens: ["Germans", "Bavarians", "Swabians"]
-ghomarasEthnicGroup:
+  ghomarasEthnicGroup:
     stringTokens: ["Ghomaras"]
-ghorbatiEthnicGroup:
+  ghorbatiEthnicGroup:
     stringTokens: ["Ghorbati", "Mugats"]
-gibraltariansEthnicGroup:
+  gibraltariansEthnicGroup:
     stringTokens: ["Gibraltarians"]
-gilaksEthnicGroup:
+  gilaksEthnicGroup:
     stringTokens: ["Gilaks"]
-gitxsanEthnicGroup:
+  gitxsanEthnicGroup:
     stringTokens: ["Gitxsan"]
-goanCatholicsEthnicGroup:
+  goanCatholicsEthnicGroup:
     stringTokens: ["Goan Catholics"]
-godoberisEthnicGroup:
+  godoberisEthnicGroup:
     stringTokens: ["Godoberis"]
-golaEthnicGroup:
+  golaEthnicGroup:
     stringTokens: ["Gola"]
-gondsEthnicGroup:
+  gondsEthnicGroup:
     stringTokens: ["Gonds", "Godha", "Madia Gonds", "Muria", "Koya"]
-goralsEthnicGroup:
+  goralsEthnicGroup:
     stringTokens: ["Gorals", "Sącz Lachs", "Silesian Gorals"]
-goraniEthnicGroup:
+  goraniEthnicGroup:
     stringTokens: ["Gorani"]
-gorontaloEthnicGroup:
+  gorontaloEthnicGroup:
     stringTokens: ["Gorontalo"]
-goshaEthnicGroup:
+  goshaEthnicGroup:
     stringTokens: ["Gosha"]
-greatAndamaneseEthnicGroup:
+  greatAndamaneseEthnicGroup:
     stringTokens: ["Great Andamanese"]
-greeksEthnicGroup:
+  greeksEthnicGroup:
     stringTokens: ["Greeks", "Greek Cypriots", "Pontic Greeks", "Cappadocian Greeks", "Sarakatsani", "Souliotes", "Urums", "Grikos", "Macedonian Greeks", "Anatolian Greeks", "Tsakonians", "Maniots", "Karagounides", "Mikrasiates", "Phanariots", "Egyptian Greeks", "Caucasus Greeks", "Cretan Muslims", "Sfakians", "Slavophone Greeks", "Corfiot Greeks", "Melkites", "Antiochian Greeks", "Jerusalemite Greeks", "Alexandrian Greeks",  "Arvanites"]
-guajajaraEthnicGroup:
+  guajajaraEthnicGroup:
     stringTokens: ["Guajajara"]
-guanEthnicGroup:
+  guanEthnicGroup:
     stringTokens: ["Guan", "Gonja", "Kyode", "Cherepon", "Efutu", "Anyanga", "Larteh", "Chumburung", "Krache", "Anum-Boso"]
-guaraniEthnicGroup:
+  guaraniEthnicGroup:
     stringTokens: ["Guarani", "Chiriguanos"]
-gujaratiEthnicGroup:
+  gujaratiEthnicGroup:
     stringTokens: ["Gujarati", "Koli", "Bharwad", "Khoja", "Patidar", "Sunni Bohra", "Lohana", "Vagri", "Kharva", "Charan", "Baria", "Momna", "Ghanchi", "Shenva", "Bhambi Khalpa", "Zarabes", "Bhoi", "Luso-Indians", "Gujarati Americans"]
-gujjarEthnicGroup:
+  gujjarEthnicGroup:
     stringTokens: ["Gujjar", "Gurjar", "Khatana", "Solanki", "Parihar", "Tanwar", "Parmar", "chandel", "Chauhan", "Bhadana", "Bhatti", "Kohli", "Tomar", "Panwar", "Pawar", "Bainsla", "Bagri", "Hans"]
-gumuzEthnicGroup:
+  gumuzEthnicGroup:
     stringTokens: ["Gumuz"]
-gunaEthnicGroup:
+  gunaEthnicGroup:
     stringTokens: ["Guna"]
-gurageEthnicGroup:
+  gurageEthnicGroup:
     stringTokens: ["Gurage", "Kistane", "Zay", "Inor", "Mesqan", "Muher Sebat Bet", "Chaha"]
-gurindjiEthnicGroup:
+  gurindjiEthnicGroup:
     stringTokens: ["Gurindji"]
-gurmaEthnicGroup:
+  gurmaEthnicGroup:
     stringTokens: ["Gurma", "Ntcham", "Bimoba"]
-gurungsEthnicGroup:
+  gurungsEthnicGroup:
     stringTokens: ["Gurungs", "Ghale", "Gurung"]
-gurunsiEthnicGroup:
+  gurunsiEthnicGroup:
     stringTokens: ["Gurunsi", "Lukpa", "Kabye", "Tem", "Lamba", "Delo", "Bago-Kusuntu", "Chala", "Lyele", "Nuna", "Kalamse", "Pana", "Kassena", "Winye", "Deg", "Puguli", "Paasaal", "Sisaala", "Chakali", "Siti", "Tamprusi", "Vagla"]
-gwichinEthnicGroup:
+  gwichinEthnicGroup:
     stringTokens: ["Gwich'in"]
-haEthnicGroup:
+  haEthnicGroup:
     stringTokens: ["Ha"]
-hadiyaEthnicGroup:
+  hadiyaEthnicGroup:
     stringTokens: ["Hadiya"]
-hadzaEthnicGroup:
+  hadzaEthnicGroup:
     stringTokens: ["Hadza"]
-haidaEthnicGroup:
+  haidaEthnicGroup:
     stringTokens: ["Haida"]
-haislaEthnicGroup:
+  haislaEthnicGroup:
     stringTokens: ["Haisla"]
-hanEthnicGroup:
+  hanEthnicGroup:
     stringTokens: ["Hän"]
-hanChineseEthnicGroup:
+  hanChineseEthnicGroup:
     stringTokens: ["Han Chinese", "Subei", "Yue", "Cantonese", "Punti", "Taishanese", "Hongkongers", "Macau", "Namshun", "Tankas", "Hui", "Panthays", "Fujianese", "Fuzhounese", "Hoklos", "Hui'an maidens", "Putianese", "Fujianese Hongkongers", "Fokien", "Teochew", "Gaoshan Han", "Gan", "Tunbao", "Pinghua", "Hakka", "Ngai", "Dan", "Hainanese", "Hebei", "Hunanese", "Jianghuai", "Shandong", "Sichuanese", "Wu", "Shanghainese", "Ningbonese", "Wenzhounese", "Kokang Chinese", "Han Taiwanese", "Hoklo Taiwanese", "Benshengren", "Sino-Singaporeans", "Straits Chinese", "Chin Haw", "Hwagyo"]
-haniEthnicGroup:
+  haniEthnicGroup:
     stringTokens: ["Hani"]
-harariEthnicGroup:
+  harariEthnicGroup:
     stringTokens: ["Harari"]
-haratinsEthnicGroup:
+  haratinsEthnicGroup:
     stringTokens: ["Haratins"]
-hausaEthnicGroup:
+  hausaEthnicGroup:
     stringTokens: ["Hausa"]
-hawaiiansEthnicGroup:
+  hawaiiansEthnicGroup:
     stringTokens: ["Hawaiians"]
-hayaEthnicGroup:
+  hayaEthnicGroup:
     stringTokens: ["Haya"]
-hazarasEthnicGroup:
+  hazarasEthnicGroup:
     stringTokens: ["Hazaras"]
-heiltsukEthnicGroup:
+  heiltsukEthnicGroup:
     stringTokens: ["Heiltsuk"]
-hereroEthnicGroup:
+  hereroEthnicGroup:
     stringTokens: ["Herero", "OvaHimba", "Ovambanderu"]
-hinukhEthnicGroup:
+  hinukhEthnicGroup:
     stringTokens: ["Hinukh"]
-hispanicAmericansEthnicGroup:
-    stringTokens: ["Hispanic Americans", "Mexican", "Northeastern Mexican", "Northwestern Mexican", "Baja Californian", "Western Mexican", "Abajeno", "Central Mexican", "Southern Mexican", "Coastal Mexican", "Chiapaneco", "Yucateco", "Basque-Mexican", "Mexican-American", "Colombian", "Cundinamarqués", "Bogotan", "Boyacense", "Santandereano", "Huilense", "Tolimense", "Paisa", "Caucano", "Pastuso", "Valluno", "Llanero", "Amazonian Colombian", "Guajiro", "Sabanero", "Samario", "Vallenato", "Chochoano", "Tumaqueño", "Basque-Colombian", "Colombian-American", "Argentinian", "North Argentinian", "Guaranitic", "Cuyano", "Cordobes", "Puntano", "Litoraleno", "Porteno", "Patagonian", "Basque-Argentinian", "Argentinian-American]", "Peruvian [Ecuatorial Peruvian", "Coastal Peruvian", "Andean Peruvian", "Amazonian Peruvian", "Peruvian-American]", "Venezuelan [Amazonian Venezuelan", "Llanero", "Andean Venezuelan", "Western Venezuelan", "Eastern Venezuelan", "Island Venezuelan", "Caraqueno", "Zuliano", "Central Venezuelan", "Venezuelan-American", "Venezuelan-Colombian", "Chilean", "Chilean-American", "Ecuadorian" "Quiteno", "Riobambeno", "Cuencano", "Lojano", "Esmeraldeno", "Manabita", "Guayaco", "Amazonian Ecuadorian", "Ecuadorian-American", "Guatemalan", "Guatemalan-American", "Bolivian", "Bolivian-American", "Cuban", "Cuban-American", "Dominican", "Dominican-American", "Honduran", "Honduran-American", "Paraguayan", "Paraguayan-American", "Nicaraguan", "Nicaraguan-American", "Salvadoran", "Caliche", "Lenca", "Salvadoran-American", "Costa Rican", "Costa Rican-American", "Panamanian", "Panamanian-American", "Uruguayan", "Uruguayan-American", "Islenos", "Hispanic-Belizean", "Puerto Rican", "Chicano", "Nuyorican", "Tejanos", "Californios", "Neomexicanos", "Floridanos", "Isleños", "Louisiana Spanish-Creoles", "Asturian-American", "Basque-American", "Catalan-American", "Canarian-American", "Galician-American"]
-hmongEthnicGroup:
+  hispanicAmericansEthnicGroup:
+    stringTokens: ["Hispanic Americans", "Mexican", "Northeastern Mexican", "Northwestern Mexican", "Baja Californian", "Western Mexican", "Abajeno", "Central Mexican", "Southern Mexican", "Coastal Mexican", "Chiapaneco", "Yucateco", "Basque-Mexican", "Mexican-American", "Colombian", "Cundinamarqués", "Bogotan", "Boyacense", "Santandereano", "Huilense", "Tolimense", "Paisa", "Caucano", "Pastuso", "Valluno", "Llanero", "Amazonian Colombian", "Guajiro", "Sabanero", "Samario", "Vallenato", "Chochoano", "Tumaqueño", "Basque-Colombian", "Colombian-American", "Argentinian", "North Argentinian", "Guaranitic", "Cuyano", "Cordobes", "Puntano", "Litoraleno", "Porteno", "Patagonian", "Basque-Argentinian", "Argentinian-American", "Peruvian Ecuatorial Peruvian", "Coastal Peruvian", "Andean Peruvian", "Amazonian Peruvian", "Peruvian-American]", "Venezuelan Amazonian Venezuelan", "Llanero", "Andean Venezuelan", "Western Venezuelan", "Eastern Venezuelan", "Island Venezuelan", "Caraqueno", "Zuliano", "Central Venezuelan", "Venezuelan-American", "Venezuelan-Colombian", "Chilean", "Chilean-American", "Ecuadorian", "Quiteno", "Riobambeno", "Cuencano", "Lojano", "Esmeraldeno", "Manabita", "Guayaco", "Amazonian Ecuadorian", "Ecuadorian-American", "Guatemalan", "Guatemalan-American", "Bolivian", "Bolivian-American", "Cuban", "Cuban-American", "Dominican", "Dominican-American", "Honduran", "Honduran-American", "Paraguayan", "Paraguayan-American", "Nicaraguan", "Nicaraguan-American", "Salvadoran", "Caliche", "Lenca", "Salvadoran-American", "Costa Rican", "Costa Rican-American", "Panamanian", "Panamanian-American", "Uruguayan", "Uruguayan-American", "Islenos", "Hispanic-Belizean", "Puerto Rican", "Chicano", "Nuyorican", "Tejanos", "Californios", "Neomexicanos", "Floridanos", "Isleños", "Louisiana Spanish-Creoles", "Asturian-American", "Basque-American", "Catalan-American", "Canarian-American", "Galician-American"]
+  hmongEthnicGroup:
     stringTokens: ["Hmong", "A-Hmao", "Gha-Mu", "Xong", "Pa-Hng", "Hmong Americans"]
-hopiEthnicGroup:
+  hopiEthnicGroup:
     stringTokens: ["Hopi"]
-huliEthnicGroup:
+  huliEthnicGroup:
     stringTokens: ["Huli"]
-hungariansEthnicGroup:
+  hungariansEthnicGroup:
     stringTokens: ["Hungarians", "Paloc", "Matyo", "Magyarabs", "Hungarian Cumans", "Szekelys", "Bukovina Szekelys", "Csangos"]
-hunzibsEthnicGroup:
+  hunzibsEthnicGroup:
     stringTokens: ["Hunzibs"]
-hutteritesEthnicGroup:
+  hutteritesEthnicGroup:
     stringTokens: ["Hutterites", "Schmiedeleut", "Lehrerleut", "Dariusleut"]
-hutuEthnicGroup:
+  hutuEthnicGroup:
     stringTokens: ["Hutu"]
-ibanEthnicGroup:
+  ibanEthnicGroup:
     stringTokens: ["Iban", "Mualang"]
-ibanagEthnicGroup:
+  ibanagEthnicGroup:
     stringTokens: ["Ibanag"]
-ibibioEthnicGroup:
+  ibibioEthnicGroup:
     stringTokens: ["Ibibio", "Eket", "Anaang", "Oron"]
-icelandersEthnicGroup:
+  icelandersEthnicGroup:
     stringTokens: ["Icelanders"]
-idomaEthnicGroup:
+  idomaEthnicGroup:
     stringTokens: ["Idoma", "Agatu", "Alago", "Yala"]
-igboEthnicGroup:
+  igboEthnicGroup:
     stringTokens: ["Igbo", "Anioma", "Aro", "Edda", "Ekpeye", "Etche", "Ezaa", "Ika", "Ikwerre", "Ikwo", "Isu", "Izzi", "Mbaise", "Mgbo", "Ngwa", "Nri-Igbo", "Ogba", "Ohafia", "Ohuhu", "Onitsha-Ado", "Ukwuani", "Waawa", "Igbo Jews"]
-igedeEthnicGroup:
+  igedeEthnicGroup:
     stringTokens: ["Igede"]
-igorotEthnicGroup:
+  igorotEthnicGroup:
     stringTokens: ["Igorot", "Balangao", "Bontoc", "Ibaloi", "Ifugao", "Kalanguya", "Isnag", "Kalinga", "Kankanaey"]
-ijawEthnicGroup:
+  ijawEthnicGroup:
     stringTokens: ["Ijaw", "Bille", "Engenni", "Ibani", "Kalabari", "Kula", "Nkoro", "Nkoroo", "Obolo"]
-iliTurksEthnicGroup:
+  iliTurksEthnicGroup:
     stringTokens: ["Ili Turks"]
-ilocanoEthnicGroup:
+  ilocanoEthnicGroup:
     stringTokens: ["Ilocano"]
-indoCaribbeanEthnicGroup:
+  indoCaribbeanEthnicGroup:
     stringTokens: ["Indo-Caribbean", "Indo-Barbadian", "Indo-Dominican", "Indo-Grenadians", "Indo-Guadeloupeans", "Indo-Haitians", "Indo-Jamaicans", "Indo-Martiniquais", "Indo-Kittitians", "Indo-Nevisians", "Indo-Saint Lucian", "Indo-Trinidadian and Tobagonian", "Indo-Vincentian", "Indo-Belizeans", "Indo-Guyanese", "Indo-Surinamese"]
-indoFijiansEthnicGroup:
+  indoFijiansEthnicGroup:
     stringTokens: ["Indo-Fijians", "Significant populations in Australia", "New Zealand", "United States", "Canada", "and United Kingdom"]
-indoMauritiansEthnicGroup:
+  indoMauritiansEthnicGroup:
     stringTokens: ["Indo-Mauritians"]
-indusKohistanisEthnicGroup:
+  indusKohistanisEthnicGroup:
     stringTokens: ["Indus Kohistanis"]
-ingushesEthnicGroup:
+  ingushesEthnicGroup:
     stringTokens: ["Ingushes"]
-innuEthnicGroup:
+  innuEthnicGroup:
     stringTokens: ["Innu", "Naskapi"]
-inuitEthnicGroup:
+  inuitEthnicGroup:
     stringTokens: ["Inuit", "Greenlandics", "Kalaallit", "Tunumiit", "Inughuit", "Greenlandic Danes", "Inupiat", "Nunamiut", "Inuktitut", "Inuvialuit", "Iglulik Inuit", "Aivilingmiut"]
-iranunEthnicGroup:
+  iranunEthnicGroup:
     stringTokens: ["Iranun"]
-iraqiTurkmenEthnicGroup:
+  iraqiTurkmenEthnicGroup:
     stringTokens: ["Iraqi Turkmen"]
-iraqwEthnicGroup:
+  iraqwEthnicGroup:
     stringTokens: ["Iraqw"]
-irishEthnicGroup:
+  irishEthnicGroup:
     stringTokens: ["Irish", "Irish Catholics"]
-irishTravellersEthnicGroup:
+  irishTravellersEthnicGroup:
     stringTokens: ["Irish Travellers"]
-isanEthnicGroup:
+  isanEthnicGroup:
     stringTokens: ["Isan"]
-isokoEthnicGroup:
+  isokoEthnicGroup:
     stringTokens: ["Isoko"]
-istroRomaniansEthnicGroup:
+  istroRomaniansEthnicGroup:
     stringTokens: ["Istro-Romanians"]
-italiansEthnicGroup:
+  italiansEthnicGroup:
     stringTokens: ["Italians", "Molise Croats", "Dalmatian Italians", "Istrian Italians", "Niçard Italians"]
-itawesEthnicGroup:
+  itawesEthnicGroup:
     stringTokens: ["Itawes"]
-itelmensEthnicGroup:
+  itelmensEthnicGroup:
     stringTokens: ["Itelmens"]
-izhoriansEthnicGroup:
+  izhoriansEthnicGroup:
     stringTokens: ["Izhorians"]
-jamaicanMaroonsEthnicGroup:
+  jamaicanMaroonsEthnicGroup:
     stringTokens: ["Jamaican Maroons"]
-jambianEthnicGroup:
+  jambianEthnicGroup:
     stringTokens: ["Jambian", "Batin"]
-japaneseEthnicGroup:
+  japaneseEthnicGroup:
     stringTokens: ["Japanese", "Yamato", "Kantō", "Kansai", "Hokkaido", "Tōhoku", "Hōnichi", "Satsugū", "Chūgoku", "Echigo", "Tōkai", "Shinshuu", "Hokuriku", "Hachijō", "Miyakubo", "Tsugaru", "Nikkei Brazilians"]
-jaraiEthnicGroup:
+  jaraiEthnicGroup:
     stringTokens: ["Jarai"]
-jarawasEthnicGroup:
+  jarawasEthnicGroup:
     stringTokens: ["Jarawas"]
-javaneseEthnicGroup:
+  javaneseEthnicGroup:
     stringTokens: ["Javanese", "Osing", "Tenggerese", "Boyanese", "Banyumasan"]
-jeksEthnicGroup:
+  jeksEthnicGroup:
     stringTokens: ["Jeks"]
-jerusalemiteGreekChristiansEthnicGroup:
+  jerusalemiteGreekChristiansEthnicGroup:
     stringTokens: ["Jerusalemite Greek Christians"]
-jewsEthnicGroup:
+  jewsEthnicGroup:
     stringTokens: ["Jews", "Ashkenazim", "Galitzianers", "Yekke", "Litvaks", "Afrikaner-Jews", "Udmurt", "Tatar Jews", "Sephardim", "Maroka'im", "Algerian Jews", "Tunisian Jews", "Libyan Jews", "Amazonian Jews", "Iberian Jews", "Sephardic Bnei Anusim", "Toshavim]", "Mizrahim", "Bukharim", "Juhurim", "Kurdish Jews", "Syrian Jews", "Arab Jews", "Afghan Jews", "Baghdadi Jews", "Teimanim", "Sharʿabi Jews", "Habbanim", "Banu al-Harith", "Adeni Jews", "Persian Jews", "Mashhadi Jews", "and Kaifeng Jews]", "Astrakhan Jews", "Beta Israel", "Beta Abraham", "Falash Mura", "Italkim", "San Nicandro Jews", "Rusape Jews", "Romaniotes", "Constantinopolitan Karaites", "Bavlim", "Crimean Karaites", "Krymchaks", "Gruzim", "Benei Sion", "Bene Israel", "Kochinim", "Paradesi", "Lishanid Noshan", "Israeli Jews", "B'nai Moshe", "Xuetes", "Bnei Menashe", "Urfalim", "Meshuchrarim", "Abayudaya", "Shaposhniki", "Karaimites", "African-American Jews", "Desi Jews", "Bene Ephraim"]
-jingpoEthnicGroup:
+  jingpoEthnicGroup:
     stringTokens: ["Jingpo"]
-jolaEthnicGroup:
+  jolaEthnicGroup:
     stringTokens: ["Jola", "Banjaal", "Bayot", "Gusilay", "Fogni", "Karon", "Kasa", "Kuwaataay", "Mlomp"]
-jukunEthnicGroup:
+  jukunEthnicGroup:
     stringTokens: ["Jukun", "Wannu"]
-kabyleEthnicGroup:
+  kabyleEthnicGroup:
     stringTokens: ["Kabyle", ""]
-kadazanDusunEthnicGroup:
+  kadazanDusunEthnicGroup:
     stringTokens: ["Kadazan-Dusun", "Kadazan", "Dusun", "Dumpas", "Ida'an", "Kwijau", "Lotud", "Mangka'ak", "Maragang", "Minokok", "Orang Sungai", "Rumanau", "Rungus", "Tambanuo"]
-kafweTwaEthnicGroup:
+  kafweTwaEthnicGroup:
     stringTokens: ["Kafwe Twa", ""]
-kaingangEthnicGroup:
+  kaingangEthnicGroup:
     stringTokens: ["Kaingang", ""]
-kalangaEthnicGroup:
+  kalangaEthnicGroup:
     stringTokens: ["Kalanga", "Nambya"]
-kalashEthnicGroup:
+  kalashEthnicGroup:
     stringTokens: ["Kalash", ""]
-kalenjinEthnicGroup:
+  kalenjinEthnicGroup:
     stringTokens: ["Kalenjin", "Keiyo", "Tugen", "Marakwet", "Nandi", "Kipsigis", "Sabaot", "Pokoot", "Terik"]
-kalinagoEthnicGroup:
+  kalinagoEthnicGroup:
     stringTokens: ["Kalinago"]
-kalmyksEthnicGroup:
+  kalmyksEthnicGroup:
     stringTokens: ["Kalmyks", "Oirats"]
-kaluliEthnicGroup:
+  kaluliEthnicGroup:
     stringTokens: ["Kaluli"]
-kambaEthnicGroup:
+  kambaEthnicGroup:
     stringTokens: ["Kamba"]
-kamentsaEthnicGroup:
+  kamentsaEthnicGroup:
     stringTokens: ["Kamentsa"]
-kanaksEthnicGroup:
+  kanaksEthnicGroup:
     stringTokens: ["Kanaks", "Haveke", "Ajie", "Arha", "Xaragure", "Haeke"]
-kannadigasEthnicGroup:
+  kannadigasEthnicGroup:
     stringTokens: ["Kannadigas", "Vokkaliga"]
-kanuriEthnicGroup:
+  kanuriEthnicGroup:
     stringTokens: ["Kanuri", "Kanembu", "Yerwa Kanuri"]
-kaopeopleEthnicGroup:
+  kaopeopleEthnicGroup:
     stringTokens: ["Kao people", "Pagu", "Modole people", "Boeng", "Towiliko"]
-kapampangansEthnicGroup:
+  kapampangansEthnicGroup:
     stringTokens: ["Kapampangans"]
-kapsikiEthnicGroup:
+  kapsikiEthnicGroup:
     stringTokens: ["Kapsiki"]
-karamanlidesEthnicGroup:
+  karamanlidesEthnicGroup:
     stringTokens: ["Karamanlides"]
-karachaysEthnicGroup:
+  karachaysEthnicGroup:
     stringTokens: ["Karachays"]
-karakalpaksEthnicGroup:
+  karakalpaksEthnicGroup:
     stringTokens: ["Karakalpaks", "Qon'ırat", "On To'rt Urıw"]
-karatasEthnicGroup:
+  karatasEthnicGroup:
     stringTokens: ["Karatas"]
-karategin UzbeksEthnicGroup:
+  karategin UzbeksEthnicGroup:
     stringTokens: ["Karategin Uzbeks"]
-karbiEthnicGroup:
+  karbiEthnicGroup:
     stringTokens: ["Karbi", "Amri"]
-kareliansEthnicGroup:
+  kareliansEthnicGroup:
     stringTokens: ["Karelians", "Tver Karelians", "Olonets Karelians"]
-karenEthnicGroup:
+  karenEthnicGroup:
     stringTokens: ["Karen", "S'gaw Karen", "Pwo Karen", "Karenni", "Kayan", "Pa'O"]
-karukEthnicGroup:
+  karukEthnicGroup:
     stringTokens: ["Karuk"]
-kashmirisEthnicGroup:
+  kashmirisEthnicGroup:
     stringTokens: ["Kashmiris", "Kashmiri Hindus", "Kashmiri Pandits", "Kashmiris in Punjab"]
-kashubiansEthnicGroup:
+  kashubiansEthnicGroup:
     stringTokens: ["Kashubians", "Krubans", "Slovincians", "Gochans"]
-kaskaDenaEthnicGroup:
+  kaskaDenaEthnicGroup:
     stringTokens: ["Kaska Dena"]
-kawesqarEthnicGroup:
+  kawesqarEthnicGroup:
     stringTokens: ["Kawesqar"]
-kazakhsEthnicGroup:
+  kazakhsEthnicGroup:
     stringTokens: ["Kazakhs", "Uly juz", "Orta juz", "Kishi juz"]
-kereksEthnicGroup:
+  kereksEthnicGroup:
     stringTokens: ["Kereks"]
-keresEthnicGroup:
+  keresEthnicGroup:
     stringTokens: ["Keres", "Eastern Keres", "Dámáyámʾé", "Dîiwʾamʾé", "Katishtya", "Kʾúutìimʾé", "Tsʾíiyʾamʾé",  "Western Keres", "Áakʾùumʾé", "Kʾáwáigamʾé"]
-kerincianEthnicGroup:
+  kerincianEthnicGroup:
     stringTokens: ["Kerincian"]
-ketEthnicGroup:
+  ketEthnicGroup:
     stringTokens: ["Ket"]
-khakasEthnicGroup:
+  khakasEthnicGroup:
     stringTokens: ["Khakas"]
-khasEthnicGroup:
+  khasEthnicGroup:
     stringTokens: ["Khas", "Chhetri", "Thakuri", "Rana", "Vaisya", "Kami", "Damai", "Sarki", "Sunar", "Gandarbha"]
-khasiEthnicGroup:
+  khasiEthnicGroup:
     stringTokens: ["Khasi", "Pnar"]
-khinalugsEthnicGroup:
+  khinalugsEthnicGroup:
     stringTokens: ["Khinalugs"]
-khmerEthnicGroup:
+  khmerEthnicGroup:
     stringTokens: ["Khmer", "Northern Khmer people", "Khmer Krom"]
-khojaEthnicGroup:
+  khojaEthnicGroup:
     stringTokens: ["Khoja"]
-khondsEthnicGroup:
+  khondsEthnicGroup:
     stringTokens: ["Khonds"]
-khorasaniTurksEthnicGroup:
+  khorasaniTurksEthnicGroup:
     stringTokens: ["Khorasani Turks"]
-khwarshiEthnicGroup:
+  khwarshiEthnicGroup:
     stringTokens: ["Khwarshi"]
-kickapooEthnicGroup:
+  kickapooEthnicGroup:
     stringTokens: ["Kickapoo", "Tribu Kikapú", "Kickapoo Tribe in Kansas", "Kickapoo Traditional Tribe of Texas", "Kickapoo Tribe of Oklahoma"]
-kigaEthnicGroup:
+  kigaEthnicGroup:
     stringTokens: ["Kiga"]
-kikuyuEthnicGroup:
+  kikuyuEthnicGroup:
     stringTokens: ["Kikuyu"]
-kilbaEthnicGroup:
+  kilbaEthnicGroup:
     stringTokens: ["Kilba"]
-kingaEthnicGroup:
+  kingaEthnicGroup:
     stringTokens: ["Kinga"]
-kiowaEthnicGroup:
+  kiowaEthnicGroup:
     stringTokens: ["Kiowa"]
-kirantisEthnicGroup:
-    stringTokens: ["Kirantis", "Limbu", "Sunuwar", "Yakkha", "Athpare", "Rai", Kulung", "Bantawa", "Bahing"]
-kiribatiEthnicGroup:
+  kirantisEthnicGroup:
+    stringTokens: ["Kirantis", "Limbu", "Sunuwar", "Yakkha", "Athpare", "Rai", "Kulung", "Bantawa", "Bahing"]
+  kiribatiEthnicGroup:
     stringTokens: ["Kiribati"]
-kissiEthnicGroup:
+  kissiEthnicGroup:
     stringTokens: ["Kissi"]
-klallamEthnicGroup:
+  klallamEthnicGroup:
     stringTokens: ["Klallam", "Lower Elwha Klallam", "Jamestown S'Klallam", "Port Gamble S'Klallam", "Scia'new Klallam"]
-kodavaEthnicGroup:
+  kodavaEthnicGroup:
     stringTokens: ["Kodava"]
-kofyarEthnicGroup:
+  kofyarEthnicGroup:
     stringTokens: ["Kofyar"]
-komiEthnicGroup:
+  komiEthnicGroup:
     stringTokens: ["Komi", "Komi-Zyrians", "Komi-Permyaks", "Izhma Komi"]
-kongoEthnicGroup:
+  kongoEthnicGroup:
     stringTokens: ["Kongo", "Lari", "Vili", "Yombe", "Suundi", "Dondo", "Hangala", "Kugni", "Manyanga", "Beembe"]
-konjoEthnicGroup:
+  konjoEthnicGroup:
     stringTokens: ["Konjo", "Nande"]
-konkaniEthnicGroup:
+  konkaniEthnicGroup:
     stringTokens: ["Konkani", "Luso-Indians"]
-konsoEthnicGroup:
+  konsoEthnicGroup:
     stringTokens: ["Konso"]
-koreansEthnicGroup:
+  koreansEthnicGroup:
     stringTokens: ["Koreans", "North Koreans", "South Koreans", "Jeju Islanders", "Koryo-saram", "Sakhalin Koreans", "Zainichi Koreans"]
-koryaksEthnicGroup:
-    stringTokens: ["Koryaks"
-kosraeansEthnicGroup:
+  koryaksEthnicGroup:
+    stringTokens: ["Koryaks"]
+  kosraeansEthnicGroup:
     stringTokens: ["Kosraeans"]
-kpelleEthnicGroup:
+  kpelleEthnicGroup:
     stringTokens: ["Kpelle"]
-kposoEthnicGroup:
+  kposoEthnicGroup:
     stringTokens: ["Kposo"]
-kristangEthnicGroup:
+  kristangEthnicGroup:
     stringTokens: ["Kristang"]
-kruEthnicGroup:
+  kruEthnicGroup:
     stringTokens: ["Kru", "Aizi", "Bete", "Bakwe", "Grebo", "Krahn", "Sapo", "Kuwaa"]
-krytsEthnicGroup:
+  krytsEthnicGroup:
     stringTokens: ["Kryts"]
-kulinEthnicGroup:
+  kulinEthnicGroup:
     stringTokens: ["Kulin"]
-kumandinsEthnicGroup:
+  kumandinsEthnicGroup:
     stringTokens: ["Kumandins"]
-kumyksEthnicGroup:
+  kumyksEthnicGroup:
     stringTokens: ["Kumyks"]
-kumzariEthnicGroup:
+  kumzariEthnicGroup:
     stringTokens: ["Kumzari"]
-kunamaEthnicGroup:
+  kunamaEthnicGroup:
     stringTokens: ["Kunama"]
-kurdsEthnicGroup:
+  kurdsEthnicGroup:
     stringTokens: ["Kurds", "Bajalan", "Zazas", "Feylis", "Iranian Laks", "Yazidis", "Shabak", "Sheylanli", "Chalabianlu", "Muzuri", "along with significant populations in France", "Palestine", "and Germany"]
-kuriaEthnicGroup:
+  kuriaEthnicGroup:
     stringTokens: ["Kuria"]
-kurukhEthnicGroup:
+  kurukhEthnicGroup:
     stringTokens: ["Kurukh", "Kisan"]
-kutebEthnicGroup:
+  kutebEthnicGroup:
     stringTokens: ["Kuteb"]
-kwakwakawakwEthnicGroup:
+  kwakwakawakwEthnicGroup:
     stringTokens: ["Kwakwaka'wakw"]
-kwintiEthnicGroup:
+  kwintiEthnicGroup:
     stringTokens: ["Kwinti"]
-kyrgyzEthnicGroup:
+  kyrgyzEthnicGroup:
     stringTokens: ["Kyrgyz"]
-laksEthnicGroup:
+  laksEthnicGroup:
     stringTokens: ["Laks"]
-lamaholotEthnicGroup:
+  lamaholotEthnicGroup:
     stringTokens: ["Lamaholot"]
-lampungsEthnicGroup:
+  lampungsEthnicGroup:
     stringTokens: ["Lampungs"]
-laniEthnicGroup:
+  laniEthnicGroup:
     stringTokens: ["Lani"]
-laoEthnicGroup:
+  laoEthnicGroup:
     stringTokens: ["Lao"]
-larrakiaEthnicGroup:
+  larrakiaEthnicGroup:
     stringTokens: ["Larrakia"]
-latviansEthnicGroup:
+  latviansEthnicGroup:
     stringTokens: ["Latvians", "Latgalians", "Kursenieki", "Selonians"]
-lazEthnicGroup:
+  lazEthnicGroup:
     stringTokens: ["Laz", "Turkish Laz", "Georgian Laz"]
-legaEthnicGroup:
+  legaEthnicGroup:
     stringTokens: ["Lega"]
-lembaEthnicGroup:
+  lembaEthnicGroup:
     stringTokens: ["Lemba"]
-lenapeEthnicGroup:
+  lenapeEthnicGroup:
     stringTokens: ["Lenape", "Munsee", "Stockbridge Munsee", "Munsee-Delaware Nation]", "Delaware Nation", "Delaware Tribe of Indians", "Lenape Indian Tribe of Delaware", "Delaware of Six Nations", "Nanticoke Lenni-Lenape", "Ramapough Mountain Indians"]
-lencaEthnicGroup:
+  lencaEthnicGroup:
     stringTokens: ["Lenca"]
-lezginsEthnicGroup:
+  lezginsEthnicGroup:
     stringTokens: ["Lezgins"]
-lhobaEthnicGroup:
+  lhobaEthnicGroup:
     stringTokens: ["Lhoba", "Nishi", "Na", "Galo", "Mishmi people", "Tagin", "Adi"]
-lhotshampaEthnicGroup:
+  lhotshampaEthnicGroup:
     stringTokens: ["Lhotshampa"]
-liEthnicGroup:
+  liEthnicGroup:
     stringTokens: ["Li"]
-limbaEthnicGroup:
+  limbaEthnicGroup:
     stringTokens: ["Limba"]
-lipka TatarsEthnicGroup:
+  lipka TatarsEthnicGroup:
     stringTokens: ["Lipka Tatars"]
-lisuEthnicGroup:
+  lisuEthnicGroup:
     stringTokens: ["Lisu", "Lipo"]
-lithuaniansEthnicGroup:
+  lithuaniansEthnicGroup:
     stringTokens: ["Lithuanians", "Samogitians", "Aukstaitians", "Lietuvninkai"]
-livoniansEthnicGroup:
+  livoniansEthnicGroup:
     stringTokens: ["Livonians"]
-lombardsEthnicGroup:
+  lombardsEthnicGroup:
     stringTokens: ["Lombards", "Lombards of Sicily"]
-lubaEthnicGroup:
+  lubaEthnicGroup:
     stringTokens: ["Luba", "Luba-Kasai", "Luba-Katanga", "Hemba", "Bangubangu", "Songe", "Lulua"]
-luhyaEthnicGroup:
+  luhyaEthnicGroup:
     stringTokens: ["Luhya", "Bukusu", "Idakho", "Isukha", "Kabras", "Khayo", "Kisa", "Marachi", "Maragoli", "Marama", "Nyole", "Samia", "Tachoni", "Tiriki", "Tsotso", "Wanga"]
-lumbeeEthnicGroup:
+  lumbeeEthnicGroup:
     stringTokens: ["Lumbee"]
-luoEthnicGroup:
+  luoEthnicGroup:
     stringTokens: ["Luo"]
-lursEthnicGroup:
+  lursEthnicGroup:
     stringTokens: ["Lurs", "Bakhtiari", "Iranian Laks"]
-luritjaEthnicGroup:
+  luritjaEthnicGroup:
     stringTokens: ["Luritja"]
-luxembourgersEthnicGroup:
+  luxembourgersEthnicGroup:
     stringTokens: ["Luxembourgers"]
-maasaiEthnicGroup:
+  maasaiEthnicGroup:
     stringTokens: ["Maasai", "Samburu", "Arusha", "Kwavi"]
-macaneseEthnicGroup:
+  macaneseEthnicGroup:
     stringTokens: ["Macanese"]
-macedoniansEthnicGroup:
+  macedoniansEthnicGroup:
     stringTokens: ["Macedonians", "Torbesh", "Mijaks", "Brsjaks"]
-macushiEthnicGroup:
+  macushiEthnicGroup:
     stringTokens: ["Macushi"]
-madiEthnicGroup:
+  madiEthnicGroup:
     stringTokens: ["Madi"]
-madureseEthnicGroup:
+  madureseEthnicGroup:
     stringTokens: ["Madurese", "Boyanese"]
-mafaEthnicGroup:
+  mafaEthnicGroup:
     stringTokens: ["Mafa"]
-magahiEthnicGroup:
+  magahiEthnicGroup:
     stringTokens: ["Magahi"]
-magarsEthnicGroup:
+  magarsEthnicGroup:
     stringTokens: ["Magars", "Ale", "Gharti", "Chantayal", "Saru", "Pun"]
-maguindanaoEthnicGroup:
+  maguindanaoEthnicGroup:
     stringTokens: ["Maguindanao"]
-maharEthnicGroup:
+  maharEthnicGroup:
     stringTokens: ["Mahar"]
-maithilsEthnicGroup:
+  maithilsEthnicGroup:
     stringTokens: ["Maithils", "Karan Kayastha", "Brahmin", "Chhetri", "Vaisya"]
-makaaEthnicGroup:
+  makaaEthnicGroup:
     stringTokens: ["Makaa", "South Makaa", "North Makaa"]
-makahEthnicGroup:
+  makahEthnicGroup:
     stringTokens: ["Makah"]
-makassareseEthnicGroup:
+  makassareseEthnicGroup:
     stringTokens: ["Makassarese"]
-makianeseEthnicGroup:
+  makianeseEthnicGroup:
     stringTokens: ["Makianese", "Tabayama", "Jitinee"]
-makondeEthnicGroup:
+  makondeEthnicGroup:
     stringTokens: ["Makonde", "Machinga"]
-makuaEthnicGroup:
+  makuaEthnicGroup:
     stringTokens: ["Makua", "Lomwe", "Chuwabu", "Moniga", "Koti", "Nathembo"]
-malagasyEthnicGroup:
+  malagasyEthnicGroup:
     stringTokens: ["Malagasy", "Merina", "Sihanaka", "Betsileo", "Zafimaniry", "Antaifasy", "Antemoro", "Antaisaka", "Antambahoaka", "Tandroy", "Antankarana", "Antanosy", "Bara", "Betsimisaraka", "Bezanozano", "Mahafaly", "Makoa", "Mikea", "Sakalava", "Tanala", "Tsimihety", "Vezo"]
-malayaliEthnicGroup:
-    stringTokens: ["Malayali", "Ambalavasi", "Dheevara", "Nair", "Paravar", "Mappilas", "Ezhava", "Latheen Mappilas", "St. Thomas Christians"] 
-malaysEthnicGroup:
+  malayaliEthnicGroup:
+    stringTokens: ["Malayali", "Ambalavasi", "Dheevara", "Nair", "Paravar", "Mappilas", "Ezhava", "Latheen Mappilas", "St. Thomas Christians"]
+  malaysEthnicGroup:
     stringTokens: ["Malays", "Kedahans", "Pattani", "Pahang", "Pontianaks", "Terengganuarians", "Kelantanese", "Perakians", "Berau", "Loloan Malays", "Proto-Malay", "Orang Kuala", "Jakun", "Orang Rimba", "Orang Seletar", "Temuan Cape Malays", "Cocos Malays", "Bangka Malays", "Thai Malays", "Burmese Malays"]
-maldiviansEthnicGroup:
+  maldiviansEthnicGroup:
     stringTokens: ["Maldivians", "Mahls"]
-malteseEthnicGroup:
+  malteseEthnicGroup:
     stringTokens: ["Maltese", "Gozitans",]
-mambaiEthnicGroup:
+  mambaiEthnicGroup:
     stringTokens: ["Mambai"]
-mambilaEthnicGroup:
+  mambilaEthnicGroup:
     stringTokens: ["Mambila", "Somyev"]
-manavsEthnicGroup:
+  manavsEthnicGroup:
     stringTokens: ["Manavs"]
-manchusEthnicGroup:
+  manchusEthnicGroup:
     stringTokens: ["Manchus"]
-mandaeansEthnicGroup:
+  mandaeansEthnicGroup:
     stringTokens: ["Mandaeans"]
-mandareseEthnicGroup:
+  mandareseEthnicGroup:
     stringTokens: ["Mandarese"]
-mandinkaEthnicGroup:
+  mandinkaEthnicGroup:
     stringTokens: ["Mandinka", "Bolon"]
-mangaloreanCatholicsEthnicGroup:
+  mangaloreanCatholicsEthnicGroup:
     stringTokens: ["Mangalorean Catholics"]
-manggaraiEthnicGroup:
+  manggaraiEthnicGroup:
     stringTokens: ["Manggarai"]
-manjakEthnicGroup:
+  manjakEthnicGroup:
     stringTokens: ["Manjak"]
-manxEthnicGroup:
+  manxEthnicGroup:
     stringTokens: ["Manx"]
-maoriEthnicGroup:
+  maoriEthnicGroup:
     stringTokens: ["Māori", "Māori Indians"]
-mappila MuslimsEthnicGroup:
+  mappila MuslimsEthnicGroup:
     stringTokens: ["Mappila Muslims"]
-mapucheEthnicGroup:
+  mapucheEthnicGroup:
     stringTokens: ["Mapuche", "Huilliche", "Moluche", "Pehuenche"]
-maranaoEthnicGroup:
+  maranaoEthnicGroup:
     stringTokens: ["Maranao"]
-marathiEthnicGroup:
+  marathiEthnicGroup:
     stringTokens: ["Marathi", "Mahar", "Maratha", "Kunbi", "Dhangar", "Bhoi"]
-marisEthnicGroup:
+  marisEthnicGroup:
     stringTokens: ["Maris", "Meadow Mari", "Hill Mari", "Northwestern Mari", "Eastern Mari", "Mountain Mari"]
-maronitesEthnicGroup:
+  maronitesEthnicGroup:
     stringTokens: ["Maronites"]
-marquesasIslandersEthnicGroup:
+  marquesasIslandersEthnicGroup:
     stringTokens: ["Marquesas Islanders"]
-marshalleseEthnicGroup:
+  marshalleseEthnicGroup:
     stringTokens: ["Marshallese"]
-masaEthnicGroup:
+  masaEthnicGroup:
     stringTokens: ["Masa"]
-masalitEthnicGroup:
+  masalitEthnicGroup:
     stringTokens: ["Masalit"]
-matawaiEthnicGroup:
+  matawaiEthnicGroup:
     stringTokens: ["Matawai"]
-mauritian CreolesEthnicGroup:
+  mauritian CreolesEthnicGroup:
     stringTokens: ["Mauritian Creoles"]
-mayaEthnicGroup:
+  mayaEthnicGroup:
     stringTokens: ["Maya", "Maya", "Achi", "Chuj", "Chʼortiʼ", "Itza", "Kʼicheʼ", "Qʼeqchiʼ", "Xinca", "Tektitek", "Huastecan", "Mopan", "Lacandon", "Chontal", "Akatek", "Jakaltek", "Qʼanjobʼal", "Tzeltal", "Mochoʼ", "Tojolab'al", "Mam", "Ixil", "Tzotzil", "Poqomam", "Yucatecan Maya", "Motozintlecos", "Awakatek", "Kaqchikel", "Sakapultek", "Sipakapense", "Uspantek", "Chʼol", "and Tzʼutujil"]
-mazahuaEthnicGroup:
+  mazahuaEthnicGroup:
     stringTokens: ["Mazahua"]
-mazandaranisEthnicGroup:
+  mazandaranisEthnicGroup:
     stringTokens: ["Mazandaranis"]
-mazatecEthnicGroup:
+  mazatecEthnicGroup:
     stringTokens: ["Mazatec", "Ayautla"]
-mbakaEthnicGroup:
+  mbakaEthnicGroup:
     stringTokens: ["Mbaka"]
-megleno-RomaniansEthnicGroup:
+  megleno-RomaniansEthnicGroup:
     stringTokens: ["Megleno-Romanians"]
-mehriEthnicGroup:
+  mehriEthnicGroup:
     stringTokens: ["Mehri"]
-meiteiEthnicGroup:
+  meiteiEthnicGroup:
     stringTokens: ["Meitei", "Loi"]
-melanauEthnicGroup:
+  melanauEthnicGroup:
     stringTokens: ["Melanau"]
-melungeonsEthnicGroup:
+  melungeonsEthnicGroup:
     stringTokens: ["Melungeons", "Carmel Indians"]
-mendeEthnicGroup:
+  mendeEthnicGroup:
     stringTokens: ["Mende"]
-mennonitesEthnicGroup:
+  mennonitesEthnicGroup:
     stringTokens: ["Mennonites", "Russian Mennonites", "Old Order Mennonites", "Old Colony Mennonites"]
-metisEthnicGroup:
+  metisEthnicGroup:
     stringTokens: ["Métis", "Anglo-Metis"]
-miamiEthnicGroup:
+  miamiEthnicGroup:
     stringTokens: ["Miami"]
-mienEthnicGroup:
+  mienEthnicGroup:
     stringTokens: ["Mien", "Iu Mien", "Kim Mun", "Dzao Min", "Biao Min", "Bunu", "Lakkia", "Biao Mon", "San Diu"]
-mijikendaEthnicGroup:
+  mijikendaEthnicGroup:
     stringTokens: ["Mijikenda", "Chonyi", "Giriama", "Digo", "Segeju", "Rabai"]
-minahasanEthnicGroup:
+  minahasanEthnicGroup:
     stringTokens: ["Minahasan", "Tonsawang", "Tontemboan", "Tondano", "Tombulu", "Tonsea"]
-minangkabauEthnicGroup:
+  minangkabauEthnicGroup:
     stringTokens: ["Minangkabau", "Overseas Minangkabau"]
-misakEthnicGroup:
+  misakEthnicGroup:
     stringTokens: ["Misak"]
-misharTatarsEthnicGroup:
+  misharTatarsEthnicGroup:
     stringTokens: ["Mishar Tatars"]
-misingEthnicGroup:
+  misingEthnicGroup:
     stringTokens: ["Mising"]
-miskitoEthnicGroup:
+  miskitoEthnicGroup:
     stringTokens: ["Miskito", "Miskito Sambu"]
-mixeEthnicGroup:
+  mixeEthnicGroup:
     stringTokens: ["Mixe"]
-mixtecEthnicGroup:
+  mixtecEthnicGroup:
     stringTokens: ["Mixtec", "Triqui", "Cuicatecs", "Amoltepec"]
-mikmaqEthnicGroup:
+  mikmaqEthnicGroup:
     stringTokens: ["Mi'kmaq", "Mi'kmaq Nation"]
-mohawkEthnicGroup:
+  mohawkEthnicGroup:
     stringTokens: ["Mohawk"]
-mokenEthnicGroup:
+  mokenEthnicGroup:
     stringTokens: ["Moken"]
-moldovansEthnicGroup:
+  moldovansEthnicGroup:
     stringTokens: ["Moldovans"]
-molokansEthnicGroup:
+  molokansEthnicGroup:
     stringTokens: ["Molokans"]
-monEthnicGroup:
+  monEthnicGroup:
     stringTokens: ["Mon"]
-monegasquesEthnicGroup:
+  monegasquesEthnicGroup:
     stringTokens: ["Monegasques"]
-mongoEthnicGroup:
+  mongoEthnicGroup:
     stringTokens: ["Mongo", "Bolia", "Ntomba", "Ngando", "Iyaelima", "Mbole", "Mpama", "Nkutu", "Sengele", "Hendo", "Dengese", "Tetela"]
-mongolsEthnicGroup:
+  mongolsEthnicGroup:
     stringTokens: ["Mongols", "Khalkha", "Oirats", "Daur", "Moghols", "Hamnigan", "Tsagaan", "Yugur", "Khatso", "Bonan", "Sichuan Mongols", "Sogwo Arig", "Altai Uriankhai", "Ordos", "Kanja", "Sogwo Arig", "Mughals", "Santa", "Naimans", "Dariganga", "Khorchin", "Kharchin", "Koke Nuur", "Chaharian", "Jalairs", "Gorlos", "Sartuul", "Myangad", "Tubalar", "Uzemchin", "Uradian", "Tumed", "Baarins", "Zakhchin", "Hishigten", "Dorbet", "Muumyangan", "Jalaids", "Abaganar", "Chantuu", "Olot", "Sunud", "Eastern Dorbet", "Aohans", "Onnigud", "Khoshut", "Abagas", "Khotons", "Alasha", "Khoid", "Eljigin", "Choros", "Qaidam", "Fujin"]
-mongondowEthnicGroup:
+  mongondowEthnicGroup:
     stringTokens: ["Mongondow"]
-montenegrinsEthnicGroup:
+  montenegrinsEthnicGroup:
     stringTokens: ["Montenegrins"]
-moraviansEthnicGroup:
+  moraviansEthnicGroup:
     stringTokens: ["Moravians"]
-morioriEthnicGroup:
+  morioriEthnicGroup:
     stringTokens: ["Moriori"]
-mossiEthnicGroup:
+  mossiEthnicGroup:
     stringTokens: ["Mossi"]
-mosuoEthnicGroup:
+  mosuoEthnicGroup:
     stringTokens: ["Mosuo"]
-motuEthnicGroup:
+  motuEthnicGroup:
     stringTokens: ["Motu"]
-mughalEthnicGroup:
+  mughalEthnicGroup:
     stringTokens: ["Mughal"]
-muhajirEthnicGroup:
+  muhajirEthnicGroup:
     stringTokens: ["Muhajir"]
-mumuyeEthnicGroup:
+  mumuyeEthnicGroup:
     stringTokens: ["Mumuye"]
-munaneseEthnicGroup:
+  munaneseEthnicGroup:
     stringTokens: ["Munanese"]
-mundasEthnicGroup:
+  mundasEthnicGroup:
     stringTokens: ["Mundas", "Sabar", "Mahali"]
-murutEthnicGroup:
+  murutEthnicGroup:
     stringTokens: ["Murut", "Okolod", "Keningau", "Tagal", "Paluan", "Selungai", "Timugon", "Serudung", "Sembakung", "Tidong", "Kalabakan", "Bulungan", "Bookan"]
-muscogeeEthnicGroup:
+  muscogeeEthnicGroup:
     stringTokens: ["Muscogee", "Thlopthlocco", "Kialegee", "Muscogee Nation", "Poarch Band", "Lower Muskogee Creek Tribe", "Creek Freedmen"]
-musgumEthnicGroup:
+  musgumEthnicGroup:
     stringTokens: ["Musgum"]
-muslimaniEthnicGroup:
+  muslimaniEthnicGroup:
     stringTokens: ["Muslimani"]
-mweraEthnicGroup:
+  mweraEthnicGroup:
     stringTokens: ["Mwera"]
-nagasEthnicGroup:
+  nagasEthnicGroup:
     stringTokens: ["Nagas", "Angami", "Ao", "Chakhesang", "Chokri", "Khezha", "Chang", "Khiamniungan", "Konyak", "Lotha", "Mao", "Maram", "Maring", "Nocte", "Phom", "Pochury", "Poumai", "Rengma", "Sangtam", "Sumi", "Tangkhul", "Tangsa", "Tikhir", "Wancho", "Yimkhiung", "Zeliangrong", "Zemi", "Liangmei", "Rongmei/Kabui]", "Lamkang Naga"]
-nagpuriEthnicGroup:
+  nagpuriEthnicGroup:
     stringTokens: ["Nagpuri", "Chik Baraik"]
-nahuasEthnicGroup:
+  nahuasEthnicGroup:
     stringTokens: ["Nahuas", "Huasteca Nahuas", "Mexicaneros", "Sierra Puebla Nahuas", "Guerrero Nahuas", "Orizaba Nahuas", "Southeastern Puebla Nahuas", "Central Nahuas", "Pipil"]
-nakodaEthnicGroup:
+  nakodaEthnicGroup:
     stringTokens: ["Nakoda", "Wood Stoney", "Mountain Stoney"]
-namaEthnicGroup:
+  namaEthnicGroup:
     stringTokens: ["Nama", "Oorlams"]
-nanaiEthnicGroup:
+  nanaiEthnicGroup:
     stringTokens: ["Nanai"]
-nasoEthnicGroup:
+  nasoEthnicGroup:
     stringTokens: ["Naso"]
-natchezEthnicGroup:
+  natchezEthnicGroup:
     stringTokens: ["Natchez", "Eastern Band"]
-nauruansEthnicGroup:
+  nauruansEthnicGroup:
     stringTokens: ["Nauruans"]
-navajoEthnicGroup:
+  navajoEthnicGroup:
     stringTokens: ["Navajo"]
-nenetsEthnicGroup:
+  nenetsEthnicGroup:
     stringTokens: ["Nenets", "Nganasans", "Selkups"]
-newarsEthnicGroup:
+  newarsEthnicGroup:
     stringTokens: ["Newars", "Rajupadhaya", "Rajbhandari", "Pradhan", "Malla", "Shrestha", "Shakya", "Chitrakar"]
-nezPerceEthnicGroup:
+  nezPerceEthnicGroup:
     stringTokens: ["Nez Perce"]
-ngabeEthnicGroup:
+  ngabeEthnicGroup:
     stringTokens: ["Ngabe"]
-ngajuEthnicGroup:
+  ngajuEthnicGroup:
     stringTokens: ["Ngaju", "Bakumpai", "Meratus"]
-ngalopEthnicGroup:
+  ngalopEthnicGroup:
     stringTokens: ["Ngalop", "Kheng", "Bumthang"]
-ngbandiEthnicGroup:
+  ngbandiEthnicGroup:
     stringTokens: ["Ngbandi", "Yakoma"]
-niasEthnicGroup:
+  niasEthnicGroup:
     stringTokens: ["Nias"]
-nicobareseEthnicGroup:
+  nicobareseEthnicGroup:
     stringTokens: ["Nicobarese"]
-nipmucsEthnicGroup:
+  nipmucsEthnicGroup:
     stringTokens: ["Nipmucs", "Chaubunagungamaug Nipmuck", "Hassanamisco Nipmuc", "Nipmuc Nation"]
-niueansEthnicGroup:
+  niueansEthnicGroup:
     stringTokens: ["Niueans"]
-nivkhsEthnicGroup:
+  nivkhsEthnicGroup:
     stringTokens: ["Nivkhs"]
-nkoleEthnicGroup:
+  nkoleEthnicGroup:
     stringTokens: ["Nkole"]
-nogaisEthnicGroup:
+  nogaisEthnicGroup:
     stringTokens: ["Nogais", "Ak Nogai", "Karagash"]
-norfolkIslandersEthnicGroup:
+  norfolkIslandersEthnicGroup:
     stringTokens: ["Norfolk Islanders"]
-norwegiansEthnicGroup:
+  norwegiansEthnicGroup:
     stringTokens: ["Norwegians", "Kola Norwegians", "Svalbarders"]
-nubiansEthnicGroup:
+  nubiansEthnicGroup:
     stringTokens: ["Nubians", "Nobiin", "Mattokki", "Dongolawi", "Midob", "Birgid", "Hill Nubians", "Dilling", "Debri", "Ghulfan", "Kadaru", "Karko", "Wali"]
-nuerEthnicGroup:
+  nuerEthnicGroup:
     stringTokens: ["Nuer"]
-nungEthnicGroup:
+  nungEthnicGroup:
     stringTokens: ["Nung"]
-nuristanisEthnicGroup:
+  nuristanisEthnicGroup:
     stringTokens: ["Nuristanis", "Safed-Posh Kaffirs", "Askunis", "Kamkata-viris", "Kata", "Kom"]
-nuuchahnulthEthnicGroup:
+  nuuchahnulthEthnicGroup:
     stringTokens: ["Nuu-chah-nulth"]
-nuxalkEthnicGroup:
+  nuxalkEthnicGroup:
     stringTokens: ["Nuxalk"]
-nyishiEthnicGroup:
+  nyishiEthnicGroup:
     stringTokens: ["Nyishi"]
-obeikei IslandersEthnicGroup:
+  obeikei IslandersEthnicGroup:
     stringTokens: ["Ōbeikei Islanders"]
-occitansEthnicGroup:
+  occitansEthnicGroup:
     stringTokens: ["Occitans", "Aranese", "Auvergnats", "Provencals", "Languedociens", "Gascons", "Nicois", "Guardiota", "Monégasque Occitans"]
-odiaEthnicGroup:
+  odiaEthnicGroup:
     stringTokens: ["Odia", "Utkala Brahmins", "Khandayat", "Bonaz", "Badu", "Bairagi", "Oriya",  "Barika", "Chaikwa", "Chatarkheya", "Dhobi"]
-ogiekEthnicGroup:
+  ogiekEthnicGroup:
     stringTokens: ["Ogiek"]
-ogoniEthnicGroup:
+  ogoniEthnicGroup:
     stringTokens: ["Ogoni", "Baan", "Eleme", "Gokana", "Tẹẹ"]
-ojibweEthnicGroup:
+  ojibweEthnicGroup:
     stringTokens: ["Ojibwe", "Mississaugas", "Saulteaux", "Findians"]
-okuEthnicGroup:
+  okuEthnicGroup:
     stringTokens: ["Oku"]
-oneidaEthnicGroup:
+  oneidaEthnicGroup:
     stringTokens: ["Oneida"]
-ongeEthnicGroup:
+  ongeEthnicGroup:
     stringTokens: ["Onge"]
-ormursEthnicGroup:
+  ormursEthnicGroup:
     stringTokens: ["Ormurs"]
-oromoEthnicGroup:
+  oromoEthnicGroup:
     stringTokens: ["Oromo", "Boorana", "Barento", "Salale", "Machaa", "Arsi", "Wollo"]
-ossetiansEthnicGroup:
+  ossetiansEthnicGroup:
     stringTokens: ["Ossetians", "Iron", "Digor", "Jasz", "Kudar", "Trialeti Ossetians"]
-otDanumEthnicGroup:
+  otDanumEthnicGroup:
     stringTokens: ["Ot Danum", "Lawangan", "Ma'anyan"]
-otomiEthnicGroup:
+  otomiEthnicGroup:
     stringTokens: ["Otomi"]
-ovamboEthnicGroup:
+  ovamboEthnicGroup:
     stringTokens: ["Ovambo"]
-ovimbunduEthnicGroup:
+  ovimbunduEthnicGroup:
     stringTokens: ["Ovimbundu"]
-palauEthnicGroup:
+  palauEthnicGroup:
     stringTokens: ["Palau"]
-palawaEthnicGroup:
+  palawaEthnicGroup:
     stringTokens: ["Palawa"]
-pamirisEthnicGroup:
+  pamirisEthnicGroup:
     stringTokens: ["Pamiris", "Shughni", "Sarikoli", "Yazghulami", "Munji", "Yidgha", "Sanglechi", "Ishkashimi"]
-pangasineseEthnicGroup:
+  pangasineseEthnicGroup:
     stringTokens: ["Pangasinese"]
-papelEthnicGroup:
+  papelEthnicGroup:
     stringTokens: ["Papel"]
-parachisEthnicGroup:
+  parachisEthnicGroup:
     stringTokens: ["Parachis"]
-paramaccanEthnicGroup:
+  paramaccanEthnicGroup:
     stringTokens: ["Paramaccan"]
-pardoEthnicGroup:
+  pardoEthnicGroup:
     stringTokens: ["Pardo"]
-pareEthnicGroup:
+  pareEthnicGroup:
     stringTokens: ["Pare"]
-parsisEthnicGroup:
+  parsisEthnicGroup:
     stringTokens: ["Parsis"]
-pashayiEthnicGroup:
+  pashayiEthnicGroup:
     stringTokens: ["Pashayi"]
-pashtunsEthnicGroup:
+  pashtunsEthnicGroup:
     stringTokens: ["Pashtuns", "Kakar", "Ghilji", "Lodi", "Niazi", "Hotak",  "Babai", "Lohani", "Marwat", "Punjabi Pathans", "Tareen", "Bettani", "Afridi", "Bangash", "Durrani"]
-pataxoEthnicGroup:
+  pataxoEthnicGroup:
     stringTokens: ["Pataxo"]
-pediEthnicGroup:
+  pediEthnicGroup:
     stringTokens: ["Pedi"]
-pendeEthnicGroup:
+  pendeEthnicGroup:
     stringTokens: ["Pende"]
-pennsylvaniaDutchEthnicGroup:
+  pennsylvaniaDutchEthnicGroup:
     stringTokens: ["Pennsylvania Dutch", "Schwenkfelders", "River Brethren", "Yorker Brethren"]
-persiansEthnicGroup:
+  persiansEthnicGroup:
     stringTokens: ["Persians", "Arab-Persians", "Achomi", "Sistanis", "Dezfulis", "Shushtaris"]
-piapocoEthnicGroup:
+  piapocoEthnicGroup:
     stringTokens: ["Piapoco"]
-piedNoirEthnicGroup:
+  piedNoirEthnicGroup:
     stringTokens: ["Pied-Noir"]
-pitcairnIslandersEthnicGroup:
+  pitcairnIslandersEthnicGroup:
     stringTokens: ["Pitcairn Islanders"]
-pitjantjaraEthnicGroup:
+  pitjantjaraEthnicGroup:
     stringTokens: ["Pitjantjara"]
-podlashuksEthnicGroup:
+  podlashuksEthnicGroup:
     stringTokens: ["Podlashuks"]
-pohnpeianEthnicGroup:
+  pohnpeianEthnicGroup:
     stringTokens: ["Pohnpeian"]
-polesEthnicGroup:
+  polesEthnicGroup:
     stringTokens: ["Poles", "Podlachians", "Masurians", "Masovians", "Łowiczans", "Greater Polish", "Kaliszans", "Kuyavians", "Kuyavian Borowiaks", "Taśtaks", "Lesser Polish", "Cracovians", "Lasovians", "Lublinians", "Sandomierzans", "Poborzans", "Kurpie", "Bug River Poles", "Bambers", "Kociewians", "Łęczycans", "Polish Uplanders", "Sieradzans", "Warmians"]
-portugueseEthnicGroup:
+  portugueseEthnicGroup:
     stringTokens: ["Portuguese", "Alentejans", "Algarveans", "Azoreans", "Beiroes", "Madeirans", "Mindericos", "Minhotos", "Ribatejanos", "Transmontanos"]
-portiguaraEthnicGroup: 
+  portiguaraEthnicGroup:
     stringTokens: ["Potiguara"]
-punjabisEthnicGroup:
+  punjabisEthnicGroup:
     stringTokens: ["Punjabis", "Arain", "Awan", "Gujjars", "Jat", "Khatris", "Punjabi Rajputs", "Sikhs"]
-purepechaEthnicGroup:
+  purepechaEthnicGroup:
     stringTokens: ["Purepecha"]
-qaraiTurksEthnicGroup:
+  qaraiTurksEthnicGroup:
     stringTokens: ["Qarai Turks"]
-qashqaiEthnicGroup:
+  qashqaiEthnicGroup:
     stringTokens: ["Qashqai"]
-qiangEthnicGroup:
+  qiangEthnicGroup:
     stringTokens: ["Qiang"]
-quechanEthnicGroup:
+  quechanEthnicGroup:
     stringTokens: ["Quechan"]
-quechuaEthnicGroup:
+  quechuaEthnicGroup:
     stringTokens: ["Quechua", "Ayacucho", "Cajamarca–Canaris", "Central", "Chachapoyas", "Cusco", "Inga", "Kichwa", "Lamas", "North Bolivian", "Pacaraos", "Puno", "Santiagueno", "South Bolivian"]
-quileuteEthnicGroup:
+  quileuteEthnicGroup:
     stringTokens: ["Quileute"]
-rabariEthnicGroup:
+  rabariEthnicGroup:
     stringTokens: ["Rabari"]
-qullaEthnicGroup:
+  qullaEthnicGroup:
     stringTokens: ["Qulla"]
-radeEthnicGroup:
+  radeEthnicGroup:
     stringTokens: ["Rade"]
-raizalEthnicGroup:
+  raizalEthnicGroup:
     stringTokens: ["Raizal"]
-rajasthanisEthnicGroup:
+  rajasthanisEthnicGroup:
     stringTokens: ["Rajasthanis", "Charan", "Kachhi", "Marwari", "Meena", "Rajputs", "Chandels", "Mahyavanshi", "Molesalam"]
-rajbongshiEthnicGroup:
+  rajbongshiEthnicGroup:
     stringTokens: ["Rajbongshi"]
-rakhineEthnicGroup:
+  rakhineEthnicGroup:
     stringTokens: ["Rakhine", "Marma"]
-rapaNuiEthnicGroup:
+  rapaNuiEthnicGroup:
     stringTokens: ["Rapa Nui"]
-redbonesEthnicGroup:
+  redbonesEthnicGroup:
     stringTokens: ["Redbones"]
-reisendeEthnicGroup:
+  reisendeEthnicGroup:
     stringTokens: ["Reisende"]
-rejangeseEthnicGroup:
+  rejangeseEthnicGroup:
     stringTokens: ["Rejangese"]
-rendilleEthnicGroup:
+  rendilleEthnicGroup:
     stringTokens: ["Rendille"]
-rhodesiansEthnicGroup:
+  rhodesiansEthnicGroup:
     stringTokens: ["Rhodesians"]
-rifiansEthnicGroup:
+  rifiansEthnicGroup:
     stringTokens: ["Rifians"]
-rohingyasEthnicGroup:
+  rohingyasEthnicGroup:
     stringTokens: ["Rohingyas"]
-romaEthnicGroup:
+  romaEthnicGroup:
     stringTokens: ["Roma", "Kalderash", "Iberian Cales", "Spanish Cales", "Portuguese Cales", "Brazilian Cales", "Erromintxela", "Finnish Kale", "Welsh Kale", "Romanichal", "Scottish Romanichal Travellers", "Lowland Scottish Travellers", "Sinti",  "Manouches", "Belaruska Roma", "Litovska Roma", "Lotfitka Roma", "Ruska Roma", "Crimean Roma", "Gurbeti", "Xoraxane Roma", "Turkish Roma", "Zargari", "Arlije", "Romanisal", "Bergitka Roma", "Polska Roma", "Cascarots", "Ursari", "Romanlar", "Sepetçi", "Ayjides", "Yerli", "Çerge", "Wallachian Roma", "Servitka Roma", "Lovari", "Boyash"]
-romaniansEthnicGroup:
+  romaniansEthnicGroup:
     stringTokens: ["Romanians", "Wallachians",  "Oltenians", "Muntenians", "Moldavians"]
-romanshEthnicGroup:
+  romanshEthnicGroup:
     stringTokens: ["Romansh"]
-roteneseEthnicGroup:
+  roteneseEthnicGroup:
     stringTokens: ["Rotenese", "Dela", "Oenale"]
-russiansEthnicGroup:
-    stringTokens: ["Russians", "Caucasus Russians", "Cossacks", "Kuban Cossacks", "Nekrasov Cossacks", "Pomors", "Lipovans", "Subbotniks", "Molokans", "Subbotnik Molokans"] 
-rusynEthnicGroup:
+  russiansEthnicGroup:
+    stringTokens: ["Russians", "Caucasus Russians", "Cossacks", "Kuban Cossacks", "Nekrasov Cossacks", "Pomors", "Lipovans", "Subbotniks", "Molokans", "Subbotnik Molokans"]
+  rusynEthnicGroup:
     stringTokens: ["Rusyns", "Pannonian Rusyns", "Lemkos", "Hutsuls", "Boykos"]
-ryukyuansEthnicGroup:
+  ryukyuansEthnicGroup:
     stringTokens: ["Ryukyuans", "Amami",  "Kikai", "Amami Ōshima", "Setouchi", "Tokunoshima", "Okinoerabu", "Yoron", "Okinawans", "Kunigami", "Miyakoans", "Tarama", "Yaeyama", "Yonaguni"]
-sahoEthnicGroup:
+  sahoEthnicGroup:
     stringTokens: ["Saho"]
-sahrawisEthnicGroup:
+  sahrawisEthnicGroup:
     stringTokens: ["Sahrawis", "Reguibat", "Oulad Delim", "Oulad Tidrarin", "Laaroussien", "Tekna", "Tajakant", "Aït Oussa"]
-sahtuEthnicGroup:
+  sahtuEthnicGroup:
     stringTokens: ["Sahtu"]
-saintHeleniansEthnicGroup:
+  saintHeleniansEthnicGroup:
     stringTokens: ["Saint Helenians"]
-saintThomasChristiansEthnicGroup:
+  saintThomasChristiansEthnicGroup:
     stringTokens: ["Saint Thomas Christians", "Knanayas"]
-sakizayaEthnicGroup:
+  sakizayaEthnicGroup:
     stringTokens: ["Sakizaya"]
-salarEthnicGroup:
+  salarEthnicGroup:
     stringTokens: ["Salar"]
-salinanEthnicGroup:
+  salinanEthnicGroup:
     stringTokens: ["Salinan"]
-samaBajauEthnicGroup:
+  samaBajauEthnicGroup:
     stringTokens: ["Sama-Bajau", "Sama", "Bajaw", "Abaknon"]
-samanaAmericansEthnicGroup:
+  samanaAmericansEthnicGroup:
     stringTokens: ["Samana Americans"]
-samaritansEthnicGroup:
+  samaritansEthnicGroup:
     stringTokens: ["Samaritans"]
-sambalEthnicGroup:
+  sambalEthnicGroup:
     stringTokens: ["Sambal", "Bolinao", "Botolan", "Banguingui"]
-samiEthnicGroup:
+  samiEthnicGroup:
     stringTokens: ["Sámi", "Inari Sámi", "Kildin Sámi", "Lule Sámi", "Northern Sámi", "Pite Sámi", "Skolt Sámi", "Southern Sámi", "Ter Sámi", "Ume Sámi", "Akkala Sámi"]
-sammarineseEthnicGroup:
+  sammarineseEthnicGroup:
     stringTokens: ["Sammarinese"]
-samoansEthnicGroup:
+  samoansEthnicGroup:
     stringTokens: ["Samoans", "American Samoans"]
-sandaweEthnicGroup:
+  sandaweEthnicGroup:
     stringTokens: ["Sandawe"]
-sangireseEthnicGroup:
+  sangireseEthnicGroup:
     stringTokens: ["Sangirese"]
-santalEthnicGroup:
+  santalEthnicGroup:
     stringTokens: ["Santal"]
-saraEthnicGroup:
+  saraEthnicGroup:
     stringTokens: ["Sara", "Ngambay", "Doba", "Laka", "Kabba", "Sar", "Mbay", "Ngam", "Dagba", "Gulay"]
-saramakaEthnicGroup:
+  saramakaEthnicGroup:
     stringTokens: ["Saramaka"]
-sardiniansEthnicGroup:
+  sardiniansEthnicGroup:
     stringTokens: ["Sardinians", "Logudorese", "Campidanese", "Sassarese", "Gallurese"]
-sasakEthnicGroup:
+  sasakEthnicGroup:
     stringTokens: ["Sasak"]
-saurashtrasEthnicGroup:
+  saurashtrasEthnicGroup:
     stringTokens: ["Saurashtras"]
-savuEthnicGroup:
+  savuEthnicGroup:
     stringTokens: ["Savu"]
-scotsEthnicGroup:
+  scotsEthnicGroup:
     stringTokens: ["Scots", "Ulster Scots", "Shetlanders", "Highlanders", "Lowlanders"]
-seminolesEthnicGroup:
+  seminolesEthnicGroup:
     stringTokens: ["Seminoles", "Oklahoma Seminoles", "Black Seminoles", "Macogos", "Florida Seminoles"]
-semnanisEthnicGroup:
+  semnanisEthnicGroup:
     stringTokens: ["Semnanis", "Biyabunakis", "Sangsaris", "Sorkheis", "Aftaris", "Lasgerdis"]
-senufoEthnicGroup:
+  senufoEthnicGroup:
     stringTokens: ["Senufo", "Nafana", "Minyanka"]
-serbsEthnicGroup:
+  serbsEthnicGroup:
     stringTokens: ["Serbs", "Kosovo Serbs", "Montenegrin Serbs", "Croatian Serbs", "Bosnian Serbs", "Macedonian Serbs", "Romanian Serbs", "Hungarian Serbs", "Albanian Serbs", "Bulgarian Serbs", "Slovenian Serbs", "Vojvodinian Serbs", "Triestine Serbs", "Serb Muslims"]
-sererEthnicGroup:
+  sererEthnicGroup:
     stringTokens: ["Serer", "Laalaa", "Ndut", "Niominka", "Serer-Noon", "Palor", "Saafi"]
-seychellois CreolesEthnicGroup:
+  seychellois CreolesEthnicGroup:
     stringTokens: ["Seychellois Creoles"]
-shanEthnicGroup:
+  shanEthnicGroup:
     stringTokens: ["Shan"]
-sharchopsEthnicGroup:
+  sharchopsEthnicGroup:
     stringTokens: ["Sharchops"]
-shawneeEthnicGroup:
+  shawneeEthnicGroup:
     stringTokens: ["Shawnee", "United Remnant Band", "Absentee Shawnee", "Eastern Shawnee", "Piqua Shawnee", "Shawnee Tribe"]
-sherbroEthnicGroup:
+  sherbroEthnicGroup:
     stringTokens: ["Sherbro"]
-shilhaEthnicGroup:
+  shilhaEthnicGroup:
     stringTokens: ["Shilha"]
-shillukEthnicGroup:
+  shillukEthnicGroup:
     stringTokens: ["Shilluk", "Gule"]
-shinaEthnicGroup:
+  shinaEthnicGroup:
     stringTokens: ["Shina", "Kohistani Shina"]
-shiraziEthnicGroup:
+  shiraziEthnicGroup:
     stringTokens: ["Shirazi", "Zanzibaris", "Maore"]
-shirianaEthnicGroup:
+  shirianaEthnicGroup:
     stringTokens: ["Shiriana", "Auake"]
-shompenEthnicGroup:
+  shompenEthnicGroup:
     stringTokens: ["Shompen"]
-shonaEthnicGroup:
+  shonaEthnicGroup:
     stringTokens: ["Shona", "Manyika", "Ndau"]
-shorsEthnicGroup:
+  shorsEthnicGroup:
     stringTokens: ["Shors"]
-shoshoneEthnicGroup:
+  shoshoneEthnicGroup:
     stringTokens: ["Shoshone", "Eastern Shoshone", "Northern Shoshone", "Western Shoshone", "Goshute"]
-sibeEthnicGroup:
+  sibeEthnicGroup:
     stringTokens: ["Sibe"]
-siberianTatarsEthnicGroup:
+  siberianTatarsEthnicGroup:
     stringTokens: ["Siberian Tatars", "Baraba Tatars", "Chats", "Eushta Tatars", "Kalmak Tatars", "Zabolotnie Tatars"]
-siberianYupikEthnicGroup:
+  siberianYupikEthnicGroup:
     stringTokens: ["Siberian Yupik", "Naukan"]
-siciliansEthnicGroup:
+  siciliansEthnicGroup:
     stringTokens: ["Sicilians"]
-sidamaEthnicGroup:
+  sidamaEthnicGroup:
     stringTokens: ["Sidama"]
-siddiEthnicGroup:
+  siddiEthnicGroup:
     stringTokens: ["Siddi"]
-sierraLeoneCreolesEthnicGroup:
+  sierraLeoneCreolesEthnicGroup:
     stringTokens: ["Sierra Leone Creoles", "Gambian Creoles", "Saros", "Krio Fernandinos"]
-sikaEthnicGroup:
+  sikaEthnicGroup:
     stringTokens: ["Sika"]
-silesiansEthnicGroup:
+  silesiansEthnicGroup:
     stringTokens: ["Silesians", "Cieszyn Vlachs"]
-silteEthnicGroup:
+  silteEthnicGroup:
     stringTokens: ["Siltʼe"]
-sindhisEthnicGroup:
+  sindhisEthnicGroup:
     stringTokens: ["Sindhis", "Jat", "Memon", "Arain", "Indian Sindhis"]
-sinhaleseEthnicGroup:
+  sinhaleseEthnicGroup:
     stringTokens: ["Sinhalese", "Dewa", "British Sri Lankans", "Burghers"]
-sionaEthnicGroup:
+  sionaEthnicGroup:
     stringTokens: ["Siona"]
-siouxEthnicGroup:
+  siouxEthnicGroup:
     stringTokens: ["Sioux", "Lakota", "Brulé", "Oglala", "Sans Arc", "Hunkpapa", "Miniconjou", "Sihasapa", "Dakota", "Mdewakanton"]
-slovaksEthnicGroup:
+  slovaksEthnicGroup:
     stringTokens: ["Slovaks"]
-slovenesEthnicGroup:
+  slovenesEthnicGroup:
     stringTokens: ["Slovenes"]
-sogaEthnicGroup:
+  sogaEthnicGroup:
     stringTokens: ["Soga"]
-somalisEthnicGroup:
+  somalisEthnicGroup:
     stringTokens: ["Somalis", "Hawiye", "Darod", "Majeerteen", "Isaaq", "Dir", "Rahanweyn", "Madhiban", "Yibir", "Ajuran"]
-songhaiEthnicGroup:
+  songhaiEthnicGroup:
     stringTokens: ["Songhai", "Songhai proper", "Zarma", "Wogo", "Kurtey", "Ingalkoyyu", "Arma", "Belbali", "Dendi"]
-soninkeEthnicGroup:
+  soninkeEthnicGroup:
     stringTokens: ["Soninke"]
-sonsoroleseEthnicGroup:
+  sonsoroleseEthnicGroup:
     stringTokens: ["Sonsorolese"]
-soqotrisEthnicGroup:
+  soqotrisEthnicGroup:
     stringTokens: ["Soqotris"]
-sorbsEthnicGroup:
+  sorbsEthnicGroup:
     stringTokens: ["Sorbs", "Upper Sorbs", "Lower Sorbs"]
-sothoEthnicGroup:
+  sothoEthnicGroup:
     stringTokens: ["Sotho"]
-southCarolinTurksEthnicGroup:
+  southCarolinTurksEthnicGroup:
     stringTokens: ["South Carolina Turks"]
-soyotsEthnicGroup:
+  soyotsEthnicGroup:
     stringTokens: ["Soyots"]
-spaniardsEthnicGroup:
+  spaniardsEthnicGroup:
     stringTokens: ["Spaniards", "Castilians", "Leonese", "Cantabrians", "Extremadurans", "Mercheros"]
-sriLankanChettiesEthnicGroup:
+  sriLankanChettiesEthnicGroup:
     stringTokens: ["Sri Lankan Chetties"]
-sriLankaKaffirsEthnicGroup:
+  sriLankaKaffirsEthnicGroup:
     stringTokens: ["Sri Lanka Kaffirs"]
-sriLankaMalaysEthnicGroup:
+  sriLankaMalaysEthnicGroup:
     stringTokens: ["Sri Lanka Malays"]
-sriLankanMoorsEthnicGroup:
+  sriLankanMoorsEthnicGroup:
     stringTokens: ["Sri Lankan Moors"]
-suiEthnicGroup:
+  suiEthnicGroup:
     stringTokens: ["Sui"]
-sukumaEthnicGroup:
+  sukumaEthnicGroup:
     stringTokens: ["Sukuma"]
-sulaneseEthnicGroup:
+  sulaneseEthnicGroup:
     stringTokens: ["Sulanese", "Fagudu", "Falahu", "Fatcei", "Mangon"]
-sumbaEthnicGroup:
+  sumbaEthnicGroup:
     stringTokens: ["Sumba", "Anakalangu", "East Sumbanese", "Kodi", "Lamboya", "West Sumbanese", "Mamboru", "Wanukaka"]
-sumbawaEthnicGroup:
+  sumbawaEthnicGroup:
     stringTokens: ["Sumbawa"]
-sundaneseEthnicGroup:
+  sundaneseEthnicGroup:
     stringTokens: ["Sundanese", "Bantenese", "Baduy", "Ciptagelar"]
-surmaEthnicGroup:
+  surmaEthnicGroup:
     stringTokens: ["Surma", "Me'en", "Mursi", "Kichepo"]
-susuEthnicGroup:
+  susuEthnicGroup:
     stringTokens: ["Susu"]
-swahiliEthnicGroup:
+  swahiliEthnicGroup:
     stringTokens: ["Swahili"]
-swaziEthnicGroup:
+  swaziEthnicGroup:
     stringTokens: ["Swazi"]
-swedesEthnicGroup:
+  swedesEthnicGroup:
     stringTokens: ["Swedes", "Scanians", "Jamtish", "Gutnish", "Dalecarlians", "Estonian Swedes"]
-sylhetisEthnicGroup:
+  sylhetisEthnicGroup:
     stringTokens: ["Sylhetis", ""]
-syrian TurkmenEthnicGroup:
+  syrian TurkmenEthnicGroup:
     stringTokens: ["Syrian Turkmen"]
-tabaruEthnicGroup:
+  tabaruEthnicGroup:
     stringTokens: ["Tabaru people", "Tabaru"]
-tabasaranEthnicGroup:
+  tabasaranEthnicGroup:
     stringTokens: ["Tabasaran"]
-tagalogsEthnicGroup:
+  tagalogsEthnicGroup:
     stringTokens: ["Tagalogs"]
-tahitiansEthnicGroup:
+  tahitiansEthnicGroup:
     stringTokens: ["Tahitians"]
-tahtacıEthnicGroup:
+  tahtacıEthnicGroup:
     stringTokens: ["Tahtacı"]
-taidnapamEthnicGroup:
+  taidnapamEthnicGroup:
     stringTokens: ["Taidnapam", "Upper Cowlitz", "Lewis River Cowlitz"]
-tainoEthnicGroup:
+  tainoEthnicGroup:
     stringTokens: ["Taino"]
-tajiksEthnicGroup:
+  tajiksEthnicGroup:
     stringTokens: ["Tajiks", "Kharduri", "Pamiris"]
-talyshEthnicGroup:
+  talyshEthnicGroup:
     stringTokens: ["Talysh"]
-tamaEthnicGroup:
+  tamaEthnicGroup:
     stringTokens: ["Tama"]
-tamangsEthnicGroup:
+  tamangsEthnicGroup:
     stringTokens: ["Tamangs", "Waiba", "Lopchan", "Thokar", "Lama"]
-tamilsEthnicGroup:
+  tamilsEthnicGroup:
     stringTokens: ["Tamils", "Indian Tamils", "Sri Lankan Tamils", "Negombo Tamils", "Chitty", "Giraavaru", "Canada", "the United Kingdom", "Malbars"]
-tampuansEthnicGroup:
+  tampuansEthnicGroup:
     stringTokens: ["Tampuans"]
-tananaAthabaskansEthnicGroup:
+  tananaAthabaskansEthnicGroup:
     stringTokens: ["Tanana Athabaskans", "Lower Tanana", "Middle Tanana", "Tanacross", "Upper Tanana"]
-taoEthnicGroup:
+  taoEthnicGroup:
     stringTokens: ["Tao"]
-taosEthnicGroup:
+  taosEthnicGroup:
     stringTokens: ["Taos"]
-tarokEthnicGroup:
+  tarokEthnicGroup:
     stringTokens: ["Tarok"]
-tausūgEthnicGroup:
+  tausūgEthnicGroup:
     stringTokens: ["Tausūg"]
-tboliEthnicGroup:
+  tboliEthnicGroup:
     stringTokens: ["Tboli"]
-telengitsEthnicGroup:
+  telengitsEthnicGroup:
     stringTokens: ["Telengits"]
-teluguEthnicGroup:
+  teluguEthnicGroup:
     stringTokens: ["Telugu", "Kamma", "Reddy", "Velama", "Kapu", "Raju", "Madiga", "Mala", "Kaikalas"]
-temneEthnicGroup:
+  temneEthnicGroup:
     stringTokens: ["Temne"]
-terenaEthnicGroup:
+  terenaEthnicGroup:
     stringTokens: ["Terena"]
-ternateansEthnicGroup:
+  ternateansEthnicGroup:
     stringTokens: ["Ternateans", "Tubo", "Tobona", "Tabanga", "Toboleu", "Ibu", "Jailolo", "Ternate-Portuguese"]
-thaisEthnicGroup:
+  thaisEthnicGroup:
     stringTokens: ["Thais", "Southern Thai", "Khorat", "Lanna", "Tai Lue", "Thai Americans"]
-tharusEthnicGroup:
+  tharusEthnicGroup:
     stringTokens: ["Tharus", "Kathariya", "Danuwar", "Lampucchwa", "Kochila", "Sonha", "Dangaura", "Rana"]
-tibetansEthnicGroup:
+  tibetansEthnicGroup:
     stringTokens: ["Tibetans", "Amdolese", "Golok", "Tebbu", "Khams", "U-Tsang", "Ngari", "Walung", "Changpa", "Baima", "Kachee"]
-ticunaEthnicGroup:
+  ticunaEthnicGroup:
     stringTokens: ["Ticuna"]
-tidoreEthnicGroup:
+  tidoreEthnicGroup:
     stringTokens: ["Tidore"]
-tigrayansEthnicGroup:
+  tigrayansEthnicGroup:
     stringTokens: ["Tigrayans"]
-tigreEthnicGroup:
+  tigreEthnicGroup:
     stringTokens: ["Tigre"]
-tivEthnicGroup:
+  tivEthnicGroup:
     stringTokens: ["Tiv"]
-tiwaEthnicGroup:
+  tiwaEthnicGroup:
     stringTokens: ["Tiwa"]
-tiwiEthnicGroup:
+  tiwiEthnicGroup:
     stringTokens: ["Tiwi"]
-tlapanecEthnicGroup:
+  tlapanecEthnicGroup:
     stringTokens: ["Tlapanec"]
-tlingitEthnicGroup:
+  tlingitEthnicGroup:
     stringTokens: ["Tlingit"]
-tobeloEthnicGroup:
+  tobeloEthnicGroup:
     stringTokens: ["Tobelo"]
-tofalarsEthnicGroup:
+  tofalarsEthnicGroup:
     stringTokens: ["Tofalars"]
-tokelauansEthnicGroup:
+  tokelauansEthnicGroup:
     stringTokens: ["Tokelauans"]
-tongansEthnicGroup:
+  tongansEthnicGroup:
     stringTokens: ["Tongans", "Tongan Hawaiians"]
-tooroEthnicGroup:
+  tooroEthnicGroup:
     stringTokens: ["Tooro", "Abagweri", "Abasingo", "Abahinda", "Ababiito", "Abasumbi", "Abayaga", "Ababwiju", "Abasiita", "Abasambo", "Ababoopi", "Ababwooro", "Abagaya", "Abalebeki", "Abango", "Abagimu", "Abarungu", "Abanyakyoozi", "Abasoigi[34]"]
-torajaEthnicGroup:
+  torajaEthnicGroup:
     stringTokens: ["Toraja"]
-toubouEthnicGroup:
+  toubouEthnicGroup:
     stringTokens: ["Toubou", "Daza", "Teda"]
-toucouleurEthnicGroup:
+  toucouleurEthnicGroup:
     stringTokens: ["Toucouleur"]
-tripuriEthnicGroup:
+  tripuriEthnicGroup:
     stringTokens: ["Tripuri", "Jamatia", "Murasing"]
-trumaiEthnicGroup:
+  trumaiEthnicGroup:
     stringTokens: ["Trumai"]
-tsakhursEthnicGroup:
+  tsakhursEthnicGroup:
     stringTokens: ["Tsakhurs"]
-tsezEthnicGroup:
+  tsezEthnicGroup:
     stringTokens: ["Tsez"]
-tsimshianEthnicGroup:
+  tsimshianEthnicGroup:
     stringTokens: ["Tsimshian", "Kitasoo", "Gitga'ata", "Kitkatla", "Kitsumkalum", "Kitselas", "Ginadoiks", "Ginaxangiik", "Gispaxlo'ots", "Gitando", "Gitlaan", "Gits'iis", "Gitwilgyoots", "Gitzaxłaał", "Giluts'aaw"]
-tsongaEthnicGroup:
+  tsongaEthnicGroup:
     stringTokens: ["Tsonga"]
-tswanaEthnicGroup:
+  tswanaEthnicGroup:
     stringTokens: ["Tswana", "Balete", "Mangwato", "Bangwaketse", "Bakwena", "Batlokwa", "Bahurutshe", "Bakgatla", "Rolong"]
-tuamotuansEthnicGroup:
+  tuamotuansEthnicGroup:
     stringTokens: ["Tuamotuans"]
-tujiaEthnicGroup:
+  tujiaEthnicGroup:
     stringTokens: ["Tujia"]
-tuluvasEthnicGroup:
+  tuluvasEthnicGroup:
     stringTokens: ["Tuluvas"]
-tunicaBiloxiEthnicGroup:
+  tunicaBiloxiEthnicGroup:
     stringTokens: ["Tunica-Biloxi", "Biloxi", "Tunica"]
-tupuriEthnicGroup:
+  tupuriEthnicGroup:
     stringTokens: ["Tupuri"]
-turkanaEthnicGroup:
+  turkanaEthnicGroup:
     stringTokens: ["Turkana"]
-turkmensEthnicGroup:
+  turkmensEthnicGroup:
     stringTokens: ["Turkmens", "Teke", "Yomut", "Bayandur", "Afshar", "Ersari", "Chowdur", "Saryk", "Iranian Turkmens", "Afghan Turkmens"]
-turksEthnicGroup:
+  turksEthnicGroup:
     stringTokens: ["Turks", "Turkish Cypriots", "Meskhetian Turks", "Yoruks", "Amuca"]
-tutchonesEthnicGroup:
+  tutchonesEthnicGroup:
     stringTokens: ["Tutchones", "Northern Tutchones", "Southern Tutchones"]
-tutejszyEthnicGroup:
+  tutejszyEthnicGroup:
     stringTokens: ["Tutejszy"]
-tutsiEthnicGroup:
+  tutsiEthnicGroup:
     stringTokens: ["Tutsi", "Banyamulenge"]
-tuvaluansEthnicGroup:
+  tuvaluansEthnicGroup:
     stringTokens: ["Tuvaluans"]
-tuvansEthnicGroup:
+  tuvansEthnicGroup:
     stringTokens: ["Tuvans", "Tozhu Tuvans",  "Dukha]"]
-udisEthnicGroup:
+  udisEthnicGroup:
     stringTokens: ["Udis"]
-udmurtsEthnicGroup:
+  udmurtsEthnicGroup:
     stringTokens: ["Udmurts", "Besermyan"]
-ukrainiansEthnicGroup:
+  ukrainiansEthnicGroup:
     stringTokens: ["Ukrainians", "Cossacks", "Litvins", "Pinchuks"]
-ulsterProtestantsEthnicGroup:
+  ulsterProtestantsEthnicGroup:
     stringTokens: ["Ulster Protestants"]
-umatillaEthnicGroup:
+  umatillaEthnicGroup:
     stringTokens: ["Umatilla"]
-upper KuskokwimEthnicGroup:
+  upper KuskokwimEthnicGroup:
     stringTokens: ["Upper Kuskokwim"]
-urakLawoiEthnicGroup:
+  urakLawoiEthnicGroup:
     stringTokens: ["Urak Lawoi"]
-urhobosEthnicGroup:
+  urhobosEthnicGroup:
     stringTokens: ["Urhobos"]
-uteEthnicGroup:
+  uteEthnicGroup:
     stringTokens: ["Ute"]
-uyghursEthnicGroup:
+  uyghursEthnicGroup:
     stringTokens: ["Uyghurs", "Kashgartsy", "Tor Uyghurs"]
-uzbeksEthnicGroup:
+  uzbeksEthnicGroup:
     stringTokens: ["Uzbeks", "Ming", "Yuzi", "Kyrk"]
-valenciansEthnicGroup:
+  valenciansEthnicGroup:
     stringTokens: ["Valencians"]
-vaqueirosdealzadaEthnicGroup:
+  vaqueirosdealzadaEthnicGroup:
     stringTokens: ["Vaqueiros de alzada"]
-veddaEthnicGroup:
+  veddaEthnicGroup:
     stringTokens: ["Vedda", "Coast Veddas", "Anuradhapura Veddas", "Bintenne Veddas"]
-vendaEthnicGroup:
+  vendaEthnicGroup:
     stringTokens: ["Venda"]
-vietnameseEthnicGroup:
+  vietnameseEthnicGroup:
     stringTokens: ["Vietnamese", "Muong", "Gin", "Phen", "Chứt", "Thổ", "Nung", "Giay"]
-visayansEthnicGroup:
-    stringTokens: ["Visayans", "Aklanon", "Butuanon", "Cebuano", "Boholano" "Eskaya", "Caluyanon", "Capiznon", "Cuyunon", "Hiligaynon", "Karay-a", "Masbatenos", "Negrenses", "Porohanon", "Rombloman",  "Bantoanons", "Waray"]
-volga TatarsEthnicGroup:
+  visayansEthnicGroup:
+    stringTokens: ["Visayans", "Aklanon", "Butuanon", "Cebuano", "Boholano", "Eskaya", "Caluyanon", "Capiznon", "Cuyunon", "Hiligaynon", "Karay-a", "Masbatenos", "Negrenses", "Porohanon", "Rombloman",  "Bantoanons", "Waray"]
+  volga TatarsEthnicGroup:
     stringTokens: ["Volga Tatars", "Astrakhan Tatars", "Kasimov Tatars", "Kazan Tatars", "Kryashens", "Nagaybaks", "Nukrat Tatars", "Perm Tatars", "Teptyars"]
-votiansEthnicGroup:
+  votiansEthnicGroup:
     stringTokens: ["Votians"]
-waEthnicGroup:
+  waEthnicGroup:
     stringTokens: ["Wa"]
-wakhiEthnicGroup:
+  wakhiEthnicGroup:
     stringTokens: ["Wakhi"]
-walla WallaEthnicGroup:
+  walla WallaEthnicGroup:
     stringTokens: ["Walla Walla"]
-walloonsEthnicGroup:
+  walloonsEthnicGroup:
     stringTokens: ["Walloons"]
-warlpirisEthnicGroup:
+  warlpirisEthnicGroup:
     stringTokens: ["Warlpiris"]
-waropenEthnicGroup:
+  waropenEthnicGroup:
     stringTokens: ["Waropen"]
-waxiangEthnicGroup:
+  waxiangEthnicGroup:
     stringTokens: ["Waxiang"]
-wayuuEthnicGroup:
+  wayuuEthnicGroup:
     stringTokens: ["Wayuu"]
-welaytaEthnicGroup:
+  welaytaEthnicGroup:
     stringTokens: ["Welayta"]
-welshEthnicGroup:
+  welshEthnicGroup:
     stringTokens: ["Welsh"]
-wolofEthnicGroup:
+  wolofEthnicGroup:
     stringTokens: ["Wolof", "Lebu"]
-wuikinuxvEthnicGroup:
+  wuikinuxvEthnicGroup:
     stringTokens: ["Wuikinuxv"]
-xavanteEthnicGroup:
+  xavanteEthnicGroup:
     stringTokens: ["Xavante"]
-xhosaEthnicGroup:
+  xhosaEthnicGroup:
     stringTokens: ["Xhosa"]
-yaghnobisEthnicGroup:
+  yaghnobisEthnicGroup:
     stringTokens: ["Yaghnobis"]
-yahganEthnicGroup:
+  yahganEthnicGroup:
     stringTokens: ["Yahgan"]
-yakanEthnicGroup:
+  yakanEthnicGroup:
     stringTokens: ["Yakan"]
-yakoEthnicGroup:
+  yakoEthnicGroup:
     stringTokens: ["Yako"]
-yakutsEthnicGroup:
+  yakutsEthnicGroup:
     stringTokens: ["Yakuts"]
-yaliEthnicGroup:
+  yaliEthnicGroup:
     stringTokens: ["Yali"]
-yanomamiEthnicGroup:
+  yanomamiEthnicGroup:
     stringTokens: ["Yanomami"]
-yaoEthnicGroup:
+  yaoEthnicGroup:
     stringTokens: ["Yao"]
-yapeseEthnicGroup:
+  yapeseEthnicGroup:
     stringTokens: ["Yapese"]
-yiEthnicGroup:
+  yiEthnicGroup:
     stringTokens: ["Yi", "Phu La", "Azha"]
-yorubaEthnicGroup:
+  yorubaEthnicGroup:
     stringTokens: ["Yoruba", "Ijesha", "Egba", "Yewa", "Igbomina", "Awori", "Akoko", "Okun", "Ana", "Ekiti", "Ilaje", "Ijebu", "Oyo", "Ondo", "Ife", "Nagos"]
-yugambehEthnicGroup:
+  yugambehEthnicGroup:
     stringTokens: ["Yugambeh"]
-yugoslavsEthnicGroup:
+  yugoslavsEthnicGroup:
     stringTokens: ["Yugoslavs"]
-yukaghirEthnicGroup:
+  yukaghirEthnicGroup:
     stringTokens: ["Yukaghir", ""]
-yupikEthnicGroup:
+  yupikEthnicGroup:
     stringTokens: ["Yup'ik", "Nunivak Cupʼig", "Chevak Cupʼik"]
-zaghawaEthnicGroup:
+  zaghawaEthnicGroup:
     stringTokens: ["Zaghawa"]
-zamboanguenosEthnicGroup:
+  zamboanguenosEthnicGroup:
     stringTokens: ["Zamboanguenos"]
-zandeEthnicGroup:
+  zandeEthnicGroup:
     stringTokens: ["Zande", "Barambu"]
-zapotecsEthnicGroup:
+  zapotecsEthnicGroup:
     stringTokens: ["Zapotecs", "Ixtlan"]
-zhuangEthnicGroup:
+  zhuangEthnicGroup:
     stringTokens: ["Zhuang"]
-zomiEthnicGroup:
+  zomiEthnicGroup:
     stringTokens: ["Zomi", "Thadou", "Paite", "Zou", "Kom", "Koireng", "Mizo", "Khiangte", "Hmar", "Saihriem",  "Zote", "Renthlei", "Chawngthu", "Miu-Khumi", "Ralte", "Aimol", "Sukte", "Bawm", "Lai", "Biate", "Chin", "Asho", "Mro-Khimi", "Mru", "Anok", "Tshungma", "Domrong", "Dopteng", "Rumma", "Anu", "Chho", "Cumtu Chin", "Hkongso", "Kasang", "Htey", "Kamu", "Ngan", "Gwa", "Hteikloeh", "Ngai", "Rahnam", "Kapu", "Kasah", "Namte", "Krawktu", "Namluek", "Kuki", "Vaiphei", "Khelma", "Halam", "Mate", "Simte", "Gangte", "Bnei Menashe"]
-zoniansEthnicGroup:
+  zoniansEthnicGroup:
     stringTokens: ["Zonians"]
-zuluEthnicGroup:
+  zuluEthnicGroup:
     stringTokens: ["Zulu", "Northern Ndebele"]
-zuniEthnicGroup:
+  zuniEthnicGroup:
     stringTokens: ["Zuni"]
 
   

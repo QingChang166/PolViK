@@ -36,7 +36,7 @@ concepts:
   ShonaEthnicGroup:
    stringTokens: ["Shona"]
    wikidataQnode: []
-   languagesMostSpoken: ["Karanga", "Zezuru", "Korekore", "Manyika", "Bocha" and "Ndau"]
+   languagesMostSpoken: ["Karanga", "Zezuru", "Korekore", "Manyika", "Bocha", "Ndau"]
    religionsMostPracticed: ["Catholicism", "Protestantism", "Traditional religion"]
    livesIn: ["Sofala","Manica"]
   SenaEthnicGroup:
@@ -74,7 +74,7 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["1999-2019"] ##active as an entity
    yearsActiveasParty: ["1999-2019"] ##active as a political party
- 	dmmParty:
+  dmmParty:
    stringTokens: ["Democratic Movement of Mozambique", "Movimento Democrático de Moçambique", "MDM"]
    wikidataQnode: ["Q668181"]
    yearsActiveasEntity: ["2009-Present"] ##active as an entity
@@ -100,7 +100,7 @@ concepts:
    yearsActiveasEntity: ["2004"] ##active as an entity
    yearsActiveasParty: ["2004"] ##active as a political party
   fpaParty:
-   stringTokens: ["Front of Patriotic Action" "FAP", "Frente de Ação Patriotica"]
+   stringTokens: ["Front of Patriotic Action", "FAP", "Frente de Ação Patriotica"]
    wikidataQnode: ["Q4120932"]
    yearsActiveasEntity: ["1999"] ##active as an entity
    yearsActiveasParty: ["1999"] ##active as a political party
@@ -115,7 +115,7 @@ concepts:
    yearsActiveasEntity: ["2004"] ##active as an entity
    yearsActiveasParty: [] ##active as a political party
   ppddParty:
-   stringTokens: ["Party for Peace, Democracy and Development", "Party for Peace, Democracy, and Development" "Partido para a Paz Democracia e Desenvolvimento"]
+   stringTokens: ["Party for Peace, Democracy and Development", "Party for Peace, Democracy, and Development", "Partido para a Paz Democracia e Desenvolvimento"]
    wikidataQnode: ["Q1685523"]
    yearsActiveasEntity: ["2004-2014"] ##active as an entity
    yearsActiveasParty: [] ##active as a political party
@@ -234,7 +234,7 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004"] ##active as a political party
-  drpParty:
+  drpParty1:
    stringTokens: ["Democratic Reconciliation Party"]
    wikidataQnode: []
    yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
@@ -254,7 +254,7 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004"] ##active as a political party
-  pdpParty:
+  pdpParty1:
    stringTokens: ["People's Democratic Party"]
    wikidataQnode: []
    yearsActiveasEntity: ["2004-2009"] ##active as an entity AT LEAST CHECK
@@ -364,7 +364,7 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: [2019-Present] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2019-Present"] ##active as a political party
-  duParty:
+  duParty1:
    stringTokens: ["Democratic Unity"]
    wikidataQnode: []
    yearsActiveasEntity: ["2019-Present"] ##active as an entity AT LEAST CHECK
@@ -401,7 +401,7 @@ concepts:
    regionsMostActive: ["Zimbabwe"]
    yearsActiveasArmed: ["1961-1975"] ##CHECK LAST DATES
   ansaralSunnaArmedGroup:
-   stringTokens: ["Al-Shabaab", "Ansar al-Sunna",  "Ahlu Sunna Wal Jammah" "The Youth", "IS-CAP", "IS-Central Africa Province"]
+   stringTokens: ["Al-Shabaab", "Ansar al-Sunna",  "Ahlu Sunna Wal Jammah", "The Youth", "IS-CAP", "IS-Central Africa Province"]
    associatedEthnicGroup: []
    regionsMostActive: ["Cabo Delgado"]
    yearsActiveasArmed: ["2017-Present"] ##CHECK LAST DATES

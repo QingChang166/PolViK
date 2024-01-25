@@ -4,7 +4,7 @@ concepts:
      wikidataQnode: ["Q3658684"]
   
   ## ethnicgroups
-   ForroEthnicGroup:
+    ForroEthnicGroup:
      stringTokens: ["Forro"]
      wikidataQnode: [""]
      languagesMostSpoken: ["Forro Creole"]

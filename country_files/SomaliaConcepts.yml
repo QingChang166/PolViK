@@ -68,7 +68,7 @@ concepts:
    stringTokens: ["Somalia Green Party", "Xisbiga Cagaaran Soomaaliya", "SGP"]
    wikidataQnode: ["Q7559168"]
    associatedEthnicGroup: []
-   yearsActiveasEntity: "1990-Present"] ##active as an entity
+   yearsActiveasEntity: ["1990-Present"] ##active as an entity
    yearsActiveasParty: ["1990-Present"] ##active as a political party
   slpParty:
    stringTokens: ["Somali Labour Party"]
@@ -295,7 +295,7 @@ concepts:
    regionsMostActive: []
    yearsActiveasArmed: []
   rramadobehabsadeArmedGroup:
-   stringTokens: ["Reewin Resistance Army- Madobe and Habsade Faction", "Rahanweyn Resistance Army- Madobe and Habsade Faction" "RRA-Madobe and Habsade Faction"]
+   stringTokens: ["Reewin Resistance Army- Madobe and Habsade Faction", "Rahanweyn Resistance Army- Madobe and Habsade Faction", "RRA-Madobe and Habsade Faction"]
    associatedEthnicGroup: []
    regionsMostActive: ["South West"]
    yearsActiveasArmed: ["2002"]

@@ -1,7 +1,7 @@
 concepts:
   ZimbabweDefenceForces:
     stringTokens: ["Zimbabwe Defence Forces", "ZDF", "military of Zimbabwe"]
-    wikidataQnode:["Q381383"]
+    wikidataQnode: ["Q381383"]
     
 ###EthnicGroups:
   ShonaEthnicGroup:
@@ -149,7 +149,7 @@ concepts:
    yearsActiveasParty: ["1965"]
   
   RWPPParty:
-   stringTokens: ["Rhodesian White People's Party", "RWPP]
+   stringTokens: ["Rhodesian White People's Party", "RWPP"]
    associatedEthnicGroup: ["White Zimbabweans"]
    wikidataQnode: ["Q111936909"]
    yearsActiveasParty: ["1976"]
@@ -281,13 +281,13 @@ concepts:
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q7148042"]
    yearsActive: ["1963-1980"]
-   	
+   
   ZIPRAArmedGroup:
    stringTokens: ["Zimbabwe People's Revolutionary Army", "ZIPRA", "Zimbabwe African People's Union", "ZAPU"]
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q3426171"]
    yearsActive: ["1964-1980"]
-   	
+   
   RenamoArmedGroup:
    stringTokens: ["Renamo", "Resistência Nacional Moçambicana", "Mozambican National Resistance", "MNR", "RNM", "Movimento Nacional da Resistência de Mocambique"]
    associatedEthnicGroup: ["Shona", "Ndau"]

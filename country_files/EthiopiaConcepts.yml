@@ -228,7 +228,7 @@ concepts:
    associatedEthnicGroup: ["oromoEthnicGroup"]
    yearsActiveasEntity: ["1985-Present"] ##active as an entity
    yearsActiveasParty: ["1991-1995"] ##active as a political party
-  ofcParty:
+  ofcParty1:
    stringTokens: ["Oromo Federalist Congress"]
    wikidataQnode: ["Q105552917"]
    associatedEthnicGroup: ["oromoEthnicGroup"]
@@ -339,7 +339,7 @@ concepts:
    wikidataQnode: ["Q1135107"]
    yearsActiveasEntity: ["1996-2012"] ##active as an entity
    yearsActiveasParty: ["1996-2012"] ##active as a political party
-  ofdmParty:
+  ofdmParty1:
    stringTokens: ["Oromo Federalist Democratic Movement", "OFDM"]
    wikidataQnode: ["Q1134412"]
    yearsActiveasEntity: ["2005-2012"] ##active as an entity
@@ -476,7 +476,7 @@ concepts:
   #yearsActiveasArmed == year of first attack
   #pre 2020 data from AGD data, post from online sources
 
-  tdfArmedGroup:
+  tdfArmedGroup1:
    stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
    associatedEthnicGroup: ["tigrayanEthnicGroup"]
    regionsMostActive: ["Tigray", "Eritrea"]
@@ -614,4 +614,4 @@ concepts:
    associatedEthnicGroup: ["tigrayanEthnicGroup"]
    yearsActiveasArmed: ["2020-2023"]
    regionsMostActive: ["Tigray Region"]
-   associatedEthnicGroup: ["tigrayanEthnicGroup"]
+

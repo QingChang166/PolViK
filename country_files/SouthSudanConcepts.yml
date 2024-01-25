@@ -5,11 +5,11 @@ concepts:
   lotukoEthnicGroup:
     stringTokens: ["Lotuko people", "Lotuko", "Otuho", "Latuka", "Lotuho"]
     wikidataQnode: ["Q115862"]
-    livesIn: ["Torit"} 
+    livesIn: ["Torit"]
   shillukEthnicGroup:
     stringTokens: ["Shilluk people", "Shilluk"]
     wikidataQnode: ["Q1134682"]
-    livesIn: ["Malakal"}
+    livesIn: ["Malakal"]
   dinkaEthnicGroup:
     stringTokens: ["Dinka", "Dinka people", "Dinka tribe", "Denkawi"]
     wikidataQnode: ["Q212106"]

@@ -1,21 +1,21 @@
 concepts:
-  ZambiaSecurityForces:
+ ZambiaSecurityForces:
    stringTokens: ["Zambia Police Service", "Regular Police", "Mobile Unit", "Traffic Unit", "Zambia Correctional Service", "Drug Enforcement Commission", "DEC", "Zambia Security      			   Intelligence Service", "ZSIS", "Zambia National Service", "ZNS", "Zambia Army", "Zambian Defense Force", "Zambia Air Force", "ZAF", "Zambia Immigration     				   Department", "Zambia Wildlife Authority", "ZAWA", "Anti-corruption Commission", "Financial Intelligence Centre"]  ##aliases go here
 ##ethnicgroups
-  BembaEthnicGroup:
+ BembaEthnicGroup:
    stringTokens: ["Chitimukulu", "Avemba", "Babema", "Bemba", "Babemga", "Wawemba", "Awemba", "Walemba", "Wemba", "Wabemba"]  ##aliases
    wikidataQnode: ["Q644450"]  #wikidata q node
    languagesMostSpoken: ["Bemba"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Northern Province", "Luapula Province", "Copperbelt Province"]  
  TongaEthnicGroup:
-   stringTokens: ["Batonga", "Tonga" "Batonka", "Gwembe", "Plateau Tonga", "Toka", "Tonka", "Valley Tonga"]  ##aliases
+   stringTokens: ["Batonga", "Tonga", "Batonka", "Gwembe", "Plateau Tonga", "Toka", "Tonka", "Valley Tonga"]  ##aliases
    wikidataQnode: ["Q1431896"]  #wikidata q node
    languagesMostSpoken: ["Tonga"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Southern Province"]  
  ChewaEthnicGroup:
-   stringTokens: ["Chewa", "Achewa" "Chichewa"]  ##aliases
+   stringTokens: ["Chewa", "Achewa", "Chichewa"]  ##aliases
    wikidataQnode: ["Q1071390"]  #wikidata q node
    languagesMostSpoken: ["Chewa", "Nyanja"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
@@ -32,33 +32,33 @@ concepts:
    languagesMostSpoken: ["Nsenga"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Eastern Province"]
-LundaEthnicGroup:
+ LundaEthnicGroup:
    stringTokens: ["Chilunda", "Lunda", "Alunda", "Arund", "Balunda", "Kalunda", "Luunda", "Aluund", "Ruund", "Aluun", "Tulunda", "Northern Lunda", "Southern Lunda"]  ##aliases
    wikidataQnode: ["Q1292932"]  #wikidata q node
    languagesMostSpoken: ["Lunda"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Northwestern Province"] 
-KaondeEthnicGroup:
+ KaondeEthnicGroup:
    stringTokens: ["Kaonde", "Bachikawonde", "Bakahonde", "Bakaonde", "Bakaunde", "Bakwakaonde", "Chikaonde", "Chikaonde", "Kahonde", "Kaundi", "Kunda", "Kaunde", "Kawonde"]  
    wikidataQnode: ["Q3192810"]  #wikidata q node
    languagesMostSpoken: ["Kaonde"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Northwestern Province"] 
-LuvaleEthnicGroup:
-   stringTokens: ["Luvale", "Lwena", "Chiluvale", "Lubale", "Luena", "Lovale", "Aluema", "Balovale", "Baluena", "Caluena", "Galuenas", "Kaluena" "Lobare", "Lovales", "Malobale",
+ LuvaleEthnicGroup:
+   stringTokens: ["Luvale", "Lwena", "Chiluvale", "Lubale", "Luena", "Lovale", "Aluema", "Balovale", "Baluena", "Caluena", "Galuenas", "Kaluena", "Lobare", "Lovales", "Malobale",
                   "Muluena", "Luenas", "Lwenas", "Tuluena", "Tulwena", "Valwena"]  
    wikidataQnode: ["Q602958"]  #wikidata q node
    languagesMostSpoken: ["Luvale"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Northwestern Province"] 
-NgoniEthnicGroup:
+ NgoniEthnicGroup:
    stringTokens: ["Ngoni", "Angoni", "Wagoni"]  
    wikidataQnode: ["Q17109664"]  #wikidata q node
    languagesMostSpoken: ["Ngoni"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Eastern Province"] 
 ##politicalparties
-  UNIPParty:
+ UNIPParty:
    stringTokens: ["UNIP", "United National Independence Party"]
    wikidataQnode: ["Q1383387"]
    yearsActiveasParty: ["1959-Present"]
@@ -66,25 +66,25 @@ NgoniEthnicGroup:
    stringTokens: ["Movement for Multi-Party Democracy", "MMD"]
    wikidataQnode: ["Q1951163"]
    yearsActiveasParty: ["1990-present"]
-PFParty:
+ PFParty:
    stringTokens: ["PF", "Patriotic Front"]
    wikidataQnode: ["Q2058159"]
    yearsActiveasParty: ["2001-Present"]
-UPNDParty:
+ UPNDParty:
    stringTokens: ["UPND", "United Party for National Development"]
    wikidataQnode: ["Q1781632"]
    associatedEthnicGroup: ["TongaEthnicGroup"]
    geographicRepresentation: ["Southern Province"]  ##particular regions the group represents  ##can be blank
    yearsActiveasParty: ["1998-Present"]
-FDDParty:
+ FDDParty:
    stringTokens: ["FDD", "Forum for Democracy and Development"]
    wikidataQnode: ["Q625541"]
    yearsActiveasParty: ["2001-Present"]
-NAREPParty:
+ NAREPParty:
    stringTokens: ["NAREP", "National Restoration Party"]
    wikidataQnode: ["Q5479265"]
    yearsActiveasParty: ["2010-Present"]
-ZANCParty:
+ ZANCParty:
    stringTokens: ["ZANC", "Zambia African National Congress"]
    wikidataQnode: ["Q145522"]
    yearsActiveasParty: ["1958-1972"]

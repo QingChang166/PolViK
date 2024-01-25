@@ -1,7 +1,7 @@
 concepts:
   MauritiusPoliceForce:
     stringTokens: ["Mauritius Police Force", "MPF", "military of Zimbabwe"]
-    wikidataQnode:["Q6793789"]
+    wikidataQnode: ["Q6793789"]
 
 ###EthnicGroups:
   HinduEthnicGroup:
@@ -108,7 +108,7 @@ concepts:
    wikidataQnode: ["Q96146403"]
    yearsActiveasParty: ["1959-1976"] 
   
- PTrParty:
+  PTrParty:
    stringTokens: ["Labour Party", "Parti Travailliste", "PTr", "PTR"]
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q3366796"]

@@ -1,5 +1,5 @@
 concepts:
-    ChadianSecurityForces:
+   ChadianSecurityForces:
      stringTokens: ["Chadian Security Forces", "CSF", "Chad National Army", "Military of Chad", "Chadian National Army", "ANT"]
      wikidataQnode: ["Q874971"]
   ## ethnicgroups
@@ -48,7 +48,7 @@ concepts:
      wikidataQnode:  ["Q1970314"]
      associatedEthnicGroup: ["Sara people"]
    urdParty:
-     stringTokens: ["Union for Renewal and Democracy", "URD]
+     stringTokens: ["Union for Renewal and Democracy", "URD"]
      wikidataQnode:  ["Q669116"]
    mpsParty:
      stringTokens: ["Patriotic Salvation Movement", "MPS"]

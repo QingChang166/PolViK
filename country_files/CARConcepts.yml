@@ -18,7 +18,7 @@ concepts:
   bandalindaLinguisticGroup:
    stringTokens: ["Banda Linda", "Banda Bambari", "Linda", "Banda-Bambari Linda"]
    wikidataQnode: ["Q4854293"]
-   livesIn: ["Haut-Mbomou", "Ouaka, "Basse-Kotto"]
+   livesIn: ["Haut-Mbomou", "Ouaka", "Basse-Kotto"]
   fulaniEthnicGroup:
    stringTokens: ["Fulani", "Fulani people", "Fula", "Peuhlg"]
    wikidataQnode: ["Q202575"]
@@ -119,7 +119,7 @@ concepts:
    stringTokens: ["People's Army for the Restoration of the Republic and Democracy", "PARRD"]
   fprArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Popular Front for Recovery", "FPR"]
-  ufdrArmedNonGovernmentalOrganizedGroup:
+  ufdrArmedNonGovernmentalOrganizedGroup1:
    stringTokens: ["Union of Democratic Forces for Unity", "UFDR"]
   aprdArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Army for the Restoration of Democracy", "APRD"]

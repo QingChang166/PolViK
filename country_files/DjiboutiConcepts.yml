@@ -1,29 +1,29 @@
 concepts:
-  DjiboutiSecurityForces:
-    stringTokens: ["Djibouti Armed Forces", "DJAF", " Force Armée Djiboutienne", "FAD", "Ciidanka Jabuuti", "Djibouti military", "mil Djibouti", "military of Djibouti"]
-    wikidataQnode:["Q516051"]
-    
+ DjiboutiSecurityForces:
+  stringTokens: ["Djibouti Armed Forces", "DJAF", " Force Armée Djiboutienne", "FAD", "Ciidanka Jabuuti", "Djibouti military", "mil Djibouti", "military of Djibouti"]
+  wikidataQnode: ["Q516051"]
+   
 ###EthnicGroups:
-  SomalisEthnicGroup:
-    stringTokens: ["Somalis", "Somali", "Soomaali", "Issa"]
-    wikidataQnode: ["Q241696"]
-    languagesMostSpoken: ["Somali language"]
-    religionsMostPracticed: ["Sunni Islam"]
-    livesIn: ["Dikhil Region", "Arta Region", "Ali Sabieh Region", "Djibouti Region"]
+ SomalisEthnicGroup:
+  stringTokens: ["Somalis", "Somali", "Soomaali", "Issa"]
+  wikidataQnode: ["Q241696"]
+  languagesMostSpoken: ["Somali language"]
+  religionsMostPracticed: ["Sunni Islam"]
+  livesIn: ["Dikhil Region", "Arta Region", "Ali Sabieh Region", "Djibouti Region"]
 
-   AfarEthnicGroup:
-    stringTokens: ["Afar", "Afar people", "Danakil", "Adali", "Odali"]
-    wikidataQnode: ["Q211720"]
-    languagesMostSpoken: ["Afar"]
-    religionsMostPracticed: ["Sunni Islam"]
-    livesIn: ["Obock Region", "Tadjourah Region", "Dikhil Region", "Arta Region"]
-    
-   ArabEthnicGroup:
-     stringTokens: ["Arabs", "Arab people", "Shukriya", "Shuwa", "Sukriya", "Arab", "the Arabs"]
-     wikidataQnode: ["Q35323"]
-     languagesMostSpoken: ["Arabic"]
-     religionsMostPracticed: ["Islam"]
-     livesIn: ["Ali Sabieh Region", "Djibouti Region"]
+  AfarEthnicGroup:
+   stringTokens: ["Afar", "Afar people", "Danakil", "Adali", "Odali"]
+   wikidataQnode: ["Q211720"]
+   languagesMostSpoken: ["Afar"]
+   religionsMostPracticed: ["Sunni Islam"]
+   livesIn: ["Obock Region", "Tadjourah Region", "Dikhil Region", "Arta Region"]
+   
+  ArabEthnicGroup:
+   stringTokens: ["Arabs", "Arab people", "Shukriya", "Shuwa", "Sukriya", "Arab", "the Arabs"]
+   wikidataQnode: ["Q35323"]
+   languagesMostSpoken: ["Arabic"]
+   religionsMostPracticed: ["Islam"]
+   livesIn: ["Ali Sabieh Region", "Djibouti Region"]
      
 ###PoliticalParties
   ARDParty:
@@ -79,7 +79,7 @@ concepts:
    associatedEthnicGroup: ["Issa", "Somali"]
    wikidataQnode: ["Q3550253"]
    yearsActiveasParty: ["1960s-1972"]
-    	
+   
   RUParty:
    stringTokens: ["Republican Union"]
    associatedEthnicGroup: ["Somali"]
@@ -113,7 +113,7 @@ concepts:
   UMPParty:
    stringTokens: ["Union for the Presidential Majority", "UMP"]
    associatedEthnicGroup: []
-   wikidataQnode: ["Q1538413]
+   wikidataQnode: ["Q1538413"]
    yearsActiveasParty: ["2003-present"]
   
   UPRParty:

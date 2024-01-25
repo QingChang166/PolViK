@@ -1,5 +1,5 @@
 concepts:
-    EquatorialGuineaSecurityForces:
+   EquatorialGuineaSecurityForces:
      stringTokens: ["Armed Forces of Equatorial Guinea", "Military of Equatorial Guinea", "Equatorial Guinean military", "FAGE"]
      wikidataQnode: ["Q2591870"]
   
@@ -13,7 +13,7 @@ concepts:
 
    BubiEthnicGroup:
      stringTokens: ["Bubi people", "Bobe", "Voove", "Ewota", "Bantu Bubi"]
-     wikidataQnode: ["Q41477"]s
+     wikidataQnode: ["Q41477"]
      languagesMostSpoken: ["Bube language"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Bioko Island"]
