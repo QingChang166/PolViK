@@ -971,29 +971,29 @@ bamilekeEthnicGroup:
     wikidataID: ["Q806017"]
     religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion", "muslimReligion"]
 bamumEthnicGroup:
-    stringTokens: ["Bamum"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Bamum", "Bamoum", "Bamun", "Mum"]
+    wikidataID: ["Q322083"]
+    religionsMostPracticed: ["sunniReligion"]
 bandaEthnicGroup:
     stringTokens: ["Banda", "Central Banda", "South Banda", "West Banda"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q806236"]
+    religionsMostPracticed: ["catholicReligion", "protestantReligion", "islamReligion"]
 bangweuluTwaEthnicGroup:
     stringTokens: ["Bangweulu Twa"]
-    wikidataID: [""]
+    wikidataID: ["Q7857394"]
     religionsMostPracticed: [""]
 baniwaEthnicGroup:
     stringTokens: ["Baniwa"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q614455"]
+    religionsMostPracticed: ["shamanismReligion"]
 banjareseEthnicGroup:
-    stringTokens: ["Banjarese"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Banjarese", "Banjar"]
+    wikidataID: ["Q2350149"]
+    religionsMostPracticed: ["sunniIslam"]
 barakTurkmensEthnicGroup:
     stringTokens: ["Barak Turkmens"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q6075727"]
+    religionsMostPracticed: ["sunniReligion", "shiaReligion", "alevismReligion"]
 bariEthnicGroup:
     stringTokens: ["Bari", "Pojulu", "Kakwa", "Nyangwara", "Mandari", "Kuku"]
     wikidataID: [""]
