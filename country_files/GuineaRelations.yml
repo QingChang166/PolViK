@@ -10,7 +10,7 @@ relations:
   - (Party, UFDGParty)
   - (Party, UFRParty)
   - (Party, UPRParty)
-  - (Party, DPG-ADRParty)
+  - (Party, DPGADRParty)
   - (Party, UNRParty)
   - (Party, PUPParty)
   - (Party, DSGParty)
