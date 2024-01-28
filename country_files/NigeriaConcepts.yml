@@ -204,10 +204,6 @@
      stringTokens: ["Nigerian Peoples Party"]
      wikidataQnode: ["Q7033003"]
   
-  PDPParty:
-     stringTokens: ["People's Democratic Party", "PDP"]
-     yearsActiveasParty: ["1998-present"]
-     wikidataQnode: ["Q1551163"]
 
 ## armed groups
    BokoHaramTransnationalArmedGroup:
@@ -304,11 +300,6 @@
      stringTokens: ["IPOB", "Indigenous People of Biafra", "ESN", "Eastern Security Network"]
      associatedEthnicGroup: ["IgboEthnicGroup"]
      yearsActiveasArmedGroup: ["2012-present"]
-
-   OPCArmedGroup:
-     stringTokens: ["OPC", "O'odua Peoples Congress"]
-     associatedEthnicGroup: ["YorubaEthnicGroup"]
-     yearsActiveasArmedGroup: ["1994- present"]
 
    JRCArmedGroup:
      stringTokens: ["JRC", "Joint Revolutionary Council"]
