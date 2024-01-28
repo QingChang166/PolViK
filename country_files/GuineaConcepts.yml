@@ -64,7 +64,7 @@ concepts:
      stringTokens: ["Union for Progress and Renewal"]
      wikidataQnode:  ["Q7886460"]
 
-   DPG-ADRParty:
+   DPGADRParty:
      stringTokens: ["Democratic Party of Guinea – African Democratic Rally"]
      wikidataQnode:  ["Q1186265"]
 
@@ -104,17 +104,9 @@ concepts:
      stringTokens: ["Union for Development Party"]
      wikidataQnode:  ["Q7886441"]
 
-   UPRParty:
-     stringTokens: ["Union for Progress and Renewal"]
-     wikidataQnode:  [""]
-
    UPGParty:
      stringTokens: ["Union for the Progress of Guinea"]
      wikidataQnode:  ["Q7886481"]
-
-   UFRParty:
-     stringTokens: ["Union of Republican Forces"]
-     wikidataQnode:  ["Q3550145"]
 
    UFCParty:
      stringTokens: ["Union of the Forces of Change "]
