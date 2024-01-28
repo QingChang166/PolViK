@@ -52,7 +52,8 @@ concepts:
      wikidataQnode: ["Q67263863"]
      yearsActiveasParty: ["2019-present"]
   
-    DCParty1:
+
+    DC1Party:
      stringTokens: ["Democratic Current"]
      wikidataQnode: ["Q17197994"]
      yearsActiveasParty: ["2013-present"] 
@@ -62,7 +63,7 @@ concepts:
      wikidataQnode: ["Q18205783"]
      yearsActiveasParty: ["2013-present"]
   
-    DCParty:
+    DC2Party:
      stringTokens: ["Dignity Coalition", "Al Karama"]
      wikidataQnode: ["Q65227809"]
      yearsActiveasParty: ["2019-present"]

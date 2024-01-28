@@ -119,8 +119,6 @@ concepts:
    stringTokens: ["People's Army for the Restoration of the Republic and Democracy", "PARRD"]
   fprArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Popular Front for Recovery", "FPR"]
-  ufdrArmedNonGovernmentalOrganizedGroup1:
-   stringTokens: ["Union of Democratic Forces for Unity", "UFDR"]
   aprdArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Army for the Restoration of Democracy", "APRD"]
   prncArmedNonGovernmentalOrganizedGroup:

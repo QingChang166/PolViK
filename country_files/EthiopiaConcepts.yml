@@ -339,11 +339,6 @@ concepts:
    wikidataQnode: ["Q1135107"]
    yearsActiveasEntity: ["1996-2012"] ##active as an entity
    yearsActiveasParty: ["1996-2012"] ##active as a political party
-  ofdmParty1:
-   stringTokens: ["Oromo Federalist Democratic Movement", "OFDM"]
-   wikidataQnode: ["Q1134412"]
-   yearsActiveasEntity: ["2005-2012"] ##active as an entity
-   yearsActiveasParty: ["2005-2012"] ##active as a political party
   ofcParty:
    stringTokens: ["Oromo Federalists Congress Party", "OFC", "Oromo Federalists Congress"] #merged by ONC and OFDM
    wikidataQnode: ["Q105552917"]
@@ -480,7 +475,7 @@ concepts:
    stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
    associatedEthnicGroup: ["tigrayanEthnicGroup"]
    regionsMostActive: ["Tigray", "Eritrea"]
-   yearsActiveasArmed: ["1976-1991", "2020-2022"] #CHECK LAST DATES
+   yearsActiveasArmed: ["1976-1991", "2020-2023"] 
   eprdfArmedGroup:
    stringTokens: ["EPRDF", "Ethiopian People's Revolutionary Democratic Front"]
    regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
@@ -609,9 +604,5 @@ concepts:
    associatedEthnicGroup: ["amharaEthnicGroup"]
    yearsActiveasArmed: ["2010-Present"]
    regionsMostActive: ["Amhara Region"]
-  tdfArmedGroup:
-   stringTokens: ["Tigray Defense Forces", "TDF"]
-   associatedEthnicGroup: ["tigrayanEthnicGroup"]
-   yearsActiveasArmed: ["2020-2023"]
-   regionsMostActive: ["Tigray Region"]
+
 
