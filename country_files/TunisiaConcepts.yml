@@ -4,7 +4,7 @@ concepts:
      wikidataQnode: ["Q926971"]
   
   ## ethnicgroups
-   arabEthnicGroup:
+    arabEthnicGroup:
      stringTokens: ["Arab", "Arab people"]
      wikidataQnode: ["Q35323"]
      languagesMostSpoken: ["Tunisian Arabic", "Arabic"]
@@ -52,6 +52,7 @@ concepts:
      wikidataQnode: ["Q67263863"]
      yearsActiveasParty: ["2019-present"]
   
+
     DC1Party:
      stringTokens: ["Democratic Current"]
      wikidataQnode: ["Q17197994"]

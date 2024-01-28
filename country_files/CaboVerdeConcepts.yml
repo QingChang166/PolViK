@@ -1,5 +1,5 @@
-FACVconcepts:
-    CaboVerdeSecurityForces:
+concepts:
+   CaboVerdeSecurityForces:
      stringTokens: ["Cape Verdean Armed Forces", "Cabo Verdean Armed Forces", "FACV", "Military of Cape Verde", "Cape Verde military", "People's Revolutionary Armed Forces", "CVAF", "Cape Verde Armed Forces"]
      wikidataQnode: ["Q1546252"]
   
@@ -33,38 +33,38 @@ FACVconcepts:
      livesIn: ["Praia"]
     
   ## politicalparties
-    DCPParty:
-     stringTokens: ["Party for Democratic Convergence", "Democratic Convergence Party"]
-     wikidataQnode: ["Q5255592"]
-     yearsActiveasParty: ["1994-oresent"]
-  
-    MPDParty:
-     stringTokens: ["Movement for Democracy"]
-     wikidataQnode: ["Q1951190"]
-     yearsActiveasParty: ["1990-present"]
-  
-    PAICVParty:
-     stringTokens: ["African Party for the Independence of Cape Verde"]
-     wikidataQnode: ["Q497464"]
-     yearsActiveasParty: ["1981-present"]
+   DCPParty:
+    stringTokens: ["Party for Democratic Convergence", "Democratic Convergence Party"]
+    wikidataQnode: ["Q5255592"]
+    yearsActiveasParty: ["1994-oresent"]
 
-    UCIDParty:
-     stringTokens: ["Democratic and Independent Cape Verdean Union"]
-     wikidataQnode: ["Q3550046"] 
-     yearsActiveasParty: ["1981-present"]
-  
-    PRDParty: 
-     stringTokens: ["Democratic Renewal Party"]
-     wikidataQnode: ["Q5255783"]
-     yearsActiveasParty: ["2000-present"]
+   MPDParty:
+    stringTokens: ["Movement for Democracy"]
+    wikidataQnode: ["Q1951190"]
+    yearsActiveasParty: ["1990-present"]
 
-    PTSParty:
-     stringTokens: ["Labour and Solidarity Party"]
-     wikidataQnode: ["Q6467536"]
-     yearsActiveasParty: ["1998-present"]
-  
-    PSDParty:
-     stringTokens: ["Social Democratic Party"]
-     wikidataQnode: ["Q3366708"]
-     yearsActiveasParty: ["1992-present"]
+   PAICVParty:
+    stringTokens: ["African Party for the Independence of Cape Verde"]
+    wikidataQnode: ["Q497464"]
+    yearsActiveasParty: ["1981-present"]
+
+   UCIDParty:
+    stringTokens: ["Democratic and Independent Cape Verdean Union"]
+    wikidataQnode: ["Q3550046"]
+    yearsActiveasParty: ["1981-present"]
+
+   PRDParty:
+    stringTokens: ["Democratic Renewal Party"]
+    wikidataQnode: ["Q5255783"]
+    yearsActiveasParty: ["2000-present"]
+
+   PTSParty:
+    stringTokens: ["Labour and Solidarity Party"]
+    wikidataQnode: ["Q6467536"]
+    yearsActiveasParty: ["1998-present"]
+
+   PSDParty:
+    stringTokens: ["Social Democratic Party"]
+    wikidataQnode: ["Q3366708"]
+    yearsActiveasParty: ["1992-present"]
   

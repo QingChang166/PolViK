@@ -1,140 +1,139 @@
 concepts:
   UgandaSecurityForces:
-   stringTokens: ["Ugandan Armed Forces", "Uganda People's Defence Forces", "UPDF", "Uganda Land Forces" "Uganda Army", "Uganda Air Force", "Uganda Marine Forces",
-                  "Special Forces Command", "SFC", "Military Police", "Uganda Police Force", "Field Force Unit", "FFU", "Criminal Investigations Division", "CID", "Special     			   Investigations Unit", "SIU", "Counter-Terrorism Unit", "CTU", "Traffic police", "Marine police", "Internal Security Organization", "ISO", "External Security
-                   Organizaton", "ESO", "Uganda Prisons Service"]  ##aliases go here
+   stringTokens: ["Ugandan Armed Forces", "Uganda People's Defence Forces", "UPDF", "Uganda Land Forces", "Uganda Army", "Uganda Air Force", "Uganda Marine Forces",
+                  "Special Forces Command", "SFC", "Military Police", "Uganda Police Force", "Field Force Unit", "FFU", "Criminal Investigations Division", "CID", "Special     			   Investigations Unit", "SIU", "Counter-Terrorism Unit", "CTU", "Traffic police", "Marine police", "Internal Security Organization", "ISO", "External Security Organizaton", "ESO", "Uganda Prisons Service"]  ##aliases go here
 ##ethnicgroups
   BagandaEthnicGroup:
    stringTokens: ["Baganda", "Ganda", "Buganda"]  ##aliases
    wikidataQnode: ["Q403656"]  #wikidata q node
    languagesMostSpoken: ["Luganda"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Muslim", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Central Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Central Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   BasogaEthnicGroup:
    stringTokens: ["Basoga", "Soga"]  ##aliases
    wikidataQnode: ["Q41299204"]  #wikidata q node
    languagesMostSpoken: ["Lusoga"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Muslim", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Eastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Eastern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   BakigaEthnicGroup:
    stringTokens: ["Bakiga", "Kiga", "Abakiga"]  ##aliases
    wikidataQnode: ["Q804430"]  #wikidata q node
    languagesMostSpoken: ["Rukiga"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Southwestern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Southwestern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   ItesoEthnicGroup:
    stringTokens: ["Iteso", "Teso"]  ##aliases
    wikidataQnode: ["Q1281344"]  #wikidata q node
    languagesMostSpoken: ["Ateso"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Eastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Eastern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   LangiEthnicGroup:
    stringTokens: ["Langi", "Lango", "Langui"]  ##aliases
    wikidataQnode: ["Q1273334"]  #wikidata q node
    languagesMostSpoken: ["Leblango"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Northern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Northern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   AcholiEthnicGroup:
    stringTokens: ["Acholi", "Acoli", "Acooli", "Atscholi", "Gan", "Lira Palwo", "Shuli"]  ##aliases
    wikidataQnode: ["Q340581"]  #wikidata q node
    languagesMostSpoken: ["Acholi"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Northern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Northern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   BagisuEthnicGroup:
    stringTokens: ["Bagisu", "Gisu", "Bamasaba", "Gishu", "Masaba", "Sokwia"]  ##aliases
    wikidataQnode: ["Q799929"]  #wikidata q node
    languagesMostSpoken: ["Lugisu"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Eastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Eastern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   BanyankoleEthnicGroup:
    stringTokens: ["Banyankole", "Nkole", "Nyankore", "Banyaankole", "Ankole", "Bayankore", "Ankore", "Nyankole"]  ##aliases
    wikidataQnode: ["Q3634450"]  #wikidata q node
    languagesMostSpoken: ["Runyankole"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Southwestern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Southwestern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   BatoroEthnicGroup:
    stringTokens: ["Batoro", "Toro", "Batooro", "Tooro"]  ##aliases
    wikidataQnode: ["Q16707038"]  #wikidata q node
    languagesMostSpoken: ["Rutoro"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Western Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here	
+   livesIn: ["Western Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   BunyoroEthnicGroup:
    stringTokens: ["Bunyoro", "Nyoro", "Unyoro"]  ##aliases
    wikidataQnode: ["Q889897"]  #wikidata q node
    languagesMostSpoken: ["Runyoro"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Western Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Western Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   IndianEthnicGroup:
    stringTokens: ["Indians", "Asians", "Ugandan Asians", "Ugandan Indians"]  ##aliases
    wikidataQnode: ["Q6024156"]  #wikidata q node
    languagesMostSpoken: ["English", "Gujarati", "Punjabi", "Hindi"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Hindu", "Islam", "Sikhism"]  ##religions most practiced- can be blank
-   livesIn: ["Kampala"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Kampala"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   AlurEthnicGroup:
    stringTokens: ["Alur", "Jupaliri"]  ##aliases
    wikidataQnode: ["Q202353"]  #wikidata q node
    languagesMostSpoken: ["Alur"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Northwestern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Northwestern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   KaramojongEthnicGroup:
    stringTokens: ["Karamojong", "Karimojong", "Karamoja", "Karamojo", "Karamajong", "Karama", "Karimajong", "Ngakarimongjong"]  ##aliases
    wikidataQnode: ["Q185549"]  #wikidata q node
    languagesMostSpoken: ["Ngakarimojong"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Northeastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Northeastern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   RwenzururuEthnicGroup:
    stringTokens: ["Rwenzururu", "Bakonjo", "Baamba", "Konjo", "Konzo", "Bakondjo", "Banande", "Nande", "Ndande", "Wakondjo", "Wanande", "Ndgandi", "Wahaondjo", "Yira"]  ##aliases
    wikidataQnode: ["Q804474"]  #wikidata q node
    languagesMostSpoken: ["Konjo", "Amba"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Western Uganda", "Rwenzori Mountains"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Western Uganda", "Rwenzori Mountains"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   SamiaEthnicGroup:
    stringTokens: ["Samia", "Samia-Bugwe", "Bugwe"]  ##aliases
    languagesMostSpoken: ["Lusamia"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity", "Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Eastern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Eastern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
   BatwaEthnicGroup:
    stringTokens: ["Batwa", "Twa", "pygmy", "Echuya Batwa"]  ##aliases
    wikidataQnode: ["Q5332860"]  #wikidata q node
    languagesMostSpoken: ["Konjo", "Amba"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Traditional beliefs"]  ##religions most practiced- can be blank
-   livesIn: ["Southwestern Uganda"]  places in country they live in, comment the geographic unit like ##administrative state  here
+   livesIn: ["Southwestern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
 ##politicalparties
   NRMParty:
    stringTokens: ["NRM", "National Resistance Movement"]
    wikidataQnode: ["Q382674"]
    yearsActiveasParty: ["1980-Present"]
- UPCParty:
+  UPCParty:
    stringTokens: ["UPC", "Uganda People's Congress"]
    associatedEthnicGroup: ["LangiEthnicGroup", "AcholiEthnicGroup"]
    wikidataQnode: ["Q2187095"]
    geographicRepresentation: ["Northern Uganda"]  ##particular regions the group represents  ##can be blank
    yearsActiveasParty: ["1960-Present"]
- DPParty:
+  DPParty:
    stringTokens: ["DP", "Democratic Party"]
    wikidataQnode: ["Q4157645"]
-   geographicRepresentation: ["Central Uganda""]  ##particular regions the group represents  ##can be blank
+   geographicRepresentation: ["Central Uganda"]  ##particular regions the group represents  ##can be blank
    associatedReligion: ["Catholicism"]  ##can be blank
    yearsActiveasParty: ["1954-Present"]
- FDCParty:
+  FDCParty:
    stringTokens: ["Forum for Democratic Change", "FDC"]
    wikidataQnode: ["Q116510993"]
    yearsActiveasParty: ["2004-Present"]
- CPParty:
+  CPParty:
    stringTokens: ["CP", "Conservative Party"]
    wikidataQnode: ["Q3366253"]
    geographicRepresentation: ["Central Uganda"]  ##particular regions the group represents  ##can be blank
    yearsActiveasParty: ["1980-Present"]
- JEEMAParty:
+  JEEMAParty:
    stringTokens: ["JEEMA", "Justice Forum"]
    wikidataQnode: ["Q376642"]
    associatedReligion: ["Islam"]  ##can be blank
    yearsActiveasParty: ["1995-Present"]
- NUPParty:
+  NUPParty:
    stringTokens: ["NUP", "National Unity Platform"]
    wikidataQnode: ["Q97627856"]
    yearsActiveasParty: ["2004-Present"]
- UFAParty:
+  UFAParty:
    stringTokens: ["UFA", "Uganda Federal Alliance"]
    wikidataQnode: ["Q115801037"]
    yearsActiveasParty: ["2010-Present"]
@@ -146,82 +145,82 @@ concepts:
    regionsMostActive: ["Northern Uganda"]
    yearsActiveasArmedGroup: ["1987-Present"]
    wikidataQnode: ["Q108462"]
- ADFArmedGroup:
+  ADFArmedGroup:
    stringTokens: ["Allied Democratic Forces", "ADF"]
    associatedEthnicGroup: ["NandeEthnicGroup"]
    associatedReligion: ["Islam"]
    regionsMostActive: ["Western Uganda"]
    wikidataQnode: ["Q1133743"]
    yearsActiveasArmedGroup: ["1996-Present"]
- NALUArmedGroup:
+  NALUArmedGroup:
    stringTokens: ["NALU", "National Army for the Liberation of Uganda"]
    associatedReligion: ["Islam"]
    regionsMostActive: ["Western Uganda"]
    yearsActiveasArmedGroup: ["1980-1996"]
    wikidataQnode: ["Q16203739"]
- HSMArmedGroup:
+  HSMArmedGroup:
    stringTokens: ["HSM", "Holy Spirit Movement"]
    associatedEthnicGroup: ["AcholiEthnicGroup"]
    associatedReligion: ["Christian"]
    regionsMostActive: ["Northern Uganda"]
    yearsActiveasArmedGroup: ["1986-1987"]
    wikidataQnode: ["Q1625351"]
- UNRFArmedGroup:
+  UNRFArmedGroup:
    stringTokens: ["UNRF", "Uganda National Rescue Front"]
    regionsMostActive: ["Northern Uganda"]
    yearsActiveasArmedGroup: ["1980-2010"]
    wikidataQnode: ["Q7877619"]
- WNBFArmedGroup:
+  WNBFArmedGroup:
    stringTokens: ["WNBF", "West Nile Bank Front"]
-   yearsActiveasArmedGroup: ["1995-1998]
+   yearsActiveasArmedGroup: ["1995-1998"]
    wikidataQnode: ["Q1276232"]
-UPAArmedGroup:
+  UPAArmedGroup:
    stringTokens: ["UPA", "Uganda People's Army"]
    associatedEthnicGroup: ["ItesoEthnicGroup"]
    regionsMostActive: ["Eastern Uganda"]
    yearsActiveasArmedGroup: ["1987-1992"]
    wikidataQnode: ["Q7877622"]
-UFMArmedGroup:
+  UFMArmedGroup:
    stringTokens: ["Uganda Freedom Movement", "UFM"]
    regionsMostActive: ["Central Uganda"]
    yearsActiveasArmedGroup: ["1981-1985"]
-FEDEMUArmedGroup:
+  FEDEMUArmedGroup:
    stringTokens: ["FEDEMU", "Federal Democratic Movement of Uganda"]
    regionsMostActive: ["Central Uganda", "Western Uganda"]
    yearsActiveasArmedGroup: ["1980-1986"]
-UNLFArmedGroup:
+  UNLFArmedGroup:
    stringTokens: ["UNLF", "Uganda National Liberation Front"]
    yearsActiveasArmedGroup: ["1978-1979"]
    wikidataQnode: ["Q2738248"]
-SUMArmedGroup:
+  SUMArmedGroup:
    stringTokens: ["SUM", "Save Uganda Movement"]
    regionsMostActive: ["Central Uganda"]
    yearsActiveasArmedGroup: ["1981-1985"]
    wikidataQnode: ["Q104835651"]
-PRedemptionAArmedGroup:
+  PRedemptionAArmedGroup:
    stringTokens: ["People's Redemption Army", "PRA"]
    regionsMostActive: ["Western Uganda"]
    yearsActiveasArmedGroup: ["2000-2005"]
    wikidataQnode: ["Q7165737"]
-FOBAArmedGroup:
+  FOBAArmedGroup:
    stringTokens: ["FOBA", "Force Obote Back Again"]
    regionsMostActive: ["Northern Uganda"]
    yearsActiveasArmedGroup: ["1980-1990"]
-UNDAArmedGroup:
+  UNDAArmedGroup:
    stringTokens: ["UNDA", "Uganda National Democratic Alliance"]
    regionsMostActive: ["Eastern Uganda"]
    yearsActiveasArmedGroup: ["1980-1990"]
-UFFArmedGroup:
-   stringTokens: ["UFF", "Uganda Freedom Fighters" "Buganda Army"]
+  UFFArmedGroup:
+   stringTokens: ["UFF", "Uganda Freedom Fighters", "Buganda Army"]
    associatedEthnicGroup: ["BugandaEthnicGroup"]
    regionsMostActive: ["Central Uganda"]
    yearsActiveasArmedGroup: ["1980-1990"]
    wikidataQnode: ["Q7877596)"]
-PopRAArmedGroup:
+  PopRAArmedGroup:
    stringTokens: ["PRA", "Popular Resistance Army"]
    yearsActiveasArmedGroup: ["1980-1990"]
    wikidataQnode: ["Q7229726"]
-NRAArmedGroup:
+  NRAArmedGroup:
    stringTokens: ["NRA", "National Resistance Army"]
    yearsActiveasArmedGroup: ["1983-1990"]
    wikidataQnode: ["Q1967703"]

@@ -1,7 +1,7 @@
 concepts:
   KenyaSecurityForces:
    stringTokens: ["Kenya Defence Forces", "KDF", "Kenya Army", "Kenya Air Force", "Kenya Navy", "National Police Service", "Kenya Police Service", "KPS", "Administrative Police Service",
-                  "APS", "Directorate of Criminal Investigations", "DCI", "General Service Unit", "GSU", "Kenya Wildlife Service", "KWS", "Kenya Forest Service", "KFS", "National         		   Intelligence Service", "NIS", "National Security Intelligence Service", "NSIS"
+                  "APS", "Directorate of Criminal Investigations", "DCI", "General Service Unit", "GSU", "Kenya Wildlife Service", "KWS", "Kenya Forest Service", "KFS", "National         		   Intelligence Service", "NIS", "National Security Intelligence Service", "NSIS"]
 
 
 ##ethnicgroups
@@ -22,73 +22,73 @@ concepts:
    languagesMostSpoken: ["Dholou"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Nyanza"]  ##administrative state, region
- KalenjinEthnicGroup:
+  KalenjinEthnicGroup:
    stringTokens: ["Kalenjin", "Nandi-Markweta"]  
    wikidataQnode: ["Q56932"]  
    languagesMostSpoken: ["Kalenjin"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Rift Valley Province"]  ##administrative state, region
-KambaEthnicGroup:
+  KambaEthnicGroup:
    stringTokens: ["Kamba", "Akamba"]  
    wikidataQnode: ["Q1143929"]  
    languagesMostSpoken: ["Kamba", "Kikamba", "Wakamba"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Eastern Province"]  ##administrative state, region
-KisiiEthnicGroup:
+  KisiiEthnicGroup:
    stringTokens: ["Kisii", "Abagusii", "Gusii"]  
    wikidataQnode: ["Q1276025"]  
    languagesMostSpoken: ["Kisii"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Nyanza"]  ##administrative state, region	
-MeruEthnicGroup:
+  MeruEthnicGroup:
    stringTokens: ["Meru", "Ameru"]  
    wikidataQnode: ["Q1290677"]  
    languagesMostSpoken: ["Meru"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Meru County"]  ##administrative state, region	
-MijikendaEthnicGroup:
+  MijikendaEthnicGroup:
    stringTokens: ["Mijikenda", "Nyika", "Kinyika", "Midzichenda", "Miji Kenda", "Nika", "Wanika"]  
    wikidataQnode: ["Q1261871"]  
    languagesMostSpoken: ["Mijikenda"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Coast Province"]  ##administrative state, region	
-MaasaiEthnicGroup:
+  MaasaiEthnicGroup:
    stringTokens: ["Maasai"]  
    wikidataQnode: ["Q163022"]  
    languagesMostSpoken: ["Maasai"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Kajiado", "Narok"]  ##administrative state, region
-SomaliEthnicGroup:
+  SomaliEthnicGroup:
    stringTokens: ["Somali", "Soomaali"]  
    wikidataQnode: ["Q241696"]  
    languagesMostSpoken: ["Somali"]  
    religionsMostPracticed: ["Islam"] 
    livesIn: ["North Eastern Province"]  ##administrative state, region
-TurkanaEthnicGroup:
+  TurkanaEthnicGroup:
    stringTokens: ["Turkana", "njTurkana", "Elgume", "Ng'aturkana", "Ng'aturkwana"]
    wikidataQnode: ["Q1453190"]  
    languagesMostSpoken: ["Turkana"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Turkana County"]  ##administrative state, region
-EmbuEthnicGroup:
+  EmbuEthnicGroup:
    stringTokens: ["Aembu", "Embu", "Kiemba"]
    wikidataQnode: ["Q2749449"]  
    languagesMostSpoken: ["Kîembu"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Embu County"]  ##administrative state, region
-TaitaEthnicGroup:
+  TaitaEthnicGroup:
    stringTokens: ["Taita", "Dawida", "Wataita"]
    wikidataQnode: ["Q1276078"]  
    languagesMostSpoken: ["Taita"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Taita-Taveta County"]  ##administrative state, region
-KuriaEthnicGroup:
-   stringTokens: ["Kuria", "AbaKurya]
+  KuriaEthnicGroup:
+   stringTokens: ["Kuria", "AbaKurya"]
    wikidataQnode: ["Q1552724"]  
    languagesMostSpoken: ["Ikikuria"]  
    religionsMostPracticed: ["Christianity"] 
    livesIn: ["Migori County"]  ##administrative state, region
- SwahiliEthnicGroup:
+  SwahiliEthnicGroup:
    stringTokens: ["Swahili", "Kiswahili", "Waswahili", "Suaheli", "Suaili", "Wasuaheli"]
    wikidataQnode: ["Q721854"]
    languagesMostSpoken: ["Kiswahili"]
@@ -103,7 +103,7 @@ KuriaEthnicGroup:
    wikidataQnode: ["Q1422517"]
   NARCParty:
    stringTokens: ["NARC", "National Rainbow Coalition"]
-   yearsActiveasParty: ["2002-2016""]
+   yearsActiveasParty: ["2002-2016"]
    wikidataQnode: ["Q10963557"]
   ODMParty:
    stringTokens: ["ODM", "Orange Democratic Movement", "Wiper Democratic Movement"]
@@ -111,17 +111,17 @@ KuriaEthnicGroup:
    yearsActiveasParty: ["2005-present"]
    wikidataQnode: ["Q5251223"]
    regionsMostActive: ["Nyanza", "Nairobi"]
- TNAParty:
+  TNAParty:
    stringTokens: ["TNA", "The Natonal Alliance"]
    associatedEthnicGroup: ["KikuyuEthnicGroup"]
    yearsActiveasParty: ["2012-2016"]
    wikidataQnode: ["Q7193584"]
- JubileeParty:
+  JubileeParty:
    stringTokens: ["Jubilee Party"]
    associatedEthnicGroup: ["KikuyuEthnicGroup", "KalenjinEthnicGroup"]
    yearsActiveasParty: ["2016-Present"]
    wikidataQnode: ["Q27963537"]
- UDAParty:
+  UDAParty:
    stringTokens: ["United Democratic Alliance", "UDA"]
    yearsActiveasParty: ["2020-Present"]
    regionsMostActive: ["Rift Valley"]

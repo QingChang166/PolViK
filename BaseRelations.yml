@@ -1092,7 +1092,7 @@ relations:  # parent concept, child concept, tuples
     - (languageGroup, yueChineseLanguage)
     - (languageGroup, vietnameseLanguage)
     - (languageGroup, wuChineseLanguage)
-     -(languageGroup, tagalogLanguage)
+    - (languageGroup, tagalogLanguage)
     - (languageGroup, koreanLanguage)
     - (languageGroup, iranianPersianLanguage)
     - (languageGroup, hausaLanguage)

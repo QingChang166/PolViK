@@ -19,7 +19,7 @@ concepts:
   
   # Below are less than 5%
   AbazinsEthnicGroup:
-    stringTokens: ["Abazins", "Abaza", "Abazinians", "Abazalar  MBArmedGroup:
+    stringTokens: ["Abazins", "Abaza", "Abazinians", "Abazalar  MBArmedGroup"]
     wikidataQnode: ["Q213040"]
     languagesMostSpoken: ["Abaza", "Russian", "Arabic", "Turkish"]
     religionsMostPracticed: ["Sunni Islam"]

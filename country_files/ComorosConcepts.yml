@@ -177,7 +177,7 @@ concepts:
      yearsActiveasParty: [""]
 
   ## armed groups
-    APMArmedGroup:
+   APMArmedGroup:
      stringTokens: ["Anjouan People's Movement"]
      associatedEthnicGroup: ["Ngazija Comorian", "Nzwani Comorian"]
      wikidataQnode: [""]

@@ -1,5 +1,5 @@
-Cameroonarmedforcesconcepts:
-    SecurityForces:
+concepts:
+    cameroonSecurityForces:
      stringTokens: ["Cameroon Armed Forces", "FAC"]
   
   ## ethnicgroups

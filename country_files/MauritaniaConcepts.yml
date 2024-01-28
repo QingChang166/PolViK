@@ -1,5 +1,5 @@
 concepts:
-    MauritaniaSecurityForces:
+   MauritaniaSecurityForces:
      stringTokens: ["Armed Forces of Mauritania"]
      wikidataQnode: ["Q769807"]
   
@@ -49,7 +49,7 @@ concepts:
    APPParty:
      stringTokens: ["People's Progressive Alliance"]
      wikidataQnode:  ["Q7165717"]
-    yearsActiveasParty: [""]
+     yearsActiveasParty: [""]
 
    UPRParty:
      stringTokens: ["Union for the Republic"]
@@ -80,17 +80,17 @@ concepts:
    ACParty:
      stringTokens: ["Action for Change"]
      wikidataQnode:  ["Q4677199"]
-    yearsActiveasParty: ["1996-2002"]
+     yearsActiveasParty: ["1996-2002"]
 
    UPMParty:
      stringTokens: ["Mauritanian Progressive Union"]
      wikidataQnode:  ["Q17009697"]
-    yearsActiveasParty: ["1948-1958"]
+     yearsActiveasParty: ["1948-1958"]
 
    RDUParty:
      stringTokens: ["Rally for Democracy and Unity"]
      wikidataQnode:  ["Q7287085"]
-    yearsActiveasParty: ["1991-present"]
+     yearsActiveasParty: ["1991-present"]
 
    UDPParty:
      stringTokens: ["Union for Democracy and Progress"]

@@ -31,9 +31,7 @@ concepts:
    associatedEthnicGroup: ["hutuEthnicGroup"]
  ##ArmedGroups
   CNDDFDDArmedGroup:  ##how to disambig?
-   stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil 
-                  for the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la 
-                  Démocratie–Forces pour la Défense de la Démocratie"]
+   stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil for the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la Démocratie–Forces pour la Défense de la Démocratie"]
    associatedEthnicGroup: ["hutuEthnicGroup"]
   FNLArmedGroup:
    stringTokens: ["National Liberation Forces", "FNL", "Forces pour la Libération Nationale", "Palipehutu-FNL"]
@@ -42,7 +40,7 @@ concepts:
    stringTokens: ["Imbonerakure", "Youth Wing of the CNDD-FDD"]
    associatedEthnicGroup: ["hutuEthnicGroup"]
   JRRArmedGroup:
-   stringTokens: ["JRR", "Jeunesse Révolutionnaire Rwagasore", "Union for National Progress (UPRONA) Youth Wing"}
+   stringTokens: ["JRR", "Jeunesse Révolutionnaire Rwagasore", "Union for National Progress (UPRONA) Youth Wing"]
    associatedEthnicGroup: ["tutsiEthnicGroup"]
   
   

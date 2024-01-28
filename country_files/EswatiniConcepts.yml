@@ -1,42 +1,42 @@
 concepts:
   RoyalSwazilandDefenceForces:
-    stringTokens: ["Royal Swaziland Defence Force"]
-    wikidataQnode:["Q2076767"]
-    yearsActiveasDefenceForces: ["1968-1979"]
+   stringTokens: ["Royal Swaziland Defence Force"]
+   wikidataQnode: ["Q2076767"]
+   yearsActiveasDefenceForces: ["1968-1979"]
     
   UmbufoEswatiniDefenceForces:
-    stringTokens: ["Umbutfo Eswatini Defence Force", "UEDF", "Military of Swaziland"]
-    wikidataQnode:["Q2076767"]
-    yearsActiveasDefenceForces: ["1979-present"]
+   stringTokens: ["Umbutfo Eswatini Defence Force", "UEDF", "Military of Swaziland"]
+   wikidataQnode: ["Q2076767"]
+   yearsActiveasDefenceForces: ["1979-present"]
 
 ###EthnicGroups:
   SwaziEthnicGroup:
-    stringTokens: ["Swazi", "Swati", "Emaswati", "Liswati", "Amaswazi", "Isiswazi", "Ngwane", "Siswazi", "Tekela", "Tekeza"]
-    wikidataQnode: ["Q939691"]
-    languagesMostSpoken: ["Siswati", "English"]
-    religionsMostPracticed: ["Christianity", "Swazi religion"]
-    livesIn: [""]
-  
+   stringTokens: ["Swazi", "Swati", "Emaswati", "Liswati", "Amaswazi", "Isiswazi", "Ngwane", "Siswazi", "Tekela", "Tekeza"]
+   wikidataQnode: ["Q939691"]
+   languagesMostSpoken: ["Siswati", "English"]
+   religionsMostPracticed: ["Christianity", "Swazi religion"]
+   livesIn: [""]
+ 
   ZuluEthnicGroup:
-    stringTokens: ["Zulu people", "Zulu", "amaZulu", "Zulu manes", "Isizulu", "Kafirs", "Zulus", "Zunda"]
-    wikidataQnode: ["Q129962"]
-    languagesMostSpoken: ["Zulu", "Tsonga", "Sotho", "English", "IsiZulu"]
-    religionsMostPracticed: ["Christianity", "Zulu religion"]
-    livesIn: [""]
+   stringTokens: ["Zulu people", "Zulu", "amaZulu", "Zulu manes", "Isizulu", "Kafirs", "Zulus", "Zunda"]
+   wikidataQnode: ["Q129962"]
+   languagesMostSpoken: ["Zulu", "Tsonga", "Sotho", "English", "IsiZulu"]
+   religionsMostPracticed: ["Christianity", "Zulu religion"]
+   livesIn: [""]
   
   TsongaEthnicGroup:
-    stringTokens: ["Tsonga people", "Tsonga", "Vatsonga", "Baronga", "Bathonga", "Nhlanganue", "Ronga", "Songa", "Thonga", "Tonga"]
-    wikidataQnode: ["Q902325"]
-    languagesMostSpoken: ["Xitsonga", "Tsonga", "Portuguese", "English"]
-    religionsMostPracticed: ["African traditional religion", "Christianity"]
-    livesIn: [""]
+   stringTokens: ["Tsonga people", "Tsonga", "Vatsonga", "Baronga", "Bathonga", "Nhlanganue", "Ronga", "Songa", "Thonga", "Tonga"]
+   wikidataQnode: ["Q902325"]
+   languagesMostSpoken: ["Xitsonga", "Tsonga", "Portuguese", "English"]
+   religionsMostPracticed: ["African traditional religion", "Christianity"]
+   livesIn: [""]
   
    AfrikanersEthnicGroup:
-     stringTokens: ["Afrikaners", "Afrikaner", "Afrikaner people", "Afrikander", "Boers"]
-     wikidataQnode: ["Q385799"]
-     languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
-     religionsMostPracticed: ["Calvinism", "Protestantism", "Catholicism"]
-     livesIn: [""]
+    stringTokens: ["Afrikaners", "Afrikaner", "Afrikaner people", "Afrikander", "Boers"]
+    wikidataQnode: ["Q385799"]
+    languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
+    religionsMostPracticed: ["Calvinism", "Protestantism", "Catholicism"]
+    livesIn: [""]
 
    # Ethnic groups with population share less than 1% are omitted.
 

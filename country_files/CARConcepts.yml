@@ -18,7 +18,7 @@ concepts:
   bandalindaLinguisticGroup:
    stringTokens: ["Banda Linda", "Banda Bambari", "Linda", "Banda-Bambari Linda"]
    wikidataQnode: ["Q4854293"]
-   livesIn: ["Haut-Mbomou", "Ouaka, "Basse-Kotto"]
+   livesIn: ["Haut-Mbomou", "Ouaka", "Basse-Kotto"]
   fulaniEthnicGroup:
    stringTokens: ["Fulani", "Fulani people", "Fula", "Peuhlg"]
    wikidataQnode: ["Q202575"]

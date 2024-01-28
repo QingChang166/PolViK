@@ -1,7 +1,7 @@
 concepts:
   MoroccanSecurityForces:
     stringTokens: ["Royal Moroccan Armed Forces", "Military of Morocco"]
-    wikidataQnode:["Q34511"]
+    wikidataQnode: ["Q34511"]
     
 ###EthnicGroups:
   ArabEthnicGroup:
@@ -16,19 +16,19 @@ concepts:
     wikidataQnode: ["Q45315"]
     languagesMostSpoken: ["Berber languages", "Tamazight", "Arabic"]
     religionsMostPracticed: ["Sunni Islam"]
-    livesIn: ["Guelmim-Oued Noun", "L'Oriental", "Drâa-Tafilalet", "Souss-Massa", "Fès-Meknès", "Tanger-Tétouan-Al Hoceïma", "Béni Mellal-Khénifra", "Marrakech-Safi", "Rabat-Salé-Kénitra", "Fès-Meknès", "Laâyoune-Sakia El Hamra]
+    livesIn: ["Guelmim-Oued Noun", "L'Oriental", "Drâa-Tafilalet", "Souss-Massa", "Fès-Meknès", "Tanger-Tétouan-Al Hoceïma", "Béni Mellal-Khénifra", "Marrakech-Safi", "Rabat-Salé-Kénitra", "Fès-Meknès", "Laâyoune-Sakia El Hamra"]
 
   SahrawiEthnicGroup:
     stringTokens: ["Sahrawi", "Sahrawi people", "Ṣaḥrāwī", "Shuwa", "Sukriya", "Arab", "the Arabs"]
     wikidataQnode: ["Q577055"]
-    languagesMostSpoken: ["Hassaniya Arabic" "Berber languages", "Arabic" ]
+    languagesMostSpoken: ["Hassaniya Arabic", "Berber languages", "Arabic"]
     religionsMostPracticed: ["Sunni Islam"]
     livesIn: ["Guelmim-Oued Noun", "Laâyoune-Sakia El Hamra", "Dakhla-Oued Ed-Dahab"] # Mass presence in distriputed Moroccan-controlled zone in Western Sahara 
   
   MoorEthnicGroup:
     stringTokens: ["Moor", "Moriscos", "Moriscoes"]
     wikidataQnode: ["Q169260"]
-    languagesMostSpoken: ["Hassaniya Arabic" "Berber languages", "Arabic", "Zenaga Berber"]
+    languagesMostSpoken: ["Hassaniya Arabic", "Berber languages", "Arabic", "Zenaga Berber"]
     religionsMostPracticed: ["Islam"]
     livesIn: ["Guelmim-Oued Noun", "Laâyoune-Sakia El Hamra", "Dakhla-Oued Ed-Dahab"]
   
@@ -108,7 +108,7 @@ concepts:
    associatedEthnicGroup: ["Berber"]
    wikidataQnode: ["Q1471276"]
    yearsActiveasParty: ["1957-present"]
-    	
+   
   UNFPParty:
    stringTokens: ["National Union of Popular Forces", "UNFP", "Union Nationale des Forces Populaires"]
    associatedEthnicGroup: []
