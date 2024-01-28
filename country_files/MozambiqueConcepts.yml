@@ -234,11 +234,6 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004"] ##active as a political party
-  drpParty:
-   stringTokens: ["Democratic Reconciliation Party"]
-   wikidataQnode: []
-   yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2004"] ##active as a political party
   usmParty:
    stringTokens: ["Union for the Salvation of Mozambique"]
    wikidataQnode: []
@@ -334,11 +329,6 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["2014"] #active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2014"] #active as a political party
-  pdpParty:
-   stringTokens: ["Popular Democratic Party"]
-   wikidataQnode: []
-   yearsActiveasEntity: ["2014"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2014"] ##active as a political party
   apumisParty:
    stringTokens: ["Action Party of the United Movement for Integral Salvation"]
    wikidataQnode: []
