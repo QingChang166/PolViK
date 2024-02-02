@@ -1153,3 +1153,4 @@ relations:  # parent concept, child concept, tuples
     - (continent, oceaniaContinent)
     - (muslimReligion, alawismReligion)
     - (muslimReligion, ibadiReligion)
+    - (religionGroup, sarnaismReligion)
