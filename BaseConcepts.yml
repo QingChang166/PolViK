@@ -386,6 +386,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Punic", "Carthaginian religion", "West Phoenician religion"]
   traditionalBerberReligion:
     stringTokens: ["traditional berber religion", "berber religion"]
+  sarnaismReligion:
+    stringTokens: ["sarnaism", "sarna dharma", "religion of the holy woods"]
   badimoReligion:
     stringTokens: ["badimo", "badimo religion", "badimo mythology", "badimo folk belief", "badimo traditional belief"]
   sanReligion:
@@ -1074,83 +1076,85 @@ bariEthnicGroup:
     wikidataID: ["Q28208771"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
   bezhtaEthnicGroup:
-    stringTokens: ["Bezhta"]
+    stringTokens: ["Bezhta", "kapuchi"]
+    wikidataID: ["Q2641248"]
+    religionsMostPracticed: ["sunniReligion"]
   bhilsEthnicGroup:
     stringTokens: ["Bhils", "Barda", "Bhagalia", "Bhilala", "Bhil Gametia", "Bhil Garasia", "Bhil Kataria", "Bhil Mama", "Bhil Mavchi", "Dholi Bhil", "Dungri Bhil", "Damor", "Dungri Garasia", "Mewasi Bhil", "Nirdhi Bhil", "Rawal Bhil", "Tadvi Bhil", "Vasava", "Bhil Meena", "Chaudhri", "Bagdi"]
-     wikidataID: [""]
-    religionsMostPracticed: [""]
+     wikidataID: ["Q854970"]
+    religionsMostPracticed: ["hinduismReligion"]
   bhojpurisEthnicGroup:
     stringTokens: ["Bhojpuris", "Paswan", "Teli"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q29025020"]
+    religionsMostPracticed: ["hinduismReligion"]
   bhumijsEthnicGroup:
-    stringTokens: ["Bhumijs"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Bhumijs", "sardar", "mura"]
+    wikidataID: ["Q4100828"]
+    religionsMostPracticed: ["hinduismReligion", "sarnaismReligion"]
   bicolanosEthnicGroup:
     stringTokens: ["Bicolanos", "Central Bikol", "Sorsoganons", "Catandunganons", "Rinconada", "Albayanon"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1293737"]
+    religionsMostPracticed: ["catholicReligion", "christianReligion"]
   bidayuhEthnicGroup:
     stringTokens: ["Bidayuh", "Kendayan", "Selako", "Bakatiʼ", "Sara Bakati'", "Laraʼ", "Bukar–Sadong", "Biatah", "Tringgus", "Jagoi", "Jangkang", "Kembayan", "Semandang", "Ribun", "Nyaduʼ", "Sanggau"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q476397"]
+    religionsMostPracticed: ["catholicReligion", "protestantReligion", "muslimReligion", "animismReligion"]
   bilalaEthnicGroup:
-    stringTokens: ["Bilala"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Bilala", "boulala", "bulala"]
+    wikidataID: ["Q600915"]
+    religionsMostPracticed: ["muslimReligion"]
   bimaneseEthnicGroup:
-    stringTokens: ["Bimanese"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Bimanese", "bimese", "mbojo"]
+    wikidataID: ["Q12497676"]
+    religionsMostPracticed: ["muslimReligion"]
   bishnupriyaManipurisEthnicGroup:
     stringTokens: ["Bishnupriya Manipuris"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q4918368"]
+    religionsMostPracticed: ["vaishnavismReligion"]
   bissaEthnicGroup:
-    stringTokens: ["Bissa"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Bissa", "bisa", "busansi"]
+    wikidataID: ["Q866644"]
+    religionsMostPracticed: ["muslimReligion"]
   blaanEthnicGroup:
     stringTokens: ["Blaan"]
-    wikidataID: [""]
+    wikidataID: ["Q4086649"]
     religionsMostPracticed: [""]
   blackfootEthnicGroup:
     stringTokens: ["Blackfoot", "Kainai Nation", "Piegan Blackfeet", "Piikani Nation", "Siksika Nation"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1680351"]
+    religionsMostPracticed: ["shamanismReligion"]
   boaEthnicGroup:
-    stringTokens: ["Boa"]
-    wikidataID: [""]
+    stringTokens: ["Boa", "Baboa", "Babua", "Ababwa", "Bwa", "Ababua", "Bobwa", "Mangbua", "Ababua", "Babwa"]
+    wikidataID: ["Q2907504"]
     religionsMostPracticed: [""]
   bodoEthnicGroup:
-    stringTokens: ["Bodo", "Mech", "Kachari"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Bodo", "Mech", "Kachari", "boros"]
+    wikidataID: ["Q1266593"]
+    religionsMostPracticed: ["hinduismReligion", "baptistReligion"]
   bokotaEthnicGroup:
-    stringTokens: ["Bokota"]
-    wikidataID: [""]
+    stringTokens: ["Bokota", "bogota", "bugleres"]
+    wikidataID: ["Q4938810"]
     religionsMostPracticed: [""]
   bondeiEthnicGroup:
     stringTokens: ["Bondei"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1613483"]
+    religionsMostPracticed: ["muslimReligion", "christianReligion", "traditionalAfricanReligion"]
   bororoEthnicGroup:
     stringTokens: ["Bororo"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q894069"]
+    religionsMostPracticed: ["animismReligion"]
   bosniaksEthnicGroup:
     stringTokens: ["Bosniaks"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q8307806"]
+    religionsMostPracticed: ["sunniIslam"]
   botlikhsEthnicGroup:
     stringTokens: ["Botlikhs"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q2029821"]
+    religionsMostPracticed: ["sunniReligion"]
   bouyeiEthnicGroup:
     stringTokens: ["Bouyei", "Giay"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q673161"]
+    religionsMostPracticed: ["buddhismReligion", "moismReligion"]
   bozoEthnicGroup:
     stringTokens: ["Bozo"]
     wikidataID: [""]
@@ -1161,36 +1165,68 @@ bariEthnicGroup:
     religionsMostPracticed: [""]
   bretonsEthnicGroup:
     stringTokens: ["Bretons"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   bribriEthnicGroup:
     stringTokens: ["Bribri"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   bruEthnicGroup:
     stringTokens: ["Bru"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   bruneianEthnicGroup:
     stringTokens: ["Bruneian", "Kedayan Bruneian"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   bubiEthnicGroup:
     stringTokens: ["Bubi"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   buduEthnicGroup:
     stringTokens: ["Budu"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   budukhsEthnicGroup:
     stringTokens: ["Budukhs"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   budumaEthnicGroup:
     stringTokens: ["Buduma"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   bugineseEthnicGroup:
     stringTokens: ["Buginese"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   bulgariansEthnicGroup:
     stringTokens: ["Bulgarians", "Pomaks", "Paulicians", "Macedonian Bulgarians", "Bessarabian Bulgarians", "Dobrujan Bulgarians", "Thracian Bulgarians"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   bununEthnicGroup:
     stringTokens: ["Bunun"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   burghersEthnicGroup:
     stringTokens: ["Burghers", "Dutch Burghers", "Portuguese Burghers"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   burushosEthnicGroup:
     stringTokens: ["Burushos"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   buryatsEthnicGroup:
     stringTokens: ["Buryats"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   butoneseEthnicGroup:
     stringTokens: ["Butonese"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   bwaEthnicGroup:
     stringTokens: ["Bwa"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   cahuillaEthnicGroup:
     stringTokens: ["Cahuilla", "Pass Cahuilla", "Agua Caliente Cahuilla", "Morongo Cahuilla", "Mountain Cahuilla", "Cahuilla Band of Indians", "Los Coyotes Cahuilla", "Ramona Cahuilla", "Santa Rosa Cahuilla", "Desert Cahuilla", "Augustine Cahuilla", "Cabazon Cahuillla", "Torres Martinez Desert Cahuilla"]
   caldocheEthnicGroup:
