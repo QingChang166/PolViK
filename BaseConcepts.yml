@@ -1192,153 +1192,265 @@ bariEthnicGroup:
     wikidataID: ["Q2658415"]
     religionsMostPracticed: ["sunniReligion"]
   budumaEthnicGroup:
-    stringTokens: ["Buduma"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Buduma", "Boudouma", "Yedina"]
+    wikidataID: ["Q2921499"]
+    religionsMostPracticed: ["muslimReligion"]
   bugineseEthnicGroup:
-    stringTokens: ["Buginese"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Buginese", "bugis"]
+    wikidataID: ["Q1002570"]
+    religionsMostPracticed: ["muslimReligion"]
   bulgariansEthnicGroup:
     stringTokens: ["Bulgarians", "Pomaks", "Paulicians", "Macedonian Bulgarians", "Bessarabian Bulgarians", "Dobrujan Bulgarians", "Thracian Bulgarians"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q133255"]
+    religionsMostPracticed: ["greekOrthodox"]
   bununEthnicGroup:
     stringTokens: ["Bunun"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q9681618"]
+    religionsMostPracticed: ["animismReligion", "christianReligion"]
   burghersEthnicGroup:
     stringTokens: ["Burghers", "Dutch Burghers", "Portuguese Burghers"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q206642"]
+    religionsMostPracticed: ["catholicReligion", "anglicanReligion", "buddhismReligion"]
   burushosEthnicGroup:
     stringTokens: ["Burushos"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q367765"]
+    religionsMostPracticed: ["shiaReligion"]
   buryatsEthnicGroup:
     stringTokens: ["Buryats"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q207050"]
+    religionsMostPracticed: ["buddhismReligion", "russianOrthodox", "shamanism"]
   butoneseEthnicGroup:
     stringTokens: ["Butonese"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q12517193"]
+    religionsMostPracticed: ["muslimReligion"]
   bwaEthnicGroup:
-    stringTokens: ["Bwa"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Bwa", "Bua", "Bobo Oule", "Bobo Wule", "Boo", "Buaba", "Buamu", "Red Bobo", "Bwamu", "Bwana"]
+    wikidataID: ["Q1018432"]
+    religionsMostPracticed: ["animismReligion", "muslimReligion", "christianReligion"]
   cahuillaEthnicGroup:
     stringTokens: ["Cahuilla", "Pass Cahuilla", "Agua Caliente Cahuilla", "Morongo Cahuilla", "Mountain Cahuilla", "Cahuilla Band of Indians", "Los Coyotes Cahuilla", "Ramona Cahuilla", "Santa Rosa Cahuilla", "Desert Cahuilla", "Augustine Cahuilla", "Cabazon Cahuillla", "Torres Martinez Desert Cahuilla"]
+    wikidataID: ["Q547748"]
+    religionsMostPracticed: ["catholicReligion", "protestantReligion"]
   caldocheEthnicGroup:
     stringTokens: ["Caldoche"]
+    wikidataID: ["Q2478459"]
+    religionsMostPracticed: ["catholicReligion", "protestantReligion"]
   camminantiEthnicGroup:
     stringTokens: ["Camminanti"]
-  canary IslandersEthnicGroup:
+    wikidataID: [""]
+    religionsMostPracticed: [""]
+  canaryIslandersEthnicGroup:
     stringTokens: ["Canary Islanders", "Isleños", "Louisiana Isleños"]
+    wikidataID: ["Q5031141"]
+    religionsMostPracticed: ["catholicReligion"]
   capeColouredsEthnicGroup:
     stringTokens: ["Cape Coloureds"]
+    wikidataID: ["Q402525"]
+    religionsMostPracticed: ["anglicanReligion", "catholicReligion", "sunniReligion"]
   capeMalaysEthnicGroup:
     stringTokens: ["Cape Malays"]
+    wikidataID: ["Q1276753"]
+    religionsMostPracticed: ["sunniReligion"]
   capeVerdeansEthnicGroup:
     stringTokens: ["Cape Verdeans"]
+    wikidataID: ["Q6994845"]
+    religionsMostPracticed: ["catholicReligion", "christianReligion"]
   caroliniansEthnicGroup:
-    stringTokens: ["Carolinians"]
+    stringTokens: ["Carolinians", "Refaluwasch"]
+    wikidataID: ["Q1282773"]
+    religionsMostPracticed: ["shamanismReligion", "catholicReligion"]
   catalansEthnicGroup:
     stringTokens: ["Catalans", "Balears", "Algherese", "Andorrans", "Roussillonese"]
+    wikidataID: ["Q244504"]
+    religionsMostPracticed: ["catholicReligion"]
   cayugaEthnicGroup:
     stringTokens: ["Cayuga"]
+    wikidataID: ["Q210334"]
+    religionsMostPracticed: [""]
   chagaEthnicGroup:
-    stringTokens: ["Chaga"]
+    stringTokens: ["Chaga", "Chagga", "Djaga", "Dschagga", "Wachagga", "Caga", "dschaga", "jajja", "kichaga", "kishaka", "wachaga", "wadschagga", "washaga"] 
+    wikidataID: ["Q920233"]
+    religionsMostPracticed: ["christianReligion", "muslimReligion", "traditionalAfricanReligion"]
   chagossiansEthnicGroup:
     stringTokens: ["Chagossians"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chaharmahaliTurksEthnicGroup:
     stringTokens: ["Chaharmahali Turks"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chakmasEthnicGroup:
     stringTokens: ["Chakmas"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chamorroEthnicGroup:
     stringTokens: ["Chamorro"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chamsEthnicGroup:
     stringTokens: ["Chams", "Churu", "Jarai", "Rade", "Raglai", "Utsuls"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   charrúaEthnicGroup:
     stringTokens: ["Charrúa", "Chaná"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chechensEthnicGroup:
     stringTokens: ["Chechens", "Kists", "Chechen Kurds", "Aukhs"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chehalisEthnicGroup:
-    stringTokens: ["Chehalis", "Lower Chehalis", "Upper Chehalis"]
+    stringTokens: ["Chehalis", "Lower Chehalis", "Upper Chehalis"] 
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chelkansEthnicGroup:
-    stringTokens: ["Chelkans"]
+    stringTokens: ["Chelkans"] 
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chepangEthnicGroup:
     stringTokens: ["Chepang"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chenouasEthnicGroup:
     stringTokens: ["Chenouas"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   cherokeeEthnicGroup:
     stringTokens: ["Cherokee", "Cherokee Nation", "Eastern Band", "United Keetoowah Band", "Cherokee Freedmen"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chewaEthnicGroup:
     stringTokens: ["Chewa"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   cheyennesEthnicGroup:
     stringTokens: ["Cheyennes"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chineseTatarsEthnicGroup:
     stringTokens: ["Chinese Tatars"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   choctawEthnicGroup:
     stringTokens: ["Choctaw", "Choctaw Freedmen"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chokweEthnicGroup:
     stringTokens: ["Chokwe"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   choRoEthnicGroup:
     stringTokens: ["Cho Ro"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chuanqingEthnicGroup:
     stringTokens: ["Chuanqing"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chukchisEthnicGroup:
     stringTokens: ["Chukchis"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chulymsEthnicGroup:
     stringTokens: ["Chulyms"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chumashEthnicGroup:
     stringTokens: ["Chumash"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chutiyaEthnicGroup:
     stringTokens: ["Chutiya", "Deori"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chuukeseEthnicGroup:
     stringTokens: ["Chuukese"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chuvansEthnicGroup:
     stringTokens: ["Chuvans"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   chuvashEthnicGroup:
     stringTokens: ["Chuvash", "Virjal", "Anatri"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   cintaLargaEthnicGroup:
     stringTokens: ["Cinta Larga"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   circassiansEthnicGroup:
     stringTokens: ["Circassians", "Abzakhs", "Adygeans", "Besleneys", "Bzhedugs", "Chemirgoys", "Cherkess", "Kabardians", "Natukhajs", "Shapsugs", "Ubykhs", "Hatuqways"]
+     wikidataID: [""]
+    religionsMostPracticed: [""]
   cireboneseEthnicGroup:
     stringTokens: ["Cirebonese"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   cocopahEthnicGroup:
     stringTokens: ["Cocopah"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   cofanEthnicGroup:
     stringTokens: ["Cofan"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   cookIslandersEthnicGroup:
     stringTokens: ["Cook Islanders"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   comancheEthnicGroup:
     stringTokens: ["Comanche"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   comoriansEthnicGroup:
     stringTokens: ["Comorians", "Grande Comorians", "Anjouans", "Mohélians", "Maorais"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   confederadosEthnicGroup:
     stringTokens: ["Confederados"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   coptsEthnicGroup:
     stringTokens: ["Copts"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   cornishEthnicGroup:
     stringTokens: ["Cornish"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   corsicansEthnicGroup:
     stringTokens: ["Corsicans", "Corsican Americans", "Corsican Puerto Ricans"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   coushattaEthnicGroup:
     stringTokens: ["Coushatta"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   creeEthnicGroup:
     stringTokens: ["Cree", "James Bay Cree", "Moose Cree", "Swampy Cree", "Woodland Cree", "Papaschase"]
-  crimean TatarsEthnicGroup:
+    wikidataID: [""]
+    religionsMostPracticed: [""]
+  crimeanTatarsEthnicGroup:
     stringTokens: ["Crimean Tatars", "Steppe Tatars", "Mountain Tatars"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   croatsEthnicGroup:
     stringTokens: ["Croats", "Bunjevci", "Krashovani", "Janjevci", "Šokci", "Bosnian Croats", "Croat Muslims"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   crowEthnicGroup:
     stringTokens: ["Crow"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   czechoslovaksEthnicGroup:
     stringTokens: ["Czechoslovaks"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   czechsEthnicGroup:
     stringTokens: ["Czechs", "Bohemians", "Chodové"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   dagaabaEthnicGroup:
     stringTokens: ["Dagaaba"]
   dagombasEthnicGroup:
