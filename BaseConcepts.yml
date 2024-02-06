@@ -1845,121 +1845,121 @@ bariEthnicGroup:
     wikidataID: ["Q1555188"]
     religionsMostPracticed: [""]
   gurmaEthnicGroup:
-    stringTokens: ["Gurma", "Ntcham", "Bimoba"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Gurma", "Ntcham", "Bimoba", "Gourmantché", "Gulma", "Gulmance", "Gulmanceba", "Gourmantche", "Gurmantche"]
+    wikidataID: ["Q1294392"]
+    religionsMostPracticed: ["muslimReligion"]
   gurungsEthnicGroup:
-    stringTokens: ["Gurungs", "Ghale", "Gurung"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Gurungs", "Ghale", "Gurung", "tamu"]
+    wikidataID: ["Q1341218"]
+    religionsMostPracticed: ["buddhismReligion", "hinduismReligion"]
   gurunsiEthnicGroup:
     stringTokens: ["Gurunsi", "Lukpa", "Kabye", "Tem", "Lamba", "Delo", "Bago-Kusuntu", "Chala", "Lyele", "Nuna", "Kalamse", "Pana", "Kassena", "Winye", "Deg", "Puguli", "Paasaal", "Sisaala", "Chakali", "Siti", "Tamprusi", "Vagla"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q766258)"]
+    religionsMostPracticed: ["sunniReligion", "christianReligion", "traditionalAfricanReligion"]
   gwichinEthnicGroup:
     stringTokens: ["Gwich'in"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1144501"]
+    religionsMostPracticed: ["christianReligion", "animismReligion"]
   haEthnicGroup:
-    stringTokens: ["Ha"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Ha", "waha", "abaha"]
+    wikidataID: ["Q2995962"]
+    religionsMostPracticed: ["christianReligion", "sunniReligion"]
   hadiyaEthnicGroup:
     stringTokens: ["Hadiya"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q16930512"]
+    religionsMostPracticed: ["christianReligion", "muslimReligion"]
   hadzaEthnicGroup:
-    stringTokens: ["Hadza"]
-    wikidataID: [""]
+    stringTokens: ["Hadza", "hadzabe"]
+    wikidataID: ["Q1258889"]
     religionsMostPracticed: [""]
   haidaEthnicGroup:
-    stringTokens: ["Haida"]
-    wikidataID: [""]
+    stringTokens: ["Haida", "hayda"]
+    wikidataID: ["Q210332"]
     religionsMostPracticed: [""]
   haislaEthnicGroup:
     stringTokens: ["Haisla"]
-    wikidataID: [""]
+    wikidataID: ["Q3513756"]
     religionsMostPracticed: [""]
   hanEthnicGroup:
     stringTokens: ["Hän"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q26862"]
+    religionsMostPracticed: []
   hanChineseEthnicGroup:
     stringTokens: ["Han Chinese", "Subei", "Yue", "Cantonese", "Punti", "Taishanese", "Hongkongers", "Macau", "Namshun", "Tankas", "Hui", "Panthays", "Fujianese", "Fuzhounese", "Hoklos", "Hui'an maidens", "Putianese", "Fujianese Hongkongers", "Fokien", "Teochew", "Gaoshan Han", "Gan", "Tunbao", "Pinghua", "Hakka", "Ngai", "Dan", "Hainanese", "Hebei", "Hunanese", "Jianghuai", "Shandong", "Sichuanese", "Wu", "Shanghainese", "Ningbonese", "Wenzhounese", "Kokang Chinese", "Han Taiwanese", "Hoklo Taiwanese", "Benshengren", "Sino-Singaporeans", "Straits Chinese", "Chin Haw", "Hwagyo"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q42740"]
+    religionsMostPracticed: ["taoismReligion", "confucianismReligion", "buddhismReligion"]
   haniEthnicGroup:
     stringTokens: ["Hani"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q476550"]
+    religionsMostPracticed: ["animismRelgion", "buddhismReligion"]
   harariEthnicGroup:
     stringTokens: ["Harari"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q356382"]
+    religionsMostPracticed: ["sunniReligion"]
   haratinsEthnicGroup:
     stringTokens: ["Haratins"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1584897"]
+    religionsMostPracticed: ["sunniReligion"]
   hausaEthnicGroup:
-    stringTokens: ["Hausa"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Hausa", "Haoussa", "Haussa", "Houssa", "Hausaawaa", "Hausawa", "Hawsa", "Mgbakpa"]
+    wikidataID: ["Q33938"]
+    religionsMostPracticed: ["sunniReligion"]
   hawaiiansEthnicGroup:
     stringTokens: ["Hawaiians"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1283606"]
+    religionsMostPracticed: ["christianReligion"]
   hayaEthnicGroup:
     stringTokens: ["Haya"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1824726"]
+    religionsMostPracticed: ["christianReligion", "muslimReligion", "hayaReligion"]
   hazarasEthnicGroup:
     stringTokens: ["Hazaras"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q115473"]
+    religionsMostPracticed: ["sunniIslam", "shiaIslam"]
   heiltsukEthnicGroup:
-    stringTokens: ["Heiltsuk"]
-    wikidataID: [""]
+    stringTokens: ["Heiltsuk", "bella bella", "haihai"]
+    wikidataID: ["Q534216)"]
     religionsMostPracticed: [""]
   hereroEthnicGroup:
     stringTokens: ["Herero", "OvaHimba", "Ovambanderu"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q170088"]
+    religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
   hinukhEthnicGroup:
     stringTokens: ["Hinukh"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q4138671"]
+    religionsMostPracticed: ["sunniReligion"]
   hispanicAmericansEthnicGroup:
     stringTokens: ["Hispanic Americans", "Mexican", "Northeastern Mexican", "Northwestern Mexican", "Baja Californian", "Western Mexican", "Abajeno", "Central Mexican", "Southern Mexican", "Coastal Mexican", "Chiapaneco", "Yucateco", "Basque-Mexican", "Mexican-American", "Colombian", "Cundinamarqués", "Bogotan", "Boyacense", "Santandereano", "Huilense", "Tolimense", "Paisa", "Caucano", "Pastuso", "Valluno", "Llanero", "Amazonian Colombian", "Guajiro", "Sabanero", "Samario", "Vallenato", "Chochoano", "Tumaqueño", "Basque-Colombian", "Colombian-American", "Argentinian", "North Argentinian", "Guaranitic", "Cuyano", "Cordobes", "Puntano", "Litoraleno", "Porteno", "Patagonian", "Basque-Argentinian", "Argentinian-American", "Peruvian Ecuatorial Peruvian", "Coastal Peruvian", "Andean Peruvian", "Amazonian Peruvian", "Peruvian-American]", "Venezuelan Amazonian Venezuelan", "Llanero", "Andean Venezuelan", "Western Venezuelan", "Eastern Venezuelan", "Island Venezuelan", "Caraqueno", "Zuliano", "Central Venezuelan", "Venezuelan-American", "Venezuelan-Colombian", "Chilean", "Chilean-American", "Ecuadorian", "Quiteno", "Riobambeno", "Cuencano", "Lojano", "Esmeraldeno", "Manabita", "Guayaco", "Amazonian Ecuadorian", "Ecuadorian-American", "Guatemalan", "Guatemalan-American", "Bolivian", "Bolivian-American", "Cuban", "Cuban-American", "Dominican", "Dominican-American", "Honduran", "Honduran-American", "Paraguayan", "Paraguayan-American", "Nicaraguan", "Nicaraguan-American", "Salvadoran", "Caliche", "Lenca", "Salvadoran-American", "Costa Rican", "Costa Rican-American", "Panamanian", "Panamanian-American", "Uruguayan", "Uruguayan-American", "Islenos", "Hispanic-Belizean", "Puerto Rican", "Chicano", "Nuyorican", "Tejanos", "Californios", "Neomexicanos", "Floridanos", "Isleños", "Louisiana Spanish-Creoles", "Asturian-American", "Basque-American", "Catalan-American", "Canarian-American", "Galician-American"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q58669"]
+    religionsMostPracticed: ["catholicReligion"]
   hmongEthnicGroup:
     stringTokens: ["Hmong", "A-Hmao", "Gha-Mu", "Xong", "Pa-Hng", "Hmong Americans"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q219205"]
+    religionsMostPracticed: ["shamanReligion", "christianReligion", "buddismReligion"]
   hopiEthnicGroup:
     stringTokens: ["Hopi"]
-    wikidataID: [""]
+    wikidataID: ["Q117255"]
     religionsMostPracticed: [""]
   huliEthnicGroup:
     stringTokens: ["Huli"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1121357"]
+    religionsMostPracticed: ["animismReligion", "christianReligion"]
   hungariansEthnicGroup:
-    stringTokens: ["Hungarians", "Paloc", "Matyo", "Magyarabs", "Hungarian Cumans", "Szekelys", "Bukovina Szekelys", "Csangos"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Hungarians", "Paloc", "Matyo", "Magyarabs", "Hungarian Cumans", "Szekelys", "Bukovina Szekelys", "Csangos", "magyar"]
+    wikidataID: ["Q133032"]
+    religionsMostPracticed: ["catholicReligion", "lutheranismReligion", "calvinismReligion"]
   hunzibsEthnicGroup:
     stringTokens: ["Hunzibs"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q4152167"]
+    religionsMostPracticed: ["sunniReligion"]
   hutteritesEthnicGroup:
-    stringTokens: ["Hutterites", "Schmiedeleut", "Lehrerleut", "Dariusleut"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Hutterites", "Schmiedeleut", "Lehrerleut", "Dariusleut", "haban", "habaner", "hutterer"]
+    wikidataID: ["Q258344"]
+    religionsMostPracticed: ["reformationistReligion"]
   hutuEthnicGroup:
-    stringTokens: ["Hutu"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Hutu", "Abahutu", "Bahutu", "Lera", "Ndara", "Ndoga", "Ndogo", "Shobyo", "Tshogo", "Urulera"]
+    wikidataID: ["Q192647"]
+    religionsMostPracticed: ["christianReligion", "muslimReligion"]
   ibanEthnicGroup:
     stringTokens: ["Iban", "Mualang"]
     wikidataID: [""]
@@ -1970,64 +1970,124 @@ bariEthnicGroup:
     religionsMostPracticed: [""]
   ibibioEthnicGroup:
     stringTokens: ["Ibibio", "Eket", "Anaang", "Oron"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   icelandersEthnicGroup:
     stringTokens: ["Icelanders"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   idomaEthnicGroup:
     stringTokens: ["Idoma", "Agatu", "Alago", "Yala"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   igboEthnicGroup:
     stringTokens: ["Igbo", "Anioma", "Aro", "Edda", "Ekpeye", "Etche", "Ezaa", "Ika", "Ikwerre", "Ikwo", "Isu", "Izzi", "Mbaise", "Mgbo", "Ngwa", "Nri-Igbo", "Ogba", "Ohafia", "Ohuhu", "Onitsha-Ado", "Ukwuani", "Waawa", "Igbo Jews"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   igedeEthnicGroup:
     stringTokens: ["Igede"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   igorotEthnicGroup:
     stringTokens: ["Igorot", "Balangao", "Bontoc", "Ibaloi", "Ifugao", "Kalanguya", "Isnag", "Kalinga", "Kankanaey"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   ijawEthnicGroup:
     stringTokens: ["Ijaw", "Bille", "Engenni", "Ibani", "Kalabari", "Kula", "Nkoro", "Nkoroo", "Obolo"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   iliTurksEthnicGroup:
     stringTokens: ["Ili Turks"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   ilocanoEthnicGroup:
     stringTokens: ["Ilocano"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   indoCaribbeanEthnicGroup:
     stringTokens: ["Indo-Caribbean", "Indo-Barbadian", "Indo-Dominican", "Indo-Grenadians", "Indo-Guadeloupeans", "Indo-Haitians", "Indo-Jamaicans", "Indo-Martiniquais", "Indo-Kittitians", "Indo-Nevisians", "Indo-Saint Lucian", "Indo-Trinidadian and Tobagonian", "Indo-Vincentian", "Indo-Belizeans", "Indo-Guyanese", "Indo-Surinamese"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   indoFijiansEthnicGroup:
     stringTokens: ["Indo-Fijians", "Significant populations in Australia", "New Zealand", "United States", "Canada", "and United Kingdom"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   indoMauritiansEthnicGroup:
     stringTokens: ["Indo-Mauritians"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   indusKohistanisEthnicGroup:
     stringTokens: ["Indus Kohistanis"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   ingushesEthnicGroup:
     stringTokens: ["Ingushes"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   innuEthnicGroup:
     stringTokens: ["Innu", "Naskapi"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   inuitEthnicGroup:
     stringTokens: ["Inuit", "Greenlandics", "Kalaallit", "Tunumiit", "Inughuit", "Greenlandic Danes", "Inupiat", "Nunamiut", "Inuktitut", "Inuvialuit", "Iglulik Inuit", "Aivilingmiut"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   iranunEthnicGroup:
     stringTokens: ["Iranun"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   iraqiTurkmenEthnicGroup:
     stringTokens: ["Iraqi Turkmen"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   iraqwEthnicGroup:
     stringTokens: ["Iraqw"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   irishEthnicGroup:
     stringTokens: ["Irish", "Irish Catholics"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   irishTravellersEthnicGroup:
     stringTokens: ["Irish Travellers"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   isanEthnicGroup:
     stringTokens: ["Isan"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   isokoEthnicGroup:
     stringTokens: ["Isoko"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   istroRomaniansEthnicGroup:
     stringTokens: ["Istro-Romanians"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   italiansEthnicGroup:
     stringTokens: ["Italians", "Molise Croats", "Dalmatian Italians", "Istrian Italians", "Niçard Italians"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   itawesEthnicGroup:
     stringTokens: ["Itawes"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   itelmensEthnicGroup:
     stringTokens: ["Itelmens"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   izhoriansEthnicGroup:
     stringTokens: ["Izhorians"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   jamaicanMaroonsEthnicGroup:
     stringTokens: ["Jamaican Maroons"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   jambianEthnicGroup:
     stringTokens: ["Jambian", "Batin"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   japaneseEthnicGroup:
     stringTokens: ["Japanese", "Yamato", "Kantō", "Kansai", "Hokkaido", "Tōhoku", "Hōnichi", "Satsugū", "Chūgoku", "Echigo", "Tōkai", "Shinshuu", "Hokuriku", "Hachijō", "Miyakubo", "Tsugaru", "Nikkei Brazilians"]
   jaraiEthnicGroup:
@@ -3018,32 +3078,60 @@ bariEthnicGroup:
     stringTokens: ["Votians"]
   waEthnicGroup:
     stringTokens: ["Wa"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   wakhiEthnicGroup:
     stringTokens: ["Wakhi"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   walla WallaEthnicGroup:
     stringTokens: ["Walla Walla"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   walloonsEthnicGroup:
     stringTokens: ["Walloons"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   warlpirisEthnicGroup:
     stringTokens: ["Warlpiris"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   waropenEthnicGroup:
     stringTokens: ["Waropen"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   waxiangEthnicGroup:
     stringTokens: ["Waxiang"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   wayuuEthnicGroup:
     stringTokens: ["Wayuu"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   welaytaEthnicGroup:
     stringTokens: ["Welayta"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   welshEthnicGroup:
     stringTokens: ["Welsh"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   wolofEthnicGroup:
     stringTokens: ["Wolof", "Lebu"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   wuikinuxvEthnicGroup:
     stringTokens: ["Wuikinuxv"]
+    wikidataID: [""]
+    religionsMostPracticed: [""]
   xavanteEthnicGroup:
     stringTokens: ["Xavante"]
+    wikidataID: ["Q978982"]
+    religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion"]
   xhosaEthnicGroup:
     stringTokens: ["Xhosa"]
+    wikidataID: ["Q207996"]
+    religionsMostPracticed: [""]
   yaghnobisEthnicGroup:
     stringTokens: ["Yaghnobis"]
     wikidataID: ["Q1093151"]
