@@ -121,7 +121,7 @@ concepts:
   
     sfioParty:
      stringTokens: ["French Section of the Workers' International"]
-     wikidataQnode:  ["French Section of the Workers' International"]
+     wikidataQnode:  []
 
     usrParty:
      stringTokens: ["Socialist Republican Union"]
