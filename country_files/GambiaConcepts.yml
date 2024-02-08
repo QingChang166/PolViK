@@ -108,7 +108,7 @@ concepts:
 
     naddParty:
      stringTokens: ["National Alliance for Democracy and Development"]
-     wikidataQnode:  ["National Alliance for Democracy and Development"]
+     wikidataQnode:  ["Q478056"]
   
     gppParty:
      stringTokens: ["Gambian People's Party"]
