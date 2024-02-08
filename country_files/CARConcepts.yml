@@ -73,7 +73,7 @@ concepts:
   mbatiEthnicGroup:
    stringTokens: ["Mbati", "Mbati people", "Isongo"]
    wikidataQnode: ["Q62997639"]
-  nzakaraLanguageGroup:
+  nzakaraLinguisticGroup:
    stringTokens: ["Nzakara", "Nzakara language"]
    wikidataQnode: ["Q3913339"]
   bandambresLinguisticGroup:
