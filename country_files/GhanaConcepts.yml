@@ -93,7 +93,7 @@ concepts:
   
     nlmParty:
      stringTokens: ["National Liberation Movement"]
-     wikidataQnode:  ["National Liberation Movement"]
+     wikidataQnode:  [""]
   
     uppParty:
      stringTokens: ["United Progressive Party "]
