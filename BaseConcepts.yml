@@ -2595,32 +2595,32 @@ bariEthnicGroup:
     religionsMostPracticed: ["hindusimReligion", "buddhismReligion"]
   maguindanaoEthnicGroup:
     stringTokens: ["Maguindanao"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q6748253"]
+    religionsMostPracticed: ["sunniReligion"]
   maharEthnicGroup:
-    stringTokens: ["Mahar"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Mahar", "halbi"]
+    wikidataID: ["Q17054440"]
+    religionsMostPracticed: ["buddhismReligion"]
   maithilsEthnicGroup:
     stringTokens: ["Maithils", "Karan Kayastha", "Brahmin", "Chhetri", "Vaisya"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q6737114"]
+    religionsMostPracticed: ["hinduismReligion"]
   makaaEthnicGroup:
-    stringTokens: ["Makaa", "South Makaa", "North Makaa"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    stringTokens: ["Makaa", "South Makaa", "North Makaa", "Maka", "Badjue", "Bajue", "Makie", "Mekaa"]
+    wikidataID: ["Q1324834"]
+    religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
   makahEthnicGroup:
     stringTokens: ["Makah"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1886240"]
+    religionsMostPracticed: ["christianReligion"]
   makassareseEthnicGroup:
     stringTokens: ["Makassarese"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1886290"]
+    religionsMostPracticed: ["muslimReligion"]
   makianeseEthnicGroup:
     stringTokens: ["Makianese", "Tabayama", "Jitinee"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q31173556"]
+    religionsMostPracticed: ["muslimReligion"]
   makondeEthnicGroup:
     stringTokens: ["Makonde", "Machinga"]
     wikidataID: [""]
