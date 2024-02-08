@@ -1,5 +1,6 @@
 relations:
   - (officialStateSecurityForces, Cameroonarmedforces)
+  - (officialStateSecurityForces, CameroonSecurityForces)
   - (EthnicGroup, semibantiEthnicGroup)
   - (EthnicGroup, bamilekeEthnicGroup)
   - (EthnicGroup, bamumEthnicGroup)
