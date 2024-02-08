@@ -25,6 +25,7 @@ relations:
   - (Party, pnddParty)
   - (Party, fcbeParty)
   - (Party, psdParty)
+  - (Party, saParty)
   - (Party, drpParty)
   - (Party, ag13bParty)
   - (Party, unParty)
