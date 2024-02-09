@@ -29,6 +29,8 @@ relations:
   - (Party, upParty)
   - (Party, yppParty)
   - (Party, nadpParty)
+  - (Party, PmdcPoliticalParty)
+  - (Party, CdfproGovernmentMilitia)
   - (ArmedNonGovernmentalOrganizedGroup, rufArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, afrcArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, wsbArmedNonGovernmentalOrganizedGroup)
