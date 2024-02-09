@@ -21,3 +21,4 @@ relations:
 - (ArmedNonGovernmentalOrganizedGroup, miaArmedNonGovernmentalOrganizedGroup)
 - (ArmedNonGovernmentalOrganizedGroup, gatiaArmedNonGovernmentalOrganizedGroup)
 - (ArmedNonGovernmentalOrganizedGroup, msaArmedNonGovernmentalOrganizedGroup)
+- (ArmedNonGovernmentalOrganizedGroup, MlfArmedNonGovernmentalOrganizedGroup)
