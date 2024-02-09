@@ -24,3 +24,4 @@ relations:
   - (ArmedNonGovernmentalOrganizedGroup, slammArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, slmawArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, rsfproArmedNonGovernmentalOrganizedGroup)
+  - (proGovernmentMilitia, RsfproGovernmentMilitia)
