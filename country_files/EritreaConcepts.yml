@@ -127,7 +127,7 @@ concepts:
    regionsMostActive: []
    yearsActiveasArmed: ["1998-2017"]
   ##eplfArmedGroup: ##Should this be removed since its not a group in eritrea post 1991 (independence)
-  erdfAmedGroup:
+  erdfArmedGroup:
    stringTokens: ["Eritrean Revolutionary Democratic Front", "DMLE"] ##https://www.refworld.org/docid/3f7d4d917.html
    associatedEthnicGroup: []
    regionsMostActive: [] ##the group mostly operates out of Sudan
