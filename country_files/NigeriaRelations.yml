@@ -23,6 +23,8 @@ relations:
   - (Party, YPPParty)
   - (Party, SDPParty)
   - (Party, ADCParty)
+  - (Party, PDPParty1)
+  - (Party, OPCArmedGroup1)
   - (Party, ADPParty)
   - (Party, AccordParty)
   - (Party, APMParty)
