@@ -1,5 +1,5 @@
 relations:
-  - (officialStateSecurityForces, )
+  - (officialStateSecurityForces, TunisianSecurityForces)
   - (EthnicGroup, arabEthnicGroup)
   - (Party, NTParty)
   - (Party, CPRParty)
