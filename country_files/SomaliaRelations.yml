@@ -9,6 +9,7 @@ relations:
   - (Party, himiloParty)
   - (Party, qarasoorpParty)
   - (Party, sjpParty)
+  - (Party, SgpParty)
   - (Party, spmParty)
   - (Party, sgpParty)
   - (Party, slpParty)
@@ -64,3 +65,4 @@ relations:
   - (ArmedGroup, fsmsaArmedGroup)
   - (ArmedGroup, fyhnArmedGroup)
   - (ArmedGroup, svaArmedGroup)
+  - (ArmedGroup, AswjAmredGroup)
