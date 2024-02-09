@@ -523,7 +523,7 @@ concepts:
    associatedEthnicGroup: ["tigrinyaEthnicGroup"]
    regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
    yearsActiveasArmed: ["1976-1991"]
-  erdfAmedGroup:
+  erdfArmedGroup:
    stringTokens: ["Eritrean Revolutionary Democratic Front"]
    regionsMostActive: ["Eritrea"]
    yearsActiveasArmed: ["1999"]
