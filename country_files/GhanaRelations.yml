@@ -23,6 +23,7 @@ relations:
   - (Party, acpParty)
   - (Party, ncpParty)
   - (Party, ugccParty)
+  - (Party, NppParty1)
   - (ArmedGroup, nlcArmedGroup)
   - (ArmedGroup, mfedeaArmedGroup)
   - (ArmedGroup, mfjjrArmedGroup)
