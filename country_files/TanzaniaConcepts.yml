@@ -109,7 +109,7 @@ concepts:
    stringTokens: ["Barabaig", "Barabaik", "Baraban", "Barbayiig", "Brariga", "Datooga"]
    wikidataQnode: ["Q623122"]
    livesIn: ["Manyara"]  #administrative region
- BurundianRefugeeEthicGroup:
+ BurundianRefugeeEthnicGroup:
    stringTokens: ["Burundian", "Burundian refugee"]
    religionsMostPracticed: ["Christianity"]
    livesIn: ["Kigoma"]  #administrative region
