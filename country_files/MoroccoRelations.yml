@@ -3,6 +3,7 @@ relations:
   - (EthnicGroup, ArabEthnicGroup)
   - (EthnicGroup, BerberEthnicGroup)
   - (EthnicGroup, SahrawiEthnicGroup)
+  - (EthnicGroup, MoorEthnicGroup)
   - (Party, AMPParty)
   - (Party, AAParty)
   - (Party, CUParty)
@@ -18,9 +19,13 @@ relations:
   - (Party, PPSParty)
   - (Party, RNIParty)
   - (Party, USFPParty)
+  - (Party, PUNSParty)
   - (ArmedGroup, PFArmedGroup)
   - (ArmedGroup, SJArmedGroup)
   - (ArmedGroup, GICMArmedGroup)
   - (ArmedGroup, F20ArmedGroup)
   - (ArmedGroup, SPArmedGroup)
   - (ArmedGroup, TakfirwalHijraArmedGroup)
+  - (ArmedGroup, SPLAArmedGroup)
+
+
