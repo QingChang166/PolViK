@@ -64,7 +64,7 @@ concepts:
    associatedEthnicGroup: []
    yearsActiveasEntity: ["1989-1992", "2020-Present"] ##active as an entity
    yearsActiveasParty: ["1989-1992", "2020-Present"] ##active as a political party
-  sgpPaty:
+  sgpParty:
    stringTokens: ["Somalia Green Party", "Xisbiga Cagaaran Soomaaliya", "SGP"]
    wikidataQnode: ["Q7559168"]
    associatedEthnicGroup: []
@@ -94,7 +94,7 @@ concepts:
    associatedEthnicGroup: []
    yearsActiveasEntity: ["2018-Present"] ##active as an entity
    yearsActiveasParty: ["2018-Present"] ##active as a political party
-  wadajirPart:
+  wadajirParty:
    stringTokens: ["Wadajir Party", "Xisbiga Wadajir", "XW" , "WP"]
    wikidataQnode: ["Q96414176"]
    associatedEthnicGroup: []
