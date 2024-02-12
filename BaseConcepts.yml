@@ -2831,52 +2831,52 @@ bariEthnicGroup:
     religionsMostPracticed: ["protestantReligion", "catholicReligion"]
   mixeEthnicGroup:
     stringTokens: ["Mixe"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1940883"]
+    religionsMostPracticed: ["catholicReligion"]
   mixtecEthnicGroup:
     stringTokens: ["Mixtec", "Triqui", "Cuicatecs", "Amoltepec"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q623215"]
+    religionsMostPracticed: ["catholicReligion"]
   mikmaqEthnicGroup:
     stringTokens: ["Mi'kmaq", "Mi'kmaq Nation"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q495751"]
+    religionsMostPracticed: ["christianReligion"]
   mohawkEthnicGroup:
     stringTokens: ["Mohawk"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q116971"]
+    religionsMostPracticed: ["christianReligion"]
   mokenEthnicGroup:
     stringTokens: ["Moken"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1550714"]
+    religionsMostPracticed: ["buddhismReligion", "muslimReligion"]
   moldovansEthnicGroup:
     stringTokens: ["Moldovans"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q100440056"]
+    religionsMostPracticed: ["orthodoxReligion"]
   molokansEthnicGroup:
     stringTokens: ["Molokans"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q303985"]
+    religionsMostPracticed: ["christianReligion"]
   monEthnicGroup:
     stringTokens: ["Mon"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q637909"]
+    religionsMostPracticed: ["theravadaReligion"]
   monegasquesEthnicGroup:
     stringTokens: ["Monegasques"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q2039972"]
+    religionsMostPracticed: ["christianReligion"]
   mongoEthnicGroup:
     stringTokens: ["Mongo", "Bolia", "Ntomba", "Ngando", "Iyaelima", "Mbole", "Mpama", "Nkutu", "Sengele", "Hendo", "Dengese", "Tetela"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q927706"]
+    religionsMostPracticed: ["traditionalAfricanReligion"]
   mongolsEthnicGroup:
     stringTokens: ["Mongols", "Khalkha", "Oirats", "Daur", "Moghols", "Hamnigan", "Tsagaan", "Yugur", "Khatso", "Bonan", "Sichuan Mongols", "Sogwo Arig", "Altai Uriankhai", "Ordos", "Kanja", "Sogwo Arig", "Mughals", "Santa", "Naimans", "Dariganga", "Khorchin", "Kharchin", "Koke Nuur", "Chaharian", "Jalairs", "Gorlos", "Sartuul", "Myangad", "Tubalar", "Uzemchin", "Uradian", "Tumed", "Baarins", "Zakhchin", "Hishigten", "Dorbet", "Muumyangan", "Jalaids", "Abaganar", "Chantuu", "Olot", "Sunud", "Eastern Dorbet", "Aohans", "Onnigud", "Khoshut", "Abagas", "Khotons", "Alasha", "Khoid", "Eljigin", "Choros", "Qaidam", "Fujin"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q41975"]
+    religionsMostPracticed: ["buddhismReligion", "tengrismReligion", "protestantReligion", "orthodoxReligion"]
   mongondowEthnicGroup:
     stringTokens: ["Mongondow"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q3320681"]
+    religionsMostPracticed: ["sunniReligion"]
   montenegrinsEthnicGroup:
     stringTokens: ["Montenegrins"]
     wikidataID: [""]
@@ -3359,8 +3359,8 @@ bariEthnicGroup:
     religionsMostPracticed: [""]
   ryukyuansEthnicGroup:
     stringTokens: ["Ryukyuans", "Amami",  "Kikai", "Amami Ōshima", "Setouchi", "Tokunoshima", "Okinoerabu", "Yoron", "Okinawans", "Kunigami", "Miyakoans", "Tarama", "Yaeyama", "Yonaguni"]
-    wikidataID: [""]
-    religionsMostPracticed: [""]
+    wikidataID: ["Q1208167"]
+    religionsMostPracticed: ["buddhismReligion", "shintoismReligion", "christianReligion"]
   sahoEthnicGroup:
     stringTokens: ["Saho"]
     wikidataID: ["Q264993"]
