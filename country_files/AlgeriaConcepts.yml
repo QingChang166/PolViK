@@ -18,6 +18,62 @@ concepts:
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Kabylie region"]
 
+   ## linguisticgroups
+   ArabicLinguisticGroup:
+     stringTokens: ["Arabic"]
+     wikidataQnode: ["Q13955"]
+     livesIn: [""]
+
+   AlgerianArabicLinguisticGroup:
+     stringTokens: ["Arabic", "Algerian Arabic]
+     wikidataQnode: ["Q56499"]
+     livesIn: [""]
+
+   ShenwaLinguisticGroup:
+     stringTokens: ["Chenoua", "Shenwa]
+     wikidataQnode: ["Q33276"]
+     livesIn: ["Mount Chenoua", "Jebel Chenoua", "Cherchell", "Tipaza", "Chlef"]
+
+   BerbersLinguisticGroup:
+     stringTokens: ["Amazigh", "Berbers", "Imazighen"]
+     wikidataQnode: ["Q45315"]
+     livesIn: [""]
+
+   KorandjeLinguisticGroup:
+     stringTokens: ["Korandje", "Kwaranje"]
+     wikidataQnode: ["Q33427"]
+     livesIn: ["Tabelbala", "Béchar Province"]
+     associatedethnicgroup: ["Belbali people"]
+
+   MozabiteLinguisticGroup:
+     stringTokens: ["Tumzabt", "Mozabite"]
+     wikidataQnode: ["Q36149"]
+     livesIn: ["M'zab"]
+     associatedethnicgroup: ["Mozabite"]
+
+   ShawiyaLinguisticGroup:
+     stringTokens: ["Tachawit", "Shawiya", "Shy"]
+     wikidataQnode: ["Q33274"]
+     livesIn: ["Awras region", "Aurès Mountains", "Batna", "Khenchela", "Oum El Bouaghi", "Souk Ahras", "Tébessa", "Biskra"]
+     associatedethnicgroup: ["Shawiya"]
+   
+   TamajaqLinguisticGroup:
+     stringTokens: ["Tamahaq, Tahaggart"]
+     wikidataQnode: ["Q56703"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tuareg"]
+
+   TidikeltLinguisticGroup:
+     stringTokens: ["Tamazight", "Tidikelt", "Tidikelt Tamazight", "Tidikelt Berber"]
+     wikidataQnode: ["Q56392"]
+     livesIn: [""]
+     associatedethnicgroup: ["Berbers"]
+
+   TugurtLinguisticGroup:
+     stringTokens: ["Tugurt", "Tamazight, Temacine", "Temacine Tamazight", "Oued-Righ Berber", "Oued Righ"]
+     wikidataQnode: ["Q3507211"]
+     livesIn: ["Oued Righ", "Touggourt"]
+     
   ## politicalparties
    FLNParty:
      stringTokens: ["FLN", "National Liberation Front"]
