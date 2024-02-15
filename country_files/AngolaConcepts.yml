@@ -78,127 +78,106 @@ concepts:
      livesIn: [""]
      associatedethnicgroup: ["Herero", "Tjimba"]
 
-    HunguLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+    HoluLinguisticGroup:
+     stringTokens: ["Holo"]
+     wikidataQnode: ["Q4121133"]
      livesIn: [""]
 
-    HoluLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+    HunguLinguisticGroup:
+     stringTokens: ["Hungu"]
+     wikidataQnode: ["Q116456373"]
      livesIn: [""]
 
     NkumbiLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Nkumbi", "Humbe", "Khumbi"]
+     wikidataQnode: ["Q11019169"]
      livesIn: [""]
 
     KimbunduLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-
+     stringTokens: ["Mbundu", "Kimbundu", "North Mbundu"]
+     wikidataQnode: ["Q35891"]
+     livesIn: ["Luanda Province", "Bengo Province", "Malanje Province"]
+     associatedethnicgroup: ["Ambundu"]
+     
     OshiwamboLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Ovambo", "Oshiwambo", "]
+     wikidataQnode: ["Q36489"]
      livesIn: [""]
+     associatedethnicgroup: ["Owambo"]
 
     KwadiLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Kwadi", "Khoisan]
+     wikidataQnode: ["Q2364661"]
      livesIn: [""]
 
     LuchaziLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Lucazi", "Luchazi language", "Luchazi", "Lucazi language"]
+     wikidataQnode: ["Q3265143"]
      livesIn: [""]
+     associatedethnicgroup: ["Ngangela"]
 
     LuimbiLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Lwimbi", "Luimbe", "Lwimbe", "Chiluimbi"]
+     wikidataQnode: ["Q10963134"]
      livesIn: [""]
     
     MbundaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Mbunda", "Yauma", "Mbunda language"]
+     wikidataQnode: ["Q34170"]
      livesIn: [""]
-
-    MbwelaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
+     associatedethnicgroup: ["Mbunda"]
 
     MbangalaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-
-    NyembaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Mbangala"]
+     wikidataQnode: ["Q6799612"]
      livesIn: [""]
 
     NdombeLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-
-    NkangalaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-
-    NgendelengoLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-
-    SongoLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-
-    NyengoLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-
-    NyanekaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Ndombe"]
+     wikidataQnode: ["Q6983792"]
      livesIn: [""]
 
     KuvaleLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Kuvale", "Ngendelengo"]
+     wikidataQnode: ["Q6448765"]
      livesIn: [""]
+
+    SongoLinguisticGroup:
+     stringTokens: ["Songo", "Nsongo"]
+     wikidataQnode: ["Q7067577"]
+     livesIn: [""]
+
+    NyengoLinguisticGroup:
+     stringTokens: ["Nyengo"]
+     wikidataQnode: ["Q7071068"]
+     livesIn: [""]
+
+    NyanekaLinguisticGroup:
+     stringTokens: ["Haneca", "Nyaneka"]
+     wikidataQnode: ["Q10962298"]
+     livesIn: ["Huila", "Namibe", "Luanda", "Benguela"]
 
     MpindaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
+     stringTokens: ["Mpinda"]
+     wikidataQnode: ["Q63308194"]
+     livesIn: ["Porto Amboim"]
 
     UmbunduLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
+     stringTokens: ["Umbundu", "South Mbundu"]
+     wikidataQnode: ["Q36983"]
+     livesIn: ["Benguela", "Lobito", "Luanda", "Lubango"]
+     associatedethnicgroup: ["Ovimbundu"]
 
-    NorthwesternKungLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
+    SekeleLinguisticGroup:
+     stringTokens: ["Sekele", "Vasekela Bushman language", "ǃʼOǃKung", "Northwestern !Kung", "Vasekele", "Sekele language", "!O!ung language", "Northern Ju"]
+     wikidataQnode: ["Q56528"]
+     livesIn: ["Okavango", "Ovamboland Territory"]
 
     Kwandu:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language]
+     wikidataQnode: ["Q10962737"]
      livesIn: [""]
 
-    LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-
- 
      
   ## politicalparties
     MPLAParty:
