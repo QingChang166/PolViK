@@ -76,6 +76,69 @@ concepts:
   
   # Ethnic groups with population share less than 1% are omitted.
 
+  ## linguisticgroups
+  TshuwauLinguisticGroup:
+     stringTokens: ["Tswana", "Tshuwau", "Setswana", "Sechuana", "Bechuana", "Tswana language"]
+     wikidataQnode: ["Q34137"]
+     livesIn: [""]
+
+  MbukushuLinguisticGroup:
+     stringTokens: ["Mbukushu language", "Mbukushu", "Thimbukushu", "Thimbukushu language"]
+     wikidataQnode: ["Q2691548"]
+     livesIn: [""]
+
+  NaroLinguisticGroup:
+     stringTokens: ["Naro", "Naro language", "Nharo", "Khoe"]
+     wikidataQnode: ["Q2164778"]
+     livesIn: [""]
+     associatedethnicgroup: ["Ncoakhoe"]
+
+  ShuaLinguisticGroup:
+     stringTokens: ["Shua language", "Shua"]
+     wikidataQnode: ["Q3501092"]
+     livesIn: ["Nata"]
+
+  TshwaLinguisticGroup:
+     stringTokens: ["Tshwa", "Kua", "Tsoa", "Tshuwau", "Hiechware"]
+     wikidataQnode: ["Q963636"]
+     livesIn: [""]
+
+  KgalagadiLinguisticGroup:
+     stringTokens: ["Kgalagadi", "Kgalagadi language", "Kgalagari", "Kgalagarhi", "Kgalagari", "Khalagari", "Khalakadi", "Kxhalaxadi", "Qhalaxarzi", "Shekgalagadi", "Shekgalagari", "Kqalaqadi")]
+     wikidataQnode: ["Q2088743"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kgalagadi"]
+
+  YeyiLinguisticGroup:
+     stringTokens: ["Yeyi language", "Yeyi"]
+     wikidataQnode: ["Q8053347"]
+     livesIn: ["Okavango Region"]
+
+  TaaLinguisticGroup:
+     stringTokens: ["Taa language", "Taa", "ǃXóõ", "ǃKhong", "ǃXoon", "Tsasi", "!Xoon", "ǃXóõ", "!Xóõ", "!Xoo", "Taa language"]
+     wikidataQnode: ["Q13229"]
+     livesIn: ["Southern Ghanzi", "northern Kgalagadi", "southern Omaheke", "northeastern Hardap regions"]
+
+  ǂʼAmkoeLinguisticGroup:
+     stringTokens: ["ǂʼAmkoe", "ǂʼAmkoe language", "=/Hua", "ǂHoan", "ǂHȍã", "ǂHua", "ǂHû", "ǂHûân"]
+     wikidataQnode: ["Q2053913"]
+     livesIn: [""]
+
+  KhweLinguisticGroup:
+     stringTokens: ["Khwe language", "Khwe"]
+     wikidataQnode: ["Q28305"]
+     livesIn: ["Northern district"]
+
+  ǁAniLinguisticGroup:
+     stringTokens: ["ǁAni", "ǁAni language", "Khwe language", "Kxoe language", "Khwedam language", "Kxoe", "Khoe language", "Khoe"]
+     wikidataQnode: ["Q28305"]
+     livesIn: [""]
+
+  SebirwaLinguisticGroup:
+     stringTokens: ["Birwa language", "Birwa", "Sebirwa", "Sebirwa language"] 
+     wikidataQnode: [""]
+     livesIn: ["Bobonong"]
+
 ###PoliticalParties
   BCPParty:
     stringTokens: ["Botswana Congress Party", "BCP"]
