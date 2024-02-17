@@ -89,7 +89,7 @@ concepts:
   
     sdpParty:
      stringTokens: ["Senegalese Democratic Party"]
-     wikidataQnode:  ["Senegalese Democratic Party"]
+     wikidataQnode:  ["Q1351653"]
   
     aprParty:
      stringTokens: ["Alliance for the Republic "]
