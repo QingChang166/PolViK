@@ -182,7 +182,7 @@ concepts:
   ISILSPArmedGroup:
    stringTokens: ["Islamic State – Sinai Province", "ISIL Sinai Province", "ISIL-SP", "Sinai Province of the Islamic State", "Daesh", "ISIL", "Islamic State in Iraq and Syria", "Islamic State of Iraq and Levant", "ISIS", "Islamic State Group", "Islamic State of Iraq and Syria", "Islamic State of Iraq and al-Sham", "The Islamic State", "IS", "Islamic State of Iraq and the Levant", "Jama’at Al-Tawhid wa Al-Jihad", "TQJBR", "Tanzim Qa’idat al Jihad fi Bilad al Rafidayn"]
    associatedEthnicGroup: [""] # Ethnicity is not a primary organizing principle, Sunni Islamism
-   wikidataQnode: ["Q21070586", "Q2429253"]
+   wikidataQnode: ["Q21070586"]
   AlGamaaAlIslamiyyaArmedGroup:
    stringTokens: ["al-Gama'a al-Islamiyya", "al Jamaat al Islamiya", "al-Jama'a al-Islamiyya", "the Islamic Group", "El Gama'a El Islamiyya", "Islamic Groups", "Gamaat Islamiya", "al Jamaat al Islamiya"]
    associatedEthnicGroup: [""] # Ethnicity is not a primary organizing principle, Sunni Islamism
