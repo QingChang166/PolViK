@@ -3733,7 +3733,7 @@ bariEthnicGroup:
     religionsMostPracticed: ["hinduismReligion"]
   tampuansEthnicGroup:
     stringTokens: ["Tampuans", "tampuon"]
-    wikidataID: ["tampuans"]
+    wikidataID: ["Q3514882"]
     religionsMostPracticed: ["animismReligion"]
   tananaAthabaskansEthnicGroup:
     stringTokens: ["Tanana Athabaskans", "Lower Tanana", "Middle Tanana", "Tanacross", "Upper Tanana"]
@@ -3865,7 +3865,7 @@ bariEthnicGroup:
     religionsMostPracticed: ["sunniReligion"]
   tsezEthnicGroup:
     stringTokens: ["Tsez"]
-    wikidataID: ["tsez"]
+    wikidataID: ["Q2476783"]
     religionsMostPracticed: ["muslimReligion"]
   tsimshianEthnicGroup:
     stringTokens: ["Tsimshian", "Kitasoo", "Gitga'ata", "Kitkatla", "Kitsumkalum", "Kitselas", "Ginadoiks", "Ginaxangiik", "Gispaxlo'ots", "Gitando", "Gitlaan", "Gits'iis", "Gitwilgyoots", "Gitzaxłaał", "Giluts'aaw"]
