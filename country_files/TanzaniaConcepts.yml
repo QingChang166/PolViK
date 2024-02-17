@@ -147,7 +147,7 @@ concepts:
    livesIn: ["Tabora"]
  ChagaLinguisticGroup:
    stringTokens: ["Chaga"]
-   wikidataQnode: ["Q3272632"]
+   wikidataQnode: ["Q33016"]
    livesIn: ["Kilimanjaro"]
  HayaLinguisticGroup:
    stringTokens: ["Haya"]
