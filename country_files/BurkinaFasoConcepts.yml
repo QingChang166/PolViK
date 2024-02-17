@@ -18,7 +18,7 @@ concepts:
    connectedethnicgroupfamily: ["Gurma"]
   fulaniEthnicGroup:
    stringTokens: ["Fulani", "Fula"]
-   wikidataQnode: ["Q202s575"]
+   wikidataQnode: ["Q202575"]
    languagesMostSpoken: ["Fula"]
    religionsMostPracticed: ["Islam"]
    livesIn: ["Oudalan", "Soum", "Seno", "Yagha", "Namentenga", "Yatenga"]
