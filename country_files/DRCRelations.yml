@@ -25,7 +25,7 @@ relations:
   - (Party, PDSCParty)
   - (Party, PCTParty)
   - (Party, RCDParty)
-  - (Party, FonusParty)
+  - (Party, FONUSParty)
   - (ArmedGroup, ADFArmedGroup)
   - (ArmedGroup, FDLRArmedGroup)
   - (ArmedGroup, PUSICArmedGroup)
