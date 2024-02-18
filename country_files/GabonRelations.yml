@@ -28,3 +28,5 @@ relations:
   - (Party, NWR-RGParty)
   - (Party, DemocratsParty)
   - (Party, Pdoisarty)
+  - (Party, NUParty)
+  - (Party, PSDParty)
