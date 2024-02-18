@@ -16,7 +16,7 @@ relations:
   - (Party, JDFParty)
   - (Party, NDParty)
   - (Party, RCDParty)
-  - (Party, FISarty)
+  - (Party, FISParty)
   - (ArmedGroup, GIAArmedGroup)
   - (ArmedGroup, FIDAArmedGroup)
   - (ArmedGroup, AISArmedGroup)
