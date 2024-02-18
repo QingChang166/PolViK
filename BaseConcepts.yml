@@ -257,7 +257,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                     "baptist convention of kenya", "baptist convention of malawi", "ghana baptist convention", "union of baptist churches in rwanda", "evangelical baptist church of the central african republic"]
   restorationismReligion:
     stringTokens: ["Mormom", "Latter Day Saints", "church of jesus christ of the latter day saints"]
-  irivingismReligion:
+  irvingismReligion:
      stringTokens: ["Irvingism", "Catholic Apostolic Church", "new apostolic church"]
   lutheranismReligion:
     stringTokens: ["Lutheranism", "Ethiopian Evangelical Church Mekane Yesus", "Evangelical Lutheran Church in Tanzania", "Malagasy Lutheran Church", "Lutheran Church of Christ in Nigeria",
@@ -302,7 +302,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["sunni", "sunni people", "sunni sect", "salafi", "salafism", "sufi", "sufism"]
   sufiReligion:
     stringTokens: ["sufi", "sufism"]
-  mukkahimaReligion:
+  muakkahimaReligion:
     stringTokens: ["muakkahima", "ibadi", "Kharijite"]
   ahmadiyyaReligion:
     stringTokens: ["Ahmadiyya", "Ahmadi"]
@@ -332,7 +332,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Spiritism", "Kardecism"]
   muismReligion:
     stringTokens: ["Muism", "Mu", "musok", "korean shamanism"]
-  confucianismRelgion:
+  confucianismReligion:
     stringTokens: ["Confucianism", "Ruism", "Ru classicism"]
   bahaiReligion:
     stringTokens: ["Bahai"]
@@ -434,7 +434,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                     "bagheli", "chhattisghari", "surgujia"]
   arabicLanguage:
     stringTokens: ["arabic", "arabic language"]
-  anamismReligion: 
+  animismReligion: 
     stringTokens: ["anamism"]
   shamanismReligion:
     stringTokens: ["shamanism"]
@@ -611,7 +611,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   adjoukrouEthnicGroup:
     stringTokens: ["Adjoukrou", "Adyukru"]
     wikidataId: ["Q2824498"]
-    religionsMostPracticed: ["christianReligion", "catholicReligion", "protestantReligion", "evangelicalReligion", "animism"]
+    religionsMostPracticed: ["christianReligion", "catholicReligion", "protestantReligion", "evangelicalProtestant", "animism"]
   afarEthnicGroup:
     stringTokens: ["Afar"]
     wikidataId: ["Q211720"]
@@ -623,7 +623,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   africanAmericansEthnicGroup:
     stringTokens: ["African-Americans", "Black Southerners", "Creoles of color", "Freedmen", "Black Seminoles", "Mascogos", "Cherokee Freedmen", "Choctaw Freedmen", "Creek Freedmen", "Gullah", "Samaná Americans"]
     wikidataId: ["Q49085"]
-    religionsMostPracticed: ["protestantReligion", "evangelicalReligion", "catholicReligion", "muslimReligion", "restorationismReligion"]
+    religionsMostPracticed: ["protestantReligion", "evangelicalProtestant", "catholicReligion", "muslimReligion", "restorationismReligion"]
   afrikanersEthnicGroup:
     stringTokens: ["Afrikaners", "Boers", "Afrikaner-Jews", "afrikander"]
     wikidataId: ["Q385799"]
@@ -894,7 +894,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   aymaraEthnicGroup:
     stringTokens: ["Aymara"]
     wikidataID: ["Q8281727"]
-    religionsMostPracticed: ["catholicReligion", "evangelicalReligion"]
+    religionsMostPracticed: ["catholicReligion", "evangelicalProtestant"]
   aynuEthnicGroup:
     stringTokens: ["Aynu", "aini", "abdal"]
     wikidataID: ["Q307559"]
@@ -1186,7 +1186,7 @@ bariEthnicGroup:
   buduEthnicGroup:
     stringTokens: ["Budu", "Babodo", "Bodo", "Mabodu", "Mabudu"]
     wikidataID: ["Q2927589"]
-    religionsMostPracticed: ["catholicReligion", "evangelicalReligion", "traditionalAfricanReligion"]
+    religionsMostPracticed: ["catholicReligion", "evangelicalProtestant", "traditionalAfricanReligion"]
   budukhsEthnicGroup:
     stringTokens: ["Budukhs"]
     wikidataID: ["Q2658415"]
@@ -1572,7 +1572,7 @@ bariEthnicGroup:
   emberaEthnicGroup:
     stringTokens: ["Embera", "Choco", "Katio"]
     wikidataID: ["Q1335017"]
-    religionsMostPracticed: ["evangelicalReligion"]
+    religionsMostPracticed: ["evangelicalProtestant"]
   englishEthnicGroup:
     stringTokens: ["English", "Englishmen"]
     wikidataID: ["Q42406"]
@@ -2095,7 +2095,7 @@ bariEthnicGroup:
   jaraiEthnicGroup:
     stringTokens: ["Jarai"]
     wikidataID: ["Q2467559"]
-    religionsMostPracticed: ["animismReligion", "evangelicalReligion", "buddhismReligion"]
+    religionsMostPracticed: ["animismReligion", "evangelicalProtestant", "buddhismReligion"]
   jarawasEthnicGroup:
     stringTokens: ["Jarawas"]
     wikidataID: ["Q651164"]
@@ -2730,7 +2730,7 @@ bariEthnicGroup:
   masaEthnicGroup:
     stringTokens: ["Masa"]
     wikidataID: ["Q726434"]
-    religionsMostPracticed: ["christianReligion", "evangelicalReligion", "muslimReligion"]
+    religionsMostPracticed: ["christianReligion", "evangelicalProtestant", "muslimReligion"]
   masalitEthnicGroup:
     stringTokens: ["Masalit", "masara"]
     wikidataID: ["Q1640583"]
@@ -3418,7 +3418,7 @@ bariEthnicGroup:
   saramakaEthnicGroup:
     stringTokens: ["Saramaka", "Saramacca", "Saamaka"]
     wikidataID: ["Q1760759"]
-    religionsMostPracticed: ["catholicReligion", "evangelicalReligion"]
+    religionsMostPracticed: ["catholicReligion", "evangelicalProtestant"]
   sardiniansEthnicGroup:
     stringTokens: ["Sardinians", "Logudorese", "Campidanese", "Sassarese", "Gallurese", "sards"]
     wikidataID: ["Q2140968"]
@@ -3999,7 +3999,7 @@ bariEthnicGroup:
   visayansEthnicGroup:
     stringTokens: ["Visayans", "Aklanon", "Butuanon", "Cebuano", "Boholano", "Eskaya", "Caluyanon", "Capiznon", "Cuyunon", "Hiligaynon", "Karay-a", "Masbatenos", "Negrenses", "Porohanon", "Rombloman",  "Bantoanons", "Waray"]
     wikidataID: ["Q1290600"]
-    religionsMostPracticed: ["catholicReligion", "evangelicalReligion", "animismReligion", "muslimReligion"]
+    religionsMostPracticed: ["catholicReligion", "evangelicalProtestant", "animismReligion", "muslimReligion"]
   volgaTatarsEthnicGroup:
     stringTokens: ["Volga Tatars", "Astrakhan Tatars", "Kasimov Tatars", "Kazan Tatars", "Kryashens", "Nagaybaks", "Nukrat Tatars", "Perm Tatars", "Teptyars"]
     wikidataID: ["Q35565"]
