@@ -23,5 +23,6 @@ relations:
   - (Party, UDCParty)
   - (Party, BMDParty)
   - (Party, BAMParty)
+  - (Party, UDCParty)
   - (ArmedGroup, CLAArmedGroup)
   - (ArmedGroup, MKArmedGroup)
