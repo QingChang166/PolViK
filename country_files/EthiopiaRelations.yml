@@ -115,3 +115,4 @@ relations:
   - (ArmedGroup, bplmArmedGroup)
   - (ArmedGroup, fanoArmedGroup)
   - (ArmedGroup, tdfArmedGroup)
+  - (ArmedGroup, luArmedGroup)
