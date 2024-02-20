@@ -16,7 +16,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   fightingPeople:
     stringTokens: ["commander", "defender", "solider", "combatant", "captor", "captured", "attacker"]
   formerFightingPeople: 
-     stringTokens: ["excombatant", "exrebel", "veteran", "POW", "prisoner of war"]
+     stringTokens: ["excombatant", "exrebel", "veteran", "POW", "prisoner of war"]  
   ageGroup: 
     stringTokens: ["age"]
   jobGroup:
