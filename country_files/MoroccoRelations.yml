@@ -20,6 +20,7 @@ relations:
   - (Party, RNIParty)
   - (Party, USFPParty)
   - (Party, PUNSParty)
+  - (Party, PFParty)
   - (ArmedGroup, PFArmedGroup)
   - (ArmedGroup, SJArmedGroup)
   - (ArmedGroup, GICMArmedGroup)
