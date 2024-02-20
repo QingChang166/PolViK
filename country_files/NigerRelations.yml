@@ -39,3 +39,4 @@ relations:
   - (ArmedGroup, ufraArmedGroup)
   - (ArmedGroup, aqimArmedGroup)
   - (ArmedGroup, craArmedGroup)
+  - (ArmedGroup, jnimArmedGroup)
