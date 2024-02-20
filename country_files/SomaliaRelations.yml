@@ -1,5 +1,5 @@
 relations:
-  - (officialStateSecurityForces, mozambiqueSecurityForces)
+  - (officialStateSecurityForces, somaliSecurityForces)
   - (EthnicGroup, somaliEthnicGroup)
   - (Party, cadiParty)
   - (Party, cdpParty)
