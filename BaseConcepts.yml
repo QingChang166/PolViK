@@ -576,6 +576,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["!Kung", "Kung", "Ju'hoansi", "!XU"]
     wikidataId: ["Q847913"]
     religionsMostPracticed: ["animism", "shamanism"]
+    languagesMostSpoken: [""]
   abagusiiEthnicGroup:
     stringTokens: ["Abagusii", "kisii", "gusii", "mkisii"]
     wikidataId: ["Q1276025"]
@@ -584,6 +585,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Abazins"]
     wikidataId: ["Q213040"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["russianLanguage", "turkishLanguage", "arabicLanguage"]
   abelamEthnicGroup:
     stringTokens: ["Abelam"]
     wikidataId: ["Q318517"]
