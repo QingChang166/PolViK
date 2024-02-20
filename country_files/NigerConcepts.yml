@@ -134,7 +134,7 @@ concepts:
      wikidataQnode: ["Q212372"]
     flaaArmedGroup:
      stringTokens: ["Front for the Liberation of Aïr and Azaouak", "FLAA"]
-    associatedEthnicGroup: ["Tuareg people"]
+     associatedEthnicGroup: ["Tuareg people"]
     fpnArmedGroup:
      stringTokens: ["Niger Patriotic Front", "FPN"]
      associatedEthnicGroup: ["Tuareg people"]
