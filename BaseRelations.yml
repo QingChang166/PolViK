@@ -43,7 +43,7 @@ relations:  # parent concept, child concept, tuples
     - (corporationGroup, domesticCompany)
     - (organizedGroup, governmentGroup)
     - (organizedGroup, religiousGroup)
-    - (organizedGroup, politicalParties)
+    - (organizedGroup, party)
     - (politicalParties, partiesInPower)
     - (politicalParties, partiesOutOfPower)
     - (governmentGroup, nationalAdministrativeGovernment)
