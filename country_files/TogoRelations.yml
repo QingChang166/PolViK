@@ -23,5 +23,6 @@ relations:
   - (Party, pdpParty)
   - (Party, mpddParty)
   - (Party, addiParty)
+  - (Party, ancParty)
   - (ArmedGroup, mtdArmedGroup)
   - (ArmedGroup, jnimArmedGroup)
