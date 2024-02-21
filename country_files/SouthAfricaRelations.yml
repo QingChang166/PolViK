@@ -25,6 +25,7 @@ relations:
   - (Party, DAParty)
   - (Party, DPParty)
   - (Party, DPSAParty)
+  - (Party, DFParty)
   - (Party, PFPSParty)
   - (Party, UPParty1)
   - (Party, UPParty2)
