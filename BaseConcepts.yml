@@ -581,6 +581,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Abagusii", "kisii", "gusii", "mkisii"]
     wikidataId: ["Q1276025"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "Traditionalafricanreligion"]
+    languagesMostSpoken: [""]
   abazinsEthnicGroup:
     stringTokens: ["Abazins"]
     wikidataId: ["Q213040"]
@@ -590,74 +591,92 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Abelam"]
     wikidataId: ["Q318517"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "animism"]
+    languagesMostSpoken: [""]
   abenakiEthnicGroup:
     stringTokens: ["Abenaki", "Wabanaki"]
-    wikidataId: ["Q318806)"]
+    wikidataId: ["Q318806"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishLanguage"]
   abkhaziansEthnicGroup:
     stringTokens: ["Abkhazians", "Sadz", "Afro-Abkhazians"]
     wikidataId: ["Q171795"]
     religionsMostPracticed: ["sunniReligion", "russianOrthodox"]
+    languagesMostSpoken: ["turkishLanguage", "russianLanguage"]
   acehneseEthnicGroup:
     stringTokens: ["Acehnese", "aceh", "atjeh"]
     wikidataId: ["Q340520"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["indonesianLanguage"]
   achaguaEthnicGroup:
     stringTokens: ["Achagua"]
     wikidataId: ["Q1394162"]
     religionsMostPracticed: ["animism"]
+    languagesMostSpoken: ["spanishLanguage"]
   acholiEthnicGroup:
     stringTokens: ["Acholi", "Acoli", "Acooli", "Atscholi", "Gan", "Lira Palwo", "Shuli"]
-    wikidataId: ["Q340581)"]
+    wikidataId: ["Q340581"]
     religionsMostPracticed: ["catholicReligion", "pentecostalReligion", "anglicanReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   adjoukrouEthnicGroup:
     stringTokens: ["Adjoukrou", "Adyukru"]
     wikidataId: ["Q2824498"]
     religionsMostPracticed: ["christianReligion", "catholicReligion", "protestantReligion", "evangelicalProtestant", "animism"]
+    languagesMostSpoken: [""]
   afarEthnicGroup:
     stringTokens: ["Afar"]
     wikidataId: ["Q211720"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   afemaiEthnicGroup:
     stringTokens: ["Afemai"]
     wikidataId: ["Q4688840"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   africanAmericansEthnicGroup:
     stringTokens: ["African-Americans", "Black Southerners", "Creoles of color", "Freedmen", "Black Seminoles", "Mascogos", "Cherokee Freedmen", "Choctaw Freedmen", "Creek Freedmen", "Gullah", "Samaná Americans"]
     wikidataId: ["Q49085"]
     religionsMostPracticed: ["protestantReligion", "evangelicalProtestant", "catholicReligion", "muslimReligion", "restorationismReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   afrikanersEthnicGroup:
     stringTokens: ["Afrikaners", "Boers", "Afrikaner-Jews", "afrikander"]
     wikidataId: ["Q385799"]
     religionsMostPracticed: ["calvinismReligion", "protestantReligion", "catholicReligion"]
+    languagesMostSpoken: ["afrikaansLanguage"]
   afroArgentinesEthnicGroup:
     stringTokens: ["Afro-Argentines", "afro-argentinans"]
     wikidataId: ["Q3088284"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion"]
+    languagesMostSpoken: [""]
   afroBraziliansEthnicGroup:
     stringTokens: ["Afro-Brazilians", "Zambo", "black brazilian", "african brazilian"]
     wikidataId: ["Q388315"]
     religionsMostPracticed: ["catholicReligion", "pentecostalismReligion", "sunniReligion"]
+    languagesMostSpoken: ["portugeseLanguage"]
   afroTurksEthnicGroup:
     stringTokens: ["Afro-Turks", "African Turks"]
     wikidataId: ["Q4690204"]
     religionsMostPracticed: ["sunniIslam"]
+    languagesMostSpoken: ["turkishLanguage"]
   agawEthnicGroup:
     stringTokens: ["Agaw", "Bilen", "Ximre", "Awi", "Qemant"]
     wikidataId: ["Q56394"]
     religionsMostPracticed: ["orientalOrthodox", "sunniReligion", "jewishReligion"]
+    languagesMostSpoken: ["amharicLanguage"]
   aghulsEthnicGroup:
     stringTokens: ["Aghuls"]
     wikidataId: ["Q319066"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   ahomEthnicGroup:
     stringTokens: ["Ahom"]
     wikidataId: ["Q402392"]
     religionsMostPracticed: ["hinduReligion"]
+    languagesMostSpoken: [""]
   aimaqEthnicGroup:
     stringTokens: ["Aimaq", "Aimaq Hazara", "Firozkohi", "Jamshidi", "Aimaq Kipchaks", "Timuri", "Taymani", "aimak"]
     wikidataId: ["Q405435"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   ainusEthnicGroup:
     stringTokens: ["Ainus", "Hokkaido Ainu", "Ishikari Ainu", "Menasunkur Ainu", "Sumunkur Ainu", "Tokyo Ainu", "Sakhalin Ainu", "Russian Ainu", "aino", "aynu",
                    "eino", "ezo"]
