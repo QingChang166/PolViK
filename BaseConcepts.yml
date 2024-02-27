@@ -817,18 +817,22 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Anglo-Canadians", "Ontarian", "Anglo-Quebecers", "Nova Scotians", "New Brunswickers", "Manitoban", "British Columbians", "Prince Edward Islanders", "Saskatchewanians", "Albertans", "Newfoundlanders", "Labradorians", "Northwest Territorians", "Yukoners", "Anglo-Nunavummiut"]
     wikidataID: ["Q4763597"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   angloCelticAustraliansEthnicGroup:
     stringTokens: ["Anglo-Celtic Australians"]
     wikidataID: ["Q388101"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   angloIndiansEthnicGroup:
     stringTokens: ["Anglo-Indians"]
     wikidataID: ["Q368125"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion", "muslimReligion", "hinduismReligion", "sikhismReligion"]
+    languagesMostSpoken: ["englishLanguage", "bengaliLanguage", "kannadaLanguage", "marathiLanguage", "teleguLanguage", "tamilLanguage", "hindiLanguage", "urduLanguage"]
   angloIrishEthnicGroup:
     stringTokens: ["Anglo-Irish"]
     wikidataID: ["Q2849692"]
     religionsMostPracticed: ["anglicanReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   angloNewZealandersEthnicGroup:
     stringTokens: ["Anglo-New Zealanders"]
     wikidataID: ["Q28428697"]
