@@ -682,110 +682,137 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "eino", "ezo"]
     wikidataId: ["Q101828"]
     religionsMostPracticed: ["aninismReligion", "buddhismReligion", "shintoismReligion", "russianOrthodox"]
+    languagesMostSpoken: ["japaneseLanguage", "russianLanguage"]
   ajaEthnicGroup:
     stringTokens: ["Aja", "adja", "adya"]
     wikidataId: ["Q357684"]
     religionsMostPracticed: ["christianReligion", "voodooReligion"]
+    languagesMostSpoken: [""]
   akaEthnicGroup:
     stringTokens: ["Aka"]
     wikidataID: ["Q781814"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   akansEthnicGroup:
     stringTokens: ["Akans", "Abbé", "Abidji", "Ahafo", "Ahanta", "Akuapem", "Akwamu", "Akyem", "Alladian", "Anyi", "Ashanti", "Assin", "Attie", "Avikam", "Baoulé", "Bonos", "Chakosi", "Egas", "Evalue", "Fante", "M'Bato", "Nzema", "Sefwi", "Tchaman", "Wasa"]
     wikidataID: ["Q415693"]
     religionsMostPracticed: ["christianReligion", "sunniReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   akhaEthnicGroup:
     stringTokens: ["Akha", "Akeu"]
     wikidataID: ["Q417628"]
     religionsMostPracticed: ["christianReligion", "buddhismReligion", "aninismReligion"]
+    languagesMostSpoken: ["thaiLanguage"]
   akieEthnicGroup:
     stringTokens: ["Akie"]
     wikidataID: [""]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   alaskanCreolesEthnicGroup:
     stringTokens: ["Alaskan Creoles"]
     wikidataID: ["Q116882463"]
     religionsMostPracticed: ["russianOrthodox"]
+    languagesMostSpoken: [""]
   alaviBohrasEthnicGroup:
     stringTokens: ["Alavi Bohras"]
     wikidataID: ["Q5244973"]
     religionsMostPracticed: ["shiaReligion"]
+    languagesMostSpoken: ["gujaratiLanguage", "arabicLanguage", "englishLanguage", "urduLanguage"]
   alawitesEthnicGroup:
     stringTokens: ["Alawites", "nusyarites"]
     wikidataID: ["Q209496"]
     religionsMostPracticed: ["alawismReligion"]
+    languagesMostSpoken: ["arabicLanguage", "turkishLanguage"]
   albaniansEthnicGroup:
     stringTokens: ["Albanians", "Ghegs", "Arbanasi", "Tosks", "Arbereshe", "Cham Albanians", "Arvanites"]
     wikidataID: ["Q179248"]
     religionsMostPracticed: ["sunniReligion", "catholicReligion", "easternOrthodox", "protestantReligion"]
+    languagesMostSpoken: [""]
   aleutsEthnicGroup:
     stringTokens: ["Aleuts", "Agdaagux Tribe", "unangan", "alyoot", "unangin"]
     wikidataID: ["Q191710"]
     religionsMostPracticed: ["russianOrthodox", "animismReligion"]
+    languagesMostSpoken: ["englishLanguage", "russianLanguage"]
   alexandrianGreekChristiansEthnicGroup:
     stringTokens: ["Alexandrian Greek Christians"]
     wikidataID: [""]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: [""]
   altaiansEthnicGroup:
     stringTokens: ["Altaians"]
     wikidataID: ["Q244735"]
     religionsMostPracticed: ["shamanismReligion", "russianOrthodox", "buddhismReligion"]
+    languagesMostSpoken: ["russianLanguage"]
   alurEthnicGroup:
     stringTokens: ["Alur"]
     wikidataID: ["Q202353"]
     religionsMostPracticed: ["christianReligion", "sunniReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   alutiiqEthnicGroup:
     stringTokens: ["Alutiiq", "Chugach"]
     wikidataID: ["Q2745405"]
     religionsMostPracticed: ["animismReligion", "russianOrthodox"]
+    languagesMostSpoken: ["englishLanguage"]
   alyutorsEthnicGroup:
     stringTokens: ["Alyutors"]
     wikidataID: ["Q2679509"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["russianLanguage"]
   amboneseEthnicGroup:
     stringTokens: ["Ambonese"]
     wikidataID: ["Q1250259"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion", "sunniReligion"]
+    languagesMostSpoken: ["indonesianLanguage"]
   ambunduEthnicGroup:
     stringTokens: ["Ambundu", "mbundu", "kimbundu", "ndongo", "ngola"]
     wikidataID: ["Q460091"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["portugeseLanguage"]
   americoLiberiansEthnicGroup:
     stringTokens: ["Americo-Liberians"]
     wikidataID: ["Q3267945"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion"]
+    languagesMostSpoken: [""]
   amharaEthnicGroup:
     stringTokens: ["Amhara"]
     wikidataID: ["Q464237"]
     religionsMostPracticed: ["orientalOrthodox", "sunniMuslim", "jewishReligion"]
+    languagesMostSpoken: ["amharicLanguage"]
   amisEthnicGroup:
     stringTokens: ["Amis"]
     wikidataID: ["Q205006"]
     religionsMostPracticed: ["animismReligion", "christianReligion"]
+    languagesMostSpoken: ["mandarinChineseLanguage"]
   amishEthnicGroup:
     stringTokens: ["Amish", "Old Order Amish", "Swiss Amish", "Nebraska Amish", "Swartzentruber Amish", "Buchanan Amish", "Andy Weaver Amish", "Troyer Amish", "Byler Amish", "Renno Amish", "Holmes Old Order Amish", "Elkhart-LaGrange Amish", "Lancaster Amish", "Tobe Amish]", "New Order Amish"]
     wikidataID: ["Q104444"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   amungEthnicGroup:
     stringTokens: ["Amung", "amungme", "hamung", "amuy", "uhunduni"]
     wikidataID: ["Q2844528"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
+    languagesMostSpoken: ["indonesianLanguage"]
   andalusiansEthnicGroup:
     stringTokens: ["Andalusians"]
     wikidataID: ["Q3777040"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: [""]
   angloAfroCaribbeanEthnicGroup:
     stringTokens: ["Anglo Afro-Caribbean", "Afro-Antiguans and Barbudans", "Afro-Bahamians", "Afro-Barbadians", "Afro-Bermudians", "Afro-Dominicans", "Afro-Grenadians", "Afro-Guyanese", "Afro-Jamaicans", "Afro-Kittitians and Nevisians", "Afro-Saint Lucians", "Afro-Trinidadians and Tobagonians", "Afro-Vincentians", "Belizean Creole", "Raizal"]
     wikidataID: ["Q2986879"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   angloAmericansEthnicGroup:
     stringTokens: ["Anglo-Americans", "New England Americans", "Middle Atlantic Americans", "Midwestern Americans", "Southern Americans", "Western Americans"]
     wikidataID: ["Q4745649"]
     religionsMostPracticed: ["christianRelgion"]
+    languagesMostSpoken: ["englishLanguage"]
   angloBurmeseEthnicGroup:
     stringTokens: ["Anglo-Burmese"]
     wikidataID: ["Q1975588"]
     religionsMostPracticed: ["christianReligion", "buddhismReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   angloCanadiansEthnicGroup:
     stringTokens: ["Anglo-Canadians", "Ontarian", "Anglo-Quebecers", "Nova Scotians", "New Brunswickers", "Manitoban", "British Columbians", "Prince Edward Islanders", "Saskatchewanians", "Albertans", "Newfoundlanders", "Labradorians", "Northwest Territorians", "Yukoners", "Anglo-Nunavummiut"]
     wikidataID: ["Q4763597"]
