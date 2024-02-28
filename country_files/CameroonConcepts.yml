@@ -119,28 +119,28 @@ concepts:
      stringTokens: ["People's Democratic Movement", "CPDM", "Cameroon People's Democratic Movement "]
      wikidataQnode:  ["Q953447"]
   ## armed groups
-    bamosdArmedGroup:
+    bamosdarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["BAKASSI FREEDOM FIGHTERS", "BAMOSD"]
      associatedEthnicGroup: ["Oron people"]
      wikidataQnode: ["Q4849025"]
-    mddArmedGroup:
+    mddarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["MOVEMENT FOR DEMOCRACY AND DEVELOPMENT", "MDD"]
      wikidataQnode: ["Q29414"]
-    mendArmedGroup:
+    mendarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["MOVEMENT FOR THE EMANCIPATION OF THE NIGER DELTA", "MEND"]
      wikidataQnode: ["Q29414"]
-    adfArmedGroup:
+    adfarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ambazonia Defence Forces", "ADF"]
      associatedEthnicGroup: ["Ambazonian"]
      wikidataQnode: ["Q55603782"]
-    sclcArmedGroup:
+    sclcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Southern Cameroons Defence Forces", "SCLC"]
      associatedEthnicGroup: ["Ambazonian"]
      wikidataQnode: ["Q63443289"]
-    bhArmedGroup:
+    bharmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Boko Haram"]
      wikidataQnode: ["Q212372"]
-    iswapArmedGroup:
+    iswaparmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State West Africa "]
      wikidataQnode: ["Q86661119"]
     
