@@ -19,7 +19,7 @@ concepts:
   
   # Below are less than 5%
   AbazinsEthnicGroup:
-    stringTokens: ["Abazins", "Abaza", "Abazinians", "Abazalar  MBArmedGroup"]
+    stringTokens: ["Abazins", "Abaza", "Abazinians", "Abazalar  MBarmedNonGovernmentalOrganizedGroup"]
     wikidataQnode: ["Q213040"]
     languagesMostSpoken: ["Abaza", "Russian", "Arabic", "Turkish"]
     religionsMostPracticed: ["Sunni Islam"]
@@ -178,32 +178,32 @@ concepts:
    associatedEthnicGroup: [] # all, Secular
    wikidataQnode: ["Q748617"]
      
-##ArmedGroups
-  ISILSPArmedGroup:
+##armedNonGovernmentalOrganizedGroups
+  ISILSParmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Islamic State – Sinai Province", "ISIL Sinai Province", "ISIL-SP", "Sinai Province of the Islamic State", "Daesh", "ISIL", "Islamic State in Iraq and Syria", "Islamic State of Iraq and Levant", "ISIS", "Islamic State Group", "Islamic State of Iraq and Syria", "Islamic State of Iraq and al-Sham", "The Islamic State", "IS", "Islamic State of Iraq and the Levant", "Jama’at Al-Tawhid wa Al-Jihad", "TQJBR", "Tanzim Qa’idat al Jihad fi Bilad al Rafidayn"]
    associatedEthnicGroup: [""] # Ethnicity is not a primary organizing principle, Sunni Islamism
    wikidataQnode: ["Q21070586"]
-  AlGamaaAlIslamiyyaArmedGroup:
+  AlGamaaAlIslamiyyaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["al-Gama'a al-Islamiyya", "al Jamaat al Islamiya", "al-Jama'a al-Islamiyya", "the Islamic Group", "El Gama'a El Islamiyya", "Islamic Groups", "Gamaat Islamiya", "al Jamaat al Islamiya"]
    associatedEthnicGroup: [""] # Ethnicity is not a primary organizing principle, Sunni Islamism
    wikidataQnode: ["Q285185"]
-  TawhidwalJihadArmedGroup:
+  TawhidwalJihadarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Tawhid wal-Jihad", "Jahafil Al-Tawhid Wal-Jihad fi Filastin", "Tawhid al-Jihad (Gaza Strip)", "The Armies of Monotheism and Jihad in Palestine", "al-Tawhid wal-Jihad"]
    associatedEthnicGroup: ["Palestinians", "Palestinian Arabs", "Arab Palestinians", "Palestinian people"]
    wikidataQnode: ["Q7689274"]
-  ABMArmedGroup:
+  ABMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Ansar Bait al-Maqdis", "ABM", "Ansar Al-Quds"] # Defunct Egyptian jihadist militant group (2011-14). Most of the group became a branch of ISIL, renaming itself ISIL-Sinai Province.
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
    wikidataQnode: ["Q15646812"]
-  HASMArmedGroup:
+  HASMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Hasm Movement", "Arms of Egypt Movement", "The Hasm Movement", "Harakat Sawa’d Misr", "Harakah Sawa’id Misr", "Harikat Souaid Misr", "HASM", "Movement of Egypt’s Forearms", "Movement of Egypt’s Arms", "Hassm", "Hamms", "Hassam", "Hasam"]
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
    wikidataQnode: ["Q28162759"]
-  AAIArmedGroup:
+  AAIarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Ansar al-Islam", "Ansar al-Sunna", "Jamaat Ansar al-Islam", "AI", "JAI", "AAI", "Ansar al-Islam fi Kurdistan"]
    associatedEthnicGroup: ["Kurds", "Kurdish people", "Kurd"]
    wikidataQnode: ["Q568914"]
-  EIJArmedGroup:
+  EIJarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Egyptian Islamic Jihad", "EIJ", "The Jihad Group", "The Jihad Organization", "al-Jihad", "The Jihad Organization"]
    associatedEthnicGroup: [] # Ethnicity is not a primary organizing principle, Sunni Islamism
    wikidataQnode: ["Q310214"]
