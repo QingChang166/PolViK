@@ -126,27 +126,27 @@ concepts:
      wikidataQnode:  ["Q5160543"]
   
   ## armed groups
-    ninjaArmedGroup:
+    ninjaarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ninja"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q2376614"]
   
-    fdpArmedGroup:
+    fdparmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Cobra", "Forces Démocratique and Patriotique", "FDP"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q108146857"]
   
-    cocoyeArmedGroup:
+    cocoyearmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Cocoye"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q108266046"]
   
-    ntsiloulousArmedGroup:
+    ntsiloulousarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ntsiloulous"]
      associatedEthnicGroup: [""]
      wikidataQnode: [""]
   
-    flecArmedGroup:
+    flecarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Front for the Liberation of the Enclave of Cabinda", "FLEC"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q608489"]
