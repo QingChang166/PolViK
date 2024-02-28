@@ -126,12 +126,12 @@ concepts:
    yearsActiveasParty: ["2020-Present"]
    regionsMostActive: ["Rift Valley"]
 ##armed groups
-  MRCArmedGroup:
+  MRCarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Mombasa Revolutionary Council", "MRC"]
    wikidataQnode: ["Q6897053"]
    regionsMostActive: ["Coast Province"]
-   yearsActiveasArmedGroup: ["1999-Present"]
-  AlShabaabTransnationalArmedGroup:
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-Present"]
+  AlShabaabTransnationalarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al Shabaab", "Al-Shabaab", "Harakat al-Shabaab al-Mujahideen", "HSM", "Shabab militia"]
    originCountry: ["Somalia"]
    wikidataQnode: ["Q309998"]
