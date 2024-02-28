@@ -23,4 +23,4 @@ relations:
   - (Party, dcaParty)
   - (Party, mcpParty)
   - (Party, dpParty)
-  - (ArmedGroup, nrcArmedGroup)
+  - (armedNonGovernmentalOrganizedGroup, nrcarmedNonGovernmentalOrganizedGroup)
