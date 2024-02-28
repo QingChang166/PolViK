@@ -129,17 +129,17 @@ concepts:
      wikidataQnode:  ["Q2495200"]
   
   ## armed groups
-    nlcArmedGroup:
+    nlcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Liberation Council", "NLC"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q1967432"]
   
-    mfedeaArmedGroup:
+    mfedeaarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["The Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo)"]
      associatedEthnicGroup: ["Ga-Adangbe people"]
      wikidataQnode: [""]
   
-    mfjjrArmedGroup:
+    mfjjrarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["The Military faction (forces of Jerry John Rawlings)"]
      associatedEthnicGroup: [""]
      wikidataQnode: [""]
