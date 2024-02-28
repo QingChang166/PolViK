@@ -119,12 +119,12 @@ concepts:
      wikidataQnode:  ["Q4732444"]
 
  ## armed groups
-    mtdArmedGroup:
+    mtdarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Togolese Movement for Democracy", "Mouvement Togolais pour la Democratie", "MTD"]
      associatedEthnicGroup: [""]
      wikidataQnode: [""]
   
-    jnimArmedGroup:
+    jnimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal Muslimin"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q28877411"]
