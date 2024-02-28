@@ -112,42 +112,42 @@ concepts:
      stringTokens: ["Alliance of Movements for the Emergence of Niger", "AMEN AMIN"]
      wikidataQnode:  ["Q23048035"]
 ## armed groups
-    mjrnArmedGroup:
+    mjrnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for Justice and the Rehabilitation of Niger"]
      associatedEthnicGroup: ["Toubou people"]
      wikidataQnode: ["Q28498964"]
-    mnjArmedGroup:
+    mnjarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Nigerien's Movement for Justice", "MNJ"]
      associatedEthnicGroup: ["Tuareg people", "Toubou people", "Fulani people"]
      wikidataQnode: ["Q740688"]
-    rafsArmedGroup:
+    rafsarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Revolutionary Armed Forces of the Sahara", "FARS", "RAFS"]
      associatedEthnicGroup: ["Toubou people"]
      wikidataQnode: ["Q3076972"]
-    mlnArmedGroup:
+    mlnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for the Liberation of Niger", "MLN"]
-    isgsArmedGroup:
+    isgsarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State in the Greater Sahara", "IS-GS"]
      wikidataQnode: ["Q36504631"]
-    bhArmedGroup:
+    bharmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Boko Haram"]
      wikidataQnode: ["Q212372"]
-    flaaArmedGroup:
+    flaaarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Front for the Liberation of Aïr and Azaouak", "FLAA"]
      associatedEthnicGroup: ["Tuareg people"]
-    fpnArmedGroup:
+    fpnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Patriotic Front", "FPN"]
      associatedEthnicGroup: ["Tuareg people"]
-    jnimArmedGroup:
+    jnimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Jamaat Nusrat al-Islam wal-Muslimin", "JNIM", "Group for the Support of Islam and Muslims", "GSIM"]
      associatedEthnicGroup: ["Fulani people"]
-    ufraArmedGroup:
+    ufraarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Union of Forces of the Armed Resistance", "UFRA"]
      associatedEthnicGroup: ["Tuareg people"]
-    aqimArmedGroup:
+    aqimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["AQIM", "Qaida al-Jihad fi Bilad al-Maghrib al-Islami", "al-Qaida Organisation in the Islamic Maghreb"]
      wikidataQnode: ["Q2635966"]
-    craArmedGroup:
+    craarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["CRA", "Coordination de la résistance armée", "Coordination of the Armed Resistance"]
      associatedEthnicGroup: ["Touareg people"]
 
