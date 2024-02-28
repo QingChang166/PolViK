@@ -157,45 +157,45 @@ concepts:
    wikidataQnode: ["Q240425"]
    yearsActive: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
 
-###ArmedGroups
+###armedNonGovernmentalOrganizedGroups
   
-  PFArmedGroup:
+  PFarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario", "Popular Front for the Liberation of Saguia el-Hamra and Río de Oro"]
    associatedEthnicGroup: ["Sahrawi"]
    wikidataQnode: ["Q240425"]
    yearsActive: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
     
-  SPLAArmedGroup:
+  SPLAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Sahrawi People's Liberation Army","Armée populaire de libération sahraouie", "Military of Western Sahara", "Sahrawi Popular Liberation Army", "SPLA", "Ejército de Liberación Popular Saharaui", "ELPS", "ELP"]
    associatedEthnicGroup: ["Sahrawi"]
    wikidataQnode: ["Q2862977"]
    yearsActive: ["1972-present"] # armed wing of of Sahrawi Arab Democratic Republic (SADR)
    
-  SJArmedGroup:
+  SJarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Salafia Jihadia", "al-Salafiya al-jihadiya"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3469483"]
    yearsActive: ["1990s-present"] #ally of Moroccan Islamic Combatant Group, Al-Qaeda and 20 February Movement 
   
-  GICMArmedGroup:
+  GICMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Moroccan Islamic Combatant Group", "GICM", "Groupe Islamique Combattant Marocain"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q2357272"]
    yearsActive: ["1990s-present"] #ally of Salafia Jihadia and Al-Qaeda
   
-  F20ArmedGroup:
+  F20armedNonGovernmentalOrganizedGroup:
    stringTokens: ["20 February Movement"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3326647"]
    yearsActive: ["2011"] #ally of Salafia Jihadia
   
-  SPArmedGroup:
+  SParmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Sirat al-Mustaqim", "The Straight Path", "as-Sirat al-Mustaqim"]
    associatedEthnicGroup: []
    wikidataQnode: []
    yearsActiveas: [] # splintered from Salafia Jihadia
   
-  TakfirwalHijraArmedGroup:
+  TakfirwalHijraarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Takfir wal-Hijra", "Takfir wa Hijra", "Jama'at al-Muslimin" ,"Excommunication and Exodus", "excommunication and emigration"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q291419"]
