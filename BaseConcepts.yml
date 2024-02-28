@@ -837,108 +837,134 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Anglo-New Zealanders"]
     wikidataID: ["Q28428697"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   anguEthnicGroup:
     stringTokens: ["Angu", "anga"]
     wikidataID: ["Q2671423"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   antiochianGreekChristiansEthnicGroup:
     stringTokens: ["Antiochian Greek Christians"]
     wikidataID: ["Q21707952"]
     religionsMostPracticed: ["greekOrthodox"]
+    languagesMostSpoken: ["levantineArabicLanguage"]
   anuakEthnicGroup:
     stringTokens: ["Anuak"]
     wikidataID: ["Q612213"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: [""]
   apacheEthnicGroup:
     stringTokens: ["Apache", "Chiricahua", "Jicarilla", "Lipan", "Mescalero", "Salinero", "Plains Apache", "Western Apache"]
     wikidataID: ["Q7496931"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
+    languagesMostSpoken: ["englishLanguage", "spanishLanguage"]
   apinajeEthnicGroup:
     stringTokens: ["Apinajé"]
     wikidataID: ["Q2469268"]
     religionsMostPracticed: ["animismReligion"]
+    languagesMostSpoken: ["portugeseLanguage"]
   arabsEthnicGroup:
     stringTokens: ["Arabs", "Bedouins", "Al-Sayyid Bedouins", "Palestinian Bedouins", "Jahalin Bedouins", "Negev Bedouins", "Galilee Bedouins", "Israeli-Arabs",  "Palestinian Metawalis", "Afro-Palestinians", "Egyptian Arabs", "Maghrebi Arabs", "Iranian Arabs", "Khuzestani Arabs", "Khorasani Arabs", "Huwalas", "Khamseh Arabs", "Sudanese Arabs", "Marsh Arabs", "Arab Christians", "Antiochians", "Jerusalemites", "Alexandrians", "Alawites", "Druze", "Hadharem", "Mhallami", "Rashaida", "Baggara Arabs", "Abbala Arabs", "Azawagh Arabs", "Diffa Arabs", "Manga Arabs", "Ababda", "Arab-Persians", "Arab-Berbers"]
     wikidataID: ["Q35323"]
     religionsMostPracticed: ["sunniReligion", "shiaReligion", "alawismReligion", "ibadiReligion", "greekOrthodox", "jewishReligion", "druzeReligion", "catholicReligion",
                              "bahaiReligion"]
+    languagesMostSpoken: ["arabicLanguage"]
   arameansEthnicGroup:
     stringTokens: ["Arameans"]
     wikidataID: ["Q185461"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["arabicLanguage"]
   arapahoEthnicGroup:
     stringTokens: ["Arapaho"]
     wikidataID: ["Q626136"]
     religionsMostPracticed: ["christianReligion", "shamanismReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   araraEthnicGroup:
     stringTokens: ["Arará"]
     wikidataID: ["Q626203"]
     religionsMostPracticed: ["voodooReligion", "yorubaReligion", "kongoReligion"]
+    languagesMostSpoken: [""]
   argobbaEthnicGroup:
     stringTokens: ["Argobba"]
     wikidataID: ["Q648031"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["oromoLanguage", "amharicLanguage", "arabicLanguage"]
   armeniansEthnicGroup:
     stringTokens: ["Armenians", "Turkish Armenians", "Hemshin", "Hidden Armenians", "Cherkesogai", "Armeno-Tats", "Zoks", "Hayhurum", "Karabakhis", "Udis"]
     wikidataID: ["Q79797"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion"]
+    languagesMostSpoken: [""]
   ashkaliEthnicGroup:
     stringTokens: ["Ashkali"]
     wikidataID: ["Q282427"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: [""]
   asmatEthnicGroup:
     stringTokens: ["Asmat"]
     wikidataID: ["Q643103"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "sunniReligion"]
+    languagesMostSpoken: [""]
   assiniboineEthnicGroup:
     stringTokens: ["Assiniboine", "Bizebina", "Insaombi", "Wokpanbi"]
     wikidataID: ["Q682808"]
     religionsMostPracticed: ["shamanismReligion", "christianReligion"]
+    languagesMostSpoken: ["englishLanguage"]
   assyriansEthnicGroup:
     stringTokens: ["Assyrians", "Iraqi Assyrians", "Turkish Assyrians", "Syrian Assyrians",  "Iranian Assyrians",  "Chaldean Assyrians", "Syriac Assyrians", "Hakkari",
                    "Urmia",  "Tyari", "Jilu", "Baz", "Tkhuma", "Nochiya", "aisors"]
     wikidataID: ["Q377085"]
     religionsMostPracticed: ["christianReligion", "jewishReligion", "protestantReligion"]
+    languagesMostSpoken: [""]
   asturiansEthnicGroup:
     stringTokens: ["Asturians", "Eonavians"]
     wikidataID: ["Q3573453"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["spanishLanguage"]
   atacamaEthnicGroup:
     stringTokens: ["Atacama", "atacamenos"]
     wikidataID: ["Q753125"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["spanishLanguage"]
   atayalsEthnicGroup:
     stringTokens: ["Atayals"]
     wikidataID: ["Q701676"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
+    languagesMostSpoken: ["mandarinChineseLanguage", "japaneseLanguage"]
   atiEthnicGroup:
     stringTokens: ["Ati"]
     wikidataID: ["Q2714852"]
     religionsMostPracticed: ["animismReligion", "catholicReligion"]
+    languagesMostSpoken: ["tagalogLanguage"]
   atoniEthnicGroup:
     stringTokens: ["Atoni", "Amarasi"]
     wikidataID: ["Q757538"]
     religionsMostPracticed: ["christianReligion", "sunniReligion"]
+    languagesMostSpoken: ["portugeseLanguage", "indonesianLanguage"]
   atyapEthnicGroup:
     stringTokens: ["Atyap"]
     wikidataID: ["Q4217022"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanreligion"]
+    languagesMostSpoken: [""]
   australIslandersEthnicGroup:
     stringTokens: ["Austral Islanders"]
     wikidataID: ["Q115299116"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion"]
+    languagesMostSpoken: [""]
   austriansEthnicGroup:
     stringTokens: ["Austrians"]
     wikidataID: ["Q237534"]
     religionsMostPracticed: ["catholicReligion", "lutheranReligion", "sunniReligion"]
+    languagesMostSpoken: ["germanLanguage", "turkishLanguage"]
   avarsEthnicGroup:
     stringTokens: ["Avars", "Archis"]
     wikidataID: ["Q8280625"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   awaEthnicGroup:
     stringTokens: ["Awa"]
     wikidataID: ["Q114003032"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   awadhisEthnicGroup:
     stringTokens: ["Awadhis", "Barhai"]
     wikidataID: ["Q4829674"]
