@@ -138,91 +138,91 @@ concepts:
    wikidataQnode: ["Q115801037"]
    yearsActiveasParty: ["2010-Present"]
 ##armed groups
-  LRAArmedGroup:
+  LRAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["LRA", "Lord's Resistance Army"]
    associatedEthnicGroup: ["AcholiEthnicGroup"]
    associatedReligion: ["Christian"]
    regionsMostActive: ["Northern Uganda"]
-   yearsActiveasArmedGroup: ["1987-Present"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1987-Present"]
    wikidataQnode: ["Q108462"]
-  ADFArmedGroup:
+  ADFarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Allied Democratic Forces", "ADF"]
    associatedEthnicGroup: ["NandeEthnicGroup"]
    associatedReligion: ["Islam"]
    regionsMostActive: ["Western Uganda"]
    wikidataQnode: ["Q1133743"]
-   yearsActiveasArmedGroup: ["1996-Present"]
-  NALUArmedGroup:
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1996-Present"]
+  NALUarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["NALU", "National Army for the Liberation of Uganda"]
    associatedReligion: ["Islam"]
    regionsMostActive: ["Western Uganda"]
-   yearsActiveasArmedGroup: ["1980-1996"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-1996"]
    wikidataQnode: ["Q16203739"]
-  HSMArmedGroup:
+  HSMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["HSM", "Holy Spirit Movement"]
    associatedEthnicGroup: ["AcholiEthnicGroup"]
    associatedReligion: ["Christian"]
    regionsMostActive: ["Northern Uganda"]
-   yearsActiveasArmedGroup: ["1986-1987"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1986-1987"]
    wikidataQnode: ["Q1625351"]
-  UNRFArmedGroup:
+  UNRFarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UNRF", "Uganda National Rescue Front"]
    regionsMostActive: ["Northern Uganda"]
-   yearsActiveasArmedGroup: ["1980-2010"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-2010"]
    wikidataQnode: ["Q7877619"]
-  WNBFArmedGroup:
+  WNBFarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["WNBF", "West Nile Bank Front"]
-   yearsActiveasArmedGroup: ["1995-1998"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1995-1998"]
    wikidataQnode: ["Q1276232"]
-  UPAArmedGroup:
+  UPAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UPA", "Uganda People's Army"]
    associatedEthnicGroup: ["ItesoEthnicGroup"]
    regionsMostActive: ["Eastern Uganda"]
-   yearsActiveasArmedGroup: ["1987-1992"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1987-1992"]
    wikidataQnode: ["Q7877622"]
-  UFMArmedGroup:
+  UFMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Uganda Freedom Movement", "UFM"]
    regionsMostActive: ["Central Uganda"]
-   yearsActiveasArmedGroup: ["1981-1985"]
-  FEDEMUArmedGroup:
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1981-1985"]
+  FEDEMUarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["FEDEMU", "Federal Democratic Movement of Uganda"]
    regionsMostActive: ["Central Uganda", "Western Uganda"]
-   yearsActiveasArmedGroup: ["1980-1986"]
-  UNLFArmedGroup:
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-1986"]
+  UNLFarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UNLF", "Uganda National Liberation Front"]
-   yearsActiveasArmedGroup: ["1978-1979"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1978-1979"]
    wikidataQnode: ["Q2738248"]
-  SUMArmedGroup:
+  SUMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["SUM", "Save Uganda Movement"]
    regionsMostActive: ["Central Uganda"]
-   yearsActiveasArmedGroup: ["1981-1985"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1981-1985"]
    wikidataQnode: ["Q104835651"]
-  PRedemptionAArmedGroup:
+  PRedemptionAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Redemption Army", "PRA"]
    regionsMostActive: ["Western Uganda"]
-   yearsActiveasArmedGroup: ["2000-2005"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000-2005"]
    wikidataQnode: ["Q7165737"]
-  FOBAArmedGroup:
+  FOBAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["FOBA", "Force Obote Back Again"]
    regionsMostActive: ["Northern Uganda"]
-   yearsActiveasArmedGroup: ["1980-1990"]
-  UNDAArmedGroup:
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-1990"]
+  UNDAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UNDA", "Uganda National Democratic Alliance"]
    regionsMostActive: ["Eastern Uganda"]
-   yearsActiveasArmedGroup: ["1980-1990"]
-  UFFArmedGroup:
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-1990"]
+  UFFarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UFF", "Uganda Freedom Fighters", "Buganda Army"]
    associatedEthnicGroup: ["BugandaEthnicGroup"]
    regionsMostActive: ["Central Uganda"]
-   yearsActiveasArmedGroup: ["1980-1990"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-1990"]
    wikidataQnode: ["Q7877596)"]
-  PopRAArmedGroup:
+  PopRAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["PRA", "Popular Resistance Army"]
-   yearsActiveasArmedGroup: ["1980-1990"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-1990"]
    wikidataQnode: ["Q7229726"]
-  NRAArmedGroup:
+  NRAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["NRA", "National Resistance Army"]
-   yearsActiveasArmedGroup: ["1983-1990"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1983-1990"]
    wikidataQnode: ["Q1967703"]
 
 
