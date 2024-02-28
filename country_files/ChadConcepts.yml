@@ -91,39 +91,39 @@ concepts:
      stringTokens: ["National Rally for Development and Progress", "VIVA"]
      wikidataQnode:  ["Q3658492"]
 ## armed groups
-   factArmedGroup:
+   factarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Front for Change and Concord in Chad", "FACT"]
      associatedEthnicGroup: ["Gorane", "Toubou"]
      wikidataQnode: ["Q25345086"]
-   ufddArmedGroup:
+   ufddarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Union of Forces for Democracy and Development", "UFDD"]
      associatedEthnicGroup: ["Gorane", "Toubou"]
      wikidataQnode: ["Q828786"]
-   rfcArmedGroup:
+   rfcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Rally of Forces for Change", "RFC"]
      associatedEthnicGroup: ["Zaghawa"]
      wikidataQnode: ["Q3419890"]
-   mdjtArmedGroup:
+   mdjtarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for Democracy and Justice in Chad", "MDJT"]
      associatedEthnicGroup: ["Zaghawa"]
      wikidataQnode: ["Q3326794"]
-   frolinatArmedGroup:
+   frolinatarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Liberation Front of Chad", "FROLINAT"]
      associatedEthnicGroup: ["Arabs", "Tama", "Hadjerai"]
      wikidataQnode: ["Q1075228"]
-   fprArmedGroup:
+   fprarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Popular Front for Recovery", "FPR"]
      associatedEthnicGroup: ["Tama"]
      wikidataQnode: ["Q15138850"]
-   mprArmedGroup:
+   mprarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Chadian People's Revolutionary Movement", "MPR"]
      wikidataQnode: ["Q5066453"]
-   cntArmedGroup:
+   cntarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Chadian National Concord"]
      wikidataQnode: ["Q105162358"]
-   anrArmedGroup:
+   anrarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Resistance Alliance", "ANR"]
-   cdrArmedGroup:
+   cdrarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Revolutionary Democratic Council", "CDR"]
      wikidataQnode: ["Q5255813"]
 
