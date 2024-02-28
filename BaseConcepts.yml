@@ -971,18 +971,22 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Awadhis", "Barhai"]
     wikidataID: ["Q4829674"]
     religionsMostPracticed: ["hinduismReligion", "shiaReligion"]
+    languagesMostSpoken: ["hindiLanguage", "urduLanguage"]
   aymaraEthnicGroup:
     stringTokens: ["Aymara"]
     wikidataID: ["Q8281727"]
     religionsMostPracticed: ["catholicReligion", "evangelicalProtestant"]
+    languagesMostSpoken: ["spanishLanguage"]
   aynuEthnicGroup:
     stringTokens: ["Aynu", "aini", "abdal"]
     wikidataID: ["Q307559"]
     religionsMostPracticed: ["sunniRelgion", "alevismReligion"]
+    languagesMostSpoken: ["mandarinChineseLanguage"]
   azerbaijanisEthnicGroup:
     stringTokens: ["Azerbaijanis", "Ayrums", "Baharlu", "Bayat", "Karadaghis", "Qajars", "Kuresunni", "Padar", "Qarapapaqs", "Shahsevan", "Terekeme", "Yeraz", "Afshar", "Javanshir Qizilbash", "Iranian Azeris", "azeri"]
     wikidataID: ["Q482942"]
     religionsMostPracticed: ["shiaReligion", "sunniReligion"]
+    languagesMostSpoken: ["turkishLanguage", "iranianPersianLanguage"]
   baburandBuraEthnicGroup:
     stringTokens: ["Babur and Bura", "Babur", "Bura", "pabir"]
     wikidataID: ["Q115806563"]
