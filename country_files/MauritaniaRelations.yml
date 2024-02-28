@@ -17,5 +17,5 @@ relations:
   - (Party, UPMParty)
   - (Party, RDUParty)
   - (Party, UDPParty)
-  - (ArmedGroup, AQIMArmedGroup)
-  - (ArmedGroup, PolisarioArmedGroup)
+  - (armedNonGovernmentalOrganizedGroup, AQIMarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, PolisarioarmedNonGovernmentalOrganizedGroup)
