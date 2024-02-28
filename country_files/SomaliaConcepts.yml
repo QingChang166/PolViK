@@ -193,128 +193,128 @@ concepts:
    yearsActiveasEntity: ["2012-Present"] ##active as an entity
    yearsActiveasParty: ["2012-Present"] ##active as a political party
    
-  #armedgroups
-  adcArmedGroup: ##AGD lists them in Somalia, but I cant find anything about them being there...
+  #armedNonGovernmentalOrganizedGroups
+  adcarmedNonGovernmentalOrganizedGroup: ##AGD lists them in Somalia, but I cant find anything about them being there...
    stringTokens: ["ADC", "23 May Democratic Alliance (Algeria)", "23 May Democratic Alliance", " Alliance Démocratique du 23 mai pour le Changement"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["2007-2009"]
-  itArmedGroup:
+  itarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Islamic Tendency", "Ennahda Movement", "Ḥarakatu n-Nahḍah", "Mouvement Ennahdha","Ennahdha", "Renaissance Party"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["2006"]
-  flcsArmedGroup:
+  flcsarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["FLCS", "Front for the Liberation of the Somali Coast", "Front de Libération de la Côte des Somalis"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: []
    yearsActiveasArmed: ["1975-1976"]
-  marhanclanArmedGroup:
+  marhanclanarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Marhan Clan"]
    associatedEthnicGroup: []
    regionsMostActive: ["Jubaland", "Galguduud",  "Mudug"]
    yearsActiveasArmed: ["1997-1998"]
-  musasudiyalahowArmedGroup:
+  musasudiyalahowarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Musa Sudi Yalahow", "Musa Sudi Yalahow Militia"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["2001-2006"]
-  mataabdulleArmedGroup:
+  mataabdullearmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Matan Abdulle"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["1999-2000"]
-  sifArmedGroup:
+  sifarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali Islamic Front"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["2007-2009"]
-  onlfArmedGroup:
+  onlfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ONLF", "Ogaden National Liberation Front", "Javhadda Waddaniga Xoreynta Ogaddeenya"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: []
    yearsActiveasArmed: ["1991-2014"]
-  ssdfArmedGroup:
+  ssdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali Salvation Democratic Front", "SSDF", "Democratic Front for Salvation of Somalia"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Puntland"]
    yearsActiveasArmed: ["1979-1991"]
-  anmArmedGroup:
+  anmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali National Movement", "Somali Islamic Democratic Party"]
    associatedEthnicGroup: []
    regionsMostActive: ["Somaliland"]
    yearsActiveasArmed: ["1982-1991"]
-  apmArmedGroup:
+  apmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali Patriotic Movement", "SPM", "Dhaqdhaqaaqa Wadaniga Soomaaliyeed"]
    associatedEthnicGroup: []
    regionsMostActive: ["Jubaland"]
    yearsActiveasArmed: ["1989-2006"]
-  uacArmedGroup:
+  uacarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["United Somali Congress"]
    associatedEthnicGroup: []
    regionsMostActive: ["Galmudug "]
    yearsActiveasArmed: ["1990-1992"]
-  uscsnaArmedGroup:
+  uscsnaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["United Somali Congress-Somali National Movement", "USC-SNA", "Somali National Alliance", "SNA"]
    associatedEthnicGroup: []
    regionsMostActive: ["Galmudug "]
    yearsActiveasArmed: ["1991-2004"]
-  srrcArmedGroup:
+  srrcarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali Reconciliation and Restoration Council", "SRRC"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: []
-  icuArmedGroup:
+  icuarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Islamic Courts Union"]
    associatedEthnicGroup: []
    regionsMostActive: ["South West", "Hirshabelle", "Jubaland", "Galmudug"]
    yearsActiveasArmed: ["2006-2008"]
-  iuArmedGroup:
+  iuarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Islamic Unity"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["1992-1997"]
-  olfArmedGroup:
+  olfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["OLF", "Oromo Liberation Front"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: []
    yearsActiveasArmed: ["1997-2014"]
-  ilaArmedGroup:
+  ilaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Isbaheysiga Ladagaalanka Argagixisadda"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["2006"]
-  jvaArmedGroup:
+  jvaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["JVA", "Jubba Valley Alliance"]
    associatedEthnicGroup: []
    regionsMostActive: ["Jubaland"]
    yearsActiveasArmed: ["1999-2006"]
-  jsArmedGroup:
+  jsarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Jamhuuriyadda Soomaaliland"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: []
-  rramadobehabsadeArmedGroup:
+  rramadobehabsadearmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Reewin Resistance Army- Madobe and Habsade Faction", "Rahanweyn Resistance Army- Madobe and Habsade Faction", "RRA-Madobe and Habsade Faction"]
    associatedEthnicGroup: []
    regionsMostActive: ["South West"]
    yearsActiveasArmed: ["2002"]
-  rraArmedGroup:
+  rraarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Reewin Resistance Army", "Rahanweyn Resistance Army", "RRA"]
    associatedEthnicGroup: []
    regionsMostActive: ["South West"]
    yearsActiveasArmed: ["1995-2002"]
-  alshabaabArmedGroup:
+  alshabaabarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Shabaab"]
    associatedEthnicGroup: []
    regionsMostActive: ["Puntland"]
    yearsActiveasArmed: ["2006-2017"]
-  hrkArmedGroup:
+  hrkarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Harakat Ras Kamboni", "HRK", "Ras Kamboni Brigades", "Muaskar Ras Kamboni", "Mu'askar Ras Kamboni"]
    associatedEthnicGroup: []
    regionsMostActive: ["Jubbaland"]
    yearsActiveasArmed: ["2008-2009"]
-  alqaidaArmedGroup:
+  alqaidaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Qa'ida"]
    associatedEthnicGroup: []
    regionsMostActive: ["Puntland"]
@@ -324,37 +324,37 @@ concepts:
    associatedEthnicGroup: []
    regionsMostActive: ["Galmudug"]
    yearsActiveasArmed: ["2008-2016"]
-  snfmsabArmedGroup:
+  snfmsabarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["SNF-MSAB"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["1999"]
-  dsaArmedGroup:
+  dsaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Digil Salvation Army", "DSA"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["1999-2000"]
-  hizbulArmedGroup:
+  hizbularmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Hizbul Al Islam (Somalia)",  "Hizbul Islaami", "Hisbi Islam", "Hezb-ul Islam"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["2009-2013"]
-  srnfArmedGroup:
+  srnfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali National Front"]
    associatedEthnicGroup: []
    regionsMostActive: ["Jubaland"]
    yearsActiveasArmed: ["1991-1997"]
-  fsmsaArmedGroup:
+  fsmsaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Forces of Shayk Muhammad Said Atom"]
    associatedEthnicGroup: []
    regionsMostActive: ["Puntland"]
    yearsActiveasArmed: ["2008-2012"]
-  fyhnArmedGroup:
+  fyhnarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Forces of Yussuf Hajji Nur"]
    regionsMostActive: ["Puntland"]
    yearsActiveasArmed: ["2001-2002"]
    associatedEthnicGroup: []
-  svaArmedGroup:
+  svaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Shabelle Valley Alliance", "SVA"]
    associatedEthnicGroup: []
    regionsMostActive: []
