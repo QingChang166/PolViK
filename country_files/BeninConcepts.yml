@@ -219,7 +219,7 @@ concepts:
      wikidataQnode: ["Q15513264"]
 
   ## armed groups
-    jnimArmedGroup:
+    jnimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Jama'at Nasr al-Islam wal Muslimin", "JNIM"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q28877411"]
