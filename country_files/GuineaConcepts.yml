@@ -113,27 +113,27 @@ concepts:
      wikidataQnode:  ["Q106898662"]
 
   ## armed groups
-   RDFGArmedGroup:
+   RDFGarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Rally of Democratic Forces of Guinea"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q18393334"]
   
-   AFRCArmedGroup:
+   AFRCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Armed Forces Revolutionary Council", "AFRC"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q4793014"]
   
-   LDFArmedGroup:
+   LDFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Lofa Defense Force"]
      associatedEthnicGroup: ["Loma people"]
      wikidataQnode: ["Q6666641"]
   
-   ULIMOKArmedGroup:
+   ULIMOKarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["ULIMO", "United Liberation Movement for Democracy in Liberia"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q7888232"]
   
-   RUFArmedGroup:
+   RUFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Revolutionary United Front"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q1141973"]
