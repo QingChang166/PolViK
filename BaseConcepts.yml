@@ -205,6 +205,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
    stringTokens: ["labor", "workers"]
   laborUnion:
     stringTokens: ["labor union", "employees' union", "union", "strikeworkers", "strikers", "labor group", "worker's rights group", "union leaders", "union members", "union representatives", "union organizers", "ITUC"]
+  horizontalInequalityGroups:
+    stringTokens: []
   ethnicGroup: # meaning a socially constructed grouping of people based on ascribed culture, ancestry, or language or some combination
     stringTokens: ["ethnic group", "ethnicity", "minorities", "minority", "minority group", "indigenous", "indigenous groups", "ethnic", "ethnicities", "ethnic minorities"]
   hispanicEthnicGroup:
