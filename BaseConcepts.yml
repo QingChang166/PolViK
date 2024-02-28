@@ -420,153 +420,153 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["dogon religion", "dogon traditional belief", "dogon folk belief", "dogon mythology"]
   ifaReligion:
     stringTokens: ["ifa religion", "ifa traditional belief", "ifa folk belief", "ifa mythology"]
-  languageGroup:
+  linguisticGroup:
     stringTokens: ["linguistic group", "language group"]
-  englishLanguage:
+  englishlinguisticGroup:
     stringTokens: ["english", "english language"]
-  spanishLanguage:
+  spanishlinguisticGroup:
     stringTokens: ["spanish", "spanish language"]
-  portugeseLanguage:
+  portugeselinguisticGroup:
     stringTokens: ["portugese", "portugese language", "goan portugese", "nusantaran portugesese"]
-  mandarinChineseLanguage:
+  mandarinChineselinguisticGroup:
      stringTokens: ["mandarin", "mandarin chinese language", "chinese language", "standard chinese"]
-  hindiLanguage:
+  hindilinguisticGroup:
      stringTokens: ["hindi language", "hindi", "braj", "haryanvi", "bundeli", "kannauji", "hindustani", "deccani", "hyderabadi", "dhakaiya", "rekhta", "kauravi",
                     "bombay hindi", "bihari hindi", "andaman creole hindi", "haflong hindi", "judeo-urdu", "awadhi", "carribean hindustani", "fiji hindi",
                     "bagheli", "chhattisghari", "surgujia"]
-  arabicLanguage:
+  arabiclinguisticGroup:
     stringTokens: ["arabic", "arabic language"]
   animismReligion: 
     stringTokens: ["anamism"]
   shamanismReligion:
     stringTokens: ["shamanism"]
-  bengaliLanguage:
+  bengalilinguisticGroup:
     stringTokens: ["bengali language", "bengali", "eastern bangali", "rarhi", "varendri", "rangpuri", "manbhumi"]
-  russianLanguage: 
+  russianlinguisticGroup: 
      stringTokens: ["russian", "russian language"]
-  urduLanguage:
+  urdulinguisticGroup:
     stringTokens: ["urdu", "urdu language",  "deccani", "dhakaiya", "judeo-Urdu"]
-  indonesianLanguage:
+  indonesianlinguisticGroup:
     stringTokens: ["indonesian", "indonesian language"]
-  germanLanguage:
+  germanlinguisticGroup:
     stringTokens: ["german", "german language"]
-  japaneseLanguage:
+  japaneselinguisticGroup:
     stringTokens: ["japanese language", "japanese"]
-  nigerianPidginLanguage:
+  nigerianPidginlinguisticGroup:
     stringTokens: ["nigerian pidgin language", "nigerian pidgin", "naija"]
-  egyptianArabicLanguage:
+  egyptianArabiclinguisticGroup:
     stringTokens: ["egyptian arabic language", "egyptian arabic", "egyptian", "egyptian language", "judeo-egyptian arabic"]
-  marathiLanguage:
+  marathilinguisticGroup:
     stringTokens: ["marathi language", "marathi", "Maharashtrian Konkani", "Varhadi Marathi", "Thanjavur Marathi", "East Indian Marathi", "Judeo-Marathi",
                    "Jhadi boli"]
-  teleguLanguage: 
+  telegulinguisticGroup: 
     stringTokens: ["telegu language", "telegu", "Telangana", "Rayalaseema",  "Coastal Andhra", "North Andhra"]
-  turkishLanguage:
+  turkishlinguisticGroup:
     stringTokens: ["turkish", "turkish language", "Cypriot Turkish", "Iraqi Turkmen", "Karamanli Turkish", "Meskhetian Turkish", "rumelian turkish", "syrian turkish"]
-  tamilLanguage:
+  tamillinguisticGroup:
     stringTokens: ["tamil", "tamil language", "Eelam", "Malesiyat", "Bunagurr", "Iyengar", "Kongu", "Chennai tamil", "Madurai", "Tiruneveli", "Sankethi", "Estate tamil",
                    "Central tamil"]
-  yueChineseLanguage:
+  yueChineselinguisticGroup:
     stringTokens: ["yue chinese language", "yue chinese", "cantonese", "cantonese language", 	"Yuehai", "Siyi", "Taishanese", "Gao–Yang", "Yong–Xun", "Gou–Lou",
                    "Qin–Lian", "Wu–Hua"]
-  vietnameseLanguage: 
+  vietnameselinguisticGroup: 
     stringTokens: ["vietnamese", "vietnamese language"]
-  wuChineseLanguage:
+  wuChineselinguisticGroup:
     stringTokens: ["wu chinese language", "wu chinese", "wu language", "wu", "Shanghainese", "Suzhounese", "Wenzhounese"]
-  tagalogLanguage:
+  tagaloglinguisticGroup:
     stringTokens: ["tagalog", "tagalog language", 	"Bataan", "Batangas", "Bulacan", "Lubang", "manila tagalog", "marinduque tagalog", "puray tagalog", "tanay-paete", 
                   "tayabas"]
-  koreanLanguage:
+  koreanlinguisticGroup:
     stringTokens: ["korean", "korean language", "hamgyong", "pyongan", "central korean", "gyeongsang", "jeolla", "jeju", "Ryukchin", "Yukchin"]
-  iranianPersianLanguage:
+  iranianPersianlinguisticGroup:
     stringTokens: ["iranian persian language", "iranian persian", "persian", "persian language", "Abadani", "Araki", "Bandari", "Basseri", "Esfahani", "Karbalai", 
                    "kashani", "kermani", "kermanshahi", "mashhadi", "qazvini", "shirazi", "tehrani", "yazdi"]
-  hausaLanguage: 
+  hausalinguisticGroup: 
     stringTokens: ["hausa", "hausa language", "Dauranci", "Kananci", "Bausanci", "Gudduranci", "Hadejanci", "Sakkwatanci", "Katsinanci", "Arewanci", "Zanhwaranci", "Kurhwayanci",
                     "Katsina", "Arewa", "Arewaci", "Zazzaganci"]
-  swahiliLanguage:
+  swahililinguisticGroup:
      stringTokens: ["swahili", "swahili language", "kiswahili", "kisawhili language", "kiamu"]
-  javaneseLanguage:
+  javaneselinguisticGroup:
      stringTokens: ["javanese", "javanese language"]
-  italianLanguage:
+  italianlinguisticGroup:
     stringTokens: ["italian", "italian language"]
-  westernPunjabiLanguage:
+  westernPunjabilinguisticGroup:
      stringTokens: ["western Punjabi language", "western punjabi", "punjabi language"]
-  easternPunjabiLanguage:
+  easternPunjabilinguisticGroup:
      stringTokens: ["eastern Punjabi language", "eastern punjabi"]
-  gujaratiLanguage:
+  gujaratilinguisticGroup:
      stringTokens: ["gujarati language", "gujarati"]
-  thaiLanguage:
+  thailinguisticGroup:
     stringTokens: ["thai", "thai language"]
-  kannadaLanguage:
+  kannadalinguisticGroup:
     stringTokens: ["kannada language", "kannada", "canarese", "canarese language"]
-  amharicLanguage:
+  amhariclinguisticGroup:
     stringTokens: ["amharic language", "amharic"]
-  bhojpuriLanguage:
+  bhojpurilinguisticGroup:
     stringTokens: ["bhojpuri", "bhojpuri language", "domra", "musahari"]
-  southernMinChineseLanguage:
+  southernMinChineselinguisticGroup:
     stringTokens: ["southern min chinese language", "southern min chinese", "min chinese", "hokkein", "taiwanese"]
-  jinChineseLanguage: 
+  jinChineselinguisticGroup: 
     stringTokens: ["Jin Chinese language", "Jin Chinese"]
-  levantineArabicLanguage:
+  levantineArabiclinguisticGroup:
     stringTokens: ["levantine arabic", "levantine arabic language", "shami"]
-  yorubaLanguage:
+  yorubalinguisticGroup:
     stringTokens: ["yoruba", "yoruba language"]
-  afrikaansLanguage:
+  afrikaanslinguisticGroup:
     stringTokens: ["afrikaans", "afrikaans language"]
-  berberLanguage:
+  berberlinguisticGroup:
     stringTokens: ["berber", "berber language", "amazigh", "amazigh language", "Tamazight"]
-  chewaLanguage:
+  chewalinguisticGroup:
     stringTokens: ["chewa", "chewa language"]
-  comorianLanguage:
+  comorianlinguisticGroup:
     stringTokens: ["comorian", "comorian language", "Shindzuani", "Shimaore", "Shimwali", "Shingazija"]
-  kikongoLanguage:
+  kikongolinguisticGroup:
     stringTokens: ["kikongo language", "kikongo", "kongo language"]
-  kinyarwandaLanguage:
+  kinyarwandalinguisticGroup:
     stringTokens: ["kinyarwanda language", "kinyarwanda"]
-  kirundiLanguage:
+  kirundilinguisticGroup:
     stringTokens: ["kirundi language", "kirundi"]
-  malagasyLanguage:
+  malagasylinguisticGroup:
     stringTokens: ["malagasy language", "malagasy"]
-  ndebeleLanguage:
+  ndebelelinguisticGroup:
     stringTokens: ["ndebele", "ndebele language"]
-  oromoLanguage:
+  oromolinguisticGroup:
     stringTokens: ["oromo", "oromo language"]
-  sangoLanguage:
+  sangolinguisticGroup:
     stringTokens: ["sango", "sango language"]
-  sepediLanguage:
+  sepedilinguisticGroup:
     stringTokens: ["sepedi", "sepedi language", "pedi", "Sesotho sa Lebowa"]
-  sesothoLanguage:
+  sesotholinguisticGroup:
     stringTokens: ["sesotho", "sesotho language", "sotho"]
-  setswanaLanguage:
+  setswanalinguisticGroup:
     stringTokens: ["setswana language", "setswana", "tswana"]
-  seychellesCreoleLanguage:
+  seychellesCreolelinguisticGroup:
     stringTokens: ["seychelles creole language", "seychelles creole", "seychelles kreol"]
-  shonaLanguage:
+  shonalinguisticGroup:
     stringTokens: ["shona language", "shona", "central shonic"]
-  sindebeleLanguage:
+  sindebelelinguisticGroup:
     stringTokens: ["sindebele language", "sindebele", "northern ndebele"]
-  somaliLanguage:
+  somalilinguisticGroup:
     stringTokens: ["somali", "somali language"]
-  swatiLanguage:
+  swatilinguisticGroup:
     stringTokens: ["swati", "swati language"]
-  tingrinyaLanguage: 
+  tingrinyalinguisticGroup: 
     stringTokens: ["tingrinya", "tingrinya language"]
-  tsongaLanguage:
+  tsongalinguisticGroup:
     stringTokens: ["tsonga", "tsonga language", "xitsonga", "twsa", "ronga"]
-  vendaLanguage:
+  vendalinguisticGroup:
     stringTokens: ["venda language", "venda"]
-  xhosaLanguage:
+  xhosalinguisticGroup:
     stringTokens: ["xhosa language", "xhosa"]
-  zuluLanguage:
+  zululinguisticGroup:
     stringTokens: ["zulu", "zulu language", "isiZulu"]
-  igboLanguage:
+  igbolinguisticGroup:
     stringTokens: ["igbo language", "igbo"]
-  fulaLanguage:
+  fulalinguisticGroup:
     stringTokens: ["fula language", "fula", "fulani language", "fulah language"]
-  wolofLanguage: 
+  woloflinguisticGroup: 
     stringTokens: ["wolof", "wolof language"]
-  khoisanLanguage:
+  khoisanlinguisticGroup:
     stringTokens: ["khoisan", "khoisan language"]
   individualPerson:
     stringTokens: ["an individual", "person", ""]
@@ -588,7 +588,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Abazins"]
     wikidataId: ["Q213040"]
     religionsMostPracticed: ["sunniReligion"]
-    languagesMostSpoken: ["russianLanguage", "turkishLanguage", "arabicLanguage"]
+    languagesMostSpoken: ["russianlinguisticGroup", "turkishlinguisticGroup", "arabiclinguisticGroup"]
   abelamEthnicGroup:
     stringTokens: ["Abelam"]
     wikidataId: ["Q318517"]
@@ -598,27 +598,27 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Abenaki", "Wabanaki"]
     wikidataId: ["Q318806"]
     religionsMostPracticed: [""]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   abkhaziansEthnicGroup:
     stringTokens: ["Abkhazians", "Sadz", "Afro-Abkhazians"]
     wikidataId: ["Q171795"]
     religionsMostPracticed: ["sunniReligion", "russianOrthodox"]
-    languagesMostSpoken: ["turkishLanguage", "russianLanguage"]
+    languagesMostSpoken: ["turkishlinguisticGroup", "russianlinguisticGroup"]
   acehneseEthnicGroup:
     stringTokens: ["Acehnese", "aceh", "atjeh"]
     wikidataId: ["Q340520"]
     religionsMostPracticed: ["sunniReligion"]
-    languagesMostSpoken: ["indonesianLanguage"]
+    languagesMostSpoken: ["indonesianlinguisticGroup"]
   achaguaEthnicGroup:
     stringTokens: ["Achagua"]
     wikidataId: ["Q1394162"]
     religionsMostPracticed: ["animism"]
-    languagesMostSpoken: ["spanishLanguage"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   acholiEthnicGroup:
     stringTokens: ["Acholi", "Acoli", "Acooli", "Atscholi", "Gan", "Lira Palwo", "Shuli"]
     wikidataId: ["Q340581"]
     religionsMostPracticed: ["catholicReligion", "pentecostalReligion", "anglicanReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   adjoukrouEthnicGroup:
     stringTokens: ["Adjoukrou", "Adyukru"]
     wikidataId: ["Q2824498"]
@@ -633,17 +633,17 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Afemai"]
     wikidataId: ["Q4688840"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "traditionalAfricanReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   africanAmericansEthnicGroup:
     stringTokens: ["African-Americans", "Black Southerners", "Creoles of color", "Freedmen", "Black Seminoles", "Mascogos", "Cherokee Freedmen", "Choctaw Freedmen", "Creek Freedmen", "Gullah", "Samaná Americans"]
     wikidataId: ["Q49085"]
     religionsMostPracticed: ["protestantReligion", "evangelicalProtestant", "catholicReligion", "muslimReligion", "restorationismReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   afrikanersEthnicGroup:
     stringTokens: ["Afrikaners", "Boers", "Afrikaner-Jews", "afrikander"]
     wikidataId: ["Q385799"]
     religionsMostPracticed: ["calvinismReligion", "protestantReligion", "catholicReligion"]
-    languagesMostSpoken: ["afrikaansLanguage"]
+    languagesMostSpoken: ["afrikaanslinguisticGroup"]
   afroArgentinesEthnicGroup:
     stringTokens: ["Afro-Argentines", "afro-argentinans"]
     wikidataId: ["Q3088284"]
@@ -653,17 +653,17 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Afro-Brazilians", "Zambo", "black brazilian", "african brazilian"]
     wikidataId: ["Q388315"]
     religionsMostPracticed: ["catholicReligion", "pentecostalismReligion", "sunniReligion"]
-    languagesMostSpoken: ["portugeseLanguage"]
+    languagesMostSpoken: ["portugeselinguisticGroup"]
   afroTurksEthnicGroup:
     stringTokens: ["Afro-Turks", "African Turks"]
     wikidataId: ["Q4690204"]
     religionsMostPracticed: ["sunniIslam"]
-    languagesMostSpoken: ["turkishLanguage"]
+    languagesMostSpoken: ["turkishlinguisticGroup"]
   agawEthnicGroup:
     stringTokens: ["Agaw", "Bilen", "Ximre", "Awi", "Qemant"]
     wikidataId: ["Q56394"]
     religionsMostPracticed: ["orientalOrthodox", "sunniReligion", "jewishReligion"]
-    languagesMostSpoken: ["amharicLanguage"]
+    languagesMostSpoken: ["amhariclinguisticGroup"]
   aghulsEthnicGroup:
     stringTokens: ["Aghuls"]
     wikidataId: ["Q319066"]
@@ -684,7 +684,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "eino", "ezo"]
     wikidataId: ["Q101828"]
     religionsMostPracticed: ["aninismReligion", "buddhismReligion", "shintoismReligion", "russianOrthodox"]
-    languagesMostSpoken: ["japaneseLanguage", "russianLanguage"]
+    languagesMostSpoken: ["japaneselinguisticGroup", "russianlinguisticGroup"]
   ajaEthnicGroup:
     stringTokens: ["Aja", "adja", "adya"]
     wikidataId: ["Q357684"]
@@ -699,32 +699,32 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Akans", "Abbé", "Abidji", "Ahafo", "Ahanta", "Akuapem", "Akwamu", "Akyem", "Alladian", "Anyi", "Ashanti", "Assin", "Attie", "Avikam", "Baoulé", "Bonos", "Chakosi", "Egas", "Evalue", "Fante", "M'Bato", "Nzema", "Sefwi", "Tchaman", "Wasa"]
     wikidataID: ["Q415693"]
     religionsMostPracticed: ["christianReligion", "sunniReligion", "traditionalAfricanReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   akhaEthnicGroup:
     stringTokens: ["Akha", "Akeu"]
     wikidataID: ["Q417628"]
     religionsMostPracticed: ["christianReligion", "buddhismReligion", "aninismReligion"]
-    languagesMostSpoken: ["thaiLanguage"]
+    languagesMostSpoken: ["thailinguisticGroup"]
   akieEthnicGroup:
     stringTokens: ["Akie"]
     wikidataID: [""]
     religionsMostPracticed: [""]
-    languagesMostSpoken: [""]
+    linguisticGroupsMostSpoken: [""]
   alaskanCreolesEthnicGroup:
     stringTokens: ["Alaskan Creoles"]
     wikidataID: ["Q116882463"]
     religionsMostPracticed: ["russianOrthodox"]
-    languagesMostSpoken: [""]
+    linguisticGroupsMostSpoken: [""]
   alaviBohrasEthnicGroup:
     stringTokens: ["Alavi Bohras"]
     wikidataID: ["Q5244973"]
     religionsMostPracticed: ["shiaReligion"]
-    languagesMostSpoken: ["gujaratiLanguage", "arabicLanguage", "englishLanguage", "urduLanguage"]
+    languagesMostSpoken: ["gujaratilinguisticGroup", "arabiclinguisticGroup", "englishlinguisticGroup", "urdulinguisticGroup"]
   alawitesEthnicGroup:
     stringTokens: ["Alawites", "nusyarites"]
     wikidataID: ["Q209496"]
     religionsMostPracticed: ["alawismReligion"]
-    languagesMostSpoken: ["arabicLanguage", "turkishLanguage"]
+    languagesMostSpoken: ["arabiclinguisticGroup", "turkishlinguisticGroup"]
   albaniansEthnicGroup:
     stringTokens: ["Albanians", "Ghegs", "Arbanasi", "Tosks", "Arbereshe", "Cham Albanians", "Arvanites"]
     wikidataID: ["Q179248"]
@@ -734,7 +734,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Aleuts", "Agdaagux Tribe", "unangan", "alyoot", "unangin"]
     wikidataID: ["Q191710"]
     religionsMostPracticed: ["russianOrthodox", "animismReligion"]
-    languagesMostSpoken: ["englishLanguage", "russianLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup", "russianlinguisticGroup"]
   alexandrianGreekChristiansEthnicGroup:
     stringTokens: ["Alexandrian Greek Christians"]
     wikidataID: [""]
@@ -744,32 +744,32 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Altaians"]
     wikidataID: ["Q244735"]
     religionsMostPracticed: ["shamanismReligion", "russianOrthodox", "buddhismReligion"]
-    languagesMostSpoken: ["russianLanguage"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   alurEthnicGroup:
     stringTokens: ["Alur"]
     wikidataID: ["Q202353"]
     religionsMostPracticed: ["christianReligion", "sunniReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   alutiiqEthnicGroup:
     stringTokens: ["Alutiiq", "Chugach"]
     wikidataID: ["Q2745405"]
     religionsMostPracticed: ["animismReligion", "russianOrthodox"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   alyutorsEthnicGroup:
     stringTokens: ["Alyutors"]
     wikidataID: ["Q2679509"]
     religionsMostPracticed: ["shamanismReligion"]
-    languagesMostSpoken: ["russianLanguage"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   amboneseEthnicGroup:
     stringTokens: ["Ambonese"]
     wikidataID: ["Q1250259"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion", "sunniReligion"]
-    languagesMostSpoken: ["indonesianLanguage"]
+    languagesMostSpoken: ["indonesianlinguisticGroup"]
   ambunduEthnicGroup:
     stringTokens: ["Ambundu", "mbundu", "kimbundu", "ndongo", "ngola"]
     wikidataID: ["Q460091"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
-    languagesMostSpoken: ["portugeseLanguage"]
+    languagesMostSpoken: ["portugeselinguisticGroup"]
   americoLiberiansEthnicGroup:
     stringTokens: ["Americo-Liberians"]
     wikidataID: ["Q3267945"]
@@ -779,22 +779,22 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Amhara"]
     wikidataID: ["Q464237"]
     religionsMostPracticed: ["orientalOrthodox", "sunniMuslim", "jewishReligion"]
-    languagesMostSpoken: ["amharicLanguage"]
+    languagesMostSpoken: ["amhariclinguisticGroup"]
   amisEthnicGroup:
     stringTokens: ["Amis"]
     wikidataID: ["Q205006"]
     religionsMostPracticed: ["animismReligion", "christianReligion"]
-    languagesMostSpoken: ["mandarinChineseLanguage"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   amishEthnicGroup:
     stringTokens: ["Amish", "Old Order Amish", "Swiss Amish", "Nebraska Amish", "Swartzentruber Amish", "Buchanan Amish", "Andy Weaver Amish", "Troyer Amish", "Byler Amish", "Renno Amish", "Holmes Old Order Amish", "Elkhart-LaGrange Amish", "Lancaster Amish", "Tobe Amish]", "New Order Amish"]
     wikidataID: ["Q104444"]
     religionsMostPracticed: ["christianReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   amungEthnicGroup:
     stringTokens: ["Amung", "amungme", "hamung", "amuy", "uhunduni"]
     wikidataID: ["Q2844528"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
-    languagesMostSpoken: ["indonesianLanguage"]
+    languagesMostSpoken: ["indonesianlinguisticGroup"]
   andalusiansEthnicGroup:
     stringTokens: ["Andalusians"]
     wikidataID: ["Q3777040"]
@@ -804,42 +804,42 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Anglo Afro-Caribbean", "Afro-Antiguans and Barbudans", "Afro-Bahamians", "Afro-Barbadians", "Afro-Bermudians", "Afro-Dominicans", "Afro-Grenadians", "Afro-Guyanese", "Afro-Jamaicans", "Afro-Kittitians and Nevisians", "Afro-Saint Lucians", "Afro-Trinidadians and Tobagonians", "Afro-Vincentians", "Belizean Creole", "Raizal"]
     wikidataID: ["Q2986879"]
     religionsMostPracticed: ["christianReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   angloAmericansEthnicGroup:
     stringTokens: ["Anglo-Americans", "New England Americans", "Middle Atlantic Americans", "Midwestern Americans", "Southern Americans", "Western Americans"]
     wikidataID: ["Q4745649"]
     religionsMostPracticed: ["christianRelgion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   angloBurmeseEthnicGroup:
     stringTokens: ["Anglo-Burmese"]
     wikidataID: ["Q1975588"]
     religionsMostPracticed: ["christianReligion", "buddhismReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   angloCanadiansEthnicGroup:
     stringTokens: ["Anglo-Canadians", "Ontarian", "Anglo-Quebecers", "Nova Scotians", "New Brunswickers", "Manitoban", "British Columbians", "Prince Edward Islanders", "Saskatchewanians", "Albertans", "Newfoundlanders", "Labradorians", "Northwest Territorians", "Yukoners", "Anglo-Nunavummiut"]
     wikidataID: ["Q4763597"]
     religionsMostPracticed: ["christianReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   angloCelticAustraliansEthnicGroup:
     stringTokens: ["Anglo-Celtic Australians"]
     wikidataID: ["Q388101"]
     religionsMostPracticed: ["christianReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   angloIndiansEthnicGroup:
     stringTokens: ["Anglo-Indians"]
     wikidataID: ["Q368125"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion", "muslimReligion", "hinduismReligion", "sikhismReligion"]
-    languagesMostSpoken: ["englishLanguage", "bengaliLanguage", "kannadaLanguage", "marathiLanguage", "teleguLanguage", "tamilLanguage", "hindiLanguage", "urduLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup", "bengalilinguisticGroup", "kannadalinguisticGroup", "marathilinguisticGroup", "telegulinguisticGroup", "tamillinguisticGroup", "hindilinguisticGroup", "urdulinguisticGroup"]
   angloIrishEthnicGroup:
     stringTokens: ["Anglo-Irish"]
     wikidataID: ["Q2849692"]
     religionsMostPracticed: ["anglicanReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   angloNewZealandersEthnicGroup:
     stringTokens: ["Anglo-New Zealanders"]
     wikidataID: ["Q28428697"]
     religionsMostPracticed: ["christianReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   anguEthnicGroup:
     stringTokens: ["Angu", "anga"]
     wikidataID: ["Q2671423"]
@@ -849,7 +849,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Antiochian Greek Christians"]
     wikidataID: ["Q21707952"]
     religionsMostPracticed: ["greekOrthodox"]
-    languagesMostSpoken: ["levantineArabicLanguage"]
+    languagesMostSpoken: ["levantineArabiclinguisticGroup"]
   anuakEthnicGroup:
     stringTokens: ["Anuak"]
     wikidataID: ["Q612213"]
@@ -859,28 +859,28 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Apache", "Chiricahua", "Jicarilla", "Lipan", "Mescalero", "Salinero", "Plains Apache", "Western Apache"]
     wikidataID: ["Q7496931"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
-    languagesMostSpoken: ["englishLanguage", "spanishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup", "spanishlinguisticGroup"]
   apinajeEthnicGroup:
     stringTokens: ["Apinajé"]
     wikidataID: ["Q2469268"]
     religionsMostPracticed: ["animismReligion"]
-    languagesMostSpoken: ["portugeseLanguage"]
+    languagesMostSpoken: ["portugeselinguisticGroup"]
   arabsEthnicGroup:
     stringTokens: ["Arabs", "Bedouins", "Al-Sayyid Bedouins", "Palestinian Bedouins", "Jahalin Bedouins", "Negev Bedouins", "Galilee Bedouins", "Israeli-Arabs",  "Palestinian Metawalis", "Afro-Palestinians", "Egyptian Arabs", "Maghrebi Arabs", "Iranian Arabs", "Khuzestani Arabs", "Khorasani Arabs", "Huwalas", "Khamseh Arabs", "Sudanese Arabs", "Marsh Arabs", "Arab Christians", "Antiochians", "Jerusalemites", "Alexandrians", "Alawites", "Druze", "Hadharem", "Mhallami", "Rashaida", "Baggara Arabs", "Abbala Arabs", "Azawagh Arabs", "Diffa Arabs", "Manga Arabs", "Ababda", "Arab-Persians", "Arab-Berbers"]
     wikidataID: ["Q35323"]
     religionsMostPracticed: ["sunniReligion", "shiaReligion", "alawismReligion", "ibadiReligion", "greekOrthodox", "jewishReligion", "druzeReligion", "catholicReligion",
                              "bahaiReligion"]
-    languagesMostSpoken: ["arabicLanguage"]
+    languagesMostSpoken: ["arabiclinguisticGroup"]
   arameansEthnicGroup:
     stringTokens: ["Arameans"]
     wikidataID: ["Q185461"]
     religionsMostPracticed: [""]
-    languagesMostSpoken: ["arabicLanguage"]
+    languagesMostSpoken: ["arabiclinguisticGroup"]
   arapahoEthnicGroup:
     stringTokens: ["Arapaho"]
     wikidataID: ["Q626136"]
     religionsMostPracticed: ["christianReligion", "shamanismReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   araraEthnicGroup:
     stringTokens: ["Arará"]
     wikidataID: ["Q626203"]
@@ -890,7 +890,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Argobba"]
     wikidataID: ["Q648031"]
     religionsMostPracticed: ["sunniReligion"]
-    languagesMostSpoken: ["oromoLanguage", "amharicLanguage", "arabicLanguage"]
+    languagesMostSpoken: ["oromolinguisticGroup", "amhariclinguisticGroup", "arabiclinguisticGroup"]
   armeniansEthnicGroup:
     stringTokens: ["Armenians", "Turkish Armenians", "Hemshin", "Hidden Armenians", "Cherkesogai", "Armeno-Tats", "Zoks", "Hayhurum", "Karabakhis", "Udis"]
     wikidataID: ["Q79797"]
@@ -910,7 +910,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Assiniboine", "Bizebina", "Insaombi", "Wokpanbi"]
     wikidataID: ["Q682808"]
     religionsMostPracticed: ["shamanismReligion", "christianReligion"]
-    languagesMostSpoken: ["englishLanguage"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   assyriansEthnicGroup:
     stringTokens: ["Assyrians", "Iraqi Assyrians", "Turkish Assyrians", "Syrian Assyrians",  "Iranian Assyrians",  "Chaldean Assyrians", "Syriac Assyrians", "Hakkari",
                    "Urmia",  "Tyari", "Jilu", "Baz", "Tkhuma", "Nochiya", "aisors"]
@@ -921,7 +921,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Asturians", "Eonavians"]
     wikidataID: ["Q3573453"]
     religionsMostPracticed: ["catholicReligion"]
-    languagesMostSpoken: ["spanishLanguage"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   atacamaEthnicGroup:
     stringTokens: ["Atacama", "atacamenos"]
     wikidataID: ["Q753125"]
@@ -931,17 +931,17 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Atayals"]
     wikidataID: ["Q701676"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
-    languagesMostSpoken: ["mandarinChineseLanguage", "japaneseLanguage"]
+    linguisticGroupsMostSpoken: ["mandarinChineselinguisticGroup", "japaneselinguisticGroup"]
   atiEthnicGroup:
     stringTokens: ["Ati"]
     wikidataID: ["Q2714852"]
     religionsMostPracticed: ["animismReligion", "catholicReligion"]
-    languagesMostSpoken: ["tagalogLanguage"]
+    languagesMostSpoken: ["tagaloglinguisticGroup"]
   atoniEthnicGroup:
     stringTokens: ["Atoni", "Amarasi"]
     wikidataID: ["Q757538"]
     religionsMostPracticed: ["christianReligion", "sunniReligion"]
-    languagesMostSpoken: ["portugeseLanguage", "indonesianLanguage"]
+    languagesMostSpoken: ["portugeselinguisticGroup", "indonesianlinguisticGroup"]
   atyapEthnicGroup:
     stringTokens: ["Atyap"]
     wikidataID: ["Q4217022"]
@@ -956,7 +956,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Austrians"]
     wikidataID: ["Q237534"]
     religionsMostPracticed: ["catholicReligion", "lutheranReligion", "sunniReligion"]
-    languagesMostSpoken: ["germanLanguage", "turkishLanguage"]
+    languagesMostSpoken: ["germanlinguisticGroup", "turkishlinguisticGroup"]
   avarsEthnicGroup:
     stringTokens: ["Avars", "Archis"]
     wikidataID: ["Q8280625"]
@@ -971,22 +971,22 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Awadhis", "Barhai"]
     wikidataID: ["Q4829674"]
     religionsMostPracticed: ["hinduismReligion", "shiaReligion"]
-    languagesMostSpoken: ["hindiLanguage", "urduLanguage"]
+    languagesMostSpoken: ["hindilinguisticGroup", "urdulinguisticGroup"]
   aymaraEthnicGroup:
     stringTokens: ["Aymara"]
     wikidataID: ["Q8281727"]
     religionsMostPracticed: ["catholicReligion", "evangelicalProtestant"]
-    languagesMostSpoken: ["spanishLanguage"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   aynuEthnicGroup:
     stringTokens: ["Aynu", "aini", "abdal"]
     wikidataID: ["Q307559"]
     religionsMostPracticed: ["sunniRelgion", "alevismReligion"]
-    languagesMostSpoken: ["mandarinChineseLanguage"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   azerbaijanisEthnicGroup:
     stringTokens: ["Azerbaijanis", "Ayrums", "Baharlu", "Bayat", "Karadaghis", "Qajars", "Kuresunni", "Padar", "Qarapapaqs", "Shahsevan", "Terekeme", "Yeraz", "Afshar", "Javanshir Qizilbash", "Iranian Azeris", "azeri"]
     wikidataID: ["Q482942"]
     religionsMostPracticed: ["shiaReligion", "sunniReligion"]
-    languagesMostSpoken: ["turkishLanguage", "iranianPersianLanguage"]
+    languagesMostSpoken: ["turkishlinguisticGroup", "iranianPersianlinguisticGroup"]
   baburandBuraEthnicGroup:
     stringTokens: ["Babur and Bura", "Babur", "Bura", "pabir"]
     wikidataID: ["Q115806563"]
