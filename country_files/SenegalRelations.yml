@@ -25,4 +25,4 @@ relations:
   - (Party, usrParty)
   - (Party, tdsParty)
   - (Party, mtsParty)
-  - (ArmedGroup, mfdcArmedGroup)
+  - (armedNonGovernmentalOrganizedGroup, mfdcarmedNonGovernmentalOrganizedGroup)
