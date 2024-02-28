@@ -20,5 +20,5 @@ relations:
   - (Party, DCDPParty)
   - (Party, DECParty)
   - (Party, PDMParty)
-  - (ArmedGroup, CLAArmedGroup)
-  - (ArmedGroup, SWAPOArmedGroup)
+  - (armedNonGovernmentalOrganizedGroup, CLAarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, SWAPOarmedNonGovernmentalOrganizedGroup)
