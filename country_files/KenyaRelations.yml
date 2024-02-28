@@ -21,5 +21,5 @@ relations:
   - (Party, TNAParty)
   - (Party, JubileeParty)
   - (Party, UDAParty)
-  - (ArmedGroup, MRCArmedGroup)
-  - (TransnationalArmedGroup, AlShabaabTransnationalArmedGroup)
+  - (armedNonGovernmentalOrganizedGroup, MRCarmedNonGovernmentalOrganizedGroup)
+  - (TransnationalarmedNonGovernmentalOrganizedGroup, AlShabaabTransnationalarmedNonGovernmentalOrganizedGroup)
