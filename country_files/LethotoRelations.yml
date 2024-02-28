@@ -22,5 +22,5 @@ relations:
   - (Party, RFPParty)
   - (Party, BAPParty)
   - (Party, SRParty)
-  - (ArmedGroup, LLAArmedGroup)
-  - (ArmedGroup, YLArmedGroup)
+  - (armedNonGovernmentalOrganizedGroup, LLAarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, YLarmedNonGovernmentalOrganizedGroup)
