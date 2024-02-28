@@ -126,13 +126,13 @@ concepts:
      yearsActiveasParty: ["1977-present"]
 
   ## armed groups
-   CLAArmedGroup:
+   CLAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Caprivi Liberation Army"]
      associatedEthnicGroup: ["Lozi people"]
      wikidataQnode: ["Q2496137"]
      yearsActiveasParty: ["1994-present"]
   
-   SWAPOArmedGroup:
+   SWAPOarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["South West Africa People's Organisation", "SWAPO"]
      associatedEthnicGroup: ["Ovambo people"]
      wikidataQnode: ["Q467711"]
