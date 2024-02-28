@@ -471,135 +471,135 @@ concepts:
   #yearsActiveasArmed == year of first attack
   #pre 2020 data from AGD data, post from online sources
 
-  tdfArmedGroup1:
+  tdfarmedNonGovernmentalOrganizedGroup1:
    stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
    associatedEthnicGroup: ["tigrayanEthnicGroup"]
    regionsMostActive: ["Tigray", "Eritrea"]
    yearsActiveasArmed: ["1976-1991", "2020-2023"] 
-  eprdfArmedGroup:
+  eprdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["EPRDF", "Ethiopian People's Revolutionary Democratic Front"]
    regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
    yearsActiveasArmed: ["1988-1991"]
-  alfArmedGroup:
+  alfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ALF", "Afar Liberation Front"]
    associatedEthnicGroup: ["afarEthnicGroup"]
    regionsMostActive: ["Afar Region"]
    yearsActiveasArmed: ["1977"]
-  ardufArmedGroup:
+  ardufarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Afar Revolutionary Democratic Unity Front"]
    associatedEthnicGroup: ["afarEthnicGroup"]
    regionsMostActive: ["Afar Region"]
    yearsActiveasArmed: ["1995-2010", "2020-2022"]
-  alshabaabArmedGroup:
+  alshabaabarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Shabaab"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["2006-2017"]
-  aeupArmedGroup:
+  aeuparmedNonGovernmentalOrganizedGroup:
    stringTokens: ["All Ethiopian Unity Party"]
    regionsMostActive: []
    yearsActiveasArmed: ["2005-Present"]
-  cudArmedGroup:
+  cudarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["CUD", "Coalition for Unity and Democracy"]
    regionsMostActive:
    yearsActiveasArmed: ["2006-2008"]
-  eduArmedGroup:
+  eduarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["EDU", "Ethiopian Democratic Union"]
    yearsActiveasArmed: ["1976-1979"] ## Date of last attack but really they were "at war" with the gob until 1991
    regionsMostActive: ["Tigray", "Amhara Region"]
-  epdmArmedGroup:
+  epdmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Ethiopian People's Democratic Movement", "EPDM"]
    regionsMostActive: ["Amhara Region"]
    yearsActiveasArmed: ["1983-1991"]
-  esrmArmedGroup:
+  esrmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Islamic Reform Movement"]
    regionsMostActive: ["Eritrea"]
    yearsActiveasArmed: ["1975-2003"]
-  elfArmedGroup:
+  elfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ELF", "Eritrean Liberation Front"]
    regionsMostActive: ["Eritrea"]
    yearsActiveasArmed: ["1961-1992"]
-  eplfArmedGroup:
+  eplfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["EPLF", "Eritrean People's Liberation Front"]
    associatedEthnicGroup: ["tigrinyaEthnicGroup"]
    regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
    yearsActiveasArmed: ["1976-1991"]
-  erdfArmedGroup:
+  erdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Revolutionary Democratic Front"]
    regionsMostActive: ["Eritrea"]
    yearsActiveasArmed: ["1999"]
-  eprpArmedGroup:
+  eprparmedNonGovernmentalOrganizedGroup:
    stringTokens: ["EPRP", "Ethiopian Peoples Revolutionary Party"]
    regionsMostActive: ["Tigray", "Addis Abada"]
    yearsActiveasArmed: ["1972-1992"]
-  ethArmedGroup:
+  etharmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Ethiopians"]
    regionsMostActive:
    yearsActiveasArmed:
-  iuArmedGroup:
+  iuarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Islamic Unity"]
    regionsMostActive:
    yearsActiveasArmed: ["1992-1997"]
-  iglfArmedGroup:
+  iglfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Issa and Gurgura Liberation Front"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["1991-1994"]
-  onlfArmedGroup:
+  onlfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ONLF", "Ogaden National Liberation Front", "Javhadda Waddaniga Xoreynta Ogaddeenya"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["1991-1994"]
-  murletribeArmedGroup:
+  murletribearmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Murle Tribe"]
    regionsMostActive: []
    yearsActiveasArmed: ["2012"]
-  olfArmedGroup:
+  olfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["OLF", "Oromo Liberation Front"]
    associatedEthnicGroup: ["oromoEthnicGroup"]
    regionsMostActive: ["Oromo Region"]
    yearsActiveasArmed: ["1974-1991"]
-  slfArmedGroup:
+  slfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["SLF", "Sidama Liberation Front", "Sidama National Liberation Front", "SNLF"]
    associatedEthnicGroup: ["sidamaEthnicGroup"]
    regionsMostActive: ["Sidama Region"]
    yearsActiveasArmed: ["1978-1991", "2020-2022"]
-  salfArmedGroup:
+  salfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali Abo Liberation Front"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["1976-1988"]
-  sifArmedGroup:
+  sifarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali Islamic Front"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["2007-2009"]
-  wslfArmedGroup:
+  wslfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Western Somali Liberation Front"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["1975-1989"]
-  ufefcfArmedGroup:
+  ufefcfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["United Front of Ethiopian Federalist and Confederalist Forces", "UFEFCF"]
    yearsActiveasArmed: ["2021-2022"]
-  olaArmedGroup:
+  olaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Oromo Liberation Army", "OLA", "Shene", "Shanee", "Oneg", "OLF-Shene"]
    regionsMostActive: ["Oromo Region", "Amhara Region"]
    yearsActiveasArmed: ["2018-Present"]
-  agewlfArmedGroup:
+  agewlfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Agew Liberation Front"]
    yearsActiveasArmed: ["2020-Present"]
-  mgsArmedGroup:
+  mgsarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali State Resistance", "MGS", "Muqaawamada Gobolka Soomaalida"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    yearsActiveasArmed: ["2020-Present"]
-  gplaArmedGroup:
+  gplaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Gambella People's Liberation Army"]
    yearsActiveasArmed: ["2020-Present"]
-  bplmArmedGroup:
+  bplmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Benishangul People's Liberation Movement", "BPLM"]
    associatedEthnicGroup: [] #This group is associated with the Berta and Gurmuz people but they are both under the 1% thrashold.
    yearsActiveasArmed: ["1996-2005", "2020-Present"]
    regionsMostActive: ["Benishangul-Gumuz Region"]
-  fanoArmedGroup:
+  fanoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Fano", "The Youth"]
    associatedEthnicGroup: ["amharaEthnicGroup"]
    yearsActiveasArmed: ["2010-Present"]
