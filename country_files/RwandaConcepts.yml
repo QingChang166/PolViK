@@ -26,18 +26,18 @@ concepts:
   RNCParty: 
    stringTokens: ["Rwanda National Congress", "RNC", "Congrès National Rwandais"]
 ##armed groups
-  FARArmedGroup:
+  FARarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Rwandan Armed Forces", "FAR"]
-   associatedEthnicGroup: [FARArmedGroup", "hutuEthnicGroup"]
-  InterahamweArmedGroup:
+   associatedEthnicGroup: [FARarmedNonGovernmentalOrganizedGroup", "hutuEthnicGroup"]
+  InterahamwearmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Interahamwe"]
    associatedEthnicGroup: ["hutuEthnicGroup"]
-  RPAArmedGroup:
+  RPAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["RPA", "Rwandan Patriotic Army"]
    associatedEthnicGroup: ["tutsiEthnicGroup"]
-  FDLRArmedGroup:  ##here or DRC
+  FDLRarmedNonGovernmentalOrganizedGroup:  ##here or DRC
    stringTokens: ["Democratic Forces for the Liberation of Rwanda", "FDLR", "Forces Démocratiques pour la Libération du Rwanda"]
-   associatedEthnicGroup: ["FDLRArmedGroup", "hutuEthnicGroup"]
+   associatedEthnicGroup: ["FDLRarmedNonGovernmentalOrganizedGroup", "hutuEthnicGroup"]
    
   
 
