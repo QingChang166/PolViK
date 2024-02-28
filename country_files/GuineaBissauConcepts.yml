@@ -111,7 +111,7 @@ concepts:
      yearsActiveasParty: ["1992-2004"]
   
   ## armed groups
-   MJCDPJArmedGroup:
+   MJCDPJarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Military Junta for the Consolidation of Democracy, Peace and Justice"]
      associatedEthnicGroup: [""]
      wikidataQnode: [""]
