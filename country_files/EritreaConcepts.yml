@@ -70,64 +70,64 @@ concepts:
   #yearsActiveasArmed == year of first attack
   #pre 2020 data from AGD data, post from online sources
 
-  gsdrmArmedGroup:
+  gsdrmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Gash-Setit Democratic Resistance Movement", "Democratic Resistance Movement (Gash-Setit)"]
-   associatedEthnicGroup: ["arnfArmedGroup"]
+   associatedEthnicGroup: ["arnfarmedNonGovernmentalOrganizedGroup"]
    regionsMostActive: [] ##the group mostly operates out of Sudan
    yearsActiveasArmed: ["1996-1999"]
-  epcArmedGroup: #cant find anything about them except in AGD data.
+  epcarmedNonGovernmentalOrganizedGroup: #cant find anything about them except in AGD data.
    stringTokens: ["Eritrean Popular Congress"]
    regionsMostActive: []
    yearsActiveasArmed: ["1998-2008"]
-  arnfArmedGroup:
+  arnfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Alliance of Eritrean National Force", "AENF"]
    associatedEthnicGroup: []
    regionsMostActive: [] ## the group mostly operates out of Sudan
    yearsActiveasArmed: [1999-] ## https://www.refworld.org/cgi-bin/texis/vtx/rwmain?page=search&docid=3ae6ad5b14&skip=0&query=Alliance%20of%20Eritrean%20National%20Forces%20(AENF)
-  rsadoArmedGroup:
+  rsadoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Red Sea Afar Democratic Organiation", "RSADO", "Qasa Badih Qafarih Dimokraasih Missoyna", "Al-tanzim Al-dimokrati Li-'afar Al-Bahr Al-Ahmar"]
    associatedEthnicGroup: ["afarEthnicGroup"]
    regionsMostActive: ["Southern Red Sea Region"]
    yearsActiveasArmed: ["1998-2014"]
-  dmlekArmedGroup:
+  dmlekarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Kunamas Democratic Movement", "DMLEK"]
    associatedEthnicGroup: ["kunamaEthnicGroup"]
    regionsMostActive: ["Gash-Barka"]
-   isPartof:  ["arnfArmedGroup"]
+   isPartof:  ["arnfarmedNonGovernmentalOrganizedGroup"]
    yearsActiveasArmed: ["1995-2009"]
-  esfArmedGroup:
+  esfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Salvation Front", "ESF"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["2004-2015"]
-  pdfleArmedGroup:
+  pdflearmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Popular Democratic Front for the Liberation of Eritrea"]
    associatedEthnicGroup: []
    regionsMostActive: [] ##the group mostly operates out of Sudan
    yearsActiveasArmed: []
-  elfrcArmedGroup:
+  elfrcarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Liberation Front-Revolution Council", "ELF-Revolution Council"]
    associatedEthnicGroup: []
    regionsMostActive: [] ##the group mostly operates out of Sudan
    ##https://www.refworld.org/cgi-bin/texis/vtx/rwmain?page=search&docid=3df4be2e10&skip=0&query=Alliance%20of%20Eritrean%20National%20Forces%20(AENF)
    yearsActiveasArmed: [] ##at least active in 1998-2000https://www.refworld.org/cgi-bin/texis/vtx/rwmain?page=search&docid=3df4be31c&skip=0&query=Alliance%20of%20Eritrean%20National%20Forces%20(AENF)
-  elfArmedGroup:
+  elfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Liberation Front", "ELF", "Jebha"]
    associatedEthnicGroup: []
    regionsMostActive: [] ##After 1991, the group mostly operates out of Sudan
    yearsActiveasArmed: ["1961-Present"]
-  eirmArmedGroup:
+  eirmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Islamic Reform Movement", " Eritrean Islamic Jihad Movement", "EIJM"]
    associatedEthnicGroup: []
    regionsMostActive: ["Gash-Barka"]
    yearsActiveasArmed: ["1975-2003"] ##https://www.start.umd.edu/baad/narratives/eritrean-islamic-jihad-movement-eijm.html
-  alqaidaArmedGroup: ##Not too sure what to do with this for as I cant find too many details on ALqaida in Eritrea specifically.... but it seems it did have apresene there
+  alqaidaarmedNonGovernmentalOrganizedGroup: ##Not too sure what to do with this for as I cant find too many details on ALqaida in Eritrea specifically.... but it seems it did have apresene there
    stringTokens: ["Al-Qa'ida"]
    associatedEthnicGroup: []
    regionsMostActive: []
    yearsActiveasArmed: ["1998-2017"]
-  ##eplfArmedGroup: ##Should this be removed since its not a group in eritrea post 1991 (independence)
-  erdfArmedGroup:
+  ##eplfarmedNonGovernmentalOrganizedGroup: ##Should this be removed since its not a group in eritrea post 1991 (independence)
+  erdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Revolutionary Democratic Front", "DMLE"] ##https://www.refworld.org/docid/3f7d4d917.html
    associatedEthnicGroup: []
    regionsMostActive: [] ##the group mostly operates out of Sudan
