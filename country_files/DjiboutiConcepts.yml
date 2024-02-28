@@ -129,39 +129,39 @@ concepts:
    yearsActiveasParty: ["2013"]
   
 
-###ArmedGroups
+###armedNonGovernmentalOrganizedGroups
   
-  FRUDArmedGroup:
+  FRUDarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["FRUD", "Front for the Restoration of Unity and Democracy", "Front pour la Restauration de l'Unité et de la Démocratie"]
    associatedEthnicGroup: ["Afar"]
    wikidataQnode: ["Q1470091"]
    yearsActive: ["1991-1994"]
    
-  FRUDCArmedGroup:
+  FRUDCarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["FRUD-C", "Front for the Restoration of Unity and Democracy – Combatant", "Front pour la restauration de l’unité et de la démocratie – Combattant", "FRUD Ahmed Dini faction", "FRUD-Radicals", "FRUD-Armé", "Armed FRUD"]
    associatedEthnicGroup: ["Afar"]
    wikidataQnode: ["Q1470091"]
    yearsActive: ["1994-present"] #split from FRUD 
   
-  HSMArmedGroup:
+  HSMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Shabaab", "al-Shabaab", "Harakat al-Shabaab al-Mujahideen", "HSM", "Shabab militia", "Shabab militias"]
    associatedEthnicGroup: ["Somali"]
    wikidataQnode: ["Q309998"]
    yearsActive: ["2006-present"]
   
-  DYMArmedGroup:
+  DYMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Djibouti Youth Movement"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q5285309"]
    yearsActiveas: ["1990s"]
   
-  FLCSArmedGroup:
+  FLCSarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Front de Libération de la Côte des Somalis", "FLCS", "Front for the Liberation of the Somali Coast"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3088465"]
    yearsActiveasParty: ["1960-1977"] # Became Djibouti Armed Forces after independence
   
-  FLDArmedGroup:
+  FLDarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Front for the Liberation of Djibouti", "FLD"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q5505869"]
