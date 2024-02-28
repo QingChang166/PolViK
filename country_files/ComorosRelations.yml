@@ -33,4 +33,4 @@ relations:
   - (Party, UwezoParty)
   - (Party, TwamayaParty)
   - (Party, UDDParty)
-  - (ArmedGroup, APMArmedGroup)
+  - (armedNonGovernmentalOrganizedGroup, APMarmedNonGovernmentalOrganizedGroup)

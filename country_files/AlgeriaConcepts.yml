@@ -150,42 +150,42 @@ concepts:
      yearsActiveasParty: ["1989-1992"]
 
   ## armed groups
-   GIAArmedGroup:
+   GIAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Armed Islamic Group of Algeria"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q1125408"]
   
-   FIDAArmedGroup:
+   FIDAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic Front for Armed Jihad"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q6082473"]
   
-   AISArmedGroup:
+   AISarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic Salvation Army"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q117184203"]
   
-   GSPCArmedGroup:
+   GSPCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Salafist Group for Preaching and Combat"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q311841"]
   
-   THArmedGroup:
+   THarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Takfir wal-Hijra"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q291419"]
   
-   MOJWAArmedGroup:
+   MOJWAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for Oneness and Jihad in West Africa", "Movement for Unity and Jihad in West Africa", "MOJVA", "MUJVA"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q550108"]
   
-   IS-APArmedGroup:
+   IS-AParmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State", "Islamic State – Algeria Province", "Jund al-Khilafah"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q18122635"]
 
-   AQIMArmedGroup:
+   AQIMarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q2635966"]

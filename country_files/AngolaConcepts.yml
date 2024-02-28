@@ -222,32 +222,32 @@ concepts:
      yearsActiveasParty: ["1991-present"]
 
   ## armed groups
-    FLECArmedGroup:
+    FLECarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Front for the Liberation of the Enclave of Cabinda", "FLEC"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q608489"]
   
-    FLEC-FACArmedGroup:
+    FLEC-FACarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Frente da Libertação do Enclave de Cabinda - Forças Armadas de Cabinda", "Front for the Liberation of the Enclave of Cabinda - Armed Forces of Cabinda"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q608489"]
   
-    FLEC-RArmedGroup:
+    FLEC-RarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["FLEC-R", "Front for the Liberation of the Enclave of Cabinda – Renewed"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q608489"]
   
-    FLEC-FAC-TNArmedGroup:
+    FLEC-FAC-TNarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["FLEC-FAC-TN", "Front for the Liberation of the Enclave of Cabinda - Armed Forces of Cabinda - Tiago Nzita faction)"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q608489"]
 
-    UNITAArmedGroup:
+    UNITAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Union for the Total Independence of Angola", "UNITA"]
      associatedEthnicGroup: ["Ovimbundu people"]
      wikidataQnode: ["Q28699"]
   
-    FLNAArmedGroup:
+    FLNAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Liberation Front of Angola"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q907051"]

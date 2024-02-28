@@ -46,4 +46,4 @@ relations:
   - (Party, uprParty)
   - (Party, bpaParty)
   - (Party, StarAllianceParty)
-  - (ArmedGroup, jnimArmedGroup) 
+  - (armedNonGovernmentalOrganizedGroup, jnimarmedNonGovernmentalOrganizedGroup) 

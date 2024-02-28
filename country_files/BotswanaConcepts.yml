@@ -224,17 +224,17 @@ concepts:
     wikidataQnode: ["Q4893655"]
     yearsActiveasParty: ["1999-2010"] # Merge into BCP
 
-###ArmedGroups
+###armedNonGovernmentalOrganizedGroups
 
-  CLAArmedGroup:
+  CLAarmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Caprivi Liberation Army", "CLA"]
     associatedEthnicGroup: ["Lozi people"]
     wikidataQnode: ["Q2496137"]
     yearsActive: ["1994-present"] #fled into Botswana in 1998 during thew Caprivi conflict
 
-  MKArmedGroup:
+  MKarmedNonGovernmentalOrganizedGroup:
     stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
     associatedEthnicGroup: []
     associatedPoliticalParty: ["African National Congress", "ANC"]
     wikidataQnode: ["Q1136236"]
-    yearsActiveasArmedGroup: ["1961-1993"] # terrorist attack in 1985
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1961-1993"] # terrorist attack in 1985
