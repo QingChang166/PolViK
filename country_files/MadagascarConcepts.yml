@@ -77,17 +77,17 @@ concepts:
      yearsActiveasParty: 
 
   ## armed groups
-   SARArmedGroup:
+   SARarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Supporters of Andry Rajoelina"]
      associatedEthnicGroup: 
      wikidataQnode: 
   
-   SDRArmedGroup:
+   SDRarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Supporters of Didier Ratsiraka"]
      associatedEthnicGroup: [""]
      wikidataQnode: [""]
   
-   SMRArmedGroup:
+   SMRarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Supporters of Marc Ravalomanana"]
      associatedEthnicGroup: [""]
      wikidataQnode: [""]
