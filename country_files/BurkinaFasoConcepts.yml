@@ -144,23 +144,23 @@ concepts:
    stringTokens: ["Voltaic Union"]
    wikidataQnode:  ["Q7940764"]
 ## armed groups
-  aqimArmedGroup:
+  aqimarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
    wikidataQnode: ["Q2635966"]
-  aiArmedGroup:
+  aiarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Ansaroul Islam"]
    wikidataQnode: ["Q28499712"]
    location: ["Soum province"]
-  jnimArmedGroup:
+  jnimarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Jama'at Nasr al-Islam wal Muslimin", "JNIM"]
    wikidataQnode: ["Q28877411"]
-  isgsArmedGroup:
+  isgsarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["IS-GS", "Islamic State in the Greater Sahara"]
    wikidataQnode: ["Q36504631"]
-  koglweogoArmedGroup:
+  koglweogoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Koglweogo"]
    associatedEthnicGroup: ["Mossi people"]
-  pfArmedGroup:
+  pfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Popular Front"]
 
 
