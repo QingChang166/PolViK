@@ -191,34 +191,34 @@ concepts:
    wikidataQnode: ["Q6634262"] # cannot find a single wikipedia page, I use the qnode for "list of political parties in Swaziland"
    yearsActiveasParty: [""]
 
-###ArmedGroups
-  UPLAArmedGroup:
+###armedNonGovernmentalOrganizedGroups
+  UPLAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Umbane People's Liberation Army"]
    associatedEthnicGroup: []
    associatedPoliticalParty: ["PUDEMO"]
    wikidataQnode: ["Q4992581"] # The qnode of PUDEMO
-   yearsActiveasArmedGroup: [""]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: [""]
   
-  SWAYOCOArmedGroup:
+  SWAYOCOarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Swaziland Youth Congress", "SWAYOCO"]
    associatedEthnicGroup: []
    associatedPoliticalParty: ["PUDEMO"]
    wikidataQnode: ["Q4992581"] # The qnode of PUDEMO
-   yearsActiveasArmedGroup: [""]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: [""]
   
-  RenamoArmedGroup:
+  RenamoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Renamo", "Resistência Nacional Moçambicana", "Mozambican National Resistance", "MNR", "RNM", "Movimento Nacional da Resistência de Mocambique"]
    associatedEthnicGroup: ["Shona", "Ndau"]
    associatedPoliticalParty: [""]
    wikidataQnode: ["Q1425821"]
    yearsActive: ["1975-present"]
   
-  MKArmedGroup:
+  MKarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
    associatedEthnicGroup: []
    associatedPoliticalParty: ["African National Congress", "ANC"]
    wikidataQnode: ["Q1136236"]
-   yearsActiveasArmedGroup: ["1961-1993"]  # terrorist attack in 1984
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1961-1993"]  # terrorist attack in 1984
 
   
   
