@@ -98,12 +98,12 @@ concepts:
      yearsActiveasParty: ["1993-present"]
   
   ## armed groups
-   AQIMArmedGroup:
+   AQIMarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["al-Qaeda in the Islamic Maghreb"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q2635966"]
   
-   PolisarioArmedGroup:
+   PolisarioarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario"]
      associatedEthnicGroup: ["Sahrawi people"]
      wikidataQnode: ["Q240425"]
