@@ -1,10 +1,11 @@
 relations:  # parent concept, child concept, tuples
     - (ROOT, people)
-    - (people, genderGroup)
-    - (people, ageGroup)
-    - (people, incomeGroup)
-    - (people, jobGroup)
-    - (people, legalGroup)
+    - (people, Group)
+    - (Group, genderGroup)
+    - (Group, ageGroup)
+    - (Group, incomeGroup)
+    - (Group, jobGroup)
+    - (Group, legalGroup)
     - (people, regionalPeople)
     - (people, disabledPeople)
     - (genderGroup, maleGender)
@@ -60,7 +61,8 @@ relations:  # parent concept, child concept, tuples
     - (informationCollectionOrganization, spies)
     - (nonGovernmentalOrganizedGroup, laborGroup)  # use this only for nongov labor groups
     - (laborGroup, laborUnion)
-    - (people, ethnicGroup)  # ethnic group does not have to be organized
+    - (Group, horizontalInequalityGroup)
+    - (horizontalInequalityGroups, ethnicGroup)  # ethnic group does not have to be organized
     - (ethnicGroup, hispanicEthnicGroup)
     - (ethnicGroup, mayaEthnicGroup)
     - (ethnicGroup, kungEthnicGroup)
@@ -982,11 +984,11 @@ relations:  # parent concept, child concept, tuples
     - (ethnicGroup, zoniansEthnicGroup)
     - (ethnicGroup, zuluEthnicGroup)
     - (ethnicGroup, zuniEthnicGroup)
-    - (people, employmentGroup)  # employment group does not have to be organized
+    - (Group, employmentGroup)  # employment group does not have to be organized
     - (employmentGroup, farmers)
     - (employmentGroup, bankersFinancial)
     - (employmentGroup, unemployed)
-    - (organizedGroup, religionGroup)  # assuming organized religion, government could be controlled by a religious group, so connect to organized group and not nonGovernmentalOrg
+    - (horizontalInequalityGroup, religionGroup)  # assuming organized religion, government could be controlled by a religious group, so connect to organized group and not nonGovernmentalOrg
     - (religionGroup, christianReligion)
     - (christianReligion, orthodoxChristian)
     - (orthodoxReligion, greekOrthodox)
@@ -1079,7 +1081,7 @@ relations:  # parent concept, child concept, tuples
     - (traditionalAfricanReligion, yorubaReligion)
     - (traditionalAfricanReligion, dogonReligion)
     - (traditionalAfricanReligion, ifaReligion)
-    - (people, LanguageGroup)
+    - (horizontalInequalityGroup, LanguageGroup)
     - (people, bodyParts)
     - (languageGroup, englishLanguage)
     - (languageGroup, spanishLanguage)
