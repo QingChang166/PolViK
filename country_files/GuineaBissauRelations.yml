@@ -19,4 +19,4 @@ relations:
   - (Party, LIPEParty)
   - (Party, PRDParty)
   - (Party, MUDParty)
-  - (ArmedGroup, MJCDPJArmedGroup)
+  - (armedNonGovernmentalOrganizedGroup, MJCDPJarmedNonGovernmentalOrganizedGroup)
