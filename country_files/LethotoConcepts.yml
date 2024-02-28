@@ -141,23 +141,23 @@ concepts:
    wikidataQnode: ["Q114594226"]
    yearsActiveasParty: ["2017-present"]
 
-###ArmedGroups
+###armedNonGovernmentalOrganizedGroups
 
-  LLAArmedGroup:
+  LLAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Lesotho Liberation Army", "LLA"] # associated with Azanian People's Liberation Army
    associatedEthnicGroup: []
    associatedPoliticalParty: ["Basutoland Congress Party"]
    wikidataQnode: ["Q1820854"]
-   yearsActiveasArmedGroup: ["1974-1990"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1974-1990"]
   
   # Pro-government militias:
   
-  YLArmedGroup:
+  YLarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Youth League (Lesotho)", "Youth League"] # associated with Azanian People's Liberation Army
    associatedEthnicGroup: []
    associatedPoliticalParty: ["Basutho National Party"]
    wikidataQnode: [""]
-   yearsActiveasArmedGroup: ["1984-1986"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1984-1986"]
   
 
   
