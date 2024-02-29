@@ -425,7 +425,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   englishlinguisticGroup:
     stringTokens: ["english", "english language"]
   spanishlinguisticGroup:
-    stringTokens: ["spanish", "spanish language"]
+    stringTokens: ["spanish", "spanish language", "andalusian spanish"]
   portugeselinguisticGroup:
     stringTokens: ["portugese", "portugese language", "goan portugese", "nusantaran portugesese"]
   mandarinChineselinguisticGroup:
