@@ -476,6 +476,10 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   tagaloglinguisticGroup:
     stringTokens: ["tagalog", "tagalog language", 	"Bataan", "Batangas", "Bulacan", "Lubang", "manila tagalog", "marinduque tagalog", "puray tagalog", "tanay-paete", 
                   "tayabas"]
+  frenchLinguisticGroup:
+    stringTokens: ["french", "french language"]
+  aramaicLinguisticGroup:
+    stringTokens: ["aramaic", "aramaic language"]
   koreanlinguisticGroup:
     stringTokens: ["korean", "korean language", "hamgyong", "pyongan", "central korean", "gyeongsang", "jeolla", "jeju", "Ryukchin", "Yukchin"]
   iranianPersianlinguisticGroup:
@@ -706,8 +710,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     religionsMostPracticed: ["christianReligion", "buddhismReligion", "aninismReligion"]
     languagesMostSpoken: ["thailinguisticGroup"]
   akieEthnicGroup:
-    stringTokens: ["Akie"]
-    wikidataID: [""]
+    stringTokens: ["Akie", "akiek", "ogiek"]
+    wikidataID: ["Q3440358"]
     religionsMostPracticed: [""]
     linguisticGroupsMostSpoken: [""]
   alaskanCreolesEthnicGroup:
