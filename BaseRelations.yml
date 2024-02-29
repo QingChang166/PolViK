@@ -1120,7 +1120,7 @@ relations:  # parent concept, child concept, tuples
     - (linguisticGroup, bhojpuriLanguage)
     - (linguisticGroup, southernMinChineseLanguage)
     - (linguisticGroup, jinChineseLanguage)
-    - (linguisticGroup, LevantineArabicLanguage)
+    - (linguisticGroup, levantineArabicLanguage)
     - (linguisticGroup, yorubaLanguage)
     - (linguisticGroup, afrikaansLanguage)
     - (linguisticGroup, berberLanguage)
