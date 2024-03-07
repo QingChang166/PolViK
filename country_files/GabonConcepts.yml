@@ -59,6 +59,12 @@ concepts:
      languagesMostSpoken: ["Myene languages"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Port-Gentil"]
+
+   MbedeEthnicGroup:
+     stringTokens: ["Ambaama", "Mbete", "Mbaama", "Mbaamba", "Mbama", "Mbamba", "Mbede", "Obamba", "Ombamba"]
+     wikidataQnode: ["Q3303515"]
+     languagesMostSpoken: ["Mbere languages"]
+     livesIn: ["Haut Ogooué"]
     
   ## politicalparties
    PDGParty:
