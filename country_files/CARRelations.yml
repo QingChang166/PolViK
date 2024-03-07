@@ -29,8 +29,6 @@ relations:
   - (ArmedNonGovernmentalOrganizedGroup, antibalakaArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, mlcArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, mlcjArmedNonGovernmentalOrganizedGroup)
-  - (ArmedNonGovernmentalOrganizedGroup, mlpcArmedNonGovernmentalOrganizedGroup)
-  - (ArmedNonGovernmentalOrganizedGroup, rdcArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, mpcArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, fprcArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, fdpcArmedNonGovernmentalOrganizedGroup)
