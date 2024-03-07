@@ -1,6 +1,6 @@
 concepts:
   EgyptianSecurityForces:
-    stringTokens: ["Egyptian Armed Forces", "Egyptian military", "military of Egypt", "mil Egypt", "alquwwat almusalahat almisria", "Supreme Council of the Armed Forces", "SCAF"]
+    stringTokens: ["Egyptian Armed Forces", "Egyptian military", "military of Egypt", "mil Egypt", "alquwwat almusalahat almisria", "Supreme Council of the Armed Forces", "SCAF", "SSIS"]
     wikidataQnode: ["Q1075553"]
 
 ##EthnicGroups
