@@ -44,5 +44,5 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, HASMarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, AAIarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, EIJarmedNonGovernmentalOrganizedGroup)
-  - (GovernmentMilitia, BaltagiyaGovernmentMilitia)
-  - (GovernmentMilitia, MBGovernmentMilitia)
+  - (proGovernmentMilitia, BaltagiyaGovernmentMilitia)
+  - (proGovernmentMilitia, MBGovernmentMilitia)
