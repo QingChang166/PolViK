@@ -114,5 +114,6 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, gplaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, bplmarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, fanoarmedNonGovernmentalOrganizedGroup)
-  - (armedNonGovernmentalOrganizedGroup, tdfarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, tdfarmedNonGovernmentalOrganizedGroup
+  - (armedNonGovernmentalOrganizedGroup, tdfarmedNonGovernmentalOrganizedGroup1)
   - (armedNonGovernmentalOrganizedGroup, luarmedNonGovernmentalOrganizedGroup)

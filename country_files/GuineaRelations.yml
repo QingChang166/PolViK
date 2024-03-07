@@ -25,6 +25,7 @@ relations:
   - (Party, UPGParty)
   - (Party, UFRParty)
   - (Party, UFCParty)
+  - (Party, UPGParty)
   - (armedNonGovernmentalOrganizedGroup, RDFGarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, AFRCarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, LDFarmedNonGovernmentalOrganizedGroup)

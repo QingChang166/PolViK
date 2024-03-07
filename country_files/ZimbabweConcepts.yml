@@ -67,8 +67,51 @@ concepts:
     religionsMNational Youth ServiceostPracticed: ["Christianity", "Judaism"]
     livesIn: ["Midlands", "Harare"]
   
-  # Ethnic groups with population share less than 1% are omitted.
-  
+  #Ethnic groups with population share less than 1% are omitted.
+  ###LinguisticGroups
+  DombeLinguisticGroup:
+    stringTokens: ["Ndombe", "Dombe]
+    wikidataQnode: ["Q6983792"]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+    
+  KalangaLinguisticGroup:
+    stringTokens: ["Kalanga", "Tjikalanga", "Ikalanga"]
+    wikidataQnode: ["Q33672"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Kalanga people"]
+
+  KundaLinguisticGroup:
+    stringTokens: ["Kunda"]
+    wikidataQnode: ["Q4121130"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Akunda"]
+
+  ManyikaLinguisticGroup:
+    stringTokens: ["Manyika", "Tewe"]
+    wikidataQnode: ["Q33599"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Manyika"]
+
+  NdebeleLinguisticGroup:
+    stringTokens: ["Ndebele", "Sindebele", "Matabele", "isiNdebele", "isiNdebele saseNyakatho", "nde"]
+    wikidataQnode: ["Q35613"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Northern Ndebele people"]
+
+  NambyaLinguisticGroup:
+    stringTokens: ["Nambya"]
+    wikidataQnode: ["Q3553981"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Nambya people"]
+
+  ShonaLinguisticGroup:
+    stringTokens: ["Shona", "chiShona", "chiSwina", "chiZwina", "chiManyika", "chiUngwe", "chiKaranga", "chiRozwi", "Karanga", 
+"Chino"]
+    wikidataQnode: ["Q34004"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Shona people"]
+ 
 ###PoliticalParties
   ANCIParty:
    stringTokens: ["African National Council Independents"]

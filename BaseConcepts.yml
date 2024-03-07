@@ -475,7 +475,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["wu chinese language", "wu chinese", "wu language", "wu", "Shanghainese", "Suzhounese", "Wenzhounese"]
   tagaloglinguisticGroup:
     stringTokens: ["tagalog", "tagalog language", 	"Bataan", "Batangas", "Bulacan", "Lubang", "manila tagalog", "marinduque tagalog", "puray tagalog", "tanay-paete", 
-                  "tayabas"]
+                  "tayabas", "filipino"]
   frenchLinguisticGroup:
     stringTokens: ["french", "french language"]
   aramaicLinguisticGroup:

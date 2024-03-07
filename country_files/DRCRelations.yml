@@ -16,6 +16,7 @@ relations:
   - (EthnicGroup, tshokweEthnicGroup)
   - (EthnicGroup, yakaEthnicGroup)
   - (EthnicGroup, zandeEthnicGroup)
+  - (EthnicGroup, kongoEthnicGroup)
   - (Party, PPRDParty)
   - (Party, UDPSParty)
   - (Party, MLCParty)
