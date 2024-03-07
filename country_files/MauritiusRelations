@@ -33,3 +33,10 @@ relations:
   - (Party, PTRMMMParty)
   - (Party, PTRPMSDParty)
   - (Party, PTRPMXDParty)
+  - (Party, MTDParty)
+  - (Party, MRParty)
+  - (Party, AAParty)
+  - (Party, ACParty)
+  - (Party, IPParty)
+
+
