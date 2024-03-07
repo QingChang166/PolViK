@@ -19,7 +19,7 @@ relations:  # parent concept, child concept, tuples
     - (incomeGroup, poorPeople)
     - (jobGroup, workersPeople)
     - (jobGroup, fightingPeople)
-    - (jobGroup, leaderPeople)
+    - (jobGroup, leadersPeople)
     - (jobGroup, landOwnerPeople)
     - (jobGroup, tenantPeople)
     - (jobGroup, formerFightingPeople)
@@ -984,6 +984,8 @@ relations:  # parent concept, child concept, tuples
     - (ethnicGroup, zoniansEthnicGroup)
     - (ethnicGroup, zuluEthnicGroup)
     - (ethnicGroup, zuniEthnicGroup)
+    - (ethnicGroup, charruaEthnicGroup)
+    - (ethnicGroup, mayaEthnicGroup)
     - (Group, employmentGroup)  # employment group does not have to be organized
     - (employmentGroup, farmers)
     - (employmentGroup, bankersFinancial)
