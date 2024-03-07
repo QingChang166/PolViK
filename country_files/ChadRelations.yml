@@ -1,6 +1,5 @@
 relations:
   - (officialStateSecurityForces, ChadianSecurityForces)
-  - (officialStateSecurityForces, ChadianNationalArmy)
   - (EthnicGroup, toubouEthnicGroup)
   - (EthnicGroup, saraEthnicGroup)
   - (EthnicGroup, tamaEthnicGroup)
