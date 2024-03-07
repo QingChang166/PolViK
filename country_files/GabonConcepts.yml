@@ -65,6 +65,10 @@ concepts:
      wikidataQnode: ["Q3303515"]
      languagesMostSpoken: ["Mbere languages"]
      livesIn: ["Haut Ogooué"]
+
+    TekeEthnicGroup:
+     stringTokens: ["Teke", "bateke", "tyo", "tio"]
+     wikidataQnode: ["Q811078"]
     
   ## politicalparties
    PDGParty:
@@ -87,7 +91,7 @@ concepts:
      wikidataQnode: ["Q6926679"]
      yearsActiveasParty: ["1981-present"] 
   
-   UPGarty:
+   UPGarty-Gabon:
      stringTokens: ["Union of the Gabonese People", "UPG"]
      wikidataQnode: ["Q3550242"]
      yearsActiveasParty: ["1989-present"]
@@ -131,3 +135,14 @@ concepts:
      stringTokens: ["Circle of Liberal Reformers"]
      wikidataQnode: ["Q2945546"]
      yearsActiveasParty: ["1993-present"]
+
+  ADEREParty:
+     stringTokens: ["Republican and Democrat Alliance", "ADERE"]
+     wikidataQnode: ["Q5255869"]
+     yearsActiveasParty: ["1996-2011"]
+
+   PGCIParty:
+     stringTokens: ["Independent Centre Party of Gabon", "PGCI"]
+     wikidataQnode: ["Q23777576"]
+     yearsActiveasParty: ["1990-Present"]
+ 
