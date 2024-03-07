@@ -1,7 +1,5 @@
 relations:
   - (officialStateSecurityForces, EgyptianSecurityForces)
-  - (officialStateSecurityForces, SCAF)
-  - (officialStateSecurityForces, SSIS)
   - (EthnicGroup, MuslimsArabEthnicGroup)
   - (EthnicGroup, CoptsEthnicGroup)
   - (EthnicGroup, AbazinsEthnicGroup)
