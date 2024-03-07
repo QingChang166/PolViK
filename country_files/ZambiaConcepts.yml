@@ -57,6 +57,127 @@ concepts:
    languagesMostSpoken: ["Ngoni"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Christianity"]  ##religions most practiced- can be blank
    livesIn: ["Eastern Province"] 
+##linguisticgroups
+  AushiLinguisticGroup:
+    stringTokens: ["Aushi", ""]
+    wikidataQnode: ["Q2872082"]
+    livesIn: ["Luapula Province", "(Haut-)Katanga Province", "Lwapula Province"] 
+    associatedethnicgroup: [""]
+  BembaLinguisticGroup:
+    stringTokens: ["Bemba", "Chibemba", "Cibemba", "IchiBemba"]
+    wikidataQnode: ["Q33052"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Bemba people", "Bangweulu Batwa people"]
+  BwileLinguisticGroup:
+    stringTokens: ["Bwile"]
+    wikidataQnode: ["Q3447440"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Bwile people"]
+  IlaLinguisticGroup:
+    stringTokens: ["Ila", "Sala"]
+    wikidataQnode: ["Q5996885"]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  KaondeLinguisticGroup:
+    stringTokens: ["Kaonde"]
+    wikidataQnode: ["Q33601"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Kaonde people"]
+  LambaLinguisticGroup:
+    stringTokens: ["Lamba"]
+    wikidataQnode: ["Q36098"]
+    livesIn: ["Lusaka"] 
+    associatedethnicgroup: ["Lamba people"]
+  Lala-BisaLinguisticGroup:
+    stringTokens: ["Lala-Bisa"]
+    wikidataQnode: ["Q6480112"]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  LenjeLinguisticGroup:
+    stringTokens: ["Lenje"]
+    wikidataQnode: ["Q6522666"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Lukanga Twa Pygmies"]
+  LoziLinguisticGroup:
+    stringTokens: ["Lozi", "siLozi", "Rozi"]
+    wikidataQnode: ["Q33628"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Lozi people", "Luyana people"]
+  LuvaleLinguisticGroup:
+    stringTokens: ["Luvale"]
+    wikidataQnode: ["Q33597"]
+    livesIn: [""] 
+    associatedethnicgroup: ["Lovale people"]
+  LundaLinguisticGroup:
+    stringTokens: ["Lunda"]
+    wikidataQnode: ["Q33607"]
+    livesIn: ["Katanga Province"] 
+    associatedethnicgroup: ["Lunda people"]
+  LuyanaLinguisticGroup:
+    stringTokens: ["Luyana"]
+    wikidataQnode: ["Q3268098"]
+    livesIn: ["Okavango River"] 
+    associatedethnicgroup: ["Luyana people", "Lozi people]
+  Mambwe-LunguLinguisticGroup:
+    stringTokens: ["Mambwe-Lungu"]
+    wikidataQnode: ["Q626210"]
+    livesIn: ["Rukwa region", ""] 
+    associatedethnicgroup: ["Mambwe people", "Lungu people", "Fipa people"]
+  MashiLinguisticGroup:
+    stringTokens: ["Mashi", "Kwandu"]
+    wikidataQnode: ["Q10962737"]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  NyamwangaLinguisticGroup:
+    stringTokens: ["Nyamwanga", "Mwanga", "Cinamwanga", "Namwanga"]
+    wikidataQnode: ["Q6944666"]
+    livesIn: ["Chitipa District"] 
+    associatedethnicgroup: ["Mwanga people"]
+  MboweLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  NkoyaLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  NsengaLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  SoliLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  SalaLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  SimaaLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  SettlaLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  TongaLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
+  TotelaLinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""] 
+    associatedethnicgroup: [""]
 ##politicalparties
  UNIPParty:
    stringTokens: ["UNIP", "United National Independence Party"]
