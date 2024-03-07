@@ -25,7 +25,7 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, MOJWAarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, IS-AParmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, AQIMarmedNonGovernmentalOrganizedGroup)
-  - (GovernmentMilitia, OJALproGovernmentMilitia)
+  - (proGovernmentMilitia, OJALproGovernmentMilitia)
   - (LinguisticGroup, ArabicLinguisticGroup)
   - (LinguisticGroup, AlgerianArabicLinguisticGroup)
   - (LinguisticGroup, ShenwaLinguisticGroup)
