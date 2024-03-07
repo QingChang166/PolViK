@@ -24,5 +24,7 @@ relations:
   - (Party, mpddParty)
   - (Party, addiParty)
   - (Party, ancParty)
+  - (Party, tguParty)
+  - (Party, ancParty)
   - (armedNonGovernmentalOrganizedGroup, mtdarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, jnimarmedNonGovernmentalOrganizedGroup)
