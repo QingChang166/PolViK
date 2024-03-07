@@ -71,7 +71,7 @@ concepts:
      wikidataQnode: ["Q23023616"]
      yearsActiveasParty: ["1947-present"]
   
-   Party:
+   NRMParty:
      stringTokens: ["National Regeneration Movement"]
      wikidataQnode:  
      yearsActiveasParty: 
