@@ -7,7 +7,6 @@ relations:
   - (EthnicGroup, hadjaraiEthnicGroup)
   - (EthnicGroup, arabEthnicGroup)
   - (Party, csaParty)
-  - (Party, cppParty)
   - (Party, urdParty)
   - (Party, mpsParty)
   - (Party, pptParty)
