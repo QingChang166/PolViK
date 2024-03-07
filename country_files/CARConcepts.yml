@@ -19,6 +19,10 @@ concepts:
    stringTokens: ["Banda Linda", "Banda Bambari", "Linda", "Banda-Bambari Linda"]
    wikidataQnode: ["Q4854293"]
    livesIn: ["Haut-Mbomou", "Ouaka", "Basse-Kotto"]
+  fulaniLinguisticGroup:
+    stringTokens: ["fulani language", "fula language", "adamawa dialect"]
+    wikidataQnode: ["Q33454"]
+    livesIn: ["Ouham Pendé"]
   fulaniEthnicGroup:
    stringTokens: ["Fulani", "Fulani people", "Fula", "Peuhlg"]
    wikidataQnode: ["Q202575"]
@@ -27,6 +31,10 @@ concepts:
    stringTokens: ["Banda-Banda"]
    wikidataQnode: ["Q3450674"]
    livesIn: ["Nana-Gribizi", "Haut-Mbomou", "Mbomou", "Ouaka", "Basse-Kotto", "Ouham", "Ouham Pendé", "Kémo", "Ombella M'Poko"]
+  bandandeLinguisticGroup:
+    stringTokens: []
+    wikidataQnode: []
+    livesIn: []
   yakomaEthnicGroup:
    stringTokens: ["Yakoma", "Yakoma people"]
    wikidataQnode: ["Q1165330"]
@@ -138,6 +146,7 @@ concepts:
    stringTokens: ["Movement for the Liberation of the Congo"]
    yearsActiveasArmedGroup: ["2003-present"]
    wikidataQnode: ["Q144806"]
+
    
 ##politicalparty
   mlpcPoliticalParty:
