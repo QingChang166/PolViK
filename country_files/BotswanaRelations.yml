@@ -9,6 +9,7 @@ relations:
   - (EthnicGroup, YeyiEthnicGroup)
   - (EthnicGroup, MbukushuEthnicGroup)
   - (EthnicGroup, WhiteEthnicGroup)
+  - (EthnicGroup, ShonaEthnicGroup)
   - (Party, BCPParty)
   - (Party, BDPParty)
   - (Party, BIPParty)
