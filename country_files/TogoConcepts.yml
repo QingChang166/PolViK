@@ -82,7 +82,7 @@ concepts:
      stringTokens: ["Union of Chiefs and Peoples of the North"]
      wikidataQnode:  ["Q22115648"]
   
-    Party:
+    tguParty:
      stringTokens: ["Party of Togolese Unity", "Committee of Togolese Unity", "CUT", "PUT"]
      wikidataQnode:  ["Q2985355"]
   
