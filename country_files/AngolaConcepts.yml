@@ -251,6 +251,11 @@ concepts:
      stringTokens: ["National Liberation Front of Angola"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q907051"]
+
+    MPLAarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["MPLA", "People's Movement for the Liberation of Angola"]
+     associatedEthnicGroup: ["Ambundu"]
+     wikidataQnode: ["Q28551"]
   
  ## ProGovernment Militia
       
