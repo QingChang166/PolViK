@@ -21,6 +21,8 @@ relations:
   - (Party, USFPParty)
   - (Party, PUNSParty)
   - (Party, PFParty)
+  - (Party, PNDParty)
+  - (Party, AAParty)
   - (armedNonGovernmentalOrganizedGroup, PFarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, SJarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, GICMarmedNonGovernmentalOrganizedGroup)
