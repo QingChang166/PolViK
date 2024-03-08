@@ -17,12 +17,12 @@ concepts:
       wikidataQnode: ["Q2533513"]
       religionsMostPracticed: ["Islam", "Christianity", "Indigenous beliefs"]
       livesIn: ["Freetown", "Bombali", "Tonkolili", "Kambia"] 
-    fulaEthnicGroup:
+    fulaEthnicGroup-SierraLeone:
       stringTokens: ["Fula people", "Fula"]
       wikidataQnode: ["Q5507771"]
       religionsMostPracticed: ["Islam"]
       livesIn: ["Port Loko", "Kambia", "Bombali", "Tonkolili", "Koinadugu", "Kono", "Freetown", "Kailahun", "Kenema", "Pujehun"]
-    mandinkaEthnicGroup:
+    mandinkaEthnicGroup-SierraLeone:
       stringTokens: ["Mandinka", "Mandinka people"]
       wikidataQnode: ["Q6748086"]
       religionsMostPracticed: ["Sunni Islam"]
@@ -51,7 +51,7 @@ concepts:
       wikidataQnode: ["Q829604"]
       religionsMostPracticed: ["Islam", "Christianity", "Indigenous beliefs"]
       livesIn: [ "Bombali", "Port Loko", "Tonkolili "]
-    susuEthnicGroup:
+    susuEthnicGroup-SierraLeone:
       stringTokens: ["Susu", "Susu people", "Soso"]
       wikidataQnode: ["Q1479265"]
       religionsMostPracticed: ["Sunni Islam"]
@@ -61,7 +61,7 @@ concepts:
       wikidataQnode: ["Q3160743"]
       religionsMostPracticed: ["Islam"]
       livesIn: ["Falaba", "Kono", "Kambia", "Koinadugu"]
-    kissiEthnicGroup:
+    kissiEthnicGroup-SierraLeone:
       stringTokens: ["Kissi", "Kissi people", "Kisi"]
       wikidataQnode: ["Q1743773"]
       religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
@@ -99,16 +99,16 @@ concepts:
     plpParty:
       stringTokens: ["Peace and Liberation Party"]
       wikidataQnode: ["Q7157487"]
-    pdpParty:
+    pdpParty-SierraLeone:
       stringTokens: ["People's Democratic Party"]
       wikidataQnode: ["Q7165533"]
-    pmdcPoliticalParty:
+    pmdcParty:
       stringTokens: ["People's Movement for Democratic Change", "PMDC"]
       wikidataQnode: ["Q6151267"]
     unppParty:
       stringTokens: ["United National People's Party"]
       wikidataQnode: ["Q7888303"]
-    upParty:
+    upParty-SierraLeone:
       stringTokens: ["Unity Party"]
       wikidataQnode: ["Q55636708"]
     yppParty:
@@ -118,7 +118,7 @@ concepts:
       stringTokens: ["National Alliance Democratic Party"]
       wikidataQnode: ["Q6970284"]
 ###armed groups
-    rufArmedNonGovernmentalOrganizedGroup:
+    rufArmedNonGovernmentalOrganizedGroup-SierraLeone:
       stringTokens: ["Revolutionary United Front", "RUF"]
       wikidataQnode: ["Q1141973"]
       yearsActiveasArmedGroup: ["1991-2002"]
