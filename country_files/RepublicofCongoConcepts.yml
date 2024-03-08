@@ -11,7 +11,7 @@ concepts:
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Brazzaville", "Southern and southwestern regions"]
 
-    tekeEthnicGroup:
+    tekeEthnicGroup-RepublicofCongo:
      stringTokens: ["Teke people", "Bateke"]
      wikidataQnode: ["Q811078"]
      languagesMostSpoken: ["Tele languages"]
