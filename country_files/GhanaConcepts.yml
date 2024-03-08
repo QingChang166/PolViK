@@ -80,11 +80,11 @@ concepts:
      stringTokens: ["National Democratic Congress"]
      wikidataQnode:  ["Q200875"]
   
-    cppParty:
+    cppParty-Ghana:
      stringTokens: ["Convention People's Party"]
      wikidataQnode:  ["Q1129392"]
 
-    nppParty1:
+    npp1Party:
      stringTokens: ["New Patriotic Party"]
      wikidataQnode:  ["Q1148441"]
   
