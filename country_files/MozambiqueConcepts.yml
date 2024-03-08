@@ -57,7 +57,122 @@ concepts:
    languagesMostSpoken: ["Portuguese"]
    religionsMostPracticed: ["Catholicism"]
    livesIn: ["Maputo", "Maputo City", "Gaza"]
-
+#linguisticgroups
+  ChopiLinguisticGroup:
+     stringTokens: ["Chopi"]
+     wikidataQnode: ["Q3437616"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  ChuwabuLinguisticGroup:
+     stringTokens: ["Chuwabu", "Maindo"]
+     wikidataQnode: ["Q5118412"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  DemaLinguisticGroup:
+     stringTokens: ["Dema"]
+     wikidataQnode: ["Q3553423"]
+     livesIn: [""]
+     associatedethnicgroup: ["Vadoma people"]
+  KotiLinguisticGroup:
+     stringTokens: ["Koti"]
+     wikidataQnode: ["Q29930"]
+     livesIn: ["Koti Island", "Angoche", "Nampula Province"]
+     associatedethnicgroup: ["Koti Island and Angoche, Nampula Province"]
+  MakhuwaLinguisticGroup:
+     stringTokens: ["Lolo", "Makua", "Emakhuwa", "Macua", "Makhuwa"]
+     wikidataQnode: ["Q33882"]
+     livesIn: ["Zambezi River", "Nampula Province"]
+     associatedethnicgroup: ["Makua people", "Lolo people"]
+  ManyawaLinguisticGroup:
+     stringTokens: ["Manyawa"]
+     wikidataQnode: ["Q11002622"]
+     livesIn: [""]
+     associatedethnicgroup: ["Manyawa people"]
+  NdauLinguisticGroup:
+     stringTokens: ["Ndau", "Chindau", "Sofala", "Southeast Shona", "Chidanda", "chiNdau", "Ndzawu", "Njao"]
+     wikidataQnode: ["Q13311"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  LomweLinguisticGroup:
+     stringTokens: ["Lomwe", "ELomwe"]
+     wikidataQnode: ["Q35824"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  NathemboLinguisticGroup:
+     stringTokens: ["Nathembo", "Sakati"]
+     wikidataQnode: ["Q11030947"]
+     livesIn: [""]
+     associatedethnicgroup: ["Makua"]
+  NyungweLinguisticGroup:
+     stringTokens: ["Nyungwe"]
+     wikidataQnode: ["Q7071318"]
+     livesIn: ["Tete Province"]
+     associatedethnicgroup: [""]
+  NsengaLinguisticGroup:
+     stringTokens: ["Nsenga", "Cinsenga"]
+     wikidataQnode: ["Q3081996"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  RongaLinguisticGroup:
+     stringTokens: ["Ronga", "XiRonga", "ShiRonga", "GiRonga"]
+     wikidataQnode: ["Q2520717"]
+     livesIn: ["Maputo"]
+     associatedethnicgroup: [""]
+  SenaLinguisticGroup:
+     stringTokens: ["Sena", "Chibarwe", "Mabarwe", "Manyika Chibarwe"]
+     wikidataQnode: ["Q2964008"]
+     livesIn: [""]
+     associatedethnicgroup: ["Sena people"]
+  MakhuwaLinguisticGroup:
+     stringTokens: ["Makhuwa", "Emakhuwa", "Macua", "Makua"]
+     wikidataQnode: ["Q33882"]
+     livesIn: ["Zambezi River", "Nampula Province"]
+     associatedethnicgroup: ["Makua people"]
+  TongaLinguisticGroup:
+     stringTokens: [""]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  TongaLinguisticGroup:
+     stringTokens: ["Tonga", "Gitonga", "Gitonga", "Xitonga"]
+     wikidataQnode: ["Q7820988"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  TswaLinguisticGroup:
+     stringTokens: ["Tswa", "Xitswa"]
+     wikidataQnode: ["Q2085051"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  TawaraLinguisticGroup:
+     stringTokens: ["Tawara"]
+     wikidataQnode: ["Q3553459"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  TeweLinguisticGroup:
+     stringTokens: ["Tewe"]
+     wikidataQnode: ["Q3832970"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+  MarenjeLinguisticGroup:
+     stringTokens: ["Marenje"]
+     wikidataQnode: ["Q11128833"]
+     livesIn: [""]
+     associatedethnicgroup: ["Marenje people"]
+  MwaniLinguisticGroup:
+     stringTokens: ["Mwani", "Kimwani]
+     wikidataQnode: ["Q3042206"]
+     livesIn: ["Cabo Delgado Province"]
+     associatedethnicgroup: ["Mwani people"]
+  XingoniLinguisticGroup:
+     stringTokens: ["Xingoni", "Ngoni", "Chingoni"]
+     wikidataQnode: ["Q7022547"]
+     livesIn: ["Cabo Delgado", "Niassa"]
+     associatedethnicgroup: ["Ngoni people"]
+  MakweLinguisticGroup:
+     stringTokens: ["Makwe", "Macue"]
+     wikidataQnode: ["Q6740513"]
+     livesIn: ["Cabo Delgado Province", "Mtwara Region"]
+     associatedethnicgroup: [""]
 #Parties
   frelinoParty:
    stringTokens: ["Liberation Front of Mozambique", "Frente de Libertação de Moçambique", "FRELINO", "MNR", "RNM"]
