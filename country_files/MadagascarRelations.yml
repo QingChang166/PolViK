@@ -16,4 +16,4 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, SARarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, SDRarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, SMRarmedNonGovernmentalOrganizedGroup)
-  - (GovernmentMilitia, YAproGovernmentMilitia)
+  - (proGovernmentMilitia, YAproGovernmentMilitia)
