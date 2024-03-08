@@ -319,7 +319,7 @@ concepts:
    associatedEthnicGroup: []
    regionsMostActive: ["Puntland"]
    yearsActiveasArmed: ["1998-2017"]
-  aswjAmredGroup:
+  aswjarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ASWJ", "Ahlu-Sunah Wal-Jamea", "hlu Sunna Waljama'a"]
    associatedEthnicGroup: []
    regionsMostActive: ["Galmudug"]
