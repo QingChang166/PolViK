@@ -32,4 +32,4 @@ relations:
   - (ArmedNonGovernmentalOrganizedGroup, mpigoArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, mjpArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, flgoArmedNonGovernmentalOrganizedGroup)
-  - (GovernmentMilitia, cojepproGovernmentMilitia)
+  - (proGovernmentMilitia, cojepproGovernmentMilitia)
