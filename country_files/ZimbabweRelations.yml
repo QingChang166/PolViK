@@ -53,5 +53,5 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, TopSixarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ZNLWVAarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, NYSarmedNonGovernmentalOrganizedGroup)
-  - (MilitiaarmedNonGovernmentalOrganizedGroup, ZANUPFMilitiaarmedNonGovernmentalOrganizedGroup)
-  - (MilitiaarmedNonGovernmentalOrganizedGroup, PeoplesMilitiaarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, ZANUPFMilitiaarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, PeoplesMilitiaarmedNonGovernmentalOrganizedGroup)
