@@ -118,6 +118,10 @@ concepts:
      stringTokens: ["Alliance of Democrats for Integral Development"]
      wikidataQnode:  ["Q4732444"]
 
+    cutParty:
+      stringTokens: ["CUT", "Party of Togolese Unity"]
+      wikidataQnode: ["Q2985355"]
+
  ## armed groups
     mtdarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Togolese Movement for Democracy", "Mouvement Togolais pour la Democratie", "MTD"]
