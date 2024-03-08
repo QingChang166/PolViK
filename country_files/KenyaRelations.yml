@@ -22,4 +22,4 @@ relations:
   - (Party, JubileeParty)
   - (Party, UDAParty)
   - (armedNonGovernmentalOrganizedGroup, MRCarmedNonGovernmentalOrganizedGroup)
-  - (TransnationalarmedNonGovernmentalOrganizedGroup, AlShabaabTransnationalarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, AlShabaabTransnationalarmedNonGovernmentalOrganizedGroup)
