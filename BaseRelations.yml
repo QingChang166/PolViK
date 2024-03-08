@@ -45,7 +45,7 @@ relations:  # parent concept, child concept, tuples
     - (organizedGroup, governmentGroup)
     - (organizedGroup, religiousGroup)
     - (organizedGroup, party)
-    - (politicalParties, partiesInPower)
+    - (party, partiesInPower)
     - (politicalParties, partiesOutOfPower)
     - (governmentGroup, nationalAdministrativeGovernment)
     - (governmentGroup, subNationalAdministrativeGovernment)
