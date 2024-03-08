@@ -38,7 +38,56 @@ concepts:
      languagesMostSpoken: ["Tumbuka"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Rumpi", "Chitipa", "Karonga", "Nhata", "Isoka", "Mzimba", "Chama"]
-    
+
+  ## linguisticgroups
+   LambyaLinguisticGroup:
+     stringTokens: ["Lambya", "ChiLambya", "Chilambya]
+     wikidataQnode: ["Q6481626"]
+     livesIn: [""]
+     associatedethnicgroup: ["Lambya people"]
+
+   MalawiLomweLinguisticGroup:
+     stringTokens: ["Malawi Lomwe"]
+     wikidataQnode: ["Q10975286"]
+     livesIn: ["Mulanje", "Thyolo"]
+     associatedethnicgroup: ["Lomwe people"]
+   
+   NyikaLinguisticGroup:
+     stringTokens: ["Nyika"]
+     wikidataQnode: ["Q16917497"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   ChewaLinguisticGroup:
+     stringTokens: ["Chewa", "Chichewa", "Nyanja", "ny", "Chinyanja"]
+     wikidataQnode: ["Q33273"]
+     livesIn: [""]
+     associatedethnicgroup: ["Chewa people"]
+
+   SenaLinguisticGroup:
+     stringTokens: ["Sena", "Chibarwe", "Mabarwe"]
+     wikidataQnode: ["Q2964008"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   TongaLinguisticGroup:
+     stringTokens: ["Tonga", "Chitonga"]
+     wikidataQnode: ["Q3847648"]
+     livesIn: ["Nkhata Bay District"]
+     associatedethnicgroup: [""]
+
+   TumbukaLinguisticGroup:
+     stringTokens: ["Tumbuka", "chiTumbuka", "tum"]
+     wikidataQnode: ["Q34138"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   YaoLinguisticGroup:
+     stringTokens: ["Yao"]
+     wikidataQnode: ["Q36902"]
+     livesIn: [""]
+     associatedethnicgroup: ["Yao people"]
+
   ## politicalparties
    MCPParty:
      stringTokens: ["Malawi Congress Party"]
