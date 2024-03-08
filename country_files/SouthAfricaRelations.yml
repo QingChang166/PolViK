@@ -31,7 +31,6 @@ relations:
   - (Party, DRPParty)
   - (Party, DominionParty)
   - (Party, EFFParty)
-  - (Party, PFPSAParty
   - (Party, GNPParty)
   - (Party, HNPParty)
   - (Party, IDParty)
