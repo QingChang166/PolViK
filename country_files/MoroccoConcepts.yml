@@ -121,7 +121,7 @@ concepts:
    wikidataQnode: ["Q1255232"]
    yearsActiveasParty: ["1967-present"] #split from Populat Movement
   
-  PNDParty:
+  PNDParty-Morocco:
    stringTokens: ["National Democratic Party", "Parti national-démocrate"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3366434"]
