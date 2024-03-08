@@ -73,6 +73,7 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, WitdoekearmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, UDFarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, BCMarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, cotedaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, CATAarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, WebtaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, LagunyaarmedNonGovernmentalOrganizedGroup)
