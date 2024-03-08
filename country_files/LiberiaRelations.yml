@@ -55,4 +55,4 @@ relations:
   - (ArmedNonGovernmentalOrganizedGroup, lpcArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, ldfArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, rufArmedNonGovernmentalOrganizedGroup)
-  - (ParamilitaryNonGovernmentalOrganizedGroup, AtuproGovernmentMilitia)
+  - (proGovernmentMilitia, AtuproGovernmentMilitia)
