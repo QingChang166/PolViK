@@ -53,13 +53,13 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, NDPVFarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, NDVarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, OPCarmedNonGovernmentalOrganizedGroup)
-  - (MilitantarmedNonGovernmentalOrganizedGroup, FulaniMilitantarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, FulaniMilitantarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, IPOBarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, OPCarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, JRCarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, IMNarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, BakassiarmedNonGovernmentalOrganizedGroup)
-  - (TransnationalarmedNonGovernmentalOrganizedGroup, AnsaruTransnationalarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, AnsaruTransnationalarmedNonGovernmentalOrganizedGroup)
 ###NEED ceoncept name not string name
 ##connect parents to children
 ##we are encoding "is a" relations not "related" relations so don't worry about political parties that are also armed groups, treat them as two seperate entities
