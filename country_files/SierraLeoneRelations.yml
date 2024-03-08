@@ -30,7 +30,7 @@ relations:
   - (Party, yppParty)
   - (Party, nadpParty)
   - (Party, PmdcPoliticalParty)
-  - (Party, CdfproGovernmentMilitia)
+  - (proGovernmentMilitia, CdfproGovernmentMilitia)
   - (ArmedNonGovernmentalOrganizedGroup, rufArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, afrcArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, wsbArmedNonGovernmentalOrganizedGroup)
