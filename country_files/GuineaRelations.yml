@@ -31,5 +31,5 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, LDFarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ULIMOKarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, RUFarmedNonGovernmentalOrganizedGroup)
-  - (GovernmentMilitia, CamaraproGovernmentMilitia)
-  - (GovernmentMilitia, DonzosproGovernmentMilitia)
+  - (proGovernmentMilitia, CamaraproGovernmentMilitia)
+  - (proGovernmentMilitia, DonzosproGovernmentMilitia)
