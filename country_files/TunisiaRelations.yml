@@ -27,4 +27,4 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, TARarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ASTarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, alQaedaarmedNonGovernmentalOrganizedGroup)
-  - (GovernmentMilitia, LPRproGovernmentMilitia)
+  - (proGovernmentMilitia, LPRproGovernmentMilitia)
