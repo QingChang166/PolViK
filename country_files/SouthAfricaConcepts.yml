@@ -31,7 +31,7 @@ concepts:
     religionsMostPracticed: ["Christianity", "African traditional religion"]
     livesIn: ["Limpopo", "Gauteng", "Mpumalanga"]
   
-  AfrikanersEthnicGroup:
+  AfrikanersEthnicGroup-SouthAfrica:
     stringTokens: ["Afrikaners", "Afrikaner", "Afrikaner people", "Afrikander", "Boers"]
     wikidataQnode: ["Q385799"]
     languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
@@ -421,12 +421,82 @@ concepts:
    yearsActiveasParty: ["1994-present"]
 
 ##Armed groups
-
-
-  
-  
-  
-  
+ SWAPOarmedNonGovernmentalOrganizedGroup-SouthAfrica:
+  stringTokens: ["SWAPO", "South West Africa People's Organisation"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: ["Q467711"]
+ MKarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["MK", "uMkhonto we Sizwe", "Spear of the Nation"]
+  associatedEthnicGroup: [""]
+  yearsActive: ["1961-1993"]
+  wikidataQnode: ["Q1136236"]
+ BBBarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["BBB", "Blanke Bevrydingsbewegin"]
+  associatedEthnicGroup: ["whiteEthnicGroup", "afrikaansEthnicGroup-SouthAfrica"]
+  wikidataQnode: ["Q15980788"]
+ SAYRCOarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["SAYRCO", "South African Youth Revolutionary Council"]
+  wikidataQnode: ["Q7565816"]
+BoeremagarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["Boeremag"]
+  associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
+  wikidataQnode: ["Q1130353"]
+AWBarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["AWB", "Afrikaner Weerstandsbeweging", "Afrikaner Resistance Movement"]
+  associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
+  wikidataQnode: ["Q385873"]
+OVDarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["Orde van die Dood", "OVD", "Order of the Dead"]
+  associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
+  wikidataQnode: ["Q7100374"]
+APLAarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["Azanian People's Liberation Army", "APLA", "Poqo"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: ["Q3643845"]
+AZANLAarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["Azanian National Liberation Army", "AZANLA"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: [""]
+KabasaarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["kabasa"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: [""]
+RAarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["RA"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: [""]
+WitdoekearmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["witdoeke", "white armed bands"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: ["Q2586470"]
+UDFarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["UDF", "United Democratic Front"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: ["Q1529503"]
+BCMarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["BCM", "Black Consciousness Movement"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: ["Q880194"]
+cotedaarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["coteda", "Cape Organisation for the Democratic Taxi Association"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: ["Q110800315"]
+CATAarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["CATA", "Cape Amalgamated Taxi Association"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: [""]
+WebtaarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["Western Cape Black Taxi Association", "Webta"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: [""]
+LagunyaarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["lagunya"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: [""]
+NUMarmedNonGovernmentalOrganizedGroup:
+  stringTokens: ["NUM", "National Union of Mineworkers"]
+  associatedEthnicGroup: [""]
+  wikidataQnode: ["Q2485877"]
   
   
   
