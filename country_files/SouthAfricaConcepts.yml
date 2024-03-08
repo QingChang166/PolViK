@@ -211,7 +211,7 @@ concepts:
    yearsActiveasParty: ["1982-2004"]
   
   DAParty:
-   stringTokens: ["Democratic Alliance", "Demokratiese Alliansie", "DA"]
+   stringTokens: ["Democratic Alliance", "Demokratiese Alliansie", "DA", "DF"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q761877"]
    yearsActiveasParty: ["2000-present"]
@@ -396,7 +396,7 @@ concepts:
    wikidataQnode: ["Q1473242"]
    yearsActiveasParty: ["1911-1934"]
   
-  UPParty1:
+  UP1Party:
    stringTokens: ["Unionist Party", "Unioniste Party", "UP"]
    associatedEthnicGroup: ["White"] 
    wikidataQnode: ["Q2403816"]
@@ -408,7 +408,7 @@ concepts:
    wikidataQnode: ["Q1788070"]
    yearsActiveasParty: ["1997-present"]
   
-  UPParty2:
+  UP2Party:
    stringTokens: ["United Party", "United South African National Party", "Verenigde Party", "Verenigde Suid-Afrikaanse Nasionale Party"]
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q1812146"]
@@ -419,9 +419,10 @@ concepts:
    associatedEthnicGroup: ["Afrikaners", "Afrikaans-speaking Coloureds"] 
    wikidataQnode: ["Q510163"]
    yearsActiveasParty: ["1994-present"]
- 
-  
-  
+
+##Armed groups
+
+
   
   
   
