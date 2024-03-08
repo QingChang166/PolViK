@@ -132,7 +132,7 @@ concepts:
      wikidataQnode: ["Q2496137"]
      yearsActiveasParty: ["1994-present"]
   
-   SWAPOarmedNonGovernmentalOrganizedGroup:
+   SWAPOarmedNonGovernmentalOrganizedGroup-Namibia:
      stringTokens: ["South West Africa People's Organisation", "SWAPO"]
      associatedEthnicGroup: ["Ovambo people"]
      wikidataQnode: ["Q467711"]
