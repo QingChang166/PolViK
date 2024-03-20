@@ -1549,66 +1549,82 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "Yu-p'i", "Ke-tching", "Ke-tchen", "Ketching", "Ketchen", "Gaiqing", "Kai-ching", "Kai-ch'ing", "Yu-pi-ta-se", "Yupi Tase"]
     wikidataID: ["Q504574"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   choctawEthnicGroup:
     stringTokens: ["Choctaw", "Choctaw Freedmen"]
     wikidataID: ["Q8364403"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   chokweEthnicGroup:
     stringTokens: ["Chokwe", "Tchokwe", "Ciokwe", "Cokwe", "Bajokwe", "Badjok", "Quioco"]
     wikidataID: ["Q1075883"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["enlgishlinguisticGroup", "portugeselinguisticGroup", "frenchlinguisticGroup"]
   choRoEthnicGroup:
     stringTokens: ["Cho Ro"]
     wikidataID: ["Q4468164"]
     religionsMostPracticed: ["animismReligion", "thervadaReligion"]
+    languagesMostSpoken: ["vietnameselinguisticGroup"]
   chuanqingEthnicGroup:
     stringTokens: ["Chuanqing"]
     wikidataID: ["Q5115220"]
     religionsMostPracticed: ["buddhismReligion", "taoismReligion", "confucianismReligion", "christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   chukchisEthnicGroup:
     stringTokens: ["Chukchi", "chukchee"]
     wikidataID: ["Q106991"]
     religionsMostPracticed: ["shamanismReligion", "russianOrthodox"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   chulymsEthnicGroup:
     stringTokens: ["Chulyms"]
     wikidataID: ["Q32736432"]
     religionsMostPracticed: ["russianOrthodox", "shamanismReligion", "muslimReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   chumashEthnicGroup:
     stringTokens: ["Chumash"]
     wikidataID: ["Q24251468"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "spanishlinguisticGroup"]
   chutiyaEthnicGroup:
     stringTokens: ["Chutiya", "Deori", "sutia", "chutia"]
     wikidataID: ["Q25682200"]
     religionsMostPracticed: ["hinduismReligion"]
+    languagesMostSpoken: [""]
   chuukeseEthnicGroup:
     stringTokens: ["Chuukese"]
     wikidataID: ["Q1568155"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "mormonReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   chuvansEthnicGroup:
     stringTokens: ["Chuvans"]
     wikidataID: ["Q1945649"]
     religionsMostPracticed: ["russianOrthodox"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   chuvashEthnicGroup:
     stringTokens: ["Chuvash", "Virjal", "Anatri"]
     wikidataID: ["Q253410"]
     religionsMostPracticed: ["russianOrthodox", "sunniReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   cintaLargaEthnicGroup:
     stringTokens: ["Cinta Larga"]
     wikidataID: ["Q1092569"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   circassiansEthnicGroup:
     stringTokens: ["Circassians", "Abzakhs", "Adygeans", "Besleneys", "Bzhedugs", "Chemirgoys", "Cherkess", "Kabardians", "Natukhajs", "Shapsugs", "Ubykhs", "Hatuqways"]
      wikidataID: ["Q8556754"]
     religionsMostPracticed: ["sunniReligion", "orthodoxReligion"]
+    languagesMostSpoken: ["arabiclinguisticGroup", "turkishlinguisticGroup", "russianlinguisticGroup"]
   cireboneseEthnicGroup:
     stringTokens: ["Cirebonese"]
     wikidataID: ["Q2608045"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["indonesianlinguisticGroup", "javaneselinguisticGroup"]
   cocopahEthnicGroup:
     stringTokens: ["Cocopah"]
     wikidataID: ["Q165320"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup", "spanishlinguisticGroup"]
   cofanEthnicGroup:
     stringTokens: ["Cofan", "kofani"]
     wikidataID: ["Q966714"]
