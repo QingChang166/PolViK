@@ -1629,62 +1629,77 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Cofan", "kofani"]
     wikidataID: ["Q966714"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   cookIslandersEthnicGroup:
     stringTokens: ["Cook Islanders"]
     wikidataID: ["Q3287203"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   comancheEthnicGroup:
     stringTokens: ["Comanche"]
     wikidataID: ["Q8391174"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   comoriansEthnicGroup:
     stringTokens: ["Comorians", "Grande Comorians", "Anjouans", "Mohélians", "Maorais", "comoran"]
     wikidataID: ["Q97135168"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["arabiclinguisticGroup", "frenchlinguisticGroup"]
   confederadosEthnicGroup:
     stringTokens: ["Confederados"]
     wikidataID: ["Q2347579"]
     religionsMostPracticed: ["protestantReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "portugeselinguisticGroup"]
   coptsEthnicGroup:
     stringTokens: ["Copts"]
     wikidataID: ["Q146744"]
     religionsMostPracticed: ["catholicReligion", "copticOrthodox"]
+    languagesMostSpoken: ["arabiclinguisticGroup", "egyptianArabiclinguisticGroup"]
   cornishEthnicGroup:
     stringTokens: ["Cornish"]
     wikidataID: ["Q222175"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   corsicansEthnicGroup:
     stringTokens: ["Corsicans", "Corsican Americans", "Corsican Puerto Ricans"]
     wikidataID: ["Q509590"]
     religionsMostPracticed: ["catholicReligion", "orthodoxReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup", "italianlinguisticGroup"]
   coushattaEthnicGroup:
     stringTokens: ["Coushatta"]
     wikidataID: ["Q494699"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup", "spanishlinguisticGroup"]
   creeEthnicGroup:
     stringTokens: ["Cree", "James Bay Cree", "Moose Cree", "Swampy Cree", "Woodland Cree", "Papaschase"]
     wikidataID: ["Q9955102"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup"]
   crimeanTatarsEthnicGroup:
     stringTokens: ["Crimean Tatars", "Steppe Tatars", "Mountain Tatars"]
     wikidataID: ["Q117458"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["turkishlinguisticGroup", "russianlinguisticGroup"]
   croatsEthnicGroup:
     stringTokens: ["Croats", "Bunjevci", "Krashovani", "Janjevci", "Šokci", "Bosnian Croats", "Croat Muslims"]
     wikidataID: ["Q167420"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: [""]
   crowEthnicGroup:
     stringTokens: ["Crow", "Apsaalooke"]
     wikidataID: ["Q331789"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   czechoslovaksEthnicGroup:
     stringTokens: ["Czechoslovaks"]
     wikidataID: ["Q91075059"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["germanlinguisticGroup"]
   czechsEthnicGroup:
     stringTokens: ["Czechs", "Bohemians", "Chodové"]
     wikidataID: ["Q170217"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: [""]
   dagaabaEthnicGroup:
     stringTokens: ["Dagaaba", "Dagara", "Dagari", "Dagaba", "Dagarti", "LoDagaa", "LoDagaba"]
     wikidataID: ["Q1157179"]
