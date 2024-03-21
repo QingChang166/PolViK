@@ -1832,7 +1832,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   esanEthnicGroup:
     stringTokens: ["Esan", "Esa", "Ewu", "Isa", "Isan", "Ison", "Ishan", "Anwain"]
     wikidataID: ["Q3732778"]
-    religionsMostPracticed: ["christianReligion""]
+    religionsMostPracticed: ["christianReligion"]
   estoniansEthnicGroup:
     stringTokens: ["Estonians", "Setos", "Võros", "Hiiumaans", "Saaremaans", "Ludza Estonians", "Gauja Estonians"]
     wikidataID: ["Q173302"]
