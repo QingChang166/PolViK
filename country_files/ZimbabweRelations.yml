@@ -55,3 +55,12 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, NYSarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ZANUPFMilitiaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, PeoplesMilitiaarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, DombeLinguisticGroup)
+  - (LinguisticGroup, KalangaLinguisticGroup)
+  - (LinguisticGroup, KundaLinguisticGroup)
+  - (LinguisticGroup, ManyikaLinguisticGroup)
+  - (LinguisticGroup, NambyaLinguisticGroup)
+  - (LinguisticGroup, ShonaLinguisticGroup)
+  - (LinguisticGroup, NdebeleLinguisticGroup)
+
+
