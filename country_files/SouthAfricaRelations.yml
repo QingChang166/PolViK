@@ -78,3 +78,25 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, WebtaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, LagunyaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, NUMarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, CamthoLinguisticGroup)
+  - (LinguisticGroup, FanagaloLinguisticGroup)
+  - (LinguisticGroup, AfrikaansLinguisticGroup)
+  - (LinguisticGroup, KoranaLinguisticGroup)
+  - (LinguisticGroup, NorthernSothoLinguisticGroup)
+  - (LinguisticGroup, OorlamsCreoleLinguisticGroup)
+  - (LinguisticGroup, TsongaLinguisticGroup)
+  - (LinguisticGroup, VendaLinguisticGroup)
+  - (LinguisticGroup, XhosaLinguisticGroup)
+  - (LinguisticGroup, ZuluLinguisticGroup)
+  - (LinguisticGroup, NdebeleLinguisticGroup)
+
+
+
+
+
+
+
+
+
+
+
