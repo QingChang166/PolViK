@@ -15,3 +15,10 @@ relations:
   - (Party, PPParty)
   - (Party, NACParty)
   - (Party, UTMParty)
+  - (LinguisticGroup, LambyaLinguisticGroup)
+  - (LinguisticGroup, MalawiLomweLinguisticGroup)
+  - (LinguisticGroup, NyikaLinguisticGroup)
+  - (LinguisticGroup, ChewaLinguisticGroup)
+  - (LinguisticGroup, TumbukaLinguisticGroup)
+  - (LinguisticGroup, YaoLinguisticGroup)
+
