@@ -21,4 +21,5 @@ relations:
   - (LinguisticGroup, ChewaLinguisticGroup)
   - (LinguisticGroup, TumbukaLinguisticGroup)
   - (LinguisticGroup, YaoLinguisticGroup)
-
+  - (LinguisticGroup, SenaLinguisticGroup)
+  - (LinguisticGroup, TongaLinguisticGroup)
