@@ -16,3 +16,40 @@ relations:
   - (Party, FDDParty)
   - (Party, NAREPParty)
   - (Party, ZANCParty)
+  - (LinguisticGroup, AushiLinguisticGroup)
+  - (LinguisticGroup, BembaLinguisticGroup)
+  - (LinguisticGroup, BwileLinguisticGroup)
+  - (LinguisticGroup, IlaLinguisticGroup)
+  - (LinguisticGroup, KaondeLinguisticGroup)
+  - (LinguisticGroup, LambaLinguisticGroup)
+  - (LinguisticGroup, Lala-BisaLinguisticGroup)
+  - (LinguisticGroup, LenjeLinguisticGroup)
+  - (LinguisticGroup, LoziLinguisticGroup)
+  - (LinguisticGroup, LuvaleLinguisticGroup)
+  - (LinguisticGroup, LundaLinguisticGroup)
+  - (LinguisticGroup, LuyanaLinguisticGroup)
+  - (LinguisticGroup, Mambwe-LunguLinguisticGroup)
+  - (LinguisticGroup, MashiLinguisticGroup)
+  - (LinguisticGroup, NyamwangaLinguisticGroup)
+  - (LinguisticGroup, MboweLinguisticGroup)
+  - (LinguisticGroup, NkoyaLinguisticGroup)
+  - (LinguisticGroup, SoliLinguisticGroup)
+  - (LinguisticGroup, SimaaLinguisticGroup)
+  - (LinguisticGroup, SettlaLinguisticGroup)
+  - (LinguisticGroup, TotelaLinguisticGroup)
+  - (LinguisticGroup, NsengaLinguisticGroup)
+  - (LinguisticGroup, TongaLinguisticGroup)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
