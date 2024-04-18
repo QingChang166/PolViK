@@ -46,7 +46,7 @@ concepts:
      religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["Saint-Denis"]
 
-   ## linguisticgroups
+  ## linguisticgroups
    RéunionCreoleLinguisticGroup:
      stringTokens: ["Réunion Creole", "Reunionese Creole", "Réunion Creole French", "Kréol Réyoné", "Créole Réunionnais", "Reunion Creole", "Reunion Creole French", "Kreol Reyone", "Creole Reunionnais"]
      wikidataQnode: ["Q13198"]
