@@ -31,6 +31,13 @@ concepts:
      languagesMostSpoken: ["Balanta"]
      religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["Praia"]
+
+  ##linguisticgroups
+   KabuverdianuLinguisticGroup:
+    stringTokens: ["Kabuverdianu", "Cape Verdean Creole", "Kriolu"]
+    wikidataQnode: ["Q35963"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
     
   ## politicalparties
    DCPParty:
