@@ -52,6 +52,13 @@ concepts:
     languagesMostSpoken: ["French", "Creole"]
     religionsMostPracticed: ["Catholicism"]
     livesIn: ["Port Louis", "Rivière Noire", "Moka", "Pamplemousses", "Plaines Wilhems"]
+
+## linguisticgroups
+   MauritianCreoleLinguisticGroup:
+     stringTokens: ["Mauritian Creole", "Morisien", "Morisyen", "Mauritian", "kreol morisyen", "kreol morisien"]
+     wikidataQnode: ["Q33661"]
+     livesIn: [""]
+     associatedethnicgrouo: ["Mauritian Creoles"]
   
 ##PoliticalParties
 
