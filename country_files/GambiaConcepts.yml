@@ -80,6 +80,49 @@ concepts:
      languagesMostSpoken: ["Soninke"]
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Basse"]
+ 
+ ## LinguisticGroups
+  WolofLinguisticGroup:
+    stringTokens: ["Wolof"]
+    wikidataQnode: ["Q34257"]
+    livesIn: ["Banjul"]
+    associatedethnicgroup: ["Wolof"]
+
+  JolaFonyiLinguisticGroup:
+    stringTokens: ["Jola-Fonyi", "Jola"]
+    wikidataQnode: ["Q3507832"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+
+   PulaarLinguisticGroup:
+    stringTokens: ["Pulaar", "Fula"]
+    wikidataQnode: ["Q1420205"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+
+   SererLinguisticGroup:
+     stringTokens: ["Serer-Sine", "Serer"]
+     wikidataQnode: ["Q36284"]
+     livesIn: [""]
+     associatedethnicgroup: ["Serer people"]
+
+   MandinkaLinguisticGroup:
+     stringTokens: ["Mandinka", "Mandingo"]
+     wikidataQnode: ["Q33678"]
+     livesIn: [""]
+     associatedethnicgroup: ["Mandinka"]
+
+   KassonkeLinguisticGroup:
+     stringTokens: ["Kassonke", "Xaasongaxango", "Western Maninka", "Malinke"]
+     wikidataQnode: ["Q36905"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   ManjakLinguisticGroup:
+     stringTokens: ["Manjak", "Manjack", "Njak", "Kanyop"]
+     wikidataQnode: ["Q35822"]
+     livesIn: [""]
+     associatedethnicgroup: ["Manjack"]
     
   ## politicalparties
     udpParty:
