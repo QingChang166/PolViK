@@ -9,7 +9,37 @@ concepts:
    languagesMostSpoken: ["Somali"] ## also known as Af-Soomaali, Wadaad, Osmanya
    religionsMostPracticed: ["Sunni Islam"]
    livesIn: ["Galmudug", "Hirshabelle", "Hirshabelle", "Jubaland", "Puntland", "South West", "Somaliland"]
-
+#linguisticgroups
+  DabarreLinguisticGroup: 
+   stringTokens: ["Dabarre"]
+   wikidataQnode: ["Q3447286"]
+   livesIn: ["Bay", "Lower Shabelle", "Middle Juba"]
+   associatedethnicgroup: ["Dabarre", "Ciroole", "Somalis"]
+  JiidduLinguisticGroup: 
+   stringTokens: ["Jiiddu", "Jiddu", "Af-Jiiddu"]
+   wikidataQnode: ["Q56769"]
+   livesIn: ["Lower Shabelle", "Bay", "Middle Juba"]
+   associatedethnicgroup: ["Dir", "Somalis"]
+  SomaliLinguisticGroup: 
+   stringTokens: ["Somali"]
+   wikidataQnode: ["Q13275"]
+   livesIn: [""]
+   associatedethnicgroup: ["Somalis"]
+  TunniLinguisticGroup: 
+   stringTokens: ["Tunni", "Af-Tunni"]
+   wikidataQnode: ["Q3514343"]
+   livesIn: ["Lower Shabelle", "Middle Juba"]
+   associatedethnicgroup: ["Tunni Somalis"]
+  ZigulaLinguisticGroup: 
+   stringTokens: ["Zigula", "Zigua", "Mushunguli"]
+   wikidataQnode: ["Q37010"]
+   livesIn: ["Jamaame", "Kismayo", "Mogadishu", "Juba River valley"]
+   associatedethnicgroup: ["Zigula", "Mushungulu"]
+  MaayLinguisticGroup: 
+   stringTokens: ["Maay Maay", "Maay", "Mai-Mai"]
+   wikidataQnode: ["Q36221"]
+   livesIn: ["Jubaland", "Banadir", "South West"]
+   associatedethnicgroup: [""]
 #politicalparties from wikipidia. If cant find dates, but states they are present I code from the 2020 election to present
   cadiParty:
    stringTokens: ["CAHDİ Party", "Justice and Development of Democracy and Self-Respectfulness Party", "Cadalada, Horumarinta, Dimuqradiyada Iyo Isqadarinta"]
