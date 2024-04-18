@@ -3,7 +3,7 @@ concepts:
     stringTokens: ["Egyptian Armed Forces", "Egyptian military", "military of Egypt", "mil Egypt", "alquwwat almusalahat almisria", "Supreme Council of the Armed Forces", "SCAF", "SSIS"]
     wikidataQnode: ["Q1075553"]
 
-##EthnicGroups
+ #EthnicGroups
   MuslimsArabEthnicGroup:
     tringTokens: ["Arabs", "Arab people", "Shukriya", "Shuwa", "Sukriya", "Arab", "the Arabs"]
     wikidataQnode: ["Q35323"]
@@ -16,6 +16,43 @@ concepts:
     languagesMostSpoken: ["Arabic", "Coptic"]
     religionsMostPracticed: ["Coptic Christianity", "Christianity"]
     livesIn: ["Beni Suef", "Cairo", "Giza", "New Valley", "Suhag"] 
+
+ #LinguisticGroups
+  BejaLinguisticGroup:
+    stringTokens: ["Beja", "Bedawiyet", "Ti-Bedauye", "Ti-Bedaauye", "Tu-Bedawie", "To-Bedawye", "Bedja", "Bedawiye", "Bedawi", "Bedwi", "Bedya", "Bedauye", "Badāwīyä", "Bidhaawyeet", "Tu-Bdhaawi", "bej", "Beja language"]
+    wikidataQnode: ["Q33025"]
+    livesIn: ["Red Sea"]
+    associatedethnicgroup: ["Beja people"]
+  NorthwestArabianArabicLinguisticGroup:
+    stringTokens: ["Eastern Egyptian Bedawi Arabic", "Bedawi Arabic", "Northwest Arabian Arabic", "Levantine Bedawi Arabic", "Eastern Egyptian Bedawi Arabic"]
+    wikidataQnode: ["Q56714"]
+    livesIn: [""]
+    associatedethnicgroup: ["Copts"]
+  MattokkiLinguisticGroup:
+    stringTokens: ["Mattokki", "Kenzi", "Kenuzi", "Kunuz", "Mattokki"]
+    wikidataQnode: ["Q20639851"]
+    livesIn: ["Nile River"]
+    associatedethnicgroup: ["Kunuz people", "Kunuz"]
+  EgyptianArabicLinguisticGroup:
+    stringTokens: ["Egyptian Arabic", "Egyptian colloquial language", "Masri", "Colloquial Egyptian"]
+    wikidataQnode: ["Q29919"]
+    livesIn: [""]
+    associatedethnicgroup: ["Egyptians"]
+  Sa’idiArabicLinguisticGroup:
+    stringTokens: ["Sa’idi Arabic", "Saidi Arabic", "Upper Egyptian Arabic"]
+    wikidataQnode: ["Q56592"]
+    livesIn: ["Al Minya Governorate", "Red Sea area", "Cairo area"]
+    associatedethnicgroup: ["Sa’idis"]
+  SiwiLinguisticGroup:
+    stringTokens: ["Siwi", "Siwan", "Siwa Berber"]
+    wikidataQnode: ["Q36814"]
+    livesIn: ["Siwa Oasis", "Qara Oasis", "Al Jaghbub Oasis"]
+    associatedethnicgroup: ["Siwi", "Egyptian Berbers", "Gara"]
+  WesternEgyptianBedawiArabicLinguisticGroup:
+    stringTokens: ["Western Egyptian Bedawi Arabic", "Sahil Maryut Bedouin Arabic"]
+    wikidataQnode: ["Q116044950"]
+    livesIn: ["Alexandria", "Beheira", "Matrouh", "Beni Suef", "Cairo"]
+    associatedethnicgroup: [""]
   
   # Below are less than 5%
   AbazinsEthnicGroup:
