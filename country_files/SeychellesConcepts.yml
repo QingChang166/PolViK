@@ -27,7 +27,7 @@ concepts:
 
   ## linguisticgroups
    SeychelloisCreoleLinguisticGroup:
-     stringTokens: ["Seychellois Creole"]
+     stringTokens: ["Seychellois Creole", "Kreol", "Seselwa Creole French", "Seselwa"]
      wikidataQnode: ["Q34015"]
      livesIn: 
      associatedethnicgroup: ["Seychelles Creole people"]
