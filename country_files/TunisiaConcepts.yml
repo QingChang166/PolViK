@@ -10,6 +10,13 @@ concepts:
      languagesMostSpoken: ["Tunisian Arabic", "Arabic"]
      religionsMostPracticed: ["Islam"]
      livesIn: 
+
+  ## linguisticgroups
+    TunisianarabicLinguisticGroup:
+     stringTokens: ["Arabic", "Tunisian Arabic"]
+     wikidataQnode: ["Q56240"]
+     livesIn: []
+     associatedethnicgroups: ["Arab people"]
     
   ## politicalparties
     NTParty:
