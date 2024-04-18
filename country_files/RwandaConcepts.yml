@@ -12,6 +12,12 @@ concepts:
   twaEthnicGroup: 
    stringTokens: ["Twa","Batwua", "Batwa" ]
    wikidataQnode: ["Q7857394" ]
+##linguisticgroups
+  KinyarwandaLinguisticGroup:
+   stringTokens: ["Kinyarwanda", "Ikinyarwanda", "Rwanda", "Rwandan", "Ruanda", "Nyarwanda"]
+   wikidataQnode: ["Q33573"]
+   livesIn: []
+   associatedethnicgroup: ["Banyarwanda"]
 ##politicalparties
   MRNDParty:
    stringTokens: ["MRND", "National Revolutionary Movement for Developement", "Mouvement Révolutionnaire National pour le Développement"]
