@@ -26,11 +26,35 @@ concepts:
      livesIn: [""]
 
   ## linguisticgroups
-   MauritianCreoleLinguisticGroup:
-     stringTokens: ["Mauritian Creole", "Morisien", "Morisyen", "Mauritian", "kreol morisyen", "kreol morisien"]
-     wikidataQnode: ["Q33661"]
+   HassaniyaArabicLinguisticGroup:
+     stringTokens: ["Hassaniya Arabic", "Hassaniyya"]
+     wikidataQnode: ["Q56231"]
      livesIn: [""]
-     associatedethnicgrouo: ["Mauritian Creoles"]
+     associatedethnicgrouo: ["Arab people"]
+
+   PulaarLinguisticGroup:
+     stringTokens: ["Pulaar", "Fula"]
+     wikidataQnode: ["Q1420205"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fula people", "Toucouleur", "Tukolor"]
+
+   WolofLinguisticGroup:
+     stringTokens: ["Wolof"]
+     wikidataQnode: ["Q34257"]
+     livesIn: [""]
+     associatedethnicgroup: ["Wolof people"]
+    
+   SoninkeLinguisticGroup:
+     stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
+     wikidataQnode: ["Q36660"]
+     livesIn: [""]
+     associatedethnicgrouo: ["Soninke people", "Soninke"]
+
+   ZenagaLinguisticGroup:
+     stringTokens: ["Zenaga"]
+     wikidataQnode: ["Q37005"]
+     livesIn: ["Mederdra"]
+     associatedethnicgrouo: [""]
 
   ## politicalparties
    RFDParty:
