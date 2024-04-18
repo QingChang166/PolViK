@@ -73,6 +73,127 @@ concepts:
      languagesMostSpoken: ["Manding"]
      religionsMostPracticed: ["Islam"]
      livesIn: [""]
+
+  ## linguisticgroups
+    BanyunLinguisticGroup:
+     stringTokens: ["Banyun", "Nyun", "Bainouk", "Baïnouk-gunyaamolo", "Baïnouk Samik", "Baïnouk gunyuño"]
+     wikidataQnode: ["Q2892477"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bainuk people"]
+
+    BayotLinguisticGroup:
+     stringTokens: ["Bayot"]
+     wikidataQnode: ["Q35019"]
+     livesIn: ["Ziguinchor"]
+     associatedethnicgroup: [""]
+
+    BalantaLinguisticGroup:
+     stringTokens: ["Balanta", "Balant", "Balanta-Kentohe"]
+     wikidataQnode: ["Q35006"]
+     livesIn: 
+     associatedethnicgroup: ["Balanta people", "Balanta"]
+
+    BandialLinguisticGroup:
+     stringTokens: ["Bandial", "Banjaal", "Eegima", "Eegimaa"]
+     wikidataQnode: ["Q34872"]
+     livesIn: ["Casamance"]
+     associatedethnicgroup: [""]
+
+    BassariLinguisticGroup:
+     stringTokens: ["Bassari", "Basari", "Oniyan"]
+     wikidataQnode: ["Q35098"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bassari people"]
+
+    LaalaaLinguisticGroup:
+     stringTokens: ["Laalaa", "Lehar"]
+     wikidataQnode: ["Q35564"]
+     livesIn: ["Lehar region", "Thies", "Tambacounda"]
+     associatedethnicgroup: ["Serer-Laalaa", "Serer"]
+
+    WameyLinguisticGroup:
+     stringTokens: ["Wamey", "Konyagi"]
+     wikidataQnode: ["Q36935"]
+     livesIn: [""]
+     associatedethnicgroup: ["Konyagui people"]
+
+    KasaLinguisticGroup:
+     stringTokens: ["Kasa", "Jóola-Kaasa", "Jola-Kasa"]
+     wikidataQnode: ["Q3446622"]
+     livesIn: ["Casamance", "Oussouye"]
+     associatedethnicgroup: [""]
+
+    JolaFonyiLinguisticGroup:
+     stringTokens: ["Jola-Fonyi", "Jola"]
+     wikidataQnode: ["Q3507832"]
+     livesIn: ["Casamance"]
+     associatedethnicgroup: [""]
+
+    PulaarLinguisticGroup:
+     stringTokens: ["Pulaar", "Fula"]
+     wikidataQnode: ["Q1420205"]
+     livesIn: ["Senegal River"]
+     associatedethnicgroup: ["Fula people", "Toucouleur", "Tukolor"]
+
+    PalorLinguisticGroup:
+     stringTokens: ["Palor"]
+     wikidataQnode: ["Q36318"]
+     livesIn: ["Thies"]
+     associatedethnicgroup: ["Serer-Palor"]
+
+    GusilayLinguisticGroup:
+     stringTokens: ["Gusilay", "Gusiilay", "Gusilaay", "Kusiilaay", "Kusilay"]
+     wikidataQnode: ["Q35439"]
+     livesIn: ["Casamance", "Tionk Essil"]
+     associatedethnicgroup: [""]
+
+    Jola-FelupeLinguisticGroup:
+     stringTokens: ["Jola-Felupe", "Kerak", "Feloup", "Felup", "Felupe", "Floup", "Flup", "Fulup", "Ejamat", "Ediamat"]
+     wikidataQnode: ["Q6269820"]
+     livesIn: ["Cacheu", "Ziguinchor", "Casamance"]
+     associatedethnicgroup: [""]
+
+    KaronLinguisticGroup:
+     stringTokens: ["Mlomp", "Gulompaay"]
+     wikidataQnode: ["Q36009"]
+     livesIn: ["Mlomp"]
+     associatedethnicgroup: [""]
+
+    ManinkaLinguisticGroup:
+     stringTokens: ["Maninka"]
+     wikidataQnode: ["Q36186"]
+     livesIn: 
+     associatedethnicgroup: ["Mandinka people"]
+
+    NdutLinguisticGroup:
+     stringTokens: ["Ndut"]
+     wikidataQnode: ["Q36028"]
+     livesIn: ["Biffeche"]
+     associatedethnicgroup: ["Serer-Ndut"]
+
+    SafenLinguisticGroup:
+     stringTokens: ["Safen", "Safene", "Saafen", "Safi", "Saafi-Saafi"]
+     wikidataQnode: ["Q36308"]
+     livesIn: ["Dakar", "Thies"]
+     associatedethnicgroup: ["Saafi people"]
+
+    NoonLinguisticGroup:
+     stringTokens: ["Noon", "Non", "None", "Serer-Noon", "Serer-Non"]
+     wikidataQnode: ["Q36304"]
+     livesIn: ["Thies"]
+     associatedethnicgroup: ["Serer-Noon", "Noon people"]
+
+    SererLinguisticGroup:
+     stringTokens: ["Serer-Sine", "Serer"]
+     wikidataQnode: ["Q36284"]
+     livesIn: [""]
+     associatedethnicgroup: ["Serer people"]
+
+    WolofLinguisticGroup:
+     stringTokens: ["Wolof"]
+     wikidataQnode: ["Q34257"]
+     livesIn: ["Senegambia"]
+     associatedethnicgroup: ["Wolof people"]
     
   ## politicalparties
     afpParty:
