@@ -38,7 +38,13 @@ concepts:
      languagesMostSpoken: ["Beti language"]
      religionsMostPracticed: ["Christianity"]
      livesIn: 
-    
+
+  ## linguisticgroups
+    ForroCreoleLinguisticGroup:
+     stringTokens: ["Forro Creole", "Sãotomense", "Sãotomense creole", "Santomense creole", "Crioulo santomense"]
+     wikidataQnode: ["Q36536"]
+     livesIn: [""]
+
   ## politicalparties
     PCD-GRParty:
      stringTokens: ["Democratic Convergence Party", " Democratic Convergence Party-Reflection Group"]
