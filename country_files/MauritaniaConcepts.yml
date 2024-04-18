@@ -24,7 +24,14 @@ concepts:
      languagesMostSpoken: ["Arabic"]
      religionsMostPracticed: ["Islam"]
      livesIn: [""]
-    
+
+  ## linguisticgroups
+   MauritianCreoleLinguisticGroup:
+     stringTokens: ["Mauritian Creole", "Morisien", "Morisyen", "Mauritian", "kreol morisyen", "kreol morisien"]
+     wikidataQnode: ["Q33661"]
+     livesIn: [""]
+     associatedethnicgrouo: ["Mauritian Creoles"]
+
   ## politicalparties
    RFDParty:
      stringTokens: ["Rally of Democratic Forces", "Assembly of Democratic Forces"]
