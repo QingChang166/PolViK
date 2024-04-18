@@ -98,6 +98,143 @@ concepts:
    languagesMostSpoken: ["Konjo", "Amba"]  ##languages most spoken-- can be blank
    religionsMostPracticed: ["Traditional beliefs"]  ##religions most practiced- can be blank
    livesIn: ["Southwestern Uganda"]  #places in country they live in, comment the geographic unit like ##administrative state  here
+##linguisticgroups
+  KigaLinguisticGroup:
+   stringTokens: ["Kiga language", "Rukiga", "Ruchiga", "Chiga"]  
+   wikidataQnode: ["Q3270727"]  
+   livesIn: ["Kigezi region"]  
+   associatedethnicgroup: ["Kiga people", "Bakiga", "Twa"]
+  GwereLinguisticGroup:
+   stringTokens: ["Gwere language", "Gwere", "Lugwere"]  
+   wikidataQnode: ["Q5623559"]  
+   livesIn: ["Eastern Region"]  
+   associatedethnicgroup: ["Gwere people"]
+  IkLinguisticGroup:
+   stringTokens: ["Ik", "Ik language", "Icetot", "Icietot", "Ngulak", "Teuso", "Teuth"]  
+   wikidataQnode: ["Q35472"]  
+   livesIn: [""]  
+   associatedethnicgroup: ["Ik people"]
+  NubiLinguisticGroup:
+   stringTokens: ["Nubi language"]  
+   wikidataQnode: ["Q36388"]  
+   livesIn: ["Bombo"]  
+   associatedethnicgroup: ["Ugandan Nubians"]
+  KumamLinguisticGroup:
+   stringTokens: ["Kumam dialect", "Kumam]  
+   wikidataQnode: ["Q6443410"]  
+   livesIn: ["Teso district"]  
+   associatedethnicgroup: ["Kumam people"]
+  KaramojongLinguisticGroup:
+   stringTokens: ["Karamojong"]  
+   wikidataQnode: ["Q56326"]  
+   livesIn: ["Karamoja", "Northeast Uganda"]  
+   associatedethnicgroup: ["Karamojong people"]
+  KakwaLinguisticGroup:
+   stringTokens: ["Kakwa language"]  
+   wikidataQnode: ["Q3033547"]  
+   livesIn: [""]  
+   associatedethnicgroup: ["Kakwa people"]
+  KonzoLinguisticGroup:
+   stringTokens: ["Konjo", "Konzo", "lhukonzo", "Lhukonzo", "Lukonjo", "Olhukonzo"]  
+   wikidataQnode: ["Q2361829"]  
+   livesIn: [""]  
+   associatedethnicgroup: ["Konzo people", "Bakonjo"]
+  KupsabinyLinguisticGroup:
+   stringTokens: ["Kupsabiny", "Sebei", "Sabiny"]  
+   wikidataQnode: ["Q56445"]  
+   livesIn: ["Kween District", "Kapchorwa District", "Bukwo District"]  
+   associatedethnicgroup: ["Sebei"]
+  LangoLinguisticGroup:
+   stringTokens: ["Lango language", "Lango", "Lwo", "Lwoo", "Leb-Lango"]  
+   wikidataQnode: ["Q35670"]  
+   livesIn: ["Lango"]  
+   associatedethnicgroup: ["Lango"]
+  LugbaraLinguisticGroup:
+   stringTokens: ["Lugbara"]  
+   wikidataQnode: ["Q3272737"]  
+   livesIn: ["West Nile"]  
+   associatedethnicgroup: ["Lugbara"]
+  SwahiliLinguisticGroup:
+   stringTokens: ["Swahili", "Kiswahili"]  
+   wikidataQnode: ["Q7838"]  
+   livesIn: [""]  
+   associatedethnicgroup: ["Swahili"]
+  AcholiLinguisticGroup:
+   stringTokens: ["Acholi", "Acoli", "Acooli", "Shuli", "Gang", "Atscholi", "Luo", "Acholi dialect"]  
+   wikidataQnode: ["Q34926"]  
+   livesIn: ["Gulu", "Kitgum", "Amuru", "Lamwo", "Agago", "Nwoya", "Omoro", "Pader"]  
+   associatedethnicgroup: ["Acholi people"]
+  AringaLinguisticGroup:
+   stringTokens: ["Aringa"]  
+   wikidataQnode: ["Q56556"]  
+   livesIn: ["Aringa county, Yumbe District"]  
+   associatedethnicgroup: ["Aringa people"]
+  Ma’diLinguisticGroup:
+   stringTokens: ["Ma’di"]  
+   wikidataQnode: ["Q56670"]  
+   livesIn: ["Adjumani", "Moyo"]  
+   associatedethnicgroup: ["Madi people", "Madi]
+  MasabaLinguisticGroup:
+   stringTokens: ["Masaba", "Gisu", "Masaaba"] 
+   wikidataQnode: ["Q3740241"]  
+   livesIn: ["Eastern Uganda", "south of the Kupsabiny", "Bugisu Province"]  
+   associatedethnicgroup: ["Masaba", "Luhya]
+  NyoleLinguisticGroup:
+   stringTokens: ["Nyole", "LoNyole", "Lunyole", "Nyuli"]  
+   wikidataQnode: ["Q3739448"]  
+   livesIn: ["Butaleja District"]  
+   associatedethnicgroup: ["Banyole"]
+  NkoreLinguisticGroup:
+   stringTokens: ["Nkore", "Nkole", "Nyankore", "Nyankole", "Orunyankore", "Orunyankole", "Runyankore", "Runyankole"]  
+   wikidataQnode: ["Q13207"]  
+   livesIn: ["Ankole"]  
+   associatedethnicgroup: ["Banyankore"]
+  NyoroLinguisticGroup:
+   stringTokens: ["Nyoro", "Runyoro]  
+   wikidataQnode: ["Q33794"]  
+   livesIn: ["Bunyoro"]  
+   associatedethnicgroup: ["Banyoro"]
+  GunguLinguisticGroup:
+   stringTokens: ["Gungu"]  
+   wikidataQnode: ["Q11165235"]  
+   livesIn: ["Buliisa District"]  
+   associatedethnicgroup: ["Gungu people", "Gungu"]
+  RuuliLinguisticGroup:
+   stringTokens: ["Ruuli", "Ruruuli-Lunyala", "Ruli", "Luruuri-Lunyara", "Ruruli-Lunyara", "Ruruli-Runyala", "Luduuli"]  
+   wikidataQnode: ["Q7383562"]  
+   livesIn: ["Nakasongola", "Kayunga"]  
+   associatedethnicgroup: ["Baruuli", "Banyala"]
+  AmbaLinguisticGroup:
+   stringTokens: ["Amba", "Bulebule", "Hamba", "Humu", "Kihumu", "Ku-Amba", "Kuamba", "Lubulebule", "Lwamba", "Ruwenzori Kibira", "Rwamba"]  
+   wikidataQnode: ["Q788423"]  
+   livesIn: [""]  
+   associatedethnicgroup: ["Amba", "Amba people]
+  TesoLinguisticGroup:
+   stringTokens: ["Teso"]  
+   wikidataQnode: ["Q29474"]  
+   livesIn: ["Teso", "Pallisa District", "Busia County"]  
+   associatedethnicgroup: ["Iteso"]
+  TalingaLinguisticGroup:
+   stringTokens: ["Talinga", "Bwisi"]  
+   wikidataQnode: ["Q7679530"]  
+   livesIn: [""]  
+   associatedethnicgroup: [""]
+  TooroLinguisticGroup:
+   stringTokens: ["Tooro", "Rutooro", "Rutoro]  
+   wikidataQnode: ["Q7824218"]  
+   livesIn: ["Tooro Kingdom"]  
+   associatedethnicgroup: ["Batooro"]
+  KukuLinguisticGroup:
+   stringTokens: ["Kuku", "Kuku dialect", "Bari"]  
+   wikidataQnode: ["Q3200300"]  
+   livesIn: [""]  
+   associatedethnicgroup: ["Kuku", "Kuku people"]
+  SogaLinguisticGroup:
+   stringTokens: ["Soga", "Lusoga"]  
+   wikidataQnode: ["Q33784"]  
+   livesIn: ["Busoga region"]  
+   associatedethnicgroup: ["Basoga", "Soga people"]
+
 ##politicalparties
   NRMParty:
    stringTokens: ["NRM", "National Resistance Movement"]
