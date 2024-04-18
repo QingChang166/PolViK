@@ -32,6 +32,25 @@ concepts:
    religionsMNostPracticed: ["Christianity", "Judaism"]
    livesIn: ["Berea", "Maseru"]
 
+###LinguisticGroups:
+  SothoLinguisticGroup:
+   stringTokens: ["Sotho", "Sesotho", "Southern Sotho"]
+   wikidataQnode: ["Q34340"]
+   livesIn: [""]
+   associatedethnicgroup: ["Basotho"]
+
+  ZuluLinguisticGroup:
+   stringTokens: ["Zulu", "isiZulu", "isiXhosa"]
+   wikidataQnode: ["Q10179"]
+   livesIn: ["KwaZulu-Natal", "Mpumalanga"]
+   associatedethnicgroup: ["Zulu"]
+
+  XhosaLinguisticGroup:
+   stringTokens: ["Xhosa", "Xosa"]
+   wikidataQnode: ["Q13218"]
+   livesIn: [""]
+   associatedethnicgroup: ["AmaXhosa"]
+ 
 ###PoliticalParties
   ABCParty:
    stringTokens: ["All Basotho Convention", "ABC", "Kobo-tata ea Basotho)"]
