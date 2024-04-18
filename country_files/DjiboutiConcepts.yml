@@ -24,6 +24,19 @@ concepts:
    languagesMostSpoken: ["Arabic"]
    religionsMostPracticed: ["Islam"]
    livesIn: ["Ali Sabieh Region", "Djibouti Region"]
+
+###Linguisticgroups
+  AfarLinguisticGroup:
+   stringTokens: ["Afar", "Afar Af", "Afaraf", "Qafar af", "Adal", "Qafar"]
+   wikidataQnode: ["Q27811"]
+   livesIn: [""]
+   associatedethnicgroup: ["Afar", "Afar people"]
+
+  SomaliLinguisticGroup:
+   stringTokens: ["Somali"]
+   wikidataQnode: ["Q13275"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
      
 ###PoliticalParties
   ARDParty:
