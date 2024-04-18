@@ -31,7 +31,44 @@ concepts:
      languagesMostSpoken: ["Tebu languages", "Arabic"]
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Kufra", "Qatrun", "al-Wigh"]
-    
+
+  ## linguisticgroups
+   GhadamèsLinguisticGroup:
+     stringTokens: ["Ghadamès", "Ghadames"]
+     wikidataQnode: ["Q56747"]
+     livesIn: ["Nalus District"]
+     associatedethnicgroup: [""]
+
+   LibyanArabicLinguisticGroup:
+     stringTokens: ["Libyan Arabic", "Sulaimitian Arabic"]
+     wikidataQnode: ["Q56503"]
+     livesIn: [""]
+     associatedethnicgroup: ["Arab people"]
+
+   NafusiLinguisticGroup:
+     stringTokens: ["Nafusi", "Nefusi"]
+     wikidataQnode: ["Q36151"]
+     livesIn: ["Nafusi Mountains", "Jadu", "Nalut", "Yafran"]
+     associatedethnicgroup: ["Ibadi people"]
+
+   SiwiLinguisticGroup:
+     stringTokens: ["Siwi", "Siwan", "Siwa Berber"]
+     wikidataQnode: ["Q36814"]
+     livesIn: ["Al Jaghbub Oasis"]
+     associatedethnicgroup: ["Siwi"]
+
+   TamahaqLinguisticGroup:
+     stringTokens: ["Tamahaq", "Tahaggart Tamahaq", "Tamahaq Tahaggart"]
+     wikidataQnode: ["Q56703"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tuaregs", "Tuareg people", "Todaga", "Todga", "Tudaga"]
+
+   TedaLinguisticGroup:
+     stringTokens: ["Tedaga", "Teda"]
+     wikidataQnode: ["Q36639"]
+     livesIn: ["Murzuq"]
+     associatedethnicgroup: [""]
+ 
   ## politicalparties
    jcpParty:
      stringTokens: ["Justice and Construction Party", "Justice and Development Party"]
