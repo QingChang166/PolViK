@@ -24,6 +24,12 @@ concepts:
      languagesMostSpoken: ["Nzwani Comorian"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Dindri"]
+ 
+ ## linguisticgroups
+   ComorianLinguisticGroup:
+     stringTokens: ["Comorian", "Mwali Comorian", "Ndzwani Comorian", "Ngazidja Comorian"]
+     wikidataQnode: ["Q33077"]
+     livesIn: [""]
    
   ## politicalparties
    CRCParty:
