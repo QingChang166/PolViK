@@ -128,7 +128,7 @@ concepts:
    stringTokens: ["Karamojong"]  
    wikidataQnode: ["Q56326"]  
    livesIn: ["Karamoja", "Northeast Uganda"]  
-   associatedethnicgroup: ["Karamojong people"]
+   associatedethnicgroup: ["Karamojong people", "Karamojong"]
   KakwaLinguisticGroup:
    stringTokens: ["Kakwa language"]  
    wikidataQnode: ["Q3033547"]  
