@@ -53,6 +53,103 @@ concepts:
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Atakpame"]
 
+  ## linguisticgroups
+    AdeleLinguisticGroup:
+     stringTokens: ["Adele"]  
+     wikidataQnode: ["Q27740"]  
+     livesIn: [""]  
+     associatedethnicgroup: ["Adele people", "Adele"]
+
+    IgoLinguisticGroup:
+     stringTokens: ["Igo", "Ahlon"]  
+     wikidataQnode: ["Q35412"]  
+     livesIn: ["Sassanou", "Plateau Region"]  
+     associatedethnicgroup: [""]
+
+    NtchamLinguisticGroup:
+     stringTokens: ["Ntcham", "Basari", "Akaselem"]  
+     wikidataQnode: ["Q36266"]  
+     livesIn: [""]  
+     associatedethnicgroup: ["Gurma people"]
+
+    GinyangaLinguisticGroup:
+     stringTokens: ["Ginyanga", "Nyanga"]  
+     wikidataQnode: ["Q35446"]  
+     livesIn: [""]  
+     associatedethnicgroup: [""]
+
+    GenLinguisticGroup:
+     stringTokens: ["Gen"]  
+     wikidataQnode: ["Q33450"]  
+     livesIn: ["Maritime Region"]  
+     associatedethnicgroup: [""]
+
+    NgangamLinguisticGroup:
+     stringTokens: ["Ngangam", "Gangam"]  
+     wikidataQnode: ["Q35888"]  
+     livesIn: [""]  
+     associatedethnicgroup: ["Gurma people", "Gurma"]
+
+    IfèLinguisticGroup:
+     stringTokens: ["Ifè", "Ana", "Ana-Ifé", "Anago", "Baate", "Ede Ife"]  
+     wikidataQnode: ["Q33606"]  
+     livesIn: [""]  
+     associatedethnicgroup: [""]
+
+    KabiyèLinguisticGroup:
+     stringTokens: ["Kabiyè", "Kabiye", "Kabye"]  
+     wikidataQnode: ["Q35475"]  
+     livesIn: [""]  
+     associatedethnicgroup: ["Kabye"]
+
+    TemLinguisticGroup:
+     stringTokens: ["Tem", "Kotokoli", "Cotocoli", "Tém"]  
+     wikidataQnode: ["Q36531"]  
+     livesIn: [""]  
+     associatedethnicgroup: ["Tem people"]
+
+    AkebuLinguisticGroup:
+     stringTokens: ["Akebu", "Kebu"]  
+     wikidataQnode: ["Q35026"]  
+     livesIn: ["Akébou district", "Plateau Region"]  
+     associatedethnicgroup: ["Akebu people"]
+
+    IkposoLinguisticGroup:
+     stringTokens: ["Ikposo", "Kposo]  
+     wikidataQnode: ["Q35029"]  
+     livesIn: ["Plateau Region", "Volta Region"]  
+     associatedethnicgroup: ["Akposso people", "Kposo"]
+
+    LamaLinguisticGroup:
+     stringTokens: ["Lama"]  
+     wikidataQnode: ["Q35652"]  
+     livesIn: [""]  
+     associatedethnicgroup: ["Lamba people"]
+
+    MobaLinguisticGroup:
+     stringTokens: ["Moba", "Moba–Bimoba"]  
+     wikidataQnode: ["Q36010"]  
+     livesIn: [""]  
+     associatedethnicgroup: ["Moba", "Moba people"]
+
+    NawdmLinguisticGroup:
+     stringTokens: ["Nawdm", "Losso"]  
+     wikidataQnode: ["Q36085"]  
+     livesIn: ["Doufelgou Prefecture", "Kara Region"]  
+     associatedethnicgroup: ["Losso people"]
+
+    WaciLinguisticGroup:
+     stringTokens: ["Waci", "Gbe", "Waci Gbe"]  
+     wikidataQnode: ["Q36987"]  
+     livesIn: ["Maritime"]  
+     associatedethnicgroup: [""]
+
+    EweLinguisticGroup:
+     stringTokens: ["Ewe"]  
+     wikidataQnode: ["Q30005"]  
+     livesIn: [""]  
+     associatedethnicgroup: [""]
+  
 ## politicalparties
     rptParty:
      stringTokens: ["Rally of the Togolese People"]
