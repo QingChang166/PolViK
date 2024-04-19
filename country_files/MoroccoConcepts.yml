@@ -52,8 +52,57 @@ concepts:
   #  wikidataQnode: ["Q7325"]
   #  languagesMostSpoken: ["Hebrew", "Arabic", "Berber"]
   #  religionsMostPracticed: ["Judaism"]
-  #  livesIn: []  
-     
+  #  livesIn: [] 
+
+###LinguisticGroups:
+  GhomaraLinguisticGroup:
+    stringTokens: ["Ghomara", "Taznatit", "Tuwat"]
+    wikidataQnode: ["Q35315"]
+    livesIn: ["Chefchaouen Province"]
+    associatedethnicgroup: ["Ghomara people"]
+    
+  SenhajaBerberLinguisticGroup:
+    stringTokens: ["Senhaja Berber", "Sanhaja de Srair", "Senhaja de Srair", "Senhaja De Srair language"]
+    wikidataQnode: ["Q56744"]
+    livesIn: ["Rif"]
+    associatedethnicgroup: ["Sanhaja Berbers"]
+    
+  TarifitLinguisticGroup:
+    stringTokens: ["Tarifit", "Tmazight", "Tarifit Berber", "Riffian", "Rif", "Tmaziɣt", "Rifian language", "Rif Berber", "Rifian Berber", "Tharifith", "Riffian Berber", "Riffian language", "Riffian", "Tarifect", "Tarifiyt"]
+    wikidataQnode: ["Q34174"]
+    livesIn: ["Rif", "Tanger-Tétouan-Al Hoceïma", "Oriental", "Nador", "Driouch"]
+    associatedethnicgroup: ["Riffans"]
+    
+  ShilhaLinguisticGroup:
+    stringTokens: ["Shilha", "Tashelhiyt", "Tachelhit", "Tachelhit language", "tasousit"]
+    wikidataQnode: ["Q34152"]
+    livesIn: ["Souss-Massa", "Guelmim-Oued Noun", "Drâa-Tafilalet", "Marrakech-Safi", "Béni Mellal-Khénifra", "Laâyoune-Sakia El Hamra", "Dakhla-Oued Ed-Dahab"]
+    associatedethnicgroup: ["Shilha people", "Shilha"]
+
+  StandardMoroccanAmazighLinguisticGroup:
+    stringTokens: ["Standard Moroccan Amazigh", "Standard Moroccan Tamazight", "Standard Moroccan Berber"]
+    wikidataQnode: ["Q7598268"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+
+  Judeo-MoroccanArabicLinguisticGroup:
+    stringTokens: ["Judeo-Moroccan Arabic"]
+    wikidataQnode: ["Q56595"]
+    livesIn: [""]
+    associatedethnicgroup: ["Moroccan Jews"]
+
+  MoroccanArabicLinguisticGroup:
+    stringTokens: ["Moroccan Arabic", "Moroccan Darija", "Darija", "Moroccan Arabic language", "Moroccan Darija language"]
+    wikidataQnode: ["Q56426"]
+    livesIn: ["Western Maghreb"]
+    associatedethnicgroup: ["Arab people", "Arabs"]
+  
+  CentralAtlasTamazightLinguisticGroup:
+    stringTokens: ["Central Atlas Tamazight", "Atlasic", "Tamazight"]
+    wikidataQnode: ["Q49741"]
+    livesIn: ["Fès-Meknès", "Béni Mellal-Khénifra", "Drâa-Tafilalet"]
+    associatedethnicgroup: [""]
+    
 ###PoliticalParties
   AMPParty:
    stringTokens: ["Authenticity and Modernity Party", "PAM", "Parti National Démocrate puis Parti Démocrate Nationl"]
