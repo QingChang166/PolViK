@@ -60,6 +60,48 @@ concepts:
 
 ##Eritrea is a single party state since its independence so only party is official One: People's Front for Democracy and Justice
 
+##Linguisticgroups
+  AfarLinguisticGroup:
+    stringTokens: ["Afar", "Adal", "’Afar Af", "Afaraf", "Qafar"]
+    wikidataQnode: ["Q27811"]
+    livesIn: [""]
+    associatedethnicgroup: ["Afar people", "Afar"]
+  BejaLinguisticGroup:
+    stringTokens: ["Beja", "Bedawiyet", "Ti-Bedauye", "Ti-Bedaauye", "Tu-Bedawie", "To-Bedawye", "Bedja", "Bedawiye", "Bedawi", "Bedwi", "Bedya", "Bedauye", "Badāwīyä", "Bidhaawyeet", "Tu-Bdhaawi", "bej", "Beja language"]
+    wikidataQnode: ["Q33025"]
+    livesIn: [""]
+    associatedethnicgroup: ["Beja people"]
+  BilenLinguisticGroup:
+    stringTokens: ["Bilen", "Bilin", "Blin"]
+    wikidataQnode: ["Q56491"]
+    livesIn: ["Anseba", "Keren"]
+    associatedethnicgroup: ["Bilen people"]
+  KunamaLinguisticGroup:
+    stringTokens: ["Kunama"]
+    wikidataQnode: ["Q36041"]
+    livesIn: ["Gash-Barka Region"]
+    associatedethnicgroup: ["Kunama"]
+  NaraLinguisticGroup:
+    stringTokens: ["Nara", "Barea"]
+    wikidataQnode: ["Q36179"]
+    livesIn: ["Gash-Barka Region"]
+    associatedethnicgroup: ["Nara people"]
+  SahoLinguisticGroup:
+    stringTokens: ["Saho"]
+    wikidataQnode: ["Q36353"]
+    livesIn: ["Southern Region", "Northern Region", "Southern Red Sea Region"]
+    associatedethnicgroup: ["Saho"]
+  TigrignaLinguisticGroup:
+    stringTokens: ["Tigrigna", "Tigrinya", "Tigrinja"]
+    wikidataQnode: ["Q34124"]
+    livesIn: [""]
+    associatedethnicgroup: ["Tigrinya", "Tigrayans"]
+  TigréLinguisticGroup:
+    stringTokens: ["Tigré"]
+    wikidataQnode: ["Q34129"]
+    livesIn: ["Anseba", "Gash-Barka", "Northern Red Sea"]
+    associatedethnicgroup: ["Tigre people", "Tigre"]
+
 ##politicalParty
   pfdjParty:
    stringTokens: ["People's Front for Democracy and Justice", "PFDJ"]
