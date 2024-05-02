@@ -11,3 +11,4 @@ relations:
   - (Party, PRDParty)
   - (Party, PTSParty)
   - (Party, PSDParty)
+  - (LinguisticGroup,  KabuverdianuLinguisticGroup)
