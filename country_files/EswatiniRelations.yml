@@ -34,3 +34,4 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, SWAYOCOarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, RenamoarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, MKarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, SwatiLinguisticGroup)
