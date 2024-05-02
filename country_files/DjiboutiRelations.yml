@@ -26,3 +26,5 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, DYMarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, FLCSarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, FLDarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup,  AfarLinguisticGroup)
+  - (LinguisticGroup, SomaliLinguisticGroup)
