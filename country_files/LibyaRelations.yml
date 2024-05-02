@@ -29,3 +29,10 @@ relations:
   - (proGovernmentMilitia, TRBproGovernmentMilitia)
   - (proGovernmentMilitia, TPFproGovernmentMilitia)
   - (proGovernmentMilitia, PFLLproGovernmentMilitia)
+  - (LinguisticGroup, GhadamèsLinguisticGroup)
+  - (LinguisticGroup, LibyanArabicLinguisticGroup)
+  - (LinguisticGroup, NafusiLinguisticGroup)
+  - (LinguisticGroup, SiwiLinguisticGroup)
+  - (LinguisticGroup, TamahaqLinguisticGroup)
+  - (LinguisticGroup, TedaLinguisticGroup)
+   
