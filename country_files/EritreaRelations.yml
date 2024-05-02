@@ -22,3 +22,12 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, eirmarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, alqaidaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, erdfarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, AfarLinguisticGroup)
+  - (LinguisticGroup, BejaLinguisticGroup)
+  - (LinguisticGroup, BilenLinguisticGroup)
+  - (LinguisticGroup, KunamaLinguisticGroup)
+  - (LinguisticGroup, NaraLinguisticGroup)
+  - (LinguisticGroup, SahoLinguisticGroup)
+  - (LinguisticGroup, TigrignaLinguisticGroup)
+  - (LinguisticGroup, TigréLinguisticGroup)
+ 
