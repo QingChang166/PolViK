@@ -21,3 +21,9 @@ relations:
   - (Party, ACParty)
   - (armedNonGovernmentalOrganizedGroup, AQIMarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, PolisarioarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, HassaniyaArabicLinguisticGroup)
+  - (LinguisticGroup, PulaarLinguisticGroup)
+  - (LinguisticGroup, WolofLinguisticGroup)
+  - (LinguisticGroup, SoninkeLinguisticGroup)
+  - (LinguisticGroup, ZenagaLinguisticGroup)
+  
