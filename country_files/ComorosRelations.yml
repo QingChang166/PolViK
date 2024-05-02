@@ -34,3 +34,4 @@ relations:
   - (Party, TwamayaParty)
   - (Party, UDDParty)
   - (armedNonGovernmentalOrganizedGroup, APMarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, ComorianLinguisticGroup)
