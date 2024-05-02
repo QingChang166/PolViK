@@ -11,3 +11,4 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, FNLarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ImbonerakurearmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, JRRarmedNonGovernmentalOrganizedGroup)
+  - (linguisticGroup, KirundiLinguisticGroup)
