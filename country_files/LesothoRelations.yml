@@ -1,5 +1,5 @@
 relations:
-  - (officialStateSecurityForces, LethotoDefenceForces)
+  - (officialStateSecurityForces, LesothoDefenceForces)
   - (EthnicGroup, SothoEthnicGroup)
   - (EthnicGroup, ZuluEthnicGroup)
   - (EthnicGroup, XhosaEthnicGroup)
@@ -24,3 +24,6 @@ relations:
   - (Party, SRParty)
   - (armedNonGovernmentalOrganizedGroup, LLAarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, YLarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, SothoLinguisticGroup)
+  - (LinguisticGroup, ZuluLinguisticGroup)
+  - (LinguisticGroup, XhosaLinguisticGroup)
