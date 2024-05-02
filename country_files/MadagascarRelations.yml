@@ -17,3 +17,4 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, SDRarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, SMRarmedNonGovernmentalOrganizedGroup)
   - (proGovernmentMilitia, YAproGovernmentMilitia)
+  - (LinguisticGroup, MalagasyLinguisticGroup)
