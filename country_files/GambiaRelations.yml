@@ -24,3 +24,11 @@ relations:
   - (Party, mcpParty)
   - (Party, dpParty)
   - (armedNonGovernmentalOrganizedGroup, nrcarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, WolofLinguisticGroup)
+  - (LinguisticGroup, JolaFonyiLinguisticGroup)
+  - (LinguisticGroup, PulaarLinguisticGroup)
+  - (LinguisticGroup, SererLinguisticGroup)
+  - (LinguisticGroup, MandinkaLinguisticGroup)
+  - (LinguisticGroup, KassonkeLinguisticGroup)
+  - (LinguisticGroup, ManjakLinguisticGroup)
+  
