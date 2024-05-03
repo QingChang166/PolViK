@@ -12,3 +12,5 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, InterahamwearmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, RPAarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, FDLRarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, KinyarwandaLinguisticGroup)
+  
