@@ -94,7 +94,72 @@ concepts:
    languagesMostSpoken: ["Kiswahili"]
    religionsMostPracticed: ["Islam"]
    livesIn: ["Coastal Province"] ##administrative state, region
-
+##LinguisticGroups
+  KiswahiliLinguisticGroup:
+     stringTokens: ["Swahili", "Kiswahili"]
+     wikidataQnode: ["Q3197533"]
+     livesIn: ["Nalus District"]
+     associatedethnicgroup: ["SwahiliEthnicGroup"]
+  KikuyuLinguisticGroup:
+     stringTokens: ["kikuyu", "gikuyu"]
+     wikidataQnode: ["Q33587"]
+     livesIn: [""]
+     associatedethnicgroup: ["KikuyuEthnicGroup"]
+   KambaLinguisticGroup:
+     stringTokens: ["Kamba", "Kekamba", "Kikamba"]
+     wikidataQnode: ["Q2574767"]
+     livesIn: ["kajiado", "kitui", "machakos", "makueni"]
+     associatedethnicgroup: ["KambaEthnicGroup"]
+   LuhyaLinguisticGroup:
+     stringTokens: ["luhya", "bukusu", "Luyia", "Oluluyia", "luhia"]
+     wikidataQnode: ["Q35893"]
+     livesIn: [""]
+     associatedethnicgroup: ["LuhyaEthnicGroup"]
+    GusiiLinguisticGroup:
+     stringTokens: ["Ekegusii", "Gusii", "Kisii"]
+     wikidataQnode: ["Q33603"]
+     livesIn: ["Kisii", "migori", "narok", "nyamira", "mara"]
+     associatedethnicgroup: ["KisiiEthnicGroup"]
+   MeruLinguisticGroup:
+     stringTokens: ["meru", "kimeru"]
+     wikidataQnode: ["Q13313"]
+     livesIn: ["isiolo", "meru", "laikipia"]
+     associatedethnicgroup: ["MeruEthnicGroup"]
+   MijikendaLinguisticGroup:
+     stringTokens: ["mijikenda", "giriama"]
+     wikidataQnode: ["Q6845474"]
+     livesIn: [""]
+     associatedethnicgroup: ["MijikendaEthnicGroup"]
+  DholouLinguisticGroup:
+     stringTokens: ["luo", "dholou"]
+     wikidataQnode: ["Q3915366"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+   KalenjinLinguisticGroup:
+     stringTokens: ["kalenjin", "kipsigis", "nandi"]
+     wikidataQnode: ["Q637228"]
+     livesIn: [""]
+     associatedethnicgroup: ["KalenjinEthnicGroup"]
+   MaasaiLinguisticGroup:
+     stringTokens: ["masaai", "Masai", "maasai", "maa", "mas"]
+     wikidataQnode: ["Q35787"]
+     livesIn: ["kajiado", "nairobi", "kiambu", "laikipia", "narok"]
+     associatedethnicgroup: ["MaasaiEthnicGroup"]
+   TurkanaLinguisticGroup:
+     stringTokens: ["turkana"]
+     wikidataQnode: ["Q36958"]
+     livesIn: ["samburu", "turkana"]
+     associatedethnicgroup: ["TurkanaEthnicGroup"]
+   OromoLinguisticGroup:
+     stringTokens: ["oromo", "orma", "borana", "Afaan Oromoo", "Oromiffa", "Galla", "Oromoo", "Afaan Oromo"]
+     wikidataQnode: ["Q33864"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+   SomaliLinguisticGroup:
+     stringTokens: ["somali", "soomaali"]
+     wikidataQnode: ["Q13275"]
+     livesIn: [""]
+     associatedethnicgroup: ["SomaliEthnicGroup"]
 ##politicalparties
   KANUParty:
    stringTokens: ["Kenya African National Union", "KANU"]
