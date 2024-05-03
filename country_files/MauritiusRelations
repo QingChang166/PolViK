@@ -38,5 +38,6 @@ relations:
   - (Party, AAParty)
   - (Party, ACParty)
   - (Party, IPParty)
+  - (LinguisticGroup,  MauritianCreoleLinguisticGroup)
 
 
