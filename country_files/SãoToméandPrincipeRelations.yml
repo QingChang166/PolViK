@@ -15,3 +15,4 @@ relations:
   - (Party, PLSParty)
   - (Party, UKParty)
   - (Party, MSD–PVSTPParty)
+  - (LinguisticGroup, ForroCreoleLinguisticGroup)
