@@ -23,21 +23,25 @@ concepts:
      stringTokens: ["Arabic"]
      wikidataQnode: ["Q13955"]
      livesIn: [""]
+     associatedEthnicGroup: ["ArabEthnicGroup"]
 
    AlgerianArabicLinguisticGroup:
      stringTokens: ["Arabic", "Algerian Arabic]
      wikidataQnode: ["Q56499"]
      livesIn: [""]
+     associatedEthnicGroup: ["ArabEthnicGroup"]
 
    ShenwaLinguisticGroup:
      stringTokens: ["Chenoua", "Shenwa]
      wikidataQnode: ["Q33276"]
      livesIn: ["Mount Chenoua", "Jebel Chenoua", "Cherchell", "Tipaza", "Chlef"]
+     associatedEthnicGroup: ["BerberEthnicGroup"]
 
    BerbersLinguisticGroup:
      stringTokens: ["Amazigh", "Berbers", "Imazighen"]
      wikidataQnode: ["Q45315"]
      livesIn: [""]
+     associatedEthnicGroup: ["BerberEthnicGroup"]
 
    KorandjeLinguisticGroup:
      stringTokens: ["Korandje", "Kwaranje"]
@@ -67,12 +71,13 @@ concepts:
      stringTokens: ["Tamazight", "Tidikelt", "Tidikelt Tamazight", "Tidikelt Berber"]
      wikidataQnode: ["Q56392"]
      livesIn: [""]
-     associatedethnicgroup: ["Berbers"]
+     associatedethnicgroup: ["BerberEthnicGroup"]
 
    TugurtLinguisticGroup:
      stringTokens: ["Tugurt", "Tamazight, Temacine", "Temacine Tamazight", "Oued-Righ Berber", "Oued Righ"]
      wikidataQnode: ["Q3507211"]
      livesIn: ["Oued Righ", "Touggourt"]
+     associatedethnicgroup: ["BerberEthnicGroup"]
      
   ## politicalparties
    FLNParty:
