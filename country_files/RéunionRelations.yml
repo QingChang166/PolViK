@@ -9,3 +9,4 @@ relations:
   - (Party, PCRParty)
   - (Party, FRParty)
   - (Party, LPParty)
+  - (LinguisticGroup,  RéunionCreoleLinguisticGroup)
