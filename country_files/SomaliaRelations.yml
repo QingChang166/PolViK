@@ -66,3 +66,10 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, fyhnarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, svaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, AswjAmredGroup)
+  - (LinguisticGroup, DabarreLinguisticGroup)
+  - (LinguisticGroup, JiidduLinguisticGroup) 
+  - (LinguisticGroup, SomaliLinguisticGroup) 
+  - (LinguisticGroup, TunniLinguisticGroup)
+  - (LinguisticGroup, ZigulaLinguisticGroup)
+  - (LinguisticGroup, MaayLinguisticGroup)
+
