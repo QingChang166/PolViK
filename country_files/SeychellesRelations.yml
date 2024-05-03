@@ -8,3 +8,4 @@ relations:
   - (Party, SDPParty)
   - (Party, LDSParty)
   - (Party, SAParty)
+  - (LinguisticGroup,  SeychelloisCreoleLinguisticGroup)
