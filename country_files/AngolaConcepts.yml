@@ -70,7 +70,7 @@ concepts:
      stringTokens: ["Chokwe", "Batshokwe", "Ciokwe", "Kioko", "Kiokwe", "Quioca", "Quioco", "Shioko", "Tschiokloe", "Tshokwe"]
      wikidataQnode: ["Q2422065"]
      livesIn: [""]
-     associatedethnicgroup: ["Chokwe"]
+     associatedethnicgroup: ["ChokweEthnicGroup"]
 
     ZembaLinguisticGroup:
      stringTokens: ["Zemba", "Dhimba"]
@@ -97,7 +97,7 @@ concepts:
      stringTokens: ["Mbundu", "Kimbundu", "North Mbundu"]
      wikidataQnode: ["Q35891"]
      livesIn: ["Luanda Province", "Bengo Province", "Malanje Province"]
-     associatedethnicgroup: ["Ambundu"]
+     associatedethnicgroup: ["AmbunduEthnicGroup"]
      
     OshiwamboLinguisticGroup:
      stringTokens: ["Ovambo", "Oshiwambo", "]
@@ -114,7 +114,7 @@ concepts:
      stringTokens: ["Lucazi", "Luchazi language", "Luchazi", "Lucazi language"]
      wikidataQnode: ["Q3265143"]
      livesIn: [""]
-     associatedethnicgroup: ["Ngangela"]
+     associatedethnicgroup: ["GanguelaEthnicGroup"]
 
     LuimbiLinguisticGroup:
      stringTokens: ["Lwimbi", "Luimbe", "Lwimbe", "Chiluimbi"]
@@ -125,7 +125,7 @@ concepts:
      stringTokens: ["Mbunda", "Yauma", "Mbunda language"]
      wikidataQnode: ["Q34170"]
      livesIn: [""]
-     associatedethnicgroup: ["Mbunda"]
+     associatedethnicgroup: ["AmbunduEthnicGroup"]
 
     MbangalaLinguisticGroup:
      stringTokens: ["Mbangala"]
@@ -166,7 +166,7 @@ concepts:
      stringTokens: ["Umbundu", "South Mbundu"]
      wikidataQnode: ["Q36983"]
      livesIn: ["Benguela", "Lobito", "Luanda", "Lubango"]
-     associatedethnicgroup: ["Ovimbundu"]
+     associatedethnicgroup: ["OvimbunduEthnicGroup"]
 
     SekeleLinguisticGroup:
      stringTokens: ["Sekele", "Vasekela Bushman language", "ǃʼOǃKung", "Northwestern !Kung", "Vasekele", "Sekele language", "!O!ung language", "Northern Ju"]
