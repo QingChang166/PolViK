@@ -81,11 +81,13 @@ concepts:
      stringTokens: ["Tswana", "Tshuwau", "Setswana", "Sechuana", "Bechuana", "Tswana language"]
      wikidataQnode: ["Q34137"]
      livesIn: [""]
+     associatedethnicgroup: ["TswanaEthnicGroup"]
 
   MbukushuLinguisticGroup:
      stringTokens: ["Mbukushu language", "Mbukushu", "Thimbukushu", "Thimbukushu language"]
      wikidataQnode: ["Q2691548"]
      livesIn: [""]
+     associatedethnicgroup: ["MbukushuEthnicGroup"]
 
   NaroLinguisticGroup:
      stringTokens: ["Naro", "Naro language", "Nharo", "Khoe"]
@@ -107,12 +109,13 @@ concepts:
      stringTokens: ["Kgalagadi", "Kgalagadi language", "Kgalagari", "Kgalagarhi", "Kgalagari", "Khalagari", "Khalakadi", "Kxhalaxadi", "Qhalaxarzi", "Shekgalagadi", "Shekgalagari", "Kqalaqadi")]
      wikidataQnode: ["Q2088743"]
      livesIn: [""]
-     associatedethnicgroup: ["Kgalagadi"]
+     associatedethnicgroup: ["KgalagadiEthnicGroup"]
 
   YeyiLinguisticGroup:
      stringTokens: ["Yeyi language", "Yeyi"]
      wikidataQnode: ["Q8053347"]
      livesIn: ["Okavango Region"]
+     associatedethnicgroup: ["YeyiEthnicGroup"]
 
   TaaLinguisticGroup:
      stringTokens: ["Taa language", "Taa", "ǃXóõ", "ǃKhong", "ǃXoon", "Tsasi", "!Xoon", "ǃXóõ", "!Xóõ", "!Xoo", "Taa language"]
