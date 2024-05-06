@@ -30,6 +30,7 @@ concepts:
      stringTokens: ["Comorian", "Mwali Comorian", "Ndzwani Comorian", "Ngazidja Comorian"]
      wikidataQnode: ["Q33077"]
      livesIn: [""]
+     associatedEthnicGroups: ["MwaliComorianEthnicGroup", "NgazijaEthnicGroup", "NzwaniEthnicGroup"]
    
   ## politicalparties
    CRCParty:
