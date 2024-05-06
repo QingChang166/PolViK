@@ -30,13 +30,13 @@ concepts:
    stringTokens: ["Afar", "Afar Af", "Afaraf", "Qafar af", "Adal", "Qafar"]
    wikidataQnode: ["Q27811"]
    livesIn: [""]
-   associatedethnicgroup: ["Afar", "Afar people"]
+   associatedethnicgroup: ["Afar", "Afar people", "AfarEthnicGroup"]
 
   SomaliLinguisticGroup:
    stringTokens: ["Somali"]
    wikidataQnode: ["Q13275"]
    livesIn: [""]
-   associatedethnicgroup: [""]
+   associatedethnicgroup: ["SomalisEthnicGroup"]
      
 ###PoliticalParties
   ARDParty:
