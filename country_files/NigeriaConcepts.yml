@@ -75,6 +75,45 @@ concepts:
      languagesMostSpoken: ["Gwari"]
      livesIn: ["Niger", "Kaduna", "Federal Capital Territory", "Nasarawa", "Kogi"]
 
+## Linguistic groups
+   HausaLinguisticGroup:
+     stringTokens: ["Ha", "Hausa Language"]
+     wikidataQnode: ["Q56475"]
+     livesIn: ["Bauchi", "Borno", "Jigawa", "Kaduna", "Kano", "Kastina", "Kebbi", "Niger", "Taraba", "Sokoto", "Zamfara"]
+     associatedethnicgroup: ["HausaEthnicGroup"]
+
+  YorubaLinguisticGroup:
+     stringTokens: ["Yo", "Yoruba Language"]
+     wikidataQnode: ["Q34311"]
+     livesIn: ["Kwara", "Lagos", "Ogun", "Ondo", "Oyo", "Osun", "Ekiti", "Kogi", "Edo"]
+     associatedethnicgroup: ["YorubaEthnicGroup"]
+
+   IgboLinguisticGroup:
+     stringTokens: ["Ig", "Igbo Language"]
+     wikidataQnode: ["Q33578"]
+     livesIn: ["Abia", "Anambra", "Delta", "Ebonyi", "Enugu", "Imo", "Rivers"]
+     associatedethnicgroup: ["IgboEthnicGroup"]
+
+   FulaLinguisticGroup:
+     stringTokens: ["Fula Language", "Fulah", "ff", "Fulani", "Adamawa dialect", "Ful language", "Fulah language", "Fulani language", "Fulbe language adlam",
+                    "Fulde language", "Fulfulde language", "Bagirmi dialect", "Western Niger dialect", "Fulfuldedialect", "Fulfulde dialect"]
+     wikidataQnode: ["Q33454"]
+     livesIn: ["Adamawa", "Bauchi", "Borno", "Gombe", "Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Niger", "Sokoto", "Taraba", "Yobe"]
+     associatedethnicgroup: ["FulaniEthnicGroup"]
+
+  IbibioLinguisticGroup:
+     stringTokens: ["Ibibio language"]
+     wikidataQnode: ["Q33792"]
+     livesIn: ["Akwa Ibom", "Cross River"]
+     associatedethnicgroup: ["IbibioEthnicGroup"]
+
+  TivLinguisticGroup:
+     stringTokens: ["Tiv language"]
+     wikidataQnode: ["Q34131"]
+     livesIn: ["Benue", "Plateau", "adamawa", "Taraba", "Nasarawa"]
+     associatedethnicgroup: ["TivEthnicGroup"]
+ 
+
 ## politicalparties
   NPNParty:
      stringTokens: ["National Party of Nigeria", "NPN"]
