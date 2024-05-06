@@ -60,7 +60,10 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, IMNarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, BakassiarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, AnsaruTransnationalarmedNonGovernmentalOrganizedGroup)
-###NEED ceoncept name not string name
-##connect parents to children
-##we are encoding "is a" relations not "related" relations so don't worry about political parties that are also armed groups, treat them as two seperate entities
-
+  - (LinguisticGroup,  HausaLinguisticGroup)
+  - (LinguisticGroup, YorubaLinguisticGroup)
+  - (LinguisticGroup, IgboLinguisticGroup)
+  - (LinguisticGroup, FulaLinguisticGroup)
+  - (LinguisticGroup, IbibioLinguisticGroup)
+  - (LinguisticGroup, TivLinguisticGroup)
+    
