@@ -37,7 +37,7 @@ concepts:
     stringTokens: ["Kabuverdianu", "Cape Verdean Creole", "Kriolu"]
     wikidataQnode: ["Q35963"]
     livesIn: [""]
-    associatedethnicgroup: [""]
+    associatedethnicgroup: ["CreoleEthnicGroup"]
     
   ## politicalparties
    DCPParty:
