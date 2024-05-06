@@ -19,7 +19,7 @@ concepts:
    stringTokens: ["Kirundi", "Rundi"]
    wikidataQnode: ["Q33583"]
    livesIn: [""]
-   associatedethnicgroup: ["Hutu", "Tutsi", "Twa", "Ganwa"]
+   associatedethnicgroup: ["hutuEthnicGroup", "tutsiEthnicGroup", "twaEthnicGroup", "Ganwa"]
 ##political parties
   UPRONAParty:
    stringTokens: ["Union for National Progress", "UPRONA", "Union pour le Progrès national"]
