@@ -27,7 +27,7 @@ concepts:
     stringTokens: ["Eastern Egyptian Bedawi Arabic", "Bedawi Arabic", "Northwest Arabian Arabic", "Levantine Bedawi Arabic", "Eastern Egyptian Bedawi Arabic"]
     wikidataQnode: ["Q56714"]
     livesIn: [""]
-    associatedethnicgroup: ["Copts"]
+    associatedethnicgroup: ["CoptEthnicGroup"]
   MattokkiLinguisticGroup:
     stringTokens: ["Mattokki", "Kenzi", "Kenuzi", "Kunuz", "Mattokki"]
     wikidataQnode: ["Q20639851"]
@@ -37,7 +37,7 @@ concepts:
     stringTokens: ["Egyptian Arabic", "Egyptian colloquial language", "Masri", "Colloquial Egyptian"]
     wikidataQnode: ["Q29919"]
     livesIn: [""]
-    associatedethnicgroup: ["Egyptians"]
+    associatedethnicgroup: ["Egyptians", "MuslimArabEthnicGroup"]
   Sa’idiArabicLinguisticGroup:
     stringTokens: ["Sa’idi Arabic", "Saidi Arabic", "Upper Egyptian Arabic"]
     wikidataQnode: ["Q56592"]
