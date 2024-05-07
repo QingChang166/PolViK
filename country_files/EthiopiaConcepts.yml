@@ -134,6 +134,39 @@ concepts:
    languagesMostSpoken: ["Nara"]
    religionsMostPracticed: ["Sunni Islam"]
    livesIn: ["Eritrea", "Gash-Barka"]
+##LinguisticGroups: 
+  amharicLinuisticGroup: 
+   stringTokens: ["Amharic", "Am"]
+   wikidataQnode: ["Q28244"]
+   livesIn: ["addis abadda", "amhara"]
+   associatedethnicgroup: ["amharaEthnicGroup"]
+  oromoLinguisticGroup: 
+   stringTokens: ["Oromo", "om", "Afaan Oromoo", "Oromiffa", "Galla", "Oromoo", "Afaan Oromo", "Oromo language"]
+   wikidataQnode: ["Q33864"]
+   livesIn: ["oromia"]
+   associatedethnicgroup: ["oromoEthnicGroup"]
+
+
+
+
+Somali speakers numbering 6,720,000;
+Tigrinya speakers numbering 6,390,000;
+Sidama speakers numbering 4,340,000;
+Wolaytta speakers numbering 2,380,000;
+Sebat Bet Gurage speakers numbering 2,170,000;
+Afar speakers numbering 1,840,000.
+nara
+kunama
+beja
+tigre
+bilen
+saho
+kafa
+silte
+gedeo
+"Gamo-Gofa-Dawro
+hadiyya
+Wolaytta
    
   ##politicalparties
   ##List from wikipidia
