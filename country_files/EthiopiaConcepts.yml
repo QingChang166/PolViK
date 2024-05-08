@@ -145,29 +145,92 @@ concepts:
    wikidataQnode: ["Q33864"]
    livesIn: ["oromia"]
    associatedethnicgroup: ["oromoEthnicGroup"]
+  somaliLinguisticGroup: 
+   stringTokens: ["Somali"}
+   wikidataQnode: ["Q13275"]
+   livesIn: ["ogaden", "hawd"]
+   associatedethnicgroup: ["somaliEthnicGroup"]
+  tigrinyaLinguisticGroup: 
+   stringTokens: ["Tigrinya", "Tigrinja", "tigringa"}
+   wikidataQnode: ["Q34124"]
+   livesIn: []
+   associatedethnicgroup: ["tigrinyaEthnicGroup"]
+ sidamaLinguisticGroup: 
+   stringTokens: ["sidama", "sidamo", "sid"}
+   wikidataQnode: ["Q33786"]
+   livesIn: ["oromia"]
+   associatedethnicgroup: ["sidamaEthnicGroup"]
+ wolayttaLinguisticGroup: 
+   stringTokens: ["Wolaytta", "Wolaitta", "Wolaita", "Wal"}
+   wikidataQnode: ["Q36943"]
+   livesIn: ["Wolayita"]
+   associatedethnicgroup: ["welaytaEthnicGroup"]
+ sebatbetgurageLinguisticGroup: 
+   stringTokens: ["sebat bet gurage", "gurage"}
+   wikidataQnode: ["Q2707343"]
+   livesIn: ["gurage"]
+   associatedethnicgroup: ["gurageEthnicGroup"]
+ afarLinguisticGroup: 
+   stringTokens: ["Afar", "Adal", "’Afar Af", "Afaraf", "Qafar", "aa"}
+   wikidataQnode: ["Q27811"]
+   livesIn: ["afar", "amhara", "somali"]
+   associatedethnicgroup: ["afarEthnicGroup"]
+ naraLinguisticGroup: 
+   stringTokens: ["nara"}
+   wikidataQnode: ["Q36179"]
+   livesIn: []
+   associatedethnicgroup: ["naraEthnicGroup"]
+ kunamaLinguisticGroup: 
+   stringTokens: ["kunama"}
+   wikidataQnode: ["Q36041"]
+   livesIn: []
+   associatedethnicgroup: ["kunamaEthnicGroup"]
+ bejaLinguisticGroup: 
+   stringTokens: ["Bedawiyet", "Ti-Bedauye", "Ti-Bedaauye", "Tu-Bedawie", "To-Bedawye", "Bedja", "Bedawiye", "Bedawi",  "Bedwi", "Bedya", "Bedauye", "Badāwīyä", "Bidhaawyeet", "Tu-Bdhaawi", "bej", "beja"]
+   wikidataQnode: ["Q33025"]
+   livesIn: []
+   associatedethnicgroup: ["bejaEthnicGroup"]
+ tigreLinguisticGroup: 
+   stringTokens: ["tigre"]
+   wikidataQnode: ["Q34129"]
+   livesIn: []
+   associatedethnicgroup: ["tigreEthnicGroup"] 
+ bilenLinguisticGroup: 
+   stringTokens: ["bilen", "Bilin", "blin", "byn"]
+   wikidataQnode: ["Q56491"]
+   livesIn: []
+   associatedethnicgroup: ["bilenEthnicGroup"]
+ sahoLinguisticGroup: 
+   stringTokens: ["saho"]
+   wikidataQnode: ["Q36353"]
+   livesIn: ["afar", "tigray"]
+   associatedethnicgroup: ["sahoEthnicGroup"]
+  kaffichoLinguisticGroup: 
+   stringTokens: ["kafa", "kefa", "kaffa"]
+   wikidataQnode: ["Q35481"]
+   livesIn: ["oromia"]
+   associatedethnicgroup: ["kafaEthnicGroup"]
+  silteLinguisticGroup: 
+   stringTokens: ["Silt'e", "silte", "Selti"]
+   wikidataQnode: ["Q33880"]
+   livesIn: ["oromia"]
+   associatedethnicgroup: ["silteEthnicGroup"]
+  gedeoLinguisticGroup: 
+   stringTokens: ["gedeo"]
+   wikidataQnode: ["Q56622"]
+   livesIn: ["oromia"]
+   associatedethnicgroup: ["gedeoEthnicGroup"]
+ gamogofadawroLinguisticGroup: 
+   stringTokens: ["Gamo-Gofa-Dawro"]
+   wikidataQnode: ["Q56323"]
+   livesIn: ["Southern Nations, Nationalities, and Peoples' Region"]   ##Note this region no longer exists as of summer 2023, should now be Sidama Region, Southwest Ethiopia Region, South Ethiopia Regional State and Central Ethiopia Regional State, but unclear which of these is appropriate for this group.
+   associatedethnicgroup: ["gamoEthnicGroup"]
+ hadiyyaLinguisticGroup: 
+   stringTokens: ["hadiyya"]
+   wikidataQnode: ["Q56613"]
+   livesIn: ["oromia"]
+   associatedethnicgroup: ["hadiyaEthnicGroup"]
 
-
-
-
-Somali speakers numbering 6,720,000;
-Tigrinya speakers numbering 6,390,000;
-Sidama speakers numbering 4,340,000;
-Wolaytta speakers numbering 2,380,000;
-Sebat Bet Gurage speakers numbering 2,170,000;
-Afar speakers numbering 1,840,000.
-nara
-kunama
-beja
-tigre
-bilen
-saho
-kafa
-silte
-gedeo
-"Gamo-Gofa-Dawro
-hadiyya
-Wolaytta
-   
   ##politicalparties
   ##List from wikipidia
   ##Added Eritrean Parties pre-1991
