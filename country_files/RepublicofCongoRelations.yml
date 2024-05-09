@@ -27,3 +27,46 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, cocoyearmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ntsiloulousarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, flecarmedNonGovernmentalOrganizedGroup)
+
+  ##Linguistic Groups
+    kitubaLinguisticGroup:
+      stringTokens: ["kituba", "munukutuba"]
+      wikidataQnode: ["Q35746"]
+      livesIn: ["point-noire", "brazzaville"]
+      associatedethnicgroup: [""]
+    lingalaLinguisticGroup:
+      stringTokens: ["lingala", "ngala"]
+      wikidataQnode: ["Q36217"]
+      livesIn: ["brazzaville"]
+      associatedethnicgroup: [""]
+    kikongoLinguisticGroup:
+      stringTokens: ["kikongo", "kongo", "kg"]
+      wikidataQnode: ["Q33702"]
+      livesIn: [""]
+      associatedethnicgroup: ["kongoEthnicGroup"]
+    tekeLinguisticGroup:
+      stringTokens: ["teke"]
+      wikidataQnode: ["Q36528"]
+      livesIn: [""]
+      associatedethnicgroup: ["tekeEthnicGroup-RepublicofCongo"]
+    mboshiLinguisticGroup:
+      stringTokens: ["mboshi", "mbosi"]
+      wikidataQnode: ["Q36035"]
+      livesIn: ["plateaux", "cuvette-ouest", "cuvette"]
+      associatedethnicgroup: ["mbochiEthnicGroup"]
+    lariLinguisticGroup:
+      stringTokens: ["lari", "ladi", "lari"]
+      wikidataQnode: ["Q3217917"]
+      livesIn: ["bouenza", "pool", "brazzaville"]
+      associatedethnicgroup: ["lariEthnicGroup"]
+     bekwilLinguisticGroup:
+      stringTokens: ["bekwil", "bekwel"]
+      wikidataQnode: ["Q34950"]
+      livesIn: ["sangha"]
+      associatedethnicgroup: [""]
+     kotaLinguisticGroup:
+      stringTokens: ["kota"]
+      wikidataQnode: ["Q35607"]
+      livesIn: ["sangha", "cuvette-ouest", "cuvette"]
+      associatedethnicgroup: [""]
+
