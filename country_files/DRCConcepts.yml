@@ -78,6 +78,103 @@ concepts:
    wikidataQnode: ["Q793575"]
    religionsMostPracticed: ["Christianity", "African traditional religion"]
    livesIn: ["Bas-Uele", "Haut-Uele"]
+
+## linguistic groups
+  lingalaLinguisticGroup:
+    stringTokens: ["lingala", "ngala"]
+    wikidataQnode: ["Q36217"]
+    livesIn: ["kinshasa", "bandundu", "orientale", "equateur"]
+    associatedethnicgroup: [""]
+  kiswahiliLinguisticGroup:
+    stringTokens: ["Swahili", "Kiswahili", "sw","swa"]
+    wikidataQnode: ["Q7838"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  tshilubaLinguisticGroup:
+    stringTokens: ["Luba-Lulua", "Tshiluba", "Ciluba", "Western Luba", "Bena-Luba", "Luva", "Luba-Kasai"]
+    wikidataQnode: ["Q34173"]
+    livesIn: ["kasai", "kasai-oriental", "sankuru"]
+    associatedethnicgroup: ["lubaEthnicGroup"]
+  kikongoLinguisticGroup:
+    stringTokens: ["Kikongo", "kg", "Kongo", "kituba"]
+    wikidataQnode: ["Q33702"]
+    livesIn: [""]
+    associatedethnicgroup: ["kongoEthnicGroup"]
+  lundaLinguisticGroup:
+    stringTokens: ["lunda"]
+    wikidataQnode: ["Q33607"]
+    livesIn: ["kwango", "lualaba"]
+    associatedethnicgroup: ["lundaEthnicGroup"]
+  kilegaLinguisticGroup:
+    stringTokens: ["lega", "kilega"]
+    wikidataQnode: ["Q3196589"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  tetelaLinguisticGroup:
+    stringTokens: ["tetela"]
+    wikidataQnode: ["Q2613465"]
+    livesIn: ["equateur", "katanga", "kasai-oriental", "kasai", "maniema", "orientale"]
+    associatedethnicgroup: [""]
+  chokweLinguisticGroup:
+    stringTokens: ["chokwe"]
+    wikidataQnode: ["Q2422065"]
+    livesIn: [""]
+    associatedethnicgroup: ["tshokweEthnicGroup"]
+  budzaLinguisticGroup:
+    stringTokens: ["budza"]
+    wikidataQnode: ["Q3046889"]
+    livesIn: ["orientale", "equateur", "mongala"]
+    associatedethnicgroup: [""]
+   ngbandiLinguisticGroup:
+    stringTokens: ["ngbandi"]
+    wikidataQnode: ["Q36439"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  lenduLinguisticGroup:
+    stringTokens: ["lendu", "Baledha", "Kilendu"]
+    wikidataQnode: ["Q523823"]
+    livesIn: ["ituri", "orientale", "lendu"]
+    associatedethnicgroup: ["lenduEthnicGroup"]
+  mangbetuLinguisticGroup:
+    stringTokens: ["mangbetu", "Nemangbetu"]
+    wikidataQnode: ["Q56327"]
+    livesIn: ["orientale"]
+    associatedethnicgroup: [""]
+ yombeLinguisticGroup:
+    stringTokens: ["yombe", "kiyombe"]
+    wikidataQnode: ["Q10961975"]
+    livesIn: ["kongo central"]
+    associatedethnicgroup: [""]
+ nandeLinguisticGroup:
+    stringTokens: ["nande"]
+    wikidataQnode: ["Q3196953"]
+    livesIn: ["north kivu", "orientale"]
+    associatedethnicgroup: ["nandeEthnicGroup"]
+ ngbakaLinguisticGroup:
+    stringTokens: ["ngbaka"]
+    wikidataQnode: ["Q1165960"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+ zandeLinguisticGroup:
+    stringTokens: ["zande"]
+    wikidataQnode: ["Q35015"]
+    livesIn: ["bas-uele", "haut-uele"]
+    associatedethnicgroup: ["zandeEthnicGroup"]
+ lugbaraLinguisticGroup:
+    stringTokens: ["lugbara", "lugbarati"]
+    wikidataQnode: ["Q3272737"]
+    livesIn: ["ituri"]
+    associatedethnicgroup: [""]
+ kifuliiruLinguisticGroup:
+    stringTokens: ["kifuliiru", "Fuliiru", "Kifulero"]
+    wikidataQnode: ["Q7166821"]
+    livesIn: ["south kivu"]
+    associatedethnicgroup: [""]
+ komoLinguisticGroup:
+    stringTokens: ["komo"]
+    wikidataQnode: ["Q56681"]
+    livesIn: ["south kivu"]
+    associatedethnicgroup: [""]
 ##political parties  ##does this time coding work
   PPRDParty: 
    stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
