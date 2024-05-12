@@ -50,6 +50,77 @@ concepts:
      languagesMostSpoken: ["Tebu languages", "Arabic"]
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Zinder", "N'guigmi", "Bilma"]
+## linguisticgroups
+    KanuriLinguisticGroup:
+     stringTokens: ["Kanuri"]
+     wikidataQnode: ["Q36094"]
+     livesIn: ["Diffa Region", "Zinder Region", "Agadez Region", "Zinder", "Diffa", "N'Guigmi", "Bilma"]
+     associatedethnicgroup: ["Kanuri people"]
+    DazaLinguisticGroup:
+     stringTokens: ["Daza", "Dazaga"]
+     wikidataQnode: ["Q35244"]
+     livesIn: ["BET Region", "Bahr el Gazel Region", "Batha", "Borkou", "Hadjer-Lamis", "Kanem", "Lac", "Wadi-Fira", "Diffa", "Zinder"]
+     associatedethnicgroup: ["Daza people", "Gouran people"]
+    DendiLinguisticGroup:
+     stringTokens: ["Dendi"]
+     wikidataQnode: ["Q35164"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    GourmanchémaLinguisticGroup:
+     stringTokens: ["Gourmanchéma", "Goulmacema", "Gourma", "Gourmantche", "Gulimancema", "Gulmancema", "Gurma", "Gourmanchéma"]
+     wikidataQnode: ["Q35474"]
+     livesIn: [""]
+     associatedethnicgroup: ["Gurma people"]
+    HausaLinguisticGroup:
+     stringTokens: ["Hausa"]
+     wikidataQnode: ["Q56475"]
+     livesIn: [""]
+     associatedethnicgroup: ["Hausa people"]
+    LibyanArabicLinguisticGroup:
+     stringTokens: ["Libyan Arabic"]
+     wikidataQnode: ["Q56503"]
+     livesIn: [""]
+     associatedethnicgroup: ["Arab people"]
+    ChadianArabicLinguisticGroup:
+     stringTokens: ["Chadian Arabic", "Shuwa Arabic", "Shuwa", "Shua", "Suwa Arabic", "Baggara Arabic", "Western Sudanic Arabic"]
+     wikidataQnode: ["Q56497"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    TagdalLinguisticGroup:
+     stringTokens: ["Tagdal", "Gadal"]
+     wikidataQnode: ["Q36570"]
+     livesIn: [""]
+     associatedethnicgroup: ["Igdalen", "Iberogan"]
+    TamahaqLinguisticGroup:
+     stringTokens: ["Tamahaq", "Tahaggart Tamahaq"]
+     wikidataQnode: ["Q56703"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tuareg people"]
+    TasawaqLinguisticGroup:
+     stringTokens: ["Tasawaq"]
+     wikidataQnode: ["Q36564"]
+     livesIn: ["Agadez", "In-Gall"]
+     associatedethnicgroup: ["Isawaghan people", "Ingalkoyyu people"]
+    TawellemmetLinguisticGroup:
+     stringTokens: ["Tawellemmet", "Tahoua", "Tawallammat Tamajaq"]
+     wikidataQnode: ["Q56390"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tuarag people"]
+    AirTamajeqLinguisticGroup:
+     stringTokens: ["Air Tamajeq", "Tayart Tamajeq"]
+     wikidataQnode: ["Q56388"]
+     livesIn: ["Agadez"]
+     associatedethnicgroup: ["Tuareg people"]
+    TedaLinguisticGroup:
+     stringTokens: ["Teda", "Tedaga", "Todaga", "Todga", "Tudaga"]
+     wikidataQnode: ["Q36639"]
+     livesIn: ["Agadez"]
+     associatedethnicgroup: ["Teda people"]
+    ZarmaLinguisticGroup:
+     stringTokens: ["Zarma", "Djerma", "Dyabarma", "Dyarma", "Dyerma", "Adzerma", "Zabarma", "Zarbarma", "Zarmaci", "Zerma"]
+     wikidataQnode: ["Q36990"]
+     livesIn: ["Niamey"]
+     associatedethnicgroup: ["Zarma people"]
 ## politicalparties
     rdrParty:
      stringTokens: ["Democratic and Republican Renewal", "RDR-Tchanji"]
