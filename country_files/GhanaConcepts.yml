@@ -75,6 +75,325 @@ concepts:
      religionsMostPracticed: ["Islam"]
      livesIn: ["Nalerigu", "Gambaga", "Walewale"]
 
+ ## linguisticgroups
+    BonoLinguisticGroup:
+     stringTokens: ["Bono", "Abron", "Brong", "Bono Twi"]
+     wikidataQnode: ["Q34831"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bono people"]
+
+    AdangbeLinguisticGroup:
+     stringTokens: ["Adangbe", "Dangme"]
+     wikidataQnode: ["Q35141"]
+     livesIn: [""]
+     associatedethnicgroup: ["Dangbe people"]
+
+    AdeleLinguisticGroup:
+     stringTokens: ["Adele"]
+     wikidataQnode: ["Q27740"]
+     livesIn: [""]
+     associatedethnicgroup: ["Adele people"]
+
+    AhantaLinguisticGroup:
+     stringTokens: ["Ahanta", "Fanti"]
+     wikidataQnode: ["Q34729"]
+     livesIn: ["Takoradi", "Kasoa"]
+     associatedethnicgroup: ["Fanti people"]
+
+    AkanLinguisticGroup:
+     stringTokens: ["Akan", "Twi", "Fante"]
+     wikidataQnode: ["Q28026"]
+     livesIn: [""]
+     associatedethnicgroup: ["Akan people"]
+
+    AkposoLinguisticGroup:
+     stringTokens: ["Akposo", "Kposo", "Ikposo"]
+     wikidataQnode: ["Q35029"]
+     livesIn: ["Volta region"]
+     associatedethnicgroup: ["Kposo people", "Akposso people"]
+
+    AnimereLinguisticGroup:
+     stringTokens: ["Animere", "Anymere"]
+     wikidataQnode: ["Q34783"]
+     livesIn: ["Kecheibe", "Kunda"]
+     associatedethnicgroup: ["Benimbere people"]
+
+    ChakosiLinguisticGroup:
+     stringTokens: ["Chakosi", "Anufo"]
+     wikidataQnode: ["Q34845"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    AnyinLinguisticGroup:
+     stringTokens: ["Anyin", "Agni", "Agny", "Anyi"]
+     wikidataQnode: ["Q28395"]
+     livesIn: [""]
+     associatedethnicgroup: ["Anyi people"]
+
+    AvatimeLinguisticGroup:
+     stringTokens: ["Avatime", "Afatime", "Sideme", "Sia"]
+     wikidataQnode: ["Q34796"]
+     livesIn: ["Volta Region"]
+     associatedethnicgroup: ["Avatime people"]
+
+    EfutuLinguisticGroup:
+     stringTokens: ["Efutu", "Awutu"]
+     wikidataQnode: ["Q34847"]
+     livesIn: [""]
+     associatedethnicgroup: ["Efutu people"]
+
+    BimobaLinguisticGroup:
+     stringTokens: ["Bimoba", "Moba", "Moba–Bimoba"]
+     wikidataQnode: ["Q36010"]
+     livesIn: [""]
+     associatedethnicgroup: ["Moba people"]
+
+    BissaLinguisticGroup:
+     stringTokens: ["Bissa", "Bisa", "Bisan", "Bissanno"]
+     wikidataQnode: ["Q3293"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bissa people"]
+
+    KulangoLinguisticGroup:
+     stringTokens: ["Kulango"]
+     wikidataQnode: ["Q35731"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kulango people"]
+
+    BuliLinguisticGroup:
+     stringTokens: ["Buli", "Kanjaga", "Bili"]
+     wikidataQnode: ["Q35085"]
+     livesIn: [""]
+     associatedethnicgroup: ["Builsa District"]
+
+    ChakaliLinguisticGroup:
+     stringTokens: ["Chakali"]
+     wikidataQnode: ["Q35206"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    ChereponLinguisticGroup:
+     stringTokens: ["Cherepon", "Chiripon", "Chiripong", "Kyiripong", "Okere"]
+     wikidataQnode: ["Q35181"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    ChumburungLinguisticGroup:
+     stringTokens: ["Chumburung", "Kyongborong", "Nchimburu", "Nchummuru"]
+     wikidataQnode: ["Q35198"]
+     livesIn: ["Kpandae District", "Yeji"]
+     associatedethnicgroup: [""]
+
+    DagbaniLinguisticGroup:
+     stringTokens: ["Dagbani", "Dagbane", "Dagbanli", "Dagbanle"]
+     wikidataQnode: ["Q32238"]
+     livesIn: ["Kingdom of Dagbon"]
+     associatedethnicgroup: [""]
+
+    DangmeLinguisticGroup:
+     stringTokens: ["Dangme", "Dangme", "Adaŋgbi", "Adangme"]
+     wikidataQnode: ["Q35141"]
+     livesIn: [""]
+     associatedethnicgroup: ["Dangme people"]
+    
+    DegLinguisticGroup:
+     stringTokens: ["Deg", "Aculo", "Buru", "Degha", "Janela", "Mmfo", "Mo"]
+     wikidataQnode: ["Q35183"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    DeloLinguisticGroup:
+     stringTokens: ["Delo", "Ntrubo"]
+     wikidataQnode: ["Q35195"]
+     livesIn: [""]
+     associatedethnicgroup: ["Deloo people"]
+
+    DompoLinguisticGroup:
+     stringTokens: ["Dompo"]
+     wikidataQnode: ["Q35270"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    DwangLinguisticGroup:
+     stringTokens: ["Dwang"]
+     wikidataQnode: ["Q35258"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    SehwiLinguisticGroup:
+     stringTokens: ["Sehwi", "Esahie", "Asahyue", "Sefwi"]
+     wikidataQnode: ["Q36593"]
+     livesIn: [""]
+     associatedethnicgroup: ["Sehwi people"]
+
+    FarefareLinguisticGroup:
+     stringTokens: ["Farefare", "Frafra"]
+     wikidataQnode: ["Q35331"]
+     livesIn: [""]
+     associatedethnicgroup: ["Frafra people"]
+
+    GaLinguisticGroup:
+     stringTokens: ["Ga", "Gã"]
+     wikidataQnode: ["Q33287"]
+     livesIn: ["Accra"]
+     associatedethnicgroup: ["Ga people"]
+
+    GikyodeLinguisticGroup:
+     stringTokens: ["Gikyode", "Kyode", "Chode"]
+     wikidataQnode: ["Q35256"]
+     livesIn: [""]
+     associatedethnicgroup: ["Atwode people"]
+
+    GonjaLinguisticGroup:
+     stringTokens: ["Gonja", "Ngbanya", "Ngbanyito"]
+     wikidataQnode: ["Q35267"]
+     livesIn: ["Northern Ghana"]
+     associatedethnicgroup: ["Gonja people"]
+
+    GuaLinguisticGroup:
+     stringTokens: ["Gua", "Guang"]
+     wikidataQnode: ["Q35422"]
+     livesIn: ["Gonja", "Northern Savannah Region", "Nchumurus", "Oti", "Bono East"]
+     associatedethnicgroup: [""]
+
+    HangaLinguisticGroup:
+     stringTokens: ["Hanga"]
+     wikidataQnode: ["Q35426"]
+     livesIn: ["Savannah Region"]
+     associatedethnicgroup: [""]
+
+    Jwira–PepesaLinguisticGroup:
+     stringTokens: ["Jwira–Pepesa", "Gwira", "Pepesa–Jwira"]
+     wikidataQnode: ["Q35467"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    KasenaLinguisticGroup:
+     stringTokens: ["Kasena", "Kasem", "Kassena"]
+     wikidataQnode: ["Q35552"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kassena people", "Kassena", "Kasem", "Kassem"]
+
+    KonkombaLinguisticGroup:
+     stringTokens: ["Konkomba", "Likpakpaaln"]
+     wikidataQnode: ["Q35674"]
+     livesIn: [""]
+     associatedethnicgroup: ["Konkomba people"]
+
+    KonniLinguisticGroup:
+     stringTokens: ["Konni", "Koma", "Komung"]
+     wikidataQnode: ["Q35680"]
+     livesIn: ["Yikpabongo", "Nangurima"]
+     associatedethnicgroup: ["Koma people"]
+
+    KracheLinguisticGroup:
+     stringTokens: ["Krache", "Krachi", "Krakye"]
+     wikidataQnode: ["Q35658"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    LartehLinguisticGroup:
+     stringTokens: ["Larteh"]
+     wikidataQnode: ["Q35639"]
+     livesIn: ["Anum", "Lete", "Chiripon"]
+     associatedethnicgroup: [""]
+
+    LelemiLinguisticGroup:
+     stringTokens: ["Lelemi", "Lefana"]
+     wikidataQnode: ["Q35585"]
+     livesIn: ["Jasikan", "Volta region"]
+     associatedethnicgroup: ["Buem people"]
+
+    MampruliLinguisticGroup:
+     stringTokens: ["Mampruli", "Mamprusi", "Mampelle"]
+     wikidataQnode: ["Q35804"]
+     livesIn: ["Yizeesi", "Nakpanduri", "Gambaga", "Nalerigu", "Walewale"]
+     associatedethnicgroup: ["Mamprusi people"]
+
+    NafananLinguisticGroup:
+     stringTokens: ["Nafanan", "Nafanan", "Nafana"]
+     wikidataQnode: ["Q13297"]
+     livesIn: [""]
+     associatedethnicgroup: ["Nafana people"]
+
+    NtchamLinguisticGroup:
+     stringTokens: ["Ntcham", "Basari"]
+     wikidataQnode: ["Q36266"]
+     livesIn: [""]
+     associatedethnicgroup: ["Gurma people"]
+
+    NzemaLinguisticGroup:
+     stringTokens: ["Nzema", "Nzima", "Appolo"]
+     wikidataQnode: ["Q36337"]
+     livesIn: [""]
+     associatedethnicgroup: ["Nzema people"]
+
+    PaasaalLinguisticGroup:
+     stringTokens: ["Paasaal", "Pasaale Sisaala"]
+     wikidataQnode: ["Q36426"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    LikpeLinguisticGroup:
+     stringTokens: ["Likpe", "Sekpele"]
+     wikidataQnode: ["Q36257"]
+     livesIn: ["Oti region", "Oti"]
+     associatedethnicgroup: [""]
+
+    SiwuLinguisticGroup:
+     stringTokens: ["Siwu"]
+     wikidataQnode: ["Q36470"]
+     livesIn: ["Volta Region"]
+     associatedethnicgroup: [""]
+
+    SouthernBiriforLinguisticGroup:
+     stringTokens: ["Southern Birifor"]
+     wikidataQnode: ["Q32859745"]
+     livesIn: ["Upper West", "Northern regions"]
+     associatedethnicgroup: ["Birifor people"]
+
+    DagaareLinguisticGroup:
+     stringTokens: ["Dagaare", "Southern Dagaare"]
+     wikidataQnode: ["Q35159"]
+     livesIn: [""]
+     associatedethnicgroup: ["Dagaaba people"]
+
+    TafiLinguisticGroup:
+     stringTokens: ["Nyangbo-Tafi", "Tafi"]
+     wikidataQnode: ["Q7070884"]
+     livesIn: ["Volta Region"]
+     associatedethnicgroup: [""]
+
+    TampulmaLinguisticGroup:
+     stringTokens: ["Tampulma"]
+     wikidataQnode: ["Q36590)"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tamprusi people"]
+
+    SisaalaLinguisticGroup:
+     stringTokens: ["Sisaala"]
+     wikidataQnode: ["Q36532"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    WaliLinguisticGroup:
+     stringTokens: ["Wali"]
+     wikidataQnode: ["Q36895"]
+     livesIn: ["Upper West Region", "Northern Region", "Wa"]
+     associatedethnicgroup: ["Wala people"]
+
+    WasaLinguisticGroup:
+     stringTokens: ["Wasa", "Wassa", "Wasaw"]
+     wikidataQnode: ["Q85814483"]
+     livesIn: [""]
+     associatedethnicgroup: ["Wasa people"]
+
+    EweLinguisticGroup:
+     stringTokens: ["Ewe"]
+     wikidataQnode: ["Q30005"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
   ## politicalparties
     ndcParty:
      stringTokens: ["National Democratic Congress"]
