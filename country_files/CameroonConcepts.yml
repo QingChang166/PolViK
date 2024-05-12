@@ -290,14 +290,69 @@ concepts:
      wikidataQnode: ["Q35924"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    MuseyLinguisticGroup:
+     stringTokens: ["Musey"]
+     wikidataQnode: ["Q56328"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    MundangLinguisticGroup:
+     stringTokens: ["Mundang", "Kaele", "Musemban", "Nda", "Moundan", "Moundang"]
+     wikidataQnode: ["Q36032"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    MusguLinguisticGroup:
+     stringTokens: ["Musgu"]
+     wikidataQnode: ["Q3123545"]
+     livesIn: [""]
+     associatedethnicgroup: ["Musgum people"]
+    MuyangLinguisticGroup:
+     stringTokens: ["Muyang"]
+     wikidataQnode: ["Q3502301"]
+     livesIn: ["Tokombéré", "Mayo-Sava", "Far North Province"]
+     associatedethnicgroup: [""]
+    NgambayLinguisticGroup:
+     stringTokens: ["Ngambay", "Sara", "Sara Ngambai", "Gamba", "Gambaye", "Gamblai", "Ngambay"]
+     wikidataQnode: ["Q2372207"]
+     livesIn: [""]
+     associatedethnicgroup: ["Sara people"]
+    NgiemboonLinguisticGroup:
+     stringTokens: ["Ngiemboon"]
+     wikidataQnode: ["Q36286"]
+     livesIn: ["Province de l'Ouest", "Bamboutos"]
+     associatedethnicgroup: [""]
+    YembaLinguisticGroup:
+     stringTokens: ["Yemba"]
+     wikidataQnode: ["Q36917"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bamileke people"]
+    TupuriLinguisticGroup:
+     stringTokens: ["Tupuri", "Toupouri"]
+     wikidataQnode: ["Q36646"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tupuri people"]
+    TivLinguisticGroup:
+     stringTokens: ["Tiv"]
+     wikidataQnode: ["Q34131"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    TikarLinguisticGroup:
+     stringTokens: ["Tikar", "Tigé", "Tigré", "Tikari"]
+     wikidataQnode: ["Q36483"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tikar people", "Bezdan people"]
+    ChadianArabicLinguisticGroup:
+     stringTokens: ["Chadian Arabic", "Shuwa Arabic", "Western Sudanic Arabic", "West Sudanic Arabic "]
+     wikidataQnode: ["Q56497"]
+     livesIn: [""]
+     associatedethnicgroup: ["Arab people"]
+    OrokoLinguisticGroup:
+     stringTokens: ["Oroko", "Bakundu-Balue"]
+     wikidataQnode: ["Q36278"]
+     livesIn: ["Southwest", "Kribi"]
+     associatedethnicgroup: [""]
+    OkuLinguisticGroup:
+     stringTokens: ["Oku", "Ebkuo", "Ekpwo", "Ukfwo", "Bvukoo"]
+     wikidataQnode: ["Q36289"]
      livesIn: [""]
      associatedethnicgroup: [""]
   ## politicalparties
