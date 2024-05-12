@@ -45,6 +45,151 @@ concepts:
      languagesMostSpoken: ["Loma language"]
      religionsMostPracticed: ["Traditional religion"]
      livesIn: ["Macenta"]
+
+  ## linguisticgroups
+   BadyaraLinguisticGroup:
+     stringTokens: ["Badyara"]
+     wikidataQnode: ["Q35095"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+     
+   BagaLinguisticGroup:
+     stringTokens: ["Baga", "Barka"]
+     wikidataQnode: ["Q35005"]
+     livesIn: [""]
+     associatedethnicgroup: ["Baga people"]
+
+   BassariLinguisticGroup:
+     stringTokens: ["Bassari", "Basari", "Oniyan", "Onian", "Onëyan", "Ayan", "Biyan", "Wo"]
+     wikidataQnode: ["Q35098"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bassari people"]
+
+   DanLinguisticGroup:
+     stringTokens: ["Dan", "Yacouba", "Yaoba", "Yakubasa", "Gio", "Gyo", "Gio-Dan", "Da"]
+     wikidataQnode: ["Q1158971"]
+     livesIn: [""]
+     associatedethnicgroup: ["Dan people"]
+
+   LimbaLinguisticGroup:
+     stringTokens: ["Limba"]
+     wikidataQnode: ["Q35825"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   ManinkaLinguisticGroup:
+     stringTokens: ["Maninka", "Malinke", "Eastern Maninka"]
+     wikidataQnode: ["Q36186"]
+     livesIn: [""]
+     associatedethnicgroup: ["Mandinka people"]
+
+   KpelleLinguisticGroup:
+     stringTokens: ["Kpelle"]
+     wikidataQnode: ["Q35673"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kpelle people"]
+
+   JahankaLinguisticGroup:
+     stringTokens: ["Jahanka"]
+     wikidataQnode: ["Q3913992"]
+     livesIn: ["Boké", "Gabu"]
+     associatedethnicgroup: [""]
+
+   KakabeLinguisticGroup:
+     stringTokens: ["Kakabe"]
+     wikidataQnode: ["Q3913966"]
+     livesIn: ["Futa-Jallon plateau"]
+     associatedethnicgroup: [""]
+
+   KonoLinguisticGroup:
+     stringTokens: ["Kono", "Kpelle"]
+     wikidataQnode: ["Q35673"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kpelle people"]
+
+   KurankoLinguisticGroup:
+     stringTokens: ["Kuranko"]
+     wikidataQnode: ["Q3198896"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kuranko people"]
+
+   LandomaLinguisticGroup:
+     stringTokens: ["Landoma", "Landouman", "Landuma", "Cocoli", "Cikogoli"]
+     wikidataQnode: ["Q35568"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   LeleLinguisticGroup:
+     stringTokens: ["Lele"]
+     wikidataQnode: ["Q6520837"]
+     livesIn: ["Kissidougou", "Guéckédou Prefectures"]
+     associatedethnicgroup: [""]
+
+   ManoLinguisticGroup:
+     stringTokens: ["Mano", "Maa", "Mah", "Mawe"]
+     wikidataQnode: ["Q3913286"]
+     livesIn: ["Nzérékoré", "Lola", "Yomou"]
+     associatedethnicgroup: ["Mano people"]
+
+   MixiforeinguisticGroup:
+     stringTokens: ["Mixifore", "Mogofin"]
+     wikidataQnode: ["Q3914478"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   NaluLinguisticGroup:
+     stringTokens: ["Nalu", "Nalou"]
+     wikidataQnode: ["Q36026"]
+     livesIn: [""]
+     associatedethnicgroup: ["Nalu people"]
+
+   KissiLinguisticGroup:
+     stringTokens: ["Kissi", "Kisi"]
+     wikidataQnode: ["Q35696"]
+     livesIn: ["Kissidougou", "Guéckédou"]
+     associatedethnicgroup: ["Kissi people"]
+
+   LinguisticGroup:
+     stringTokens: [""]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   LinguisticGroup:
+     stringTokens: [""]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   LinguisticGroup:
+     stringTokens: [""]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   LinguisticGroup:
+     stringTokens: [""]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   LinguisticGroup:
+     stringTokens: [""]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   LinguisticGroup:
+     stringTokens: [""]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+
+
+
+
+
     
   ## politicalparties
    PRGParty:
