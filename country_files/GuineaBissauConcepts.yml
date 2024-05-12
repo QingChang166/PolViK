@@ -38,7 +38,92 @@ concepts:
      languagesMostSpoken: ["Manding languages"]
      religionsMostPracticed: ["Traditional religion"]
      livesIn: ["Coastal areas", "Farim"]
-    
+
+  ## linguisticgroups
+   BanyunLinguisticGroup:
+     stringTokens: ["Bainouk-Gunyuño", "Banyun", "Nyun", "Bainouk", "Banyum"]
+     wikidataQnode: ["Q2892477"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bainuk people"]
+
+   BalantaLinguisticGroup:
+     stringTokens: ["Balanta", "Balant"]
+     wikidataQnode: ["Q35006"]
+     livesIn: [""]
+     associatedethnicgroup: ["Balanta people"]
+
+   BiafadaLinguisticGroup:
+     stringTokens: ["Biafada"]
+     wikidataQnode: ["Q35099"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   BijagoLinguisticGroup:
+     stringTokens: ["Bijago", "Bidyogo"]
+     wikidataQnode: ["Q35365"]
+     livesIn: ["Bissagos Islands"]
+     associatedethnicgroup: [""]
+
+   FulaLinguisticGroup:
+     stringTokens: ["Fula"]
+     wikidataQnode: ["Q33454"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fula people"]
+
+   Guinea-BissauCreoleLinguisticGroup:
+     stringTokens: ["Guinea-Bissau Creole", "Kiriol", "Crioulo", "Upper Guinea Crioulo", "Upper Guinea Creole", "Kriol", "Guinea-Bissau Creole Portuguese", "Guinea-Bissau Kriyol"]
+     wikidataQnode: ["Q33339"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   Jola-FelupeLinguisticGroup:
+     stringTokens: ["Jola-Felupe", "Feloup", "Felup", "Felupe", "Floup", "Flup", "Fulup", "Ejamat", "Ediamat"]
+     wikidataQnode: ["Q6269820"]
+     livesIn: ["Cacheu", "Ziguinchor"]
+     associatedethnicgroup: [""]
+
+   BadyaraLinguisticGroup:
+     stringTokens: ["Badyara"]
+     wikidataQnode: ["Q35095"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   MandinkaLinguisticGroup:
+     stringTokens: ["Mandinka", "Mandingo"]
+     wikidataQnode: ["Q33678"]
+     livesIn: [""]
+     associatedethnicgroup: ["Mandinka people"]
+   
+   ManjakLinguisticGroup:
+     stringTokens: ["Manjak", "Manjack", "Kanyop"]
+     wikidataQnode: ["Q35822"]
+     livesIn: [""]
+     associatedethnicgroup: ["Manjack people"]
+
+   MankanyaLinguisticGroup:
+     stringTokens: ["Mankanya"]
+     wikidataQnode: ["Q35789"]
+     livesIn: [""]
+     associatedethnicgroup: ["Mankanya people"]
+
+   SuaLinguisticGroup:
+     stringTokens: ["Sua", "Mansoanka"]
+     wikidataQnode: ["Q35814"]
+     livesIn: ["Mansôa"]
+     associatedethnicgroup: [""]
+
+   NaluLinguisticGroup:
+     stringTokens: ["Nalu", "Nalou"]
+     wikidataQnode: ["Q36026"]
+     livesIn: [""]
+     associatedethnicgroup: ["Nalu people"]
+
+   PapelLinguisticGroup:
+     stringTokens: ["Papel", "Pepel", "Papei"]
+     wikidataQnode: ["Q36314"]
+     livesIn: [""]
+     associatedethnicgroup: ["Papel people"]
+
   ## politicalparties
    RGB-MBParty:
      stringTokens: ["Resistance of Guinea-Bissau-Bafatá Movement"]
