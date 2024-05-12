@@ -94,6 +94,127 @@ concepts:
      languagesMostSpoken: ["Oro"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Bakassi region"]
+  ## linguisticgroups
+    BakaLinguisticGroup:
+     stringTokens: ["Baka", "Bakaka", "Bibaya", "Kaa"]
+     wikidataQnode: ["Q34905"]
+     livesIn: [""]
+     associatedethnicgroup: ["Baka people"]
+    AdamawaFulfuldeLinguisticGroup:
+     stringTokens: ["Adamawa Fulfulde", "Adamaua Fulani"]
+     wikidataQnode: ["Q34776"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fula people"]
+    ManengubaLinguisticGroup:
+     stringTokens: ["Manenguba", "Mbo", "Ngoe"]
+     wikidataQnode: ["Q31147471"]
+     livesIn: ["Bakossi", "Mbo", "Bakaka", "Bassossi"]
+     associatedethnicgroup: [""]
+    BabankiLinguisticGroup:
+     stringTokens: ["Babanki", "Kejom"]
+     wikidataQnode: ["Q34790"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kejom people"]
+    BafiaLinguisticGroup:
+     stringTokens: ["Bafia"]
+     wikidataQnode: ["Q34930"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bafia people"]
+    FutLinguisticGroup:
+     stringTokens: ["Fut", "Bafut"]
+     wikidataQnode: ["Q34888"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    BakaLinguisticGroup:
+     stringTokens: ["Baka", "Be-bayaga", "Be-bayaka", "Bibaya de L’est", "Bakaka", "Bibaya", "Kaa"]
+     wikidataQnode: ["Q34905"]
+     livesIn: [""]
+     associatedethnicgroup: ["Baka people"]
+    KogoLinguisticGroup:
+     stringTokens: ["Kogo", "Bakoko", "Basoo"]
+     wikidataQnode: ["Q34866"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bakoko people"]
+    KpweLinguisticGroup:
+     stringTokens: ["Kpwe", "Mokpwe", "Bakole"]
+     wikidataQnode: ["Q36428"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kpwe people", "Mboko people"]
+    BamumLinguisticGroup:
+     stringTokens: ["Bamum", "Shupamem", "Bamun", "Bamoun"]
+     wikidataQnode: ["Q35280"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bamun people"]
+    BasaaLinguisticGroup:
+     stringTokens: ["Basaa", "Bassa", "Basa", "Bissa", "Mbene"]
+     wikidataQnode: ["Q33093"]
+     livesIn: ["Centre and Littoral Provinces"]
+     associatedethnicgroup: ["Basaa people"]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    LinguisticGroup:
+     stringTokens: ["]
+     wikidataQnode: [""]
+     livesIn: [""]
+     associatedethnicgroup: [""]
   ## politicalparties
     sdfParty:
      stringTokens: ["Social Democratic Front"]
