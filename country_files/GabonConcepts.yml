@@ -66,9 +66,112 @@ concepts:
      languagesMostSpoken: ["Mbere languages"]
      livesIn: ["Haut Ogooué"]
 
-    TekeEthnicGroup:
+   TekeEthnicGroup:
      stringTokens: ["Teke", "bateke", "tyo", "tio"]
      wikidataQnode: ["Q811078"]
+
+  ## linguisticgrouos
+   FangLinguisticGroup:
+     stringTokens: ["Fang"]
+     wikidataQnode: ["Q33484"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fang people"]
+
+   SekiLinguisticGroup:
+     stringTokens: ["Seki", "Baseke", "Sheke", "Sekiana"]
+     wikidataQnode: ["Q36547"]
+     livesIn: ["Rio Campo"]
+     associatedethnicgroup: [""]
+
+   BengaLinguisticGroup:
+     stringTokens: ["Benga", "Bapuku"]
+     wikidataQnode: ["Q34952"]
+     livesIn: ["Río Muni", "Rio Benito", "Bata", "Corisco", "Small Elobey", "Great Elobey"]
+     associatedethnicgroup: ["Benga people"]
+   
+   BubeLinguisticGroup:
+     stringTokens: ["Bube", "Bohobé", "Bube–Benga", "Bobe", "Bubi"]
+     wikidataQnode: ["Q35110"]
+     livesIn: ["Bioko island"]
+     associatedethnicgroup: ["Bubi people"]
+
+   BakaLinguisticGroup:
+     stringTokens: ["Baka", "Bakaka", "Bibaya", "Kaa"]
+     wikidataQnode: ["Q34905"]
+     livesIn: [""]
+     associatedethnicgroup: ["Baka people"]
+
+   KeleLinguisticGroup:
+     stringTokens: ["Kele", "Ngom"]
+     wikidataQnode: ["Q35559"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kele people"]
+
+   LumbuLinguisticGroup:
+     stringTokens: ["Lumbu", "Ilumbu", "Yilumbu", "Yiloumbou"]
+     wikidataQnode: ["Q35793"]
+     livesIn: [""]
+     associatedethnicgroup: ["Balumbu people", "Babongo people"]
+
+   MbereLinguisticGroup:
+     stringTokens: ["Mbere", "Mbede", "Mbete"]
+     wikidataQnode: ["Q36062"]
+     livesIn: [""]
+     associatedethnicgroup: ["Ambede people"]
+
+   MyeneLinguisticGroup:
+     stringTokens: ["Myene"]
+     wikidataQnode: ["Q35832"]
+     livesIn: ["Ogooue-Maritime Province", "Middle Ogooue Province"]
+     associatedethnicgroup: [""]
+
+   NjebiLinguisticGroup:
+     stringTokens: ["Njebi", "Nzebi", "Njabi", "Ndzabi", "Yinjebi"]
+     wikidataQnode: ["Q35923"]
+     livesIn: ["Banjabi", "Bongo"]
+     associatedethnicgroup: [""]
+
+   PunuLinguisticGroup:
+     stringTokens: ["Punu", "Yipunu"]
+     wikidataQnode: ["Q36401"]
+     livesIn: [""]
+     associatedethnicgroup: ["Punu people"]
+
+   SanguLinguisticGroup:
+     stringTokens: ["Sangu", "Chango", "Isangu", "Shango", "Yisangou", "Yisangu"]
+     wikidataQnode: ["Q36609"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   ShiraLinguisticGroup:
+     stringTokens: ["Shira", "Sira"]
+     wikidataQnode: ["Q36599"]
+     livesIn: [""]
+     associatedethnicgroup: ["Shira people"]
+
+   NorthTekeLinguisticGroup:
+     stringTokens: ["North Teke", "Teke-Tege", "Tege", "Teghe", "Itege"]
+     wikidataQnode: ["Q36478"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   TsaangiLinguisticGroup:
+     stringTokens: ["Tsaangi"]
+     wikidataQnode: ["Q36675"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   ViliLinguisticGroup:
+     stringTokens: ["Vili"]
+     wikidataQnode: ["Q3558409"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   WumbvuLinguisticGroup:
+     stringTokens: ["Wumbvu", "Wumvu"]
+     wikidataQnode: ["Q36891"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
     
   ## politicalparties
    PDGParty:
