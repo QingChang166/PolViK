@@ -150,59 +150,144 @@ concepts:
      wikidataQnode: ["Q33093"]
      livesIn: ["Centre and Littoral Provinces"]
      associatedethnicgroup: ["Basaa people"]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    BitareLinguisticGroup:
+     stringTokens: ["Bitare"]
+     wikidataQnode: ["Q34946"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    BokyiLinguisticGroup:
+     stringTokens: ["Bokyi", "Boki", "Nfua", "Nki", "Okii", "Osikom", "Osukam", "Uki", "Vaanerok"]
+     wikidataQnode: ["Q35087"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bokyi people"]
+    BomwaliLinguisticGroup:
+     stringTokens: ["Bomwali"]
+     wikidataQnode: ["Q34984"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    BubeLinguisticGroup:
+     stringTokens: ["Bube", "Bohobé", "Bube–Benga", "Bobe", "Bubi"]
+     wikidataQnode: ["Q35110"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bubi people"]
+    YedinaLinguisticGroup:
+     stringTokens: ["Yedina", "Buduma", "Boudouma"]
+     wikidataQnode: ["Q56287"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    BuluLinguisticGroup:
+     stringTokens: ["Bulu"]
+     wikidataQnode: ["Q35028"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bulu people"]
+    MambilaLinguisticGroup:
+     stringTokens: ["Mambila"]
+     wikidataQnode: ["Q35800"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    CameroonianPidginEnglishLinguisticGroup:
+     stringTokens: ["Cameroonian Pidgin English", "Cameroon Pidgin", "Cameroonian Creole", "Kamtok"]
+     wikidataQnode: ["Q35541"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    JaghamLinguisticGroup:
+     stringTokens: ["Jagham", "Ejagham", "Ekoi"]
+     wikidataQnode: ["Q35296"]
+     livesIn: [""]
+     associatedethnicgroup: ["Ekoi people"]
+    EtonLinguisticGroup:
+     stringTokens: ["Eton"]
+     wikidataQnode: ["Q35317"]
+     livesIn: [""]
+     associatedethnicgroup: ["Eton people"]
+    EwondoLinguisticGroup:
+     stringTokens: ["Ewondo", "Beti"]
+     wikidataQnode: ["Q35459"]
+     livesIn: [""]
+     associatedethnicgroup: ["Beti people"]
+    FangLinguisticGroup:
+     stringTokens: ["Fang"]
+     wikidataQnode: ["Q33484"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fang people"]
+    FeʼfeʼLinguisticGroup:
+     stringTokens: ["Feʼfeʼ", "Nufi", "Bafang"]
+     wikidataQnode: ["Q35276"]
+     livesIn: ["Haut-Nkam"]
+     associatedethnicgroup: ["Bamileke Feʼefeʼe"]
+    GhomalaʼLinguisticGroup:
+     stringTokens: ["Ghomalaʼ", "Ghomala", "Bamileke-Banjun", "Bamiléké-Bandjoun", "Bamileke-Bandjoun"]
+     wikidataQnode: ["Q35271"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bamileke people"]
+    GidarLinguisticGroup:
+     stringTokens: ["Gidar", "Kaɗa"]
+     wikidataQnode: ["Q35265"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    KomaLinguisticGroup:
+     stringTokens: ["Koma"]
+     wikidataQnode: ["Q35634"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    KakoLinguisticGroup:
+     stringTokens: ["Kako", "Mkako", "Mkaka"]
+     wikidataQnode: ["Q35755"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    KomLinguisticGroup:
+     stringTokens: ["Kom", "Bamekon", "Bikom", "Ekom", "Etang", "Nkom"]
+     wikidataQnode: ["Q1656595"]
+     livesIn: ["Northwest Province"]
+     associatedethnicgroup: ["Kom people"]
+    NsoLinguisticGroup:
+     stringTokens: ["Nso", "Lamnso'"]
+     wikidataQnode: ["Q35788"]
+     livesIn: [""]
+     associatedethnicgroup: ["Nso people"]
+    LimbumLinguisticGroup:
+     stringTokens: ["Limbum"]
+     wikidataQnode: ["Q35801"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    MafaLinguisticGroup:
+     stringTokens: ["Mafa"]
+     wikidataQnode: ["Q35819"]
+     livesIn: [""]
+     associatedethnicgroup: ["Mafa people"]
+    MakaaLinguisticGroup:
+     stringTokens: ["Makaa", "South Makaa", "Maka", "Mekaa", "South Mekaa"]
+     wikidataQnode: ["Q35803"]
+     livesIn: [""]
+     associatedethnicgroup: ["Makaa people"]
+    MassaLinguisticGroup:
+     stringTokens: ["Massa", "Masana", "Masa"]
+     wikidataQnode: ["Q56668"]
+     livesIn: [""]
+     associatedethnicgroup: ["Masa people"]
+    MedumbaLinguisticGroup:
+     stringTokens: ["Medumba"]
+     wikidataQnode: ["Q36019"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bamileke people"]
+    MetaʼLinguisticGroup:
+     stringTokens: ["Metaʼ"]
+     wikidataQnode: ["Q36054"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    LinguisticGroup:
-     stringTokens: ["]
-     wikidataQnode: [""]
+    Mofu-GudurLinguisticGroup:
+     stringTokens: ["Mofu-Gudur", "South Mofu"]
+     wikidataQnode: ["Q1365132"]
+     livesIn: ["Far North Province"]
+     associatedethnicgroup: [""]
+    VereLinguisticGroup:
+     stringTokens: ["Vere", "Gwèri", "Kobo", "Mom Jango"]
+     wikidataQnode: ["Q35862"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+    MpumpongLinguisticGroup:
+     stringTokens: ["Mpumpong"]
+     wikidataQnode: ["Q35924"]
      livesIn: [""]
      associatedethnicgroup: [""]
     LinguisticGroup:
