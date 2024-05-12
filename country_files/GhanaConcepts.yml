@@ -7,7 +7,6 @@ concepts:
     akanEthnicGroup:
      stringTokens: ["Akan poeple", "Akan"]
      wikidataQnode: ["Q415693"]
-     
      languagesMostSpoken: ["Akan"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Ashanti Region"]
@@ -392,7 +391,7 @@ concepts:
      stringTokens: ["Ewe"]
      wikidataQnode: ["Q30005"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["Ewe people"]
 
   ## politicalparties
     ndcParty:
