@@ -38,7 +38,62 @@ concepts:
      languagesMostSpoken: ["Portuguese Creole", "Annobosene Creole", "Fa d'Ambu"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Annobón"]
-    
+
+  ## ethnicgroups
+   BengaLinguisticGroup:
+     stringTokens: ["Benga", "Bapuku"]
+     wikidataQnode: ["Q34952"]
+     livesIn: ["Río Muni", "Rio Benito", "Bata", "Corisco", "Small Elobey", "Great Elobey"]
+     associatedethnicgroup: ["Benga people"]
+
+   BubeLinguisticGroup:
+     stringTokens: ["Bube", "Bohobé", "Bube–Benga", "Bobe", "Bubi"]
+     wikidataQnode: ["Q35110"]
+     livesIn: ["Bioko island"]
+     associatedethnicgroup: ["Bubi people"]
+
+   PichinglisLinguisticGroup:
+     stringTokens: ["Pichinglis", "Fernando Po Creole English", "Equatorial Guinea Pidgin", "Pichi", "Fernandino"]
+     wikidataQnode: ["Q35288"]
+     livesIn: ["Bioko"]
+     associatedethnicgroup: [""]
+
+   AnnoboneseLinguisticGroup:
+     stringTokens: ["Annobonese Creole", "Fa d'Ambu", "Fá d'Ambô", "Annobonese"]
+     wikidataQnode: ["Q34992"]
+     livesIn: ["Annobón", "Bioko"]
+     associatedethnicgroup: ["Annobonese people"]
+
+   FangLinguisticGroup:
+     stringTokens: ["Fang"]
+     wikidataQnode: ["Q33484"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fang people"]
+
+   KwasioLinguisticGroup:
+     stringTokens: ["Kwasio", "Ngumba", "Mvumbo", "Bujeba", "Gyele", "Kola"]
+     wikidataQnode: ["Q34098"]
+     livesIn: [""]
+     associatedethnicgroup: ["Ngumba people", "Kwasio people", "Gyele people", "Mabi people"]
+
+   IyasaLinguisticGroup:
+     stringTokens: ["Iyasa", "Yasa]
+     wikidataQnode: ["Q36899"]
+     livesIn: [""]
+     associatedethnicgroup: ["Yasa people", "Pygmies people"]
+
+   KombeLinguisticGroup:
+     stringTokens: ["Kombe", "Ngumbi"]
+     wikidataQnode: ["Q36459"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kombe people"]
+
+   SekiLinguisticGroup:
+     stringTokens: ["Seki", "Baseke", "Sheke", "Sekiana"]
+     wikidataQnode: ["Q36547"]
+     livesIn: ["Rio Campo"]
+     associatedethnicgroup: [""]
+
   ## politicalparties
    CPDSParty:
      stringTokens: ["Convergence for Social Democracy"]
