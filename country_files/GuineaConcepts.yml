@@ -149,48 +149,54 @@ concepts:
      livesIn: ["Kissidougou", "Guéckédou"]
      associatedethnicgroup: ["Kissi people"]
 
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+   N’KoLinguisticGroup:
+     stringTokens: ["N’Ko"]
+     wikidataQnode: ["Q18546266"]
      livesIn: [""]
      associatedethnicgroup: [""]
 
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+   PulaarLinguisticGroup:
+     stringTokens: ["Pulaar"]
+     wikidataQnode: ["Q1420205"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["Fula people", "Toucouleur people"]
 
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+   PularLinguisticGroup:
+     stringTokens: ["Pular"]
+     wikidataQnode: ["Q3915357"]
+     livesIn: ["Fouta Djallon"]
+     associatedethnicgroup: ["Fula people"]
+
+   SoninkeLinguisticGroup:
+     stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
+     wikidataQnode: ["Q36660"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["Soninke people"]
 
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+   SusuLinguisticGroup:
+     stringTokens: ["Susu", "Soso"]
+     wikidataQnode: ["Q33990"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["Susu people"]
 
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+   LomaLinguisticGroup:
+     stringTokens: ["Loghoma", "Looma", "Lorma", "Toma", "Loma"]
+     wikidataQnode: ["Q35885"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["Loma people"]
 
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+   WameyLinguisticGroup:
+     stringTokens: ["Wamey", "Konyagi"]
+     wikidataQnode: ["Q36935"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["Konyagui people"]
 
-
-
-
-
-
-    
+   YalunkaLinguisticGroup:
+     stringTokens: ["Yalunka", "Jalonke", "Kjalonke", "Dyalonké", "Djallonké", "Dialonké"]
+     wikidataQnode: ["Q35524"]
+     livesIn: [""]
+     associatedethnicgroup: ["Yalunka people"]
+   
   ## politicalparties
    PRGParty:
      stringTokens: ["Rally of the Guinean People"]
