@@ -80,7 +80,230 @@ concepts:
      languagesMostSpoken: ["Dagbani", "Dagbanle", "Dagbanli"]
      religionsMostPracticed: ["Islam"]
      livesIn: [""]
-    
+
+  ## linguisticgroups
+    AgunaLinguisticGroup:
+     stringTokens: ["Aguna"]
+     wikidataQnode: ["Q34733"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    PhlaLinguisticGroup:
+     stringTokens: ["Phla", "Xwla", "Kpla", "West Xwla", "Western Xwla Gbe"]
+     wikidataQnode: ["Q36924"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    KabiyèLinguisticGroup:
+     stringTokens: ["Kabiyè", "Kabye", "Kabiye"]
+     wikidataQnode: ["Q35475"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    NotreLinguisticGroup:
+     stringTokens: ["Notre", "Boulba"]
+     wikidataQnode: ["Q11009194"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    AjaLinguisticGroup:
+     stringTokens: ["Aja"]
+     wikidataQnode: ["Q35035"]
+     livesIn: [""]
+     associatedethnicgroup: ["Aja people"]
+
+    EdeLinguisticGroup:
+     stringTokens: ["Ede", "Ede Ica", "Kura Ede Nago", "Ede Idaca", "Ede Ije"]
+     wikidataQnode: ["Q35368"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    AyizoLinguisticGroup:
+     stringTokens: ["Ayizo", "Kotafon Gbe", "Ayizo Gbe"]
+     wikidataQnode: ["Q34841"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    SaxweLinguisticGroup:
+     stringTokens: ["Saxwe", "Saxwe Gbe"]
+     wikidataQnode: ["Q7428892"]
+     livesIn: ["Atlantique", "Mono"]
+     associatedethnicgroup: [""]
+
+    AniiLinguisticGroup:
+     stringTokens: ["Anii", "Basila"]
+     wikidataQnode: ["Q34838"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    ChakosiLinguisticGroup:
+     stringTokens: ["Chakosi", "Anufo"]
+     wikidataQnode: ["Q34845"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    KyengaLinguisticGroup:
+     stringTokens: ["Kyenga", "Tyenga", "Tienga", "Kyanga", "Tyanga", "Cenka", "Kenga"]
+     wikidataQnode: ["Q3913304"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    TchumbuliLinguisticGroup:
+     stringTokens: ["Tchumbuli"]
+     wikidataQnode: ["Q11008162"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    LamaLinguisticGroup:
+     stringTokens: ["Lama"]
+     wikidataQnode: ["Q35652"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    TofinLinguisticGroup:
+     stringTokens: ["Tofin"]
+     wikidataQnode: ["Q3530330"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    BaatonumLinguisticGroup:
+     stringTokens: ["Baatonum", "Bariba", "Baatombu", "Baatonu", "Barba", "Baruba", "Berba"]
+     wikidataQnode: ["Q34889"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    FonLinguisticGroup:
+     stringTokens: ["Fon", "Dahomean", "Maxi Gbe", "Weme Gbe", "Ci Gbe", "Defi Gbe"]
+     wikidataQnode: ["Q33291"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    LukpaLinguisticGroup:
+     stringTokens: ["Lukpa", "Legba", "Logba"]
+     wikidataQnode: ["Q3258739"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    WaamaLinguisticGroup:
+     stringTokens: ["Waama", "Yoabu"]
+     wikidataQnode: ["Q7958576"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    BialiLinguisticGroup:
+     stringTokens: ["Biali", "Berba", "Biali", "Bieri", "Bjeri", "Bjerbe", "Bialaba"]
+     wikidataQnode: ["Q34961"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    FoodoLinguisticGroup:
+     stringTokens: ["Foodo"]
+     wikidataQnode: ["Q5465566"]
+     livesIn: ["Donga", "Sèmèrè"]
+     associatedethnicgroup: [""]
+
+    WaciLinguisticGroup:
+     stringTokens: ["Waci", "Waci Gbe"]
+     wikidataQnode: ["Q36987"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    BokoLinguisticGroup:
+     stringTokens: ["Boko", "Boo", "Busanci" "Busanchi", "Bussanci", "Bussanchi"]
+     wikidataQnode: ["Q34983"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bissa people"]
+
+    MbelimeLinguisticGroup:
+     stringTokens: ["Mbelime", "Niende"]
+     wikidataQnode: ["Q4286473"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    BorguFulfuldeLinguisticGroup:
+     stringTokens: ["Borgu Fulfulde", "Borgu Fulani", "Benin-Togo Fulfulde", "Fulbe-Borgu", "Peul", "Fula"]
+     wikidataQnode: ["Q12952426"]
+     livesIn: ["Fula people"]
+     associatedethnicgroup: [""]
+
+    GenLinguisticGroup:
+     stringTokens: ["Gen", "Gebe", "Guin", "Mina", "Mina-Gen", "Popo"]
+     wikidataQnode: ["Q33450"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    YobeLinguisticGroup:
+     stringTokens: ["Miyobe", "Soruba", "Yobe"]
+     wikidataQnode: ["Q35913"]
+     livesIn: [""]
+     associatedethnicgroup: ["Biyobe people"]
+     
+    WesternNigerFulfuldeLinguisticGroup:
+     stringTokens: ["Western Niger Fulfulde", "Gorgal Niiser Fulfulde"]
+     wikidataQnode: ["Q12952430"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fula people"]
+
+    MokoleLinguisticGroup:
+     stringTokens: ["Mokole", "Mokollé", "Mokwale", "Monkole", "Féri"]
+     wikidataQnode: ["Q36047"]
+     livesIn: ["Kandi"]
+     associatedethnicgroup: [""]
+
+    PheráLinguisticGroup:
+     stringTokens: ["Pherá", "Xwela Gbe", "Xwela"]
+     wikidataQnode: ["Q36887"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    GourmanchémaLinguisticGroup:
+     stringTokens: ["Gourmanchéma", "Goulmacema", "Gourma", "Gourmantche", "Gulimancema", "Gulmancema", "Gurma", "Gourmanchéma"]
+     wikidataQnode: ["Q35474"]
+     livesIn: [""]
+     associatedethnicgroup: ["Gurma people"]
+
+    NateniLinguisticGroup:
+     stringTokens: ["Nateni", "Natemba"]
+     wikidataQnode: ["Q3070731"]
+     livesIn: [""]
+     associatedethnicgroup: ["Gurma people"]
+
+    YomLinguisticGroup:
+     stringTokens: ["Yom", "Pilapila", "Kiliŋa", "Kilir"]
+     wikidataQnode: ["Q36893"]
+     livesIn: ["Djougou", "Atakora", "Borgou"]
+     associatedethnicgroup: ["Yoa-Lokpa people", "Temba people", "Yoba people"]
+
+    DendiLinguisticGroup:
+     stringTokens: ["Dendi"]
+     wikidataQnode: ["Q35164"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+    GunLinguisticGroup:
+     stringTokens: ["Gun", "Gungbe", "Gun-gbe", "Egun", "Gun-Alada", "Gu", "Goun"]
+     wikidataQnode: ["Q3111668"]
+     livesIn: [""]
+     associatedethnicgroup: ["Gun people"]
+
+    NgangamLinguisticGroup:
+     stringTokens: ["Ngangam", "Gangam"]
+     wikidataQnode: ["Q35888"]
+     livesIn: [""]
+     associatedethnicgroup: ["Gurma people"]
+
+    DitammariLinguisticGroup:
+     stringTokens: ["Ditammari", "Tammari"]
+     wikidataQnode: ["Q35186"]
+     livesIn: [""]
+     associatedethnicgroup: ["Betammaribe people"]
+
+    IfèLinguisticGroup:
+     stringTokens: ["Ifè", "Ana", "Ana-Ifé", "Anago", "Baate", "Ede Ife"]
+     wikidataQnode: ["Q33606"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+     
   ## politicalparties
     ddParty:
      stringTokens: ["Dahomeyan Democratic Party"]
