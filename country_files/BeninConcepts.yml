@@ -110,7 +110,7 @@ concepts:
      stringTokens: ["Aja"]
      wikidataQnode: ["Q35035"]
      livesIn: [""]
-     associatedethnicgroup: ["Aja people"]
+     associatedethnicgroup: ["ajaEthnicGroup"]
 
     EdeLinguisticGroup:
      stringTokens: ["Ede", "Ede Ica", "Kura Ede Nago", "Ede Idaca", "Ede Ije"]
@@ -176,7 +176,7 @@ concepts:
      stringTokens: ["Fon", "Dahomean", "Maxi Gbe", "Weme Gbe", "Ci Gbe", "Defi Gbe"]
      wikidataQnode: ["Q33291"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["fonEthnicGroup"]
 
     LukpaLinguisticGroup:
      stringTokens: ["Lukpa", "Legba", "Logba"]
@@ -260,7 +260,7 @@ concepts:
      stringTokens: ["Gourmanchéma", "Goulmacema", "Gourma", "Gourmantche", "Gulimancema", "Gulmancema", "Gurma", "Gourmanchéma"]
      wikidataQnode: ["Q35474"]
      livesIn: [""]
-     associatedethnicgroup: ["Gurma people"]
+     associatedethnicgroup: ["gurmaEthnicGroup"]
 
     NateniLinguisticGroup:
      stringTokens: ["Nateni", "Natemba"]
@@ -278,7 +278,7 @@ concepts:
      stringTokens: ["Dendi"]
      wikidataQnode: ["Q35164"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["dendiEthnicGroup"]
 
     GunLinguisticGroup:
      stringTokens: ["Gun", "Gungbe", "Gun-gbe", "Egun", "Gun-Alada", "Gu", "Goun"]
