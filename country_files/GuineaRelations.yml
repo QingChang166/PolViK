@@ -51,7 +51,6 @@ relations:
   - (LinguisticGroup, NaluLinguisticGroup)
   - (LinguisticGroup, KissiLinguisticGroup)
   - (LinguisticGroup, N’KoLinguisticGroup)
-  - (LinguisticGroup, PulaarLinguisticGroup)
   - (LinguisticGroup, PularLinguisticGroup)
   - (LinguisticGroup, SoninkeLinguisticGroup)
   - (LinguisticGroup, SusuLinguisticGroup)
