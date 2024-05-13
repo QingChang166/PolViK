@@ -87,7 +87,7 @@ concepts:
      stringTokens: ["Kpelle"]
      wikidataQnode: ["Q35673"]
      livesIn: [""]
-     associatedethnicgroup: ["Kpelle people"]
+     associatedethnicgroup: ["KpelleEthnicGroup"]
 
    JahankaLinguisticGroup:
      stringTokens: ["Jahanka"]
@@ -131,7 +131,7 @@ concepts:
      livesIn: ["Nzérékoré", "Lola", "Yomou"]
      associatedethnicgroup: ["Mano people"]
 
-   MixiforeinguisticGroup:
+   MixiforeLinguisticGroup:
      stringTokens: ["Mixifore", "Mogofin"]
      wikidataQnode: ["Q3914478"]
      livesIn: [""]
@@ -147,7 +147,7 @@ concepts:
      stringTokens: ["Kissi", "Kisi"]
      wikidataQnode: ["Q35696"]
      livesIn: ["Kissidougou", "Guéckédou"]
-     associatedethnicgroup: ["Kissi people"]
+     associatedethnicgroup: ["KisiiEthnicGroup"]
 
    N’KoLinguisticGroup:
      stringTokens: ["N’Ko"]
@@ -155,17 +155,11 @@ concepts:
      livesIn: [""]
      associatedethnicgroup: [""]
 
-   PulaarLinguisticGroup:
-     stringTokens: ["Pulaar"]
-     wikidataQnode: ["Q1420205"]
-     livesIn: [""]
-     associatedethnicgroup: ["Fula people", "Toucouleur people"]
-
    PularLinguisticGroup:
-     stringTokens: ["Pular"]
+     stringTokens: ["Pular, "pulaar""]
      wikidataQnode: ["Q3915357"]
      livesIn: ["Fouta Djallon"]
-     associatedethnicgroup: ["Fula people"]
+     associatedethnicgroup: ["FulaEthnicGroup"]
 
    SoninkeLinguisticGroup:
      stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
@@ -177,13 +171,13 @@ concepts:
      stringTokens: ["Susu", "Soso"]
      wikidataQnode: ["Q33990"]
      livesIn: [""]
-     associatedethnicgroup: ["Susu people"]
+     associatedethnicgroup: ["SusuEthnicGroup"]
 
    LomaLinguisticGroup:
      stringTokens: ["Loghoma", "Looma", "Lorma", "Toma", "Loma"]
      wikidataQnode: ["Q35885"]
      livesIn: [""]
-     associatedethnicgroup: ["Loma people"]
+     associatedethnicgroup: ["LomaEthnicGroup"]
 
    WameyLinguisticGroup:
      stringTokens: ["Wamey", "Konyagi"]
