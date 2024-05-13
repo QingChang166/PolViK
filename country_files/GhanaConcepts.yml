@@ -85,7 +85,7 @@ concepts:
      stringTokens: ["Adangbe", "Dangme"]
      wikidataQnode: ["Q35141"]
      livesIn: [""]
-     associatedethnicgroup: ["Dangbe people"]
+     associatedethnicgroup: ["gaEthnicGroup"]
 
     AdeleLinguisticGroup:
      stringTokens: ["Adele"]
@@ -103,7 +103,7 @@ concepts:
      stringTokens: ["Akan", "Twi", "Fante"]
      wikidataQnode: ["Q28026"]
      livesIn: [""]
-     associatedethnicgroup: ["Akan people"]
+     associatedethnicgroup: ["akanEthnicGroup"]
 
     AkposoLinguisticGroup:
      stringTokens: ["Akposo", "Kposo", "Ikposo"]
@@ -187,13 +187,13 @@ concepts:
      stringTokens: ["Dagbani", "Dagbane", "Dagbanli", "Dagbanle"]
      wikidataQnode: ["Q32238"]
      livesIn: ["Kingdom of Dagbon"]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["moledagbonEthnicGroup"]
 
     DangmeLinguisticGroup:
      stringTokens: ["Dangme", "Dangme", "Adaŋgbi", "Adangme"]
      wikidataQnode: ["Q35141"]
      livesIn: [""]
-     associatedethnicgroup: ["Dangme people"]
+     associatedethnicgroup: ["gaEthnicGroup"]
     
     DegLinguisticGroup:
      stringTokens: ["Deg", "Aculo", "Buru", "Degha", "Janela", "Mmfo", "Mo"]
@@ -235,7 +235,7 @@ concepts:
      stringTokens: ["Ga", "Gã"]
      wikidataQnode: ["Q33287"]
      livesIn: ["Accra"]
-     associatedethnicgroup: ["Ga people"]
+     associatedethnicgroup: ["gaEthnicGroup"]
 
     GikyodeLinguisticGroup:
      stringTokens: ["Gikyode", "Kyode", "Chode"]
@@ -277,7 +277,7 @@ concepts:
      stringTokens: ["Konkomba", "Likpakpaaln"]
      wikidataQnode: ["Q35674"]
      livesIn: [""]
-     associatedethnicgroup: ["Konkomba people"]
+     associatedethnicgroup: ["konkombaEthnicGroup"]
 
     KonniLinguisticGroup:
      stringTokens: ["Konni", "Koma", "Komung"]
@@ -307,7 +307,7 @@ concepts:
      stringTokens: ["Mampruli", "Mamprusi", "Mampelle"]
      wikidataQnode: ["Q35804"]
      livesIn: ["Yizeesi", "Nakpanduri", "Gambaga", "Nalerigu", "Walewale"]
-     associatedethnicgroup: ["Mamprusi people"]
+     associatedethnicgroup: ["mamprusiEthnicGroup"]
 
     NafananLinguisticGroup:
      stringTokens: ["Nafanan", "Nafanan", "Nafana"]
@@ -391,7 +391,7 @@ concepts:
      stringTokens: ["Ewe"]
      wikidataQnode: ["Q30005"]
      livesIn: [""]
-     associatedethnicgroup: ["Ewe people"]
+     associatedethnicgroup: ["eweEthnicGroup"]
 
   ## politicalparties
     ndcParty:
