@@ -75,7 +75,7 @@ concepts:
      stringTokens: ["Fang"]
      wikidataQnode: ["Q33484"]
      livesIn: [""]
-     associatedethnicgroup: ["Fang people"]
+     associatedethnicgroup: ["FangEthnicGroup"]
 
    SekiLinguisticGroup:
      stringTokens: ["Seki", "Baseke", "Sheke", "Sekiana"]
@@ -117,25 +117,25 @@ concepts:
      stringTokens: ["Mbere", "Mbede", "Mbete"]
      wikidataQnode: ["Q36062"]
      livesIn: [""]
-     associatedethnicgroup: ["Ambede people"]
+     associatedethnicgroup: ["MbedeEthnicGroup"]
 
    MyeneLinguisticGroup:
      stringTokens: ["Myene"]
      wikidataQnode: ["Q35832"]
      livesIn: ["Ogooue-Maritime Province", "Middle Ogooue Province"]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["MyeneEthnicGroup"]
 
    NjebiLinguisticGroup:
      stringTokens: ["Njebi", "Nzebi", "Njabi", "Ndzabi", "Yinjebi"]
      wikidataQnode: ["Q35923"]
      livesIn: ["Banjabi", "Bongo"]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["PunuEthnicGroup"]
 
    PunuLinguisticGroup:
      stringTokens: ["Punu", "Yipunu"]
      wikidataQnode: ["Q36401"]
      livesIn: [""]
-     associatedethnicgroup: ["Punu people"]
+     associatedethnicgroup: ["PunuEthnicGroup"]
 
    SanguLinguisticGroup:
      stringTokens: ["Sangu", "Chango", "Isangu", "Shango", "Yisangou", "Yisangu"]
@@ -147,13 +147,13 @@ concepts:
      stringTokens: ["Shira", "Sira"]
      wikidataQnode: ["Q36599"]
      livesIn: [""]
-     associatedethnicgroup: ["Shira people"]
+     associatedethnicgroup: ["ShiraEthnicGroup"]
 
    NorthTekeLinguisticGroup:
      stringTokens: ["North Teke", "Teke-Tege", "Tege", "Teghe", "Itege"]
      wikidataQnode: ["Q36478"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["TekeEthnicGroup"]
 
    TsaangiLinguisticGroup:
      stringTokens: ["Tsaangi"]
