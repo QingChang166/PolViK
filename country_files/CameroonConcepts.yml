@@ -99,7 +99,7 @@ concepts:
      stringTokens: ["Baka", "Bakaka", "Bibaya", "Kaa"]
      wikidataQnode: ["Q34905"]
      livesIn: [""]
-     associatedethnicgroup: ["Baka people"]
+     associatedethnicgroup: ["bakaEthnicGroup"]
     AdamawaFulfuldeLinguisticGroup:
      stringTokens: ["Adamawa Fulfulde", "Adamaua Fulani"]
      wikidataQnode: ["Q34776"]
@@ -129,7 +129,7 @@ concepts:
      stringTokens: ["Baka", "Be-bayaga", "Be-bayaka", "Bibaya de L’est", "Bakaka", "Bibaya", "Kaa"]
      wikidataQnode: ["Q34905"]
      livesIn: [""]
-     associatedethnicgroup: ["Baka people"]
+     associatedethnicgroup: ["bakaEthnicGroup"]
     KogoLinguisticGroup:
      stringTokens: ["Kogo", "Bakoko", "Basoo"]
      wikidataQnode: ["Q34866"]
@@ -144,7 +144,7 @@ concepts:
      stringTokens: ["Bamum", "Shupamem", "Bamun", "Bamoun"]
      wikidataQnode: ["Q35280"]
      livesIn: [""]
-     associatedethnicgroup: ["Bamun people"]
+     associatedethnicgroup: ["bamumEthnicGroup"]
     BasaaLinguisticGroup:
      stringTokens: ["Basaa", "Bassa", "Basa", "Bissa", "Mbene"]
      wikidataQnode: ["Q33093"]
@@ -209,17 +209,17 @@ concepts:
      stringTokens: ["Fang"]
      wikidataQnode: ["Q33484"]
      livesIn: [""]
-     associatedethnicgroup: ["Fang people"]
+     associatedethnicgroup: ["fangEthnicGroup"]
     FeʼfeʼLinguisticGroup:
      stringTokens: ["Feʼfeʼ", "Nufi", "Bafang"]
      wikidataQnode: ["Q35276"]
      livesIn: ["Haut-Nkam"]
-     associatedethnicgroup: ["Bamileke Feʼefeʼe"]
+     associatedethnicgroup: ["bamilekeEthnicGroup"]
     GhomalaʼLinguisticGroup:
      stringTokens: ["Ghomalaʼ", "Ghomala", "Bamileke-Banjun", "Bamiléké-Bandjoun", "Bamileke-Bandjoun"]
      wikidataQnode: ["Q35271"]
      livesIn: [""]
-     associatedethnicgroup: ["Bamileke people"]
+     associatedethnicgroup: ["bamilekeEthnicGroup"]
     GidarLinguisticGroup:
      stringTokens: ["Gidar", "Kaɗa"]
      wikidataQnode: ["Q35265"]
@@ -259,7 +259,7 @@ concepts:
      stringTokens: ["Makaa", "South Makaa", "Maka", "Mekaa", "South Mekaa"]
      wikidataQnode: ["Q35803"]
      livesIn: [""]
-     associatedethnicgroup: ["Makaa people"]
+     associatedethnicgroup: ["makaaEthnicGroup"]
     MassaLinguisticGroup:
      stringTokens: ["Massa", "Masana", "Masa"]
      wikidataQnode: ["Q56668"]
@@ -339,7 +339,7 @@ concepts:
      stringTokens: ["Tikar", "Tigé", "Tigré", "Tikari"]
      wikidataQnode: ["Q36483"]
      livesIn: [""]
-     associatedethnicgroup: ["Tikar people", "Bezdan people"]
+     associatedethnicgroup: ["tikarEthnicGroup", "Bezdan people"]
     ChadianArabicLinguisticGroup:
      stringTokens: ["Chadian Arabic", "Shuwa Arabic", "Western Sudanic Arabic", "West Sudanic Arabic "]
      wikidataQnode: ["Q56497"]
