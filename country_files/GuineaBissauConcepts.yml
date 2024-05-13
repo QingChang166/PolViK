@@ -50,7 +50,7 @@ concepts:
      stringTokens: ["Balanta", "Balant"]
      wikidataQnode: ["Q35006"]
      livesIn: [""]
-     associatedethnicgroup: ["Balanta people"]
+     associatedethnicgroup: ["BalantaEthnicGroup"]
 
    BiafadaLinguisticGroup:
      stringTokens: ["Biafada"]
@@ -68,7 +68,7 @@ concepts:
      stringTokens: ["Fula"]
      wikidataQnode: ["Q33454"]
      livesIn: [""]
-     associatedethnicgroup: ["Fula people"]
+     associatedethnicgroup: ["FulaEthnicGroup"]
 
    Guinea-BissauCreoleLinguisticGroup:
      stringTokens: ["Guinea-Bissau Creole", "Kiriol", "Crioulo", "Upper Guinea Crioulo", "Upper Guinea Creole", "Kriol", "Guinea-Bissau Creole Portuguese", "Guinea-Bissau Kriyol"]
@@ -92,13 +92,13 @@ concepts:
      stringTokens: ["Mandinka", "Mandingo"]
      wikidataQnode: ["Q33678"]
      livesIn: [""]
-     associatedethnicgroup: ["Mandinka people"]
+     associatedethnicgroup: ["MandinkaEthnicGroup"]
    
    ManjakLinguisticGroup:
      stringTokens: ["Manjak", "Manjack", "Kanyop"]
      wikidataQnode: ["Q35822"]
      livesIn: [""]
-     associatedethnicgroup: ["Manjack people"]
+     associatedethnicgroup: ["ManjakEthnicGroup"]
 
    MankanyaLinguisticGroup:
      stringTokens: ["Mankanya"]
@@ -122,7 +122,7 @@ concepts:
      stringTokens: ["Papel", "Pepel", "Papei"]
      wikidataQnode: ["Q36314"]
      livesIn: [""]
-     associatedethnicgroup: ["Papel people"]
+     associatedethnicgroup: ["PapelEthnicGroup"]
 
   ## politicalparties
    RGB-MBParty:
