@@ -50,7 +50,7 @@ concepts:
      stringTokens: ["Bube", "Bohobé", "Bube–Benga", "Bobe", "Bubi"]
      wikidataQnode: ["Q35110"]
      livesIn: ["Bioko island"]
-     associatedethnicgroup: ["Bubi people"]
+     associatedethnicgroup: ["BubiEthnicGroup"]
 
    PichinglisLinguisticGroup:
      stringTokens: ["Pichinglis", "Fernando Po Creole English", "Equatorial Guinea Pidgin", "Pichi", "Fernandino"]
@@ -62,13 +62,13 @@ concepts:
      stringTokens: ["Annobonese Creole", "Fa d'Ambu", "Fá d'Ambô", "Annobonese"]
      wikidataQnode: ["Q34992"]
      livesIn: ["Annobón", "Bioko"]
-     associatedethnicgroup: ["Annobonese people"]
+     associatedethnicgroup: ["AnnoboneseEthnicGroup"]
 
    FangLinguisticGroup:
      stringTokens: ["Fang"]
      wikidataQnode: ["Q33484"]
      livesIn: [""]
-     associatedethnicgroup: ["Fang people"]
+     associatedethnicgroup: ["FangEthnicGroup"]
 
    KwasioLinguisticGroup:
      stringTokens: ["Kwasio", "Ngumba", "Mvumbo", "Bujeba", "Gyele", "Kola"]
@@ -86,7 +86,7 @@ concepts:
      stringTokens: ["Kombe", "Ngumbi"]
      wikidataQnode: ["Q36459"]
      livesIn: [""]
-     associatedethnicgroup: ["Kombe people"]
+     associatedethnicgroup: ["KombeEthnicGroup"]
 
    SekiLinguisticGroup:
      stringTokens: ["Seki", "Baseke", "Sheke", "Sekiana"]
