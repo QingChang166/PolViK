@@ -28,3 +28,4 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, ASTarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, alQaedaarmedNonGovernmentalOrganizedGroup)
   - (proGovernmentMilitia, LPRproGovernmentMilitia)
+  - (LinguisticGroup, TunisianarabicLinguisticGroup)
