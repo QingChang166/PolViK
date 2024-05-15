@@ -55,7 +55,7 @@ concepts:
      stringTokens: ["Kanuri"]
      wikidataQnode: ["Q36094"]
      livesIn: ["Diffa Region", "Zinder Region", "Agadez Region", "Zinder", "Diffa", "N'Guigmi", "Bilma"]
-     associatedethnicgroup: ["Kanuri people"]
+     associatedethnicgroup: ["kanuriEthnicGroup"]
     DazaLinguisticGroup:
      stringTokens: ["Daza", "Dazaga"]
      wikidataQnode: ["Q35244"]
@@ -75,17 +75,17 @@ concepts:
      stringTokens: ["Hausa"]
      wikidataQnode: ["Q56475"]
      livesIn: [""]
-     associatedethnicgroup: ["Hausa people"]
+     associatedethnicgroup: ["hausaEthnicGroup"]
     LibyanArabicLinguisticGroup:
      stringTokens: ["Libyan Arabic"]
      wikidataQnode: ["Q56503"]
      livesIn: [""]
-     associatedethnicgroup: ["Arab people"]
+     associatedethnicgroup: ["ArabEthnicGroup"]
     ChadianArabicLinguisticGroup:
      stringTokens: ["Chadian Arabic", "Shuwa Arabic", "Shuwa", "Shua", "Suwa Arabic", "Baggara Arabic", "Western Sudanic Arabic"]
      wikidataQnode: ["Q56497"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["ArabEthnicGroup"]
     TagdalLinguisticGroup:
      stringTokens: ["Tagdal", "Gadal"]
      wikidataQnode: ["Q36570"]
@@ -120,7 +120,7 @@ concepts:
      stringTokens: ["Zarma", "Djerma", "Dyabarma", "Dyarma", "Dyerma", "Adzerma", "Zabarma", "Zarbarma", "Zarmaci", "Zerma"]
      wikidataQnode: ["Q36990"]
      livesIn: ["Niamey"]
-     associatedethnicgroup: ["Zarma people"]
+     associatedethnicgroup: ["zarmaEthnicGroup"]
 ## politicalparties
     rdrParty:
      stringTokens: ["Democratic and Republican Renewal", "RDR-Tchanji"]
