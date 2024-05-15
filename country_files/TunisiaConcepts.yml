@@ -16,7 +16,7 @@ concepts:
      stringTokens: ["Arabic", "Tunisian Arabic"]
      wikidataQnode: ["Q56240"]
      livesIn: []
-     associatedethnicgroups: ["Arab people"]
+     associatedethnicgroups: ["arabEthnicGroup"]
     
   ## politicalparties
     NTParty:
