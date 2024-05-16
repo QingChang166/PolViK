@@ -1815,54 +1815,67 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                    "Igbarra", "Okene"]
     wikidataID: ["Q403092"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: [""]
   edoEthnicGroup:
     stringTokens: ["Edo", "Ika", "Emai", "Benin", "Do", "Owan"]
     wikidataID: ["Q1287326"]
     religionsMostPracticed: ["christianReligion", "edoReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   efikEthnicGroup:
     stringTokens: ["Efik"]
     wikidataID: ["Q288809"]
     religionsMostPracticed: ["christianReligion", "efikReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup"]
   egyptiansEthnicGroup:
     stringTokens: ["Egyptians", "Sa'idi"]
     wikidataID: ["Q1061510"]
     religionsMostPracticed: ["sunniReligion", "copticReligion"]
+    languagesMostSpoken: ["arabiclinguisticGroup", "egyptianArabiclinguisticGroup"]
   ekariEthnicGroup:
     stringTokens: ["Ekari", "Mee"]
     wikidataID: ["Q4212837"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "animismReligion"]
+    languagesMostSpoken: ["indonesianlinguisticGroup"]
   ekoiEthnicGroup:
     stringTokens: ["Ekoi", "Akweya", "Edjagam", "Ejaham", "Ejam"]
     wikidataID: ["Q74333"]
     religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup"]
   elbegliEthnicGroup:
     stringTokens: ["Elbegli"]
     wikidataID: [""]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["turkishlinguisticGroup"]
   emberaEthnicGroup:
     stringTokens: ["Embera", "Choco", "Katio"]
     wikidataID: ["Q1335017"]
     religionsMostPracticed: ["evangelicalProtestant"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   englishEthnicGroup:
     stringTokens: ["English", "Englishmen"]
     wikidataID: ["Q42406"]
     religionsMostPracticed: ["anglicanReligion", "protestantReligion", "catholicReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   erzyasEthnicGroup:
     stringTokens: ["Erzyas", "Shoksha"]
     wikidataID: ["Q47246"]
     religionsMostPracticed: ["russianOrthodox", "lutheranReligion", "shamanismReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   esanEthnicGroup:
     stringTokens: ["Esan", "Esa", "Ewu", "Isa", "Isan", "Ison", "Ishan", "Anwain"]
     wikidataID: ["Q3732778"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   estoniansEthnicGroup:
     stringTokens: ["Estonians", "Setos", "Võros", "Hiiumaans", "Saaremaans", "Ludza Estonians", "Gauja Estonians"]
     wikidataID: ["Q173302"]
     religionsMostPracticed: ["lutheranReligion"]
+    languagesMostSpoken: [""]
   evenksEthnicGroup:
     stringTokens: ["Evenks", "Negidals", "Solon", "Tunguz"]
     wikidataID: ["Q191730"]
     religionsMostPracticed: ["shamanismReligion", "russianOrthodox", "buddhismReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   evensEthnicGroup:
     stringTokens: ["Evens"]
     wikidataID: ["Q1142851"]
