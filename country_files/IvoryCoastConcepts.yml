@@ -63,6 +63,7 @@ concepts:
     danLinguisticGroup:
       stringTokens: ["Dan language", "Dan"]
       wikidataQnode: ["Q1158971"]
+      associatedEthnicGroup: ["danEthnicGroup"]
     guroLinguisticGroup:
       stringTokens: ["Guro language", "Guro"]
       wikidataQnode: ["Q35251"]
@@ -75,6 +76,7 @@ concepts:
     senufoLinguisticGroup:
       stringTokens: ["Senufo languages", "Senufo"]
       wikidataQnode: ["Q33795"]
+      associatedEthnicGroup: ["senufoEthnicGroup"]
     akanfoLinguisticGroup:
       stringTokens: ["Akan languages", "Akan"]
       wikidataQnode: ["Q28026"]
