@@ -44,6 +44,7 @@ concepts:
      stringTokens: ["Forro Creole", "Sãotomense", "Sãotomense creole", "Santomense creole", "Crioulo santomense"]
      wikidataQnode: ["Q36536"]
      livesIn: [""]
+     associatedEthnicGroups: ["ForroEthnicGroup"]
 
   ## politicalparties
     PCD-GRParty:
