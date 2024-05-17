@@ -2079,34 +2079,42 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Ghorbati", "Mugats"]
     wikidataID: ["Q946371"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["iranianPersianlinguisticGroup"]
   gibraltariansEthnicGroup:
     stringTokens: ["Gibraltarians", "Llanitos", "Yanitos"]
     wikidataID: ["Q285828"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "spanishlinguisticGroup"]
   gilaksEthnicGroup:
     stringTokens: ["Gilaks"]
     wikidataID: ["Q1346254"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: ["iranianPersianlinguisticGroup"]
   gitxsanEthnicGroup:
     stringTokens: ["Gitxsan"]
     wikidataID: ["Q851575"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   goanCatholicsEthnicGroup:
     stringTokens: ["Goan Catholics"]
     wikidataID: ["Q1533409"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "portugueselinguisticGroup"]
   godoberisEthnicGroup:
     stringTokens: ["Godoberis"]
     wikidataID: ["Q2029805"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   golaEthnicGroup:
     stringTokens: ["Gola", "gula"]
     wikidataID: ["Q1534501"]
     religionsMostPracticed: ["islamReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   gondsEthnicGroup:
     stringTokens: ["Gonds", "Godha", "Madia Gonds", "Muria", "Koya"]
     wikidataID: ["Q1268437"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   goralsEthnicGroup:
     stringTokens: ["Gorals", "Sącz Lachs", "Silesian Gorals"]
     wikidataID: ["Q498700"]
