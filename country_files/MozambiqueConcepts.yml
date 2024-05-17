@@ -82,17 +82,17 @@ concepts:
      stringTokens: ["Lolo", "Makua", "Emakhuwa", "Macua", "Makhuwa"]
      wikidataQnode: ["Q33882"]
      livesIn: ["Zambezi River", "Nampula Province"]
-     associatedethnicgroup: ["Makua people", "Lolo people"]
+     associatedethnicgroup: ["MakuaEthnicGroup"]
   ManyawaLinguisticGroup:
      stringTokens: ["Manyawa"]
      wikidataQnode: ["Q11002622"]
      livesIn: [""]
-     associatedethnicgroup: ["Manyawa people"]
+     associatedethnicgroup: ["ShonaEthnicGroup"]
   NdauLinguisticGroup:
      stringTokens: ["Ndau", "Chindau", "Sofala", "Southeast Shona", "Chidanda", "chiNdau", "Ndzawu", "Njao"]
      wikidataQnode: ["Q13311"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["NdauEthnicGroup"]
   LomweLinguisticGroup:
      stringTokens: ["Lomwe", "ELomwe"]
      wikidataQnode: ["Q35824"]
@@ -117,27 +117,22 @@ concepts:
      stringTokens: ["Ronga", "XiRonga", "ShiRonga", "GiRonga"]
      wikidataQnode: ["Q2520717"]
      livesIn: ["Maputo"]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["tsongaEthnicGroup"]
   SenaLinguisticGroup:
      stringTokens: ["Sena", "Chibarwe", "Mabarwe", "Manyika Chibarwe"]
      wikidataQnode: ["Q2964008"]
      livesIn: [""]
-     associatedethnicgroup: ["Sena people"]
+     associatedethnicgroup: ["SenaEthnicGroup"]
   MakhuwaLinguisticGroup:
      stringTokens: ["Makhuwa", "Emakhuwa", "Macua", "Makua"]
      wikidataQnode: ["Q33882"]
      livesIn: ["Zambezi River", "Nampula Province"]
-     associatedethnicgroup: ["Makua people"]
-  TongaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["MakuaEthnicGroup"]
   TongaLinguisticGroup:
      stringTokens: ["Tonga", "Gitonga", "Gitonga", "Xitonga"]
      wikidataQnode: ["Q7820988"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["tsongaEthnicGroup"]
   TswaLinguisticGroup:
      stringTokens: ["Tswa", "Xitswa"]
      wikidataQnode: ["Q2085051"]
