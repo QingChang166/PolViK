@@ -58,7 +58,7 @@ concepts:
      stringTokens: ["Mauritian Creole", "Morisien", "Morisyen", "Mauritian", "kreol morisyen", "kreol morisien"]
      wikidataQnode: ["Q33661"]
      livesIn: [""]
-     associatedethnicgrouo: ["Mauritian Creoles"]
+     associatedethnicgrouo: ["CreolesEthnicGroup"]
   
 ##PoliticalParties
 
