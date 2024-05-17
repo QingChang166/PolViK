@@ -100,13 +100,13 @@ concepts:
      stringTokens: ["Kabiyè", "Kabiye", "Kabye"]  
      wikidataQnode: ["Q35475"]  
      livesIn: [""]  
-     associatedethnicgroup: ["Kabye"]
+     associatedethnicgroup: ["KabyeEthnicGroup"]
 
     TemLinguisticGroup:
      stringTokens: ["Tem", "Kotokoli", "Cotocoli", "Tém"]  
      wikidataQnode: ["Q36531"]  
      livesIn: [""]  
-     associatedethnicgroup: ["Tem people"]
+     associatedethnicgroup: ["temEthnicGroup"]
 
     AkebuLinguisticGroup:
      stringTokens: ["Akebu", "Kebu"]  
@@ -136,7 +136,7 @@ concepts:
      stringTokens: ["Nawdm", "Losso"]  
      wikidataQnode: ["Q36085"]  
      livesIn: ["Doufelgou Prefecture", "Kara Region"]  
-     associatedethnicgroup: ["Losso people"]
+     associatedethnicgroup: ["lossoEthnicGroup"]
 
     WaciLinguisticGroup:
      stringTokens: ["Waci", "Gbe", "Waci Gbe"]  
@@ -148,7 +148,7 @@ concepts:
      stringTokens: ["Ewe"]  
      wikidataQnode: ["Q30005"]  
      livesIn: [""]  
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["eweEthnicGroup"]
   
 ## politicalparties
     rptParty:
