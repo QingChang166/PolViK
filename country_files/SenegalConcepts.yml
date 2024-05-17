@@ -79,7 +79,7 @@ concepts:
      stringTokens: ["Banyun", "Nyun", "Bainouk", "Baïnouk-gunyaamolo", "Baïnouk Samik", "Baïnouk gunyuño"]
      wikidataQnode: ["Q2892477"]
      livesIn: [""]
-     associatedethnicgroup: ["Bainuk people"]
+     associatedethnicgroup: ["bainukEthnicGroup"]
 
     BayotLinguisticGroup:
      stringTokens: ["Bayot"]
@@ -91,7 +91,7 @@ concepts:
      stringTokens: ["Balanta", "Balant", "Balanta-Kentohe"]
      wikidataQnode: ["Q35006"]
      livesIn: 
-     associatedethnicgroup: ["Balanta people", "Balanta"]
+     associatedethnicgroup: ["balantaEthnicGroup"]
 
     BandialLinguisticGroup:
      stringTokens: ["Bandial", "Banjaal", "Eegima", "Eegimaa"]
@@ -127,7 +127,7 @@ concepts:
      stringTokens: ["Jola-Fonyi", "Jola"]
      wikidataQnode: ["Q3507832"]
      livesIn: ["Casamance"]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["jolaEthnicGroup"]
 
     PulaarLinguisticGroup:
      stringTokens: ["Pulaar", "Fula"]
@@ -151,13 +151,13 @@ concepts:
      stringTokens: ["Jola-Felupe", "Kerak", "Feloup", "Felup", "Felupe", "Floup", "Flup", "Fulup", "Ejamat", "Ediamat"]
      wikidataQnode: ["Q6269820"]
      livesIn: ["Cacheu", "Ziguinchor", "Casamance"]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["jolaEthnicGroup"]
 
     KaronLinguisticGroup:
      stringTokens: ["Mlomp", "Gulompaay"]
      wikidataQnode: ["Q36009"]
      livesIn: ["Mlomp"]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["karoninkaEthnicGroup"]
 
     ManinkaLinguisticGroup:
      stringTokens: ["Maninka"]
@@ -187,13 +187,13 @@ concepts:
      stringTokens: ["Serer-Sine", "Serer"]
      wikidataQnode: ["Q36284"]
      livesIn: [""]
-     associatedethnicgroup: ["Serer people"]
+     associatedethnicgroup: ["sererEthnicGroup"]
 
     WolofLinguisticGroup:
      stringTokens: ["Wolof"]
      wikidataQnode: ["Q34257"]
      livesIn: ["Senegambia"]
-     associatedethnicgroup: ["Wolof people"]
+     associatedethnicgroup: ["wolofEthnicGroup"]
     
   ## politicalparties
     afpParty:
