@@ -30,7 +30,7 @@ concepts:
      stringTokens: ["Hassaniya Arabic", "Hassaniyya"]
      wikidataQnode: ["Q56231"]
      livesIn: [""]
-     associatedethnicgrouo: ["Arab people"]
+     associatedethnicgrouo: ["BedaineEthnicGroup", "SahrawiEthnicGroup", "HaratinEthnicGroup"]
 
    PulaarLinguisticGroup:
      stringTokens: ["Pulaar", "Fula"]
