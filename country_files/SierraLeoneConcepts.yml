@@ -91,7 +91,7 @@ concepts:
    stringTokens: ["Sherbro", "Southern Bullom", "Shiba", "Amampa", "Mampa", "Mampwa"]
    wikidataQnode: ["Q36339"]
    livesIn: ["Sherbro Island"]
-   associatedethnicgroup: ["Sherbro people"]
+   associatedethnicgroup: ["sherbroEthnicGroup"]
   BullomSoLinguisticGroup: 
    stringTokens: ["Bullom So", "Mmani", "Mani", "Mandingi"]
    wikidataQnode: ["Q35061"]
@@ -101,32 +101,32 @@ concepts:
    stringTokens: ["Kuranko"]
    wikidataQnode: ["Q3198896"]
    livesIn: [""]
-   associatedethnicgroup: ["Kuranko people"]
+   associatedethnicgroup: ["kurankoEthnicGroup"]
   KonoLinguisticGroup: 
    stringTokens: ["Kono"]
    wikidataQnode: ["Q35675"]
    livesIn: ["Kono District"]
-   associatedethnicgroup: ["Kono people"]
+   associatedethnicgroup: ["konoEthnicGroup"]
   KrioLinguisticGroup: 
    stringTokens: ["Krio"]
    wikidataQnode: ["Q35744"]
    livesIn: [""]
-   associatedethnicgroup: ["Sierra Leone Creole people"]
+   associatedethnicgroup: ["krioEthnicGroup"]
   LimbaLinguisticGroup: 
    stringTokens: ["Limba"]
    wikidataQnode: ["Q35825"]
    livesIn: ["Little Scarcies River", "Bombali District", "northeast Kambia District", "Makeni"]
-   associatedethnicgroup: [""]
+   associatedethnicgroup: ["limbaEthnicGroup"]
   LokoLinguisticGroup: 
    stringTokens: ["Loko"]
    wikidataQnode: ["Q3914912"]
    livesIn: ["Northern Sierra Leone"]
-   associatedethnicgroup: ["Loko"]
+   associatedethnicgroup: ["lokoEthnicGroup"]
   MendeLinguisticGroup: 
    stringTokens: ["Mende"]
    wikidataQnode: ["Q1478672"]
    livesIn: ["South central Sierra Leone"]
-   associatedethnicgroup: ["Mende"]
+   associatedethnicgroup: ["mendeEthnicGroup"]
   ThemneLinguisticGroup: 
    stringTokens: ["Themne", "Temne"]
    wikidataQnode: ["Q36613"]
