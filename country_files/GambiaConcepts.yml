@@ -86,31 +86,31 @@ concepts:
     stringTokens: ["Wolof"]
     wikidataQnode: ["Q34257"]
     livesIn: ["Banjul"]
-    associatedethnicgroup: ["Wolof"]
+    associatedethnicgroup: ["wolofLinguisticGroup"]
 
   JolaFonyiLinguisticGroup:
     stringTokens: ["Jola-Fonyi", "Jola"]
     wikidataQnode: ["Q3507832"]
     livesIn: [""]
-    associatedethnicgroup: [""]
+    associatedethnicgroup: ["jolaEthnicGroup"]
 
    PulaarLinguisticGroup:
     stringTokens: ["Pulaar", "Fula"]
     wikidataQnode: ["Q1420205"]
     livesIn: [""]
-    associatedethnicgroup: [""]
+    associatedethnicgroup: ["fulaEthnicGroup"]
 
    SererLinguisticGroup:
      stringTokens: ["Serer-Sine", "Serer"]
      wikidataQnode: ["Q36284"]
      livesIn: [""]
-     associatedethnicgroup: ["Serer people"]
+     associatedethnicgroup: ["sererEthnicGroup"]
 
    MandinkaLinguisticGroup:
      stringTokens: ["Mandinka", "Mandingo"]
      wikidataQnode: ["Q33678"]
      livesIn: [""]
-     associatedethnicgroup: ["Mandinka"]
+     associatedethnicgroup: ["mandinkaEthnicGroup"]
 
    KassonkeLinguisticGroup:
      stringTokens: ["Kassonke", "Xaasongaxango", "Western Maninka", "Malinke"]
@@ -122,7 +122,7 @@ concepts:
      stringTokens: ["Manjak", "Manjack", "Njak", "Kanyop"]
      wikidataQnode: ["Q35822"]
      livesIn: [""]
-     associatedethnicgroup: ["Manjack"]
+     associatedethnicgroup: ["manjackEthnicGroup"]
     
   ## politicalparties
     udpParty:
