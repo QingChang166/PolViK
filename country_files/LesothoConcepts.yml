@@ -37,19 +37,19 @@ concepts:
    stringTokens: ["Sotho", "Sesotho", "Southern Sotho"]
    wikidataQnode: ["Q34340"]
    livesIn: [""]
-   associatedethnicgroup: ["Basotho"]
+   associatedethnicgroup: ["SothoEthnicGroup"]
 
   ZuluLinguisticGroup:
    stringTokens: ["Zulu", "isiZulu", "isiXhosa"]
    wikidataQnode: ["Q10179"]
    livesIn: ["KwaZulu-Natal", "Mpumalanga"]
-   associatedethnicgroup: ["Zulu"]
+   associatedethnicgroup: ["ZuluEthnicGroup"]
 
   XhosaLinguisticGroup:
    stringTokens: ["Xhosa", "Xosa"]
    wikidataQnode: ["Q13218"]
    livesIn: [""]
-   associatedethnicgroup: ["AmaXhosa"]
+   associatedethnicgroup: ["XhosaEthnicGroup"]
  
 ###PoliticalParties
   ABCParty:
