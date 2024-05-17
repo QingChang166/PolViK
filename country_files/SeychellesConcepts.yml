@@ -30,7 +30,7 @@ concepts:
      stringTokens: ["Seychellois Creole", "Kreol", "Seselwa Creole French", "Seselwa"]
      wikidataQnode: ["Q34015"]
      livesIn: 
-     associatedethnicgroup: ["Seychelles Creole people"]
+     associatedethnicgroup: ["SeychelloisEthnicGroup"]
  
   ## politicalparties
    SNPParty:
