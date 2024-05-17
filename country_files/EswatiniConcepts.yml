@@ -45,7 +45,7 @@ concepts:
    stringTokens: ["Swati", "siSwati", "Swazi"]
    wikidataQnode: ["Q34014"]
    livesIn: 
-   associatedethnicgroup: ["Swati people"]
+   associatedethnicgroup: ["swaziEthnicGroup"]
 
 ###PoliticalParties
   INMParty:
