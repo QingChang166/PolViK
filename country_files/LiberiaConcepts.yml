@@ -72,24 +72,30 @@ concepts:
     kpelleLinguisticGroup:
       stringTokens: ["Kpelle language"]
       wikidataQnode: ["Q35673"]
+      associatedEthnicGroup: ["kpelleEthnicGroup"]
     kruLinguisticGroup:
       stringTokens: ["Kru", "Kru languages"]
       wikidataQnode: ["Q33535"]
+      associatedEthnicGroup: ["kruEthnicGroup"]
     bassaLinguisticGroup:
       stringTokens: ["Bassa language", "Bassa"]
       wikidataQnode: ["Q34949"]
+      associatedEthnicGroup: ["bassaEthnicGroup"]
     danLinguisticGroup:
       stringTokens: ["Dan", "Dan language"]
       wikidataQnode: ["Q1158971"]
+      associatedEthnicGroup: ["danEthnicGroup"]
     manoLinguisticGroup:
       stringTokens: ["Mano", "Mano language"]
       wikidataQnode: ["Q3913286"]
+      associatedEthnicGroup: ["manoEthnicGroup"]
     golaLinguisticGroup:
       stringTokens: ["Gola", "Gola language"]
       wikidataQnode: ["Q35482"]
     vaiLinguisticGroup:
       stringTokens: ["Vai", "Vai language"]
       wikidataQnode: ["Q36939"]
+      associatedEthnicGroup: ["vaiEthnicGroup"]
     ###Political parties
     lplParty:
       stringTokens: ["Labor Party of Liberia", "LPL"]
