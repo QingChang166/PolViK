@@ -103,7 +103,7 @@ concepts:
    stringTokens: ["Kiga language", "Rukiga", "Ruchiga", "Chiga"]  
    wikidataQnode: ["Q3270727"]  
    livesIn: ["Kigezi region"]  
-   associatedethnicgroup: ["Kiga people", "Bakiga", "Twa"]
+   associatedethnicgroup: ["BakigaEthnicGroup", "Twa"]
   GwereLinguisticGroup:
    stringTokens: ["Gwere language", "Gwere", "Lugwere"]  
    wikidataQnode: ["Q5623559"]  
@@ -128,7 +128,7 @@ concepts:
    stringTokens: ["Karamojong"]  
    wikidataQnode: ["Q56326"]  
    livesIn: ["Karamoja", "Northeast Uganda"]  
-   associatedethnicgroup: ["Karamojong people", "Karamojong"]
+   associatedethnicgroup: ["KaramojongEthnicGroup", "Karamojong"]
   KakwaLinguisticGroup:
    stringTokens: ["Kakwa language"]  
    wikidataQnode: ["Q3033547"]  
@@ -138,7 +138,7 @@ concepts:
    stringTokens: ["Konjo", "Konzo", "lhukonzo", "Lhukonzo", "Lukonjo", "Olhukonzo"]  
    wikidataQnode: ["Q2361829"]  
    livesIn: [""]  
-   associatedethnicgroup: ["Konzo people", "Bakonjo"]
+   associatedethnicgroup: ["RwenzururuEthnicGroup", "Bakonjo"]
   KupsabinyLinguisticGroup:
    stringTokens: ["Kupsabiny", "Sebei", "Sabiny"]  
    wikidataQnode: ["Q56445"]  
@@ -148,7 +148,7 @@ concepts:
    stringTokens: ["Lango language", "Lango", "Lwo", "Lwoo", "Leb-Lango"]  
    wikidataQnode: ["Q35670"]  
    livesIn: ["Lango"]  
-   associatedethnicgroup: ["Lango"]
+   associatedethnicgroup: ["LangiEthnicGroup"]
   LugbaraLinguisticGroup:
    stringTokens: ["Lugbara"]  
    wikidataQnode: ["Q3272737"]  
@@ -163,7 +163,7 @@ concepts:
    stringTokens: ["Acholi", "Acoli", "Acooli", "Shuli", "Gang", "Atscholi", "Luo", "Acholi dialect"]  
    wikidataQnode: ["Q34926"]  
    livesIn: ["Gulu", "Kitgum", "Amuru", "Lamwo", "Agago", "Nwoya", "Omoro", "Pader"]  
-   associatedethnicgroup: ["Acholi people"]
+   associatedethnicgroup: ["AcholiEthnicGroup"]
   AringaLinguisticGroup:
    stringTokens: ["Aringa"]  
    wikidataQnode: ["Q56556"]  
@@ -178,7 +178,7 @@ concepts:
    stringTokens: ["Masaba", "Gisu", "Masaaba"] 
    wikidataQnode: ["Q3740241"]  
    livesIn: ["Eastern Uganda", "south of the Kupsabiny", "Bugisu Province"]  
-   associatedethnicgroup: ["Masaba", "Luhya]
+   associatedethnicgroup: ["BagisuEthnicGroup", "Luhya]
   NyoleLinguisticGroup:
    stringTokens: ["Nyole", "LoNyole", "Lunyole", "Nyuli"]  
    wikidataQnode: ["Q3739448"]  
@@ -188,12 +188,12 @@ concepts:
    stringTokens: ["Nkore", "Nkole", "Nyankore", "Nyankole", "Orunyankore", "Orunyankole", "Runyankore", "Runyankole"]  
    wikidataQnode: ["Q13207"]  
    livesIn: ["Ankole"]  
-   associatedethnicgroup: ["Banyankore"]
+   associatedethnicgroup: ["BanyankoleEthnicGroup"]
   NyoroLinguisticGroup:
    stringTokens: ["Nyoro", "Runyoro]  
    wikidataQnode: ["Q33794"]  
    livesIn: ["Bunyoro"]  
-   associatedethnicgroup: ["Banyoro"]
+   associatedethnicgroup: ["BunyoroEthnicGroup"]
   GunguLinguisticGroup:
    stringTokens: ["Gungu"]  
    wikidataQnode: ["Q11165235"]  
@@ -208,12 +208,12 @@ concepts:
    stringTokens: ["Amba", "Bulebule", "Hamba", "Humu", "Kihumu", "Ku-Amba", "Kuamba", "Lubulebule", "Lwamba", "Ruwenzori Kibira", "Rwamba"]  
    wikidataQnode: ["Q788423"]  
    livesIn: [""]  
-   associatedethnicgroup: ["Amba", "Amba people]
+   associatedethnicgroup: ["RwenzururuEthnicGroup", "BatwaEthnicGroup"]
   TesoLinguisticGroup:
    stringTokens: ["Teso"]  
    wikidataQnode: ["Q29474"]  
    livesIn: ["Teso", "Pallisa District", "Busia County"]  
-   associatedethnicgroup: ["Iteso"]
+   associatedethnicgroup: ["ItesoEthnicGroup"]
   TalingaLinguisticGroup:
    stringTokens: ["Talinga", "Bwisi"]  
    wikidataQnode: ["Q7679530"]  
@@ -223,7 +223,7 @@ concepts:
    stringTokens: ["Tooro", "Rutooro", "Rutoro]  
    wikidataQnode: ["Q7824218"]  
    livesIn: ["Tooro Kingdom"]  
-   associatedethnicgroup: ["Batooro"]
+   associatedethnicgroup: ["BatoroEthnicGroup"]
   KukuLinguisticGroup:
    stringTokens: ["Kuku", "Kuku dialect", "Bari"]  
    wikidataQnode: ["Q3200300"]  
@@ -233,7 +233,7 @@ concepts:
    stringTokens: ["Soga", "Lusoga"]  
    wikidataQnode: ["Q33784"]  
    livesIn: ["Busoga region"]  
-   associatedethnicgroup: ["Basoga", "Soga people"]
+   associatedethnicgroup: ["BasogaEthnicGroup"]
 
 ##politicalparties
   NRMParty:
