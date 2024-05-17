@@ -43,7 +43,7 @@ concepts:
      stringTokens: ["Libyan Arabic", "Sulaimitian Arabic"]
      wikidataQnode: ["Q56503"]
      livesIn: [""]
-     associatedethnicgroup: ["Arab people"]
+     associatedethnicgroup: ["arabEthnicGroup"]
 
    NafusiLinguisticGroup:
      stringTokens: ["Nafusi", "Nefusi"]
@@ -61,7 +61,7 @@ concepts:
      stringTokens: ["Tamahaq", "Tahaggart Tamahaq", "Tamahaq Tahaggart"]
      wikidataQnode: ["Q56703"]
      livesIn: [""]
-     associatedethnicgroup: ["Tuaregs", "Tuareg people", "Todaga", "Todga", "Tudaga"]
+     associatedethnicgroup: ["tuaregEthnicGroup"]
 
    TedaLinguisticGroup:
      stringTokens: ["Tedaga", "Teda"]
