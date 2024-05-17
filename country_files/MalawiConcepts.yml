@@ -50,7 +50,7 @@ concepts:
      stringTokens: ["Malawi Lomwe"]
      wikidataQnode: ["Q10975286"]
      livesIn: ["Mulanje", "Thyolo"]
-     associatedethnicgroup: ["Lomwe people"]
+     associatedethnicgroup: ["LomweEthnicGroup"]
    
    NyikaLinguisticGroup:
      stringTokens: ["Nyika"]
@@ -62,7 +62,7 @@ concepts:
      stringTokens: ["Chewa", "Chichewa", "Nyanja", "ny", "Chinyanja"]
      wikidataQnode: ["Q33273"]
      livesIn: [""]
-     associatedethnicgroup: ["Chewa people"]
+     associatedethnicgroup: ["ChewaEthnicGroup"]
 
    SenaLinguisticGroup:
      stringTokens: ["Sena", "Chibarwe", "Mabarwe"]
@@ -80,13 +80,13 @@ concepts:
      stringTokens: ["Tumbuka", "chiTumbuka", "tum"]
      wikidataQnode: ["Q34138"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["TumbukaEthnicGroup"]
 
    YaoLinguisticGroup:
      stringTokens: ["Yao"]
      wikidataQnode: ["Q36902"]
      livesIn: [""]
-     associatedethnicgroup: ["Yao people"]
+     associatedethnicgroup: ["YaoEthnicGroup"]
 
   ## politicalparties
    MCPParty:
