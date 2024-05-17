@@ -134,29 +134,32 @@ concepts:
  KiswahiliLinguisticGroup:
     stringTokens: ["Swahili", "Kiswahili"]
     wikidataQnode: ["Q132111"]
- EnglishLinguisticGroup:
-    stringTokens: ["English"]
-    wikidataQnode: ["Q1860"]
+    associatedEthnicGroup: ["MakondeEthnicGroup", "HeheEthnicGroup", "SwahiliEthnicGroup"]
  SukumaLinguisticGroup:
    stringTokens: ["Sukuma"]
    wikidataQnode: ["Q36694"]
    livesIn: ["Mwanza", "Shinyanga", "Simiyu"]
+   associatedEthnicGroup: ["SukumaEthnicGroup"]
  NyamweziLinguisticGroup:
    stringTokens: ["Nyamwezi"]
    wikidataQnode: ["Q1332242"]
    livesIn: ["Tabora"]
+   associatedEthnicGroup: ["NyamweziEthnicGroup"]
  ChagaLinguisticGroup:
    stringTokens: ["Chaga"]
    wikidataQnode: ["Q33016"]
    livesIn: ["Kilimanjaro"]
+   associatedEthnicGroup: ["ChagaEthnicGroup"]
  HayaLinguisticGroup:
    stringTokens: ["Haya"]
    wikidataQnode: ["Q33363"]
    livesIn: ["Kagera"]
+   associatedEthnicGroup: ["HayaEthnicGroup"]
  MakondeLinguisticGroup:
    stringTokens: ["Makonde"]
    wikidataQnode: ["Q33311"]
    livesIn: ["Mtwara"]
+   associatedEthnicGroup: ["MakondeEthnicGroup"]
 
 
 
