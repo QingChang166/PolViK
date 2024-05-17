@@ -67,7 +67,7 @@ concepts:
    stringTokens: ["Bemba", "Chibemba", "Cibemba", "IchiBemba"]
    wikidataQnode: ["Q33052"]
    livesIn: [""] 
-   associatedethnicgroup: ["Bemba people", "Bangweulu Batwa people"]
+   associatedethnicgroup: ["BembaEthnicGroup", "Bangweulu Batwa people"]
  BwileLinguisticGroup:
    stringTokens: ["Bwile"]
    wikidataQnode: ["Q3447440"]
@@ -82,7 +82,7 @@ concepts:
    stringTokens: ["Kaonde"]
    wikidataQnode: ["Q33601"]
    livesIn: [""] 
-   associatedethnicgroup: ["Kaonde people"]
+   associatedethnicgroup: ["KaondeEthnicGroup"]
  LambaLinguisticGroup:
    stringTokens: ["Lamba"]
    wikidataQnode: ["Q36098"]
@@ -102,22 +102,22 @@ concepts:
    stringTokens: ["Lozi", "siLozi", "Rozi"]
    wikidataQnode: ["Q33628"]
    livesIn: [""] 
-   associatedethnicgroup: ["Lozi people", "Luyana people"]
+   associatedethnicgroup: ["LoziEthnicGroup", "Luyana people"]
  LuvaleLinguisticGroup:
    stringTokens: ["Luvale"]
    wikidataQnode: ["Q33597"]
    livesIn: [""] 
-   associatedethnicgroup: ["Lovale people"]
+   associatedethnicgroup: ["LuvaleEthnicGroup"]
  LundaLinguisticGroup:
    stringTokens: ["Lunda"]
    wikidataQnode: ["Q33607"]
    livesIn: ["Katanga Province"] 
-   associatedethnicgroup: ["Lunda people"]
+   associatedethnicgroup: ["LundaEthnicGroup"]
  LuyanaLinguisticGroup:
    stringTokens: ["Luyana"]
    wikidataQnode: ["Q3268098"]
    livesIn: ["Okavango River"] 
-   associatedethnicgroup: ["Luyana people", "Lozi people]
+   associatedethnicgroup: ["Luyana people", "LoziEthnicGroup"]
  Mambwe-LunguLinguisticGroup:
    stringTokens: ["Mambwe-Lungu"]
    wikidataQnode: ["Q626210"]
@@ -147,7 +147,7 @@ concepts:
    stringTokens: ["Nsenga", "Cinsenga"]
    wikidataQnode: ["Q3081996"]
    livesIn: [] 
-   associatedethnicgroup: ["Tonga people", "Lenje people"]
+   associatedethnicgroup: ["TongaEthnicGroup", "Lenje people", "NsengaEthnicGroup"]
  SoliLinguisticGroup:
    stringTokens: ["Soli", "Kuku"]
    wikidataQnode: ["Q7557754"]
@@ -167,7 +167,7 @@ concepts:
    stringTokens: ["Tonga", "Chitonga", "Zambezi"]
    wikidataQnode: ["Q34101"]
    livesIn: ["Southern province", "Lusaka province", "Central Province", "Western province"] 
-   associatedethnicgroup: ["Iwe people", "Toka people", "Leya people", "Tonga people", "Kafwe Twa people"]
+   associatedethnicgroup: ["Iwe people", "Toka people", "Leya people", "TongaEthnicGroup", "Kafwe Twa people"]
  TotelaLinguisticGroup:
    stringTokens: ["Totela"]
    wikidataQnode: ["Q10962316"]
