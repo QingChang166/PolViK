@@ -14,22 +14,22 @@ concepts:
    stringTokens: ["Dabarre"]
    wikidataQnode: ["Q3447286"]
    livesIn: ["Bay", "Lower Shabelle", "Middle Juba"]
-   associatedethnicgroup: ["Dabarre", "Ciroole", "Somalis"]
+   associatedethnicgroup: ["Dabarre", "Ciroole", "somaliEthnicGroup"]
   JiidduLinguisticGroup: 
    stringTokens: ["Jiiddu", "Jiddu", "Af-Jiiddu"]
    wikidataQnode: ["Q56769"]
    livesIn: ["Lower Shabelle", "Bay", "Middle Juba"]
-   associatedethnicgroup: ["Dir", "Somalis"]
+   associatedethnicgroup: ["Dir", "somaliEthnicGroup"]
   SomaliLinguisticGroup: 
    stringTokens: ["Somali"]
    wikidataQnode: ["Q13275"]
    livesIn: [""]
-   associatedethnicgroup: ["Somalis"]
+   associatedethnicgroup: ["somaliEthnicGroup"]
   TunniLinguisticGroup: 
    stringTokens: ["Tunni", "Af-Tunni"]
    wikidataQnode: ["Q3514343"]
    livesIn: ["Lower Shabelle", "Middle Juba"]
-   associatedethnicgroup: ["Tunni Somalis"]
+   associatedethnicgroup: ["somaliEthnicGroup"]
   ZigulaLinguisticGroup: 
    stringTokens: ["Zigula", "Zigua", "Mushunguli"]
    wikidataQnode: ["Q37010"]
