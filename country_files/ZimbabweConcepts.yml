@@ -79,7 +79,7 @@ concepts:
     stringTokens: ["Kalanga", "Tjikalanga", "Ikalanga"]
     wikidataQnode: ["Q33672"]
     livesIn: [""] 
-    associatedethnicgroup: ["Kalanga people"]
+    associatedethnicgroup: ["KalangaEthnicGroup", "ShonaEthnicGroup"]
 
   KundaLinguisticGroup:
     stringTokens: ["Kunda"]
@@ -97,7 +97,7 @@ concepts:
     stringTokens: ["Ndebele", "Sindebele", "Matabele", "isiNdebele", "isiNdebele saseNyakatho", "nde"]
     wikidataQnode: ["Q35613"]
     livesIn: [""] 
-    associatedethnicgroup: ["Northern Ndebele people"]
+    associatedethnicgroup: ["NdebeleEthnicGroup", "TongaEthnicGroup"]
 
   NambyaLinguisticGroup:
     stringTokens: ["Nambya"]
@@ -110,7 +110,7 @@ concepts:
 "Chino"]
     wikidataQnode: ["Q34004"]
     livesIn: [""] 
-    associatedethnicgroup: ["Shona people"]
+    associatedethnicgroup: ["ShonaEthnicGroup", "TongaEthnicGroup"]
  
 ###PoliticalParties
   ANCIParty:
