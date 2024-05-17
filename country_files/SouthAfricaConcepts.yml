@@ -130,7 +130,7 @@ concepts:
      stringTokens: ["Afrikaans"]
      wikidataQnode: ["Q14196"]
      livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["AfrikanersEthnicGroup-SouthAfrica"]
   KoranaLinguisticGroup:
      stringTokens: ["ǃOrakobab", "Khoemana", "Korana", "ǃOra", "Griqua"]
      wikidataQnode: ["Q2756709"]
@@ -140,12 +140,12 @@ concepts:
      stringTokens: ["Ndebele", "Southern Ndebele "]
      wikidataQnode: ["Q36785"]
      livesIn: ["Mpumalanga", "Limpopo", "Gauteng", "North West"]
-     associatedethnicgroup: ["Ndebele people"]
+     associatedethnicgroup: ["NdebeleEthnicGroup"]
   NorthernSothoLinguisticGroup:
      stringTokens: ["Northern Sotho", "Sepedi]
      wikidataQnode: [""]
      livesIn: ["Gauteng", "Limpopo", "Mpumalanga"]
-     associatedethnicgroup: ["Mohlala people", "MaPulana people", "Pedi", "Lobedu", "Pulana", "Tlôkwa"]
+     associatedethnicgroup: ["Mohlala people", "MaPulana people", "PediEthnicGroup", "Lobedu", "Pulana", "Tlôkwa", "XhosaEthnicGroup", "ZuluEthnicGroup", "SothoEthnicGroup", "TswanaEthnicGroup"]
   OorlamsCreoleLinguisticGroup:
      stringTokens: ["Oorlams Creole", "Oorlams"]
      wikidataQnode: ["Q2484337"]
@@ -155,22 +155,22 @@ concepts:
      stringTokens: ["Tsonga", "Xitsonga", "ts", "Xitsonga", "Changana", "Shangana", "Shangani", "xiChanganax", "iShangana"]
      wikidataQnode: ["Q34327"]
      livesIn: ["Gauteng", "Limpopo", "Mpumalanga", "Gaza Province", "Maputo Province", "Maputo City", "Chiredzi District", "Mwenenzi District"]
-     associatedethnicgroup: ["Tsonga people"]
+     associatedethnicgroup: ["Tsonga people", "ZuluEthnicGroup"]
   VendaLinguisticGroup:
      stringTokens: ["Venda", "Tshivenḓa"]
      wikidataQnode: ["Q32704"]
      livesIn: ["Limpopo"]
-     associatedethnicgroup: ["Venda people"]
+     associatedethnicgroup: ["VendaEthnicGroup"]
   XhosaLinguisticGroup:
      stringTokens: ["Xhosa", "isiXhosa"]
      wikidataQnode: ["Q13218"]
      livesIn: ["Eastern Cape", "Western Cape", "Northern Cape", "Gauteng"]
-     associatedethnicgroup: ["AmaXhosa people"]
+     associatedethnicgroup: ["XhosaEthnicGroup"]
   ZuluLinguisticGroup:
      stringTokens: ["Zulu", "isiZulu"]
      wikidataQnode: ["Q10179"]
      livesIn: ["KwaZulu-Natal", "southern Mpumalanga"]
-     associatedethnicgroup: ["Zulu people"]
+     associatedethnicgroup: ["ZuluEthnicGroup"]
   
 ###PoliticalParties
 
