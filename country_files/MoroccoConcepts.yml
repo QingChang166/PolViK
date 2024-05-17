@@ -65,7 +65,7 @@ concepts:
     stringTokens: ["Senhaja Berber", "Sanhaja de Srair", "Senhaja de Srair", "Senhaja De Srair language"]
     wikidataQnode: ["Q56744"]
     livesIn: ["Rif"]
-    associatedethnicgroup: ["Sanhaja Berbers"]
+    associatedethnicgroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
     
   TarifitLinguisticGroup:
     stringTokens: ["Tarifit", "Tmazight", "Tarifit Berber", "Riffian", "Rif", "Tmaziɣt", "Rifian language", "Rif Berber", "Rifian Berber", "Tharifith", "Riffian Berber", "Riffian language", "Riffian", "Tarifect", "Tarifiyt"]
@@ -83,7 +83,7 @@ concepts:
     stringTokens: ["Standard Moroccan Amazigh", "Standard Moroccan Tamazight", "Standard Moroccan Berber"]
     wikidataQnode: ["Q7598268"]
     livesIn: [""]
-    associatedethnicgroup: [""]
+    associatedethnicgroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
 
   Judeo-MoroccanArabicLinguisticGroup:
     stringTokens: ["Judeo-Moroccan Arabic"]
@@ -95,13 +95,13 @@ concepts:
     stringTokens: ["Moroccan Arabic", "Moroccan Darija", "Darija", "Moroccan Arabic language", "Moroccan Darija language"]
     wikidataQnode: ["Q56426"]
     livesIn: ["Western Maghreb"]
-    associatedethnicgroup: ["Arab people", "Arabs"]
+    associatedethnicgroup: ["ArabEthnicGroup"]
   
   CentralAtlasTamazightLinguisticGroup:
     stringTokens: ["Central Atlas Tamazight", "Atlasic", "Tamazight"]
     wikidataQnode: ["Q49741"]
     livesIn: ["Fès-Meknès", "Béni Mellal-Khénifra", "Drâa-Tafilalet"]
-    associatedethnicgroup: [""]
+    associatedethnicgroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
     
 ###PoliticalParties
   AMPParty:
