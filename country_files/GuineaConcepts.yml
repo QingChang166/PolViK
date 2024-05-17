@@ -81,7 +81,7 @@ concepts:
      stringTokens: ["Maninka", "Malinke", "Eastern Maninka"]
      wikidataQnode: ["Q36186"]
      livesIn: [""]
-     associatedethnicgroup: ["Mandinka people"]
+     associatedethnicgroup: ["MalinkaEthnicGroup"]
 
    KpelleLinguisticGroup:
      stringTokens: ["Kpelle"]
