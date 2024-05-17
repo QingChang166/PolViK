@@ -30,7 +30,7 @@ concepts:
      stringTokens: ["Malagasy language"]
      wikidataQnode: ["Q7930"]
      livesIn: [""]
-     associatedethnicgroup: ["Malagasy people"]
+     associatedethnicgroup: ["MalagasyEthnicGroup"]
  
   ## politicalparties
    TIMParty:
