@@ -2119,38 +2119,47 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Gorals", "Sącz Lachs", "Silesian Gorals"]
     wikidataID: ["Q498700"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: [""]
   goraniEthnicGroup:
     stringTokens: ["Gorani"]
     wikidataID: ["Q851126"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: [""]
   gorontaloEthnicGroup:
     stringTokens: ["Gorontalo"]
     wikidataID: ["Q12517221"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: ["indonesianlinguisticGroup"]
   goshaEthnicGroup:
     stringTokens: ["Gosha", "somali bantu", "Jareerweyn", "goscia"]
     wikidataID: ["Q1651019"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: ["swahililinguisticGroup", "somalilinguisticGroup"]
   greatAndamaneseEthnicGroup:
     stringTokens: ["Great Andamanese"]
     wikidataID: ["Q1548149"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["hindilinguisticGroup"]
   greeksEthnicGroup:
     stringTokens: ["Greeks", "Greek Cypriots", "Pontic Greeks", "Cappadocian Greeks", "Sarakatsani", "Souliotes", "Urums", "Grikos", "Macedonian Greeks", "Anatolian Greeks", "Tsakonians", "Maniots", "Karagounides", "Mikrasiates", "Phanariots", "Egyptian Greeks", "Caucasus Greeks", "Cretan Muslims", "Sfakians", "Slavophone Greeks", "Corfiot Greeks", "Melkites", "Antiochian Greeks", "Jerusalemite Greeks", "Alexandrian Greeks",  "Arvanites"]
     wikidataID: ["Q539051"]
     religionsMostPracticed: ["greekOrthodox"]
+    languagesMostSpoken: [""]
   grosVentreEthnicGroup:
     stringTokens: ["gros Ventre", "A’aninin", "Atsina", "Aaniiih"]
     wikidataID: ["Q510032"]
-    religionsMostPracticed: []
+    religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   guajajaraEthnicGroup:
     stringTokens: ["Guajajara"]
     wikidataID: ["Q2592663"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   guanEthnicGroup:
     stringTokens: ["Guan", "Gonja", "Kyode", "Cherepon", "Efutu", "Anyanga", "Larteh", "Chumburung", "Krache", "Anum-Boso", "guang"]
     wikidataID: ["Q5613610"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   guaraniEthnicGroup:
     stringTokens: ["Guarani", "Chiriguanos", "mbya"]
     wikidataID: ["Q1572210"]
