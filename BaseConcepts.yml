@@ -2164,86 +2164,108 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Guarani", "Chiriguanos", "mbya"]
     wikidataID: ["Q1572210"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "animismReligion"]
+    languagesMostSpoken: ["spanishlinguisticGroup", "portugueselinguisticGroup"]
   gujaratiEthnicGroup:
     stringTokens: ["Gujarati", "Koli", "Bharwad", "Khoja", "Patidar", "Sunni Bohra", "Lohana", "Vagri", "Kharva", "Charan", "Baria", "Momna", "Ghanchi", "Shenva", "Bhambi Khalpa", "Zarabes", "Bhoi", "Luso-Indians", "Gujarati Americans"]
     wikidataID: ["Q1282294"]
     religionsMostPracticed: ["hinduismReligion", "jainismReligion", "muslimReligion"]
+    languagesMostSpoken: ["gujaratilinguisticGroup"]
   gujjarEthnicGroup:
     stringTokens: ["Gujjar", "Gurjar", "Khatana", "Solanki", "Parihar", "Tanwar", "Parmar", "chandel", "Chauhan", "Bhadana", "Bhatti", "Kohli", "Tomar", "Panwar", "Pawar", "Bainsla", "Bagri", "Hans"]
     wikidataID: ["Q118896557"]
     religionsMostPracticed: ["hinduismReligion", "muslimReligion", "sikhismReligion"]
+    languagesMostSpoken: ["gujaratilinguisticGroup", "hindilinguisticGroup", "westernPunjabilinguisticGroup", "easternPunjabilinguisticGroup",
+                          "urdulinguisticGroup", "bhojpurilinguisticGroup", "marathilinguisticGroup"]
   gumuzEthnicGroup:
     stringTokens: ["Gumuz"]
     wikidataID: ["Q1434687"]
     religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion", "muslimReligion"]
+    languagesMostSpoken: [""]
   gunaEthnicGroup:
     stringTokens: ["Guna", "kuna", "dule"]
     wikidataID: ["Q757258"]
     religionsMostPracticed: ["animismReligion", "christianReligion"]
+    languagesMostSpoken: [""]
   gurageEthnicGroup:
     stringTokens: ["Gurage", "Kistane", "Zay", "Inor", "Mesqan", "Muher Sebat Bet", "Chaha"]
     wikidataID: ["Q844307"]
     religionsMostPracticed: ["muslimReligion", "christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: [""]
   gurindjiEthnicGroup:
     stringTokens: ["Gurindji"]
     wikidataID: ["Q1555188"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   gurmaEthnicGroup:
     stringTokens: ["Gurma", "Ntcham", "Bimoba", "Gourmantché", "Gulma", "Gulmance", "Gulmanceba", "Gourmantche", "Gurmantche"]
     wikidataID: ["Q1294392"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup"]
   gurungsEthnicGroup:
     stringTokens: ["Gurungs", "Ghale", "Gurung", "tamu"]
     wikidataID: ["Q1341218"]
     religionsMostPracticed: ["buddhismReligion", "hinduismReligion"]
+    languagesMostSpoken: [""]
   gurunsiEthnicGroup:
     stringTokens: ["Gurunsi", "Lukpa", "Kabye", "Tem", "Lamba", "Delo", "Bago-Kusuntu", "Chala", "Lyele", "Nuna", "Kalamse", "Pana", "Kassena", "Winye", "Deg", "Puguli", "Paasaal", "Sisaala", "Chakali", "Siti", "Tamprusi", "Vagla"]
     wikidataID: ["Q766258)"]
     religionsMostPracticed: ["sunniReligion", "christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup", "hausalinguisticGroup"]
   gwichinEthnicGroup:
     stringTokens: ["Gwich'in"]
     wikidataID: ["Q1144501"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   haEthnicGroup:
     stringTokens: ["Ha", "waha", "abaha"]
     wikidataID: ["Q2995962"]
     religionsMostPracticed: ["christianReligion", "sunniReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   hadiyaEthnicGroup:
     stringTokens: ["Hadiya"]
     wikidataID: ["Q16930512"]
     religionsMostPracticed: ["christianReligion", "muslimReligion"]
+    languagesMostSpoken: [""]
   hadzaEthnicGroup:
     stringTokens: ["Hadza", "hadzabe"]
     wikidataID: ["Q1258889"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["swahililinguisticGroup"]
   haidaEthnicGroup:
     stringTokens: ["Haida", "hayda"]
     wikidataID: ["Q210332"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   haislaEthnicGroup:
     stringTokens: ["Haisla"]
     wikidataID: ["Q3513756"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   hanEthnicGroup:
     stringTokens: ["Hän"]
     wikidataID: ["Q26862"]
-    religionsMostPracticed: []
+    religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   hanChineseEthnicGroup:
     stringTokens: ["Han Chinese", "Subei", "Yue", "Cantonese", "Punti", "Taishanese", "Hongkongers", "Macau", "Namshun", "Tankas", "Hui", "Panthays", "Fujianese", "Fuzhounese", "Hoklos", "Hui'an maidens", "Putianese", "Fujianese Hongkongers", "Fokien", "Teochew", "Gaoshan Han", "Gan", "Tunbao", "Pinghua", "Hakka", "Ngai", "Dan", "Hainanese", "Hebei", "Hunanese", "Jianghuai", "Shandong", "Sichuanese", "Wu", "Shanghainese", "Ningbonese", "Wenzhounese", "Kokang Chinese", "Han Taiwanese", "Hoklo Taiwanese", "Benshengren", "Sino-Singaporeans", "Straits Chinese", "Chin Haw", "Hwagyo"]
     wikidataID: ["Q42740"]
     religionsMostPracticed: ["taoismReligion", "confucianismReligion", "buddhismReligion"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   haniEthnicGroup:
     stringTokens: ["Hani"]
     wikidataID: ["Q476550"]
     religionsMostPracticed: ["animismRelgion", "buddhismReligion"]
+    languagesMostSpoken: [""]
   harariEthnicGroup:
     stringTokens: ["Harari"]
     wikidataID: ["Q356382"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   haratinsEthnicGroup:
     stringTokens: ["Haratins"]
     wikidataID: ["Q1584897"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["berberlinguisticGroup", "arabiclinguisticGroup"]
   hausaEthnicGroup:
     stringTokens: ["Hausa", "Haoussa", "Haussa", "Houssa", "Hausaawaa", "Hausawa", "Hawsa", "Mgbakpa"]
     wikidataID: ["Q33938"]
