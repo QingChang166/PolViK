@@ -181,8 +181,31 @@ concepts:
    wikidataQnode: ["Q36327"]
    livesIn: [""]
    associatedethnicgroup: [""]
-   
-   
+  MobaLinguisticGroup:
+   stringTokens: ["Moba", "Moba–Bimoba"]
+   wikidataQnode: ["Q36010"]
+   livesIn: [""]
+   associatedethnicgroup: ["Moba people"]
+  FarefareLinguisticGroup:
+   stringTokens: ["Farefare", "Frafra"]
+   wikidataQnode: ["Q35331"]
+   livesIn: [""]
+   associatedethnicgroup: ["Frafra people"]
+  NuniLinguisticGroup:
+   stringTokens: ["Nuni"]
+   wikidataQnode: ["Q7069841"]
+   livesIn: [""]
+   associatedethnicgroup: ["Nuna people"]
+  SenaraLinguisticGroup:
+   stringTokens: ["Senara", "Niangolo", "Senara Sénoufo", "Senara Senoufo"]
+   wikidataQnode: ["Q35210"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  SonghayLinguisticGroup:
+   stringTokens: ["Songhay", "Songhai"]
+   wikidataQnode: ["Q505198"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
 ## politicalparties
   cdpParty:
    stringTokens: ["Congress for Democracy and Progress", "CDP"]
