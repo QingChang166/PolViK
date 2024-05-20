@@ -57,6 +57,52 @@ concepts:
     stringTokens: ["Rashaida people", "Bani Rasheed"]
     wikidataQnode: ["Q1540444"]
     livesIn: ["Tokar"]
+## linguisticgroups
+  FurLinguisticGroup:
+     stringTokens: ["Fur"]
+     wikidataQnode: ["Q33364"]
+     livesIn: ["Darfur"]
+     associatedethnicgroup: ["Fur people"]
+  MasalitLinguisticGroup:
+     stringTokens: ["Masalit"]
+     wikidataQnode: ["Q56557"]
+     livesIn: ["West Darfur"]
+     associatedethnicgroup: ["Masalit people"]
+  LinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  LinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  LinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  LinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  LinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  LinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  LinguisticGroup:
+    stringTokens: [""]
+    wikidataQnode: [""]
+    livesIn: [""]
+    associatedethnicgroup: [""]
 ##political party
   splmioParty:
     stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM-IO"]
