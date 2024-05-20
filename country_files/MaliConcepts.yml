@@ -125,31 +125,61 @@ concepts:
       wikidataQnode: ["Q36187"]
       livesIn: [""]
       associatedethnicgroup: [""]
-    LinguisticGroup:
-      stringTokens: [""]
-      wikidataQnode: [""]
+    SamoLinguisticGroup:
+      stringTokens: ["Samo", "Sane", "San", "Sa"]
+      wikidataQnode: ["Q36327"]
       livesIn: [""]
       associatedethnicgroup: [""]
-    LinguisticGroup:
-      stringTokens: [""]
-      wikidataQnode: [""]
+    MooreLinguisticGroup:
+      stringTokens: ["Mooré", "Moore", "More", "Mossi"]
+      wikidataQnode: ["Q36096"]
       livesIn: [""]
-      associatedethnicgroup: [""]
-    LinguisticGroup:
-      stringTokens: [""]
-      wikidataQnode: [""]
+      associatedethnicgroup: ["Mossi people"]
+    PulaarLinguisticGroup:
+      stringTokens: ["Pulaar"]
+      wikidataQnode: ["Q1420205"]
       livesIn: [""]
-      associatedethnicgroup: [""]
-    LinguisticGroup:
-      stringTokens: [""]
-      wikidataQnode: [""]
+      associatedethnicgroup: ["Fula people", "Toucouleur people"]
+    PularLinguisticGroup:
+      stringTokens: ["Pular"]
+      wikidataQnode: ["Q3915357"]
       livesIn: [""]
+      associatedethnicgroup: ["Fula people"]
+    SupyireLinguisticGroup:
+      stringTokens: ["Supyire", "Suppire", "Supyire Senoufo", "Shempire Sénoufo"]
+      wikidataQnode: ["Q56284"]
+      livesIn: ["Sikasso Region"]
       associatedethnicgroup: [""]
-    LinguisticGroup:
-      stringTokens: [""]
-      wikidataQnode: [""]
+    SoninkeLinguisticGroup:
+      stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
+      wikidataQnode: ["Q36660"]
       livesIn: [""]
+      associatedethnicgroup: ["Soninke people"]
+    TadaksahakLinguisticGroup:
+      stringTokens: ["Tadaksahak", "Dawsahak", "Daoussahak", "Dausahaq"]
+      wikidataQnode: ["Q36568"]
+      livesIn: ["Dawsahak", "Ménaka Region", "Gao Region"]
       associatedethnicgroup: [""]
+    TamasheqLinguisticGroup:
+      stringTokens: ["Tamasheq", "Tamashek"]
+      wikidataQnode: ["Q4670066"]
+      livesIn: [""]
+      associatedethnicgroup: ["Tuareg people"]
+    WesternPlainsDogonLinguisticGroup:
+      stringTokens: ["Western Plains Dogon"]
+      wikidataQnode: ["Q7988169"]
+      livesIn: ["Bandiagara Escarpment"]
+      associatedethnicgroup: [""]
+    KassonkeLinguisticGroup:
+      stringTokens: ["Kassonke", "Xaasongaxango", "Western Maninka"]
+      wikidataQnode: ["Q36905"]
+      livesIn: [""]
+      associatedethnicgroup: ["Kassonke people", "Malinke people"]
+    ZarmaLinguisticGroup:
+      stringTokens: ["Zarma", "Djerma", "Dyabarma", "Dyarma", "Dyerma", "Adzerma", "Zabarma", "Zarbarma", "Zarmaci", "Zerma"]
+      wikidataQnode: ["Q36990"]
+      livesIn: [""]
+      associatedethnicgroup: ["Zarma people"]
     ## non-state armed groups  
     mplaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["People's Movement for the Liberation of Azawad", "Popular Movement for the Liberation of Azawad", "MPLA", "MPA"]
