@@ -73,6 +73,67 @@ concepts:
      languagesMostSpoken: ["OtjiHimba"]
      religionsMostPracticed: ["Monotheistic"]
      livesIn: 
+
+  ## linguisticgroups
+   OvamboLinguisticGroup:
+     stringTokens: ["Ovambo", "Mbalanhu", "Oshiwambo"]
+     wikidataQnode: ["Q36489"]
+     livesIn: [""]
+     associatedethnicgroup: ["Ovambo people"]
+
+   DcirikuLinguisticGroup:
+     stringTokens: ["Dciriku", "Gciriku", "Diriku", "Dirico", "Manyo", "Rumanyo"]
+     wikidataQnode: ["Q3780954"]
+     livesIn: ["Kavango East"]
+     associatedethnicgroup: [""]
+
+   KuhaneLinguisticGroup:
+     stringTokens: ["Kuhane", "Ikuhane", "Subiya"]
+     wikidataQnode: ["Q6442073"]
+     livesIn: [""]
+     associatedethnicgroup: ["Ikuhane people"]
+
+   MbukushuLinguisticGroup:
+     stringTokens: ["Mbukushu", "Thimbukushu"]
+     wikidataQnode: ["Q2691548"]
+     livesIn: ["Kavango East"]
+     associatedethnicgroup: [""]
+
+   HereroLinguisticGroup:
+     stringTokens: ["Herero"]
+     wikidataQnode: ["Q33315"]
+     livesIn: ["Kunene", "Omaheke Region", "Otjozondjupa Region"]
+     associatedethnicgroup: ["Herero people", "Mbanderu people", "Mbanderu people", "Himba people"]
+
+   YeyiLinguisticGroup:
+     stringTokens: ["Yeyi"]
+     wikidataQnode: ["Q8053347"]
+     livesIn: ["Okavango River"]
+     associatedethnicgroup: ["Yeyi people"]
+
+   KwangaliLinguisticGroup:
+     stringTokens: ["Kwangali", "RuKwangali", "Kwangari"]
+     wikidataQnode: ["Q36334"]
+     livesIn: ["Kavango West"]
+     associatedethnicgroup: [""]
+
+   NdongaLinguisticGroup:
+     stringTokens: ["Ndonga", "Oshindonga"]
+     wikidataQnode: ["Q33900"]
+     livesIn: ["Ovamboland"]
+     associatedethnicgroup: [""]
+
+   KhoekhoeLinguisticGroup:
+     stringTokens: ["Khoekhoe", "Nama", "Khoekhoegowab", "Damara"]
+     wikidataQnode: ["Q13301"]
+     livesIn: ["Orange River", "Great Namaland", "Damaraland"]
+     associatedethnicgroup: [""]
+
+   KwanyamaLinguisticGroup:
+     stringTokens: ["Kwanyama", "Cuanhama", "Oshikwanyama"]
+     wikidataQnode: ["Q1405077"]
+     livesIn: ["Ovamboland"]
+     associatedethnicgroup: [""]
     
   ## politicalparties
    SWAPOParty:
