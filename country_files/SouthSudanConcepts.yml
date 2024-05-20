@@ -21,6 +21,112 @@ concepts:
     associatedEthnicGroup: ["Bari"]
     languagesMostSpoken: ["Bari language"]
     religionsMostPracticed: ["Christianity", "African traditional religion", "Islam"]
+##linguistic groups
+  AnuakLinguisticGroup:
+    stringTokens: ["Anuak", "Anywaa"]
+    wikidataQnode: ["Q56677"]
+    livesIn: ["Greater Upper Nile"]
+    associatedethnicgroup: ["Anuak people"]
+  AvokayaLinguisticGroup:
+    stringTokens: ["Avokaya", "Abukeia", "Avukaya"]
+    wikidataQnode: ["Q56685"]
+    livesIn: [""]
+    associatedethnicgroup: ["Avukaya people"]
+  BariLinguisticGroup:
+    stringTokens: ["Bari", "Beri"]
+    wikidataQnode: ["Q35042"]
+    livesIn: ["Central Equatoria"]
+    associatedethnicgroup: ["Karo people"]
+  DidingaLinguisticGroup:
+    stringTokens: ["Didinga"]
+    wikidataQnode: ["Q56365"]
+    livesIn: ["Didinga Hills"]
+    associatedethnicgroup: ["Didinga people"]
+  BelandaViriinguisticGroup:
+    stringTokens: ["Belanda Viri", "Bviri", "Belanda", "Biri", "BGamba", "Gumba", "Mbegumba", "Mvegumba"]
+    wikidataQnode: ["Q35247"]
+    livesIn: ["Wau County", "Raja County", "Tambura County", "Ezo County", "Nzara County", "Yambio County", "Western Equatoria State", ]
+    associatedethnicgroup: ["Belanda Bviri"]
+  JubaArabicLinguisticGroup:
+    stringTokens: ["Juba Arabic", "Sudanese Creole Arabic", "Southern Sudan Arabic", "Pidgin Arabic", "Arabi Juba"]
+    wikidataQnode: ["Q1262143"]
+    livesIn: ["Equatoria Province"]
+    associatedethnicgroup: ["Arab people"]
+  SouthernBurunLinguisticGroup:
+    stringTokens: ["Southern Burun", "Jumjum"]
+    wikidataQnode: ["Q7569696"]
+    livesIn: ["Upper Nile–Blue Nile border"]
+    associatedethnicgroup: ["Jumjum people"]
+  JurModoLinguisticGroup:
+    stringTokens: ["Jur Modo", "Jur", "Modo"]
+    wikidataQnode: ["Q56682"]
+    livesIn: [""]
+    associatedethnicgroup: ["Jur Modo people"]
+  LokoyaLinguisticGroup:
+    stringTokens: ["Lokoya", "Koyo", "Ellyria", "Loirya", "Ohoromok", "Lokoiya", "Lokoja", "Loquia", "Lowoi", "Oirya", "Owoi", "Oxoriok"]
+    wikidataQnode: ["Q56687"]
+    livesIn: [""]
+    associatedethnicgroup: ["Nguleretanani, Oyira, Owe"]
+  LopitLinguisticGroup:
+    stringTokens: ["Lopit"]
+    wikidataQnode: ["Q56684"]
+    livesIn: ["Eastern Equatoria State"]
+    associatedethnicgroup: ["Lopit people"]
+  LuwoLinguisticGroup:
+    stringTokens: ["Luwo", "Jur"]
+    wikidataQnode: ["Q56362"]
+    livesIn: ["Bahr el Ghazal"]
+    associatedethnicgroup: ["Luwo people"]
+  Ma'diLinguisticGroup:
+    stringTokens: ["Ma'di"]
+    wikidataQnode: ["Q56670"]
+    livesIn: [""]
+    associatedethnicgroup: ["Madi people"]
+  MoruLinguisticGroup:
+    stringTokens: ["Moru"]
+    wikidataQnode: ["Q6915014"]
+    livesIn: [""]
+    associatedethnicgroup: ["Moru people"]
+  MurleLinguisticGroup:
+    stringTokens: ["Murle"]
+    wikidataQnode: ["Q56727"]
+    livesIn: [""]
+    associatedethnicgroup: ["Murle people"]
+  DinkaLinguisticGroup:
+    stringTokens: ["Dinka"]
+    wikidataQnode: ["Q56466"]
+    livesIn: [""]
+    associatedethnicgroup: ["Dinka people"]
+  NuerLinguisticGroup:
+    stringTokens: ["Nuer"]
+    wikidataQnode: ["Q33675"]
+    livesIn: ["Greater Upper Nile", "Gambela Region"]
+    associatedethnicgroup: ["Nuer people"]
+  OtuhoLinguisticGroup:
+    stringTokens: ["Otuho", "Lotuko"]
+    wikidataQnode: ["Q56672"]
+    livesIn: [""]
+    associatedethnicgroup: ["Otuho people", "Logir people", "Ifoto people", "Imatong people"]
+  ReelLinguisticGroup:
+    stringTokens: ["Reel", "Atwot"]
+    wikidataQnode: ["Q7306882"]
+    livesIn: [""]
+    associatedethnicgroup: ["Atwot people"]
+  ShillukLinguisticGroup:
+    stringTokens: ["Shilluk"]
+    wikidataQnode: ["Q36486"]
+    livesIn: ["Upper Nile State"]
+    associatedethnicgroup: ["Shilluk people"]
+  ToposaLinguisticGroup:
+    stringTokens: ["Toposa"]
+    wikidataQnode: ["Q3033588"]
+    livesIn: [""]
+    associatedethnicgroup: ["Toposa people"]
+  ZandeLinguisticGroup:
+    stringTokens: ["Zande"]
+    wikidataQnode: ["Q35015"]
+    livesIn: [""]
+    associatedethnicgroup: ["Zande people"]
   ##politicalparty
   splmParty:
     stringTokens: ["SPLM", "Sudan People's Liberation Movement"]

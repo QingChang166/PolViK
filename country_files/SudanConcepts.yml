@@ -57,6 +57,102 @@ concepts:
     stringTokens: ["Rashaida people", "Bani Rasheed"]
     wikidataQnode: ["Q1540444"]
     livesIn: ["Tokar"]
+## linguisticgroups
+  FurLinguisticGroup:
+     stringTokens: ["Fur"]
+     wikidataQnode: ["Q33364"]
+     livesIn: ["Darfur"]
+     associatedethnicgroup: ["Fur people"]
+  MasalitLinguisticGroup:
+     stringTokens: ["Masalit"]
+     wikidataQnode: ["Q56557"]
+     livesIn: ["West Darfur"]
+     associatedethnicgroup: ["Masalit people"]
+  TamaLinguisticGroup:
+     stringTokens: ["Tama", "Tamongobo"]
+     wikidataQnode: ["Q57001"]
+     livesIn: ["West Darfur", "South Darfur"]
+     associatedethnicgroup: ["Tama people"]
+  NyimangLinguisticGroup:
+     stringTokens: ["Nyimang", "Ama"]
+     wikidataQnode: ["Q34846"]
+     livesIn: ["South Kordofan"]
+     associatedethnicgroup: ["Nyimang people"]
+  BejaLinguisticGroup:
+    stringTokens: ["Beja", "Bedawiyet", "Ti-Bedauye", "Ti-Bedaauye", "Tu-Bedawie", "To-Bedawye", "Bedja", "Bedawiye", "Bedawi", "Bedwi", "Bedya", "Bedauye", "Badāwīyä", "Bidhaawyeet", "Tu-Bdhaawi", "bej", "Beja language"]
+    wikidataQnode: ["Q33025"]
+    livesIn: [""]
+    associatedethnicgroup: ["Beja people"]
+  BertaLinguisticGroup:
+    stringTokens: ["Berta"]
+    wikidataQnode: ["Q33178"]
+    livesIn: ["Benishangul-Gumuz", "Wetawit"]
+    associatedethnicgroup: [""]
+  NyalaLinguisticGroup:
+    stringTokens: ["Nyala", "Dar Fur", "Darfur Daju", "Daju Darfur"]
+    wikidataQnode: ["Q56370"]
+    livesIn: ["West Darfur", "South Darfur", "South Kordofan"]
+    associatedethnicgroup: ["Daju people"]
+  GaamLinguisticGroup:
+    stringTokens: ["Gaam", "Ingessana"]
+    wikidataQnode: ["Q35338"]
+    livesIn: ["Tabi Hills", "Blue Nile State"]
+    associatedethnicgroup: ["Ingessana people"]
+  SouthernBurunLinguisticGroup:
+    stringTokens: ["Southern Burun", "Jumjum"]
+    wikidataQnode: ["Q7569696"]
+    livesIn: ["Upper Nile–Blue Nile border"]
+    associatedethnicgroup: ["Jumjum people"]
+  KadugliLinguisticGroup:
+    stringTokens: ["Kadugli", "Katcha-Kadugli-Miri", "Central Kadu"]
+    wikidataQnode: ["Q3407136"]
+    livesIn: ["South Kordofan"]
+    associatedethnicgroup: ["Kadugli people", "Katcha", "Damba", "Tumma"]
+  KoLinguisticGroup:
+    stringTokens: ["Ko", "Koalib", "Kwalib", "Abri", "Lgalige", "Nirere", "Rere"]
+    wikidataQnode: ["Q35859"]
+    livesIn: ["Nuba Hills"]
+    associatedethnicgroup: ["Nuba people", "Turum people"]
+  KrongoLinguisticGroup:
+    stringTokens: ["Krongo"]
+    wikidataQnode: ["Q6438927"]
+    livesIn: ["Kordofan"]
+    associatedethnicgroup: ["Krongo Nuba people"]
+  MidobLinguisticGroup:
+    stringTokens: ["Midob"]
+    wikidataQnode: ["Q36007"]
+    livesIn: ["North Darfur"]
+    associatedethnicgroup: ["Midob people"]
+  MoroLinguisticGroup:
+    stringTokens: ["Moro"]
+    wikidataQnode: ["Q36172"]
+    livesIn: ["South Kordofan"]
+    associatedethnicgroup: ["Moro Nuba people"]
+  NobiinLinguisticGroup:
+    stringTokens: ["Nobiin", "Halfawi", "Mahas"]
+    wikidataQnode: ["Q36503"]
+    livesIn: [""]
+    associatedethnicgroup: ["Nubian people"]
+  SudaneseArabicLinguisticGroup:
+    stringTokens: ["Sudanese Arabic", "Arabic"]
+    wikidataQnode: ["Q56573"]
+    livesIn: ["Gezira", "Khartoum"]
+    associatedethnicgroup: ["Arab people", "Sudanese Arabs"]
+  TegaliLinguisticGroup:
+    stringTokens: ["Tegali"]
+    wikidataQnode: ["Q36522"]
+    livesIn: ["South Kordofan"]
+    associatedethnicgroup: ["Tagale people"]
+  TigreLinguisticGroup:
+    stringTokens: ["Tigre"]
+    wikidataQnode: ["Q34129"]
+    livesIn: ["Red Sea State"]
+    associatedethnicgroup: ["Tigre people"]
+  ZaghawaLinguisticGroup:
+    stringTokens: ["Zaghawa"]
+    wikidataQnode: ["Q37007"]
+    livesIn: ["Darfur"]
+    associatedethnicgroup: ["Zaghawa people", "Awlad Mana people"]
 ##political party
   splmioParty:
     stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM-IO"]

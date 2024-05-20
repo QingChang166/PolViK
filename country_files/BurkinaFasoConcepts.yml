@@ -85,6 +85,127 @@ concepts:
    languagesMostSpoken: ["Birifor language"]
    religionsMostPracticed: [""]
    livesIn: ["Kossi", "Boucle du Mouhoun"]
+## linguistic groups
+  BerbaLinguisticGroup:
+   stringTokens: ["Berba", "Biali"]
+   wikidataQnode: ["Q34961"]
+   livesIn: ["Kompienga Province"]
+   associatedethnicgroup: [""]
+  BissaLinguisticGroup:
+   stringTokens: ["Bissa", "Bisa"]
+   wikidataQnode: ["Q32934"]
+   livesIn: [""]
+   associatedethnicgroup: ["Bissa people"]
+  BomuLinguisticGroup:
+   stringTokens: ["Bomu", "Bo"]
+   wikidataQnode: ["Q35065"]
+   livesIn: [""]
+   associatedethnicgroup: ["Bwa people"]
+  BuamuLinguisticGroup:
+   stringTokens: ["Buamu", "Bwamu"]
+   wikidataQnode: ["Q35157"]
+   livesIn: [""]
+   associatedethnicgroup: ["Bwa people"]
+  MooreLinguisticGroup:
+   stringTokens: ["Mooré", "Moore", "More", "Mossi"]
+   wikidataQnode: ["Q36096"]
+   livesIn: [""]
+   associatedethnicgroup: ["Mossi people"]
+  ZarmaLinguisticGroup:
+   stringTokens: ["Zarma", "Djerma", "Dyabarma", "Dyarma", "Dyerma", "Adzerma", "Zabarma", "Zarbarma", "Zarmaci", "Zerma"]
+   wikidataQnode: ["Q36990"]
+   livesIn: [""]
+   associatedethnicgroup: ["Zarma people"]
+  DagaareLinguisticGroup:
+   stringTokens: ["Dagaare", "Dagaari Dioula"]
+   wikidataQnode: ["Q35159"]
+   livesIn: [""]
+   associatedethnicgroup: ["Dagaaba people"]
+  DuunLinguisticGroup:
+   stringTokens: ["Duun"]
+   wikidataQnode: ["Q96238391"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  GourmanchéLinguisticGroup:
+   stringTokens: ["Gourmanché", "Goulmacema", "Gourma", "Gourmanchema", "Gourmantche", "Gulimancema", "Gulmancema", "Gurma", "Gourmanchéma"]
+   wikidataQnode: ["Q35474"]
+   livesIn: [""]
+   associatedethnicgroup: ["Gurma people"]
+  JamsaiDogonLinguisticGroup:
+   stringTokens: ["Jamsai Dogon"]
+   wikidataQnode: ["Q3913290"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  DyulaLinguisticGroup:
+   stringTokens: ["Dyula", "Jula", "Dioula"]
+   wikidataQnode: ["Q32706"]
+   livesIn: [""]
+   associatedethnicgroup: ["Dyula people"]
+  KasenaLinguisticGroup:
+   stringTokens: ["Kasena", "Kasem", "Kassem", "Kassena"]
+   wikidataQnode: ["Q35552"]
+   livesIn: [""]
+   associatedethnicgroup: ["Kassena people"]
+  TamasheqLinguisticGroup:
+   stringTokens: ["Tamasheq", "Tamashek"]
+   wikidataQnode: ["Q4670066"]
+   livesIn: [""]
+   associatedethnicgroup: ["Tuareg people"]
+  BoboLinguisticGroup:
+   stringTokens: ["Bobo", "Konabéré"]
+   wikidataQnode: ["Q12628055"]
+   livesIn: [""]
+   associatedethnicgroup: ["Bobo people"]
+  KoromfeLinguisticGroup:
+   stringTokens: ["Koromfe"]
+   wikidataQnode: ["Q35701"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  LobiLinguisticGroup:
+   stringTokens: ["Lobi"]
+   wikidataQnode: ["Q35807"]
+   livesIn: [""]
+   associatedethnicgroup: ["Lobi people"]
+  LyéléLinguisticGroup:
+   stringTokens: ["Lyélé", "Lyele"]
+   wikidataQnode: ["Q3089032"]]
+   livesIn: ["Sanguié Province"]
+   associatedethnicgroup: [""]
+  MarkaLinguisticGroup:
+   stringTokens: ["Marka"]
+   wikidataQnode: ["Q36030"]
+   livesIn: [""]
+   associatedethnicgroup: ["Marka people"]
+  SamoLinguisticGroup:
+   stringTokens: ["Samo", "Sane", "San", "Sa"]
+   wikidataQnode: ["Q36327"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  MobaLinguisticGroup:
+   stringTokens: ["Moba", "Moba–Bimoba"]
+   wikidataQnode: ["Q36010"]
+   livesIn: [""]
+   associatedethnicgroup: ["Moba people"]
+  FarefareLinguisticGroup:
+   stringTokens: ["Farefare", "Frafra"]
+   wikidataQnode: ["Q35331"]
+   livesIn: [""]
+   associatedethnicgroup: ["Frafra people"]
+  NuniLinguisticGroup:
+   stringTokens: ["Nuni"]
+   wikidataQnode: ["Q7069841"]
+   livesIn: [""]
+   associatedethnicgroup: ["Nuna people"]
+  SenaraLinguisticGroup:
+   stringTokens: ["Senara", "Niangolo", "Senara Sénoufo", "Senara Senoufo"]
+   wikidataQnode: ["Q35210"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  SonghayLinguisticGroup:
+   stringTokens: ["Songhay", "Songhai"]
+   wikidataQnode: ["Q505198"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
 ## politicalparties
   cdpParty:
    stringTokens: ["Congress for Democracy and Progress", "CDP"]

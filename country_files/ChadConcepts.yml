@@ -39,6 +39,117 @@ concepts:
      languagesMostSpoken: ["Arabic"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Ouaddaï", "Sila"]
+   ## linguisticgroups
+   AdamawaFulfuldeLinguisticGroup:
+     stringTokens: ["Adamawa Fulfulde", "adamaua fulani", "Adamaua-Fulfulde"]
+     wikidataQnode: ["Q34776"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fula people"]
+   AmdangLinguisticGroup:
+     stringTokens: ["Amdang", "Biltine"]
+     wikidataQnode: ["Q28335"]
+     livesIn: ["Biltine, Wadi Fira"]
+     associatedethnicgroup: ["Amdang people"]
+   DobaLinguisticGroup:
+     stringTokens: ["Doba"]
+     wikidataQnode: ["Q56358"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+   ChadianArabicLinguisticGroup:
+     stringTokens: ["Chadian Arabic", "Shuwa Arabic", "Western Sudanic Arabic", "West Sudanic Arabic", "Shuwa", "Shua", "Suwa Arabic", "Baggara Arabic", "Turku"]
+     wikidataQnode: ["Q56497"]
+     livesIn: [""]
+     associatedethnicgroup: ["Arab people"]
+   DazaLinguisticGroup:
+     stringTokens: ["Daza", "Dazaga"]
+     wikidataQnode: ["Q35244"]
+     livesIn: [""]
+     associatedethnicgroup: ["Daza people", "Toubou people"]
+   FurLinguisticGroup:
+     stringTokens: ["Fur"]
+     wikidataQnode: ["Q33364"]
+     livesIn: ["Sila"]
+     associatedethnicgroup: ["Fur people"]
+   GulayLinguisticGroup:
+     stringTokens: ["Gulay", "Gulai", "Gulei"]
+     wikidataQnode: ["Q641737"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+   KanembuLinguisticGroup:
+     stringTokens: ["Kanembu"]
+     wikidataQnode: ["Q35521"]
+     livesIn: ["Barh el Gazel", "Hadjer-Lamis"]
+     associatedethnicgroup: ["Kanembu people"]
+   MabaLinguisticGroup:
+     stringTokens: ["Maba", "Maban", "Mabang", "Bura Mabang"]
+     wikidataQnode: ["Ouaddaï", "Wadi Fira"]
+     livesIn: ["Q35860"]
+     associatedethnicgroup: ["Maba people"]
+   MarbaLinguisticGroup:
+     stringTokens: ["Marba", "Azumeina"]
+     wikidataQnode: ["Q56614"]
+     livesIn: [""]
+     associatedethnicgroup: ["Azumeina people"]
+   MasalitLinguisticGroup:
+     stringTokens: ["Masalit"]
+     wikidataQnode: ["Q56557"]
+     livesIn: ["Ouaddaï"]
+     associatedethnicgroup: ["Masalit people"]
+   MassaLinguisticGroup:
+     stringTokens: ["Massa", "Masana", "Masa"]
+     wikidataQnode: ["Q56668"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+   MundangLinguisticGroup:
+     stringTokens: ["Mundang", "Kaele", "Musemban", "Nda", "Moundan"]
+     wikidataQnode: ["Q36032"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+   MuseyLinguisticGroup:
+     stringTokens: ["Musey"]
+     wikidataQnode: ["Q56328"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+   MusguLinguisticGroup:
+     stringTokens: ["Musgu"]
+     wikidataQnode: ["Q3123545"]
+     livesIn: ["Batha", "Chari-Baguirmi"]
+     associatedethnicgroup: [""]
+   NabaLinguisticGroup:
+     stringTokens: ["Naba"]
+     wikidataQnode: ["Q760732"]
+     livesIn: [""]
+     associatedethnicgroup: ["Lisi people"]
+   NancereLinguisticGroup:
+     stringTokens: ["Nancere"]
+     wikidataQnode: ["Q3140491"]
+     livesIn: ["Tandjilé Region"]
+     associatedethnicgroup: [""]
+   NgambayLinguisticGroup:
+     stringTokens: ["Ngambay", "Sara", "Sara Ngambai", "Gamba", "Gambaye", "Gamblai", "Ngambai"]
+     wikidataQnode: ["Q2372207"]
+     livesIn: [""]
+     associatedethnicgroup: ["Sara people"]
+   SarLinguisticGroup:
+     stringTokens: ["Sar", "Sara", "Madjingay", "Sara Madjingay"]
+     wikidataQnode: ["Q56850"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+   TamaLinguisticGroup:
+     stringTokens: ["Tama", "Tamongobo"]
+     wikidataQnode: ["Q57001"]
+     livesIn: ["Ouaddai", "Wadi Fira"]
+     associatedethnicgroup: ["Tama people"]
+   TupuriLinguisticGroup:
+     stringTokens: ["Tupuri", "Toupouri"]
+     wikidataQnode: ["Q36646"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tupuri people"]
+   KanuriLinguisticGroup:
+     stringTokens: ["Kanuri"]
+     wikidataQnode: ["Q36094"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kanuri people", "Kanembu peoples"]
   ## politicalparties
    csaParty:
      stringTokens: ["Chadian Social Action", "AST", "Action Sociale Tchadienne"]
