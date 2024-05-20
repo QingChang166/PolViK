@@ -120,41 +120,36 @@ concepts:
      wikidataQnode: ["Q760732"]
      livesIn: [""]
      associatedethnicgroup: ["Lisi people"]
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+   NancereLinguisticGroup:
+     stringTokens: ["Nancere"]
+     wikidataQnode: ["Q3140491"]
+     livesIn: ["Tandjilé Region"]
+     associatedethnicgroup: [""]
+   NgambayLinguisticGroup:
+     stringTokens: ["Ngambay", "Sara", "Sara Ngambai", "Gamba", "Gambaye", "Gamblai", "Ngambai"]
+     wikidataQnode: ["Q2372207"]
+     livesIn: [""]
+     associatedethnicgroup: ["Sara people"]
+   SarLinguisticGroup:
+     stringTokens: ["Sar", "Sara", "Madjingay", "Sara Madjingay"]
+     wikidataQnode: ["Q56850"]
      livesIn: [""]
      associatedethnicgroup: [""]
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+   TamaLinguisticGroup:
+     stringTokens: ["Tama", "Tamongobo"]
+     wikidataQnode: ["Q57001"]
+     livesIn: ["Ouaddai", "Wadi Fira"]
+     associatedethnicgroup: ["Tama people"]
+   TupuriLinguisticGroup:
+     stringTokens: ["Tupuri", "Toupouri"]
+     wikidataQnode: ["Q36646"]
      livesIn: [""]
-     associatedethnicgroup: [""]
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
+     associatedethnicgroup: ["Tupuri people"]
+   KanuriLinguisticGroup:
+     stringTokens: ["Kanuri"]
+     wikidataQnode: ["Q36094"]
      livesIn: [""]
-     associatedethnicgroup: [""]
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-     associatedethnicgroup: [""]
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-     associatedethnicgroup: [""]
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-     associatedethnicgroup: [""]
-   LinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     associatedethnicgroup: ["Kanuri people", "Kanembu peoples"]
   ## politicalparties
    csaParty:
      stringTokens: ["Chadian Social Action", "AST", "Action Sociale Tchadienne"]
