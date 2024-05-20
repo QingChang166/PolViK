@@ -49,6 +49,108 @@ concepts:
       stringTokens: ["Songhai", "Songhai people"]
       wikidataQnode: ["Q487902"]
       religionsMostPracticed: ["Islam"]
+    ## linguistic groups
+    BambaraLinguisticGroup:
+      stringTokens: ["Bambara", "Bamana", "Bamanankan"]
+      wikidataQnode: ["Q33243"]
+      livesIn: [""]
+      associatedethnicgroup: ["Bamana people"]
+    BomuLinguisticGroup:
+      stringTokens: ["Bomu", "Bo"]
+      wikidataQnode: ["Q35065"]
+      livesIn: [""]
+      associatedethnicgroup: ["Bwa people"]
+    EscarpmentDogonLinguisticGroup:
+      stringTokens: ["Escarpment Dogon"]
+      wikidataQnode: ["Q5397128"]
+      livesIn: ["Bandiagara", "Escarpment"]
+      associatedethnicgroup: [""]
+    DuunLinguisticGroup:
+      stringTokens: ["Duun"]
+      wikidataQnode: ["Q96238391"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    ManinkaLinguisticGroup:
+      stringTokens: ["Maninka", "Eastern Maninka", "Malinke"]
+      wikidataQnode: ["Q36186"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    HassaniyaArabicLinguisticGroup:
+      stringTokens: ["Hassaniya Arabic"]
+      wikidataQnode: ["Q56231"]
+      livesIn: [""]
+      associatedethnicgroup: ["Arab people"]
+    JamsaiDogonLinguisticGroup:
+      stringTokens: ["Jamsai Dogon"]
+      wikidataQnode: ["Q3913290"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    BozoLinguisticGroup:
+      stringTokens: ["Bozo"]
+      wikidataQnode: ["Q35021"]
+      livesIn: [""]
+      associatedethnicgroup: ["Bozo people"]
+    KagoroLinguisticGroup:
+      stringTokens: ["Kagoro", "Kita Maninka", "Central Malinke"]
+      wikidataQnode: ["Q3015523"]
+      livesIn: [""]
+      associatedethnicgroup: ["Mandinka people"]
+    BoboLinguisticGroup:
+      stringTokens: ["Bobo"]
+      wikidataQnode: ["Q12628055"]
+      livesIn: [""]
+      associatedethnicgroup: ["Bobo people"]
+    KoromfeLinguisticGroup:
+      stringTokens: ["Koromfe"]
+      wikidataQnode: ["Q35701"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    KoyraChiiniSonghayLinguisticGroup:
+      stringTokens: ["Koyra Chiini", "Koyra Chiini Songhay", "Western Songhay"]
+      wikidataQnode: ["Q33600"]
+      livesIn: ["Niger river"]
+      associatedethnicgroup: [""]
+    KoyraboroSenniSonghayLinguisticGroup:
+      stringTokens: ["Koyraboro Senni", "Koyraboro Senni Songhay", "Koroboro Senni", "Koyra Senni", "Gao Senn", "Koyraboro Senni Songhai"]
+      wikidataQnode: ["Q35655"]
+      livesIn: ["Niger River", "Gourma-Rharous", "Timbuktu", "Bourem", "Gao", "Ansongo"]
+      associatedethnicgroup: [""]
+    MaasinaFulfuldeLinguisticGroup:
+      stringTokens: ["Maasina Fulfulde"]
+      wikidataQnode: ["Q3915322"]
+      livesIn: ["Macina"]
+      associatedethnicgroup: ["Fula people"]
+    MinyankaLinguisticGroup:
+      stringTokens: ["Minyanka", "Mamara", "Miniyanka", "Minya", "Mianka", "Minianka", "Tupiire", "Mamara Senoufo", "Mamara Sénoufo"]
+      wikidataQnode: ["Q36187"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    LinguisticGroup:
+      stringTokens: [""]
+      wikidataQnode: [""]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    LinguisticGroup:
+      stringTokens: [""]
+      wikidataQnode: [""]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    LinguisticGroup:
+      stringTokens: [""]
+      wikidataQnode: [""]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    LinguisticGroup:
+      stringTokens: [""]
+      wikidataQnode: [""]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    LinguisticGroup:
+      stringTokens: [""]
+      wikidataQnode: [""]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    ## non-state armed groups  
     mplaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["People's Movement for the Liberation of Azawad", "Popular Movement for the Liberation of Azawad", "MPLA", "MPA"]
       livesIn: ["Azawad"]
