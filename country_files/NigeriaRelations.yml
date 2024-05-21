@@ -23,7 +23,7 @@ relations:
   - (Party, YPPParty)
   - (Party, SDPParty)
   - (Party, ADCParty)
-  - (Party, PDPParty1)
+  - (Party, PDPParty)
   - (Party, OPCarmedNonGovernmentalOrganizedGroup1)
   - (Party, ADPParty)
   - (Party, AccordParty)
