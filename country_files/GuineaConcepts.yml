@@ -205,7 +205,7 @@ concepts:
      stringTokens: ["Union of Republican Forces"]
      wikidataQnode:  ["Q3550145"]
 
-   UPRParty1:
+   UPRParty:
      stringTokens: ["Union for Progress and Renewal"]
      wikidataQnode:  ["Q7886460"]
 
