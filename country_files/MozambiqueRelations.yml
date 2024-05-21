@@ -23,7 +23,7 @@ relations:
   - (Party, ldpmParty)
   - (Party, MufdcpParty)
   - (Party, UfcggParty)
-  - (Party, PdpParty1)
+  - (Party, PdpParty)
   - (Party, Pfdparty)
   - (Party, DuParty1)
   - (Party, pfsParty)
