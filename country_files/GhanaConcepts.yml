@@ -398,7 +398,7 @@ concepts:
      stringTokens: ["National Democratic Congress"]
      wikidataQnode:  ["Q200875"]
   
-    cppParty-Ghana:
+    cppParty:
      stringTokens: ["Convention People's Party"]
      wikidataQnode:  ["Q1129392"]
 
