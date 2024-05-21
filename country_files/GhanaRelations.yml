@@ -29,7 +29,7 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, nlcarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, mfedeaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, mfjjrarmedNonGovernmentalOrganizedGroup)
-    - (LinguisticGroup, BonoLinguisticGroup)
+  - (LinguisticGroup, BonoLinguisticGroup)
   - (LinguisticGroup, AdangbeLinguisticGroup)
   - (LinguisticGroup, AdeleLinguisticGroup)
   - (LinguisticGroup, AhantaLinguisticGroup)
