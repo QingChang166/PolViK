@@ -7,7 +7,7 @@ relations:
   - (EthnicGroup, KpelleEthnicGroup)
   - (EthnicGroup, LomaEthnicGroup)
   - (Party, PRGParty)
-  - (Party, UPRParty1)
+  - (Party, UPRParty)
   - (Party, UFDGParty)
   - (Party, UFRParty)
   - (Party, UPRParty)
