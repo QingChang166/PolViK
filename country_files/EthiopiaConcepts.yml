@@ -565,7 +565,7 @@ concepts:
   #yearsActiveasArmed == year of first attack
   #pre 2020 data from AGD data, post from online sources
 
-  tdfarmedNonGovernmentalOrganizedGroup1:
+  tdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
    associatedEthnicGroup: ["tigrayanEthnicGroup"]
    regionsMostActive: ["Tigray", "Eritrea"]
