@@ -323,7 +323,7 @@ concepts:
      associatedEthnicGroup: ["Ijaw people"]
      wikidataQnode: ["Q7032757"]
  
-  OPCarmedNonGovernmentalOrganizedGroup1:
+  OPCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Oodua Peoples Congress", "Oodua Liberation Movement "]
      associatedEthnicGroup: ["Yoruba people"]
      wikidataQnode: ["Q2043439"]
