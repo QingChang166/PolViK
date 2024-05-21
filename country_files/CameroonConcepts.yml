@@ -125,11 +125,6 @@ concepts:
      wikidataQnode: ["Q34888"]
      livesIn: [""]
      associatedethnicgroup: [""]
-    BakaLinguisticGroup:
-     stringTokens: ["Baka", "Be-bayaga", "Be-bayaka", "Bibaya de L’est", "Bakaka", "Bibaya", "Kaa"]
-     wikidataQnode: ["Q34905"]
-     livesIn: [""]
-     associatedethnicgroup: ["bakaEthnicGroup"]
     KogoLinguisticGroup:
      stringTokens: ["Kogo", "Bakoko", "Basoo"]
      wikidataQnode: ["Q34866"]
