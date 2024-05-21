@@ -39,7 +39,6 @@ relations:
   - (Party, ginbotParty)
   - (Party, ifloParty)
   - (Party, ofcParty)
-  - (Party, ofcParty1)
   - (Party, kpduParty)
   - (Party, oncParty)
   - (Party, tdfParty)
