@@ -354,7 +354,7 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004"] ##active as a political party
-  pdpParty1:
+  pdpParty:
    stringTokens: ["People's Democratic Party"]
    wikidataQnode: []
    yearsActiveasEntity: ["2004-2009"] ##active as an entity AT LEAST CHECK
