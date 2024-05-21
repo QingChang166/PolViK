@@ -113,8 +113,7 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, gplaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, bplmarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, fanoarmedNonGovernmentalOrganizedGroup)
-  - (armedNonGovernmentalOrganizedGroup, tdfarmedNonGovernmentalOrganizedGroup
-  - (armedNonGovernmentalOrganizedGroup, tdfarmedNonGovernmentalOrganizedGroup1)
+  - (armedNonGovernmentalOrganizedGroup, tdfarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, luarmedNonGovernmentalOrganizedGroup)
   - (LinguisticGroup, amharicLinuisticGroup)
   - (LinguisticGroup, oromoLinguisticGroup)
