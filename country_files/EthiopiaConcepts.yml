@@ -324,12 +324,6 @@ concepts:
    associatedEthnicGroup: ["oromoEthnicGroup"]
    yearsActiveasEntity: ["1985-Present"] ##active as an entity
    yearsActiveasParty: ["1991-1995"] ##active as a political party
-  ofcParty1:
-   stringTokens: ["Oromo Federalist Congress"]
-   wikidataQnode: ["Q105552917"]
-   associatedEthnicGroup: ["oromoEthnicGroup"]
-   yearsActiveasEntity: ["2012-Present"] ##active as an entity
-   yearsActiveasParty: ["2012-Present"] ##active as a political party
   rainbowParty:
    stringTokens: ["Rainbow Ethiopia", "Movement for Democracy and Social Justice"]
    wikidataQnode: ["Q1135251"]
