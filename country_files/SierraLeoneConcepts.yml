@@ -145,7 +145,7 @@ concepts:
     plpParty:
       stringTokens: ["Peace and Liberation Party"]
       wikidataQnode: ["Q7157487"]
-    pdpParty-SierraLeone:
+    pdpParty:
       stringTokens: ["People's Democratic Party"]
       wikidataQnode: ["Q7165533"]
     pmdcParty:
