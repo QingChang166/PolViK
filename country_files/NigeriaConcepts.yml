@@ -149,7 +149,7 @@ concepts:
      wikidataQnode: ["Q4729266"]
      yearsActiveasParty: ["2013-present"]
 
-  PDPParty1:
+  PDPParty:
      stringTokens: ["Peoples Democratic Party"]
      wikidataQnode: ["Q1551163"]  
      yearsActiveasParty: ["1998-present"]
