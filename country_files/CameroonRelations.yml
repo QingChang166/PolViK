@@ -37,7 +37,6 @@ relations:
   - (LinguisticGroup, BabankiLinguisticGroup)
   - (LinguisticGroup, BafiaLinguisticGroup)
   - (LinguisticGroup, FutLinguisticGroup)
-  - (LinguisticGroup, BakaLinguisticGroup)
   - (LinguisticGroup, KogoLinguisticGroup)
   - (LinguisticGroup, KpweLinguisticGroup)
   - (LinguisticGroup, BamumLinguisticGroup)
