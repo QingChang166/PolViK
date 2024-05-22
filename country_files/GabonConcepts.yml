@@ -66,7 +66,7 @@ concepts:
      languagesMostSpoken: ["Mbere languages"]
      livesIn: ["Haut Ogooué"]
 
-   TekeEthnicGroup:
+   TekeEthnicGroup-Gabon:
      stringTokens: ["Teke", "bateke", "tyo", "tio"]
      wikidataQnode: ["Q811078"]
 
@@ -95,7 +95,7 @@ concepts:
      livesIn: ["Bioko island"]
      associatedethnicgroup: ["Bubi people"]
 
-   BakaLinguisticGroup:
+   BakaLinguisticGroup-Gabon:
      stringTokens: ["Baka", "Bakaka", "Bibaya", "Kaa"]
      wikidataQnode: ["Q34905"]
      livesIn: [""]
@@ -194,7 +194,7 @@ concepts:
      wikidataQnode: ["Q6926679"]
      yearsActiveasParty: ["1981-present"] 
   
-   UPGarty-Gabon:
+   UPGParty-Gabon:
      stringTokens: ["Union of the Gabonese People", "UPG"]
      wikidataQnode: ["Q3550242"]
      yearsActiveasParty: ["1989-present"]
@@ -248,4 +248,10 @@ concepts:
      stringTokens: ["Independent Centre Party of Gabon", "PGCI"]
      wikidataQnode: ["Q23777576"]
      yearsActiveasParty: ["1990-Present"]
+
+   RNB-RPPGParty:
+     stringTokens: ["RNB-RPPG", "National Woodcutter's Rally-Rally for Gabon", "Movement for National Rectification–Woodcutters"]
+     wikidataQnode: ["Q852320"]
+     yearsActiveasParty: ["1990-Present"]
+ 
  
