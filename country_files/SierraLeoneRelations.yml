@@ -29,10 +29,10 @@ relations:
   - (Party, upParty)
   - (Party, yppParty)
   - (Party, nadpParty)
-  - (Party, PmdcPoliticalParty)
+  - (Party, PmdcParty)
   - (proGovernmentMilitia, CdfproGovernmentMilitia)
   - (ArmedNonGovernmentalOrganizedGroup, rufArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, afrcArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, wsbArmedNonGovernmentalOrganizedGroup)
   - (ArmedNonGovernmentalOrganizedGroup, kamajorsArmedNonGovernmentalOrganizedGroup)
-  - (ArmedNonGovernmentalOrganizedGroup, cdfproArmedNonGovernmentalOrganizedGroup)
+
