@@ -35,7 +35,7 @@ relations:
 - (LinguisticGroup, TamasheqLinguisticGroup)
 - (LinguisticGroup, WesternPlainsDogonLinguisticGroup)
 - (LinguisticGroup, KassonkeLinguisticGroup)
-- (LinguisticGroup, ZarmaLinguisticGrou)
+- (LinguisticGroup, ZarmaLinguisticGroup)
 - (ArmedNonGovernmentalOrganizedGroup, mplaArmedNonGovernmentalOrganizedGroup)
 - (ArmedNonGovernmentalOrganizedGroup, ansaralshariaArmedNonGovernmentalOrganizedGroup)
 - (ArmedNonGovernmentalOrganizedGroup, aadArmedNonGovernmentalOrganizedGroup)
