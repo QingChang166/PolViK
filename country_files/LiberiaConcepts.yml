@@ -58,7 +58,7 @@ concepts:
       languagesMostSpoken: []
       religionsMostPracticed: ["Islam", "Christianity"]
       livesIn: ["Grand Cape Mount", "Robertsport", "Sinje", "Bomi", "Klay", "Tubmanburg", "Margibi", "Kakata", "Montserrado", "Monrovia"]
-    kissiEthnicGroup:
+    kissiEthnicGroup-Liberia:
       stringTokens: ["Kissi", "Kissi people", "Kisi"]
       wikidataQnode: ["Q1743773"]
       religionsMostPracticed: ["Islam", "Christianity", "Traditional religion"]
