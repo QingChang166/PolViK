@@ -396,7 +396,7 @@ concepts:
    wikidataQnode: ["Q1473242"]
    yearsActiveasParty: ["1911-1934"]
   
-  UP1Party:
+  UPParty1:
    stringTokens: ["Unionist Party", "Unioniste Party", "UP"]
    associatedEthnicGroup: ["White"] 
    wikidataQnode: ["Q2403816"]
@@ -408,7 +408,7 @@ concepts:
    wikidataQnode: ["Q1788070"]
    yearsActiveasParty: ["1997-present"]
   
-  UP2Party:
+  UPParty2:
    stringTokens: ["United Party", "United South African National Party", "Verenigde Party", "Verenigde Suid-Afrikaanse Nasionale Party"]
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q1812146"]
