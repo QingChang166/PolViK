@@ -81,4 +81,5 @@ relations:
   - (LinguisticGroup, ChadianArabicLinguisticGroup)
   - (LinguisticGroup, OrokoLinguisticGroup)
   - (LinguisticGroup, OkuLinguisticGroup)
+  - (LinguisticGroup, MakaaLinguisticGroup)
 
