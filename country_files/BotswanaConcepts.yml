@@ -148,12 +148,14 @@ concepts:
     associatedEthnicGroup: [""]
     wikidataQnode: ["Q4894021"]
     yearsActiveasParty: ["1998-present"]
+    ideologicalOrientation: ["centre", "centreLeft", "socialDemocracy", "thirdWay"]
   
   BDPParty:
     stringTokens: ["Botswana Democratic Party", "BDP", "Bechuanaland Democratic Party"]
     associatedEthnicGroup: [""]
     wikidataQnode: ["Q859825"]
     yearsActiveasParty: ["1961-present"]
+    ideologicalOrientation: ["centre", "centreRight", "paternalisticConservatism"]
   
   BIPParty:
     stringTokens: ["Botswana Independence Party", "BIP", "Bechuanaland Independence Party"]
@@ -202,18 +204,21 @@ concepts:
     associatedEthnicGroup: [""]
     wikidataQnode: ["Q2310801"]
     yearsActiveasParty: ["1965-present"]
+    ideologicalOrientation: ["centreLeft", "Left", "socialDemocracy", "christianLeft"]
   
   BPPParty:
     stringTokens: ["Botswana People's Party", "BPP", "Bechuanaland People's Party"]
     associatedEthnicGroup: [""]
     wikidataQnode: ["Q4893988"]
     yearsActiveasParty: ["1960-present"]
+    ideologicalOrientation: ["left", "panAfrican", "socialDemocracy"]
   
   UDCParty:
     stringTokens: ["Umbrella for Democratic Change", "UDC"]
     associatedEthnicGroup: [""]
     wikidataQnode: ["Q18347306"]
     yearsActiveasParty: ["2012-present"]
+    ideologicalOrientation: ["centreLeft", "socialDemocracy", "christianLeft", "panAfrican", "thirdWay"]
   
   BMDParty:
     stringTokens: ["Botswana Movement for Democracy", "BMD"]
@@ -226,6 +231,7 @@ concepts:
     associatedEthnicGroup: [""]
     wikidataQnode: ["Q4893655"]
     yearsActiveasParty: ["1999-2010"] # Merge into BCP
+    ideologicalOrientation: ["centreLeft", "progressivism"]
 
 ###armedNonGovernmentalOrganizedGroups
 
