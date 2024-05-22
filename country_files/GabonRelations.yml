@@ -27,6 +27,8 @@ relations:
   - (Party, PdoisParty)
   - (Party, NUParty)
   - (Party, PSDParty)
+  - (Party, NWR-RGParty)
+  - (Party, NRMParty-Gabon)
   - (LinguisticGroup, FangLinguisticGroup)
   - (LinguisticGroup, SekiLinguisticGroup)
   - (LinguisticGroup, BengaLinguisticGroup)
@@ -44,4 +46,4 @@ relations:
   - (LinguisticGroup, TsaangiLinguisticGroup)
   - (LinguisticGroup, ViliLinguisticGroup)
   - (LinguisticGroup, WumbvuLinguisticGroup)
-    
+
