@@ -65,7 +65,7 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, fsmsaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, fyhnarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, svaarmedNonGovernmentalOrganizedGroup)
-  - (armedNonGovernmentalOrganizedGroup, AswjAmredGroup)
+  - (armedNonGovernmentalOrganizedGroup, AswjarmedNonGovernmentalOrganizedGroup)
   - (LinguisticGroup, DabarreLinguisticGroup)
   - (LinguisticGroup, JiidduLinguisticGroup) 
   - (LinguisticGroup, SomaliLinguisticGroup) 
