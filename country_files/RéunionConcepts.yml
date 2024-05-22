@@ -4,14 +4,14 @@ concepts:
      wikidataQnode: ["Q477986"]
   
   ## ethnicgroups
-   WhiteEthnicGroup:
+   WhiteEthnicGroup-Reunion:
      stringTokens: ["White people"]
      wikidataQnode: ["Q235155"]
      languagesMostSpoken: ["French", "English"]
      religionsMostPracticed: ["Christianity"]
      livesIn: 
 
-   MalagasyEthnicGroup:
+   MalagasyEthnicGroup-Reunion:
      stringTokens: ["Malagasy peoples"]
      wikidataQnode: ["Q310983"]
      languagesMostSpoken: ["Malagasy"]
@@ -39,7 +39,7 @@ concepts:
      religionsMostPracticed: ["Hindu"]
      livesIn: ["Saint-Denis"]
 
-   ChineseEthnicGroup:
+   ChineseEthnicGroup-Reunion:
      stringTokens: ["Chinese people"]
      wikidataQnode: ["Q2963786"]
      languagesMostSpoken: ["Chinese"]
@@ -63,7 +63,7 @@ concepts:
      wikidataQnode: ["Q3326782"]
      yearsActiveasParty: ["2012-present"]
 
-   LPParty:
+   LPParty-Reunion:
      stringTokens: ["Le Progrès"]
      wikidataQnode: ["Q112805929"]
      yearsActiveasParty: ["2013-present"]
