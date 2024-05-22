@@ -24,8 +24,6 @@ relations:
   - (Party, ncpParty)
   - (Party, ugccParty)
   - (Party, NppParty1)
-  - (Party, nrmParty)
-  - (Party, psdParty)
   - (armedNonGovernmentalOrganizedGroup, nlcarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, mfedeaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, mfjjrarmedNonGovernmentalOrganizedGroup)
