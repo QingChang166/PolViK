@@ -95,7 +95,7 @@ concepts:
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Bakassi region"]
   ## linguisticgroups
-    BakaLinguisticGroup:
+    BakaLinguisticGroup-Cameroon:
      stringTokens: ["Baka", "Bakaka", "Bibaya", "Kaa"]
      wikidataQnode: ["Q34905"]
      livesIn: [""]
