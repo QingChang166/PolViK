@@ -344,6 +344,7 @@ concepts:
     prpbParty:
      stringTokens: ["People's Revolutionary Party of Beni"]
      wikidataQnode:  ["Q478120"]
+     ideologicalOrientation: ["communism", "nationalism", "authoritarianism"]
 
     kfParty:
      stringTokens: ["Key Force"]
@@ -356,14 +357,17 @@ concepts:
     fcbeParty:
      stringTokens: ["Cowry Forces for an Emerging Benin"]
      wikidataQnode:  ["Q5179821"]
+     ideologicalOrientation: ["centre", "populism", "liberalism"]
 
     psdParty:
      stringTokens: ["Social Democratic Party"]
      wikidataQnode:  ["Q3088954"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
     drpParty:
-     stringTokens: ["Democratic Renewal Party"]
+     stringTokens: ["Democratic Renewal Party", "PRD"]
      wikidataQnode:  ["Q5255784"]
+     ideologicalOrientation: ["centreLeft", "progressivism"]
 
     ag13bParty:
      stringTokens: ["G13 Baobab Alliance"]
@@ -372,6 +376,7 @@ concepts:
     unParty:
      stringTokens: ["Union Makes the Nation"]
      wikidataQnode:  ["Q7885823"]
+     ideologicalOrientation: ["bigTent", "progressivism", "socialDemocracy"]
   
     unsdParty:
      stringTokens: ["National Union for Solidarity and Development"]
@@ -406,8 +411,9 @@ concepts:
      wikidataQnode:  ["Q6540656"]
 
     afrdParty:
-     stringTokens: ["Action Front for Renewal and Development"]
+     stringTokens: ["Action Front for Renewal and Development", "FARD"]
      wikidataQnode:  ["Q3088445"]
+     ideologicalOrientation: ["democraticSocialism"]
 
     udnsParty:
      stringTokens: ["Union for Democracy and National Solidarity"]
