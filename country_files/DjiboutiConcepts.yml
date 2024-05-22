@@ -69,7 +69,7 @@ concepts:
    wikidataQnode: ["Q5285305"]
    yearsActiveasParty: ["2003-present"]
   
-  PNDParty:
+  PNDParty-Djibouti:
    stringTokens: ["National Democratic Party", "Parti National Démocratique", "PND"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3366531"]
@@ -156,7 +156,7 @@ concepts:
    wikidataQnode: ["Q1470091"]
    yearsActive: ["1994-present"] #split from FRUD 
   
-  HSMarmedNonGovernmentalOrganizedGroup:
+  HSMarmedNonGovernmentalOrganizedGroup-Djibouti:
    stringTokens: ["Al-Shabaab", "al-Shabaab", "Harakat al-Shabaab al-Mujahideen", "HSM", "Shabab militia", "Shabab militias"]
    associatedEthnicGroup: ["Somali"]
    wikidataQnode: ["Q309998"]
