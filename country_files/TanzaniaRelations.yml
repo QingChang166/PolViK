@@ -26,7 +26,6 @@ relations:
   - (Party, ActParty)
   - (Party, CUFParty)
   - (LinguisticGroup, KiswahiliLinguisticGroup)
-  - (LinguisticGroup, EnglishLinguisticGroup)
   - (LinguisticGroup, SukumaLinguisticGroup)
   - (LinguisticGroup, NyamweziLinguisticGroup)
   - (LinguisticGroup, ChagaLinguisticGroup)
