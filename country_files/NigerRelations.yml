@@ -1,5 +1,5 @@
 relations:
-  - (officialStateSecurityForces, nafSecurityForces)
+  - (officialStateSecurityForces, natSecurityForces)
   - (officialStateSecurityForces, SecurityForces)
   - (EthnicGroup, hausaEthnicGroup)
   - (EthnicGroup, zarmaEthnicGroup)
@@ -9,7 +9,7 @@ relations:
   - (EthnicGroup, gurmaEthnicGroup)
   - (EthnicGroup, ArabEthnicGroup)
   - (EthnicGroup, toubouEthnicGroup)
-  - (EthnicGroup, TuaregthnicGroup)
+  - (EthnicGroup, TuaregEthnicGroup)
   - (Party, rdrParty)
   - (Party, mnsdParty)
   - (Party, andpParty)
