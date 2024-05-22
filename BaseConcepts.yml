@@ -58,7 +58,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   disabledPeople:
     stringTokens: ["persons with disabilities", "person with disabilities", "people with disabilities", "amputee", "albino", "blind", "deaf", "injuries", "disabilities", "amputation",
                    "person with AIDS", "persons with AIDS", "people with AIDS", "person with HIV", "person with HIV", "people with HIV"]
-  leaderPeople:
+  leadersPeople:
     stringTokens: ["traditional leader", "leader", "chief", "community leader"]
   landOwnerPeople:
      stringTokens: ["titleholder", "landlord"]
@@ -122,7 +122,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                   "defense force", "wardens", "state security forces", "SSF", "prison", "prison officials", "policemen", "policeman", "officer", "military", "guards"]
   foreignSecurityForces:
     stringTokens: ["foreign rebel", "foreign troop", "foreign force", "foreign army", "foreign armies"]
-  party: 
+  politicalParties: 
      stringTokens: ["politicians", "parties", "political stakeholders", "party", "political party leaders", "political activists", "political groups", "campaign"]
   partiesInPower:
     stringTokens: []
@@ -138,8 +138,8 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   armedNonGovernmentalOrganizedGroup:
     stringTokens: ["armed group", "militia", "violent organization", "rebel", "insurgency group", "insurgent", "militiamen", "fighter", "armed", "armies",
                    "army", "armed seperatist"]
-  Continent: 
-    stringTokens: ["continent"]
+  Continents: 
+    stringTokens: ["continent", "continents"]
   asiaContinent:
     stringTokens: ["Asia"]
     countriesIn: ["China", "Japan", "Indonesia", "Malaysia", "India", "Pakistan", "Bangladesh", "Phillippines", "Vietnam", "Thailand", "Myanmar", "South Korea", "Uzbekistan", "Malaysia", "Nepal", "North Korea", "Kazakhstan", "Cambodia", "Azerbaijan", "Tajikistan", "Laos", "Kyrgyzstan", "Turkmenistan", "Singapore", "Georgia", "Armenia", "Mongolia", "Timor-Leste", "Bhutan", "Maldives", "Brunei"]
@@ -221,7 +221,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["banking sector", "financial sector", "banking", "financial", "stock market", "investors", "liquidators", "bank"]
   unemployed:
     stringTokens: ["unemployed", "jobless"]
-  religiousGroup:
+  religionGroup:
     stringTokens: ["religious group", "religious organization"]
   christianReligion:
     stringTokens: ["Christian", "priest", "preacher", "clergy", "clergyman", "clergymen", "church", "missionary", "missionaries", "ecunmenical inter church", "Eternal Sacred Order of Cherubim and Seraphim ", "Council of African Instituted Churches",
@@ -913,12 +913,12 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     wikidataID: ["Q79797"]
     religionsMostPracticed: ["protestantReligion", "catholicReligion"]
     languagesMostSpoken: [""]
-  aromanianEthnicGroup:
+  aromaniansEthnicGroup:
     stringTokens: ["aromanians", "Vlachs", "Macedo-Romanians", "Macedo-Vlachs"]
     wikidataID: ["Q201111"]
     religionsMostPracticed: ["orthodoxReligion"]
     languagesMostSpoken: []
-  arrenteEthnicGroup:
+  arrernteEthnicGroup:
     stringTokens: ["arrernte", "aranda"]
     wikidataID: ["Q699483"]
     religionsMostPracticed: []
@@ -2029,7 +2029,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     wikidataID: ["Q532916"]
     religionsMostPracticed: ["christianReligion"]
     languagesMostSpoken: [""]
-  gaviaoJeEthnicGroup:
+  gaviaoEthnicGroup:
     stringTokens: ["Gaviao", "Parkateje", "Pykobje"]
     wikidataID: ["Q28221043"]
     religionsMostPracticed: [""]
@@ -2454,7 +2454,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Jambian", "Batin"]
     wikidataID: ["Q1148851"]
     religionsMostPracticed: ["muslimReligion"]
-  japaneseYamatoEthnicGroup:
+  japaneseEthnicGroup:
     stringTokens: ["Japanese", "Yamato", "Kantō", "Kansai", "Hokkaido", "Tōhoku", "Hōnichi", "Satsugū", "Chūgoku", "Echigo", "Tōkai", "Shinshuu", "Hokuriku", "Hachijō", "Miyakubo", "Tsugaru", "Nikkei Brazilians"]
     wikidataID: ["Q161652"]
     religionsMostPracticed: ["shintoismReligion", "buddhismReligion"]
