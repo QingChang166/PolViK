@@ -153,11 +153,11 @@ concepts:
 
    
 ##politicalparty
-  mlpcPoliticalParty:
+  mlpcParty:
    stringTokens: ["MLPC", "Movement for the Liberation of the Central African People"]
    yearsactiveasPoliticalParty: ["1978-present"]
    wikidataQnode: ["Q3326601"]
-  rdcPoliticalParty: 
+  rdcParty: 
    stringTokens: ["RDC", "Central African Democratic Rally"]
    yarsactiveasPoliticalParty: ["1987-present"]
    wikidataQnode: ["Q1582199"]
