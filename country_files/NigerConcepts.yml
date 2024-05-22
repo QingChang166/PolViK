@@ -14,7 +14,7 @@ concepts:
      languagesMostSpoken: ["Zarma"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Dosso", "Gaya", "Niamey", "Tchirozerine"]
-    tuaregthnicGroup-Niger:
+    tuaregEthnicGroup-Niger:
      stringTokens: ["Tuareg", "Tuareg people"]
      wikidataQnode: ["Q58843"]
      languagesMostSpoken: ["Tuareg languages"]
