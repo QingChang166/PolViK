@@ -185,26 +185,31 @@ concepts:
      wikidataQnode: ["Q28551"]
      yearsActiveasParty: ["1956-present"]
      associatedEthnicGroup: ["Ambundu"]
+     ideologicalOrientation: ["centreLeft", "left", "farLeft","socialDemocracy", "communism", "leftNationalism"]
 
     UNITAParty:
      stringTokens: ["National Union for the Total Independence of Angola"]
      wikidataQnode: ["Q28699"]
      yearsActiveasParty: ["1966-present"]
+     ideologicalOrientation: ["centre", "centreRight", "farLeft", "nationalism", "maoism", "bigTent"]
 
     CASA-CEParty:
      stringTokens: ["Broad Convergence for the Salvation of Angola – Electoral Coalition", "CASA-CE"]
      wikidataQnode: ["Q1129430"]
      yearsActiveasParty: ["2012-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "federalism"]
 
     FNLAParty:
      stringTokens: ["National Liberation Front of Angola", "FNLA"]
      wikidataQnode: ["Q907051"]
      yearsActiveasParty: ["1954-present"]
+     ideologicalOrientation: ["centreRight", "civicNationalism", "christianDemocracy", "conservatism"]
 
     PRSParty:
      stringTokens: ["Social Renewal Party"]
      wikidataQnode: ["Q1674856"]
      yearsActiveasParty: ["1990-present"]
+     ideologicalOrientation: ["centreLeft", "progressivism", "federalism"]
   
     PHAParty:
      stringTokens: ["Humanist Party of Angola", "PHA"]
