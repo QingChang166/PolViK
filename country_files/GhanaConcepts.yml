@@ -402,7 +402,7 @@ concepts:
      stringTokens: ["Convention People's Party"]
      wikidataQnode:  ["Q1129392"]
 
-    npp1Party:
+    nppParty1:
      stringTokens: ["New Patriotic Party"]
      wikidataQnode:  ["Q1148441"]
   
