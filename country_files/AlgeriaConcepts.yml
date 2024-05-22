@@ -84,26 +84,31 @@ concepts:
      stringTokens: ["FLN", "National Liberation Front"]
      wikidataQnode:  ["Q204543"]
      yearsActiveasParty: ["1954-present"]
-
+     
    FNAParty:
      stringTokens: ["Algerian National Front"]
      wikidataQnode:  ["Q912180"]
      yearsActiveasParty: ["1980-present"]
+     ideologicalOrientation: ["right", "conservatism"]
 
    RNDParty:
      stringTokens: ["RND", "Democratic National Rally"]
      wikidataQnode:  ["Q840321"]
      yearsActiveasParty: ["1997-present"]
+     ideologicalOrientation: ["centre", "centreRight", "populism", "economicLiberalism"]
    
    FFSParty:
      stringTokens: ["Socialist Forces Front", "FFS"]
      wikidataQnode:  ["Q605960"]
      yearsActiveasParty: ["1963-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "nationalism", "berberism", "secularism"]
 
    MSPParty:
      stringTokens: ["Movement of Society for Peace"]
      wikidataQnode:  ["Q1889454"]
      yearsActiveasParty: ["1990-present"]
+     ideologicalOrientation: ["islamicDemocracy", "socialConservatism", "economicLiberalism", "islamism", "sunniIslam"]
+
 
    MNRParty:
      stringTokens: ["Movement for National Reform"]
@@ -114,6 +119,7 @@ concepts:
      stringTokens: ["Workers' Party"]
      wikidataQnode:  ["Q627196"]
      yearsActiveasParty: ["1990-present"]
+     ideologicalOrientation: ["farLeft", "communism"]
 
    IRMParty:
      stringTokens: ["Islamic Renaissance Movement"]
@@ -148,11 +154,13 @@ concepts:
      stringTokens: ["RCD", "Rally for Culture and Democracy"]
      wikidataQnode:  ["Q1627773"]
      yearsActiveasParty: ["1989-present"]
+     ideologicalOrientation: ["centre", "centreLeft", "liberalism", "socialLiberalism", "berberism", "nationalism", "secularism"]
 
    FISParty:
      stringTokens: ["FIS", "Islamic Salvation Front", "al-Jabhah al-Islāmiyah lil-Inqādh", "Front Islamique du Salut"]
      wikidataQnode: ["Q734545"]
      yearsActiveasParty: ["1989-1992"]
+     ideologicalOrientation: ["centreRight", "conservatism", "islamicDemocracy"]
 
   ## armed groups
    GIAarmedNonGovernmentalOrganizedGroup:
