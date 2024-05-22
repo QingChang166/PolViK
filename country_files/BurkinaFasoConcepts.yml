@@ -210,12 +210,15 @@ concepts:
   cdpParty:
    stringTokens: ["Congress for Democracy and Progress", "CDP"]
    wikidataQnode:  ["Q592045"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   adfadrParty:
    stringTokens: ["Alliance for Democracy and Federation – African Democratic Rally"]
    wikidataQnode:  ["Q2646749"]
+   ideologicalOrientation: ["centre", "liberalism"]
   ppdvrdaParty:
    stringTokens: ["Voltaic Democratic Party–African Democratic Rally", "PDV-RDA"]
    wikidataQnode:  ["Q18395733"]
+   ideologicalOrientation: ["centreRight", "nationalism", "conservatism", "populism", "panAfricanism"]
   unddParty:
    stringTokens: ["National Union for Democracy and Development", "UNDD"]
    wikidataQnode:  ["Q6979092"]
@@ -231,21 +234,25 @@ concepts:
   pfParty:
    stringTokens: ["Popular Front"]
    wikidataQnode:  ["Q4847084"]
+   ideologicalOrientation: ["communism", "socialDemocracy"]
   nlmParty:
    stringTokens: ["National Liberation Movement"]
    wikidataQnode:  ["Q18618896"]
   upcParty:
    stringTokens: ["Union for Progress and Reform", "UPC"]
    wikidataQnode:  ["Q1431782"]
+   ideologicalOrientation: ["centre", "bigTent"]
   pdsmParty:
    stringTokens: ["Party for Democracy and Socialism/Metba"]
    wikidataQnode:  ["Q7140994"]
+   ideologicalOrientation: ["left", "communism", "socialism"]
   ncppsdpParty:
    stringTokens: ["National Convention of Progressive Patriots–Social Democratic Party"]
    wikidataQnode:  ["Q18589288"]
   pmpParty:
-   stringTokens: ["People's Movement for Progress"]
+   stringTokens: ["People's Movement for Progress", "MPP"]
    wikidataQnode:  ["Q21604403"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy", "progressivism"]
   adfParty:
    stringTokens: ["Alliance for Democracy and Federation"]
    wikidataQnode:  ["Q4732360"]
