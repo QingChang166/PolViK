@@ -118,7 +118,7 @@ concepts:
      wikidataQnode: ["Q20982156"]
      yearsActiveasParty: [""]
 
-   RDPCParty:
+   RDPCParty-Comoros:
      stringTokens: ["Democratic Rally of the Comorian People", "RDPC"]
      wikidataQnode: ["Q16672202"]
      yearsActiveasParty: ["1968-present"]
