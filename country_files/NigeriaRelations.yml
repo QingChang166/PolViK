@@ -59,7 +59,7 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, JRCarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, IMNarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, BakassiarmedNonGovernmentalOrganizedGroup)
-  - (armedNonGovernmentalOrganizedGroup, AnsaruTransnationalarmedNonGovernmentalOrganizedGroup)
+  - (TransnationalarmedNonGovernmentalOrganizedGroup, AnsaruTransnationalarmedNonGovernmentalOrganizedGroup)
   - (LinguisticGroup,  HausaLinguisticGroup)
   - (LinguisticGroup, YorubaLinguisticGroup)
   - (LinguisticGroup, IgboLinguisticGroup)
