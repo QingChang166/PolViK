@@ -259,7 +259,7 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["1994-2014"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1994-2014"] ##active as a political party
-  mufdcParty:
+  mufdcpParty:
    stringTokens: ["Mozambique United Front-Democratic Convergence Party"]
    wikidataQnode: []
    yearsActiveasEntity: ["1994"] ##active as an entity AT LEAST CHECK
@@ -334,7 +334,7 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["2004-Present"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004-Present"] ##active as a political party
-  ufcggPaty:
+  ufcggParty-Mozambique:
    stringTokens: ["United Front for Change and Good Governance"]
    wikidataQnode: []
    yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
@@ -399,7 +399,7 @@ concepts:
    wikidataQnode: []
    yearsActiveasEntity: ["2014-Present"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: [] ##active as a political party
-  pfdParty:
+  pfdParty-Mozambique:
    stringTokens: ["Party of Freedom and Development"]
    wikidataQnode: []
    yearsActiveasEntity: ["2014-Present"] ### as an entity AT LEAST CHECK
