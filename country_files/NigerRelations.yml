@@ -9,7 +9,6 @@ relations:
   - (EthnicGroup, gurmaEthnicGroup)
   - (EthnicGroup, ArabEthnicGroup)
   - (EthnicGroup, toubouEthnicGroup)
-  - (EthnicGroup, TuaregEthnicGroup)
   - (Party, rdrParty)
   - (Party, mnsdParty)
   - (Party, andpParty)
