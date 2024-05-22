@@ -42,7 +42,7 @@ concepts:
     wikidataQnode: ["Q56365"]
     livesIn: ["Didinga Hills"]
     associatedethnicgroup: ["Didinga people"]
-  BelandaViriinguisticGroup:
+  BelandaViriLinguisticGroup:
     stringTokens: ["Belanda Viri", "Bviri", "Belanda", "Biri", "BGamba", "Gumba", "Mbegumba", "Mvegumba"]
     wikidataQnode: ["Q35247"]
     livesIn: ["Wau County", "Raja County", "Tambura County", "Ezo County", "Nzara County", "Yambio County", "Western Equatoria State", ]
