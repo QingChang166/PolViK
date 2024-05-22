@@ -34,7 +34,6 @@ relations:
   - (Party, NationalistParty)
   - (Party, DFPParty)
   - (Party, RenaissanceParty)
-  - (ArmedNonGovernmentalOrganizedGroup, )
   - (armedNonGovernmentalOrganizedGroup, ISILSParmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, AlGamaaAlIslamiyyaarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, TawhidwalJihadarmedNonGovernmentalOrganizedGroup)
