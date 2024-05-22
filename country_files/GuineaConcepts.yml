@@ -31,7 +31,7 @@ concepts:
      languagesMostSpoken: ["Kissi language"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Kissidougou"]
-
+     
    KpelleEthnicGroup:
      stringTokens: ["Kpelle people", "Gberese", "Gerze", "Guerze", "Kpelli", "Kpwélé", "Kpwesi"]
      wikidataQnode: ["Q930128"]
