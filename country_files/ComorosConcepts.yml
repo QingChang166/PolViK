@@ -37,6 +37,7 @@ concepts:
      stringTokens: ["Convention for the Renewal of the Comoros", "CRC"]
      wikidataQnode: ["Q5166253"]
      yearsActiveasParty: ["2002-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
    RDRParty:
      stringTokens: ["Rally for Democracy and Renewal", "RDR"]
