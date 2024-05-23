@@ -179,18 +179,22 @@ concepts:
   PPRDParty: 
    stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
    yearsActiveasParty: ["2002-2019"]
+   ideologicalOrientation: ["centreLeft", "left", "socialDemocracy"]
   FONUSParty: 
    stringTokens: ["Innovative Forces for Union and Solidarity", "FONUS", "Forces Novatrices pour l'Union et la Solidarité"]
    yearsActiveasParty: []
   UDPSParty:
    stringTokens: ["Union for Democracy and Social Progress", "UDPS"]
    yearsActiveasParty: ["1982-Present"]
+   ideologicalOrientation: ["centreLeft", "progressivism", "socialDemocracy", "socialLiberalism"]
   MLCParty:
    stringTokens: ["Movement for the Liberation of the Congo", "MLC"]
    yearsActiveasParty: ["1998-Present"]
+   ideologicalOrientation: ["right", "populism", "nationalism", "christianDemocracy"]
   UNCParty:
    stringTokens: ["Union for the Congolese Nation", "UNC"]
    yearsActiveasParty: ["2010-Present"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy", "liberalDemocracy"]
   PDSCParty:
    stringTokens: ["Democratic Social Christian Party", "PDSC"]
    yearsActiveasParty: ["1990-2010"]
@@ -203,9 +207,11 @@ concepts:
   PALUParty: 
    stringTokens: ["Unified Lumumbist Party", "PALU", "Parti Lumumbiste Unifié"]
    yearsActiveasParty: ["1964-Present"]
+   ideologicalOrientation: ["panAfricanism", "left", "socialism", "nationalism"]
   RCDParty: 
    stringTokens: ["Rally for Congolese Democracy", "RCD"]
    yearsActiveasParty: ["2002-Present"]
+   ideologicalOrientation: ["centre", "socialLiberalism"]
 ##armed groups
   ADFarmedNonGovernmentalOrganizedGroup:   ##should this go in Uganda instead
    stringTokens: ["Allied Democratic Forces", "ADF", "ADF-Nalu", "Allied Democratic Forces- National Army for the Liberation of Uganda"]
