@@ -37,16 +37,19 @@ concepts:
      stringTokens: ["Tiako I Madagasikara", "I Love Madagascar"]
      wikidataQnode: ["Q7800104"]
      yearsActiveasParty: ["2002-present"]
+     ideologicalOrientation: ["centreRight", "conservatism", "populism", "economicLiberalism"]
 
    AREMAParty:
      stringTokens: ["Malagasy Revolutionary Party"]
      wikidataQnode: ["Q514599"]
      yearsActiveasParty: ["1976-present"]
+     ideologicalOrientation: ["centreLeft", "farLeft", "socialDemocracy", "environmentalism", "humanism", "communism", "marxism", "nationalism"]
 
    TGVParty:
      stringTokens: ["Young Malagasies Determined"]
      wikidataQnode: ["Q8058262"]
      yearsActiveasParty: ["2007-present"]
+     ideologicalOrientation: ["centreLeft", "reformism", "socialDemocracy"]
 
    RPSDParty:
      stringTokens: ["Rebirth of the Social Democratic Party"]
@@ -67,6 +70,7 @@ concepts:
      stringTokens: ["Social Democratic Party of Madagascar"]
      wikidataQnode: ["Q7550585"]
      yearsActiveasParty: ["1956-present"]
+     ideologicalOrientation: ["socialDemocracy"]
 
    AVIParty:
      stringTokens: ["Judged By Your Work Party"]
@@ -74,9 +78,10 @@ concepts:
      yearsActiveasParty: ["2001-present"]
 
    MFMParty:
-     stringTokens: ["Movement for the Progress of Madagascar"]
+     stringTokens: ["Movement for the Progress of Madagascar", "MFMMPP"]
      wikidataQnode: ["Q936970"]
      yearsActiveasParty: ["1972-present"]
+     ideologicalOrientation: ["centre", "farLeft", "liberalism", "socialism"]
 
    VPM-MMMParty:
      stringTokens: ["Vondrona Politika", "Vondrona Politika Miara dia Malagasy Miara Miainga"]
