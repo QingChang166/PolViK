@@ -53,9 +53,10 @@ concepts:
   
   FRUDParty:
    stringTokens: ["Front for the Restoration of Unity and Democracy", "FRUD"]
-   associatedEthnicGroup: ["Afar"]
+   associatedEthnicGroup: ["afarEthnicGroup"]
    wikidataQnode: ["Q1470091"]
    yearsActiveasParty: ["1997-present"]
+   ideologicalOrientation: ["centreLeft", "thirdWay", "liberalSocialism"]
    
   PRDParty:
    stringTokens: ["Movement for Democratic Renewal and Development", "Party for Democratic Renewal", "PRD", "MRDD"]
@@ -128,6 +129,7 @@ concepts:
    associatedEthnicGroup: []
    wikidataQnode: ["Q1538413"]
    yearsActiveasParty: ["2003-present"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   
   UPRParty:
    stringTokens: ["Union of Reform Partisans", "UPR"]
