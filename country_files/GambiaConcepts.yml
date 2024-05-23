@@ -128,6 +128,7 @@ concepts:
     udpParty:
      stringTokens: ["United Democratic Party"]
      wikidataQnode:  ["Q2495179"]
+     ideologicalOrientation: ["centre", "centreLeft", "socialLiberalism", "socialDemocracy", "constitutionalism"]
   
     aprcParty:
      stringTokens: ["Alliance for Patriotic Reorientation and Construction"]
@@ -136,18 +137,21 @@ concepts:
     pdoisParty:
      stringTokens: ["People's Democratic Organisation for Independence and Socialism"]
      wikidataQnode:  ["Q2069620"]
+     ideologicalOrientation: ["left", "socialism"]
   
     nrpParty:
      stringTokens: ["National Reconciliation Party"]
      wikidataQnode:  ["Q1786600"]
   
     prpParty:
-     stringTokens: ["People's Progressive Party"]
+     stringTokens: ["People's Progressive Party", "PPP"]
      wikidataQnode:  ["Q1752906"]
+     ideologicalOrientation: ["centre", "centreLeft", "thirdWay", "agrarianism"]
   
     gdcParty:
      stringTokens: ["Gambia Democratic Congress"]
      wikidataQnode:  ["Q28949959"]
+     ideologicalOrientation: ["centre", "centreLeft", "socialDemocracy", "thirdWay"]
 
     naddParty:
      stringTokens: ["National Alliance for Democracy and Development"]
