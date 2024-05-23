@@ -109,18 +109,22 @@ concepts:
       stringTokens: ["LPP", "Liberian People's Party"]
     ndplParty:
       stringTokens: ["National Democratic Party of Liberia", "NDPL"]
+      ideologicalOrientation: ["nationalism", "authoritarianism", "anticommunism"]
     nppParty:
       stringTokens: ["National Patriotic Party", "NPP"]
     ndmParty:
       stringTokens: ["New Deal Movement", "NDM"]
     ndcParty:
       stringTokens: ["National Democratic Coalition", "NDC"]
+      ideologicalOrientation: ["centreLeft", "left", "panAfricanism", "socialism", "socialDemocracy", "liberalism"]
     cdcParty:
       stringTokens: ["Congress for Democratic Change", "CDC"]
+      ideologicalOrientation: ["bigTent", "populism"]
     pdplParty:
       stringTokens: ["People's Democratic Party of Liberia", "PDPL"]
     upParty:
       stringTokens: ["Unity Party", "UP"]
+      ideologicalOrientation: ["centre", "centreRight", "economicLiberalism"]
     lpParty:
       stringTokens: ["Liberty Party", "LP"]
     ancParty:
