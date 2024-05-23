@@ -115,10 +115,11 @@ concepts:
    yearsActiveasParty: ["1996-present"] #officially recognized in 2011 
    wikidataQnode: ["Q291414"]
   AlGhadParty:
-   stringTokens: ["el-Ghad", "el-Ghad Party", "Ḥizb el-Ghad", "al-Ghad Party", "AlGhad Party", "The Tomorrow Party"] 
+   stringTokens: ["el-Ghad", "el-Ghad Party", "Ḥizb el-Ghad", "al-Ghad Party", "AlGhad Party", "The Tomorrow Party", "ep"] 
    associatedEthnicGroup: []
    yearsActiveasParty: ["2001-present"]
    wikidataQnode: ["Q286519"]
+   ideologicalOrientation: ["centre", "secularism", "liberalism", "liberalDemocracy", "reformism"]
   ElGeelParty:
    stringTokens: ["El-Geel", "Democratic Generation Party", "Hizb El-Geel al-Democrati", "El Geel Democratic Party"] 
    associatedEthnicGroup: []
@@ -158,18 +159,22 @@ concepts:
    stringTokens: ["Egyptian Bloc"] # An electoral alliance formed during 2011-2012 to prevent the Muslim Brotherhood, and its affiliated Freedom and Justice Party from winning.
    associatedEthnicGroup: []
    wikidataQnode: ["Q254009"]
+   ideologicalOrientation: ["centreLeft", "liberalism", "secularism"]
   FEPParty:
    stringTokens: ["Free Egyptians Party", "FEP"] # Founded after the 2011 Egyptian revolution.
    associatedEthnicGroup: [] # Egyptian nationalism, Secular
    wikidataQnode: ["Q962942"]
+   ideologicalOrientation: ["centre", "centreRight", "nationalism", "liberalism", "socialism"]
   FJPParty:
    stringTokens: ["Freedom and Justice Party", "FJP"] # Founded on 30 April 2011 and was banned on 9 August 2014, remaining underground since then.
    associatedEthnicGroup: [] # Islamist political party
    wikidataQnode: ["Q685715"]
+   ideologicalOrientation: ["right", "islamism", "socialConservatism", "conservatism", "mixedEconomy"]
   HAIParty:
    stringTokens: ["Liberal Socialis Party", "HAI"] # Established in 1976 and dissolved in 2011
    associatedEthnicGroup: [] # Islamic liberalism
    wikidataQnode: ["Q402650"]
+   ideologicalOrientation: ["centreRight", "economicLiberalism", "liberalIslam"]
   HaNParty:
    stringTokens: ["Al-Nour Party", "Party of The Light", "Ḥizb an-Nūr", "HaN"] # Created after the 2011 Egyptian Revolution. 
    associatedEthnicGroup: [] # Islamism
@@ -178,6 +183,7 @@ concepts:
    stringTokens: ["Egyptian Social Democratic Party", "HMDI"] # Created after the 2011 Egyptian Revolution. 
    associatedEthnicGroup: [] # Secularism
    wikidataQnode: ["Q253911"]
+   ideologicalOrientation: ["centreLeft", "secularism", "socialDemocracy", "liberalism", "socialLiberalism"]
   LCPParty:
    stringTokens: ["Liberal Constitutional Party", "LCP"] # Dissolved in 1952
    associatedEthnicGroup: []
@@ -186,14 +192,17 @@ concepts:
    stringTokens: ["Muslim Brotherhood", "Muslim Brotherhood in Egypt"]
    associatedEthnicGroup: [] # Islamism
    wikidataQnode: ["Q16190895"]
+   ideologicalOrientation: ["right", "islamism", "conservatism", "antiZionist", "socialConservatism", "anticommunism"]
   NDPParty:
-   stringTokens: ["National Democratic Party", "NDP"] # Dissolved on April 16, 2011 by court order.
+   stringTokens: ["National Democratic Party", "NDP", "Hizb al-Dimuqratiyah al-Wataniyah", "hdw"] # Dissolved on April 16, 2011 by court order.
    associatedEthnicGroup: [] # Egyptian Nationalism
    wikidataQnode: ["Q841133"]
+   ideologicalOrientation: ["bigTent", "nationalism", "centre", "socialDemocracy"]
   NFPParty:
    stringTokens: ["Nation's Future Party", "NFP", "Future of the Nation Party", "Mostaqbal Watan"] # Founded in November 2014.
    associatedEthnicGroup: [] # Egyptian nationalism, secularism
    wikidataQnode: ["Q20982186"]
+   ideologicalOrientation: ["bigTent", "nationalism", "populism", "secularism", "militarism"]
   NUParty:
    stringTokens: ["National Union"] # The political union between Egypt and Syria that existed from 1957 to 1962.
    associatedEthnicGroup: [] # Arab nationalism
@@ -210,6 +219,7 @@ concepts:
    stringTokens: ["New Wafd Party", "Al-Wafd Party", "Egyptian Wafd Party", "Al-Wafd", "Wafd"] # Founded in 1978
    associatedEthnicGroup: [] # all, Secular
    wikidataQnode: ["Q767012"]
+   ideologicalOrientation: ["centreRight", "nationalism", "liberalism", "conservatism", "secularism"]
   WafdParty:
    stringTokens: ["Wafd Party"] # The party was dissolved in 1952, after the 1952 Egyptian Revolution.
    associatedEthnicGroup: [] # all, Secular
