@@ -91,16 +91,21 @@ concepts:
       stringTokens: ["Movement of the Forces of the Future", "MFA"]
     fpiParty:
       stringTokens: ["Ivorian Popular Front",  "Front populaire ivoirien", "FPI"]
+      ideologicalOrientation: ["centreLeft", "socialDemocracy", "nationalism"]
     rhdpParty:
       stringTokens: ["Rally of Houphouëtists for Democracy and Peace", "RHDP"]
+      ideologicalOrientation: ["centre", "liberalism"]
     pdciParty:
       stringTokens: ["Democratic Party of Ivory Coast – African Democratic Rally", "PDCI", "PDCI-RDA"]
+      ideologicalOrientation: ["centreRight", "nationalism", "conservatism", "populism", "panAfricanism"]
     edsParty:
       stringTokens: ["Together for Democracy and Sovereignty", "EDS"]
     udpciParty:
       stringTokens: ["Union for Democracy and Peace in Ivory Coast", "Union for Democracy and Peace in Côte d'Ivoire", "UDPCI"]
+      ideologicalOrientation: ["centre", "socialLiberalism"]
     rdrParty:
       stringTokens: ["Rally of the Republicans", "RDR"]
+      ideologicalOrientation: ["centre", "liberalism", "republicanism"]
     ###armedgroups
     fnciArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Forces Nouvelles", "Forces Nouvelles de Côte d'Ivoire", "New Forces of Ivory Coast", "FNCI", "FN", "FAFN"]
