@@ -100,11 +100,14 @@ concepts:
      wikidataQnode:  ["Q2996391"]
      associatedethnicgroup: ["Fang people"]
      yearsActiveasParty: ["1990-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
    PDGEParty:
      stringTokens: ["Democratic Party of Equatorial Guinea"]
      wikidataQnode:  ["Q945167"]
+     associatedethnicgroup: ["Fang people"]
      yearsActiveasParty: ["1987-present"]
+     ideologicalOrientation: ["bigTent", "nationalism", "militarism", "populism", "authoritarianism"]
 
    PAEGParty:
      stringTokens: ["Popular Action of Equatorial Guinea"]
@@ -115,11 +118,13 @@ concepts:
      stringTokens: ["Popular Union of Equatorial Guinea"]
      wikidataQnode:  ["Q18618907"]
      yearsActiveasParty: ["1992-present"]
+     ideologicalOrientation: ["centreRight", "christianDemocracy", "conservatism"]
 
    PIEGParty:
      stringTokens: ["Popular Idea of Equatorial Guinea"]
      wikidataQnode:  ["Q9006697"]
      yearsActiveasParty: ["1958-1970"]
+     ideologicalOrientation: ["left", "nationalism", "marxism", "independence", "progressivism"]
   
    PUNTParty:
      stringTokens: ["United National Workers' Party"]
