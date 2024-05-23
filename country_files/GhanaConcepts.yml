@@ -397,14 +397,17 @@ concepts:
     ndcParty:
      stringTokens: ["National Democratic Congress"]
      wikidataQnode:  ["Q200875"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   
     cppParty:
-     stringTokens: ["Convention People's Party"]
+     stringTokens: ["Convention People's Party", "PCP", "People's Convention Party"]
      wikidataQnode:  ["Q1129392"]
+     ideologicalOrientation: ["left", "farLeft", "panAfricanism", "socialism", "independence"]
 
     nppParty1:
      stringTokens: ["New Patriotic Party"]
      wikidataQnode:  ["Q1148441"]
+     ideologicalOrientation: ["centreRight", "liberalism", "conservatism"]
   
     npp2Party:
      stringTokens: ["Northern People's Party"]
@@ -423,8 +426,9 @@ concepts:
      wikidataQnode:  ["Q690836"]
 
     pnpParty:
-     stringTokens: ["People's National Party "]
+     stringTokens: ["People's National Party"]
      wikidataQnode:  ["Q2069633"]
+     ideologicalOrientation: ["left", "socialism", "panAfricanism"]
 
     pfpParty:
      stringTokens: ["Popular Front Party"]
@@ -445,6 +449,7 @@ concepts:
     ugccParty:
      stringTokens: ["United Gold Coast Convention"]
      wikidataQnode:  ["Q2495200"]
+     ideologicalOrientation: ["centreRight", "conservatism"]
   
   ## armed groups
     nlcarmedNonGovernmentalOrganizedGroup:
