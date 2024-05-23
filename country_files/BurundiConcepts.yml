@@ -27,6 +27,7 @@ concepts:
   FRODEBUParty: 
    stringTokens: ["Front for Democracy in Burundi", "FRODEBU", "Front pour la Démocratie au Burundi"]
    associatedEthnicGroup: ["hutuEthnicGroup"]
+   ideologicalOrientation: ["socialDemocracy", "left"]
   CNDDFDDParty:
    stringTokens: ["National Council for the Defense of Democracy- Forces for the Defense of Democracy", "CNDD-FDD", "National COuncil for 
                  the Defense of Democracy", "Forces for the Defense of Democracy", "Alias: Conseil National Pour la Défense de la 
