@@ -49,16 +49,19 @@ concepts:
     stringTokens: ["Movement for Democracy"]
     wikidataQnode: ["Q1951190"]
     yearsActiveasParty: ["1990-present"]
+    ideologicalOrientation: ["centre", "centreRight", "liberalism", "christianDemocracy"]
 
    PAICVParty:
-    stringTokens: ["African Party for the Independence of Cape Verde"]
+    stringTokens: ["African Party for the Independence of Cape Verde", "PAIGC"]
     wikidataQnode: ["Q497464"]
     yearsActiveasParty: ["1981-present"]
+    ideologicalOrientation: ["centreLeft", "Left", "socialDemocracy", "nationalism", "communism", "agrarianism"]
 
    UCIDParty:
     stringTokens: ["Democratic and Independent Cape Verdean Union"]
     wikidataQnode: ["Q3550046"]
     yearsActiveasParty: ["1981-present"]
+    ideologicalOrientation: ["centreRight", "centre", "conservatism", "christianDemocracy"]
 
    PRDParty:
     stringTokens: ["Democratic Renewal Party"]
