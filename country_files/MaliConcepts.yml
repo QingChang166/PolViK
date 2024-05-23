@@ -221,4 +221,16 @@ concepts:
       stringTokens: ["Katibat Macina", "Macina Liberation Front"]
       wikidataQnode: ["Q20725919"]
       livesIn: [""]
-  
+##politicalparties
+    ADEMAPASJParty:
+       stringTokens: ["ADEMAPASJ", "Alliance for Democracy in Mali", "Pan African party for liberty, solidarity, and justice"]
+       wikidataQnode: ["Q2838240"]
+       ideologicalOrientation: ["centreLeft", "socialDemocracy", "panAfricanism"]
+    RPMParty:
+       stringTokens: ["RPM", "Rally for Mali"]
+       wikidataQnode: ["Q3419939"]
+       ideologicalOrientation: ["centreLeft", "socialDemocracy"]
+    URDParty:
+       stringTokens: ["URD", "Union for the Republic and Democracy""]
+       wikidataQnode: ["Q3550438"]
+       ideologicalOrientation: ["centreLeft", "centre", "socialLiberalism"]
