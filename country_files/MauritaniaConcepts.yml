@@ -61,31 +61,37 @@ concepts:
      stringTokens: ["Rally of Democratic Forces", "Assembly of Democratic Forces"]
      wikidataQnode:  ["Q930378"]
      yearsActiveasParty: ["2002-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "secularism"]
 
    PPMParty:
      stringTokens: ["Mauritanian People's Party"]
      wikidataQnode:  ["Q1698098"]
      yearsActiveasParty: ["1961-1978"]
+     ideologicalOrientation: ["authoritarianism", "nationalism", "centralism", "islamicSocialism"]
 
    UDFParty:
-     stringTokens: ["Union of Democratic Forces"]
+     stringTokens: ["Union of Democratic Forces", "UFD"]
      wikidataQnode:  ["Q4119896"]
      yearsActiveasParty: ["1991-2000"]
+     ideologicalOrientation: ["centre", "centreLeft", "socialDemocracy"]
 
    PRDPParty:
-     stringTokens: ["Republican Party for Democracy and Renewal"]
+     stringTokens: ["Republican Party for Democracy and Renewal", "Democratic and Social Republican Party"]
      wikidataQnode:  ["Q3366690"]
      yearsActiveasParty: ["1992-present"]
+     ideologicalOrientation: ["right", "liberalConservatism"]
 
    APPParty:
      stringTokens: ["People's Progressive Alliance"]
      wikidataQnode:  ["Q7165717"]
      yearsActiveasParty: [""]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "nasserism"]
 
    UPRParty:
      stringTokens: ["Union for the Republic"]
      wikidataQnode:  ["Q7886485"]
      yearsActiveasParty: ["2009-2022"]
+     ideologicalOrientation: ["centre", "populism"]
 
    RNRDParty:
      stringTokens: ["National Rally for Reform and Development"]
