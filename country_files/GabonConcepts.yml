@@ -175,14 +175,16 @@ concepts:
     
   ## politicalparties
    PDGParty:
-     stringTokens: ["Gabonese Democratic Party"]
+     stringTokens: ["Gabonese Democratic Party". "BDG", "BDGPDG", "PDG"]
      wikidataQnode: ["Q1762536"]
      yearsActiveasParty: ["1968-present"]
+     ideologicalOrientation: ["centreRight", "conservatism", "secularism", "panAfricanism"]
 
    UDSGParty:
      stringTokens: ["Gabonese Social and Democratic Union"]
      wikidataQnode: ["Q23023616"]
      yearsActiveasParty: ["1947-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "liberalDemocracy"]
   
    NRMParty:
      stringTokens: ["National Regeneration Movement"]
@@ -198,11 +200,13 @@ concepts:
      stringTokens: ["Union of the Gabonese People", "UPG"]
      wikidataQnode: ["Q3550242"]
      yearsActiveasParty: ["1989-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
    PGPParty:
      stringTokens: ["Gabonese Progress Party"]
      wikidataQnode: ["Q3366469"]
      yearsActiveasParty: ["1990-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   
    NWR-RGParty:
      stringTokens: ["National Woodcutters' Rally – Rally for Gabon"]
@@ -228,6 +232,7 @@ concepts:
      stringTokens: ["Social Democratic Party"]
      wikidataQnode: ["Q3366711"]
      yearsActiveasParty: ["1991-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
  
    UPNRParty:
      stringTokens: ["Union for the New Republic"]
