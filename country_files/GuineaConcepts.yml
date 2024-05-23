@@ -193,17 +193,20 @@ concepts:
    
   ## politicalparties
    PRGParty:
-     stringTokens: ["Rally of the Guinean People"]
+     stringTokens: ["Rally of the Guinean People", "RPG"]
      wikidataQnode:  ["Q2663294"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "progressivism"]
 
    UFDGParty:
      stringTokens: ["Union of Democratic Forces of Guinea"]
      wikidataQnode:  ["Q577455"]
      associatedEthnicGroup: ["Malinke people"]
+     ideologicalOrientation: ["centre", "liberalism", "socialLiberalism"]
 
    UFRParty:
      stringTokens: ["Union of Republican Forces"]
      wikidataQnode:  ["Q3550145"]
+     ideologicalOrientation: ["centre", "liberalism"]
 
    UPRParty:
      stringTokens: ["Union for Progress and Renewal"]
@@ -220,10 +223,12 @@ concepts:
    PUPParty:
      stringTokens: ["Unity and Progress Party"]
      wikidataQnode:  ["Q1583061"]
+     ideologicalOrientation: ["bigTent", "nationalism", "economicLiberalism", "authoritarianism"]
 
    DSGParty:
      stringTokens: ["Socialist Democracy of Guinea"]
      wikidataQnode:  ["Q7551545"]
+     ideologicalOrientation: ["left", "socialism"]
 
    ADPGParty:
      stringTokens: ["African Democratic Party of Guinea"]
