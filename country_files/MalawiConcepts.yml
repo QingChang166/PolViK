@@ -93,16 +93,19 @@ concepts:
      stringTokens: ["Malawi Congress Party"]
      wikidataQnode: ["Q1037389"]
      yearsActiveasParty: ["1959-present"] 
+     ideologicalOrientation: ["centreRight", "right", "bigTent", "conservatism", "nationalism", "independence", "anticommunism"]
 
    AFORDParty:
      stringTokens: ["Alliance for Democracy"]
      wikidataQnode: ["Q4732363"]
      yearsActiveasParty: ["1993-present"] 
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
    UDFParty:
      stringTokens: ["United Democratic Front"]
      wikidataQnode: ["Q775844"] 
      yearsActiveasParty: ["1992-present"] 
+     ideologicalOrientation: ["centre", "liberalism"]
 
    NDAParty:
      stringTokens: ["National Democratic Alliance"]
@@ -123,11 +126,13 @@ concepts:
      stringTokens: ["Democratic Progressive Party"]
      wikidataQnode: ["Q1185876"]
      yearsActiveasParty: ["2005-present"]
+     ideologicalOrientation: ["centre", "bigTent", "liberalism"]
 
    PPParty:
      stringTokens: ["People's Party"]
      wikidataQnode: ["Q2069639"]
      yearsActiveasParty: ["2011-present"]
+     ideologicalOrientation: ["centreRight", "conservatism"]
 
    NACParty:
      stringTokens: ["Nyasaland African Congress"]
