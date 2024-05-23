@@ -84,16 +84,19 @@ concepts:
      stringTokens: ["National Forces Alliance"]
      wikidataQnode:  ["Q1338697"]
      yearsActiveasParty: ["2012-Present"]
+     ideologicalOrientation: ["islamism", "nationalism", "bigTent", "economicLiberalism"]
   
    nfpParty:
      stringTokens: ["National Front Party"]
      wikidataQnode:  ["Q1148059"]
      yearsActiveasParty: ["2012-Present"]
+     ideologicalOrientation: ["centreLeft", "progressivism", "liberalism"]
   
    ufhParty:
      stringTokens: ["Union for Homeland"]
      wikidataQnode:  ["Q1353163"]
      yearsActiveasParty: ["2012-Present"]
+     ideologicalOrientation: ["centre", "regionalism", "localism", "populism"]
   
    ncpParty:
      stringTokens: ["National Centrist Party"]
