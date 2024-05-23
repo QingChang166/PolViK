@@ -109,6 +109,7 @@ concepts:
    associatedEthnicGroup: []
    wikidataQnode: ["Q784586"]
    yearsActiveasParty: ["2008-present"]
+   ideologicalOrientation: ["reformism", "monarchism", "socialLiberalism"]
 
   AAParty:
    stringTokens: ["Covenant Party", "Al Ahd", "Al Ahd Addimocrati", "AA"]
@@ -117,10 +118,11 @@ concepts:
    yearsActiveasParty: ["2002-present"]  
   
   CUParty:
-   stringTokens: ["Constitutional Union"]
+   stringTokens: ["Constitutional Union", "UC"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3550065"]
    yearsActiveasParty: ["1983-present"]
+   ideologicalOrientation: ["centreRight", "monarchism", "liberalConservatism", "economicLiberalism", "populism"]
    
   UDParty:
    stringTokens: ["Democratic Union", "Union Démocratique"]
@@ -139,6 +141,7 @@ concepts:
    associatedEthnicGroup: []
    wikidataQnode: ["Q477273"]
    yearsActiveasParty: ["1937-present"]
+   ideologicalOrientation: ["centreRight", "conservatism", "nationalism", "monarchism"]
   
   MDSParty:
    stringTokens: ["Democratic and Social Movement", "Mouvement Démocratique et Social", "MDS"]
@@ -157,18 +160,21 @@ concepts:
    associatedEthnicGroup: ["Berber"]
    wikidataQnode: ["Q1471276"]
    yearsActiveasParty: ["1957-present"]
+   ideologicalOrientation: ["centreright", "conservativeLiberalism", "monarchism"]
    
   UNFPParty:
    stringTokens: ["National Union of Popular Forces", "UNFP", "Union Nationale des Forces Populaires"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q692325"]
    yearsActiveasParty: ["1959-2005"] # split from Istiqlal Party
+   ideologicalOrientation: ["left", "nationalism", "republicanism", "socialism"]
   
   JDPParty:
    stringTokens: ["Justice and Development Party", "JDP", "PJD"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q1255232"]
    yearsActiveasParty: ["1967-present"] #split from Populat Movement
+   ideologicalOrientation: ["conservatism", "socialConservatism"]
   
   PNDParty-Morocco:
    stringTokens: ["National Democratic Party", "Parti national-démocrate"]
@@ -187,18 +193,21 @@ concepts:
    associatedEthnicGroup: []
    wikidataQnode: ["Q1888857"]
    yearsActiveasParty: ["1974-present"]
+   ideologicalOrientation: ["left", "farLeft", "communism", "socialism"]
   
   RNIParty:
    stringTokens: ["National Rally of Independents", "Rassemblement National des Indépendants"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q1630297"]
    yearsActiveasParty: ["1978-present"]
+   ideologicalOrientation: ["centre", "centreRight", "liberalism", "monarchism"]
   
   USFPParty:
    stringTokens: ["Socialist Union of Popular Forces", "Union Socialiste des Forces Populaires", "USFP"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q2297130"]
    yearsActiveasParty: ["1975-present"] # split from National Union of Popular Forces
+   ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   
   PFParty:
    stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario", "Popular Front for the Liberation of Saguia el-Hamra and Río de Oro"]
