@@ -241,11 +241,13 @@ concepts:
    associatedEthnicGroup: ["tigrayanEthnicGroup"]
    yearsActiveasEntity: ["1975-Present"] ##active as an entity
    yearsActiveasParty: ["1991-Present"] ##active as a political party
+   ideologicalOrientation: ["left", "farLeft", "ethnicFederalism", "nationalism", "communism", "marxism", "hoxhaism"]
   eprdfParty:
    stringTokens: ["EPRDF", "Ethiopian People's Revolutionary Democratic Front"]
    wikidataQnode: ["Q1145280"]
    yearsActiveasEntity: ["1988-2019"]
    yearsActiveasParty: ["1991-2019"]
+   ideologicalOrientation: ["centreLeft", "left", "farLeft", "ethnicFederalism", "marxism", "plurinationalism", "hoxhaism"]
   prosperityParty:
    stringTokens: ["Prosperity Party"]
    wikidataQnode: ["Q78108696"]
@@ -303,6 +305,7 @@ concepts:
    wikidataQnode: ["Q20982161"]
    yearsActiveasEntity: ["2008-Present"] ##active as an entity
    yearsActiveasParty: ["2008-Present"] ##active as a political party
+   ideologicalOrientation: ["centreLeft", "left", "socialDemocracy", "ethnicFederalism"]
   eprpParty:
    stringTokens: ["Ethopian Peoples Revolutionary Party", "EPRP"]
    wikidataQnode: ["Q257591"]
@@ -521,16 +524,18 @@ concepts:
    wikidataQnode: ["Q627213"]
    yearsActiveasEntity: ["1984-1991"] ##active as an entity
    yearsActiveasParty: ["1984-1991"] ##active as a political party
+   ideologicalOrientation: ["farLeft", "communism", "marxism"]
   semayawiParty:
    stringTokens: ["Semayawi Party", "Blue Party"]
    wikidataQnode: ["Q19605729"]
    yearsActiveasEntity: ["2012-2019"] ##active as an entity
    yearsActiveasParty: ["2012-2019"] ##active as a political party
   cudParty:
-   stringTokens: ["Coalition for Unity and Democracy", "CUD", "CUDP"]
+   stringTokens: ["Coalition for Unity and Democracy", "CUD", "CUDP", "cudcdu"]
    wikidataQnode: ["Q1376302"]
    yearsActiveasEntity: ["2004-2007"] ##active as an entity
    yearsActiveasParty: ["2004-2007"] ##active as a political party
+   ideologicalOrientation: ["centreRight", "nationalism", "liberalism", "federalism", "populism"]
   tdfParty:
    stringTokens: ["Tigray Defense Forces"]
    wikidataQNode: ["Q106901067"]
@@ -545,6 +550,7 @@ concepts:
    wikidataQnode: ["Q491145"]
    yearsActiveasEntity: ["2005-2008"] ##active as an entity
    yearsActiveasParty: ["2005-2008"] ##active as a political party
+   ideologicalOrientation: ["bigTent", "socialDemocracy", "socialLiberalism"]
   eduParty:
    stringTokens: ["Ethiopian Democratic Union", "Teranafit", "EDU"]
    wikidataQnode: ["Q16200284"]
