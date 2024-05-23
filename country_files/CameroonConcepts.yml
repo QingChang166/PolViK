@@ -354,14 +354,17 @@ concepts:
     sdfParty:
      stringTokens: ["Social Democratic Front"]
      wikidataQnode:  ["Q1470113"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
     cuParty:
      stringTokens: ["Cameroonian Union"]
      wikidataQnode:  ["Q5026464"]
     upcParty:
      stringTokens: ["Union of the Peoples of Cameroon"]
      wikidataQnode:  ["Q1860584"]
+     ideologicalOrientation: ["left", "socialism", "marxism", "independence"]
     cnuParty:
-     stringTokens: ["Cameroonian National Union", "CNU"]
+     stringTokens: ["Cameroonian National Union", "CNU", "UNC"]
+     ideologicalOrientation: ["bigTent", "nationalism", "francophile", "populism"]
     kndpParty:
      stringTokens: ["Kamerun National Democratic Party", "KNDP"]
      wikidataQnode:  ["Q12350429"]
@@ -369,11 +372,13 @@ concepts:
      stringTokens: ["Cameroon People's National Convention"]
      wikidataQnode:  ["Q18737112"]
     nudpParty:
-     stringTokens: ["National Union for Democracy and Progress"]
+     stringTokens: ["National Union for Democracy and Progress", "UNDP"]
      wikidataQnode:  ["Q6979097"]
+     ideologicalOrientation: ["right", "anticommunist"]
     cpdmParty:
-     stringTokens: ["People's Democratic Movement", "CPDM", "Cameroon People's Democratic Movement "]
+     stringTokens: ["People's Democratic Movement", "CPDM", "Cameroon People's Democratic Movement", "RDPC"]
      wikidataQnode:  ["Q953447"]
+     ideologicalOrientation: ["bigTent", "nationalism", "populism", "francophile"]
   ## armed groups
     bamosdarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["BAKASSI FREEDOM FIGHTERS", "BAMOSD"]
