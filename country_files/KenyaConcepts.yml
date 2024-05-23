@@ -166,6 +166,7 @@ concepts:
    associatedEthnicGroup: ["KikuyuEthnicGroup", "KalenjinEthnicGroup"]
    yearsActiveasParty: ["1960-present"]
    wikidataQnode: ["Q1422517"]
+   ideologicalOrientation: ["centreRight", "right", "nationalism", "conservatism"]
   NARCParty:
    stringTokens: ["NARC", "National Rainbow Coalition"]
    yearsActiveasParty: ["2002-2016"]
@@ -176,16 +177,19 @@ concepts:
    yearsActiveasParty: ["2005-present"]
    wikidataQnode: ["Q5251223"]
    regionsMostActive: ["Nyanza", "Nairobi"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy", "nationalism", "socialLiberalism", "populism"]
   TNAParty:
    stringTokens: ["TNA", "The Natonal Alliance"]
    associatedEthnicGroup: ["KikuyuEthnicGroup"]
    yearsActiveasParty: ["2012-2016"]
    wikidataQnode: ["Q7193584"]
+   ideologicalOrientation: ["centreRight", "right", "nationalism", "conservatism"]
   JubileeParty:
    stringTokens: ["Jubilee Party"]
    associatedEthnicGroup: ["KikuyuEthnicGroup", "KalenjinEthnicGroup"]
    yearsActiveasParty: ["2016-Present"]
    wikidataQnode: ["Q27963537"]
+   ideologicalOrientation: ["right", "conservatism", "economicLiberalism"]
   UDAParty:
    stringTokens: ["United Democratic Alliance", "UDA"]
    yearsActiveasParty: ["2020-Present"]
