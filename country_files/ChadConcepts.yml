@@ -164,6 +164,7 @@ concepts:
    mpsParty:
      stringTokens: ["Patriotic Salvation Movement", "MPS"]
      wikidataQnode:  ["Q1576278"]
+     ideologicalOrientation: ["bigTent", "nationalism"]
    rdpParty:
      stringTokens: ["Rally for Democracy and Progress", "Rassemblement pour la démocratie et le progrès"]
      wikidataQnode:  ["Q3623619"]
@@ -177,6 +178,7 @@ concepts:
    undrParty:
      stringTokens: ["National Union for Democracy and Renewal", "UNDR"]
      wikidataQnode:  ["Q1168907"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
    uditParty:
      stringTokens: ["Independent Democratic Union of Chad", "UDIT"]
      wikidataQnode:  ["Q20982164"]
@@ -189,6 +191,7 @@ concepts:
    udsrParty:
      stringTokens: ["Democratic and Socialist Union of the Resistance", "UDSR"]
      wikidataQnode:  ["Q2164587"]
+     ideologicalOrientation: ["centre", "centreLeft", "socialLiberalism", "anticommunism", "socialism", "conservatism"]
    psitParty:
      stringTokens: ["Independent Socialist Party of Chad", "PSIT"]
      wikidataQnode:  ["Q1705046"]
