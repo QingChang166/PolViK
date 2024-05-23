@@ -134,16 +134,19 @@ concepts:
      stringTokens: ["Party for Social Renewal"]
      wikidataQnode:  ["Q461351"]
      yearsActiveasParty: ["1992-present"]
+     ideologicalOrientation: ["centreLeft", "socialLiberalism", "reformism", "agrarianism"]
 
    PAIGCParty:
      stringTokens: ["African Party for the Independence of Guinea and Cape Verde"]
      wikidataQnode:  ["Q776352"]
      yearsActiveasParty: ["1956-present"]
+     ideologicalOrientation: ["centreLeft", "left", "socialDemocracy", "nationalism", "panAfricanism", "communism", "marxism", "agrarianism"]
 
    PUSDParty:
      stringTokens: ["United Social Democratic Party"]
      wikidataQnode:  ["Q7889155"]
      yearsActiveasParty: ["1992-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
    PRIDParty:
      stringTokens: ["Republican Party for Independence and Development"]
@@ -164,6 +167,7 @@ concepts:
      stringTokens: ["Madem G15", "Movement for Democratic Alternation, Group of 15"]
      wikidataQnode:  ["Q62258541"]
      yearsActiveasParty: ["2018-present"]
+     ideologicalOrientation: ["left", "centreLeft", "socialDemocracy"]
 
    FDParty:
      stringTokens: ["Democratic Front"]
