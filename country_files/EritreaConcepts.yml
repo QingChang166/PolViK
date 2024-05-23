@@ -108,6 +108,7 @@ concepts:
    wikidataQnode: ["Q863376"]
    yearsActiveasEntity: ["1994-Present"] ##active as an entity
    yearsActiveasParty: ["1994-Present"] ##active as a political party
+   ideologicalOrientation: ["bigTent", "nationalism", "secularism", "left", "socialism"]
   ##armed groups
   #yearsActiveasArmed == year of first attack
   #pre 2020 data from AGD data, post from online sources
