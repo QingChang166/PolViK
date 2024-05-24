@@ -154,6 +154,7 @@ concepts:
    associatedEthnicGroup: []
    yearsActiveasEntity: ["1976-1991"] ##active as an entity
    yearsActiveasParty: ["1976-1991"] ##active as a political party
+   ideologicalOrientation: ["communism", "marxism", "socialism", "nationalism"]
   uscParty:
    stringTokens: ["United Somali Congress"]
    wikidataQnode: ["Q946770"]
@@ -172,6 +173,7 @@ concepts:
    associatedEthnicGroup: []
    yearsActiveasEntity: ["2011-2019"] ##active as an entity
    yearsActiveasParty: [] ##active as a political party
+   ideologicalOrientation: ["islamicDemocracy", "conservatism", "economicLiberalism"]
   daljirParty:
    stringTokens: ["Daljir Party"]
    wikidataQnode: ["Q22079825"]
