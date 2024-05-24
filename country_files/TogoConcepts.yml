@@ -154,18 +154,22 @@ concepts:
     rptParty:
      stringTokens: ["Rally of the Togolese People"]
      wikidataQnode:  ["Q1514253"]
+     ideologicalOrientation: ["right", "farRight", "nationalism", "authoritarianism", "populism"]
   
     cstParty:
      stringTokens: ["Let's Save Togo Collective"]
      wikidataQnode:  ["Q16540801"]
+     ideologicalOrientation: ["centreLeft", "farLeft", "bigTent", "socialDemocracy", "progressivism", "antiauthoritarianism", "socialism", "communism", "marxism"]
   
     unirParty:
      stringTokens: ["Union for the Republic"]
      wikidataQnode:  ["Q22080618"]
+     ideologicalOrientation: ["right", "conservatism", "nationalism", "nationalConservatism"]
   
     ufcParty:
      stringTokens: ["Union of Forces for Change"]
      wikidataQnode:  ["Q2151805"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   
     acrParty:
      stringTokens: ["Action Committee for Renewal"]
@@ -186,14 +190,16 @@ concepts:
     ancParty:
      stringTokens: ["National Alliance for Change"]
      wikidataQnode:  ["Q2838206"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "progressivism", "antiauthoritarianism"
   
     utdParty:
      stringTokens: ["Togolese Union for Democracy"]
      wikidataQnode:  ["Q23777567"]
 
     raParty:
-     stringTokens: ["Rainbow Alliance"]
+     stringTokens: ["Rainbow Alliance", "CAEC"]
      wikidataQnode:  ["Q22080518"]
+     ideologicalOrientation: ["bigTent", "democracy", "panAfricanism", "socialism", "socialDemocracy"]
   
     mcrParty:
      stringTokens: ["Movement of Centrist Republicans"]
