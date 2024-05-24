@@ -118,12 +118,16 @@ concepts:
  CCMParty:
    stringTokens: ["CCM", "Chama Cha Mapinduzi", "Party of the Revolution", "Tanganyika African National Union", "TANU", "Afro-Shirazi Party", "ASP"]
    yearsActiveasParty: ["1977-Present"]
+   ideologicalOrientation: ["centreLeft", "left", "farLeft", "socialDemocracy", "nationalism", "socialConservativism", "secularism", "panAfricanism", 
+                            "ujamaa", "socialism"]
  ChademaParty:
    stringTokens: ["Chadema", "Chama cha Demokrasia na Maendeleo", "The Party for Democracy and Progress"]
    yearsActiveasParty: ["1992-Present"]
+   ideologicalOrientation: {"centreRight", "conservatism", "economicLiberalism"]
  ActParty:
    stringTokens: ["ACT-Wazalendo", "Alliance for Change and Transparency"]
    yearsActiveasParty: ["2014-Present"]
+   ideologicalOrientation: ["left", "socialDemocracy", "ujamaa"]
    
  CUFParty:  
    stringTokens: ["Civic United Front", "CUF", "Chama Cha Wanachi"]
