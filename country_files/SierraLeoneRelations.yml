@@ -26,6 +26,7 @@ relations:
   - (LinguisticGroup, kurankoLinguisticGroup)
   - (LinguisticGroup, konoLinguisticGroup)
   - (LinguisticGroup, limbaLinguisticGroup)
+  - (LinguisticGroup, themneLinguisticGroup)
   - (Party, slppParty)
   - (Party, apcParty)
   - (Party, gapParty)
