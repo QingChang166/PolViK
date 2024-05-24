@@ -254,7 +254,7 @@ concepts:
   
 
 ## armed groups
-  BokoHaramTransnationalarmedNonGovernmentalOrganizedGroup:
+  BokoHaramarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Boko Haram", "Islamic State's West Africa Province", "Jamā'at Ahl as-Sunnah lid-Da'wah wa'l-Jihād", "People Committed to the Prophet's Teachings for Propagation and Jihad", "Wilayat Gharb Afriqiyya"]
      originCountry: ["Nigeria"]
      regionsMostActive: ["Borno", "Yobe", "Adamwa"]
