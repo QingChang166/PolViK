@@ -240,27 +240,32 @@ concepts:
    stringTokens: ["NRM", "National Resistance Movement"]
    wikidataQnode: ["Q382674"]
    yearsActiveasParty: ["1980-Present"]
+   ideologicalOrientation: ["bigTent", "socialConservatism", "nationalism", "economicLiberalism", "populism", "socialism"]
   UPCParty:
    stringTokens: ["UPC", "Uganda People's Congress"]
    associatedEthnicGroup: ["LangiEthnicGroup", "AcholiEthnicGroup"]
    wikidataQnode: ["Q2187095"]
    geographicRepresentation: ["Northern Uganda"]  ##particular regions the group represents  ##can be blank
    yearsActiveasParty: ["1960-Present"]
+   ideologicalOrientation: ["centreLeft", "left", "socialDemocracy", "nationalism", "panAfricanism", "socialism"]
   DPParty:
    stringTokens: ["DP", "Democratic Party"]
    wikidataQnode: ["Q4157645"]
    geographicRepresentation: ["Central Uganda"]  ##particular regions the group represents  ##can be blank
    associatedReligion: ["Catholicism"]  ##can be blank
    yearsActiveasParty: ["1954-Present"]
+   ideologicalOrientation: ["centreRight", "christianDemocracy", "socialconservatism"]
   FDCParty:
    stringTokens: ["Forum for Democratic Change", "FDC"]
    wikidataQnode: ["Q116510993"]
    yearsActiveasParty: ["2004-Present"]
+   ideologicalOrienation: ["centreRight", "liberalDemocracy", "liberalconservatism", "secularism"]
   CPParty:
    stringTokens: ["CP", "Conservative Party"]
    wikidataQnode: ["Q3366253"]
    geographicRepresentation: ["Central Uganda"]  ##particular regions the group represents  ##can be blank
    yearsActiveasParty: ["1980-Present"]
+   ideologicalOrientation: ["centreRight", "conservatism", "federalism", "anticorruption", "environmentalism", "monarchism"]
   JEEMAParty:
    stringTokens: ["JEEMA", "Justice Forum"]
    wikidataQnode: ["Q376642"]
