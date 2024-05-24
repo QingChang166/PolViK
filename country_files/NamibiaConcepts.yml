@@ -140,6 +140,7 @@ concepts:
      stringTokens: ["SWAPO", "South West Africa People's Organisation"]
      wikidataQnode: ["Q467711"]
      yearsActiveasParty: ["1960-present"]
+     ideologicalOrientation: ["left", "socialDemocracy", "statism", "socialism", "marxism"]
 
    UDFParty:
      stringTokens: ["United Democratic Fron"]
@@ -155,16 +156,19 @@ concepts:
      stringTokens: ["National Party of South West Africa"]
      wikidataQnode: ["Q3251833"]
      yearsActiveasParty: ["1939-1991"]
+     ideologicalOrientation: ["farRight", "nationalism", "apartheid", "socialConservatism"]
 
    CDParty:
      stringTokens: ["Congress of Democrats"]
      wikidataQnode: [""]
      yearsActiveasParty: ["1999-present"]
+     ideologicalOrientation: ["left", "socialDemocracy"]
 
    RDPParty:
      stringTokens: ["Rally for Democracy and Progress"]
      wikidataQnode: ["Q2129469"]
      yearsActiveasParty: ["2007-present"]
+     ideologicalOrientation: ["centreLeft", "nationalism", "liberalism"]
 
    ACTURParty:
      stringTokens: ["Action Front for the Retention of Turnhalle Principles"]
@@ -182,9 +186,11 @@ concepts:
      yearsActiveasParty: 
 
    PDMParty:
-     stringTokens: ["Popular Democratic Movement", "Democratic Turnhalle Alliance"]
+     stringTokens: ["Popular Democratic Movement", "Democratic Turnhalle Alliance", "DTA"]
      wikidataQnode: ["Q1155803"]
      yearsActiveasParty: ["1977-present"]
+     ideologicalOrientation: ["centreRight", "conservatism", "economicLiberalism"]
+     
 
   ## armed groups
    CLAarmedNonGovernmentalOrganizedGroup:
