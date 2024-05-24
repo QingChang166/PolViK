@@ -126,12 +126,14 @@ concepts:
      associatedEthnicGroup: ["YorubaEthnicGroup"]
      associatedReligion: ["Christian"]
      yearsActiveasParty: ["1978-1983"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
  
   PRPParty:
      stringTokens: ["People's Redemption Party", "PRP"]
      associatedEthnicGroup: ["HausaEthnicGroup", "FulaniEthnicGroup"]
      geographicRepresentation: ["Islam"]
      yearsActiveasParty: ["1978-1988"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
   NRCParty:
      stringTokens: ["National Republican Convention", "NRC"]
@@ -143,16 +145,19 @@ concepts:
      associatedEthnicGroup: ["YorubaEthnicGroup"]
      associatedReligion: ["Christianity"]
      yearsActiveasParty: ["2006-2013"]
+     ideologicalOrientation: ["centreRight", "conservativeLiberalism", "panAfricanism"]
 
   APCParty:
      stringTokens: ["All Progressives Congress", "APC"]
      wikidataQnode: ["Q4729266"]
      yearsActiveasParty: ["2013-present"]
+     ideologicalOrientation: ["bigTent", "economicLiberalism", "centreLeft"]
 
   PDPParty:
      stringTokens: ["Peoples Democratic Party"]
      wikidataQnode: ["Q1551163"]  
      yearsActiveasParty: ["1998-present"]
+     ideologicalOrientation: ["centreRight", "socialConservatism", "economicLiberalism"]
 
   LPParty:
      stringTokens: ["Labour Party"]
@@ -163,6 +168,7 @@ concepts:
      stringTokens: ["All Progressives Grand Alliance"]
      wikidataQnode: ["Q4729271"]
      yearsActiveasParty: ["2002-present"]
+     ideologicalOrientation: ["nationalism", "federalism", "pluralism", "progressivism", "panAfricanism", "pluralism"]
 
   NNPPParty:
      stringTokens: ["New Nigeria People's Party"]
@@ -178,6 +184,7 @@ concepts:
      stringTokens: ["Social Democratic Party"]
      wikidataQnode: ["Q7550561"]
      yearsActiveasParty: ["1989-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
   ADCParty:
      stringTokens: ["African Democratic Congress"]
@@ -213,11 +220,13 @@ concepts:
      stringTokens: ["All Nigeria Peoples Party", "ANPP"]
      wikidataQnode: ["Q1432251"] 
      yearsActiveasParty: ["1998-2013"]
+     ideologicalOrientation: ["centreRight", "right", "conservatism", "socialConservatism", "economicLiberalism", "islamicDemocracy"]
 
   CPCParty:
      stringTokens: ["Congress for Progressive Change"]
      wikidataQnode: ["Q5160852"] 
      yearsActiveasParty: ["2009-2013"]
+     ideologicalOrientation: ["centre", "socialLiberalism", "federalism", "socialConservatism"]
 
   DPNParty:
      stringTokens: ["Democratic Party of Nigeria"]
