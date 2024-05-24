@@ -409,7 +409,7 @@ concepts:
      wikidataQnode:  ["Q1148441"]
      ideologicalOrientation: ["centreRight", "liberalism", "conservatism"]
   
-    npp2Party:
+    nppParty2:
      stringTokens: ["Northern People's Party"]
      wikidataQnode:  ["Q1253664"]
   
