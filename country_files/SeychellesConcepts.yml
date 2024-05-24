@@ -37,11 +37,13 @@ concepts:
      stringTokens: ["Seychelles National Party", "SNP"]
      wikidataQnode: ["Q1253973"]
      yearsActiveasParty: ["1994-present"] 
+     ideologicalOrientation: ["centre", "liberalism"]
 
    USPParty:
      stringTokens: ["United Seychelles", "Seychelles People's Progressive Front", "People's Party", "United Seychelles Party"]
      wikidataQnode: ["Q206395"]
      yearsActiveasParty: ["1964-present"]
+     ideologicalOrientation: ["centreLeft", "left", "farLeft", "socialDemocracy", "communism", "marxism"]
 
    SDPParty:
      stringTokens: ["Seychelles Democratic Party"]
@@ -52,6 +54,7 @@ concepts:
      stringTokens: ["Linyon Demokratik Seselwa", "Seychellois Democratic Alliance/Union"]
      wikidataQnode: ["Q48797479"]
      yearsActiveasParty: ["2016-present"]
+     ideologicalOrientation: ["centre", "liberalism"]
 
    SAParty:
      stringTokens: ["Seychellois Alliance"]
