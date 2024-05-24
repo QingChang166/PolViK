@@ -122,7 +122,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
                   "defense force", "wardens", "state security forces", "SSF", "prison", "prison officials", "policemen", "policeman", "officer", "military", "guards"]
   foreignSecurityForces:
     stringTokens: ["foreign rebel", "foreign troop", "foreign force", "foreign army", "foreign armies"]
-  politicalParties: 
+  Parties: 
      stringTokens: ["politicians", "parties", "political stakeholders", "party", "political party leaders", "political activists", "political groups", "campaign"]
   partiesInPower:
     stringTokens: []
