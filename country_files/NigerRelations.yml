@@ -1,6 +1,5 @@
 relations:
-  - (officialStateSecurityForces, natSecurityForces)
-  - (officialStateSecurityForces, SecurityForces)
+  - (officialStateSecurityForces, NigerSecurityForces)
   - (EthnicGroup, hausaEthnicGroup)
   - (EthnicGroup, zarmaEthnicGroup)
   - (EthnicGroup, tuaregEthnicGroup)
