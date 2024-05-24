@@ -179,12 +179,14 @@ concepts:
    associatedEthnicGroup: [] # anti apartheid
    wikidataQnode: ["Q83162"]
    yearsActiveasParty: ["1912-present"] # legalized in 1990  
+   ideologicalOrientation: ["centreLeft", "nationalism", "socialDemocracy"]
   
   ACDPParty:
    stringTokens: ["African Christian Democratic Party", "ACDP"]
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q268613"]
    yearsActiveasParty: ["1993-present"]
+   ideologicalOrientation: ["centreRight", "right", "christianDemocracy", "socialconservatism", "christianRight"]
   
   APParty:
    stringTokens: ["Afrikaner Party"]
@@ -197,30 +199,35 @@ concepts:
    associatedEthnicGroup: ["African People"] # anti apartheid
    wikidataQnode: ["Q793572"]
    yearsActiveasParty: ["1999-present"] # founded in 1978
+   ideologicalOrientation: ["left", "farLeft", "socialism"]
   
   COPEParty:
    stringTokens: ["Congress of the People", "COPE"]
    associatedEthnicGroup: [] # anti-apartheid
    wikidataQnode: ["Q1125988"]
    yearsActiveasParty: ["2008-present"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy", "socialLiberalism", "progressivism"]
   
   CPSAParty:
-   stringTokens: ["Conservative Party of South Africa", "Conservative Party", "Konserwatiewe Party van Suid-Afrika"]
+   stringTokens: ["Conservative Party of South Africa", "Conservative Party", "Konserwatiewe Party van Suid-Afrika", "CP"]
    associatedEthnicGroup: ["Afrikaners", "White"] # pro-apartheid
    wikidataQnode: ["Q776414"]
    yearsActiveasParty: ["1982-2004"]
+   ideologicalOrientation: ["farRight", "socialConservatism", "nationalConservatism", "economicLiberalism", "apartheid", "whiteSupremacy", "scientificRacism"
   
   DAParty:
    stringTokens: ["Democratic Alliance", "Demokratiese Alliansie", "DA", "DF"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q761877"]
    yearsActiveasParty: ["2000-present"]
+   ideologicalOrientation: ["centre", "liberalism", "federalism"]
   
   DPParty:
    stringTokens: ["Democratic Party", "DP"]
    associatedEthnicGroup: [] # anti apartheid
    wikidataQnode: ["Q780158"]
    yearsActiveasParty: ["1989-2000"]
+   ideologicalOrientation: ["centreRight", "liberalism", "conservativeLiberalism", "internalResistancetoApartheid"]
   
   DPSAParty:
    stringTokens: ["Democratic Party (South Africa)", "Democratic Party"]
@@ -245,6 +252,7 @@ concepts:
    associatedEthnicGroup: []
    wikidataQnode: ["Q15613585"]
    yearsActiveasParty: ["2013-present"]
+   ideologicalOrientation: ["left", "farLeft", "marxism", "sankarism", "antiCapitalism", "independence", "populism", "panAfricanism", "nationalism"]
   
   PFPSParty:
    stringTokens: ["Federal Party", "Federal Party (SA)"]
@@ -263,18 +271,21 @@ concepts:
    associatedEthnicGroup: ["Afrikaners", "White"] # pro-apartheid
    wikidataQnode: ["Q925910"]
    yearsActiveasParty: ["1969-present"]
+   ideologicalOrientation: ["farRight", "apartheid", "whiteSupremacy", "antiCommunism"]
   
   IDParty:
    stringTokens: ["Independent Democrats", "ID"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q256561"]
    yearsActiveasParty: ["2003-2014"]
+   ideologicalOrientation: ["centre", "socialLiberalism", "populism"]
   
   IFPParty:
    stringTokens: ["Inkatha Freedom Party", "IQembu leNkatha yeNkululeko", "IFP", "Inkatha National Cultural Liberation Movement"]
    associatedEthnicGroup: ["Zulu"] # anti-apartheid
    wikidataQnode: ["Q654444"]
    yearsActiveasParty: ["1975-present"]
+   ideologicalOrientation: ["right", "conservatism", "economicLiberalism", "antiCommunism", "federalism", "monarchist", "regionalism"]
   
   HGParty:
    stringTokens: ["Hertzog Group"]
@@ -287,6 +298,7 @@ concepts:
    associatedEthnicGroup: ["Coloureds"] # anti-apartheid
    wikidataQnode: ["Q779783"]
    yearsActiveasParty: ["1969-1994"]
+   ideologicalOrientation: ["centreLeft", "left", "laborMovement", "internalResistancetoApartheid"]
   
   SALPParty:
    stringTokens: ["South African Labour Party", "Labour Party", "Suid-Afrikaanse Arbeidersparty", "SALP"]
@@ -299,6 +311,8 @@ concepts:
    associatedEthnicGroup: ["White", "Afrikaners"] # pro-apartheid
    wikidataQnode: ["Q740718"]
    yearsActiveasParty: ["1914-1997"]
+   ideologicalOrientation: ["right", "farRight", "centreRight", "conservatism", "republicanism", "apartheid", "antiCommunism", "nationalConservatism",
+                            "socialConservatism", "whiteSupremacy", "scientificRacism", "nationalism", "conservativeLiberalism", "christianDemocracy"]
   
   NFPParty:
    stringTokens: ["National Federal Party"]
@@ -329,18 +343,21 @@ concepts:
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q1751732"]
    yearsActiveasParty: ["1997-2005"]
+   ideologicalOrientation: ["centreRight", "nationalism", "conservatism", "christianDemocracy"]
   
   NRPParty:
    stringTokens: ["New Republic Party", "NRP"]
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q7011169"]
    yearsActiveasParty: ["1977-1988"]
+   ideologicalOrientation: ["right", "conservatism"]
   
   PACParty:
    stringTokens: ["Pan Africanist Congress of Azania", "Pan Africanist Congress", "PAC"]
    associatedEthnicGroup: ["African people", "Black Nationalism"] # anti-apartheid
    wikidataQnode: ["Q775460"]
    yearsActiveasParty: ["1959-present"]
+   ideologicalOrientation: ["centreLeft", "left", "nationalism", "socialism", "panAfricanism"]
   
   NOGParty:
    stringTokens: ["New Order Group", "New Order"]
@@ -359,6 +376,7 @@ concepts:
    associatedEthnicGroup: [] # anti-apartheid
    wikidataQnode: ["Q2096864"]
    yearsActiveasParty: ["1977-1989"]
+   ideologicalOrientation: ["centreLeft", "liberalism", "internalResistancetoApartheid"]
   
   PPParty:
    stringTokens: ["Progressive Party", "PP", "Progressiewe Party"]
@@ -389,12 +407,14 @@ concepts:
    associatedEthnicGroup: [] # anti-apartheid 
    wikidataQnode: ["Q305317"]
    yearsActiveasParty: ["1921-present"]
+   ideologicalOrientation: ["farLeft", "communism", "marxism"]
   
   SAPParty:
    stringTokens: ["South African Party", "Suid-Afrikaanse Party", "Zuidafrikaanse Partij"]
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q1473242"]
    yearsActiveasParty: ["1911-1934"]
+   ideologicalOrientation: ["right", "liberalConservatism", "nationalism"]
   
   UPParty1:
    stringTokens: ["Unionist Party", "Unioniste Party", "UP"]
@@ -407,18 +427,21 @@ concepts:
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q1788070"]
    yearsActiveasParty: ["1997-present"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   
   UPParty2:
    stringTokens: ["United Party", "United South African National Party", "Verenigde Party", "Verenigde Suid-Afrikaanse Nasionale Party"]
    associatedEthnicGroup: [] 
    wikidataQnode: ["Q1812146"]
    yearsActiveasParty: ["1934-1977"]
+   ideologicalOrientation: ["right", "conservatism", "monarchism"]
   
   VFParty:
    stringTokens: ["Freedom Front Plus", "FF Plus", "Vryheidsfront Plus", "VF Plus", "Freedom Front", "FF+"]
    associatedEthnicGroup: ["Afrikaners", "Afrikaans-speaking Coloureds"] 
    wikidataQnode: ["Q510163"]
    yearsActiveasParty: ["1994-present"]
+   ideologicalOrientation: ["right", "christianDemocracy", "economicLiberalism", "nationalConservatism", "socialConservatism"]
 
 ##Armed groups
  SWAPOarmedNonGovernmentalOrganizedGroup-SouthAfrica:
