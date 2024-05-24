@@ -30,7 +30,6 @@ relations:
   - (Party, gpmParty)
   - (Party, paParty)
   - (Party, slpParty)
-  - (Party, mufdcParty)
   - (Party, dcpParty)
   - (Party, mpppParty)
   - (Party, drpParty)
