@@ -125,6 +125,7 @@ concepts:
     upadsParty:
      stringTokens: ["Pan-African Union for Social Democracy"]
      wikidataQnode:  ["Q3550401"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "panAfricanism"]
   
     uddiaParty:
      stringTokens: ["Democratic Union for the Defense of African Interests"]
@@ -133,10 +134,12 @@ concepts:
     pctParty:
      stringTokens: ["Congolese Party of Labour", "Congolese Labor Party", "PCT"]
      wikidataQnode:  ["Q1785816"]
+     ideologicalOrientation: ["centreLeft", "left", "farLeft", "socialDemocracy", "communism", "marxism"]
   
     mcddiParty:
      stringTokens: ["Congolese Movement for Democracy and Integral Development"]
      wikidataQnode:  ["Q3326534"]
+     ideologicalOrientation: ["centre", "centreRight", "liberalism", "conservatism"]
   
     mnrParty:
      stringTokens: ["National Movement of the Revolution"]
@@ -161,6 +164,7 @@ concepts:
     marParty:
      stringTokens: ["Action and Renewal Movement"]
      wikidataQnode:  ["Q4677129"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
 
     fdcParty:
      stringTokens: ["Congolese Democratic Front"]
