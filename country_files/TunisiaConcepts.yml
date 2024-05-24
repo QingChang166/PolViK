@@ -23,21 +23,25 @@ concepts:
      stringTokens: ["Nidaa Tounes", "Call for Tunisia"]
      wikidataQnode: ["Q929717"]
      yearsActiveasParty: ["2012-present"]
+     ideologicalOrientation: ["centre", "centreLeft", "socialDemocracy", "bigTent", "thirdWay", "secularism"]
   
     CPRParty:
      stringTokens: ["Congress for the Republic"]
      wikidataQnode: ["Q1460650"]
      yearsActiveasParty: ["2001-present"]
+     ideologicalOrientation: ["centreLeft", "left", "secularism", "nationalism", "socialDemocracy", "socialLiberalism", "liberalism"]
 
     PPParty:
-     stringTokens: ["Current of Love", "Tayar el-Mahaba", "Popular Petition"]
+     stringTokens: ["Current of Love", "Tayar el-Mahaba", "Popular Petition", "COL"]
      wikidataQnode: ["Q1969819"]
      yearsActiveasParty: ["2011-present"]
+     ideologicalOrientation: ["populism", "islamicDemocracy", "socialConservatism", "regionalism"]
   
     NDParty:
-     stringTokens: ["Neo Destour / New Constitutional Liberal Party / Socialist Destourian Party / Democratic Constitutional Rally"]
+     stringTokens: ["Neo Destour / New Constitutional Liberal Party / Socialist Destourian Party / Democratic Constitutional Rally", "RCD"]
      wikidataQnode: ["Q1507590"]
      yearsActiveasParty: ["1934-1964"]
+     ideologicalOrientation: ["bigTent", "nationalism", "secularism", "authoritarianism"]
 
     SDPParty:
      stringTokens: ["Socialist Destourian Party"]
@@ -48,27 +52,32 @@ concepts:
      stringTokens: ["Ennahdha Party", "Renaissance Party", "Ennahda Movement"]
      wikidataQnode: ["Q692022"]
      yearsActiveasParty: ["1981-present"] 
+     ideologicalOrientation: ["right", "socialConservatism", "economicLiberalism", "islamicDemocracy"]
 
     FDTLParty:
      stringTokens: ["Democratic Forum for Labour and Liberties", "Ettakatol"]
      wikidataQnode: ["Q1371752"]
      yearsActiveasParty: ["1994-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "secularism"]
      
     HTParty:
      stringTokens: ["Heart of Tunisia", "Qalb Tounes", "Tunisian Social Peace Party", "Kalb Tounes"]
      wikidataQnode: ["Q67263863"]
      yearsActiveasParty: ["2019-present"]
+     ideologicalOrientation: ["centre", "populism", "secularism"]
   
 
     DC1Party:
-     stringTokens: ["Democratic Current"]
+     stringTokens: ["Democratic Current", "TD"]
      wikidataQnode: ["Q17197994"]
      yearsActiveasParty: ["2013-present"] 
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "nationalism", "progressivism", "panArabism"]
 
     PDLParty:
-     stringTokens: ["Free Destourian Party", "Free Constitutional Party"]
+     stringTokens: ["Free Destourian Party", "Free Constitutional Party", "HDH"]
      wikidataQnode: ["Q18205783"]
      yearsActiveasParty: ["2013-present"]
+     ideologicalOrientation: ["bigTent", "nationalism", "secularism"]
   
     DC2Party:
      stringTokens: ["Dignity Coalition", "Al Karama"]
@@ -76,14 +85,16 @@ concepts:
      yearsActiveasParty: ["2019-present"]
 
     PMParty:
-     stringTokens: ["People's Movement", "Echaab Movement", "Movement of the People"]
+     stringTokens: ["People's Movement", "Echaab Movement", "Movement of the People", "MP"]
      wikidataQnode: ["Q3326655"]
      yearsActiveasParty: ["2005-present"]
+     ideologicalOrientation: ["left", "secularism", "democraticSocialism", "nasserism", "nationalism"]
   
     TTParty:
      stringTokens: ["Tahya Tounes"]
      wikidataQnode: ["Q64245468"]
      yearsActiveasParty: ["2019-present"]
+     ideologicalOrientation: ["centre", "secularism", "liberalism"]
   
     MTParty:
      stringTokens: ["Machrouu Tounes", "Project Tunisia"]
@@ -109,11 +120,14 @@ concepts:
      stringTokens: ["Afek Tounes", "Tunisian Aspiration(s)", "Horizons of Tunisia"]
      wikidataQnode: ["Q382146"]
      yearsActiveasParty: ["2011-present"]
+     ideologicalOrientation: ["centreRight", "liberalism", "secularism"]
 
     PFParty:
      stringTokens: ["Popular Front", " Popular Front for the Realization of the Objectives of the Revolution"]
      wikidataQnode: ["Q3088551"]
      yearsActiveasParty: ["2012-present"]
+     ideologicalOrientation: ["left", "farLeft", "socialism", "secularism", "nationalism", "panArabism", "baathism", "hoxhaism", "marxism", "nasserism",
+                              "maoism"]
   
     FVPParty:
      stringTokens: ["Farmers' Voice Party"]
