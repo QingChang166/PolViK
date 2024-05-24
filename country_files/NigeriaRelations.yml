@@ -24,7 +24,6 @@ relations:
   - (Party, SDPParty)
   - (Party, ADCParty)
   - (Party, PDPParty)
-  - (armedNonGovernmentalOrganizedGroup, OPCarmedNonGovernmentalOrganizedGroup1)
   - (Party, ADPParty)
   - (Party, AccordParty)
   - (Party, APMParty)
