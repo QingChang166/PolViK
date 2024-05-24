@@ -20,15 +20,19 @@ concepts:
    associatedethnicgroup: ["hutuEthnicGroup", "tutsiEthnicGroup", "twaEthnicGroup"]
 ##politicalparties
   MRNDParty:
-   stringTokens: ["MRND", "National Revolutionary Movement for Developement", "Mouvement Révolutionnaire National pour le Développement"]
+   stringTokens: ["MRND", "National Revolutionary Movement for Developement", "Mouvement Révolutionnaire National pour le Développement", "MRNDD"]
    associatedEthnicGroup: ["hutuEthnicGroup"]
-  RDFParty:
-   stringTokens: ["Rwandan Patriotic Front", "RPF", "Front Patriotique Rwandais"]
+   ideologicalOrientation: ["farRight", "socialConservatism", "anticommunism", "authoritarianism"]
+  RPFParty:
+   stringTokens: ["Rwandan Patriotic Front", "RPF", "Front Patriotique Rwandais", "FPR"]
    associatedEthnicGroup: ["tutsiEthnicGroup"] 
+   ideologicalOrientation: ["bigTent", "nationalism", "economicLiberalism", "authoritarianism"]
   PSDParty:
    stringTokens: ["Social Democratic Party", "PSD", "Parti Social Démocrate"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   PLParty: 
    stringTokens: ["Liberal Party", "PL", "Parti Libéral"]
+   ideologicalOrientation: ["centre", "liberalism"]
   RNCParty: 
    stringTokens: ["Rwanda National Congress", "RNC", "Congrès National Rwandais"]
 ##armed groups
