@@ -203,18 +203,22 @@ concepts:
     psParty:
      stringTokens: ["Socialist Party of Senegal"]
      wikidataQnode:  ["Q2054438"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "nationalism", "socialism"]
   
     ajapdsParty:
-     stringTokens: ["And-Jëf/African Party for Democracy and Socialism"]
+     stringTokens: ["And-Jëf/African Party for Democracy and Socialism", "ajpads"]
      wikidataQnode:  ["Q489541"]
+     ideologicalOrientation: ["left", "socialism", "marxism", "communism", "maoism", "reformism", "socialDemocracy"]
   
     sdpParty:
      stringTokens: ["Senegalese Democratic Party"]
      wikidataQnode:  ["Q1351653"]
+     ideologicalOrientation: ["centre", "liberalism"]
   
     aprParty:
      stringTokens: ["Alliance for the Republic "]
      wikidataQnode:  ["Q2838226"]
+     ideologicalOrientation: ["centre", "liberalism"]
   
     bggParty:
      stringTokens: ["Bokk Gis Gis"]
@@ -235,6 +239,7 @@ concepts:
     psasParty:
      stringTokens: ["Senegalese Party of Socialist Action"]
      wikidataQnode:  ["Q3366783"]
+     ideologicalOrientation: ["left", "socialism", "nationalism"]
 
     bdsParty:
      stringTokens: ["Senegalese Democratic Bloc"]
@@ -243,6 +248,7 @@ concepts:
     sfioParty:
      stringTokens: ["French Section of the Workers' International"]
      wikidataQnode:  []
+     ideologicalOrientation: ["left", "centreLeft", "farLeft", "socialDemocracy", "marxism"]
 
     usrParty:
      stringTokens: ["Socialist Republican Union"]
