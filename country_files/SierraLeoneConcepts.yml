@@ -136,9 +136,11 @@ concepts:
     slppParty:
       stringTokens: ["Sierra Leone People's Party", "SLPP"]
       wikidataQnode: ["Q2033938"]
+      ideologicalOrientation: ["centre", "centreLeft", "centreRight", "socialDemocracy", "nationalism", "thirdWay", "conservatism"]
     apcParty:
       stringTokens: ["All People's Congress", "APC"]
       wikidataQnode: ["Q385749"]
+      ideologicalOrientation: ["centreLeft", "left", "nationalism", "socialDemocracy", "panAfricanism"]
     gapParty:
       stringTokens: ["Grand Alliance Party", "GAP"]
       wikidataQnode: ["Q5594230"]
@@ -151,6 +153,7 @@ concepts:
     pmdcParty:
       stringTokens: ["People's Movement for Democratic Change", "PMDC"]
       wikidataQnode: ["Q6151267"]
+      ideologicalOrientation: ["centre", "centreRight", "liberalism"]
     unppParty:
       stringTokens: ["United National People's Party"]
       wikidataQnode: ["Q7888303"]
