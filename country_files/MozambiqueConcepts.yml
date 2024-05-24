@@ -164,16 +164,18 @@ concepts:
      livesIn: ["Cabo Delgado Province", "Mtwara Region"]
      associatedethnicgroup: [""]
 #Parties
-  frelinoParty:
-   stringTokens: ["Liberation Front of Mozambique", "Frente de Libertação de Moçambique", "FRELINO", "MNR", "RNM"]
+  frelimoParty:
+   stringTokens: ["Liberation Front of Mozambique", "Frente de Libertação de Moçambique", "FRELImO", "MNR", "RNM"]
    wikidataQnode: ["Q504564"]
    yearsActiveasEntity: ["1962-Present"] ##active as an entity
    yearsActiveasParty: ["1977-Present"] ##active as a political party
+   ideologicalOrientation: ["centreLeft", "left", "farLeft", "socialDemocracy", "communism", "marxism", "nationalism"]
   renamoParty:
    stringTokens: ["Mozambican National Resistance", "Resistência Nacional Moçambicana", "RENAMO"]
    wikidataQnode: ["Q1425821"]
    yearsActiveasEntity: ["1977-Present"] ##active as an entity
    yearsActiveasParty: ["1992-2013", "2019-Present"] ##active as a political party
+   ideologicalOrientation: ["centreRight", "Right", "nationalism", "conservatism", "economicLiberalism", "anticommunism"]
   renamoeuParty:
    stringTokens: ["Mozambican National Resistance-Electoral Union", "Resistência Nacional Moçambicana-União Electoral", "RENAMO-EU"]
    wikidataQnode: []
@@ -184,6 +186,7 @@ concepts:
    wikidataQnode: ["Q668181"]
    yearsActiveasEntity: ["2009-Present"] ##active as an entity
    yearsActiveasParty: ["2009-Present"] ##active as a political party
+   ideologicalOrientation: ["centreRight", "christianDemocracy"]
   iamParty:
    stringTokens: ["Independent Alliance of Mozambique","Aliança Independente de Moçambique"]
    wikidataQnode: ["Q3459366"]
