@@ -28,7 +28,7 @@ relations:
   - (Party, NUParty)
   - (Party, PSDParty)
   - (Party, NWR-RGParty)
-  - (Party, NRMParty-Gabon)
+  - (Party, NRMParty)
   - (LinguisticGroup, FangLinguisticGroup)
   - (LinguisticGroup, SekiLinguisticGroup)
   - (LinguisticGroup, BengaLinguisticGroup)
