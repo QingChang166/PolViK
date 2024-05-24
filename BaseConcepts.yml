@@ -138,7 +138,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   armedNonGovernmentalOrganizedGroup:
     stringTokens: ["armed group", "militia", "violent organization", "rebel", "insurgency group", "insurgent", "militiamen", "fighter", "armed", "armies",
                    "army", "armed seperatist"]
-  Continents: 
+  Continent: 
     stringTokens: ["continent", "continents"]
   asiaContinent:
     stringTokens: ["Asia"]
