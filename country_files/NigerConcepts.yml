@@ -129,6 +129,7 @@ concepts:
      stringTokens: ["National Movement for the Development of Society", "MNSD-Nassara"]
      wikidataQnode:  ["Q1968011"]
      associatedEthnicGroup: ["Zarma"]
+     ideologicalOrientation: ["centreRight", "conservatism"]
     andpParty:
      stringTokens: ["Nigerien Alliance for Democracy and Progress", "ANDP-Zaman Lahiya"]
      wikidataQnode:  ["Q1621537"]
@@ -141,6 +142,7 @@ concepts:
      stringTokens: ["Nigerien Party for Democracy and Socialism", "PNDS-Tarayya"]
      wikidataQnode:  ["Q1968253"]
      associatedEthnicGroup: ["Hausa"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
     ppnrdaParty:
      stringTokens: ["Nigerien Progressive Party - African Democratic Ally", "PPN-RDA"]
      wikidataQnode:  ["Q1989838"]
