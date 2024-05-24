@@ -367,7 +367,7 @@ concepts:
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1990s-2000s"]
      wikidataQnode: ["Q804255"]
 
-  AnsaruTransnationalarmedNonGovernmentalOrganizedGroup:
+  AnsaruarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ansaru", "Jama'atu Anasural Muslimina Fi Biladis Sudan", "Vanguards for the Protection of Muslims in Black Africa", "al-Qaeda in the Islamic Maghreb", "AQIM"]
      originCountry: ["Algeria"]
      regionsMostActive: ["Kano", "Kaduna", "Borno"]
