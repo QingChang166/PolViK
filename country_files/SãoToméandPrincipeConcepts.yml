@@ -51,21 +51,25 @@ concepts:
      stringTokens: ["Democratic Convergence Party", " Democratic Convergence Party-Reflection Group"]
      wikidataQnode: ["Q3463962"]
      yearsActiveasParty: ["1990-present"]
+     ideologicalOrientation: ["conservatism", "economicLiberalism"]
   
     MLSTP–PSDParty:
      stringTokens: ["Movement for the Liberation of São Tomé and Príncipe – Social Democratic Party"]
      wikidataQnode: ["Q1276673"]
      yearsActiveasParty: ["1960-present"]
+     ideologicalOrientation: ["centreLeft", "left", "farLeft", "socialDemocracy", "nationalism", "communism", "marxism"]
   
     IDAParty:
-     stringTokens: ["Independent Democratic Action"]
+     stringTokens: ["Independent Democratic Action", "ADI"]
      wikidataQnode: ["Q2788422"]
      yearsActiveasParty: ["1994-present"]
+     ideologicalOrientation: ["centre", "centreRight", "liberalism", "christianDemocracy"]
   
     FCDM-LPParty:
-     stringTokens: ["Force for Change Democratic Movement-Liberal Party"]
+     stringTokens: ["Force for Change Democratic Movement-Liberal Party", "MDFM"]
      wikidataQnode: ["Q1566188)"]
      yearsActiveasParty: ["2001-present"]
+     ideologicalOrientation: ["centre", "liberalism", "socialLiberalism", "socialDemocracy"]
   
     MCI/PSParty:
      stringTokens: ["Movement of Independent Citizens of São Tomé and Príncipe – Socialist Party"]
