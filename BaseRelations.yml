@@ -1158,7 +1158,7 @@ relations:  # parent concept, child concept, tuples
     - (people, individualPerson)
     - (individualPerson, barackObama)
     - (individualPerson, vladimirPutin)
-    - (people, continents)
+    - (people, continent)
     - (people, places)
     - (continent, asiaContinent)
     - (continent, europeContinent) 
