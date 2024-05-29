@@ -240,6 +240,7 @@ concepts:
     associatedEthnicGroup: ["Lozi people"]
     wikidataQnode: ["Q2496137"]
     yearsActive: ["1994-present"] #fled into Botswana in 1998 during thew Caprivi conflict
+    ideologicalOrientation: ["regionalIndependence"] #caprivi strip, from Namibia
 
   MKarmedNonGovernmentalOrganizedGroup:
     stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
@@ -247,3 +248,4 @@ concepts:
     associatedPoliticalParty: ["African National Congress", "ANC"]
     wikidataQnode: ["Q1136236"]
     yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1961-1993"] # terrorist attack in 1985
+    ideologicalOrientation: ["marxism", 'communism", 'antiApartheid", "panAfricanism", "nationalism"]  ##originally active in South Africa
