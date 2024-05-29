@@ -207,31 +207,33 @@ concepts:
 ## armed groups
    factarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Front for Change and Concord in Chad", "FACT"]
-     associatedEthnicGroup: ["Gorane", "Toubou"]
+     associatedEthnicGroup: ["Gorane", "toubouEthnicGroup"]
      wikidataQnode: ["Q25345086"]
    ufddarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Union of Forces for Democracy and Development", "UFDD"]
-     associatedEthnicGroup: ["Gorane", "Toubou"]
+     associatedEthnicGroup: ["Gorane", "toubouEthnicGroup"]
      wikidataQnode: ["Q828786"]
    rfcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Rally of Forces for Change", "RFC"]
-     associatedEthnicGroup: ["Zaghawa"]
+     associatedEthnicGroup: ["zaghawaEthnicGroup"]
      wikidataQnode: ["Q3419890"]
    mdjtarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for Democracy and Justice in Chad", "MDJT"]
-     associatedEthnicGroup: ["Zaghawa"]
+     associatedEthnicGroup: ["zaghawaEthnicGroup"]
      wikidataQnode: ["Q3326794"]
    frolinatarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Liberation Front of Chad", "FROLINAT"]
-     associatedEthnicGroup: ["Arabs", "Tama", "Hadjerai"]
+     associatedEthnicGroup: ["arabEthnicGroup", "tamaEthnicGroup", "hadjeraiEthnicGroup"]
      wikidataQnode: ["Q1075228"]
+     ideologicalOrientation: ["islamist"]
    fprarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Popular Front for Recovery", "FPR"]
-     associatedEthnicGroup: ["Tama"]
+     associatedEthnicGroup: ["tamaEthnicGroup"]
      wikidataQnode: ["Q15138850"]
    mprarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Chadian People's Revolutionary Movement", "MPR"]
      wikidataQnode: ["Q5066453"]
+     ideologicalOrientation: ["federalist"]
    cntarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Chadian National Concord"]
      wikidataQnode: ["Q105162358"]
