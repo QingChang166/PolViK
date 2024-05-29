@@ -148,7 +148,7 @@ concepts:
   
   FRUDarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["FRUD", "Front for the Restoration of Unity and Democracy", "Front pour la Restauration de l'Unité et de la Démocratie"]
-   associatedEthnicGroup: ["Afar"]
+   associatedEthnicGroup: ["afarEthnicGroup"]
    wikidataQnode: ["Q1470091"]
    yearsActive: ["1991-1994"]
    
@@ -163,6 +163,7 @@ concepts:
    associatedEthnicGroup: ["Somali"]
    wikidataQnode: ["Q309998"]
    yearsActive: ["2006-present"]
+   ideologicalOrientation: ["islamist", "jihadism", "salafism", "nationalism", "irredentism", "antiImperialism", "antiZionism"]
   
   DYMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Djibouti Youth Movement"]
@@ -175,12 +176,14 @@ concepts:
    associatedEthnicGroup: []
    wikidataQnode: ["Q3088465"]
    yearsActiveasParty: ["1960-1977"] # Became Djibouti Armed Forces after independence
+   ideologicalOrientation: ["independence"]
   
   FLDarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Front for the Liberation of Djibouti", "FLD"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q5505869"]
    yearsActiveasParty: ["1960-1977"] # Became Djibouti Armed Forces after independence
+   ideologicalOrientation: ["independence", "nationalism"]
   
   
   
