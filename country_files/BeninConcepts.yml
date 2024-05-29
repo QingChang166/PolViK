@@ -452,4 +452,4 @@ concepts:
      stringTokens: ["Jama'at Nasr al-Islam wal Muslimin", "JNIM"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q28877411"]
-    
+     ideologicalOrientation: {"salafism", "islamist", "jihadism"}
