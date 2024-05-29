@@ -217,35 +217,41 @@ concepts:
    stringTokens: ["Allied Democratic Forces", "ADF", "ADF-Nalu", "Allied Democratic Forces- National Army for the Liberation of Uganda"]
    associatedReligion: ["Islam"]
    regionsMostActive: ["North Kivu"]
+   wikidataQnode: ["Q1133743"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1996-Present"]
+   ideologicalOrientation: ["islamist"]
   CNDParmedNonGovernmentalOrganizedGroup:   
    stringTokens: ["CNDP", "National Congress for the Defence of the People", "Congrès national pour la défense du peuple"]
    regionsMostActive: ["North Kivu"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2006-2009"]
+   wikidataQnode: ["Q217726"]
   FDLRarmedNonGovernmentalOrganizedGroup:   #should this go in Rwanda instead
    stringTokens: ["FDLR", "Democratic Forces for the Liberation of Rwanda"]
    regionsMostActive: ["North Kivu", "South Kivu"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000-Present"]
+   ideologicalOrientation: ["ethnicNationalism"]
+   wikidataQnode: ["Q249015"]
   M23armedNonGovernmentalOrganizedGroup:  ##should this go in Rwanda instead
    stringTokens: ["M23", "Congolese Revolutionary Army", "March 23 Movement"]
    associatedEthnicGroup: ["Tutsi"]
    regionsMostActive: ["North Kivu"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-2013"]
+   wikidataQnode: ["Q63345"]
   MaiMaiarmedNonGovernmentalOrganizedGroup: 
    stringTokens: ["Mai-Mai", "Mayi-Mayi", "Mai Mai", "Mayi Mayi"]
    regionsMostActive: ["North Kivu", "South Kivu", "Maniema", "Katanga"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1990-Present"]
+   wikidataQnode: ["Q277028"]
   LRAarmedNonGovernmentalOrganizedGroup:  ##should this go in Rwanda instead
    stringTokens: ["LRA", "Lord's Resistance Army"]
    regionsMostActive: ["Haut-Uele", "Bas-Uele"]
+   wikidataQnode: ["Q108462"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-Present"]
-  ARCarmedNonGovernmentalOrganizedGroup: 
-   stringTokens: ["Congolese Revolutionary Army", "ARC"]
-   regionsMostActive: ["North Kivu"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-2013"]
+   ideologicalOrientation: ["christianTheocracy"]
   RaiaMutombokiarmedNonGovernmentalOrganizedGroup: ##subset of Mai Mai?
    stringTokens: ["Raia Mutomboki", "Raiya Mutomboki"]
    regionsMostActive: ["South Kivu", "Maniema"]
+   wikidataQnode: ["Q63226702"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-Present"]
   NyaturaarmedNonGovernmentalOrganizedGroup: 
    stringTokens: ["Nyatura", "Mongols", "MAGRIV", "Mutuelle agricole des Virunga", "Nyatura-APRDC"]
@@ -256,21 +262,28 @@ concepts:
    stringTokens: ["Parti pour l'unité et la sauvegarde de l'intégrité du Congo", "PUSIC", "Party for Unity and Safeguarding of the Integrity of Congo"] #split from UPC
    regionsMostActive: ["Ituri"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2003-2006"]
+   ideologicalOrientation: ["nationalism"]
   KamwinaNsapuarmedNonGovernmentalOrganizedGroup: 
    stringTokens: ["Kamwina Nsapu"]
    associatedEthnicGroup: ["lubaEthnicGroup"]
    regionsMostActive: ["Kasai"]
+   wikidataQnode: ["Q28792426"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2016-2019"]
   MLCarmedNonGovernmentalOrganizedGroup: 
    stringTokens: ["MLC", "Movement for the Liberation of the Congo"]
    regionsMostActive: ["Equateur"]
+   ideologicalOrientation: ["nationalism", "populism", "christianDemocracy"]
+   wikidataQnode: ["Q144806"]
   RCDarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["RCD", "Rally for Congolese Democracy", "Congolese Rally for Democracy"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1998-2004"]
+   wikidataQnode: ["Q1498659"]
+   ideologicalOrientation: ["socialLiberalism"]
   RCDMLarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["RCD-Mouvement de Libération", "RCD-Movement for Liberation", "RCD-ML"] #pro-Uganda wing of the RCD
    regionsMostActive: ["Kisangani"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-2004"]
+   ideologicalOrientation: ["centreRight"]
   RCDGarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["RCD-G", "RCD/G"] #pro-Rwanda wing of the RCD
    regionsMostActive: ["Goma"]
@@ -278,20 +291,25 @@ concepts:
   FNIarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["FNI", "Nationalist and Integrationist Front", "Front des Nationalistes et Intégrationnistes"]
    regionsMostActive: ["Ituri"]
+   wikidataQnode: ["Q2470914"]
    associatedEthnicGroup: ["lenduEthnicGroup"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-2007"]
   FAPCarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["FAPC", "Armed Forces of the Congolese People", "Forces armées du Peuple congolais"]
+   wikidataQnode: ["Q3076948"]
    regionsMostActive: ["Ituri"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2003-2005"]
   UPCarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UPC", "Union of Congolese Patriots", "Union des Patriotes congolais"]
    regionsMostActive: ["Ituri"]
    associatedEthnicGroup: ["hemaEthnicGroup"]
+   wikidataQnode: ["Q3550188"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2001-present"]
+   ideologicalOrientation: ["nationalism"]
   APCLSarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["APCLS", "Alliance of Patriots for a Free and Sovereign Congo", "Alliance des patriotes pour un Congo libre et souverain"] 
    regionsMostActive: ["North Kivu"] # mai-mai group, anti-Tutsi
+   wikidataQnode: ["Q2838075"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2006–present"]
 
   
