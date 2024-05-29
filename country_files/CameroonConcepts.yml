@@ -381,9 +381,10 @@ concepts:
      ideologicalOrientation: ["bigTent", "nationalism", "populism", "francophile"]
   ## armed groups
     bamosdarmedNonGovernmentalOrganizedGroup:
-     stringTokens: ["BAKASSI FREEDOM FIGHTERS", "BAMOSD"]
-     associatedEthnicGroup: ["Oron people"]
+     stringTokens: ["BAKASSI FREEDOM FIGHTERS", "BAMOSD", " Bakassi Movement for Self-Determination"]
+     associatedEthnicGroup: ["oronEthnicGroup"]
      wikidataQnode: ["Q4849025"]
+     ideologicalOrientation: ["regionalIndependence"]
     mddarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["MOVEMENT FOR DEMOCRACY AND DEVELOPMENT", "MDD"]
      wikidataQnode: ["Q29414"]
@@ -394,14 +395,18 @@ concepts:
      stringTokens: ["Ambazonia Defence Forces", "ADF"]
      associatedEthnicGroup: ["Ambazonian"]
      wikidataQnode: ["Q55603782"]
+     associatedLinguisticGroup: ["englishLinguisticGroup"]
+     ideologicalOrientation: ["regionalIndependence"]
     sclcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Southern Cameroons Defence Forces", "SCLC"]
      associatedEthnicGroup: ["Ambazonian"]
      wikidataQnode: ["Q63443289"]
+     ideologicalOrientation: ["regionalIndependence"]
     bharmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Boko Haram"]
      wikidataQnode: ["Q212372"]
+     ideologicalOrientation: ["islamist", "jihadism", "salafism", "wahhabism", "takfirism", "antiWest", "antiShia", "antiChristian"]
     iswaparmedNonGovernmentalOrganizedGroup:
-     stringTokens: ["Islamic State West Africa "]
+     stringTokens: ["Islamic State West Africa"]
      wikidataQnode: ["Q86661119"]
-    
+     ideologicalOrientation: ["islamist", "jihadism", "salafism"]
