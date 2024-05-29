@@ -231,36 +231,43 @@ concepts:
      stringTokens: ["Front for the Liberation of the Enclave of Cabinda", "FLEC"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q608489"]
+     ideologicalOrientation: ["territorialIndependence"] #cabindan
   
     FLEC-FACarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Frente da Libertação do Enclave de Cabinda - Forças Armadas de Cabinda", "Front for the Liberation of the Enclave of Cabinda - Armed Forces of Cabinda"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q608489"]
+     ideologicalOrientation: ["territorialIndependence"] #cabindan
   
     FLEC-RarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["FLEC-R", "Front for the Liberation of the Enclave of Cabinda – Renewed"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q608489"]
+     ideologicalOrientation: ["territorialIndependence"] #cabindan
   
     FLEC-FAC-TNarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["FLEC-FAC-TN", "Front for the Liberation of the Enclave of Cabinda - Armed Forces of Cabinda - Tiago Nzita faction)"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q608489"]
+     ideologicalOrientation: ["territorialIndependence"] #cabindan
 
     UNITAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Union for the Total Independence of Angola", "UNITA"]
      associatedEthnicGroup: ["Ovimbundu people"]
      wikidataQnode: ["Q28699"]
+     ideologicalOrientation: ["bigTent", "conservatism"]
   
     FLNAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Liberation Front of Angola"]
      associatedEthnicGroup: ["Bakongo people"]
      wikidataQnode: ["Q907051"]
+     ideologicalOrientation: ["nationalism", "conservatism", "christianDemocracy"]
 
     MPLAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["MPLA", "People's Movement for the Liberation of Angola"]
      associatedEthnicGroup: ["Ambundu"]
      wikidataQnode: ["Q28551"]
+     ideologicalOrientation: ["nationalism", "socialDemocracy", "marcism", "communism"]
   
  ## ProGovernment Militia
       
