@@ -167,41 +167,49 @@ concepts:
      stringTokens: ["Armed Islamic Group of Algeria"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q1125408"]
+     ideologicalOrientation: ["islamist", "sunniIslam"]
   
    FIDAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic Front for Armed Jihad"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q6082473"]
+     ideologicalOrientation: ["islamist"]
   
    AISarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic Salvation Army"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q117184203"]
+     ideologicalOrientation: ["islamist", "sunniIslamist", "fundamentalistIslam", "jihadism", "nationalism", "qutbism", "panIslam", "antiCommunism", "antiDemocracy"]
   
    GSPCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Salafist Group for Preaching and Combat"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q311841"]
+     ideologicalOrientationL ["islamist", "panIslam", "qutbism", "panIslam", "jihadism", "salafism"]
   
    THarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Takfir wal-Hijra"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q291419"]
+     ideologicalorientation: ["islamist", "qutbism"]
   
    MOJWAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for Oneness and Jihad in West Africa", "Movement for Unity and Jihad in West Africa", "MOJVA", "MUJVA"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q550108"]
+     ideologicalOrientation: ["islamist", "jihadism"]
   
    IS-AParmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State", "Islamic State – Algeria Province", "Jund al-Khilafah"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q18122635"]
+     ideologicalOrientation: ["salafism", "jihadism", "islamist"]
 
    AQIMarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q2635966"]
+     ideologicalOrientation: ["jihadism", "antiZionism", "salafism", "antiWest", "antiImperalism"]
   
  ## ProGovernment Militia
       
@@ -209,3 +217,4 @@ concepts:
      stringTokens: ["Organisation of Young Free Algerians"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q663518"]
+     ideologicalOrientation: ["secularism"]
