@@ -275,16 +275,20 @@ concepts:
   aqimarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
    wikidataQnode: ["Q2635966"]
+   ideologicalOrientation: ["salafism", "islamist", "antiWest", "antiZionism", "antiImperialism", "jihadism"]
   aiarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Ansaroul Islam"]
    wikidataQnode: ["Q28499712"]
    location: ["Soum province"]
+   ideologicalOrientation: ["jihadism", "salafism", "antiWest", "islamist"]
   jnimarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Jama'at Nasr al-Islam wal Muslimin", "JNIM"]
    wikidataQnode: ["Q28877411"]
+   ideologicalOrientation: ["salafism", "islamist", "jihadism"]
   isgsarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["IS-GS", "Islamic State in the Greater Sahara"]
    wikidataQnode: ["Q36504631"]
+   ideologicalOrientation: ["jihadism", "salafism"]
   koglweogoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Koglweogo"]
    associatedEthnicGroup: ["Mossi people"]
