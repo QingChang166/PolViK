@@ -184,43 +184,55 @@ concepts:
     mplaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["People's Movement for the Liberation of Azawad", "Popular Movement for the Liberation of Azawad", "MPLA", "MPA"]
       livesIn: ["Azawad"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
     ansaralshariaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ansar al-Sharia"]
       wikidataQnode: ["Q4669205"]
       livesIn: ["Azawad"]
+      ideologicalOrientation: ["islamist", "salafism", "jihadism"]
     aadArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ansar Dine", "Ansar al-Din", "AAD"]
       wikidataQnode: ["Q568900"]
+      ideologicalOrientation: ["salafism", "jihadism"]
     ansatusislamArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ansar ul Islam"]
       wikidataQnode: ["Q28499712"]
+      ideologicalOrientation: ["antiWest", "islamist", "salafism", "jihadism"]
     fiaaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Arab Islamic Front of Azawad", "FIAA"]
       wikidataQnode: ["Q3088499"]
     maaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Arab Movement of Azawad", "National Liberation Front of Azawad", "MAA", "FLNA"]
       wikidataQnode: ["Q12177450"]
+      ideologicalOrientation: ["secularism", "nationalism"]
     hcuaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["High Council for the Unity of Azawad", "HCUA", "Haut conseil pour l'unité de l'Azawad"]
       wikidataQnode: ["Q15141050"]
+      ideologicalOrientation: {"nationalism", "islamist"]
     cmaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Coordination for the Movements of Azawad", "CMA"]
       wikidataQnode: ["Q19955892"]
+      ideologicalOrientation: ["nationalism", "berberism"]
     miaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Islamic Movement of Azawad", "MIA"]
       livesIn: ["Azawad"]
+      ideologicalOrientation: ["islamist"]
     gatiaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Imghad Tuareg Self-Defense Group and Allies", "GATIA", "Tuareg Imghad and Allies Self-Defense Group"]
       attribute: ["gatiaArmedNonGovernmentalOrganizedGroup", "Azawad"]
       wikidataQnode: ["Q17629446"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
     msaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Movement for the Salvation of Azawad", "MSA"]
       wikidataQnode: ["Q28498949"]
       livesIn: ["Azawad"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      ideologicalOrientation: ["nationalism", "secularism""]
     mlfArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Katibat Macina", "Macina Liberation Front"]
       wikidataQnode: ["Q20725919"]
       livesIn: [""]
+      ideologicalOrientation: ["islamist", "salafism", "jihadism"]
 ##politicalparties
     ADEMAPASJParty:
        stringTokens: ["ADEMAPASJ", "Alliance for Democracy in Mali", "Pan African party for liberty, solidarity, and justice"]
