@@ -275,7 +275,7 @@ concepts:
   
    LDFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Lofa Defense Force"]
-     associatedEthnicGroup: ["Loma people"]
+     associatedEthnicGroup: ["lomaEthnicGroup"]
      wikidataQnode: ["Q6666641"]
   
    ULIMOKarmedNonGovernmentalOrganizedGroup:
