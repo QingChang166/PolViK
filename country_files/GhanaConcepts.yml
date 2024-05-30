@@ -459,7 +459,7 @@ concepts:
   
     mfedeaarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["The Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo)"]
-     associatedEthnicGroup: ["Ga-Adangbe people"]
+     associatedEthnicGroup: ["gaEthnicGroup"]
      wikidataQnode: [""]
   
     mfjjrarmedNonGovernmentalOrganizedGroup:
