@@ -161,17 +161,20 @@ concepts:
   bejacongressArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Beja Congress", "BC"]
     wikidataQnode: ["Q814968"]
-    associatedEthnicGroup: ["Beja"]
+    associatedEthnicGroup: ["bejaEthnicGroup"]
   lraArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["LRA", "Lord's Resistance Army"]
     wikidataQnode: ["Q108462"]
+    ideologicalOrientation: ["christianTheocracy"]
   alfArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Azania Liberation Front", "ALF", "Front d'Alliberament d'Azània"]
     wikidataQnode: ["Q4832230"]
+    ideologicalOrientation: ["regionalIndependence"]
   srfArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["SRF", "Sudan Revolutionary Front"]
     wikidataQnode: ["Q3374306"]
     livesIn: ["Kauda"]
+    ideologicalOrientation: {"democracy"]
   slmaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan Liberation Movement/Army", "SLM", "SLA", "SLM/A"]
     wikidataQnode: ["Q751442"]
@@ -180,17 +183,21 @@ concepts:
     stringTokens: ["Justice and Equality Movement", "JEM"]
     wikidataQnode: ["Q852370"]
     livesIn: ["Darfur"]
+    ideologicalOrientation: ["populism", "federalism", "democracy", "islamism"]
   splmnArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["SPLM-N", "Sudan People's Liberation Movement–North"]
     wikidataQnode: ["Q7633328"]
     livesIn: ["South Kordofan", "Blue Nile"]
+    ideologicalOrientation: {"democracy"]
   splaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["SPLA", "Sudan People's Liberation Army"]
     wikidataQnode: ["Q7633328"]
+    ideologicalOrientation: ["socialDemocracy", "nationalism"]
   efArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Eastern Front", "EF"]
     wikidataQnode: ["Q1278182"]
     livesIn: ["Red Sea", "Kassala"]
+    ideologicalOrientation: ["regionalism"]
   janjaweedArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Janjaweed"]
     wikidataQnode: ["Q178328"]
@@ -198,9 +205,11 @@ concepts:
   slammArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan Liberation Movement/Army (Minnawi)", "SLM (Minnawi)", "SLA-MM"]
     livesIn: [ "Zaghawa"]
+    ideologicalOrientation: {"democracy"]
   slmawArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan Liberation Movement/Army (al-Nur)", "SLM (al-Nur)", "SLM-AW", "SLA-AW"]
     livesIn: ["Fur"]
+    ideologicalOrientation: {"democracy"]
   rsfproGovernmentMilitia:
     stringTokens: ["Rapid Support Forces", "RSF"]
     wikidataQnode: ["Q18210867"]
