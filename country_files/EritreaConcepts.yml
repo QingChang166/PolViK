@@ -128,19 +128,24 @@ concepts:
    regionsMostActive: [] ## the group mostly operates out of Sudan
    yearsActiveasArmed: [1999-] ## https://www.refworld.org/cgi-bin/texis/vtx/rwmain?page=search&docid=3ae6ad5b14&skip=0&query=Alliance%20of%20Eritrean%20National%20Forces%20(AENF)
   rsadoarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["Red Sea Afar Democratic Organiation", "RSADO", "Qasa Badih Qafarih Dimokraasih Missoyna", "Al-tanzim Al-dimokrati Li-'afar Al-Bahr Al-Ahmar"]
+   stringTokens: ["Red Sea Afar Democratic Organisation", "RSADO", "Qasa Badih Qafarih Dimokraasih Missoyna", "Al-tanzim Al-dimokrati Li-'afar Al-Bahr Al-Ahmar"]
    associatedEthnicGroup: ["afarEthnicGroup"]
+   wikidataQnode: ["Q22948492"]
    regionsMostActive: ["Southern Red Sea Region"]
    yearsActiveasArmed: ["1998-2014"]
+   ideologicalOrientation: ["regionalIndependence"]
   dmlekarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Kunamas Democratic Movement", "DMLEK"]
    associatedEthnicGroup: ["kunamaEthnicGroup"]
    regionsMostActive: ["Gash-Barka"]
+   wikidataQnode: ["Q28419336"]
    isPartof:  ["arnfarmedNonGovernmentalOrganizedGroup"]
    yearsActiveasArmed: ["1995-2009"]
+   ideologicalOrientation: ["regionalIndependence"]
   esfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Salvation Front", "ESF"]
    associatedEthnicGroup: []
+   wikidataQnode: ["Q28233974"]
    regionsMostActive: []
    yearsActiveasArmed: ["2004-2015"]
   pdflearmedNonGovernmentalOrganizedGroup:
@@ -148,6 +153,7 @@ concepts:
    associatedEthnicGroup: []
    regionsMostActive: [] ##the group mostly operates out of Sudan
    yearsActiveasArmed: []
+   ideologicalOrientation: ["nationalism", "left", "secularism", "marxism", "maoism", "socialism"]
   elfrcarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Liberation Front-Revolution Council", "ELF-Revolution Council"]
    associatedEthnicGroup: []
@@ -157,8 +163,10 @@ concepts:
   elfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Liberation Front", "ELF", "Jebha"]
    associatedEthnicGroup: []
+   wikidataQnode: ["Q429305"]
    regionsMostActive: [] ##After 1991, the group mostly operates out of Sudan
    yearsActiveasArmed: ["1961-Present"]
+   ideologicalOrientation: ["nationalism", "left", "secularism", "marxism", "maoism", "socialism"]
   eirmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Islamic Reform Movement", " Eritrean Islamic Jihad Movement", "EIJM"]
    associatedEthnicGroup: []
@@ -167,8 +175,10 @@ concepts:
   alqaidaarmedNonGovernmentalOrganizedGroup: ##Not too sure what to do with this for as I cant find too many details on ALqaida in Eritrea specifically.... but it seems it did have apresene there
    stringTokens: ["Al-Qa'ida"]
    associatedEthnicGroup: []
+   wikidataQnode: ["Q34490"]
    regionsMostActive: []
    yearsActiveasArmed: ["1998-2017"]
+   ideologicalOrientation: ["sunniIslam", "islamist", "jihadism", "salafism", "nationalism", "irredentism", "antiImperialism", "antiZionism"]
   ##eplfarmedNonGovernmentalOrganizedGroup: ##Should this be removed since its not a group in eritrea post 1991 (independence)
   erdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Revolutionary Democratic Front", "DMLE"] ##https://www.refworld.org/docid/3f7d4d917.html
