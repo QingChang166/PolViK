@@ -574,63 +574,83 @@ concepts:
   tdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["TPLF", "Tigray Peoples Liberation Front", "Popular Struggle for the Freedom of Tigray", "Tigrai People's Liberation Front", "Tigrean People's Liberation Front", "Tigrayan People's Liberation Front"]
    associatedEthnicGroup: ["tigrayanEthnicGroup"]
+   wikidataQnode: ["Q1699287"]
    regionsMostActive: ["Tigray", "Eritrea"]
    yearsActiveasArmed: ["1976-1991", "2020-2023"] 
+   ideologicalOrientation: ["revolutionaryDemocracy", "nationalism", "socialism", "federalism", "left", "populism"]
   eprdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["EPRDF", "Ethiopian People's Revolutionary Democratic Front"]
+   wikidataQnode: ["Q1145280"]
    regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
    yearsActiveasArmed: ["1988-1991"]
+   ideologicalOrientation: ["revolutionaryDemocracy", "federalism", "nationalism", "marxism", "hoxhaism"]
   alfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ALF", "Afar Liberation Front"]
+   wikidataQnode: ["Q13386554"]
    associatedEthnicGroup: ["afarEthnicGroup"]
    regionsMostActive: ["Afar Region"]
    yearsActiveasArmed: ["1977"]
   ardufarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Afar Revolutionary Democratic Unity Front"]
+   wikidataQnode: ["Q640820"]
    associatedEthnicGroup: ["afarEthnicGroup"]
    regionsMostActive: ["Afar Region"]
    yearsActiveasArmed: ["1995-2010", "2020-2022"]
+   ideologicalOrientation: ["left"]
   alshabaabarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Shabaab"]
    regionsMostActive: ["Somali Region"]
+   wikidataQnode: ["Q309998"]
    yearsActiveasArmed: ["2006-2017"]
+   ideologicalOrientation: ["sunniIslam", "islamist", "salafism", "jihadism", "nationalism", "irredentism", "antiZionism", "antiImperialism"]
   aeuparmedNonGovernmentalOrganizedGroup:
    stringTokens: ["All Ethiopian Unity Party"]
+   wikidataQnode: ["Q1135310"]
    regionsMostActive: []
    yearsActiveasArmed: ["2005-Present"]
   cudarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["CUD", "Coalition for Unity and Democracy"]
+   wikidataQnode: ["Q1376302"]
    regionsMostActive:
    yearsActiveasArmed: ["2006-2008"]
+   ideologicalOrientation: ["nationalism", "liberalism", "federalism", "populism"]
   eduarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["EDU", "Ethiopian Democratic Union"]
+   wikidataQnode: ["Q16200284"]
    yearsActiveasArmed: ["1976-1979"] ## Date of last attack but really they were "at war" with the gob until 1991
    regionsMostActive: ["Tigray", "Amhara Region"]
   epdmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Ethiopian People's Democratic Movement", "EPDM"]
    regionsMostActive: ["Amhara Region"]
    yearsActiveasArmed: ["1983-1991"]
+   ideologicalOrientation: ["nationalism"]
   esrmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Islamic Reform Movement"]
    regionsMostActive: ["Eritrea"]
    yearsActiveasArmed: ["1975-2003"]
   elfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ELF", "Eritrean Liberation Front"]
+   wikidataQnode: ["Q429305"]
    regionsMostActive: ["Eritrea"]
    yearsActiveasArmed: ["1961-1992"]
+   ideologicalOrientation: ["independence"]
   eplfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["EPLF", "Eritrean People's Liberation Front"]
+   wikidataQnode: ["Q889543"]
    associatedEthnicGroup: ["tigrinyaEthnicGroup"]
    regionsMostActive: ["Tigray", "Eritrea", "Addis Abada","Oromia Region","Amhara Region"]
    yearsActiveasArmed: ["1976-1991"]
+   ideologicalOrientation: ["nationalism", "secularism", "left", "marxism", "maoism", "socialism"]
   erdfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Eritrean Revolutionary Democratic Front"]
    regionsMostActive: ["Eritrea"]
    yearsActiveasArmed: ["1999"]
   eprparmedNonGovernmentalOrganizedGroup:
    stringTokens: ["EPRP", "Ethiopian Peoples Revolutionary Party"]
+   wikidataQnode: ["Q257591"]
    regionsMostActive: ["Tigray", "Addis Abada"]
    yearsActiveasArmed: ["1972-1992"]
+   ideologicalOrientation: ["federalism", "socialDemocracy", "marxism", "maoism"]
   etharmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Ethiopians"]
    regionsMostActive:
@@ -641,47 +661,61 @@ concepts:
    yearsActiveasArmed: ["1992-1997"]
   iglfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Issa and Gurgura Liberation Front"]
+   wikidataQnode: ["Q3805487"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["1991-1994"]
   onlfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ONLF", "Ogaden National Liberation Front", "Javhadda Waddaniga Xoreynta Ogaddeenya"]
+   wikidataQnode: ["Q1477631"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["1991-1994"]
+   ideologicalOrientation: ["nationalism", "centreLeft"]
   murletribearmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Murle Tribe"]
    regionsMostActive: []
    yearsActiveasArmed: ["2012"]
   olfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["OLF", "Oromo Liberation Front"]
+   wikidataQnode: ["Q1153941"]
    associatedEthnicGroup: ["oromoEthnicGroup"]
    regionsMostActive: ["Oromo Region"]
    yearsActiveasArmed: ["1974-1991"]
+   ideologicalOrientation: ["nationalism", "democracy", "regionalIndependence", "socialism", "federalism"]
   slfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["SLF", "Sidama Liberation Front", "Sidama National Liberation Front", "SNLF"]
    associatedEthnicGroup: ["sidamaEthnicGroup"]
+   wikidataQnode: ["Q30639157"]
    regionsMostActive: ["Sidama Region"]
    yearsActiveasArmed: ["1978-1991", "2020-2022"]
+   ideologicalOrientation: ["regionalIndependence"]
   salfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali Abo Liberation Front"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["1976-1988"]
   sifarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["Somali Islamic Front"]
+   stringTokens: ["Somali Islamic Front", "Jabhatul Islamiya", "JABISO"]
+   wikidataQnode: ["Q6110167"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["2007-2009"]
+   ideologicalOrientation: ["islamist"]
   wslfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Western Somali Liberation Front"]
+   wikidataQnode: ["Q1462545"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    regionsMostActive: ["Somali Region"]
    yearsActiveasArmed: ["1975-1989"]
+   ideologicalOrientation: ["regionalindependence"]
   ufefcfarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["United Front of Ethiopian Federalist and Confederalist Forces", "UFEFCF"]
+   wikidataQnode: ["Q109453312"]
    yearsActiveasArmed: ["2021-2022"]
+   ideologicalOrientation: ["federalism"]
   olaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Oromo Liberation Army", "OLA", "Shene", "Shanee", "Oneg", "OLF-Shene"]
+   wikidataQnode: ["Q109453682"]
    regionsMostActive: ["Oromo Region", "Amhara Region"]
    yearsActiveasArmed: ["2018-Present"]
   agewlfarmedNonGovernmentalOrganizedGroup:
@@ -689,13 +723,16 @@ concepts:
    yearsActiveasArmed: ["2020-Present"]
   mgsarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Somali State Resistance", "MGS", "Muqaawamada Gobolka Soomaalida"]
+   wikidataQnode: ["Q109768642"]
    associatedEthnicGroup: ["somaliEthnicGroup"]
    yearsActiveasArmed: ["2020-Present"]
+   ideologicalOrientation: ["nationalism", "democracy"]
   gplaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Gambella People's Liberation Army"]
    yearsActiveasArmed: ["2020-Present"]
   bplmarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Benishangul People's Liberation Movement", "BPLM"]
+   wikidataQnode: ["Q109518688"]
    associatedEthnicGroup: [] #This group is associated with the Berta and Gurmuz people but they are both under the 1% thrashold.
    yearsActiveasArmed: ["1996-2005", "2020-Present"]
    regionsMostActive: ["Benishangul-Gumuz Region"]
