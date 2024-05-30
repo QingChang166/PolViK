@@ -122,11 +122,13 @@ concepts:
      stringTokens: ["ASL", "Ansar al-Sharia in Libya"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q4770519"]
+     ideologicalOrientation: ["jihadism", "salafism", "islamist"]
   
    ARSCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ajdabiya Revolutionaries Shura Council"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q60747280"]
+     ideologicalOrientation: ["islamist", "jihadism"]
   
    ADBbarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Anas al-Dabbashi brigade"]
@@ -147,16 +149,19 @@ concepts:
      stringTokens: ["Shura Council of Benghazi Revolutionaries"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q17502017"]
+     ideologicalOrientation: ["islamist", "jihadism", "salafism"]
   
    LS1armedNonGovernmentalOrganizedGroup:
      stringTokens: ["Libya Shield 1"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q21070588"]
+     ideologicalOrientation: ["islamist"]
   
    DPFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Derna Protection Force", "Derna Security Force"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q5487056"]
+     ideologicalOrientation: ["islamist"]
   
    ANBarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Al-Nawasi Brigade"]
@@ -167,12 +172,14 @@ concepts:
      stringTokens: ["Islamic State", "Wilayah al-Fezzan", "Wilayah al-Tarabulus", "Wilayah Barqah"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q19824111"]
+     ideologicalOrientation: ["islamist", "salafism", "jihadism"]
   
    nfslarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Front for the Salvation of Libya", "NFSL"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q303024"]
      yearsActiveasParty: ["1981-2012"]
+     ideologicalOrientation: ["liberalism", "democracy"]
   
    f17mbarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["February 17th Martyrs Brigade"]
@@ -199,3 +206,4 @@ concepts:
      stringTokens: ["Popular Front for the Liberation of Libya"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q59770463"]
+     ideologicalOrientation: ["antiImperialism"]
