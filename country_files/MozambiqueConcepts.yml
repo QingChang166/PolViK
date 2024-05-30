@@ -485,26 +485,36 @@ concepts:
 #rebel groups
   renamoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Mozambican National Resistance", "Resistência Nacional Moçambicana", "RENAMO"]
+   wikidataQnode: ["Q1425821"]
    associatedEthnicGroup: []
    regionsMostActive: ["Cabo Delgado", "Gaza", "Inhambane", "Manica", "Maputo", "Nampula", "Niassa", "Sofala", "Tete", "Zambezia"]
    yearsActiveasArmed: ["1964-1977", "2013-2019"] ##CHECK LAST DATES
+   ideologicalOrientation: ["nationalism", "conservatism", "economicLiberalism", "antiCommunism"]
   ancarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ANC", "African National Congress"] ## they apparently had a presence in mozambique when fight againt ZA according to AG data set
+   wikidataQnode: ["Q83162"]
    associatedEthnicGroup: []
    regionsMostActive: ["South Africa"]
    yearsActiveasArmed: ["1961-1990"] ##CHECK LAST DATES
+   ideologicalOrientation: ["nationalism", "socialDemocracy"]
   zanuarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ZANU", "Zimbabwe African National Union"]
+   wikidataQnode: ["Q203427"]
    associatedEthnicGroup: []
    regionsMostActive: ["Zimbabwe"]
    yearsActiveasArmed: ["1961-1975"] ##CHECK LAST DATES
+   ideologicalOrientation: ["socialism", "nationalism", "panAfricanism"]
   ansaralSunnaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Shabaab", "Ansar al-Sunna",  "Ahlu Sunna Wal Jammah", "The Youth", "IS-CAP", "IS-Central Africa Province"]
+   wikidataQnode: ["Q53081261"]
    associatedEthnicGroup: []
    regionsMostActive: ["Cabo Delgado"]
    yearsActiveasArmed: ["2017-Present"] ##CHECK LAST DATES
+   ideologicalOrientation: ["sunniIslam", "salafism", "jihadism"]
   isisarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["ISIS", "IS", ]
+   stringTokens: ["ISIS", "IS"]
+   wikidataQnode: ["Q2429253"]
    associatedEthnicGroup: []
    regionsMostActive: ["Cabo Delgado"]
    yearsActiveasArmed: ["2017-Present"] ##CHECK LAST DATES
+   ideologicalOrientation: ["salafism", "islamist", "jihadism"}
