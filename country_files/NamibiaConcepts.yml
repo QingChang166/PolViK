@@ -195,14 +195,16 @@ concepts:
   ## armed groups
    CLAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Caprivi Liberation Army"]
-     associatedEthnicGroup: ["Lozi people"]
+     associatedEthnicGroup: ["LoziEthnicGroup"]
      wikidataQnode: ["Q2496137"]
      yearsActiveasParty: ["1994-present"]
+     ideologicalOrientation: ["regionalIndependence"]
   
    SWAPOarmedNonGovernmentalOrganizedGroup-Namibia:
      stringTokens: ["South West Africa People's Organisation", "SWAPO"]
-     associatedEthnicGroup: ["Ovambo people"]
+     associatedEthnicGroup: ["OvamboEthnicGroup"]
      wikidataQnode: ["Q467711"]
+     ideologicalOrientation: ["nationalism", "statism", "socialDemocracy"]
 
 
    
