@@ -448,15 +448,18 @@ concepts:
   stringTokens: ["SWAPO", "South West Africa People's Organisation"]
   associatedEthnicGroup: [""]
   wikidataQnode: ["Q467711"]
+  ideologicalOrientation: ["socialism", "socialDemocracy", "statism"]
  MKarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["MK", "uMkhonto we Sizwe", "Spear of the Nation"]
   associatedEthnicGroup: [""]
   yearsActive: ["1961-1993"]
   wikidataQnode: ["Q1136236"]
+  ideologicalOrientation: ["communism", "marxism", "antiApartheid", "nationalism", "panAfricanism"]
  BBBarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["BBB", "Blanke Bevrydingsbewegin"]
   associatedEthnicGroup: ["whiteEthnicGroup", "afrikaansEthnicGroup-SouthAfrica"]
   wikidataQnode: ["Q15980788"]
+  ideologicalOrientation: ["whiteNationalism", "antiSemitism", "neoNazism", "farRight"]
  SAYRCOarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["SAYRCO", "South African Youth Revolutionary Council"]
   wikidataQnode: ["Q7565816"]
@@ -464,22 +467,27 @@ BoeremagarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["Boeremag"]
   associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
   wikidataQnode: ["Q1130353"]
+  ideologicalOrientation: ["whiteNationalism", "farRight"]
 AWBarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["AWB", "Afrikaner Weerstandsbeweging", "Afrikaner Resistance Movement"]
   associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
   wikidataQnode: ["Q385873"]
+  ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
 OVDarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["Orde van die Dood", "OVD", "Order of the Dead"]
   associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
   wikidataQnode: ["Q7100374"]
+  ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
 APLAarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["Azanian People's Liberation Army", "APLA", "Poqo"]
   associatedEthnicGroup: [""]
   wikidataQnode: ["Q3643845"]
+  ideologicalOrientation: ["nationalism", "socialism", "panAfricanism"]
 AZANLAarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["Azanian National Liberation Army", "AZANLA"]
   associatedEthnicGroup: [""]
   wikidataQnode: [""]
+  ideologicalOrientation: ["nationalism", "socialism", "panAfricanism"]
 KabasaarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["kabasa"]
   associatedEthnicGroup: [""]
@@ -491,15 +499,18 @@ RAarmedNonGovernmentalOrganizedGroup:
 WitdoekearmedNonGovernmentalOrganizedGroup:
   stringTokens: ["witdoeke", "white armed bands"]
   associatedEthnicGroup: [""]
-  wikidataQnode: ["Q2586470"]
+  wikidataQnode: ["Q2586470"]  
+  ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
 UDFarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["UDF", "United Democratic Front"]
   associatedEthnicGroup: [""]
   wikidataQnode: ["Q1529503"]
+  ideologicalOrientation: ["antiApartheid", "democracy"]
 BCMarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["BCM", "Black Consciousness Movement"]
   associatedEthnicGroup: [""]
-  wikidataQnode: ["Q880194"]
+  wikidataQnode: ["Q880194"]  
+  ideologicalOrientation: ["antiApartheid"]
 cotedaarmedNonGovernmentalOrganizedGroup:
   stringTokens: ["coteda", "Cape Organisation for the Democratic Taxi Association"]
   associatedEthnicGroup: [""]
