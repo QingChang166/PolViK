@@ -139,9 +139,11 @@ concepts:
      stringTokens: ["al-Qaeda in the Islamic Maghreb"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q2635966"]
+     ideologicalOrientation: ["islamist", "salafism", "jihadism", "antiWest", "antiZionism", "antiImperialism"]
   
    PolisarioarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario"]
      associatedEthnicGroup: ["Sahrawi people"]
      wikidataQnode: ["Q240425"]
+     ideologicalOrientation: ["nationalism", "socialism", "socialDemocracy", "secularism", "left"]
   
