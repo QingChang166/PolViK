@@ -187,41 +187,48 @@ concepts:
 ## armed groups
     mjrnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for Justice and the Rehabilitation of Niger"]
-     associatedEthnicGroup: ["Toubou people"]
+     associatedEthnicGroup: ["toubouEthnicGroup"]
      wikidataQnode: ["Q28498964"]
+     ideologicalOrientation: ["nationalism"]
     mnjarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Nigerien's Movement for Justice", "MNJ"]
-     associatedEthnicGroup: ["Tuareg people", "Toubou people", "Fulani people"]
+     associatedEthnicGroup: ["tuaregEthnicGroup", "toubouEthnicGroup", "fulaniEthnicGroup"]
      wikidataQnode: ["Q740688"]
     rafsarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Revolutionary Armed Forces of the Sahara", "FARS", "RAFS"]
-     associatedEthnicGroup: ["Toubou people"]
+     associatedEthnicGroup: ["toubouEthnicGroup"]
      wikidataQnode: ["Q3076972"]
+     ideologicalOrientation: ["regionalIndependence"]
     mlnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for the Liberation of Niger", "MLN"]
     isgsarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State in the Greater Sahara", "IS-GS"]
      wikidataQnode: ["Q36504631"]
+     ideologicalOrientation: ["islamist", "sunniIslam", "jihadism", "salafism"]
     bharmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Boko Haram"]
      wikidataQnode: ["Q212372"]
+     ideologicalOrientation: ["islamist", "salafism", "jihadism", "wahhabism", "antiWest", "takrifism", "antiShiaism", "antiChristian"]
     flaaarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Front for the Liberation of Aïr and Azaouak", "FLAA"]
-     associatedEthnicGroup: ["Tuareg people"]
+     associatedEthnicGroup: ["TuaregEthnicGroup"]
+     ideologicalOrientation: ["regionalIndependence"
     fpnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Patriotic Front", "FPN"]
-     associatedEthnicGroup: ["Tuareg people"]
+     associatedEthnicGroup: ["TuaregEthnicGroup"]
     jnimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Jamaat Nusrat al-Islam wal-Muslimin", "JNIM", "Group for the Support of Islam and Muslims", "GSIM"]
-     associatedEthnicGroup: ["Fulani people"]
+     associatedEthnicGroup: ["FulaniEthnicGroup"]
+     ideologicalOrientation: ["salafism', "jihadism"]
     ufraarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Union of Forces of the Armed Resistance", "UFRA"]
-     associatedEthnicGroup: ["Tuareg people"]
+     associatedEthnicGroup: ["TuaregEthnicGroup"]
     aqimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["AQIM", "Qaida al-Jihad fi Bilad al-Maghrib al-Islami", "al-Qaida Organisation in the Islamic Maghreb"]
      wikidataQnode: ["Q2635966"]
+     ideologicalOrientation: ["salafism", "jihadism", "antiZionism", "antiWest", "antiImperialism"]
     craarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["CRA", "Coordination de la résistance armée", "Coordination of the Armed Resistance"]
-     associatedEthnicGroup: ["Touareg people"]
+     associatedEthnicGroup: ["TuaregEthnicGroup"]
 
    
