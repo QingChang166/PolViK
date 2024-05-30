@@ -180,7 +180,7 @@ concepts:
   ## armed groups
     nrcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Revolutionary Council", "NRC"]
-     associatedEthnicGroup: ["Jola people"]
+     associatedEthnicGroup: ["jolaEthnicGroup"]
      wikidataQnode: [""]
      time: ["1994-1996"]
   
