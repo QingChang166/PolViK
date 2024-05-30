@@ -139,16 +139,19 @@ concepts:
      stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q2635966"]
+     ideologicalOrientation: ["salafism", "jihadism", "wahhabism", "antiZionism", "antiWest", "antiImperialism"]
   
     ISarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State insurgency in Tunisia"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q23198510"]
+     ideologicalOrientation: ["islamist", "SunniIslam", "antiWest", "jihadist", "salafism"]
   
     JAK-TarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Jund al-Khilafah - Tunisia", "JAK-T"]
      associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     wikidataQnode: [""]    
+     ideologicalOrientation: ["islamist", "SunniIslam", "antiWest", "jihadist", "salafism"]
   
     TARarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["General Revolutionary Committee for the Liberation of Gafsa", "Tunisian Armed Resistance"]
@@ -159,11 +162,13 @@ concepts:
      stringTokens: ["Ansar al-Shariah", "Supporters of Islamic Law in Tunisia"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q13257444"]
+     ideologicalOrientation: ["islamist"]
   
     alQaedaarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["al-Qaeda"]
      associatedEthnicGroup: [""]
-     wikidataQnode: ["Q34490"]
+     wikidataQnode: ["Q34490"]  
+     ideologicalOrientation: ["salafism", "jihadism", "wahhabism", "antiZionism", "antiWest", "antiImperialism"]
   
  ## ProGovernment Militia
     LPRproGovernmentMilitia:
