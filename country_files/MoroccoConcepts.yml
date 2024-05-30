@@ -222,42 +222,49 @@ concepts:
    associatedEthnicGroup: ["Sahrawi"]
    wikidataQnode: ["Q240425"]
    yearsActive: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
-    
+   ideologicalOrientation: ["nationalism", "socialism", "socialDemocracy", "secularism", "left"]
+  
   SPLAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Sahrawi People's Liberation Army","Armée populaire de libération sahraouie", "Military of Western Sahara", "Sahrawi Popular Liberation Army", "SPLA", "Ejército de Liberación Popular Saharaui", "ELPS", "ELP"]
    associatedEthnicGroup: ["Sahrawi"]
    wikidataQnode: ["Q2862977"]
    yearsActive: ["1972-present"] # armed wing of of Sahrawi Arab Democratic Republic (SADR)
+   ideologicalOrientation: ["regionalIndependence"]
    
   SJarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Salafia Jihadia", "al-Salafiya al-jihadiya"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3469483"]
    yearsActive: ["1990s-present"] #ally of Moroccan Islamic Combatant Group, Al-Qaeda and 20 February Movement 
+   ideologicalOrientation: ["salafism", "jihadism"]
   
   GICMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Moroccan Islamic Combatant Group", "GICM", "Groupe Islamique Combattant Marocain"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q2357272"]
    yearsActive: ["1990s-present"] #ally of Salafia Jihadia and Al-Qaeda
+   ideologicalOrientation: ["salafism", "jihadism"]
   
   F20armedNonGovernmentalOrganizedGroup:
    stringTokens: ["20 February Movement"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3326647"]
    yearsActive: ["2011"] #ally of Salafia Jihadia
+   ideologicalOrientation: ["democracy"]
   
   SParmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Sirat al-Mustaqim", "The Straight Path", "as-Sirat al-Mustaqim"]
    associatedEthnicGroup: []
    wikidataQnode: []
    yearsActiveas: [] # splintered from Salafia Jihadia
+   ideologicalOrientation: ["jihadism", "salafism"]
   
   TakfirwalHijraarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Takfir wal-Hijra", "Takfir wa Hijra", "Jama'at al-Muslimin" ,"Excommunication and Exodus", "excommunication and emigration"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q291419"]
    yearsActiveasParty: ["1971-present"] # Offshoot of Muslim Brotherhood
+   ideologicalOrientation: ["qutbism"]
   
   
   
