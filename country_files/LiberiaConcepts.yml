@@ -158,19 +158,26 @@ concepts:
       stringTokens: ["National Democratic Front of Liberia", "NDPL"]
     ulimoArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["ULIMO", "United Liberation Movement of Liberia for Democracy"]
+      wikidataQnode: ["Q7888232"]
     npflArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["NPFL", "NATIONAL PATRIOTIC FRONT OF LIBERIA"]
+      wikidataQnode: ["Q1576536"]
     inpflArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Independent National Patriotic Front of Liberia", "INPFL"]
+      wikidataQnode: ["Q474569"]
     lurdArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["LIBERIANS UNITED FOR RECONCILIATION AND DEMOCRACY", "LURD"]
+      wikidataQnode: ["Q3238013"]
       yearsActiveasArmedGroup: ["1999-2003"]
     modelArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["MODEL", "MOVEMENT FOR DEMOCRACY IN LIBERIA"]
+      wikidataQnode: ["Q3326792"]
     lpcArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Liberia Peace Council", "LPC"]
+      wikidataQnode: ["Q6541093"]
     ldfArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Lofa Defense Force", "LDF"]
+      wikidataQnode: ["Q6666641"]
     rufArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Revolutionary United Front", "RUF"]
     ###paramilitaries
