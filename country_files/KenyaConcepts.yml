@@ -206,6 +206,7 @@ concepts:
    wikidataQnode: ["Q309998"]
    associatedReligion: ["Islam"]
    groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
+   ideologicalOrientation: ["sunniIslam", "islamism", "salafism", "jihadism', "nationalism", "irredentism", "antiZionism", "antiImperialism"]
   
 
 
