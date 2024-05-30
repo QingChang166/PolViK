@@ -131,6 +131,7 @@ concepts:
   splmParty:
     stringTokens: ["SPLM", "Sudan People's Liberation Movement"]
     wikidataQnode: ["Q459960"]
+    ideologicalOrientation: ["socialDemocracy", "nationalism"]
   splmaioArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["Sudan People's Liberation Movement-in-Opposition", "SPLM/A-IO"]
     wikidataQnode: ["Q17022177"]
@@ -138,16 +139,20 @@ concepts:
     stringTokens: ["United Democratic Front", "UDF"]
     wikidataQnode: ["Q3278303"]
     livesIn: ["Juba"]  #known to operate  ##juba ambig  ##brackets need to be consistent   ##first slot, place name, second slot village, city, admin 1 2 country
+    ideologicalOrientation: ["socialDemocracy"]
   nsfArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["National Salvation Front", "NSF"]
     wikidataQnode: ["Q48800192"]
     livesIn: ["Equatoria"]  ###administrative state  ##quotes issues 
+    ideologicalOrientation: ["federalism"]
   sslmaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["South Sudan Liberation Movement/Army", "SSLM/A"]
     wikidataQnode: ["Q3373953"]
+    ideologicalOrientation: {"regionalIndependence"]
   ssdmaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["South Sudan Democratic Movement/Army", "SSDM/A"]
     wikidataQnode: ["Q7568577"]
+    ideologicalOrientation: ["bigTent"]
   ssumaArmedNonGovernmentalOrganizedGroup:
     stringTokens: ["South Sudan United Movement", "SSUM/A"]
     wikidataQnode: ["Q55391113"]
