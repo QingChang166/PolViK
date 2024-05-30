@@ -262,16 +262,19 @@ concepts:
      associatedEthnicGroup: ["KanuriEthnicGroup"]
      groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
      wikidataQnode: ["Q212372"]
+     ideologicalOrientation: ["islamist", "salafism', "jihadism", "antiWest", "wahhabism", "antiShia", "takfirism", "antiChristian"]
 
   ISarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State", "Daesh", "ISIL", "Islamic State in Iraq and Syria", "Islamic State of Iraq and Levant", "ISIS", "Islamic State Group", "Islamic State of Iraq and Syria", "Islamic State of Iraq and al-Sham", "The Islamic State", "IS", "Islamic State of Iraq and the Levant"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q2429253"]
+     ideologicalOrientation: ["islamist", "salafism", "jihadism", "antiWest", "qutbism", "wahhabism"]
  
   AnsaruarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ansaru"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q4770527"]
+     ideologicalOrientation: ["islamist", "jihadism"]
 
   APCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Arewa People's Congress", "APC"]
@@ -283,11 +286,13 @@ concepts:
      stringTokens: ["Bakassi Movement for Self-Determination"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q4849025"]
+     ideologicalOrientation: ["regionalIndependence"]
 
   BZFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Biafra Zionist Front"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q25064532"]
+     ideologicalOrientation: ["regionalIndependence"]
 
   CJTFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Civilian Joint Task Force"]
@@ -298,43 +303,50 @@ concepts:
      stringTokens: ["Islamic State – West Africa Province"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q86661119"]
+     ideologicalOrientation: ["islamist", "salafism", "jihadism"]
 
   MENDarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for the Emancipation of the Niger Delta", "MEND"]
      regionsMostActive: ["Delta", "Rivers", "Bayelsa"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-2015"]
+     ideologicalOrientation: ["regionalism"]
 
   NDAarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Delta Avengers", "NDA"]
      regionsMostActive: ["Delta", "Bayelsa", "Rivers"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2016- present"]
+     ideologicalOrientation: ["regionalism"]
 
   NDGJMarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Delta Greenland Justice Mandate"]
      associatedEthnicGroup: [""]
      wikidataQnode: ["Q27963608"]
+     ideologicalOrientation: ["regionalism"]
 
   NDLFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Delta Liberation Front"]
      associatedEthnicGroup:
      wikidataQnode: ["Q1989618"]
      yearsActiveasParty: ["2005-2014"]
+     ideologicalOrientation: ["regionalism"]
  
   NDPVFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Delta People's Volunteer Force", "NDPVF"]
-     associatedEthnicGroup: ["Ijaw people"]
+     associatedEthnicGroup: ["IjawEthnicGroup"]
      wikidataQnode: ["Q3748918"]
      regionsMostActive: ["Rivers"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2004-present"]
+     ideologicalOrientation: ["regionalism"]
  
   NDVarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Delta Vigilante"]
-     associatedEthnicGroup: ["Ijaw people"]
+     associatedEthnicGroup: ["IjawEthnicGroup"]
      wikidataQnode: ["Q7032757"]
+     ideologicalOrientation: ["regionalIndependence"]
  
   OPCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Oodua Peoples Congress", "Oodua Liberation Movement "]
-     associatedEthnicGroup: ["Yoruba people"]
+     associatedEthnicGroup: ["YorubaEthnicGroup"]
      wikidataQnode: ["Q2043439"]
  
   FulaniMilitantarmedNonGovernmentalOrganizedGroup:
@@ -348,6 +360,7 @@ concepts:
      stringTokens: ["IPOB", "Indigenous People of Biafra", "ESN", "Eastern Security Network"]
      associatedEthnicGroup: ["IgboEthnicGroup"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-present"]
+     ideologicalOrientation: ["antiMuslim", "nationalism", "nativism", "regionalIndependence"]
 
    JRCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["JRC", "Joint Revolutionary Council"]
@@ -356,9 +369,10 @@ concepts:
 
   IMNarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic Movement in Nigeria", "IMN"]
-     associatedReligion: ["Islam"]
+     associatedReligion: ["shiaReligion"]
      regionsMostActive: ["Kaduna", "Kano", "Zaria"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1970s-present"]
+     ideologicalOrientation: ["islamist", "qutbism', "antiZionism"]
 
   BakassiarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Bakassi Boys"]
@@ -373,4 +387,5 @@ concepts:
      regionsMostActive: ["Kano", "Kaduna", "Borno"]
      associatedReligion: ["Islam"]
      groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
+     ideologicalOrientation: ["islamist", "jihadism"]
 
