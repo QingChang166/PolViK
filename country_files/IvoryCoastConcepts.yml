@@ -109,18 +109,25 @@ concepts:
     ###armedgroups
     fnciArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Forces Nouvelles", "Forces Nouvelles de Côte d'Ivoire", "New Forces of Ivory Coast", "FNCI", "FN", "FAFN"]
+      wikidataQnode: ["Q1436666"]
       yearsActiveasArmedGroup: ["2002-2007"]
     mpciArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Patriotic Movement of Ivory Coast", "Mouvement patriotique de la Côte d'Ivoire", "MPCI"]
+      wikidataQnode: ["Q2723943"]
+      ideologicalOrientation: ["minorityRights", "nationalism", "liberalDemocracy"]
     mpigoArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ivorian Popular Movement of the Great West", "MPIGO"]
+      wikidataQnode: ["Q3326773"]
     mjpArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Movement for Justice and Peace", "Mouvement pour la justice et la paix", "MJP"]
+      wikidataQnode: ["Q2744381"]
       yearsActiveasArmedGroup: ["2002-2004"]
     flgoArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Great West Liberation Front", "FLGO", "Front de libération du Grand Ouest"]
     cojepproGovernmentMilitia:
     stringTokens: ["Congrès Panafricain des Jeunes et des Patriotes", "COJEP", "Young Patriots"]
+    wikidataQnode: ["Q2577116"]
+    ideologicalOrientation: ["nationalism", "antiIslam"]
 
     
 
