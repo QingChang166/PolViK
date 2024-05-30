@@ -265,7 +265,8 @@ concepts:
   ## armed groups
     mfdcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement of Democratic Forces of Casamance", "MFDC"]
-     associatedEthnicGroup: ["Jola people"]
+     associatedEthnicGroup: ["jolaEthnicGroup"]
      wikidataQnode: ["Q178254"]
+     ideologicalOrientation: ["nationalism", "regionalIndependence"]
   
     
