@@ -205,6 +205,7 @@ concepts:
    associatedPoliticalParty: ["PUDEMO"]
    wikidataQnode: ["Q4992581"] # The qnode of PUDEMO
    yearsActiveasarmedNonGovernmentalOrganizedGroup: [""]
+   ideologicalOrientation: ["left", "socialDemcoracy"]
   
   SWAYOCOarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Swaziland Youth Congress", "SWAYOCO"]
@@ -212,6 +213,7 @@ concepts:
    associatedPoliticalParty: ["PUDEMO"]
    wikidataQnode: ["Q4992581"] # The qnode of PUDEMO
    yearsActiveasarmedNonGovernmentalOrganizedGroup: [""]
+   ideologicalOrientation: ["socialDemocracy"]
   
   RenamoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Renamo", "Resistência Nacional Moçambicana", "Mozambican National Resistance", "MNR", "RNM", "Movimento Nacional da Resistência de Mocambique"]
@@ -219,6 +221,7 @@ concepts:
    associatedPoliticalParty: [""]
    wikidataQnode: ["Q1425821"]
    yearsActive: ["1975-present"]
+   ideologicalOrientation: ["economicLiberalism", "nationalism", "conservatism", "antiCommunism"]
   
   MKarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
@@ -226,6 +229,7 @@ concepts:
    associatedPoliticalParty: ["African National Congress", "ANC"]
    wikidataQnode: ["Q1136236"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1961-1993"]  # terrorist attack in 1984
+   ideologicalOrientation: ["marxism", "communism", "left", "antiApartheid", "communism", "panAfricanism"]
 
   
   
