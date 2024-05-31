@@ -4593,51 +4593,141 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
  antiCapitalismIdeologicalGroup:
    stringTokens: ["antiCapitalism", "anti-capitalism", "anti capitalism"]
    wikidataId: ["Q389647"]
+ laborMovementIdeologicalGroup:
+   stringTokens: ["laborMovement", "labor movement"]
+   wikidataId: ["Q208701"]
+ christianDemocracyIdeologicalGroup:
+   stringTokens: ["christianDemocracy", "christian democracy"]
+   wikidataId: ["Q209158"]
+ uajaamaIdeologicalGroup:
+   stringTokens: ["uajaama", "ujamaa"]
+   wikidataID: ["Q2166287"]
+ antiAuthoritarianismIdeoloigcalGroup:
+   stringTokens: ["antiAuthorotiarianism", "anti-authoritarianism", "anti-authoritarian"]
+   wikidataId: ["Q1030234"]
+ panArabismIdeologicalGroup:
+   stringTokens: ["pan-Arab", "panArabism", "pan-Arabism", "arabism"]
+   wikidataId: ["Q193476"]
+ baathismIdeologicalGroup:
+   stringTokens: ["baathism", "Ba'thism", "al-Ba'thiyah"]
+   wikidataId: ["Q2582421"]
+ antiCorruptionIdeologicalGroup:
+   stringTokens: ["antiCorruption", "anti-corruption", "anti corruption"]
+   wikidataId: ["Q60741353"]
+ environmentalismIdeologicalGroup:
+   stringTokens: ["environmentalism", "ecologism"]
+   wikidataID: ["Q2855609"]
+ christianIdeologicalGroup:
+   stringTokens: ["christian", "christianity"]
+   wikidataId: ["Q5043"]
+ berberismIdeologicalGroup: 
+   stringTokens: ["berberism"]
+   wikidataId: ["Q2896922"]
+ wahhabismIdeologicalGroup: 
+   stringTokens: ["wahhabism", "wahhabi", "Muwahhidun"]
+   wikidataId: ["Q163140"]
+ takfirismIdeologicalGroup:
+   stringTokens: ["takfiri", "takfiris", "takfirism"]
+   wikidataId: ["Q2339286"]
+ antiShiaIdeologicalGroup:
+   stringTokens: {"antiShia", "anti-shia", "anti Shia", "Shiaphobia", "Shi'aphobia", "Shiitephobia", "Shi'itephobia"]
+   wikidataID: ["Q7170072"]
+ fundamentalismIdeologicalGroup:
+   stringTokens: ["fundamentalism", "fundie"]
+   wikidataID: ["Q9149"]
+ jihadismIdeologicalGroup: 
+    stringTokens: ["jihadism", "militant jihadism", "jihadist extremism", "armed jihad", "jihadi movement", "jihadist movement"]
+    wikidataId: ["Q3757343"]
+  antiChristianIdeologicalGroup:
+    stringTokens: ["antiChristian", "anti-christian", "anti christian", "christophobia", "christianophobia"
+    wikidataId: ["Q564862"]
+  qutbismIdeologicalGroup:
+    stringTokens: ["qutbism", "Kotebism", "Qutbiyya", "Qutbiyyah"]
+    wikidataId: ["Q632691"]
+  ethnicNationalismIdeologicalGroup:
+    stringTokens: ["ethnic nationalism", "ethnicNationalism", "ethnocism", "ethno-nationalism"]
+    wikidataId: ["Q637251"]
+  irredentismIdeologicalGroup:
+    stringTokens: ["irredentism"]
+    wikidataId: ["Q182274"]
+  panIslamIdeologicalGroup:
+    stringTokens: ["panIslam", "pan-Islam", "pan-Islamism", "ummahism"]
+    wikidataId: ["Q430032"]
+  salafismIdeologicalGroup:
+    stringTokens: ["salafism", "salafist", "salafi"]
+    wikidataId: ["Q191057"]
+  antiWestIdeologicalGroup:
+    stringTokens: ["antiWest", "anti-west", "anti west"]
+    wikidataId: ["Q19606413"]
+  antiImperialismIdeologicalGroup:
+    stringTokens: ["anti-imperialism", "antiImperialism", "anti imperialism"]
+    wikidataId: ["Q1144178"]
+  territorialIndependencedIdeologicalGroup: 
+    stringTokens: ["territorialIndependence", "regionalIndependence", "territorial independence", "regional independence"]
+    wikidataId: ["Q37055"]
+  christianTheocracyIdeologicalGroup:
+    stringTokens: ["christianTheocracy", "christian Theocracy"]
+  secularismIdeologicalGroup:
+    stringTokens: ["secularism", "Laicité"]
+    wikidataId: ["Q216920"]
+  rightIdeologicalGroup: 
+    stringTokens: ["right", "right-wing", "political right", "rightism", "rightist"]
+    wikidataId: ["Q76074"]
+  conservatismIdeologicalGroup:
+    stringTokens: {"conservatism", "conservative"]
+    wikidataId: ["Q7169"]
+  islamicDemocracyIdeologicalGroup: 
+    stringTokens: ["islamicDemocracy", "islamic democracy"]
+    wikidataId: ["Q2641411"]
+  centreRightIdeologicalGroup:
+    stringTokens: ["centreRight", "centre right", "centre right", "moderate right", "lean right"]
+    wikidataId: ["Q844072"]
+  socialConservatismIdeologicalGroup: 
+    stringTokens: ["socialConservatism" "social conservatism", "societal conservatism"]
+    wikidataId: ["Q1414298"]
+  economicLiberalismIdeologicalGroup:
+    stringTokens: ["economic liberalism", "economicLiberalism"]
+    wikidataId: ["Q729119"]
+  islamistIdeologicalGroup:
+    stringTokens: ["islamist", "islamism", "muslim right" "islamic extremism", "radical islam"]
+    wikidataId: ["Q189746"]
+  sunniIslamIdeologicalGroup:
+    stringTokens: ["sunni Islam", "sunniIslam"]
+    wikidataId: ["Q483654"]
+  farLeftIdeologicalGroup:
+    stringTokens: ["farLeft", "far left", "far-left", "extreme left"]
+    wikidataId: ["Q1129409"]
+  communismIdeologicalGroup:
+    stringTokens:  ["communism"]
+    wikidataId: ["Q6186"]
+  humanismIdeologicalGroup:
+    stringTokens: ["humanism"]
+    wikidataId: ["Q46158"]
+ nasserismIdeologicalGroup:
+   stringTokens: ["nasserism"]
+   wikidataId: ["Q1813600"]
+ monarchismIdeologicalGroup: 
+   stringTokens: ["monarchism"]
+   wikidataId: ["Q216669"]
+ pluralismIdeologicalGroup:
+   stringTokens: ["pluralism"]
+   wikidataId: ["Q333024"]
+ apartheidIdeologicalGroup:
+   stringTokens: ["apartheid", "racial separation"]
+   wikidataId: ["Q11409"]
+ centreIdeologicalGroup:
+   stringTokens: ["centre", "center", "centrism", "centrist"]
+   wikidataId: ["Q6587194"]
+ populismIdeologicalGroup:
+   stringTokens: ["populism"]
+   wikidataId: ["Q180490"]
+ socialLiberalismIdeologicalGroup:
+   stringTokens: ["socialLiberalism", "left-liberalism", "social liberalism"]
+   wikidataId: ["Q201712"]
+  
 
+  
 
-Labor movement
-Christian democracy
-Uajaama
-Antiauthoritarianism
-Pan arabism
-Baathism
-Anticorruption
-Environmentalism
-christian
-"Berberism",
-Wahhabism
-Takfirism
-Anti Shia
-fundamentalistIslam
-Jihadism
-antichristian
-Qutbism
-Ethnicnationalism
-irredentism
-Panislam
-Salafism
-Antiwest
-anti imperialism
-territorialIndependence
-christianTheocracy
- "Secularism"]
-Right
-Conservatism
-Islamic democracy
-Centreright
-secularism
-, "socialConservatism", "economicLiberalism", "islamism", "sunniIslam"]
-"farLeft", "communism",
-Environmentalism
-Humanism
-Nasserism
-Monarchism
-Statism
-pluralism
-apartheid
-Centre
-Populism
-socialLiberalism
 Anti zionist
 Reformism
 Mixed economy
@@ -4650,7 +4740,6 @@ localism
 Federalism
 civicNationalism", "christianDemocracy", "conservatism
 Left
-Far left
 Leftdemocracy
 Progressivism
 Bigtent
