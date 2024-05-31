@@ -4531,6 +4531,143 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Zuni", "A:shiwi", "Zuñi"]
     wikidataID: ["Q231317"]
     religionsMostPracticed: [""]
+##ideological groups
+   centreLeftIdeologicalGroup:
+     stringTokens: ["centreLeft", "center left", "centre left", "moderate left", "lean left"]
+     wikidataID: ["Q737014"]
+   socialDemocracyIdeologicalGroup:
+     stringTokens: ["socialDemocracy", "social democracy", "social democrat"]
+     wikidataId: ["Q121254"]
+   nationalismIdeologicalGroup:
+     stringTokens: ["nationalism", "nationalist"]
+     wikidataID: ["Q6235"]
+   christianRightIdeologicalGroup:
+     stringTokens: ["christian right", "christianright", "right-wing christianity", "religious right"]
+     wikidataId: ["Q1322213"]
+   nationalConservatismIdeologicalGroup:
+     stringTokens: ["national conservatism", "nationalConservatism", "národní konzervatismus"]
+     wikidataID: ["Q852739"]
+   revolutionaryDemocracyIdeologicalGroup: 
+     stringTokens: ["revolutionaryDemocracy", "revolutionary Democracy"]
+   minorityRightsIdeologicalGroup:
+     stringTokens: ["minorityRights", "minority Rights"]
+     wikidataId: ["Q1369260"]
+   statismIdeologicalGroup:
+     stringTokens: ["statism"]
+     wikidataId: ["Q322294"]
+   antiMuslimIdeologicalGroup:
+     stringTokens: ["antiMuslim", "anti-Muslim", "anti Muslim", "islamophobia"]
+     wikidataId: ["Q486296"]
+   nativismIdeologicalGroup:
+     stringTokens: ["nativism"]
+     wikidataId: ["Q1969722"]
+   shariaIdeologicalGroup:
+     stringTokens: ["sharia", "shar'ia", "Muslim law", "shariah", "islamic law", "shari'a", "shariat", "shareeah", "syariah", "sariatu", "islamic laws",
+                    "islamic sharia", "shari'a", "shar'", "shara'i", "shir'a", "shari"]
+     wikidataId: ["Q482752"]
+   whiteNationalismIdeologicalGroup:
+     stringTokens: ["whiteNationalism", "white nationalism", "white power"]
+     wikidataId: ["Q278929"]
+   antiSemitismIdeologicalGroup:
+     stringTokens: ["anti-semitism", "antiSemitism", "anti semitism"]
+     wikidataId: ["Q22649"]
+   negrophobiaIdeologicalGroup:
+     stringTokens: ["negrophobia", "anti-black racism"]
+     wikidataId: ["Q21071541"]
+   sufismIdeologicalGroup:
+     stringTokens: ["sufism"]
+     wikidataId: ["Q9603"]
+   whiteSupremacyIdeologicalGroup:
+     stringTokens: ["white supremacy", "whiteSupremacy", "white supremacism"]
+     wikidataId: ["Q698752"]
+ scientificRacismIdeologicalGroup: 
+    stringTokens: ["scientific racism', "scientificRacism", "race realism", "race biology", "racial biology", "human biodiversity", "biological racism", 
+                   "racialism", "race science"]
+    wikidataId: ["Q1772910"]
+ internalResistancetoApartheidIdeologicalGroup:
+   stringTokens: ["internalResistancetoApartheid", "internal resistance to apartheid", "anti-apartheid", "anti-apartheid resistance", "anti-apartheid struggle"]
+   wikidataId: ["Q3354415"]
+ sankarismIdeologicalGroup: 
+   stringTokens: ["sankarism"]
+   wikidataId: ["Q19894672"]
+ antiCapitalismIdeologicalGroup:
+   stringTokens: ["antiCapitalism", "anti-capitalism", "anti capitalism"]
+   wikidataId: ["Q389647"]
+
+
+Labor movement
+Christian democracy
+Uajaama
+Antiauthoritarianism
+Pan arabism
+Baathism
+Anticorruption
+Environmentalism
+christian
+"Berberism",
+Wahhabism
+Takfirism
+Anti Shia
+fundamentalistIslam
+Jihadism
+antichristian
+Qutbism
+Ethnicnationalism
+irredentism
+Panislam
+Salafism
+Antiwest
+anti imperialism
+territorialIndependence
+christianTheocracy
+ "Secularism"]
+Right
+Conservatism
+Islamic democracy
+Centreright
+secularism
+, "socialConservatism", "economicLiberalism", "islamism", "sunniIslam"]
+"farLeft", "communism",
+Environmentalism
+Humanism
+Nasserism
+Monarchism
+Statism
+pluralism
+apartheid
+Centre
+Populism
+socialLiberalism
+Anti zionist
+Reformism
+Mixed economy
+Liberal Islam
+Ethnicfederalism
+Plurinationalism
+Constitutionalism
+Regionalism
+localism
+Federalism
+civicNationalism", "christianDemocracy", "conservatism
+Left
+Far left
+Leftdemocracy
+Progressivism
+Bigtent
+Maoism
+Authoritarianism
+Christianleft
+panAfrican
+Socialism
+Republicanism
+Francophile
+Independence
+Marxism
+Anticommunist
+Liberal democracy
+
+
+
 
   
   
