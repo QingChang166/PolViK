@@ -287,6 +287,7 @@ concepts:
    regionsMostActive: ["Northern Uganda"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1987-Present"]
    wikidataQnode: ["Q108462"]
+   ideologicalOrientation: ["christianTheocracy"]
   ADFarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Allied Democratic Forces", "ADF"]
    associatedEthnicGroup: ["NandeEthnicGroup"]
@@ -294,6 +295,7 @@ concepts:
    regionsMostActive: ["Western Uganda"]
    wikidataQnode: ["Q1133743"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1996-Present"]
+   ideologicalOrientation: ["islamist"]
   NALUarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["NALU", "National Army for the Liberation of Uganda"]
    associatedReligion: ["Islam"]
@@ -307,6 +309,7 @@ concepts:
    regionsMostActive: ["Northern Uganda"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1986-1987"]
    wikidataQnode: ["Q1625351"]
+   ideologicalOrientation: ["christian"]
   UNRFarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UNRF", "Uganda National Rescue Front"]
    regionsMostActive: ["Northern Uganda"]
@@ -334,11 +337,13 @@ concepts:
    stringTokens: ["UNLF", "Uganda National Liberation Front"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1978-1979"]
    wikidataQnode: ["Q2738248"]
+   ideologicalOrientation: ["democracy"]
   SUMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["SUM", "Save Uganda Movement"]
    regionsMostActive: ["Central Uganda"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1981-1985"]
    wikidataQnode: ["Q104835651"]
+   ideologicalOrientation: ["nationalism"]
   PRedemptionAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Redemption Army", "PRA"]
    regionsMostActive: ["Western Uganda"]
@@ -362,6 +367,7 @@ concepts:
    stringTokens: ["PRA", "Popular Resistance Army"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-1990"]
    wikidataQnode: ["Q7229726"]
+   ideologicalOrientation: ["democracy"]
   NRAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["NRA", "National Resistance Army"]
    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1983-1990"]
