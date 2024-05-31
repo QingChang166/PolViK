@@ -320,38 +320,42 @@ concepts:
  ###armedNonGovernmentalOrganizedGroups
     
   PFarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["PatriPatriotic Frontotic Front", "PF"]
+   stringTokens: ["Patriotic Front", "PF"]
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q7148042"]
    yearsActive: ["1963-1980"]
+   ideologicalOrientation: ["antiApartheid"]
    
   ZIPRAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Zimbabwe People's Revolutionary Army", "ZIPRA", "Zimbabwe African People's Union", "ZAPU"]
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q3426171"]
    yearsActive: ["1964-1980"]
+   ideologicalOrientation: ["antiApartheid", "marxism"]
    
   RenamoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Renamo", "Resistência Nacional Moçambicana", "Mozambican National Resistance", "MNR", "RNM", "Movimento Nacional da Resistência de Mocambique"]
    associatedEthnicGroup: ["Shona", "Ndau"]
    wikidataQnode: ["Q1425821"]
    yearsActive: ["1975-present"]
+   ideologicalOrientation: ["nationalism", "conservatism", "economicLiberalism", "antiCommunism"]
    
   ZANLAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Zimbabwe African National Liberation Army", "ZANLA", "Zimbabwe African National Union", "ZANU", "ZANU-PF", "Zimbabwe African National Union-PF"] 
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q4570814"]
    yearsActiveasParty: ["1965-1980"]
+   ideologicalOrientation: {"nationalism", "socialism", "panAfricanism"]
  
-   
   AlShababarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Shabab of Zimbabwe", "Al-Shabab"] #	The group is commanded by Tapiwa Muto, a ZANU-PF youth officer.
    associatedEthnicGroup: []
    wikidataQnode: []
    yearsActiveasParty: ["2012-present"]
+   ideologicalOrientation: ["sunniIslam", "jihadism", "salafism"]
    
   ChipanganoarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["Chipangano "] 
+   stringTokens: ["Chipangano"] 
    associatedEthnicGroup: []
    wikidataQnode: []
    yearsActiveasParty: ["1980-present"] # Chipangano was created by the governing party ZANU-PF in the 1980s.
@@ -387,6 +391,7 @@ concepts:
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q1910161"]
    yearsActiveasParty: ["1997-2013"]
+   ideologicalOrientation: ["nationalism", "populism", "antiImperialism", "panAfricanism"]
  
   PeoplesMilitiaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Militia"] 
