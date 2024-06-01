@@ -4724,36 +4724,93 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
  socialLiberalismIdeologicalGroup:
    stringTokens: ["socialLiberalism", "left-liberalism", "social liberalism"]
    wikidataId: ["Q201712"]
-  
+ antiZionistIdeologicalGroup:
+   stringTokens: ["antiZionist", "antizionist", "anti-Zionist", "anti zionist", "antizionism", "anti-zionism", "anti zionism"]
+   wikidataId: ["Q584548"]
+ reformismIdeologicalGroup:
+   stringTokens: ["reformism"]
+   wikidataId: ["Q878445"]
+ mixedEconomyIdeologicalGroup:
+   stringTokens: ["mixed economy", "mixedEconomy", "mixed economic system"]
+   wikidataId: ["Q191675"]
+ liberalIslamIdeologicalGroup:
+   stringTokens: ["liberalIslam", "liberal islam"]
+   wikidataId: ["Q1520581"]
+ ethnicFederalismIdeologicalGroup:
+   stringTokens: ["ethnicFederalism", "ethnic federalism"]
+   wikidataId: ["Q28130264"]
+ plurinationalismIdeologicalGroup: 
+   stringTokens: ["plurinationalism"
+   wikidataId: ["Q7205561"]
+ constitutionalismIdeologicalGroup:
+   stringTokens: ["constitutionalism"]
+   wikidataId: ["Q1194747"]
+ regionalismIdeologicalGroup:
+   stringTokens: ["regionalism"]
+   wikidataId: ["Q2684060"]
+ localismIdeologicalGroup:
+   stringTokens: ["localism"]
+   wikidataId: ["Q1149297"]
+ federalismIdeologicalGroup:
+   stringTokens: ["federalism"]
+   wikidataId: ["Q204886"]
+ civicNationalismIdeologicalGroup:
+   stringTokens: ["civicNationalism", "civic nationalism", "state nationalism", "liberal nationalism", "progressive nationalism"]
+   wikidataId: ["Q59599"]
+ christianDemocracyIdeologicalGroup:
+   stringTokens: ["christianDemocracy", "christian democracy"]
+   wikidataId: ["Q209158"]
+ leftIdeologicalGroup:
+    stringTokens: ["left", "left-wing", "leftism", "leftist"]
+    wikidataId: ["Q164597"]
+ leftDemocracyIdeologicalGroup:
+   stringTokens: ["leftDemocracy", "left democracy"]
+   wikidataId: ["Q192125"]
+ progressivismIdeologicalGroup:
+   stringTokens: ["progressivism"]
+   wikidataId: ["Q821102"]
+ bigTentIdeologicalGroup:
+   stringTokens: ["big tent", "bigTent", "catch-all party", "catch-all"]
+   wikidataId: ["Q1030814"]
+ maoismIdeologicalGroup:
+   stringTokens: ["maoism", "maoist"]
+   wikidataId: ["Q167651"]
+ authoritarianismIdeologicalGroup: 
+   stringTokens: ["authoritarianism"]
+   wikidataId: ["Q6229"]
+ christianLeftIdeologicalGroup:
+   stringTokens: ["christianLeft", "christian left", "leftist christianity"]
+   wikidataId: ["Q1080800"]
+ panAfricanismIdeologicalGroup:
+   stringTokens: ["panAfricanism', "pan African", "pan-African", "panAfrican", "pan-Africanism", "pan Africanism"]
+   wikidataId: ["Q282739"]
+ socialismIdeologicalGroup:
+   stringTokens: ["socialism", "socialist"]
+   wikidataId: ["Q7272"]
+ republicanismIdeologicalGroup:
+   stringTokens: ["republicanism"]
+   wikidataId: ["Q877848"]
+ francophileIdeologicalGroup:
+   stringTokens: ["francophile", "gallophile"]
+   wikidataId: ["Q1445368"]
+ independenceIdeologicalGroup: 
+   stringTokens: ["independence"]
+   wikidataId: ["Q37055"]
+  marixsmIdeologicalGroup:
+    stringTokens: ["marxist", "marxism"]
+    wikidataId: ["Q7264"]
+ antiCommunistIdeologicalGroup:
+   stringTokens: ["antiCommunist", "anti communist", "anticommunist", "anti-communist"]
+   wikidataId: ["Q120115224"]
+ liberalDemocracyIdeologicalGroup:
+   stringTokens: ["liberalDemocracy", "liberal democracy"]
+   wikidataId: ["Q192125"]
+ hoxaismIdeologicalGroup: 
+   stringTokens: ["hoxhaism"]
+   wikidataId: ["Q589468"]
 
   
 
-Anti zionist
-Reformism
-Mixed economy
-Liberal Islam
-Ethnicfederalism
-Plurinationalism
-Constitutionalism
-Regionalism
-localism
-Federalism
-civicNationalism", "christianDemocracy", "conservatism
-Left
-Leftdemocracy
-Progressivism
-Bigtent
-Maoism
-Authoritarianism
-Christianleft
-panAfrican
-Socialism
-Republicanism
-Francophile
-Independence
-Marxism
-Anticommunist
-Liberal democracy
 
 
 
