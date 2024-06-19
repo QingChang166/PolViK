@@ -105,7 +105,7 @@ concepts:
    associatedEthnicGroup: ["fulaniEthnicGroup"] 
    wikidataQnode: ["Q56305291"]
   antibalakaArmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["Anti-Balaka armed group", "Anti-Balaka", "XX_branches"]
+   stringTokens: ["Anti-Balaka armed group", "Anti-Balaka"]
    wikidataQnode: ["Q15311839"]
    ideologicalOrientation: ["christian"]
   mlcjArmedNonGovernmentalOrganizedGroup:
