@@ -14,6 +14,48 @@ Knowledge graphs for countries in subSaharan Africa
 | PoliticalParty  |                                      |                                        |
 | ArmedNonGovernmentalOrganizedGroup |                   |                                        |
 
-## More Details
 
-[Your detailed project description here]
+## Attributes
+
+* **EthnicGroup**
+  - stringTokens: 
+  - wikidataQnode:
+  - languagesMostSpoken:
+  - religionsMostPracticed:
+  - livesIn:
+* **PoliticalParty**
+  - stringTokens:
+  - wikidataQnode:
+  - associatedEthnicGroup:
+  - associatedReligion
+  - yearsActiveasParty:
+* **armedNonGovernmentalOrganizedGroup**
+  - stringTokens:
+  - originCountry:
+  - regionsMostActive:
+  - associatedReligion:
+  - associatedEthnicGroup:
+  - groupType:
+  - wikidataQnode:
+  - ideologicalOrientation:
+* **linguisticGroup**
+  - stringTokens:
+  - wikidataQnode:
+  - livesIn:
+  - associatedethnicgroup:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
