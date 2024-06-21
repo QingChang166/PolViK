@@ -7,12 +7,12 @@ Knowledge graphs for countries in subSaharan Africa
 
 | Feature        | Description                           | Sources             
 |----------------|---------------------------------------|----------------------------------------:|
-|  EthnicGroup   |                                       |                                        | 
-| LinguisticGroup   |                                     |                                       | 
-| Religion      |                                          |                                        | 
-| IdeologicalGroup |                                      |                                        |
-| PoliticalParty  |                                      |                                        |
-| ArmedNonGovernmentalOrganizedGroup |                   |                                        |
+|  EthnicGroup   |    A self-identified identity group with common historical, cultural, linguistic, or religious     characteristics.                               |    Ethnologue, CIA Factbook, Joshua Project,  World Directory of Minorities and Indigenous People, Wikidata, Wikipedia                                   | 
+| LinguisticGroup   |    Language family, may include dialects and variants                                 |     Ethnologue, Wikidata, Wikipedia                                  | 
+| Religion      |       System of beliefs, practices and values.                                   |        Ethnologue, Joshua Project, Wikidata, Wikipedia                                | 
+| IdeologicalGroup |             A specific set of beliefs about social, cultural, economic and political   issues.                     |                                        |
+| PoliticalParty  |                                      |                                        | 
+| ArmedNonGovernmentalOrganizedGroup |                   |                                        | Armed Group Dataset, ACLED, UCDP, Wikidata, Wikipedia
 
 
 ## Attributes
