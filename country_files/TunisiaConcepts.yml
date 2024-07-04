@@ -9,7 +9,7 @@ concepts:
      wikidataQnode: ["Q35323"]
      languagesMostSpoken: ["Tunisian Arabic", "Arabic"]
      religionsMostPracticed: ["Islam"]
-     livesIn: 
+     livesIn: []
 
   ## linguisticgroups
     TunisianarabicLinguisticGroup:
