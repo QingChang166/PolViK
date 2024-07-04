@@ -6,7 +6,9 @@ concepts:
     semibantiEthnicGroup:
      stringTokens: ["Semi-Bantu"]
      wikidataQnode: ["Q15975413"]
+     languagesMostSpoken: [""]
      religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
     bamilekeEthnicGroup:
      stringTokens: ["Bamileke people"] # it is a semi-Bantu community
      wikidataQnode: ["Q806017"]
@@ -29,6 +31,7 @@ concepts:
      stringTokens: ["Bassa people", "Bassa"]
      languagesMostSpoken: ["Bantu languages"]
      religionsMostPracticed: ["African religion"]
+     livesIn: [""]
     dualaEthnicGroup:
      stringTokens: ["Duala", "Duala people"]
      wikidataQnode: ["Q1262591"]
