@@ -25,7 +25,7 @@ concepts:
      religionsMostPracticed: ["Hindu"]
      livesIn: 
 
-  ## ethnicgroups
+  ## linguisticgroups
    MalagasyLinguisticGroup:
      stringTokens: ["Malagasy language"]
      wikidataQnode: ["Q7930"]
