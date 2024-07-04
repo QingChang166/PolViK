@@ -43,20 +43,20 @@ concepts:
      stringTokens: ["Ganguela", "Nganguela", "Ganguela people"] 
      wikidataQnode: ["Q113579872"]
      languagesMostSpoken: ["Ganguela"]
-     religionsMostPracticed: 
+     religionsMostPracticed: [""]
      livesIn: [""]
 
     XindongaEthnicGroup:
      stringTokens: ["Xindonga", "Xindonga people"]
      wikidataQnode: ["Q2577356"]
      languagesMostSpoken: ["Xindonga"]
-     religionsMostPracticed: 
+     religionsMostPracticed: [""]
      livesIn: ["Cuando Cubango"]
 
     YombeEthnicGroup:
      stringTokens: ["Yombe people", "Yombe", "Kiombe", "Majombe", "Mayombe", "Mayumba", "Mayumbe", "Yumbe"]
      wikidataQnode: ["Q1717132"]
-     languagesMostSpoken: 
+     languagesMostSpoken: [""]
      religionsMostPracticed: ["Traditional religion"]
      livesIn: ["Cabindan Mayombe"]
 
