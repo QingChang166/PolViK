@@ -6,19 +6,24 @@ concepts:
       wikidataQnode: ["Q504685"]
       languagesMostSpoken: ["Bambara language"]
       religionsMostPracticed: ["Islam"]
-      livesIn: ["Bamako"] 
+      livesIn: ["Bamako"]
+    samoEthnicGroup:
+      stringTokens: ["Samo", "Samo People", "Saman", "Samogo", "Samorho", "Samorrho", "Sanan", "Semou"]
+      wikidataQnode: ["Q1311522"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Bankass"]    
     fulaEthnicGroup:
-      stringTokens: ["Fula", "Fulani", "Fula people", "Fulani people", "Hausa", "Fulbe people", "Peul", "Peulh"]
+      stringTokens: ["Fula", "Fulani", "Fula people", "Fulani people", "Hausa", "Fulbe people", "Peul", "Peulh", "Peuhl"]
       wikidataQnode: ["Q202575"]
       religionsMostPracticed: ["Islam"]
-      livesIn: ["Mopti"]
+      livesIn: ["Mopti", "Koro"]
     tuaregEthnicGroup:
       stringTokens: ["Tuareg", "Twareg", "Touareg"]
       wikidataQnode: ["Q58843"]
       religionsMostPracticed: ["Sunni Islam"]
       livesIn: ["Kidal"]
     soninkeEthnicGroup:
-      stringTokens: ["Soninke", "Soninke people"]
+      stringTokens: ["Soninke", "Soninke people", "Marka Dafing", "Dafing","Sarakole", "Serahuli", "Seraculeh", "Maraka" "Marka Soninke", "Sooninke", "Aswanik", "Dyakanke", "Gadyaga", "Saracole", "Sarakolle", "Sarawule", "Sonike", "Toubakai", "Wakore"]
       wikidataQnode: ["Q1146970"]
       religionsMostPracticed: ["Sunni Islam"]
       livesIn: ["Soninke"] 
@@ -45,11 +50,77 @@ concepts:
       stringTokens: ["Dogon people", "Dogon"]
       wikidataQnode: ["Q215583"]
       religionsMostPracticed: ["African traditional religion", "Islam", "Christianity"]
+      livesIn: ["Bandiagara", "Koro"]
     songhaiEthnicGroup:
       stringTokens: ["Songhai", "Songhai people"]
       wikidataQnode: ["Q487902"]
       religionsMostPracticed: ["Islam"]
-    ## linguistic groups
+    alafiaEthnicGroup:
+      stringTokens: ["Alafia", "Alafia Commune", "Commune d'Alafia", "Commune de Alafia"]
+      wikidataQnode: ["Q2621465"]
+      religionsMostPracticed: ["African traditional religion"]
+      livesIn: ["Tombouctou"]
+    douekireEthnicGroup:
+      stringTokens: ["Douekire", "Douékiré", "Douékiré Commune", "Commune de Douékiré"]
+      wikidataQnode: ["Q2423610"]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou"]
+    alafiaEthnicGroup:
+      stringTokens: ["Alafia", "Alafia Commune", "Commune d'Alafia", "Commune de Alafia"]
+      wikidataQnode: ["Q2621465"]
+      religionsMostPracticed: ["African traditional religion"]
+      livesIn: ["Tombouctou"]
+    kanibozonEthnicGroup: # There is no other commune called Bozon
+      stringTokens: ["Bozon", "Kanibonzon", "Kani Bozon", "Kani-Bonzoni"]
+      wikidataQnode: ["Q1763391"]
+      religionsMostPracticed: [""]
+      livesIn: ["Mopti"]
+    boureminalyEthnicGroup:
+      stringTokens: ["Bourem-Inaly", "Bourem Inaly", "Bourem-Inaly Commune"]
+      wikidataQnode: ["Q2621448"]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou"]
+    kelinachariaEthnicGroup: # sub-commune of Bourem-Inaly
+      stringTokens: ["Kel-Inacharia", "Kel Inacharia"]
+      wikidataQnode: [""]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou"]
+    idnaneEthnicGroup:
+      stringTokens: ["Idnane"]
+      wikidataQnode: ["Q27693015"]
+      religionsMostPracticed: [""]
+      livesIn: ["Bourem"]
+    lafiaEthnicGroup:
+      stringTokens: ["Lafia", "Lafia Commune", "Commune de Lafia"]
+      wikidataQnode: ["Q2424311"]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou"]
+    yassoEthnicGroup:
+      stringTokens: ["Yasso", "Yasso Commune", "Commune de Yasso"]
+      wikidataQnode: ["Q2677733"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+    tominianEthnicGroup:
+      stringTokens: ["Tominian", "Tominian Commune", "Commune de Tominian"]
+      wikidataQnode: ["Q1767129"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+    mandiakuyEthnicGroup:
+      stringTokens: ["Mandiakuy", "Mandiakuy Commune", "Commune de Mandiakuy"]
+      wikidataQnode: ["Q2768936"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+    sanekuyEthnicGroup:
+      stringTokens: ["Sanékuy", "Sanékuy Commune", "Commune de Sanékuy", "Sanekuy", "Sanekuy Commune", "Commune de Sanekuy"]
+      wikidataQnode: ["Q2748936"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+    benenaEthnicGroup:
+      stringTokens: ["Benena", "Benena Commune", "Commune de Benena"]
+      wikidataQnode: ["Q1908029"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+     ## linguistic groups
     BambaraLinguisticGroup:
       stringTokens: ["Bambara", "Bamana", "Bamanankan"]
       wikidataQnode: ["Q33243"]
@@ -128,8 +199,8 @@ concepts:
     SamoLinguisticGroup:
       stringTokens: ["Samo", "Sane", "San", "Sa"]
       wikidataQnode: ["Q36327"]
-      livesIn: [""]
-      associatedethnicgroup: [""]
+      livesIn: ["Bankass"]
+      associatedethnicgroup: ["Samo People"]
     MooreLinguisticGroup:
       stringTokens: ["Mooré", "Moore", "More", "Mossi"]
       wikidataQnode: ["Q36096"]
@@ -205,6 +276,16 @@ concepts:
       stringTokens: ["Arab Movement of Azawad", "National Liberation Front of Azawad", "MAA", "FLNA"]
       wikidataQnode: ["Q12177450"]
       ideologicalOrientation: ["secularism", "nationalism"]
+    maacArmedNonGovernmentalOrganizedGroup: #a faction of MAA, ally of CMA
+      stringTokens: ["Mouvement arabe de l’Azawad-Coordination", "Tourmouz", "MAA-C", "MAAC", "Arab Movement of Azawad-Coordination"]
+      wikidataQnode: [""]
+      ideologicalOrientation: ["secularism", "nationalism"]
+      livesIn: ["Goundam"]
+    maapArmedNonGovernmentalOrganizedGroup: #a faction of MAA
+      stringTokens: ["Mouvement arabe de l’Azawad-Plateforme", "Ould Ich", "Oualad Ich"]
+      wikidataQnode: [""]
+      ideologicalOrientation: ["secularism", "nationalism"]
+      livesIn: ["Goundam"]
     hcuaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["High Council for the Unity of Azawad", "HCUA", "Haut conseil pour l'unité de l'Azawad"]
       wikidataQnode: ["Q15141050"]
