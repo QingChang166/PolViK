@@ -1,0 +1,10 @@
+@article{UCDP,
+  title={Introducing the UCDP georeferenced event dataset},
+  author={Sundberg, Ralph and Melander, Erik},
+  journal={Journal of peace research},
+  volume={50},
+  number={4},
+  pages={523--532},
+  year={2013},
+  publisher={Sage Publications Sage UK: London, England}
+}
