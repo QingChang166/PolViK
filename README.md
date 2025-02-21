@@ -1,4 +1,4 @@
-##country_files
+# Country Files
 
 Knowledge graphs for countries in subSaharan Africa
 
@@ -38,13 +38,29 @@ Knowledge graphs for countries in subSaharan Africa
   - groupType:
   - wikidataQnode:
   - ideologicalOrientation:
+  - SpellConceptPath: 
 * **linguisticGroup**
   - stringTokens:
   - wikidataQnode:
   - livesIn:
   - associatedethnicgroup:
 
- 
+# Observation Spells
+Knowledge graphs for the temporal and spatial presence of armed groups in the country files.
+
+## Data Sources
+UCDP
+
+## Attributes
+
+* **UCDP Events**
+  - spell_start:
+  - spell_end:
+  - locationConceptPath:
+  - groupConceptPath:
+  - SourceOfInfo:
+  - DateOfInfo”:
+  - coder:
 
 
 
