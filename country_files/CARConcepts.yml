@@ -214,6 +214,16 @@ concepts:
    yearsActiveasArmedGroup: ["2003-present"]
    wikidataQnode: ["Q144806"]
    ideologicalOrientation: ["nationalism", "populism", "christianDemocracy"]
+  cndsArmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["The Coalition for National Defense and Security", "Conseil National pour le Défense et la Sécurité", "CNDS"]
+   yearsActiveasArmedGroup: [""]
+   wikidataQnode: [""]
+   ideologicalOrientation: [""]
+  rdrArmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Rassemblement des républicains", "Rally of Republicans", "RDR"]
+   yearsActiveasArmedGroup: ["2017"]
+   wikidataQnode: [""]
+   ideologicalOrientation: [""]
 
    
 ##politicalparty
