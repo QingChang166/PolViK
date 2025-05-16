@@ -360,6 +360,7 @@ concepts:
       stringTokens: ["Movement for the Salvation of Azawad", "MSA"]
       wikidataQnode: ["Q28498949"]
       associatedEthnicGroup: ["tuaregEthnicGroup"]
+      #associatedLinguisticGroup: ["TadaksahakLinguisticGroup"]
       ideologicalOrientation: ["nationalism", "secularism"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     mlfArmedNonGovernmentalOrganizedGroup:
