@@ -33,7 +33,7 @@ concepts:
       religionsMostPracticed: ["Islam"]
       livesIn: ["Kayes"] 
     boboEthnicGroup:
-      stringTokens: ["Bobo", "Bobo people"]
+      stringTokens: ["Bobo", "Bobo people", "Bwa"]
       wikidataQnode: ["Q888796"]
       religionsMostPracticed: ["African traditional religion"]
     bozoEthnicGroup:
@@ -360,7 +360,6 @@ concepts:
       stringTokens: ["Movement for the Salvation of Azawad", "MSA"]
       wikidataQnode: ["Q28498949"]
       associatedEthnicGroup: ["tuaregEthnicGroup"]
-      #associatedLinguisticGroup: ["TadaksahakLinguisticGroup"]
       ideologicalOrientation: ["nationalism", "secularism"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     mlfArmedNonGovernmentalOrganizedGroup:
