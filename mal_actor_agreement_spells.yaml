@@ -1,0 +1,1334 @@
+MAL006_Daoussahaq_community_01:
+  Actor_ID:
+  - Daoussahaq_community
+  Agreement_Content:
+  - Agreement between the Daoussahaq community in Talatayt (Mali) and Peulh community
+    in Niger on the peaceful exploitation of natural resources
+  Agreement_ID:
+  - MAL006
+  Date:
+  - 13-05-16
+  Location:
+  - Talataye
+  Location_ID:
+  - GID_153724
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL006_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Agreement between the Daoussahaq community in Talatayt (Mali) and Peulh community
+    in Niger on the peaceful exploitation of natural resources
+  Agreement_ID:
+  - MAL006
+  Date:
+  - 13-05-16
+  Location:
+  - Talataye
+  Location_ID:
+  - GID_153724
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL002_Daoussahaq_community_01:
+  Actor_ID:
+  - Daoussahaq_community
+  Agreement_Content:
+  - Additional Agreement on the Reconciliation between the Daoussahaq and Peuhls Communities
+    relating to the peaceful use of natural resources along the Mali-Niger border
+  Agreement_ID:
+  - MAL002
+  Date:
+  - 07-11-16
+  Location:
+  - Ménaka and Andéramboukane
+  Location_ID:
+  - GID_152286
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL002_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Additional Agreement on the Reconciliation between the Daoussahaq and Peuhls Communities
+    relating to the peaceful use of natural resources along the Mali-Niger border
+  Agreement_ID:
+  - MAL002
+  Date:
+  - 07-11-16
+  Location:
+  - Ménaka and Andéramboukane
+  Location_ID:
+  - GID_152286
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL016_Alafia_community_01:
+  Actor_ID:
+  - Alafia_community
+  Agreement_Content:
+  - Peace Charter of the communes of Alafia Doukeire and Salam
+  Agreement_ID:
+  - MAL016
+  Date:
+  - 28-01-18
+  Location:
+  - Alafia, Doukeire, and Salam municipalities
+  Location_ID:
+  - GID_153713
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL016_Douékiré_community_01:
+  Actor_ID:
+  - Douékiré_community
+  Agreement_Content:
+  - Peace Charter of the communes of Alafia Doukeire and Salam
+  Agreement_ID:
+  - MAL016
+  Date:
+  - 28-01-18
+  Location:
+  - Alafia, Doukeire, and Salam municipalities
+  Location_ID:
+  - GID_153713
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL016_Salam_community_01:
+  Actor_ID:
+  - Salam_community
+  Agreement_Content:
+  - Peace Charter of the communes of Alafia Doukeire and Salam
+  Agreement_ID:
+  - MAL016
+  Date:
+  - 28-01-18
+  Location:
+  - Alafia, Doukeire, and Salam municipalities
+  Location_ID:
+  - GID_153713
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL020_Tarbanassa_community_01:
+  Actor_ID:
+  - Tarbanassa_community
+  Agreement_Content:
+  - Understanding between the Tarbanasa, Ibawen and Targaitamout communities in the
+    Tamalet area
+  Agreement_ID:
+  - MAL020
+  Date:
+  - 28-04-18
+  Location:
+  - Tamalet area, Anderamboukane municipality, Mali-Niger border
+  Location_ID:
+  - GID_151567
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL020_Ibahawan_community_01:
+  Actor_ID:
+  - Ibahawan_community
+  Agreement_Content:
+  - Understanding between the Tarbanasa, Ibawen and Targaitamout communities in the
+    Tamalet area
+  Agreement_ID:
+  - MAL020
+  Date:
+  - 28-04-18
+  Location:
+  - Tamalet area, Anderamboukane municipality, Mali-Niger border
+  Location_ID:
+  - GID_151567
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL020_Targaitamout_community_01:
+  Actor_ID:
+  - Targaitamout_community
+  Agreement_Content:
+  - Understanding between the Tarbanasa, Ibawen and Targaitamout communities in the
+    Tamalet area
+  Agreement_ID:
+  - MAL020
+  Date:
+  - 28-04-18
+  Location:
+  - Tamalet area, Anderamboukane municipality, Mali-Niger border
+  Location_ID:
+  - GID_151567
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL018_Dogon_community_01:
+  Actor_ID:
+  - Dogon_community
+  Agreement_Content:
+  - Peace agreement between the Dogon and Fulani communities of Koro
+  Agreement_ID:
+  - MAL018
+  Date:
+  - 28-08-18
+  Location:
+  - Koro cercle
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL018_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Peace agreement between the Dogon and Fulani communities of Koro
+  Agreement_ID:
+  - MAL018
+  Date:
+  - 28-08-18
+  Location:
+  - Koro cercle
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_Dan_Nan_Ambassagou_01:
+  Actor_ID:
+  - Dan_Nan_Ambassagou
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_a_Dogon_self-defense_group_01:
+  Actor_ID:
+  - a_Dogon_self-defense_group
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_Dan_Nan_Ambassagou_02:
+  Actor_ID:
+  - Dan_Nan_Ambassagou
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_a_Dogon_self-defense_group_02:
+  Actor_ID:
+  - a_Dogon_self-defense_group
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_Peulh_community_02:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_Dan_Nan_Ambassagou_03:
+  Actor_ID:
+  - Dan_Nan_Ambassagou
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_a_Dogon_self-defense_group_03:
+  Actor_ID:
+  - a_Dogon_self-defense_group
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_Peulh_community_03:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_Dan_Nan_Ambassagou_04:
+  Actor_ID:
+  - Dan_Nan_Ambassagou
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.4_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_a_Dogon_self-defense_group_04:
+  Actor_ID:
+  - a_Dogon_self-defense_group
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.4_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL010_Peulh_community_04:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Commitment to a unilateral ceasefire from Youssouf Toloba and his armed group,
+    Dan Nan Ambassagou
+  Agreement_ID:
+  - MAL010
+  Date:
+  - 27-09-18
+  Location:
+  - Koro, Bankass, Bandiagara, and Douentza cercles (Mopti region)
+  Location_ID:
+  - MLI.6.4_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL003_Idourfane_Community_(Mali)_01:
+  Actor_ID:
+  - Idourfane_Community_(Mali)
+  Agreement_Content:
+  - Agreement between Idourfane and Ibogolitane communities from the regions of Gao
+    and Ménaka in Mali and the region of Tillabéry in Niger (Gao agreement)
+  Agreement_ID:
+  - MAL003
+  Date:
+  - 20-11-18
+  Location:
+  - Gao and Ménaka regions (Mali) and Tillabéry region (Niger)
+  Location_ID:
+  - MLI.2_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL003_Ibogolitane_Community_01:
+  Actor_ID:
+  - Ibogolitane_Community
+  Agreement_Content:
+  - Agreement between Idourfane and Ibogolitane communities from the regions of Gao
+    and Ménaka in Mali and the region of Tillabéry in Niger (Gao agreement)
+  Agreement_ID:
+  - MAL003
+  Date:
+  - 20-11-18
+  Location:
+  - Gao and Ménaka regions (Mali) and Tillabéry region (Niger)
+  Location_ID:
+  - MLI.2_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL003_Inzagalane_fraction_01:
+  Actor_ID:
+  - Inzagalane_fraction
+  Agreement_Content:
+  - Agreement between Idourfane and Ibogolitane communities from the regions of Gao
+    and Ménaka in Mali and the region of Tillabéry in Niger (Gao agreement)
+  Agreement_ID:
+  - MAL003
+  Date:
+  - 20-11-18
+  Location:
+  - Gao and Ménaka regions (Mali) and Tillabéry region (Niger)
+  Location_ID:
+  - MLI.2_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL009_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Agreement between the Peul and Bozon communities of Kewa commune for the lifting
+    of the blockade on Kouakourou (Mopti region)
+  Agreement_ID:
+  - MAL009
+  Date:
+  - 19-01-19
+  Location:
+  - Kewa municipality
+  Location_ID:
+  - GID_150112
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL009_Bozo_community_01:
+  Actor_ID:
+  - Bozo_community
+  Agreement_Content:
+  - Agreement between the Peul and Bozon communities of Kewa commune for the lifting
+    of the blockade on Kouakourou (Mopti region)
+  Agreement_ID:
+  - MAL009
+  Date:
+  - 19-01-19
+  Location:
+  - Kewa municipality
+  Location_ID:
+  - GID_150112
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL001_Alafia_community_01:
+  Actor_ID:
+  - Alafia_community
+  Agreement_Content:
+  - Addendum to the Alafia Doukire and Salam Municipal Peace Charter
+  Agreement_ID:
+  - MAL001
+  Date:
+  - 09-03-19
+  Location:
+  - Alafia, Doukeire, and Salam municipalities, particularly the Timbuktu-Goundam
+    axis
+  Location_ID:
+  - GID_153714
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL001_Douékiré_community_01:
+  Actor_ID:
+  - Douékiré_community
+  Agreement_Content:
+  - Addendum to the Alafia Doukire and Salam Municipal Peace Charter
+  Agreement_ID:
+  - MAL001
+  Date:
+  - 09-03-19
+  Location:
+  - Alafia, Doukeire, and Salam municipalities, particularly the Timbuktu-Goundam
+    axis
+  Location_ID:
+  - GID_153714
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL001_Salam_community_01:
+  Actor_ID:
+  - Salam_community
+  Agreement_Content:
+  - Addendum to the Alafia Doukire and Salam Municipal Peace Charter
+  Agreement_ID:
+  - MAL001
+  Date:
+  - 09-03-19
+  Location:
+  - Alafia, Doukeire, and Salam municipalities, particularly the Timbuktu-Goundam
+    axis
+  Location_ID:
+  - GID_153714
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL008_Kel_Inacharia_community_01:
+  Actor_ID:
+  - Kel_Inacharia_community
+  Agreement_Content:
+  - Agreement between the Kel Inacharia and sedentary communities of the circle of
+    Alafia, Bourem Inaly and Lafia
+  Agreement_ID:
+  - MAL008
+  Date:
+  - 13-03-19
+  Location:
+  - Areas in the Alafia, Lafia, and Bourem Inaly municipalities
+  Location_ID:
+  - GID_153715
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL008_Alafia_community_01:
+  Actor_ID:
+  - Alafia_community
+  Agreement_Content:
+  - Agreement between the Kel Inacharia and sedentary communities of the circle of
+    Alafia, Bourem Inaly and Lafia
+  Agreement_ID:
+  - MAL008
+  Date:
+  - 13-03-19
+  Location:
+  - Areas in the Alafia, Lafia, and Bourem Inaly municipalities
+  Location_ID:
+  - GID_153715
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL008_Bourem_Inaly_community_01:
+  Actor_ID:
+  - Bourem_Inaly_community
+  Agreement_Content:
+  - Agreement between the Kel Inacharia and sedentary communities of the circle of
+    Alafia, Bourem Inaly and Lafia
+  Agreement_ID:
+  - MAL008
+  Date:
+  - 13-03-19
+  Location:
+  - Areas in the Alafia, Lafia, and Bourem Inaly municipalities
+  Location_ID:
+  - GID_153715
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL008_Lafia_community_01:
+  Actor_ID:
+  - Lafia_community
+  Agreement_Content:
+  - Agreement between the Kel Inacharia and sedentary communities of the circle of
+    Alafia, Bourem Inaly and Lafia
+  Agreement_ID:
+  - MAL008
+  Date:
+  - 13-03-19
+  Location:
+  - Areas in the Alafia, Lafia, and Bourem Inaly municipalities
+  Location_ID:
+  - GID_153715
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL005_Dafing_community_01:
+  Actor_ID:
+  - Dafing_community
+  Agreement_Content:
+  - Agreement between the Dafing, Samogo, Fulani, Dogon and Bozo communities of the
+    Baye municipality, located in the area (“circle”) of Bankass and the region of
+    Mopti (Baye agreement)
+  Agreement_ID:
+  - MAL005
+  Date:
+  - 25-07-19
+  Location:
+  - Baye commune (Bankass cercle, Mopti region)
+  Location_ID:
+  - GID_149394
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL005_Samogo_community_01:
+  Actor_ID:
+  - Samogo_community
+  Agreement_Content:
+  - Agreement between the Dafing, Samogo, Fulani, Dogon and Bozo communities of the
+    Baye municipality, located in the area (“circle”) of Bankass and the region of
+    Mopti (Baye agreement)
+  Agreement_ID:
+  - MAL005
+  Date:
+  - 25-07-19
+  Location:
+  - Baye commune (Bankass cercle, Mopti region)
+  Location_ID:
+  - GID_149394
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL005_Dogon_community_01:
+  Actor_ID:
+  - Dogon_community
+  Agreement_Content:
+  - Agreement between the Dafing, Samogo, Fulani, Dogon and Bozo communities of the
+    Baye municipality, located in the area (“circle”) of Bankass and the region of
+    Mopti (Baye agreement)
+  Agreement_ID:
+  - MAL005
+  Date:
+  - 25-07-19
+  Location:
+  - Baye commune (Bankass cercle, Mopti region)
+  Location_ID:
+  - GID_149394
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL005_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Agreement between the Dafing, Samogo, Fulani, Dogon and Bozo communities of the
+    Baye municipality, located in the area (“circle”) of Bankass and the region of
+    Mopti (Baye agreement)
+  Agreement_ID:
+  - MAL005
+  Date:
+  - 25-07-19
+  Location:
+  - Baye commune (Bankass cercle, Mopti region)
+  Location_ID:
+  - GID_149394
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL005_Bozo_community_01:
+  Actor_ID:
+  - Bozo_community
+  Agreement_Content:
+  - Agreement between the Dafing, Samogo, Fulani, Dogon and Bozo communities of the
+    Baye municipality, located in the area (“circle”) of Bankass and the region of
+    Mopti (Baye agreement)
+  Agreement_ID:
+  - MAL005
+  Date:
+  - 25-07-19
+  Location:
+  - Baye commune (Bankass cercle, Mopti region)
+  Location_ID:
+  - GID_149394
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL013_Peulh_community_(Breeders)_01:
+  Actor_ID:
+  - Peulh_community_(Breeders)
+  Agreement_Content:
+  - Humanitarian agreement between Bambara and Bozo farmers, Fulani herders as well
+    as hunters from the area (‘circle’) of Djenné
+  Agreement_ID:
+  - MAL013
+  Date:
+  - 01-08-19
+  Location:
+  - Djenné cercle
+  Location_ID:
+  - MLI.6.3_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL013_Bambara_community_(Farmers)_01:
+  Actor_ID:
+  - Bambara_community_(Farmers)
+  Agreement_Content:
+  - Humanitarian agreement between Bambara and Bozo farmers, Fulani herders as well
+    as hunters from the area (‘circle’) of Djenné
+  Agreement_ID:
+  - MAL013
+  Date:
+  - 01-08-19
+  Location:
+  - Djenné cercle
+  Location_ID:
+  - MLI.6.3_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL013_Bozo_community_(Farmers)_01:
+  Actor_ID:
+  - Bozo_community_(Farmers)
+  Agreement_Content:
+  - Humanitarian agreement between Bambara and Bozo farmers, Fulani herders as well
+    as hunters from the area (‘circle’) of Djenné
+  Agreement_ID:
+  - MAL013
+  Date:
+  - 01-08-19
+  Location:
+  - Djenné cercle
+  Location_ID:
+  - MLI.6.3_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL013_Dozo_community_(Hunters)_01:
+  Actor_ID:
+  - Dozo_community_(Hunters)
+  Agreement_Content:
+  - Humanitarian agreement between Bambara and Bozo farmers, Fulani herders as well
+    as hunters from the area (‘circle’) of Djenné
+  Agreement_ID:
+  - MAL013
+  Date:
+  - 01-08-19
+  Location:
+  - Djenné cercle
+  Location_ID:
+  - MLI.6.3_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL019_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Peace agreement between the Fulani, Dogon and Dafing communities of the municipality
+    of Ouenkoro
+  Agreement_ID:
+  - MAL019
+  Date:
+  - 16-08-19
+  Location:
+  - Ouenkoro municipality
+  Location_ID:
+  - GID_148673
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL019_Dogon_community_01:
+  Actor_ID:
+  - Dogon_community
+  Agreement_Content:
+  - Peace agreement between the Fulani, Dogon and Dafing communities of the municipality
+    of Ouenkoro
+  Agreement_ID:
+  - MAL019
+  Date:
+  - 16-08-19
+  Location:
+  - Ouenkoro municipality
+  Location_ID:
+  - GID_148673
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL019_Dafing_community_01:
+  Actor_ID:
+  - Dafing_community
+  Agreement_Content:
+  - Peace agreement between the Fulani, Dogon and Dafing communities of the municipality
+    of Ouenkoro
+  Agreement_ID:
+  - MAL019
+  Date:
+  - 16-08-19
+  Location:
+  - Ouenkoro municipality
+  Location_ID:
+  - GID_148673
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL011_Farmers_01:
+  Actor_ID:
+  - Farmers
+  Agreement_Content:
+  - Commitments for the prevention of conflicts between farmers and breeders of Tominian
+    in the Segou region of Mali
+  Agreement_ID:
+  - MAL011
+  Date:
+  - 19-12-19
+  Location:
+  - Tominian cercle
+  Location_ID:
+  - MLI.7.7_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL011_Breeders_01:
+  Actor_ID:
+  - Breeders
+  Agreement_Content:
+  - Commitments for the prevention of conflicts between farmers and breeders of Tominian
+    in the Segou region of Mali
+  Agreement_ID:
+  - MAL011
+  Date:
+  - 19-12-19
+  Location:
+  - Tominian cercle
+  Location_ID:
+  - MLI.7.7_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL011_Bwa_(bobo)_community_01:
+  Actor_ID:
+  - Bwa_(bobo)_community
+  Agreement_Content:
+  - Commitments for the prevention of conflicts between farmers and breeders of Tominian
+    in the Segou region of Mali
+  Agreement_ID:
+  - MAL011
+  Date:
+  - 19-12-19
+  Location:
+  - Tominian cercle
+  Location_ID:
+  - MLI.7.7_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL011_Dafing_community_01:
+  Actor_ID:
+  - Dafing_community
+  Agreement_Content:
+  - Commitments for the prevention of conflicts between farmers and breeders of Tominian
+    in the Segou region of Mali
+  Agreement_ID:
+  - MAL011
+  Date:
+  - 19-12-19
+  Location:
+  - Tominian cercle
+  Location_ID:
+  - MLI.7.7_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL011_Dogon_community_01:
+  Actor_ID:
+  - Dogon_community
+  Agreement_Content:
+  - Commitments for the prevention of conflicts between farmers and breeders of Tominian
+    in the Segou region of Mali
+  Agreement_ID:
+  - MAL011
+  Date:
+  - 19-12-19
+  Location:
+  - Tominian cercle
+  Location_ID:
+  - MLI.7.7_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL011_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Commitments for the prevention of conflicts between farmers and breeders of Tominian
+    in the Segou region of Mali
+  Agreement_ID:
+  - MAL011
+  Date:
+  - 19-12-19
+  Location:
+  - Tominian cercle
+  Location_ID:
+  - MLI.7.7_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL004_Oulad_Yiâ'Ich_community_01:
+  Actor_ID:
+  - Oulad_Yiâ'Ich_community
+  Agreement_Content:
+  - Agreement between Oualad Ich and Tourmouz community representatives
+  Agreement_ID:
+  - MAL004
+  Date:
+  - 20-10-20
+  Location:
+  - Nouakchott
+  Location_ID:
+  - GID_155912
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL004_Tourmouz_community_01:
+  Actor_ID:
+  - Tourmouz_community
+  Agreement_Content:
+  - Agreement between Oualad Ich and Tourmouz community representatives
+  Agreement_ID:
+  - MAL004
+  Date:
+  - 20-10-20
+  Location:
+  - Nouakchott
+  Location_ID:
+  - GID_155912
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL012_Idnane_community_01:
+  Actor_ID:
+  - Idnane_community
+  Agreement_Content:
+  - Declaration following the Idnane community meeting in Acharane
+  Agreement_ID:
+  - MAL012
+  Date:
+  - 16-11-20
+  Location:
+  - Acharane
+  Location_ID:
+  - GID_156608
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL012_Allies_in_Timbuktu_region_01:
+  Actor_ID:
+  - Allies_in_Timbuktu_region
+  Agreement_Content:
+  - Declaration following the Idnane community meeting in Acharane
+  Agreement_ID:
+  - MAL012
+  Date:
+  - 16-11-20
+  Location:
+  - Acharane
+  Location_ID:
+  - GID_156608
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL014_Dogon_community_01:
+  Actor_ID:
+  - Dogon_community
+  Agreement_Content:
+  - Peace Agreement between the Dogon & Peulh communities of Bondo, Dioungani, and
+    Koro
+  Agreement_ID:
+  - MAL014
+  Date:
+  - 12-01-21
+  Location:
+  - Koro Circle
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL014_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Peace Agreement between the Dogon & Peulh communities of Bondo, Dioungani, and
+    Koro
+  Agreement_ID:
+  - MAL014
+  Date:
+  - 12-01-21
+  Location:
+  - Koro Circle
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL017_Dogon_community_01:
+  Actor_ID:
+  - Dogon_community
+  Agreement_Content:
+  - Peace agreement between the Dogon & Peulh communities of Dougoutènè I, Dougoutènè
+    II, Koporo Kendié Na, Koporo Pen, Pel Maoudé and Youdiou
+  Agreement_ID:
+  - MAL017
+  Date:
+  - 22-01-21
+  Location:
+  - Koro Circle
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL017_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Peace agreement between the Dogon & Peulh communities of Dougoutènè I, Dougoutènè
+    II, Koporo Kendié Na, Koporo Pen, Pel Maoudé and Youdiou
+  Agreement_ID:
+  - MAL017
+  Date:
+  - 22-01-21
+  Location:
+  - Koro Circle
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL015_Dogon_community_01:
+  Actor_ID:
+  - Dogon_community
+  Agreement_Content:
+  - Peace Agreement between the Dogon & Peulh communities of Madougou and Barapirely
+  Agreement_ID:
+  - MAL015
+  Date:
+  - 24-01-21
+  Location:
+  - Koro Circle
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL015_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Peace Agreement between the Dogon & Peulh communities of Madougou and Barapirely
+  Agreement_ID:
+  - MAL015
+  Date:
+  - 24-01-21
+  Location:
+  - Koro Circle
+  Location_ID:
+  - MLI.6.5_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL007_Dogon_community_01:
+  Actor_ID:
+  - Dogon_community
+  Agreement_Content:
+  - Agreement between the Dogon, Dafing and Fulani communities in the communes of
+    Diallassagou, Koulogon Habe, Lassagou Habe, Segue, Soubala, Sokoura and Tori
+  Agreement_ID:
+  - MAL007
+  Date:
+  - 07-02-21
+  Location:
+  - Diallassagou
+  Location_ID:
+  - GID_149408
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL007_Peulh_community_01:
+  Actor_ID:
+  - Peulh_community
+  Agreement_Content:
+  - Agreement between the Dogon, Dafing and Fulani communities in the communes of
+    Diallassagou, Koulogon Habe, Lassagou Habe, Segue, Soubala, Sokoura and Tori
+  Agreement_ID:
+  - MAL007
+  Date:
+  - 07-02-21
+  Location:
+  - Diallassagou
+  Location_ID:
+  - GID_149408
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
+MAL007_Dafing_community_01:
+  Actor_ID:
+  - Dafing_community
+  Agreement_Content:
+  - Agreement between the Dogon, Dafing and Fulani communities in the communes of
+    Diallassagou, Koulogon Habe, Lassagou Habe, Segue, Soubala, Sokoura and Tori
+  Agreement_ID:
+  - MAL007
+  Date:
+  - 07-02-21
+  Location:
+  - Diallassagou
+  Location_ID:
+  - GID_149408
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  coder:
+  - Zhejun, Merve
