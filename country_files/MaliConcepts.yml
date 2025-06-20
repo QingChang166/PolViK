@@ -322,6 +322,12 @@ concepts:
       wikidataQnode: ["Q12177450"]
       ideologicalOrientation: ["secularism", "nationalism"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    mnlaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Azawad National Liberation Movement", "National Movement for the Liberation of Azawad", "MNLA", "Mouvement national de libération de l'Azawad"] # dynamic data structure
+      wikidataQnode: ["Q853699"]
+      ideologicalOrientation: ["secularism", "nationalism"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]  
     maacArmedNonGovernmentalOrganizedGroup: #a faction of MAA, ally of CMA
       stringTokens: ["Mouvement arabe de l’Azawad-Coordination", "Tourmouz", "MAA-C", "MAAC", "Arab Movement of Azawad-Coordination"]
       wikidataQnode: [""]
@@ -392,7 +398,7 @@ concepts:
       associatedEthnicGroup: [""]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     isArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["Islamic State", "IS"]
+      stringTokens: ["Islamic State", "IS", "ISLAMIC STATE IN THE GREATER SAHARA", "ISGS"]
       wikidataQnode: ["Q2429253"]
       ideologicalOrientation: ["islamism", "jihadist"]
       associatedEthnicGroup: [""]
@@ -416,7 +422,7 @@ concepts:
       associatedEthnicGroup: [""]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     jnimArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal-Muslimin", "Groupe de soutien à l'islam et aux musulmans", "GSIM" "Nusrat al-Islam", "Group to Support Islam and Muslims"]
+      stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal-Muslimin", "Groupe de soutien à l'islam et aux musulmans", "GSIM", "Nusrat al-Islam", "Group to Support Islam and Muslims"]
       wikidataQnode: ["Q28877411"]
       ideologicalOrientation: ["islamist", "salafism", "jihadism"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
