@@ -298,7 +298,7 @@ concepts:
       ideologicalOrientation: ["antiWest", "islamist", "salafism", "jihadism"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     murabitunArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["al-Murabitun", "Al-Mourabitoun"]
+      stringTokens: ["al-Murabitun", "Al-Mourabitoun"] # merged by signinblood and MUJAO in 2013-08
       wikidataQnode: ["Q16525650"]
       ideologicalOrientation: ["jihadism"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
@@ -349,7 +349,7 @@ concepts:
       wikidataQnode: ["Q15141050"]
       ideologicalOrientation: {"nationalism", "islamist"]
     cmaArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["Coordination for the Movements of Azawad", "CMA"]
+      stringTokens: ["Coordination for the Movements of Azawad", "CMA"] # merged by MAA-C, MNLA and MIA in 2014-10
       wikidataQnode: ["Q19955892"]
       ideologicalOrientation: ["nationalism", "berberism"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
@@ -422,7 +422,7 @@ concepts:
       associatedEthnicGroup: [""]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     jnimArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal-Muslimin", "Groupe de soutien à l'islam et aux musulmans", "GSIM", "Nusrat al-Islam", "Group to Support Islam and Muslims"]
+      stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal-Muslimin", "Groupe de soutien à l'islam et aux musulmans", "GSIM", "Nusrat al-Islam", "Group to Support Islam and Muslims"] # merger of  Ansar Dine, AQIM and al-Mourabitoun on 2 March 2017: https://en.wikipedia.org/wiki/Al-Mourabitoun_(militant_group)
       wikidataQnode: ["Q28877411"]
       ideologicalOrientation: ["islamist", "salafism", "jihadism"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
