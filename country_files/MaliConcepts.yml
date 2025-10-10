@@ -23,7 +23,7 @@ concepts:
       religionsMostPracticed: ["Sunni Islam"]
       livesIn: ["Kidal", "Ménaka", "Ansongo", "Goundam"]
     soninkeEthnicGroup:
-      stringTokens: ["Soninke", "Soninke people", "Marka Dafing", "Dafing","Sarakole", "Serahuli", "Seraculeh", "Maraka" "Marka Soninke", "Sooninke", "Aswanik", "Dyakanke", "Gadyaga", "Saracole", "Sarakolle", "Sarawule", "Sonike", "Toubakai", "Wakore"]
+      stringTokens: ["Soninke", "Soninke people", "Marka Dafing", "Dafing","Sarakole", "Serahuli", "Seraculeh", "Maraka" ,"Marka Soninke", "Sooninke", "Aswanik", "Dyakanke", "Gadyaga", "Saracole", "Sarakolle", "Sarawule", "Sonike", "Toubakai", "Wakore"]
       wikidataQnode: ["Q1146970"]
       religionsMostPracticed: ["Sunni Islam"]
       livesIn: ["Soninke"] 
@@ -268,6 +268,7 @@ concepts:
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     ansaralshariaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ansar al-Sharia"]
+      associatedEthnicGroup: ["Arab people"]
       wikidataQnode: ["Q4669205"]
       ideologicalOrientation: ["islamist", "salafism", "jihadism"]
     atnmcArmedNonGovernmentalOrganizedGroup:
@@ -286,30 +287,39 @@ concepts:
       stringTokens: ["Ansar Dine", "Ansar al-Din", "AAD"]
       wikidataQnode: ["Q568900"]
       ideologicalOrientation: ["salafism", "jihadism"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     aqimArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["AQIM", "Al-Qaeda in the Lands of the Islamic Maghreb", "al-Qaida in the Islamic Maghreb", "Organization of al-Qa'ida in the Land of the Islamic Maghreb"]
       wikidataQnode: ["Q2635966"]
       ideologicalOrientation: ["islamist", "salafism", "jihadism"]
+      associatedEthnicGroup: ["Songhai people", "Arab People", "Fulani", "Bambara people"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     ansarulsislamArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["Ansar ul Islam", "Ansarul Islam", "Ansaroul Islam"]
+      stringTokens: ["Ansar ul Islam", "Ansarul Islam", "Ansaroul Islam", "Ansar al Islam"]
       wikidataQnode: ["Q28499712"]
       ideologicalOrientation: ["antiWest", "islamist", "salafism", "jihadism"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     murabitunArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["al-Murabitun", "Al-Mourabitoun"] # merged by signinblood and MUJAO in 2013-08
       wikidataQnode: ["Q16525650"]
       ideologicalOrientation: ["jihadism"]
+      associatedEthnicGroup: ["tuaregEthnicGroup", "Arab People"]
+      activeRegion: ["Timbuktu", "Kidal", "Gao"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     mujaoArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["MUJAO", "RSF", "Movement for Oneness and Jihad in West Africa", "MUJWA", "Mouvement pour l'unicité et le jihad en Afrique de l'Ouest"]
       wikidataQnode: ["Q550108"]
       ideologicalOrientation: ["jihadism"]
+      associatedEthnicGroup: []
+      activeRegion: ["Timbuktu", "Azawad", "Gao", "Menaka"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     fiaaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Arab Islamic Front of Azawad", "FIAA"]
       wikidataQnode: ["Q3088499"]
+      associatedEthnicGroup: ["Hassani", "Arab People"]
+      activeRegion: ["Azawad"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     ambassagouArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Dan na Ambassagou"]
@@ -321,6 +331,8 @@ concepts:
       stringTokens: ["Arab Movement of Azawad", "National Liberation Front of Azawad", "MAA", "FLNA"] # dynamic data structure
       wikidataQnode: ["Q12177450"]
       ideologicalOrientation: ["secularism", "nationalism"]
+      associatedEthnicGroup: ["Arab People"]
+      activeRegion: ["Azawad"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     mnlaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Azawad National Liberation Movement", "National Movement for the Liberation of Azawad", "MNLA", "Mouvement national de libération de l'Azawad"] # dynamic data structure
@@ -332,11 +344,13 @@ concepts:
       stringTokens: ["Mouvement arabe de l’Azawad-Coordination", "Tourmouz", "MAA-C", "MAAC", "Arab Movement of Azawad-Coordination"]
       wikidataQnode: [""]
       ideologicalOrientation: ["secularism", "nationalism"]
+      associatedEthnicGroup: ["Arab People"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     maapArmedNonGovernmentalOrganizedGroup: #a faction of MAA
       stringTokens: ["Mouvement arabe de l’Azawad-Plateforme", "Ould Ich", "Oualad Ich"]
       wikidataQnode: [""]
       ideologicalOrientation: ["secularism", "nationalism"]
+      associatedEthnicGroup: ["Arab People"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     fplaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["FPLA", "Popular Liberation Front of Azawad"]
@@ -347,14 +361,18 @@ concepts:
     hcuaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["High Council for the Unity of Azawad", "HCUA", "Haut conseil pour l'unité de l'Azawad"]
       wikidataQnode: ["Q15141050"]
-      ideologicalOrientation: {"nationalism", "islamist"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      ideologicalOrientation: ["nationalism", "islamist"]
     cmaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Coordination for the Movements of Azawad", "CMA"] # merged by MAA-C, MNLA and MIA in 2014-10
       wikidataQnode: ["Q19955892"]
       ideologicalOrientation: ["nationalism", "berberism"]
+      associatedEthnicGroup: ["Arab People"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     miaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Islamic Movement of Azawad", "MIA"]
+      associatedEthnicGroup: [""]
+      activeRegion: ["Kidal", "Meneka"]
       ideologicalOrientation: ["islamist"]
     gatiaArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Imghad Tuareg Self-Defense Group and Allies", "GATIA", "Tuareg Imghad and Allies Self-Defense Group"]
@@ -372,27 +390,32 @@ concepts:
       stringTokens: ["Katibat Macina", "Macina Liberation Front", "FLM"]
       wikidataQnode: ["Q20725919"]
       ideologicalOrientation: ["islamist", "salafism", "jihadism"]
+      associatedEthnicGroup: ["Fulani"]
+      activeRegion: ["Mopti"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     signinbloodArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Al-Mulathameen", "Signed-in-Blood Battalion", "Masked Brigade", "Those who Sign with Blood Brigade"]
       wikidataQnode: ["Q44810800"]
       ideologicalOrientation: [""]
-      associatedEthnicGroup: [""]
+      associatedEthnicGroup: ["tuaregEthnicGroup", "Arab People"]
+      activeRegion: ["Timbuktu", "Kidal", "Gao"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     mpgkArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Mouvement Patriotique Ganda Koye", "MPGK", "Ganda Koy"]
       wikidataQnode: ["Q16638465"]
       ideologicalOrientation: [""]
-      associatedEthnicGroup: [""]
+      associatedEthnicGroup: ["Fulani", "Songhai", "Bozo", "Tuareg-Bella"]
+      activeRegion: ["Gao"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     gandaisoArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Ganda Iso", "Ganda Izo", "Sons of Land"]
       wikidataQnode: ["Q5520560"]
       ideologicalOrientation: [""]
-      associatedEthnicGroup: [""]
+      associatedEthnicGroup: ["Fulani", "Songhai", "Bozo", "Tuareg-Bella"]
+      activeRegion: ["Gao"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     jasArmedNonGovernmentalOrganizedGroup:
-      stringTokens: ["Jama'tu Ahlis Sunna Lidda'awati wal-Jihad", "JAS"]
+      stringTokens: ["Jama'tu Ahlis Sunna Lidda'awati wal-Jihad", "JAS", "Boko Haram"]
       wikidataQnode: [""]
       ideologicalOrientation: ["jihadist"]
       associatedEthnicGroup: [""]
@@ -408,6 +431,8 @@ concepts:
       wikidataQnode: ["Q17625217"]
       ideologicalOrientation: [""]
       associatedEthnicGroup: ["islamism", "jihadist"]
+      associatedEthnicGroup: ["Fulani", "Songhai"]
+      activeRegion: ["Timbuktu", "Gao"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     redberetsArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Military faction (Red_Berets)", "Red Berets"]
@@ -419,12 +444,14 @@ concepts:
       stringTokens: ["CSP-PSD", "Permanent Strategic Framework for Peace, Security, and Development", "Cadre stratégique permanent pour la paix, la sécurité et le développement", "CSP-DPA", "Strategic Framework for the Defense of the People of Azawad", "Cadre stratégique pour la défense du peuple de l'Azawad"]
       wikidataQnode: ["Q111207670"]
       ideologicalOrientation: [""]
-      associatedEthnicGroup: [""]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     jnimArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal-Muslimin", "Groupe de soutien à l'islam et aux musulmans", "GSIM", "Nusrat al-Islam", "Group to Support Islam and Muslims"] # merger of  Ansar Dine, AQIM and al-Mourabitoun on 2 March 2017: https://en.wikipedia.org/wiki/Al-Mourabitoun_(militant_group)
       wikidataQnode: ["Q28877411"]
       ideologicalOrientation: ["islamist", "salafism", "jihadism"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
 ##politicalparties
     ADEMAPASJParty:
