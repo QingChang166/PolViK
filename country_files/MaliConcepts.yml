@@ -21,7 +21,7 @@ concepts:
       stringTokens: ["Tuareg", "Twareg", "Touareg", "Daoussak", "Daoussak (Tuareg)"]
       wikidataQnode: ["Q58843"]
       religionsMostPracticed: ["Sunni Islam"]
-      livesIn: ["Kidal", "Ménaka", "Ansongo", "Goundam"]
+      livesIn: ["Kidal", "Ménaka", "Ansongo", "Goundam"] # Problem: There are within-group competition between Tuareg-bella and other Tuareg
     soninkeEthnicGroup:
       stringTokens: ["Soninke", "Soninke people", "Marka Dafing", "Dafing","Sarakole", "Serahuli", "Seraculeh", "Maraka" ,"Marka Soninke", "Sooninke", "Aswanik", "Dyakanke", "Gadyaga", "Saracole", "Sarakolle", "Sarawule", "Sonike", "Toubakai", "Wakore"]
       wikidataQnode: ["Q1146970"]
@@ -430,7 +430,6 @@ concepts:
       stringTokens: ["Coordination des mouvements et Front patriotique de résistance", "CM-FPR", "CMFPR"]
       wikidataQnode: ["Q17625217"]
       ideologicalOrientation: [""]
-      associatedEthnicGroup: ["islamism", "jihadist"]
       associatedEthnicGroup: ["Fulani", "Songhai"]
       activeRegion: ["Timbuktu", "Gao"]
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
@@ -445,7 +444,6 @@ concepts:
       wikidataQnode: ["Q111207670"]
       ideologicalOrientation: [""]
       associatedEthnicGroup: ["tuaregEthnicGroup"]
-      
       SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
     jnimArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal-Muslimin", "Groupe de soutien à l'islam et aux musulmans", "GSIM", "Nusrat al-Islam", "Group to Support Islam and Muslims"] # merger of  Ansar Dine, AQIM and al-Mourabitoun on 2 March 2017: https://en.wikipedia.org/wiki/Al-Mourabitoun_(militant_group)

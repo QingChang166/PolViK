@@ -107,12 +107,13 @@ concepts:
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   splmArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["SPLM","SPLA", "SPLM/A", "The Sudan People's Liberation Movement", "Sudan People's Liberation Army", "Sudan People's Liberation Movement"]
+   associatedEthnicGroup: ["dinkaEthnicGroup"] # this belongs to south sudan.
    wikidataQnode: ["Q459960"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   antibalakaArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Anti-Balaka armed group", "Anti-Balaka"]
+   associatedEthnicGroup: ["christianEthnicGroup"] # need to add another ethnic group -southern christian
    wikidataQnode: ["Q15311839"]
-   ideologicalOrientation: ["christian"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   mlcjArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Movement of Central African Liberators for Justice", "Central African Liberators for Justice Movement", "MLCJ"] 
@@ -121,84 +122,102 @@ concepts:
    wikidataQnode: ["Q3326634"]
   mpcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Central African Patriotic Movement", "MPC"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] # need to add another ethnic group - northern muslim
    wikidataQnode: ["Q56305293"]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   fprcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Popular Front for the Renaissance in the Central African Republic", "Popular Front for the Rebirth of Central African Republic", "FPRC"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] #northern muslims
    wikidata: ["Q56305647"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   fdpcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Front Démocratique du Peuple Centrafricain", "FDPC", "Democratic Front of the Central African People"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] #northern muslims, seleka coalition
    wikidataQnode: ["Q3088479"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   aakgArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Azande Ani Kpi Gbe", "Wagner Ti Azandé"]
+   associatedEthnicGroup: ["azandeEthnicGroup"]
    wikidataQnode: ["Q121409087"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   3rArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Return, Reclamation and Rehabilitation", "3R"]
+   associatedEthnicGroup: ["fulaniEthnicGroup"] 
    wikidataQnode: ["Q67198684"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   selekaArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Séléka", "Ex-Séléka coalition group"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] #northern muslims, seleka coalition
    wikidataQnode: ["Q7666027"]
-   ideologicalOrientation: ["islamist"]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   mnlcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["National Movement for the Liberation of the Central African Republic", "MNLC"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] #northern muslims, seleka coalition
    wikidataQnode: ["Q96395010"]
-   ideologicalOrientation: [""]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   rjArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["RJ", "Revolution and Justice", "RJ-Belanga", "RJ-Sayo Branch"]
+   associatedEthnicGroup: [""]
    wikidataQnode: ["Q25377343"]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   rprcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Patriotic Rally for the Renewal of the Central African Republic", "RPRC"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] #northern muslims, seleka coalition
    wikidataQnode: ["Q56305385"]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   JanjaweedArmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["Janjaweed", " Rapid Support Forces", "RSF"]
+   stringTokens: ["Janjaweed", "Rapid Support Forces", "RSF"]
+   associatedEthnicGroup: ["arabEthnicGroup"] #sudanese
    wikidataQnode: ["Q178328"]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   ffbArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Forces of Francois Bozize"]
+   associatedEthnicGroup: [""]
    wikidataQnode: [""]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   fakArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Forces André-Dieudonné Kolingba", "Forces André Kolingba"]
+   associatedEthnicGroup: [""]
    wikidataQnode: [""]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   cpcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Coalition of Patriots for Change", "CPC"]
+   associatedEthnicGroup: [""] # mixed
    wikidataQnode: ["Q104519767"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   lraArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Lord's Resistance Army insurgency", "LRA"]
+   associatedEthnicGroup: ["christianEthnicGroup"] #southern christians
    wikidataQnode: ["Q303801"]
-   ideologicalOrientation: ["christianTheocracy"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   mrprcArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People’s Resistance Movement for the Refoundation of the Central African Republic", "MRPRC"]
   parrdArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Army for the Restoration of the Republic and Democracy", "PARRD"]
+   associatedEthnicGroup: [""]
    wikidataQnode: ["Q2862843"]
   fprArmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["Popular Front for Recovery", "FPR"]
+   stringTokens: ["Popular Front for Recovery", "FPR"] # Chad group
+   associatedEthnicGroup: ["fulaniEthnicGroup"] 
+   ethnicurl: ["https://reliefweb.int/report/central-african-republic/armed-groups-car"]
    wikidataQnode: ["Q15138850"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   aprdArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Army for the Restoration of Democracy", "APRD"]
+   associatedEthnicGroup: [""] 
    wikidataQnode: ["Q2862978"]
   prncArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Party of the Rally of the Central African Nation", "PRNC"]
+   associatedEthnicGroup: [""] 
    wikidataQnode: ["Q115805634"]
    SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   cpskArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Patriotic Convention for Saving the Country", "CPSK"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] #northern muslims, seleka coalition
    wikidataQnode: ["Q16204352"]
   cpjpArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Convention of Patriots for Justice and Peace", "CPJP"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] #northern muslims, seleka coalition
    wikidataQnode: ["Q1129388"]
    SpellConceptPaths: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/CarSpells.yml"]
   ufrArmedNonGovernmentalOrganizedGroup:
@@ -207,6 +226,7 @@ concepts:
    wikidataQnode: ["Q59200373"]
   ufdrArmedNonGovernmentalOrganizedGroup:
    stringTokens: ["UFDR", "Union of Democratic Forces for Unity", "Union des Forces Démocratiques pour le Rassemblement"]
+   associatedEthnicGroup: ["muslimEthnicGroup"] #northern muslims, seleka coalition
    yearsActiveasArmedGroup: ["2006-2012"]
    wikidataQnode: ["Q1771298"]
   mlcArmedNonGovernmentalOrganizedGroup:
