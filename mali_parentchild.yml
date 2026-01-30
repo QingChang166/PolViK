@@ -1,0 +1,214 @@
+##Splits
+# split from and rival; # expansion from; different from split from
+# expansion from; it is not splitting; contained within
+# programatic map; armed rivals, armed alliances?
+aqim-mujao:
+  rbl_pname: aqimArmedNonGovernmentalOrganizedGroup
+  rbl_cname: mujaoArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2011'
+  child_start_month: 2011-06
+  url_time: ["https://www.dni.gov/nctc/groups/aqim.html", "https://en.wikipedia.org/wiki/Movement_for_Oneness_and_Jihad_in_West_Africa"]
+  coder: Zhejun
+  source: '{"Wikipedia"; "dni.gov":
+    }'
+
+aqim-signinblood:
+  rbl_pname: aqimArmedNonGovernmentalOrganizedGroup
+  rbl_cname: signinbloodArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2011'
+  child_start_month: 2011-06
+  url_time: ["https://www.dni.gov/nctc/groups/aqim.html", "https://en.wikipedia.org/wiki/Movement_for_Oneness_and_Jihad_in_West_Africa"]
+  coder: Zhejun
+  source: '{"Wikipedia"; "dni.gov":
+    }'
+
+maa-maac:
+  rbl_pname: maaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: maacArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2014'
+  child_start_month: 2014-06
+  url_time: ["https://fr.wikipedia.org/wiki/Mouvement_arabe_de_l%27Azawad"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+maa-maap:
+  rbl_pname: maaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: maapArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2014'
+  child_start_month: 2014-06
+  url_time: ["https://fr.wikipedia.org/wiki/Mouvement_arabe_de_l%27Azawad"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+aad-mia:
+  rbl_pname: aadArmedNonGovernmentalOrganizedGroup
+  rbl_cname: miaArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2013'
+  child_start_month: 2013-01
+  url_time: ["https://en.wikipedia.org/wiki/Ansar_Dine"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+
+##Mergers
+maa-cma:
+  rbl_pname: maaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cmaArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2014'
+  child_start_month: 2014-10
+  url_time: ["https://fr.wikipedia.org/wiki/Coordination_des_mouvements_de_l%27Azawad"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+mnla-cma:
+  rbl_pname: mnlaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cmaArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2014'
+  child_start_month: 2014-10
+  url_time: ["https://fr.wikipedia.org/wiki/Coordination_des_mouvements_de_l%27Azawad"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+mia-cma:
+  rbl_pname: miaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cmaArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2014'
+  child_start_month: 2014-10
+  url_time: ["https://fr.wikipedia.org/wiki/Coordination_des_mouvements_de_l%27Azawad"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+mujao-murabitun:
+  rbl_pname: mujaoArmedNonGovernmentalOrganizedGroup
+  rbl_cname: murabitunArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2013'
+  child_start_month: 2013-08
+  url_time: ["https://en.wikipedia.org/wiki/Movement_for_Oneness_and_Jihad_in_West_Africa"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+signinblood-murabitun:
+  rbl_pname: signinbloodArmedNonGovernmentalOrganizedGroup
+  rbl_cname: murabitunArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2013'
+  child_start_month: 2013-08
+  url_time: ["https://en.wikipedia.org/wiki/Movement_for_Oneness_and_Jihad_in_West_Africa"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+murabitun-aqim:
+  rbl_pname: murabitunArmedNonGovernmentalOrganizedGroup
+  rbl_cname: aqimArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2015'
+  child_start_month: 2015-12
+  url_time: ["https://web.archive.org/web/20151210181337/https://www.washingtonpost.com/world/africa/al-qaida-linked-n-africa-group-unites-with-mali-extremists/2015/12/04/60801d70-9aba-11e5-aca6-1ae3be6f06d2_story.html"]
+  coder: Zhejun
+  source: '{"Washington Post":
+    }'
+
+murabitun-jnim:
+  rbl_pname: murabitunArmedNonGovernmentalOrganizedGroup
+  rbl_cname: jnimArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2017'
+  child_start_month: 2017-03
+  url_time: ["https://en.wikipedia.org/wiki/Jama%27at_Nusrat_al-Islam_wal-Muslimin"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+aqim-jnim:
+  rbl_pname: aqimArmedNonGovernmentalOrganizedGroup
+  rbl_cname: jnimArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2017'
+  child_start_month: 2017-03
+  url_time: ["https://en.wikipedia.org/wiki/Jama%27at_Nusrat_al-Islam_wal-Muslimin"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+mlf-jnim:
+  rbl_pname: mlfArmedNonGovernmentalOrganizedGroup
+  rbl_cname: jnimArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2017'
+  child_start_month: 2017-03
+  url_time: ["https://en.wikipedia.org/wiki/Jama%27at_Nusrat_al-Islam_wal-Muslimin"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+aad-jnim:
+  rbl_pname: aadArmedNonGovernmentalOrganizedGroup
+  rbl_cname: jnimArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2017'
+  child_start_month: 2017-03
+  url_time: ["https://en.wikipedia.org/wiki/Jama%27at_Nusrat_al-Islam_wal-Muslimin"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+mia-hcua:
+  rbl_pname: miaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: hcuaArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2013'
+  child_start_month: 2013-05
+  url_time: ["https://en.wikipedia.org/wiki/Islamic_Movement_of_Azawad"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+mpgk-cmfpr:
+  rbl_pname: mpgkArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cmfprArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2012'
+  child_start_month: 2012-07
+  url_time: ["https://fr.wikipedia.org/wiki/Ganda_Koy"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+gandaiso-cmfpr:
+  rbl_pname: gandaisoArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cmfprArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2012'
+  child_start_month: 2012-07
+  url_time: ["https://fr.wikipedia.org/wiki/Ganda_Koy"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+fln-cmfpr:
+  rbl_pname: flnArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cmfprArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2012'
+  child_start_month: 2012-07
+  url_time: ["https://fr.wikipedia.org/wiki/Ganda_Koy"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
