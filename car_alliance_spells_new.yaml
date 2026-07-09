@@ -1,0 +1,181 @@
+3r-antibalaka:
+  rbl_aname: 3r
+  rbl_bname: antibalaka
+  years_alliance: 2021; 2024
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+3r-fprc:
+  rbl_aname: 3r
+  rbl_bname: fprc
+  years_alliance: '2023'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+3r-mpc:
+  rbl_aname: 3r
+  rbl_bname: mpc
+  years_alliance: '2022'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+3r-upc:
+  rbl_aname: 3r
+  rbl_bname: upc
+  years_alliance: '2021'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+antibalaka-antibalaka:
+  rbl_aname: antibalaka
+  rbl_bname: antibalaka
+  years_alliance: '2022'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+antibalaka-fprc:
+  rbl_aname: antibalaka
+  rbl_bname: fprc
+  years_alliance: '2024'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+antibalaka-mpc:
+  rbl_aname: antibalaka
+  rbl_bname: mpc
+  years_alliance: '2024'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+antibalaka-upc:
+  rbl_aname: antibalaka
+  rbl_bname: upc
+  years_alliance: '2023'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+cpjp-cpsk:
+  rbl_aname: cpjp
+  rbl_bname: cpsk
+  years_alliance: 2012; 2013
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+cpjp-seleka:
+  rbl_aname: cpjp
+  rbl_bname: seleka
+  years_alliance: 2012; 2013
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+cpjp-ufdr:
+  rbl_aname: cpjp
+  rbl_bname: ufdr
+  years_alliance: 2012; 2013
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+cpsk-seleka:
+  rbl_aname: cpsk
+  rbl_bname: seleka
+  years_alliance: 2012; 2013; 2014; 2015; 2016
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+cpsk-ufdr:
+  rbl_aname: cpsk
+  rbl_bname: ufdr
+  years_alliance: 2012; 2013
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+fprc-mpc:
+  rbl_aname: fprc
+  rbl_bname: mpc
+  years_alliance: 2021; 2022
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+fprc-upc:
+  rbl_aname: fprc
+  rbl_bname: upc
+  years_alliance: 2021; 2024
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+mpc-upc:
+  rbl_aname: mpc
+  rbl_bname: upc
+  years_alliance: '2023'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+seleka-ufdr:
+  rbl_aname: seleka
+  rbl_bname: ufdr
+  years_alliance: 2012; 2013
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+upc-upc:
+  rbl_aname: upc
+  rbl_bname: upc
+  years_alliance: '2022'
+  years_alliance_broad: ''
+  alliance_start_month: ''
+  alliance_end_month: ''
+  url_time: ''
+  coder: Zhejun
+  source: '{"ROAD Database": ""}'
+
