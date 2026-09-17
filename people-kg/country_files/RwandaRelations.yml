@@ -1,0 +1,16 @@
+relations:
+  - (officialStateSecurityForces, rwandanSecurityForces)
+  - (EthnicGroup, hutuEthnicGroup)
+  - (EthnicGroup, tutsiEthnicGroup)
+  - (EthnicGroup, twaEthnicGroup)
+  - (Party, MRNDParty)
+  - (Party, RDFParty)
+  - (Party, PSDParty)
+  - (Party, PLParty)
+  - (Party, RNCParty)
+  - (armedNonGovernmentalOrganizedGroup, FARarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, InterahamwearmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, RPAarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, FDLRarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, KinyarwandaLinguisticGroup)
+  

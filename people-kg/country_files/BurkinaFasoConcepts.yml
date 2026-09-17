@@ -1,0 +1,299 @@
+concepts:
+  BurkinaFasoarmedforcesSecurityForces:
+   stringTokens: ["Burkina Faso Armed Forces"]
+   wikidataQnode: ["Q3022671"]
+## ethnicgroups
+  gurmaEthnicGroup:
+   stringTokens: ["Gurma", "Gurma people"]
+   wikidataQnode: ["Q1294392"]
+   languagesMostSpoken: ["Gur languages"]
+   religionsMostPracticed: ["Islam"]
+   livesIn: ["Fada N'Gourma"]
+  mossiEthnicGroup:
+   stringTokens: ["Mossi", "Mossi people"]
+   wikidataQnode: ["Q1165955"]
+   languagesMostSpoken: ["Mooré"]
+   religionsMostPracticed: ["Islam"]
+   livesIn: ["Volta River"]
+   connectedethnicgroupfamily: ["Gurma"]
+  fulaniEthnicGroup:
+   stringTokens: ["Fulani", "Fula"]
+   wikidataQnode: ["Q202575"]
+   languagesMostSpoken: ["Fula"]
+   religionsMostPracticed: ["Islam"]
+   livesIn: ["Oudalan", "Soum", "Seno", "Yagha", "Namentenga", "Yatenga"]
+  bissaEthnicGroup:
+   stringTokens: ["Bissa", "Bissa people"]
+   wikidataQnode: ["Q866644"]
+   languagesMostSpoken: ["Bissa"]
+   religionsMostPracticed: ["Islam"]
+   livesIn: ["Tenkodogo", "Boulgou", "Koulpélogo"]
+  boboEthnicGroup:
+   stringTokens: ["Bobo", "Bobo Madere", "Bobo people"]
+   wikidataQnode: ["Q888796"]
+   languagesMostSpoken: ["Bobo language"]
+   religionsMostPracticed: ["African traditional religion"]
+   livesIn: ["Bobo-Dioulasso"]
+   connectedethnicgroupfamily: ["Mande"]
+  lobiEthnicGroup:
+   stringTokens: ["Lobi", "Lobi people"]
+   wikidataQnode: ["Q961201"]
+   languagesMostSpoken: ["Miiwo", "Birifor"]
+   religionsMostPracticed: ["Animist"]
+   livesIn: ["Upper Volta"]
+  senufoEthnicGroup:
+   stringTokens: ["Senufo", "Senufo people"]
+   wikidataQnode: ["Q1266038"]
+   languagesMostSpoken: ["Senufo languages"]
+   religionsMostPracticed: ["Animist"]
+   livesIn: ["Yatenga", "Séno", "Soum", "Yagha"]
+  gurunsiEthnicGroup:
+   stringTokens: ["Gurunsi", "Grunshi"]
+   wikidataQnode: ["Q766258"]
+   languagesMostSpoken: ["Gurunsi languages"]
+   religionsMostPracticed: ["Sunni Islam"]
+   livesIn: ["Sissili", "Ziro", "Bazega"]
+  gouinEthnicGroup:
+   stringTokens: ["Gouin", "Gwen people"]
+   wikidataQnode: ["Q3111623"]
+   languagesMostSpoken: ["Cerma language"]
+   religionsMostPracticed: ["Traditional religion"]
+   livesIn: ["Southwest Burkina Faso"]
+   connectedethnicgroupfamily: ["Gur"]
+  kassenaEthnicGroup:
+   stringTokens: ["Kassena", "Kassena people"]
+   wikidataQnode: ["Q640425"]
+   languagesMostSpoken: ["Kasem language"]
+   religionsMostPracticed: ["Kassena religion", "Islam", "Christianity"]
+   livesIn: ["Naouhri"]
+  turkaEthnicGroup:
+   stringTokens: ["Turka people", "Turka"]
+   wikidataQnode: ["Q18210621"]
+   languagesMostSpoken: ["Turka language"]
+   religionsMostPracticed: ["Islam"]
+   livesIn: ["Comoe", "Banfora", "Leraba", "Houet", "Kenedougou"]
+   associatedEthnicGroup: ["Gur"]
+  dagaabaEthnicGroup:
+   stringTokens: ["Dagaaba people", "Dagaaba"]
+   wikidataQnode: ["Q1157179"]
+   languagesMostSpoken: ["Dagaare language"]
+   religionsMostPracticed: ["Traditional religion", "Islam", "Christianity"]
+   livesIn: ["Léraba", "Ioba", "Kénédougou", "Noumbiel,"]
+  biriforEthnicGroup:
+   stringTokens: ["Birifor people"]
+   wikidataQnode: ["Q55605507"]
+   languagesMostSpoken: ["Birifor language"]
+   religionsMostPracticed: [""]
+   livesIn: ["Kossi", "Boucle du Mouhoun"]
+## linguistic groups
+  BerbaLinguisticGroup:
+   stringTokens: ["Berba", "Biali"]
+   wikidataQnode: ["Q34961"]
+   livesIn: ["Kompienga Province"]
+   associatedethnicgroup: [""]
+  BissaLinguisticGroup:
+   stringTokens: ["Bissa", "Bisa"]
+   wikidataQnode: ["Q32934"]
+   livesIn: [""]
+   associatedethnicgroup: ["Bissa people"]
+  BomuLinguisticGroup:
+   stringTokens: ["Bomu", "Bo"]
+   wikidataQnode: ["Q35065"]
+   livesIn: [""]
+   associatedethnicgroup: ["Bwa people"]
+  BuamuLinguisticGroup:
+   stringTokens: ["Buamu", "Bwamu"]
+   wikidataQnode: ["Q35157"]
+   livesIn: [""]
+   associatedethnicgroup: ["Bwa people"]
+  MooreLinguisticGroup:
+   stringTokens: ["Mooré", "Moore", "More", "Mossi"]
+   wikidataQnode: ["Q36096"]
+   livesIn: [""]
+   associatedethnicgroup: ["Mossi people"]
+  ZarmaLinguisticGroup:
+   stringTokens: ["Zarma", "Djerma", "Dyabarma", "Dyarma", "Dyerma", "Adzerma", "Zabarma", "Zarbarma", "Zarmaci", "Zerma"]
+   wikidataQnode: ["Q36990"]
+   livesIn: [""]
+   associatedethnicgroup: ["Zarma people"]
+  DagaareLinguisticGroup:
+   stringTokens: ["Dagaare", "Dagaari Dioula"]
+   wikidataQnode: ["Q35159"]
+   livesIn: [""]
+   associatedethnicgroup: ["Dagaaba people"]
+  DuunLinguisticGroup:
+   stringTokens: ["Duun"]
+   wikidataQnode: ["Q96238391"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  GourmanchéLinguisticGroup:
+   stringTokens: ["Gourmanché", "Goulmacema", "Gourma", "Gourmanchema", "Gourmantche", "Gulimancema", "Gulmancema", "Gurma", "Gourmanchéma"]
+   wikidataQnode: ["Q35474"]
+   livesIn: [""]
+   associatedethnicgroup: ["Gurma people"]
+  JamsaiDogonLinguisticGroup:
+   stringTokens: ["Jamsai Dogon"]
+   wikidataQnode: ["Q3913290"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  DyulaLinguisticGroup:
+   stringTokens: ["Dyula", "Jula", "Dioula"]
+   wikidataQnode: ["Q32706"]
+   livesIn: [""]
+   associatedethnicgroup: ["Dyula people"]
+  KasenaLinguisticGroup:
+   stringTokens: ["Kasena", "Kasem", "Kassem", "Kassena"]
+   wikidataQnode: ["Q35552"]
+   livesIn: [""]
+   associatedethnicgroup: ["Kassena people"]
+  TamasheqLinguisticGroup:
+   stringTokens: ["Tamasheq", "Tamashek"]
+   wikidataQnode: ["Q4670066"]
+   livesIn: [""]
+   associatedethnicgroup: ["Tuareg people"]
+  BoboLinguisticGroup:
+   stringTokens: ["Bobo", "Konabéré"]
+   wikidataQnode: ["Q12628055"]
+   livesIn: [""]
+   associatedethnicgroup: ["Bobo people"]
+  KoromfeLinguisticGroup:
+   stringTokens: ["Koromfe"]
+   wikidataQnode: ["Q35701"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  LobiLinguisticGroup:
+   stringTokens: ["Lobi"]
+   wikidataQnode: ["Q35807"]
+   livesIn: [""]
+   associatedethnicgroup: ["Lobi people"]
+  LyéléLinguisticGroup:
+   stringTokens: ["Lyélé", "Lyele"]
+   wikidataQnode: ["Q3089032"]]
+   livesIn: ["Sanguié Province"]
+   associatedethnicgroup: [""]
+  MarkaLinguisticGroup:
+   stringTokens: ["Marka"]
+   wikidataQnode: ["Q36030"]
+   livesIn: [""]
+   associatedethnicgroup: ["Marka people"]
+  SamoLinguisticGroup:
+   stringTokens: ["Samo", "Sane", "San", "Sa"]
+   wikidataQnode: ["Q36327"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  MobaLinguisticGroup:
+   stringTokens: ["Moba", "Moba–Bimoba"]
+   wikidataQnode: ["Q36010"]
+   livesIn: [""]
+   associatedethnicgroup: ["Moba people"]
+  FarefareLinguisticGroup:
+   stringTokens: ["Farefare", "Frafra"]
+   wikidataQnode: ["Q35331"]
+   livesIn: [""]
+   associatedethnicgroup: ["Frafra people"]
+  NuniLinguisticGroup:
+   stringTokens: ["Nuni"]
+   wikidataQnode: ["Q7069841"]
+   livesIn: [""]
+   associatedethnicgroup: ["Nuna people"]
+  SenaraLinguisticGroup:
+   stringTokens: ["Senara", "Niangolo", "Senara Sénoufo", "Senara Senoufo"]
+   wikidataQnode: ["Q35210"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+  SonghayLinguisticGroup:
+   stringTokens: ["Songhay", "Songhai"]
+   wikidataQnode: ["Q505198"]
+   livesIn: [""]
+   associatedethnicgroup: [""]
+## politicalparties
+  cdpParty:
+   stringTokens: ["Congress for Democracy and Progress", "CDP"]
+   wikidataQnode:  ["Q592045"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy"]
+  adfadrParty:
+   stringTokens: ["Alliance for Democracy and Federation – African Democratic Rally"]
+   wikidataQnode:  ["Q2646749"]
+   ideologicalOrientation: ["centre", "liberalism"]
+  ppdvrdaParty:
+   stringTokens: ["Voltaic Democratic Party–African Democratic Rally", "PDV-RDA"]
+   wikidataQnode:  ["Q18395733"]
+   ideologicalOrientation: ["centreRight", "nationalism", "conservatism", "populism", "panAfricanism"]
+  unddParty:
+   stringTokens: ["National Union for Democracy and Development", "UNDD"]
+   wikidataQnode:  ["Q6979092"]
+  upvParty:
+   stringTokens: ["Voltaic Progressive Front", "UPV"]
+   wikidataQnode:  ["Q18618918"]
+  pdpspParty:
+   stringTokens: ["Party for Democracy and Progress / Socialist Party"]
+   wikidataQnode:  ["Q952908"]
+  arpParty:
+   stringTokens: ["African Regroupment Party"]
+   wikidataQnode:  ["Q3366392"]
+  pfParty:
+   stringTokens: ["Popular Front"]
+   wikidataQnode:  ["Q4847084"]
+   ideologicalOrientation: ["communism", "socialDemocracy"]
+  nlmParty:
+   stringTokens: ["National Liberation Movement"]
+   wikidataQnode:  ["Q18618896"]
+  upcParty:
+   stringTokens: ["Union for Progress and Reform", "UPC"]
+   wikidataQnode:  ["Q1431782"]
+   ideologicalOrientation: ["centre", "bigTent"]
+  pdsmParty:
+   stringTokens: ["Party for Democracy and Socialism/Metba"]
+   wikidataQnode:  ["Q7140994"]
+   ideologicalOrientation: ["left", "communism", "socialism"]
+  ncppsdpParty:
+   stringTokens: ["National Convention of Progressive Patriots–Social Democratic Party"]
+   wikidataQnode:  ["Q18589288"]
+  pmpParty:
+   stringTokens: ["People's Movement for Progress", "MPP"]
+   wikidataQnode:  ["Q21604403"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy", "progressivism"]
+  adfParty:
+   stringTokens: ["Alliance for Democracy and Federation"]
+   wikidataQnode:  ["Q4732360"]
+  vdmParty:
+   stringTokens: ["Voltaic Democratic Movement"]
+   wikidataQnode: ["Q7940757"]
+  udpParty:
+   stringTokens: ["Unified Democratic Party"]
+   wikidataQnode:  ["Q7884919"]
+  ednParty:
+   stringTokens: ["Entente Fada N'Gourma"]
+   wikidataQnode:  ["Q18618884"]
+  apmParty:
+   stringTokens: ["African Popular Movement"]
+   wikidataQnode:  ["Q4689885"]
+  vuParty:
+   stringTokens: ["Voltaic Union"]
+   wikidataQnode:  ["Q7940764"]
+## armed groups
+  aqimarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
+   wikidataQnode: ["Q2635966"]
+   ideologicalOrientation: ["salafism", "islamist", "antiWest", "antiZionism", "antiImperialism", "jihadism"]
+  aiarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Ansaroul Islam"]
+   wikidataQnode: ["Q28499712"]
+   location: ["Soum province"]
+   ideologicalOrientation: ["jihadism", "salafism", "antiWest", "islamist"]
+  jnimarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Jama'at Nasr al-Islam wal Muslimin", "JNIM"]
+   wikidataQnode: ["Q28877411"]
+   ideologicalOrientation: ["salafism", "islamist", "jihadism"]
+  isgsarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["IS-GS", "Islamic State in the Greater Sahara"]
+   wikidataQnode: ["Q36504631"]
+   ideologicalOrientation: ["jihadism", "salafism"]
+  koglweogoarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Koglweogo"]
+   associatedEthnicGroup: ["Mossi people"]
+  pfarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Popular Front"]
+
+
+  

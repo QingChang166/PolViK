@@ -1,0 +1,441 @@
+concepts:
+    MalianArmedForces:
+      stringTokens: ["Malian Armed Forces", "Malian Army", "Armed and Security Forces of Mali", "FAMA"]
+    bambaraEthnicGroup:
+      stringTokens: ["Bambara", "Bambara people"]
+      wikidataQnode: ["Q504685"]
+      languagesMostSpoken: ["Bambara language"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Bamako"]
+    samoEthnicGroup:
+      stringTokens: ["Samo", "Samo People", "Saman", "Samogo", "Samorho", "Samorrho", "Sanan", "Semou"]
+      wikidataQnode: ["Q1311522"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Bankass"]    
+    fulaEthnicGroup:
+      stringTokens: ["Fula", "Fulani", "Fula people", "Fulani people", "Hausa", "Fulbe people", "Peul", "Peulh", "Peuhl"]
+      wikidataQnode: ["Q202575"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Mopti", "Bandiagara", "Koro", "Bankass", "Ménaka", "Ansongo", "Djenné", "Douentza", "Goundam"]
+    tuaregEthnicGroup:
+      stringTokens: ["Tuareg", "Twareg", "Touareg", "Daoussak", "Daoussak (Tuareg)"]
+      wikidataQnode: ["Q58843"]
+      religionsMostPracticed: ["Sunni Islam"]
+      livesIn: ["Kidal", "Ménaka", "Ansongo", "Goundam"]
+    soninkeEthnicGroup:
+      stringTokens: ["Soninke", "Soninke people", "Marka Dafing", "Dafing","Sarakole", "Serahuli", "Seraculeh", "Maraka" "Marka Soninke", "Sooninke", "Aswanik", "Dyakanke", "Gadyaga", "Saracole", "Sarakolle", "Sarawule", "Sonike", "Toubakai", "Wakore"]
+      wikidataQnode: ["Q1146970"]
+      religionsMostPracticed: ["Sunni Islam"]
+      livesIn: ["Soninke"] 
+    mandinkaEthnicGroup:
+      stringTokens: ["Malinke", "Malinke people", "Mandinka"]
+      wikidataQnode: ["Q819186"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Kayes"] 
+    boboEthnicGroup:
+      stringTokens: ["Bobo", "Bobo people", "Bwa"]
+      wikidataQnode: ["Q888796"]
+      religionsMostPracticed: ["African traditional religion"]
+    bozoEthnicGroup:
+      stringTokens: ["Bozo", "Bozo people"]
+      wikidataQnode: ["Q896172"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Djenné", "Mopti", "Youwarou", "Tenenkou", "Bandiagara"]
+    dozoEthnicGroup:
+      stringTokens: ["Dozo", "Dozo people", "Dozos", "Donzo"]
+      wikidataQnode: ["Q1253567"]
+      religionsMostPracticed: [""]
+      livesIn: ["Djenné", "Mopti", "Macina", "Koro", "Bandiagara", "Douentza", "Niono", "San", "Ségou", "Ténenkou", "Yélimané"]
+    senufoEthnicGroup:
+      stringTokens: ["Senufo people", "Senufo"]
+      wikidataQnode: ["Q1266038"]
+      religionsMostPracticed: ["Animist", "Islam"]
+      livesIn: ["Kadiolo"]
+    dogonEthnicGroup:
+      stringTokens: ["Dogon people", "Dogon"]
+      wikidataQnode: ["Q215583"]
+      religionsMostPracticed: ["African traditional religion", "Islam", "Christianity"]
+      livesIn: ["Bandiagara", "Bankass", "Koro", "Mopti", "Douentza", "Djenné"]
+    KuntaEthnicGroup:
+      stringTokens: ["Kunta", "Kunta People", "Kountas", "Kuntas"]
+      wikidataQnode: ["Q1479267"]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou", "Bourem", "Gao", "Gourma-Rharous"]
+    songhaiEthnicGroup:
+      stringTokens: ["Songhai", "Songhai people"]
+      wikidataQnode: ["Q487902"]
+      religionsMostPracticed: ["Islam"]
+    alafiaEthnicGroup:
+      stringTokens: ["Alafia", "Alafia Commune", "Commune d'Alafia", "Commune de Alafia"]
+      wikidataQnode: ["Q2621465"]
+      religionsMostPracticed: ["African traditional religion"]
+      livesIn: ["Tombouctou"]
+    douekireEthnicGroup:
+      stringTokens: ["Douekire", "Douékiré", "Douékiré Commune", "Commune de Douékiré"]
+      wikidataQnode: ["Q2423610"]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou"]
+    alafiaEthnicGroup:
+      stringTokens: ["Alafia", "Alafia Commune", "Commune d'Alafia", "Commune de Alafia"]
+      wikidataQnode: ["Q2621465"]
+      religionsMostPracticed: ["African traditional religion"]
+      livesIn: ["Tombouctou"]
+    kanibozonEthnicGroup: # There is no other commune called Bozon
+      stringTokens: ["Bozon", "Kanibonzon", "Kani Bozon", "Kani-Bonzoni"]
+      wikidataQnode: ["Q1763391"]
+      religionsMostPracticed: [""]
+      livesIn: ["Mopti"]
+    boureminalyEthnicGroup:
+      stringTokens: ["Bourem-Inaly", "Bourem Inaly", "Bourem-Inaly Commune"]
+      wikidataQnode: ["Q2621448"]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou"]
+    kelinachariaEthnicGroup: # sub-commune of Bourem-Inaly
+      stringTokens: ["Kel-Inacharia", "Kel Inacharia"]
+      wikidataQnode: [""]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou"]
+    idnaneEthnicGroup:
+      stringTokens: ["Idnane"]
+      wikidataQnode: ["Q27693015"]
+      religionsMostPracticed: [""]
+      livesIn: ["Bourem"]
+    lafiaEthnicGroup:
+      stringTokens: ["Lafia", "Lafia Commune", "Commune de Lafia"]
+      wikidataQnode: ["Q2424311"]
+      religionsMostPracticed: [""]
+      livesIn: ["Tombouctou"]
+    yassoEthnicGroup:
+      stringTokens: ["Yasso", "Yasso Commune", "Commune de Yasso"]
+      wikidataQnode: ["Q2677733"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+    tominianEthnicGroup:
+      stringTokens: ["Tominian", "Tominian Commune", "Commune de Tominian"]
+      wikidataQnode: ["Q1767129"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+    mandiakuyEthnicGroup:
+      stringTokens: ["Mandiakuy", "Mandiakuy Commune", "Commune de Mandiakuy"]
+      wikidataQnode: ["Q2768936"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+    sanekuyEthnicGroup:
+      stringTokens: ["Sanékuy", "Sanékuy Commune", "Commune de Sanékuy", "Sanekuy", "Sanekuy Commune", "Commune de Sanekuy"]
+      wikidataQnode: ["Q2748936"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+    benenaEthnicGroup:
+      stringTokens: ["Benena", "Benena Commune", "Commune de Benena"]
+      wikidataQnode: ["Q1908029"]
+      religionsMostPracticed: [""]
+      livesIn: ["Ségou", "Tominian"] # Wikidata says that it lies in the Tominian Cercle within the Ségou Region. But GADM admin2 has both Ségou and Tominian
+     ## linguistic groups
+    BambaraLinguisticGroup:
+      stringTokens: ["Bambara", "Bamana", "Bamanankan"]
+      wikidataQnode: ["Q33243"]
+      livesIn: [""]
+      associatedethnicgroup: ["Bamana people"]
+    BomuLinguisticGroup:
+      stringTokens: ["Bomu", "Bo"]
+      wikidataQnode: ["Q35065"]
+      livesIn: [""]
+      associatedethnicgroup: ["Bwa people"]
+    EscarpmentDogonLinguisticGroup:
+      stringTokens: ["Escarpment Dogon"]
+      wikidataQnode: ["Q5397128"]
+      livesIn: ["Bandiagara", "Escarpment"]
+      associatedethnicgroup: [""]
+    DuunLinguisticGroup:
+      stringTokens: ["Duun"]
+      wikidataQnode: ["Q96238391"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    ManinkaLinguisticGroup:
+      stringTokens: ["Maninka", "Eastern Maninka", "Malinke"]
+      wikidataQnode: ["Q36186"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    HassaniyaArabicLinguisticGroup:
+      stringTokens: ["Hassaniya Arabic"]
+      wikidataQnode: ["Q56231"]
+      livesIn: [""]
+      associatedethnicgroup: ["Arab people"]
+    JamsaiDogonLinguisticGroup:
+      stringTokens: ["Jamsai Dogon"]
+      wikidataQnode: ["Q3913290"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    BozoLinguisticGroup:
+      stringTokens: ["Bozo"]
+      wikidataQnode: ["Q35021"]
+      livesIn: [""]
+      associatedethnicgroup: ["Bozo people"]
+    KagoroLinguisticGroup:
+      stringTokens: ["Kagoro", "Kita Maninka", "Central Malinke"]
+      wikidataQnode: ["Q3015523"]
+      livesIn: [""]
+      associatedethnicgroup: ["Mandinka people"]
+    BoboLinguisticGroup:
+      stringTokens: ["Bobo"]
+      wikidataQnode: ["Q12628055"]
+      livesIn: [""]
+      associatedethnicgroup: ["Bobo people"]
+    KoromfeLinguisticGroup:
+      stringTokens: ["Koromfe"]
+      wikidataQnode: ["Q35701"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    KoyraChiiniSonghayLinguisticGroup:
+      stringTokens: ["Koyra Chiini", "Koyra Chiini Songhay", "Western Songhay"]
+      wikidataQnode: ["Q33600"]
+      livesIn: ["Niger river"]
+      associatedethnicgroup: [""]
+    KoyraboroSenniSonghayLinguisticGroup:
+      stringTokens: ["Koyraboro Senni", "Koyraboro Senni Songhay", "Koroboro Senni", "Koyra Senni", "Gao Senn", "Koyraboro Senni Songhai"]
+      wikidataQnode: ["Q35655"]
+      livesIn: ["Niger River", "Gourma-Rharous", "Timbuktu", "Bourem", "Gao", "Ansongo"]
+      associatedethnicgroup: [""]
+    MaasinaFulfuldeLinguisticGroup:
+      stringTokens: ["Maasina Fulfulde"]
+      wikidataQnode: ["Q3915322"]
+      livesIn: ["Macina"]
+      associatedethnicgroup: ["Fula people"]
+    MinyankaLinguisticGroup:
+      stringTokens: ["Minyanka", "Mamara", "Miniyanka", "Minya", "Mianka", "Minianka", "Tupiire", "Mamara Senoufo", "Mamara Sénoufo"]
+      wikidataQnode: ["Q36187"]
+      livesIn: [""]
+      associatedethnicgroup: [""]
+    SamoLinguisticGroup:
+      stringTokens: ["Samo", "Sane", "San", "Sa"]
+      wikidataQnode: ["Q36327"]
+      livesIn: ["Bankass"]
+      associatedethnicgroup: ["Samo People"]
+    MooreLinguisticGroup:
+      stringTokens: ["Mooré", "Moore", "More", "Mossi"]
+      wikidataQnode: ["Q36096"]
+      livesIn: [""]
+      associatedethnicgroup: ["Mossi people"]
+    PulaarLinguisticGroup:
+      stringTokens: ["Pulaar"]
+      wikidataQnode: ["Q1420205"]
+      livesIn: [""]
+      associatedethnicgroup: ["Fula people", "Toucouleur people"]
+    PularLinguisticGroup:
+      stringTokens: ["Pular"]
+      wikidataQnode: ["Q3915357"]
+      livesIn: [""]
+      associatedethnicgroup: ["Fula people"]
+    SupyireLinguisticGroup:
+      stringTokens: ["Supyire", "Suppire", "Supyire Senoufo", "Shempire Sénoufo"]
+      wikidataQnode: ["Q56284"]
+      livesIn: ["Sikasso Region"]
+      associatedethnicgroup: [""]
+    SoninkeLinguisticGroup:
+      stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
+      wikidataQnode: ["Q36660"]
+      livesIn: [""]
+      associatedethnicgroup: ["Soninke people"]
+    TadaksahakLinguisticGroup:
+      stringTokens: ["Tadaksahak", "Dawsahak", "Daoussahak", "Dausahaq"]
+      wikidataQnode: ["Q36568"]
+      livesIn: ["Dawsahak", "Ménaka Region", "Gao Region"]
+      associatedethnicgroup: [""]
+    TamasheqLinguisticGroup:
+      stringTokens: ["Tamasheq", "Tamashek"]
+      wikidataQnode: ["Q4670066"]
+      livesIn: [""]
+      associatedethnicgroup: ["Tuareg people"]
+    WesternPlainsDogonLinguisticGroup:
+      stringTokens: ["Western Plains Dogon"]
+      wikidataQnode: ["Q7988169"]
+      livesIn: ["Bandiagara Escarpment"]
+      associatedethnicgroup: [""]
+    KassonkeLinguisticGroup:
+      stringTokens: ["Kassonke", "Xaasongaxango", "Western Maninka"]
+      wikidataQnode: ["Q36905"]
+      livesIn: [""]
+      associatedethnicgroup: ["Kassonke people", "Malinke people"]
+    ZarmaLinguisticGroup:
+      stringTokens: ["Zarma", "Djerma", "Dyabarma", "Dyarma", "Dyerma", "Adzerma", "Zabarma", "Zarbarma", "Zarmaci", "Zerma"]
+      wikidataQnode: ["Q36990"]
+      livesIn: [""]
+      associatedethnicgroup: ["Zarma people"]
+    ## non-state armed groups  
+    mplaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["People's Movement for the Liberation of Azawad", "Popular Movement for the Liberation of Azawad", "MPLA", "MPA"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    ansaralshariaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Ansar al-Sharia"]
+      wikidataQnode: ["Q4669205"]
+      ideologicalOrientation: ["islamist", "salafism", "jihadism"]
+    atnmcArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Mali Tuareg Alliance for Change", "ATNMC"]
+      wikidataQnode: [""]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    arlaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Revolutionary Liberation Army of Azawad", "ARLA", "Armée révolutionnaire de libération de l'Azawad"]
+      wikidataQnode: ["Q20725732"]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    aadArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Ansar Dine", "Ansar al-Din", "AAD"]
+      wikidataQnode: ["Q568900"]
+      ideologicalOrientation: ["salafism", "jihadism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    aqimArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["AQIM", "Al-Qaeda in the Lands of the Islamic Maghreb", "al-Qaida in the Islamic Maghreb", "Organization of al-Qa'ida in the Land of the Islamic Maghreb"]
+      wikidataQnode: ["Q2635966"]
+      ideologicalOrientation: ["islamist", "salafism", "jihadism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    ansarulsislamArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Ansar ul Islam", "Ansarul Islam", "Ansaroul Islam"]
+      wikidataQnode: ["Q28499712"]
+      ideologicalOrientation: ["antiWest", "islamist", "salafism", "jihadism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    murabitunArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["al-Murabitun", "Al-Mourabitoun"]
+      wikidataQnode: ["Q16525650"]
+      ideologicalOrientation: ["jihadism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    mujaoArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["MUJAO", "RSF", "Movement for Oneness and Jihad in West Africa", "MUJWA", "Mouvement pour l'unicité et le jihad en Afrique de l'Ouest"]
+      wikidataQnode: ["Q550108"]
+      ideologicalOrientation: ["jihadism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    fiaaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Arab Islamic Front of Azawad", "FIAA"]
+      wikidataQnode: ["Q3088499"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    ambassagouArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Dan na Ambassagou"]
+      wikidataQnode: ["Q60848009"]
+      ideologicalOrientation: ["Islamism"]
+      associatedEthnicGroup: ["Dogon people"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    maaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Arab Movement of Azawad", "National Liberation Front of Azawad", "MAA", "FLNA"] # dynamic data structure
+      wikidataQnode: ["Q12177450"]
+      ideologicalOrientation: ["secularism", "nationalism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    mnlaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Azawad National Liberation Movement", "National Movement for the Liberation of Azawad", "MNLA", "Mouvement national de libération de l'Azawad"] # dynamic data structure
+      wikidataQnode: ["Q853699"]
+      ideologicalOrientation: ["secularism", "nationalism"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]  
+    maacArmedNonGovernmentalOrganizedGroup: #a faction of MAA, ally of CMA
+      stringTokens: ["Mouvement arabe de l’Azawad-Coordination", "Tourmouz", "MAA-C", "MAAC", "Arab Movement of Azawad-Coordination"]
+      wikidataQnode: [""]
+      ideologicalOrientation: ["secularism", "nationalism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    maapArmedNonGovernmentalOrganizedGroup: #a faction of MAA
+      stringTokens: ["Mouvement arabe de l’Azawad-Plateforme", "Ould Ich", "Oualad Ich"]
+      wikidataQnode: [""]
+      ideologicalOrientation: ["secularism", "nationalism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    fplaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["FPLA", "Popular Liberation Front of Azawad"]
+      wikidataQnode: ["Q3088561"]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    hcuaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["High Council for the Unity of Azawad", "HCUA", "Haut conseil pour l'unité de l'Azawad"]
+      wikidataQnode: ["Q15141050"]
+      ideologicalOrientation: {"nationalism", "islamist"]
+    cmaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Coordination for the Movements of Azawad", "CMA"]
+      wikidataQnode: ["Q19955892"]
+      ideologicalOrientation: ["nationalism", "berberism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    miaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Islamic Movement of Azawad", "MIA"]
+      ideologicalOrientation: ["islamist"]
+    gatiaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Imghad Tuareg Self-Defense Group and Allies", "GATIA", "Tuareg Imghad and Allies Self-Defense Group"]
+      attribute: ["gatiaArmedNonGovernmentalOrganizedGroup", "Azawad"]
+      wikidataQnode: ["Q17629446"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    msaArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Movement for the Salvation of Azawad", "MSA"]
+      wikidataQnode: ["Q28498949"]
+      associatedEthnicGroup: ["tuaregEthnicGroup"]
+      ideologicalOrientation: ["nationalism", "secularism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    mlfArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Katibat Macina", "Macina Liberation Front", "FLM"]
+      wikidataQnode: ["Q20725919"]
+      ideologicalOrientation: ["islamist", "salafism", "jihadism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    signinbloodArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Al-Mulathameen", "Signed-in-Blood Battalion", "Masked Brigade", "Those who Sign with Blood Brigade"]
+      wikidataQnode: ["Q44810800"]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: [""]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    mpgkArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Mouvement Patriotique Ganda Koye", "MPGK", "Ganda Koy"]
+      wikidataQnode: ["Q16638465"]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: [""]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    gandaisoArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Ganda Iso", "Ganda Izo", "Sons of Land"]
+      wikidataQnode: ["Q5520560"]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: [""]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    jasArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Jama'tu Ahlis Sunna Lidda'awati wal-Jihad", "JAS"]
+      wikidataQnode: [""]
+      ideologicalOrientation: ["jihadist"]
+      associatedEthnicGroup: [""]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    isArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Islamic State", "IS", "ISLAMIC STATE IN THE GREATER SAHARA", "ISGS"]
+      wikidataQnode: ["Q2429253"]
+      ideologicalOrientation: ["islamism", "jihadist"]
+      associatedEthnicGroup: [""]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    cmfprArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Coordination des mouvements et Front patriotique de résistance", "CM-FPR", "CMFPR"]
+      wikidataQnode: ["Q17625217"]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: ["islamism", "jihadist"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    redberetsArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Military faction (Red_Berets)", "Red Berets"]
+      wikidataQnode: [""]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: [""]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    csppsdArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["CSP-PSD", "Permanent Strategic Framework for Peace, Security, and Development", "Cadre stratégique permanent pour la paix, la sécurité et le développement", "CSP-DPA", "Strategic Framework for the Defense of the People of Azawad", "Cadre stratégique pour la défense du peuple de l'Azawad"]
+      wikidataQnode: ["Q111207670"]
+      ideologicalOrientation: [""]
+      associatedEthnicGroup: [""]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+    jnimArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal-Muslimin", "Groupe de soutien à l'islam et aux musulmans", "GSIM", "Nusrat al-Islam", "Group to Support Islam and Muslims"]
+      wikidataQnode: ["Q28877411"]
+      ideologicalOrientation: ["islamist", "salafism", "jihadism"]
+      SpellConceptPath: ["https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliSpells.yml"]
+##politicalparties
+    ADEMAPASJParty:
+       stringTokens: ["ADEMAPASJ", "Alliance for Democracy in Mali", "Pan African party for liberty, solidarity, and justice"]
+       wikidataQnode: ["Q2838240"]
+       ideologicalOrientation: ["centreLeft", "socialDemocracy", "panAfricanism"]
+    RPMParty:
+       stringTokens: ["RPM", "Rally for Mali"]
+       wikidataQnode: ["Q3419939"]
+       ideologicalOrientation: ["centreLeft", "socialDemocracy"]
+    URDParty:
+       stringTokens: ["URD", "Union for the Republic and Democracy""]
+       wikidataQnode: ["Q3550438"]
+       ideologicalOrientation: ["centreLeft", "centre", "socialLiberalism"]

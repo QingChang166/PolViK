@@ -1,0 +1,301 @@
+concepts:
+   GuineaSecurityForces:
+     stringTokens: ["Republic of Guinea Armed Forces", "Military of Guinea", "Guinean military", "Guinean Armed Forces"]
+     wikidataQnode: ["Q835345"]
+  
+  ## ethnicgroups
+   MalinkeEthnicGroup:
+     stringTokens: ["Malinke", "Malinke people", "Mandinka"]
+     wikidataQnode: ["Q819186"]
+     languagesMostSpoken: ["Manding language"]
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Kouroussa"]
+
+   FulaEthnicGroup:
+     stringTokens: ["Fula people", "Fulani", "Fulbe"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula language"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Koundara Prefecture", "Fouta Djallon", "Mamou", "Labé Prefecture"]
+
+   SusuEthnicGroup:
+     stringTokens: ["Susu people", "Susu"]
+     wikidataQnode: ["Q1479265"]
+     languagesMostSpoken: ["Susu language"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Forécariah Prefecture", "Pamelap town", "Bissikrima town", "Faranah Prefecture"]
+
+   KisiiEthnicGroup:
+     stringTokens: ["Kissi people", "Kisi", "Kisii"]
+     wikidataQnode: ["Q1743773"]
+     languagesMostSpoken: ["Kissi language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Kissidougou"]
+     
+   KpelleEthnicGroup:
+     stringTokens: ["Kpelle people", "Gberese", "Gerze", "Guerze", "Kpelli", "Kpwélé", "Kpwesi"]
+     wikidataQnode: ["Q930128"]
+     languagesMostSpoken: ["Kpelle language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Nzérékoré"]
+
+   LomaEthnicGroup:
+     stringTokens: ["Loma people", "Loma", "Toma", "Loghoma", "Looma", "Lorma"]
+     wikidataQnode: ["Q1859406"]
+     languagesMostSpoken: ["Loma language"]
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Macenta"]
+
+  ## linguisticgroups
+   BadyaraLinguisticGroup:
+     stringTokens: ["Badyara"]
+     wikidataQnode: ["Q35095"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+     
+   BagaLinguisticGroup:
+     stringTokens: ["Baga", "Barka"]
+     wikidataQnode: ["Q35005"]
+     livesIn: [""]
+     associatedethnicgroup: ["Baga people"]
+
+   BassariLinguisticGroup:
+     stringTokens: ["Bassari", "Basari", "Oniyan", "Onian", "Onëyan", "Ayan", "Biyan", "Wo"]
+     wikidataQnode: ["Q35098"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bassari people"]
+
+   DanLinguisticGroup:
+     stringTokens: ["Dan", "Yacouba", "Yaoba", "Yakubasa", "Gio", "Gyo", "Gio-Dan", "Da"]
+     wikidataQnode: ["Q1158971"]
+     livesIn: [""]
+     associatedethnicgroup: ["Dan people"]
+
+   LimbaLinguisticGroup:
+     stringTokens: ["Limba"]
+     wikidataQnode: ["Q35825"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   ManinkaLinguisticGroup:
+     stringTokens: ["Maninka", "Malinke", "Eastern Maninka"]
+     wikidataQnode: ["Q36186"]
+     livesIn: [""]
+     associatedethnicgroup: ["MalinkaEthnicGroup"]
+
+   KpelleLinguisticGroup:
+     stringTokens: ["Kpelle"]
+     wikidataQnode: ["Q35673"]
+     livesIn: [""]
+     associatedethnicgroup: ["KpelleEthnicGroup"]
+
+   JahankaLinguisticGroup:
+     stringTokens: ["Jahanka"]
+     wikidataQnode: ["Q3913992"]
+     livesIn: ["Boké", "Gabu"]
+     associatedethnicgroup: [""]
+
+   KakabeLinguisticGroup:
+     stringTokens: ["Kakabe"]
+     wikidataQnode: ["Q3913966"]
+     livesIn: ["Futa-Jallon plateau"]
+     associatedethnicgroup: [""]
+
+   KonoLinguisticGroup:
+     stringTokens: ["Kono", "Kpelle"]
+     wikidataQnode: ["Q35673"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kpelle people"]
+
+   KurankoLinguisticGroup:
+     stringTokens: ["Kuranko"]
+     wikidataQnode: ["Q3198896"]
+     livesIn: [""]
+     associatedethnicgroup: ["Kuranko people"]
+
+   LandomaLinguisticGroup:
+     stringTokens: ["Landoma", "Landouman", "Landuma", "Cocoli", "Cikogoli"]
+     wikidataQnode: ["Q35568"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   LeleLinguisticGroup:
+     stringTokens: ["Lele"]
+     wikidataQnode: ["Q6520837"]
+     livesIn: ["Kissidougou", "Guéckédou Prefectures"]
+     associatedethnicgroup: [""]
+
+   ManoLinguisticGroup:
+     stringTokens: ["Mano", "Maa", "Mah", "Mawe"]
+     wikidataQnode: ["Q3913286"]
+     livesIn: ["Nzérékoré", "Lola", "Yomou"]
+     associatedethnicgroup: ["Mano people"]
+
+   MixiforeLinguisticGroup:
+     stringTokens: ["Mixifore", "Mogofin"]
+     wikidataQnode: ["Q3914478"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   NaluLinguisticGroup:
+     stringTokens: ["Nalu", "Nalou"]
+     wikidataQnode: ["Q36026"]
+     livesIn: [""]
+     associatedethnicgroup: ["Nalu people"]
+
+   KissiLinguisticGroup:
+     stringTokens: ["Kissi", "Kisi"]
+     wikidataQnode: ["Q35696"]
+     livesIn: ["Kissidougou", "Guéckédou"]
+     associatedethnicgroup: ["KisiiEthnicGroup"]
+
+   N’KoLinguisticGroup:
+     stringTokens: ["N’Ko"]
+     wikidataQnode: ["Q18546266"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   PularLinguisticGroup:
+     stringTokens: ["Pular, "pulaar""]
+     wikidataQnode: ["Q3915357"]
+     livesIn: ["Fouta Djallon"]
+     associatedethnicgroup: ["FulaEthnicGroup"]
+
+   SoninkeLinguisticGroup:
+     stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
+     wikidataQnode: ["Q36660"]
+     livesIn: [""]
+     associatedethnicgroup: ["Soninke people"]
+
+   SusuLinguisticGroup:
+     stringTokens: ["Susu", "Soso"]
+     wikidataQnode: ["Q33990"]
+     livesIn: [""]
+     associatedethnicgroup: ["SusuEthnicGroup"]
+
+   LomaLinguisticGroup:
+     stringTokens: ["Loghoma", "Looma", "Lorma", "Toma", "Loma"]
+     wikidataQnode: ["Q35885"]
+     livesIn: [""]
+     associatedethnicgroup: ["LomaEthnicGroup"]
+
+   WameyLinguisticGroup:
+     stringTokens: ["Wamey", "Konyagi"]
+     wikidataQnode: ["Q36935"]
+     livesIn: [""]
+     associatedethnicgroup: ["Konyagui people"]
+
+   YalunkaLinguisticGroup:
+     stringTokens: ["Yalunka", "Jalonke", "Kjalonke", "Dyalonké", "Djallonké", "Dialonké"]
+     wikidataQnode: ["Q35524"]
+     livesIn: [""]
+     associatedethnicgroup: ["Yalunka people"]
+   
+  ## politicalparties
+   PRGParty:
+     stringTokens: ["Rally of the Guinean People", "RPG"]
+     wikidataQnode:  ["Q2663294"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "progressivism"]
+
+   UFDGParty:
+     stringTokens: ["Union of Democratic Forces of Guinea"]
+     wikidataQnode:  ["Q577455"]
+     associatedEthnicGroup: ["Malinke people"]
+     ideologicalOrientation: ["centre", "liberalism", "socialLiberalism"]
+
+   UFRParty:
+     stringTokens: ["Union of Republican Forces"]
+     wikidataQnode:  ["Q3550145"]
+     ideologicalOrientation: ["centre", "liberalism"]
+
+   UPRParty:
+     stringTokens: ["Union for Progress and Renewal"]
+     wikidataQnode:  ["Q7886460"]
+
+   DPGADRParty:
+     stringTokens: ["Democratic Party of Guinea – African Democratic Rally"]
+     wikidataQnode:  ["Q1186265"]
+
+   UNRParty:
+     stringTokens: ["Union for the New Republic"]
+     wikidataQnode:  ["Q1971828"]
+
+   PUPParty:
+     stringTokens: ["Unity and Progress Party"]
+     wikidataQnode:  ["Q1583061"]
+     ideologicalOrientation: ["bigTent", "nationalism", "economicLiberalism", "authoritarianism"]
+
+   DSGParty:
+     stringTokens: ["Socialist Democracy of Guinea"]
+     wikidataQnode:  ["Q7551545"]
+     ideologicalOrientation: ["left", "socialism"]
+
+   ADPGParty:
+     stringTokens: ["African Democratic Party of Guinea"]
+     wikidataQnode:  ["Q4689747"]
+  
+   ANPParty:
+     stringTokens: ["National Alliance for Progress"]
+     wikidataQnode:  ["Q6970301"]
+
+   NFDParty:
+     stringTokens: ["New Democratic Forces "]
+     wikidataQnode:  ["Q97151861"]
+
+   PULSParty:
+     stringTokens: ["Party of Unity and Social Liberalism"]
+     wikidataQnode:  ["Q7140316"]
+
+   PPGParty:
+     stringTokens: ["People's Party of Guinea"]
+     wikidataQnode:  ["Q16911346"]
+
+   PUDParty:
+     stringTokens: ["Union for Development Party"]
+     wikidataQnode:  ["Q7886441"]
+
+   UPGParty-Guinea:
+     stringTokens: ["Union for the Progress of Guinea"]
+     wikidataQnode:  ["Q7886481"]
+
+   UFCParty:
+     stringTokens: ["Union of the Forces of Change "]
+     wikidataQnode:  ["Q106898662"]
+
+  ## armed groups
+   RDFGarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Rally of Democratic Forces of Guinea"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q18393334"]
+  
+   AFRCarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Armed Forces Revolutionary Council", "AFRC"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q4793014"]
+  
+   LDFarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Lofa Defense Force"]
+     associatedEthnicGroup: ["lomaEthnicGroup"]
+     wikidataQnode: ["Q6666641"]
+  
+   ULIMOKarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["ULIMO", "United Liberation Movement for Democracy in Liberia"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q7888232"]
+  
+   RUFarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Revolutionary United Front"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q1141973"]
+  
+ ## ProGovernment Militia
+   
+   CamaraproGovernmentMilitia:
+     stringTokens: ["Camara's Militias"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+
+   DonzosproGovernmentMilitia:
+     stringTokens: ["Donzos Militia"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]

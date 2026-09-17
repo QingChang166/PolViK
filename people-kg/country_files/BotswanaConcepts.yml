@@ -1,0 +1,251 @@
+concepts: 
+  BotswanaDefenceForces: 
+    stringTokens: ["Botswana Armed Forces", "BDF", "armed forces of Botswana", "mil Botswana", "military of Botswana"]
+    wikidataQnode: ["Q740258"]
+
+###EthnicGroups:
+  TswanaEthnicGroup:
+    stringTokens: ["Tswana", "Tswana people" , "Batswana", "Motswana", "Bechuana", "Chuana", "Western Sotho", "Bechuanas"]
+    wikidataQnode: ["Q810917"]
+    languagesMostSpoken: ["Tswana", "Setswana", "English", "Afrikaans", "Nama"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    livesIn: ["North West", "Chobe", "Central", "Kweneng", "Southern", "North East", "Kgatleng", "South East", "Southern", "Gaborone", "Jwaneng", "Lobatse", "Selibe Phikwe", "Orapa", "Sowa Town", "Francistown"]
+  
+  KalangaEthnicGroup:
+    stringTokens: ["Kalanga", "BaKalanga", "Bakalaka"]
+    wikidataQnode: ["Q1193813"]
+    languagesMostSpoken: ["TjiKalanga", "Shona languages", "Xitsonga", "TshiVenda language"]
+    religionsMostPracticed: ["Christianity", "Traditional African religion"]
+    livesIn: ["North West", "North East", "Central", "Francistown", "Sowa Town", "Selibe Phikwe"]
+  
+  KgalagadiEthnicGroup:
+    stringTokens: ["Kgalagadi people", "Kgalagadi", "Bakgalagadi"]
+    wikidataQnode: ["Q122166535"]
+    languagesMostSpoken: ["Kgalagadi", "Tswana", "English"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    livesIn: ["Ganzi", "Kgalagadi"]
+  
+  SanEthnicGroup:
+    stringTokens: ["San people", "Saan", "Bushmen", "Basarwa", "Sarwa", "Bosjesmans", "San"]
+    wikidataQnode: ["Q172365"]
+    languagesMostSpoken: ["Khoisan", "Khoe", "Tuu", "Kxʼa", "English", "Portuguese"]
+    religionsMostPracticed: ["San religion", "Christianity"]
+    livesIn: ["Kgalagadi"]
+  
+  HereroEthnicGroup:
+    stringTokens: ["Herero people", "Herero", "Hereros", "Ovaherero"]
+    wikidataQnode: ["Q170088"]
+    languagesMostSpoken: ["Herero", "Otjiherero"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    livesIn: ["North West", "Ganzi", "Orapa", "Central"]
+  
+  MbanderuEthnicGroup:
+    stringTokens: ["Mbanderu people", "Ovambanderu", "Mbandieru"]
+    wikidataQnode: ["Q17072693"]
+    languagesMostSpoken: ["Herero", "Otjiherero"]
+    religionsMostPracticed: ["African Traditional Religion", "Christianity", "Oupwee"]
+    livesIn: ["North West", "Ghanzi"]
+  
+  YeyiEthnicGroup:
+    stringTokens: ["Yeyi people", "Bayei", "Koba", "Mayeyi", "Yeei", "Yei", "Yeye"]
+    wikidataQnode: ["Q4205797"]
+    languagesMostSpoken: ["ShiYeyi"]
+    religionsMostPracticed: ["African Traditional Religion", "Christianity"]
+    livesIn: ["North West", "Central"]
+  
+  ShonaEthnicGroup:
+    stringTokens: ["Shona", "Shona people", "Mashona", "Maswina", "Makalaka", "Makalanga", "Makaranga", "Zezuru"]
+    wikidataQnode: ["Q642613"]
+    languagesMostSpoken: ["Shona", "English", "Bantu", "chiShona"]
+    religionsMostPracticed: ["Christianity", "Shona traditional religion"]
+    livesIn: ["North West", "Central"]
+  
+  MbukushuEthnicGroup:
+    stringTokens: ["Mbukushu people", "Mbukushu"]
+    wikidataQnode: ["Q16882745"]
+    languagesMostSpoken: ["Mbukushu", "Thimbukushu"]
+    religionsMostPracticed: ["Christianity", "African traditional religion"]
+    livesIn: ["North West"]
+  
+  WhiteEthnicGroup:
+    stringTokens: ["White", "Afrikaners"]
+    wikidataQnode: ["Q16151362"]
+    languagesMostSpoken: ["Afrikaans", "English", "Greek", "Serbian"]
+    religionsMNostPracticed: ["Christianity", "Judaism"]
+    livesIn: ["Ghanzi", "Kagalagadi", "Kweneng"]
+  
+  # Ethnic groups with population share less than 1% are omitted.
+
+  ## linguisticgroups
+  TshuwauLinguisticGroup:
+     stringTokens: ["Tswana", "Tshuwau", "Setswana", "Sechuana", "Bechuana", "Tswana language"]
+     wikidataQnode: ["Q34137"]
+     livesIn: [""]
+     associatedethnicgroup: ["TswanaEthnicGroup"]
+
+  MbukushuLinguisticGroup:
+     stringTokens: ["Mbukushu language", "Mbukushu", "Thimbukushu", "Thimbukushu language"]
+     wikidataQnode: ["Q2691548"]
+     livesIn: [""]
+     associatedethnicgroup: ["MbukushuEthnicGroup"]
+
+  NaroLinguisticGroup:
+     stringTokens: ["Naro", "Naro language", "Nharo", "Khoe"]
+     wikidataQnode: ["Q2164778"]
+     livesIn: [""]
+     associatedethnicgroup: ["Ncoakhoe"]
+
+  ShuaLinguisticGroup:
+     stringTokens: ["Shua language", "Shua"]
+     wikidataQnode: ["Q3501092"]
+     livesIn: ["Nata"]
+
+  TshwaLinguisticGroup:
+     stringTokens: ["Tshwa", "Kua", "Tsoa", "Tshuwau", "Hiechware"]
+     wikidataQnode: ["Q963636"]
+     livesIn: [""]
+
+  KgalagadiLinguisticGroup:
+     stringTokens: ["Kgalagadi", "Kgalagadi language", "Kgalagari", "Kgalagarhi", "Kgalagari", "Khalagari", "Khalakadi", "Kxhalaxadi", "Qhalaxarzi", "Shekgalagadi", "Shekgalagari", "Kqalaqadi")]
+     wikidataQnode: ["Q2088743"]
+     livesIn: [""]
+     associatedethnicgroup: ["KgalagadiEthnicGroup"]
+
+  YeyiLinguisticGroup:
+     stringTokens: ["Yeyi language", "Yeyi"]
+     wikidataQnode: ["Q8053347"]
+     livesIn: ["Okavango Region"]
+     associatedethnicgroup: ["YeyiEthnicGroup"]
+
+  TaaLinguisticGroup:
+     stringTokens: ["Taa language", "Taa", "ǃXóõ", "ǃKhong", "ǃXoon", "Tsasi", "!Xoon", "ǃXóõ", "!Xóõ", "!Xoo", "Taa language"]
+     wikidataQnode: ["Q13229"]
+     livesIn: ["Southern Ghanzi", "northern Kgalagadi", "southern Omaheke", "northeastern Hardap regions"]
+
+  AmkoeLinguisticGroup:
+     stringTokens: ["ǂʼAmkoe", "ǂʼAmkoe language", "=/Hua", "ǂHoan", "ǂHȍã", "ǂHua", "ǂHû", "ǂHûân"]
+     wikidataQnode: ["Q2053913"]
+     livesIn: [""]
+
+  KhweLinguisticGroup:
+     stringTokens: ["Khwe language", "Khwe"]
+     wikidataQnode: ["Q28305"]
+     livesIn: ["Northern district"]
+
+  AniLinguisticGroup:
+     stringTokens: ["ǁAni", "ǁAni language", "Khwe language", "Kxoe language", "Khwedam language", "Kxoe", "Khoe language", "Khoe"]
+     wikidataQnode: ["Q28305"]
+     livesIn: [""]
+
+  SebirwaLinguisticGroup:
+     stringTokens: ["Birwa language", "Birwa", "Sebirwa", "Sebirwa language"] 
+     wikidataQnode: [""]
+     livesIn: ["Bobonong"]
+
+###PoliticalParties
+  BCPParty:
+    stringTokens: ["Botswana Congress Party", "BCP"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4894021"]
+    yearsActiveasParty: ["1998-present"]
+    ideologicalOrientation: ["centre", "centreLeft", "socialDemocracy", "thirdWay"]
+  
+  BDPParty:
+    stringTokens: ["Botswana Democratic Party", "BDP", "Bechuanaland Democratic Party"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q859825"]
+    yearsActiveasParty: ["1961-present"]
+    ideologicalOrientation: ["centre", "centreRight", "paternalisticConservatism"]
+  
+  BIPParty:
+    stringTokens: ["Botswana Independence Party", "BIP", "Bechuanaland Independence Party"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q390056"]
+    yearsActiveasParty: ["1964-1995"]
+  
+  BWFParty:
+    stringTokens: ["Botswana Workers Front"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4948932"]
+    yearsActiveasParty: ["1993"] #Joined UDF in 1994
+  
+  BPFParty:
+    stringTokens: ["Botswana Patriotic Front", "BPF"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q72976241"]
+    yearsActiveasParty: ["2019-present"] # split from BDP
+  
+  APParty:
+    stringTokens: ["Alliance for Progressives", "AP"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q56295032"]
+    yearsActiveasParty: ["2017-present"] #split from BMD
+  
+  NDFParty:
+    stringTokens: ["New Democratic Front", "NDF"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4893598"]
+    yearsActiveasParty: ["2003-2004"] # split from BNF, joined forces with BCP in 2004
+  
+  ISBOParty:
+    stringTokens: ["International Socialist Organization", "ISBO"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4894013"]
+    yearsActiveasParty: [""]
+  
+  MELSParty:
+    stringTokens: ["MELS Movement of Botswana"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q949934"]
+    yearsActiveasParty: ["1994-present"]
+
+  BNFParty:
+    stringTokens: ["Botswana National Front", "BNF"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q2310801"]
+    yearsActiveasParty: ["1965-present"]
+    ideologicalOrientation: ["centreLeft", "Left", "socialDemocracy", "christianLeft"]
+  
+  BPPParty:
+    stringTokens: ["Botswana People's Party", "BPP", "Bechuanaland People's Party"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4893988"]
+    yearsActiveasParty: ["1960-present"]
+    ideologicalOrientation: ["left", "panAfrican", "socialDemocracy"]
+  
+  UDCParty:
+    stringTokens: ["Umbrella for Democratic Change", "UDC"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q18347306"]
+    yearsActiveasParty: ["2012-present"]
+    ideologicalOrientation: ["centreLeft", "socialDemocracy", "christianLeft", "panAfrican", "thirdWay"]
+  
+  BMDParty:
+    stringTokens: ["Botswana Movement for Democracy", "BMD"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q859682"]
+    yearsActiveasParty: ["2010-present"]
+  
+  BAMParty:
+    stringTokens: ["Botswana Alliance Movement", "BAM"]
+    associatedEthnicGroup: [""]
+    wikidataQnode: ["Q4893655"]
+    yearsActiveasParty: ["1999-2010"] # Merge into BCP
+    ideologicalOrientation: ["centreLeft", "progressivism"]
+
+###armedNonGovernmentalOrganizedGroups
+
+  CLAarmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["Caprivi Liberation Army", "CLA"]
+    associatedEthnicGroup: ["Lozi people"]
+    wikidataQnode: ["Q2496137"]
+    yearsActive: ["1994-present"] #fled into Botswana in 1998 during thew Caprivi conflict
+    ideologicalOrientation: ["regionalIndependence"] #caprivi strip, from Namibia
+
+  MKarmedNonGovernmentalOrganizedGroup:
+    stringTokens: ["uMkhonto we Sizwe", "MK", "uMkhonto weSizwe", "Umkhonto we sizwe", "Umkhonto weSizwe", "Umkhonto we Sizwe"]
+    associatedEthnicGroup: []
+    associatedPoliticalParty: ["African National Congress", "ANC"]
+    wikidataQnode: ["Q1136236"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1961-1993"] # terrorist attack in 1985
+    ideologicalOrientation: ["marxism", 'communism", 'antiApartheid", "panAfricanism", "nationalism"]  ##originally active in South Africa

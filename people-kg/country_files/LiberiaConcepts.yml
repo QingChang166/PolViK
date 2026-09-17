@@ -1,0 +1,186 @@
+concepts:
+    LiberianArmedForces:
+      stringTokens: ["Armed Forces of Liberia", "AFL", "Liberian military"]
+    ###ethnic groups
+    kpelleEthnicGroup:
+      stringTokens: ["Kpelle", "Kpelle people"]
+      wikidataQnode: ["Q930128"]
+      religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
+      livesIn: ["Bong County", "Lofa", "Nimba", "Grand Bassa", "Montserrado County"]
+    bassaEthnicGroup:
+      stringTokens: ["Bassa", "Bassa people", "Basa"]
+      wikidataQnode: ["Q810462"]
+      religionsMostPracticed: ["Christianity"]
+      livesIn: ["Grand Bassa County", "Grand Bassa County", "Buchanan", "Montserrado County", "Margibi County", "River Cess County"]
+    danEthnicGroup:
+      stringTokens: ["Dan", "Dan people", "Gio", "Gyo"]
+      wikidataQnode: ["Q1804699"]
+      religionsMostPracticed: ["Traditional religion"]
+      livesIn: ["Nimba County", "Tappita"]
+    manoEthnicGroup:
+      stringTokens: ["Mano people", "Mano"]
+      wikidataQnode: ["Q17110031"]
+      languagesMostSpoken: ["Nimba County", "Lofa County"]
+    kruEthnicGroup:
+      stringTokens: ["Kru", "Kru people", "Krou", "Krao"]
+      wikidataQnode: ["Q1537493"]
+      religionsMostPracticed: ["Christianity", "African traditional religion", "Sunni Islam"]
+      livesIn: ["Grand Kru", "Sinoe", "Maryland"]
+    mandingoEthnicGroup:
+      stringTokens: ["Mandingo", "Mandinka", "Mandinka people"]
+      wikidataQnode: ["Q819186"]
+      religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
+      livesIn: ["Lofa", "Bong", "Nimba", "Grand Cape Mount", "Bomi", "Gbarpolu"]
+    americoliberiansEthnicGroup:
+      stringTokens: ["Americo-Liberian", "Americo-Liberian people"]
+      wikidataQnode: ["Q3267945"]
+      religionsMostPracticed: ["Protestantism", "Catholicism"]
+      livesIn: ["Mambah-Kaba"]
+    lomaEthnicGroup:
+      stringTokens: ["Loma", "Loma people"]
+      wikidataQnode: ["Q1859406"]
+      religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
+      livesIn: ["Lofa", "Bong", "Gbarpolu"]
+    golaEthnicGroup:
+      stringTokens: ["Gola", "Gola people"]
+      wikidataQnode: ["Q1534501"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Grand Cape Mount", "Gbarpolu"]
+    greboEthnicGroup:
+      stringTokens: ["Grebo", "Glebo"]
+      wikidataQnode: ["Q1164772"]
+      languagesMostSpoken: []
+      religionsMostPracticed: []
+      livesIn: ["Grand Gedeh", "Maryland", "Zwedru", "Fish town", "Karloken", "Harper"]
+    vaiEthnicGroup:
+      stringTokens: ["Vai", "Vai people"]
+      wikidataQnode: ["Q2002234"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Islam", "Christianity"]
+      livesIn: ["Grand Cape Mount", "Robertsport", "Sinje", "Bomi", "Klay", "Tubmanburg", "Margibi", "Kakata", "Montserrado", "Monrovia"]
+    kissiEthnicGroup-Liberia:
+      stringTokens: ["Kissi", "Kissi people", "Kisi"]
+      wikidataQnode: ["Q1743773"]
+      religionsMostPracticed: ["Islam", "Christianity", "Traditional religion"]
+      livesIn: ["Nimba", "Grand Gedeh", "Maryland", "Tappita", "Bahn", "Zwedru"]
+    krahnEthnicGroup:
+      stringTokens: ["Krahn", "Krahn people", "Sapo", "Wee", "Wobe", "Guere"]
+      wikidataQnode: ["Q265962"]
+      religionsMostPracticed: ["Ethnic religions", "Christianity", "Evangelical"]
+      livesIn: ["Grand Gedeh", "River Gee", "Sinoe", "Maryland", "Zwedru"]
+    ###linguistic groups
+    kpelleLinguisticGroup:
+      stringTokens: ["Kpelle language"]
+      wikidataQnode: ["Q35673"]
+      associatedEthnicGroup: ["kpelleEthnicGroup"]
+    kruLinguisticGroup:
+      stringTokens: ["Kru", "Kru languages"]
+      wikidataQnode: ["Q33535"]
+      associatedEthnicGroup: ["kruEthnicGroup"]
+    bassaLinguisticGroup:
+      stringTokens: ["Bassa language", "Bassa"]
+      wikidataQnode: ["Q34949"]
+      associatedEthnicGroup: ["bassaEthnicGroup"]
+    danLinguisticGroup:
+      stringTokens: ["Dan", "Dan language"]
+      wikidataQnode: ["Q1158971"]
+      associatedEthnicGroup: ["danEthnicGroup"]
+    manoLinguisticGroup:
+      stringTokens: ["Mano", "Mano language"]
+      wikidataQnode: ["Q3913286"]
+      associatedEthnicGroup: ["manoEthnicGroup"]
+    golaLinguisticGroup:
+      stringTokens: ["Gola", "Gola language"]
+      wikidataQnode: ["Q35482"]
+    vaiLinguisticGroup:
+      stringTokens: ["Vai", "Vai language"]
+      wikidataQnode: ["Q36939"]
+      associatedEthnicGroup: ["vaiEthnicGroup"]
+    ###Political parties
+    lplParty:
+      stringTokens: ["Labor Party of Liberia", "LPL"]
+    fdpParty:
+      stringTokens: ["Free Democratic Party", "FDP"]
+    lerpParty:
+      stringTokens: ["Liberia Equal Rights Party", "LERP"]
+    uppParty:
+      stringTokens: ["United People's Party", "UPP"]
+    lppParty:
+      stringTokens: ["LPP", "Liberian People's Party"]
+    ndplParty:
+      stringTokens: ["National Democratic Party of Liberia", "NDPL"]
+      ideologicalOrientation: ["nationalism", "authoritarianism", "anticommunism"]
+    nppParty:
+      stringTokens: ["National Patriotic Party", "NPP"]
+    ndmParty:
+      stringTokens: ["New Deal Movement", "NDM"]
+    ndcParty:
+      stringTokens: ["National Democratic Coalition", "NDC"]
+      ideologicalOrientation: ["centreLeft", "left", "panAfricanism", "socialism", "socialDemocracy", "liberalism"]
+    cdcParty:
+      stringTokens: ["Congress for Democratic Change", "CDC"]
+      ideologicalOrientation: ["bigTent", "populism"]
+    pdplParty:
+      stringTokens: ["People's Democratic Party of Liberia", "PDPL"]
+    upParty:
+      stringTokens: ["Unity Party", "UP"]
+      ideologicalOrientation: ["centre", "centreRight", "economicLiberalism"]
+    lpParty:
+      stringTokens: ["Liberty Party", "LP"]
+    ancParty:
+      stringTokens: ["Alternative National Congress", "ANC"]
+    pupParty:
+      stringTokens: ["People's Unification Party", "PUP", "Native People's Party"]
+    linuParty:
+      stringTokens: ["Liberia National Union", "LINU"]
+    alcopParty:
+      stringTokens: ["All Liberia Coalition Party", "ALCOP"]
+    faplParty:
+      stringTokens: ["Freedom Alliance Party of Liberia", "FAPL"]
+    ldpParty:
+      stringTokens: ["Liberia Destiny Party", "LDP"]
+    nplParty:
+      stringTokens: ["National Party of Liberia", "NPL"]
+    nrpParty:
+      stringTokens: ["National Reformation Party", "NRP"]
+    nudpParty:
+      stringTokens: ["National Union for Democratic Progress", "NUDP"]
+    natvipolParty:
+      stringTokens: ["National Vision Party of Liberia", "NATVIPOL"]
+    prodemParty:
+      stringTokens: ["Progressive Democratic Party", "PRODEM"]
+    rulpParty:
+      stringTokens: ["Reformed United Liberia Party", "RULP"]
+    uldParty:
+      stringTokens: ["Union of Liberian Democrats", "ULD"]
+    ###armedgroups
+    ndplArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["National Democratic Front of Liberia", "NDPL"]
+    ulimoArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["ULIMO", "United Liberation Movement of Liberia for Democracy"]
+      wikidataQnode: ["Q7888232"]
+    npflArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["NPFL", "NATIONAL PATRIOTIC FRONT OF LIBERIA"]
+      wikidataQnode: ["Q1576536"]
+    inpflArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Independent National Patriotic Front of Liberia", "INPFL"]
+      wikidataQnode: ["Q474569"]
+    lurdArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["LIBERIANS UNITED FOR RECONCILIATION AND DEMOCRACY", "LURD"]
+      wikidataQnode: ["Q3238013"]
+      yearsActiveasArmedGroup: ["1999-2003"]
+    modelArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["MODEL", "MOVEMENT FOR DEMOCRACY IN LIBERIA"]
+      wikidataQnode: ["Q3326792"]
+    lpcArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Liberia Peace Council", "LPC"]
+      wikidataQnode: ["Q6541093"]
+    ldfArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Lofa Defense Force", "LDF"]
+      wikidataQnode: ["Q6666641"]
+    rufArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Revolutionary United Front", "RUF"]
+    ###paramilitaries
+    atuproGovernmentMilitia:
+      stringTokens: ["ATU", "Anti-Terrorist Unit"]
+      yearsActiveasArmedGroup: ["1998-2003"]

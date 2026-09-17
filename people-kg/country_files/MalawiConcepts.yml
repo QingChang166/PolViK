@@ -1,0 +1,145 @@
+concepts:
+   MalawianSecurityForces:
+     stringTokens: ["Malawian Defence Force", "Defence Force of Malawi", "Public force of Malawi", "Malawian public force", "Malawi Armed Forces", "Malawian military", "Military of Malawi"]
+     wikidataQnode: ["Q717987"]
+  
+  ## ethnicgroups
+   ChewaEthnicGroup:
+     stringTokens: ["Chewa people"]
+     wikidataQnode: ["Q1071390"]
+     languagesMostSpoken: ["Chewa", "English"] 
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Dedza", "Kasungu", "Dowa", "Salima", "Nkhotakota", "Ntcheu", "Mchinji", "Lilongwe"]
+
+   LomweEthnicGroup:
+     stringTokens: ["Lomwe people", "Acilowe", "Alomwe", "Alolo", "Anguru", "Lomue", "Lomues", "Nguru", "Walomwe"]
+     wikidataQnode: ["Q1868817"]
+     languagesMostSpoken: ["Malawi Lomwe"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Phalombe", "Mulanje", "Thyolo", "Chiradzulu", "Zomba", "Liwonde"]
+
+   YaoEthnicGroup:
+     stringTokens: ["Yao people", "Chiyao", "Ciyao", "Wayao", "Wayao'we", "Yawo"]
+     wikidataQnode: ["Q1255780"]
+     languagesMostSpoken: ["Chiyao", "Kiswahili"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Lake Nyassa", "Mangochi", "Zomba", "Chiradzulu", "Blantyre", "Mulanje"]
+   
+   NgoniEthnicGroup:
+     stringTokens: ["Ngoni people"]
+     wikidataQnode: ["Q17109664"]
+     languagesMostSpoken: ["Tumbuka", "Ngoni"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Mzimba", "Ntcheu"]
+
+   TumbukaEthnicGroup:
+     stringTokens: ["Tumbuka people", "Tumboka", "Kamanga", "Batumbuka", "Matumbuka", "Henga"]
+     wikidataQnode: ["Q534134"]
+     languagesMostSpoken: ["Tumbuka"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Rumpi", "Chitipa", "Karonga", "Nhata", "Isoka", "Mzimba", "Chama"]
+
+  ## linguisticgroups
+   LambyaLinguisticGroup:
+     stringTokens: ["Lambya", "ChiLambya", "Chilambya]
+     wikidataQnode: ["Q6481626"]
+     livesIn: [""]
+     associatedethnicgroup: ["Lambya people"]
+
+   MalawiLomweLinguisticGroup:
+     stringTokens: ["Malawi Lomwe"]
+     wikidataQnode: ["Q10975286"]
+     livesIn: ["Mulanje", "Thyolo"]
+     associatedethnicgroup: ["LomweEthnicGroup"]
+   
+   NyikaLinguisticGroup:
+     stringTokens: ["Nyika"]
+     wikidataQnode: ["Q16917497"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   ChewaLinguisticGroup:
+     stringTokens: ["Chewa", "Chichewa", "Nyanja", "ny", "Chinyanja"]
+     wikidataQnode: ["Q33273"]
+     livesIn: [""]
+     associatedethnicgroup: ["ChewaEthnicGroup"]
+
+   SenaLinguisticGroup:
+     stringTokens: ["Sena", "Chibarwe", "Mabarwe"]
+     wikidataQnode: ["Q2964008"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   TongaLinguisticGroup:
+     stringTokens: ["Tonga", "Chitonga"]
+     wikidataQnode: ["Q3847648"]
+     livesIn: ["Nkhata Bay District"]
+     associatedethnicgroup: [""]
+
+   TumbukaLinguisticGroup:
+     stringTokens: ["Tumbuka", "chiTumbuka", "tum"]
+     wikidataQnode: ["Q34138"]
+     livesIn: [""]
+     associatedethnicgroup: ["TumbukaEthnicGroup"]
+
+   YaoLinguisticGroup:
+     stringTokens: ["Yao"]
+     wikidataQnode: ["Q36902"]
+     livesIn: [""]
+     associatedethnicgroup: ["YaoEthnicGroup"]
+
+  ## politicalparties
+   MCPParty:
+     stringTokens: ["Malawi Congress Party"]
+     wikidataQnode: ["Q1037389"]
+     yearsActiveasParty: ["1959-present"] 
+     ideologicalOrientation: ["centreRight", "right", "bigTent", "conservatism", "nationalism", "independence", "anticommunism"]
+
+   AFORDParty:
+     stringTokens: ["Alliance for Democracy"]
+     wikidataQnode: ["Q4732363"]
+     yearsActiveasParty: ["1993-present"] 
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
+
+   UDFParty:
+     stringTokens: ["United Democratic Front"]
+     wikidataQnode: ["Q775844"] 
+     yearsActiveasParty: ["1992-present"] 
+     ideologicalOrientation: ["centre", "liberalism"]
+
+   NDAParty:
+     stringTokens: ["National Democratic Alliance"]
+     wikidataQnode: ["Q6972204"]
+     yearsActiveasParty: 
+
+   NRPParty:
+     stringTokens: ["New Republican Party"]
+     wikidataQnode: ["Q7694024"]
+     yearsActiveasParty: ["2009-present"] 
+
+   NCPParty:
+     stringTokens: ["Nyasaland Constitutional Party"]
+     wikidataQnode: ["Q20982200"]
+     yearsActiveasParty: ["1963-present"]
+
+   DPPParty:
+     stringTokens: ["Democratic Progressive Party"]
+     wikidataQnode: ["Q1185876"]
+     yearsActiveasParty: ["2005-present"]
+     ideologicalOrientation: ["centre", "bigTent", "liberalism"]
+
+   PPParty:
+     stringTokens: ["People's Party"]
+     wikidataQnode: ["Q2069639"]
+     yearsActiveasParty: ["2011-present"]
+     ideologicalOrientation: ["centreRight", "conservatism"]
+
+   NACParty:
+     stringTokens: ["Nyasaland African Congress"]
+     wikidataQnode: ["Q7070923"] 
+     yearsActiveasParty: 
+
+   UTMParty:
+     stringTokens: ["United Transformation Movement"]
+     wikidataQnode: ["Q107750651"]
+     yearsActiveasParty: ["2018-present"]

@@ -1,0 +1,199 @@
+concepts:
+    CongoleseSecurityForces:
+     stringTokens: ["Armed Forces of the Republic of the Congo", "FARC", "Congolese armed forces", "Military of Congo"]
+     wikidataQnode: ["Q458231"]
+  
+  ## ethnicgroups
+    kongoEthnicGroup:
+     stringTokens: ["Kongo people", "Bakongo"]
+     wikidataQnode: ["Q640090"]
+     languagesMostSpoken: ["Kikongo"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Brazzaville", "Southern and southwestern regions"]
+
+    tekeEthnicGroup-RepublicofCongo:
+     stringTokens: ["Teke people", "Bateke"]
+     wikidataQnode: ["Q811078"]
+     languagesMostSpoken: ["Tele languages"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Central and southwestern regions"]
+
+    lubaEthnicGroup:
+     stringTokens: ["Luba people", "Baluba"]
+     wikidataQnode: ["Q805841"]
+     languagesMostSpoken: ["Luba languages"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    mongoEthnicGroup:
+     stringTokens: ["Mongo people", "Nkundo", "Mongo", "Lomongo", "Mango"]
+     wikidataQnode: ["Q927706"]
+     languagesMostSpoken: ["Mongo"]  
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    mbochiEthnicGroup:
+     stringTokens: ["Mbochi people", "Mboshi", "Mbochi"]
+     wikidataQnode: ["Q1650456"]
+     languagesMostSpoken: ["Mbochi language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    kouyouEthnicGroup:
+     stringTokens: ["Kouyou people"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Kouyou language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    sanghaEthnicGroup:
+     stringTokens: ["Sangha people", "Sanga"]
+     wikidataQnode: ["Q7417971"]
+     languagesMostSpoken: ["Sangha language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: [""]
+
+    lariEthnicGroup:
+     stringTokens: ["Lari people", "Laari", "Laadi", "Ladi", "Balari", "Baladi"]
+     wikidataQnode: ["Q2749675"]
+     languagesMostSpoken: ["Lari"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Brazzaville", "Pointe-Noire", "Pool Department"]
+
+    viliEthnicGroup:
+     stringTokens: ["Vili people"]
+     wikidataQnode: ["Q3558407"]
+     languagesMostSpoken: ["Vili"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Atlantic coast", "Brazzaville"]
+     
+    pygmyEthnicGroup:
+     stringTokens: ["Pygmy peoples", "Pygmy people", "Pygmies", "Aka", "Baka", "Mbuti", "Pueblos pigmeos", "Pigmeos", "Pigmeo", "Pigmeo, Africano", "Gente del bosque"]
+     wikidataQnode: ["Q171927"]
+     languagesMostSpoken: ["Bantu languages", "Ubangian languages", "Central Sudanic languages"]
+     religionsMostPracticed: [""]
+     livesIn: [""]
+##Linguistic Groups
+    kitubaLinguisticGroup:
+      stringTokens: ["kituba", "munukutuba"]
+      wikidataQnode: ["Q35746"]
+      livesIn: ["point-noire", "brazzaville"]
+      associatedethnicgroup: [""]
+    lingalaLinguisticGroup:
+      stringTokens: ["lingala", "ngala"]
+      wikidataQnode: ["Q36217"]
+      livesIn: ["brazzaville"]
+      associatedethnicgroup: [""]
+    kikongoLinguisticGroup:
+      stringTokens: ["kikongo", "kongo", "kg"]
+      wikidataQnode: ["Q33702"]
+      livesIn: [""]
+      associatedethnicgroup: ["kongoEthnicGroup"]
+    tekeLinguisticGroup:
+      stringTokens: ["teke"]
+      wikidataQnode: ["Q36528"]
+      livesIn: [""]
+      associatedethnicgroup: ["tekeEthnicGroup-RepublicofCongo"]
+    mboshiLinguisticGroup:
+      stringTokens: ["mboshi", "mbosi"]
+      wikidataQnode: ["Q36035"]
+      livesIn: ["plateaux", "cuvette-ouest", "cuvette"]
+      associatedethnicgroup: ["mbochiEthnicGroup"]
+    lariLinguisticGroup:
+      stringTokens: ["lari", "ladi", "lari"]
+      wikidataQnode: ["Q3217917"]
+      livesIn: ["bouenza", "pool", "brazzaville"]
+      associatedethnicgroup: ["lariEthnicGroup"]
+     bekwilLinguisticGroup:
+      stringTokens: ["bekwil", "bekwel"]
+      wikidataQnode: ["Q34950"]
+      livesIn: ["sangha"]
+      associatedethnicgroup: [""]
+     kotaLinguisticGroup:
+      stringTokens: ["kota"]
+      wikidataQnode: ["Q35607"]
+      livesIn: ["sangha", "cuvette-ouest", "cuvette"]
+      associatedethnicgroup: [""]
+
+  ## politicalparties
+    
+    caddParty:
+     stringTokens: ["Action Committee for the Defense of Democracy – Youth Movement", "CADD-MJ", "Comité d'action pour la défense de la démocratie - Mouvement de jeunesse"]
+     yearsActiveasArmed: ["1993-2013"]
+     wikidataQnode:  ["Q4677088"] #afflicated with PCT
+    
+    upadsParty:
+     stringTokens: ["Pan-African Union for Social Democracy"]
+     wikidataQnode:  ["Q3550401"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "panAfricanism"]
+  
+    uddiaParty:
+     stringTokens: ["Democratic Union for the Defense of African Interests"]
+     wikidataQnode:  ["Q1377588"]
+  
+    pctParty:
+     stringTokens: ["Congolese Party of Labour", "Congolese Labor Party", "PCT"]
+     wikidataQnode:  ["Q1785816"]
+     ideologicalOrientation: ["centreLeft", "left", "farLeft", "socialDemocracy", "communism", "marxism"]
+  
+    mcddiParty:
+     stringTokens: ["Congolese Movement for Democracy and Integral Development"]
+     wikidataQnode:  ["Q3326534"]
+     ideologicalOrientation: ["centre", "centreRight", "liberalism", "conservatism"]
+  
+    mnrParty:
+     stringTokens: ["National Movement of the Revolution"]
+     wikidataQnode:  ["Q6974417"]
+  
+    asmParty:
+     stringTokens: ["African Socialist Movement"]
+     wikidataQnode:  ["Q3326838"]
+
+    rdpsParty:
+     stringTokens: ["Rally for Democracy and Social Progress"]
+     wikidataQnode:  ["Q17075186"]
+  
+    udfParty:
+     stringTokens: ["United Democratic Forces"]
+     wikidataQnode:  ["Q3077027"]
+
+    ppcParty:
+     stringTokens: ["Congolese Progressive Party"]
+     wikidataQnode:  ["Q5160547"]
+  
+    marParty:
+     stringTokens: ["Action and Renewal Movement"]
+     wikidataQnode:  ["Q4677129"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
+
+    fdcParty:
+     stringTokens: ["Congolese Democratic Front"]
+     wikidataQnode:  ["Q5160543"]
+  
+  ## armed groups
+    ninjaarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Ninja"]
+     associatedEthnicGroup: ["Bakongo people"]
+     wikidataQnode: ["Q2376614"]
+  
+    fdparmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Cobra", "Forces Démocratique and Patriotique", "FDP"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q108146857"]
+  
+    cocoyearmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Cocoye"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q108266046"]
+  
+    ntsiloulousarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Ntsiloulous"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  
+    flecarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Front for the Liberation of the Enclave of Cabinda", "FLEC"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q608489"]
+     ideologicalOrientation: ["regionalIndependence"]
+

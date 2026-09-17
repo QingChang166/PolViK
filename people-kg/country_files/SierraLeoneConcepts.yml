@@ -1,0 +1,187 @@
+concepts:
+    SierreLeoneArmedForces:
+      stringTokens: ["Republic of Sierra Leone Armed Forces", "RSLAF", "Sierra Leone Armed Forces", "Sierra Leonean army"]
+###ethnic groups
+    mendeEthnicGroup:
+      stringTokens: ["Mende", "Mende people", "Boumpe", "Hulo", "Huro", "Kossa", "Kosso", "Mendi", "Kpa Mende", "Sewa Mende", "Ko Mende"]
+      wikidataQnode: ["Q1262400"]
+      religionsMostPracticed: ["Islam", "Christianity", "Traditional religion"]
+      livesIn: ["Bo", "Moyamba", "Pujehun", "Bonthe", "Kailahun", "Kenema", "Freetown"]
+    temneEthnicGroup:
+      stringTokens: ["Temne people", "Temne", "Temen", "Timni", "Time people", "Timmanee", "Atemne", "Temeni"]
+      wikidataQnode: ["Q748316"]
+      religionsMostPracticed: ["Islam", "Christianity"]
+      livesIn: ["Bombali", "Port Loko", "Kambia", "Freetown", "Koinadugu", "Tonkolili"] 
+    limbaEthnicGroup:
+      stringTokens: ["Limba people", "Limba", "Limbah"]
+      wikidataQnode: ["Q2533513"]
+      religionsMostPracticed: ["Islam", "Christianity", "Indigenous beliefs"]
+      livesIn: ["Freetown", "Bombali", "Tonkolili", "Kambia"] 
+    fulaEthnicGroup-SierraLeone:
+      stringTokens: ["Fula people", "Fula"]
+      wikidataQnode: ["Q5507771"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Port Loko", "Kambia", "Bombali", "Tonkolili", "Koinadugu", "Kono", "Freetown", "Kailahun", "Kenema", "Pujehun"]
+    mandinkaEthnicGroup-SierraLeone:
+      stringTokens: ["Mandinka", "Mandinka people"]
+      wikidataQnode: ["Q6748086"]
+      religionsMostPracticed: ["Sunni Islam"]
+    konoEthnicGroup:
+      stringTokens: ["Kono people", "Kono"]
+      wikidataQnode: ["Q3198706"]
+      languagesMostSpoken: []
+      religionsMostPracticed: ["Islam", "Christianity", "Indigenous beliefs"]
+      livesIn: ["Kono District", "Koidu Town"]
+    krioEthnicGroup:
+      stringTokens: ["Krio", "Krio people", "Creole"]
+      wikidataQnode: ["Q2983498"]
+      religionsMostPracticed: ["Anglican", "Methodist", "Catholicism", "Baptist"]
+      livesIn: ["Freetown", "Bo", "Kenema", "Makeni"]
+    okuEthnicGroup:
+      stringTokens: ["Oku", "Oku people", "Aku Marabout", "Yoruba"]
+      wikidataQnode: ["Q25351821"]
+      religionsMostPracticed: ["Sunni Islam"]
+    kurankoEthnicGroup:
+      stringTokens: ["Kuranko", "Kuranko people", "Kolanko", "Korank"]
+      wikidataQnode: ["Q924230"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Koinadugu", "Kabala", "Falaba", "Bafodia", "Yagala"]
+    lokoEthnicGroup:
+      stringTokens: ["Loko", "Loko people", "Landogo"]
+      wikidataQnode: ["Q829604"]
+      religionsMostPracticed: ["Islam", "Christianity", "Indigenous beliefs"]
+      livesIn: [ "Bombali", "Port Loko", "Tonkolili "]
+    susuEthnicGroup-SierraLeone:
+      stringTokens: ["Susu", "Susu people", "Soso"]
+      wikidataQnode: ["Q1479265"]
+      religionsMostPracticed: ["Sunni Islam"]
+      livesIn: ["Kambia", "Port Loko", "Koinadugu"]
+    yalunkaEthnicGroup:
+      stringTokens: ["Yalunka people", "Yalunka"]
+      wikidataQnode: ["Q3160743"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Falaba", "Kono", "Kambia", "Koinadugu"]
+    kissiEthnicGroup-SierraLeone:
+      stringTokens: ["Kissi", "Kissi people", "Kisi"]
+      wikidataQnode: ["Q1743773"]
+      religionsMostPracticed: ["Christianity", "Traditional religion", "Islam"]
+      livesIn: ["Kailahun", "Kono", "Pujehun"]
+    sherbroEthnicGroup:
+      stringTokens: ["Sherbro", "Sherbro people"]
+      wikidataQnode: ["Q1004543"]
+      religionsMostPracticed: ["Christianity"]
+      livesIn: ["Sherbro Island"]
+    mendeLinguisticGroup:
+      stringTokens: ["Mende language", "Mende"]
+      wikidataQnode: ["Q1478672"]
+    temneLinguisticGroup:
+      stringTokens: ["Temne language", "Temne", "Timne"]
+      wikidataQnode: ["Q36613"]
+    susuLinguisticGroup:
+      stringTokens: ["Susu language", "Susu", "Soso"]
+      wikidataQnode: ["Q33990"]
+    kissiLinguisticGroup:
+      stringTokens: ["Kissi language", "Kissi", "Kisi"]
+      wikidataQnode: ["Q35696"]
+    sherbroLinguisticGroup:
+      stringTokens: ["Sherbro language", "Sherbro"]
+      wikidataQnode: ["Q36339"]
+### linguisticgroups
+  SherbroLinguisticGroup: 
+   stringTokens: ["Sherbro", "Southern Bullom", "Shiba", "Amampa", "Mampa", "Mampwa"]
+   wikidataQnode: ["Q36339"]
+   livesIn: ["Sherbro Island"]
+   associatedethnicgroup: ["sherbroEthnicGroup"]
+  BullomSoLinguisticGroup: 
+   stringTokens: ["Bullom So", "Mmani", "Mani", "Mandingi"]
+   wikidataQnode: ["Q35061"]
+   livesIn: ["Samu region", "Kambia District"]
+   associatedethnicgroup: [""]
+  KurankoLinguisticGroup: 
+   stringTokens: ["Kuranko"]
+   wikidataQnode: ["Q3198896"]
+   livesIn: [""]
+   associatedethnicgroup: ["kurankoEthnicGroup"]
+  KonoLinguisticGroup: 
+   stringTokens: ["Kono"]
+   wikidataQnode: ["Q35675"]
+   livesIn: ["Kono District"]
+   associatedethnicgroup: ["konoEthnicGroup"]
+  KrioLinguisticGroup: 
+   stringTokens: ["Krio"]
+   wikidataQnode: ["Q35744"]
+   livesIn: [""]
+   associatedethnicgroup: ["krioEthnicGroup"]
+  LimbaLinguisticGroup: 
+   stringTokens: ["Limba"]
+   wikidataQnode: ["Q35825"]
+   livesIn: ["Little Scarcies River", "Bombali District", "northeast Kambia District", "Makeni"]
+   associatedethnicgroup: ["limbaEthnicGroup"]
+  LokoLinguisticGroup: 
+   stringTokens: ["Loko"]
+   wikidataQnode: ["Q3914912"]
+   livesIn: ["Northern Sierra Leone"]
+   associatedethnicgroup: ["lokoEthnicGroup"]
+  MendeLinguisticGroup: 
+   stringTokens: ["Mende"]
+   wikidataQnode: ["Q1478672"]
+   livesIn: ["South central Sierra Leone"]
+   associatedethnicgroup: ["mendeEthnicGroup"]
+  ThemneLinguisticGroup: 
+   stringTokens: ["Themne", "Temne"]
+   wikidataQnode: ["Q36613"]
+   livesIn: ["Northern Sierra Leone"]
+   associatedethnicgroup: ["Temne people"]
+### Political parties
+    slppParty:
+      stringTokens: ["Sierra Leone People's Party", "SLPP"]
+      wikidataQnode: ["Q2033938"]
+      ideologicalOrientation: ["centre", "centreLeft", "centreRight", "socialDemocracy", "nationalism", "thirdWay", "conservatism"]
+    apcParty:
+      stringTokens: ["All People's Congress", "APC"]
+      wikidataQnode: ["Q385749"]
+      ideologicalOrientation: ["centreLeft", "left", "nationalism", "socialDemocracy", "panAfricanism"]
+    gapParty:
+      stringTokens: ["Grand Alliance Party", "GAP"]
+      wikidataQnode: ["Q5594230"]
+    plpParty:
+      stringTokens: ["Peace and Liberation Party"]
+      wikidataQnode: ["Q7157487"]
+    pdpParty:
+      stringTokens: ["People's Democratic Party"]
+      wikidataQnode: ["Q7165533"]
+    pmdcParty:
+      stringTokens: ["People's Movement for Democratic Change", "PMDC"]
+      wikidataQnode: ["Q6151267"]
+      ideologicalOrientation: ["centre", "centreRight", "liberalism"]
+    unppParty:
+      stringTokens: ["United National People's Party"]
+      wikidataQnode: ["Q7888303"]
+    upParty-SierraLeone:
+      stringTokens: ["Unity Party"]
+      wikidataQnode: ["Q55636708"]
+    yppParty:
+      stringTokens: ["Young People's Party"]
+      wikidataQnode: ["Q8058347"]
+    nadpParty:
+      stringTokens: ["National Alliance Democratic Party"]
+      wikidataQnode: ["Q6970284"]
+###armed groups
+    rufArmedNonGovernmentalOrganizedGroup-SierraLeone:
+      stringTokens: ["Revolutionary United Front", "RUF"]
+      wikidataQnode: ["Q1141973"]
+      yearsActiveasArmedGroup: ["1991-2002"]
+    afrcArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Armed Forces Revolutionary Council", "AFRC"]
+      wikidataQnode: ["Q4793014"]
+      yearsActiveasArmedGroup: ["1997-2002"]
+    wsbArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["West Side Boys", "WSB", "West Side Niggaz", "West Side Junglers"]
+      wikidataQnode: ["Q614512"]
+      yearsActiveasArmedGroup: ["1998-2000"]
+    kamajorsArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Kamajors"]
+      wikidataQnode: ["Q776493"]
+    cdfproGovernmentMilitia:
+      stringTokens: ["Civil Defense Forces", "CDF"]
+      wikidataQnode: ["Q5124462"]

@@ -1,0 +1,58 @@
+concepts:
+  rwandanSecurityForces:
+   stringTokens: ["Rwandan National Police", "RNP", "Local Defense Force", "National Intelligence and Security Services", "NISS"]
+##ethnicgroups
+  hutuEthnicGroup:
+   stringTokens: ["Hutu", "Bahutu", "Abahutu", "Lera", "Ndara", "Ndoga", "Ndogo", "Shobyo", "Tshogo", "Urulera"]
+   wikidataQnode: ["Q192647"]
+  tutsiEthnicGroup:
+   stringTokens: ["Tutsi", "Abatutsi", "Watutsi", "Watusi", "Wahuma", "Wahima", "Imfure", "Batutsi", "Watoetsi", "Watussi", "Tutsis", 
+                 "Banyamulenge", "Banyarwanda", "Imfure", "Tusi", Tussi", Mulenge", "Ruanda", "Tuti"]
+   wikidataQnode:  ["Q193092"]
+  twaEthnicGroup: 
+   stringTokens: ["Twa","Batwua", "Batwa" ]
+   wikidataQnode: ["Q7857394" ]
+##linguisticgroups
+  KinyarwandaLinguisticGroup:
+   stringTokens: ["Kinyarwanda", "Ikinyarwanda", "Rwanda", "Rwandan", "Ruanda", "Nyarwanda"]
+   wikidataQnode: ["Q33573"]
+   livesIn: []
+   associatedethnicgroup: ["hutuEthnicGroup", "tutsiEthnicGroup", "twaEthnicGroup"]
+##politicalparties
+  MRNDParty:
+   stringTokens: ["MRND", "National Revolutionary Movement for Developement", "Mouvement Révolutionnaire National pour le Développement", "MRNDD"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]
+   ideologicalOrientation: ["farRight", "socialConservatism", "anticommunism", "authoritarianism"]
+  RPFParty:
+   stringTokens: ["Rwandan Patriotic Front", "RPF", "Front Patriotique Rwandais", "FPR"]
+   associatedEthnicGroup: ["tutsiEthnicGroup"] 
+   ideologicalOrientation: ["bigTent", "nationalism", "economicLiberalism", "authoritarianism"]
+  PSDParty:
+   stringTokens: ["Social Democratic Party", "PSD", "Parti Social Démocrate"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy"]
+  PLParty: 
+   stringTokens: ["Liberal Party", "PL", "Parti Libéral"]
+   ideologicalOrientation: ["centre", "liberalism"]
+  RNCParty: 
+   stringTokens: ["Rwanda National Congress", "RNC", "Congrès National Rwandais"]
+##armed groups
+  FARarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Rwandan Armed Forces", "FAR"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]
+  InterahamwearmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Interahamwe"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]
+   ideologicalOrientation: ["nationalism", "antiCommunism", "hutuPower"]
+  RPAarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["RPA", "Rwandan Patriotic Army"]
+   associatedEthnicGroup: ["tutsiEthnicGroup"]
+  FDLRarmedNonGovernmentalOrganizedGroup:  ##here or DRC
+   stringTokens: ["Democratic Forces for the Liberation of Rwanda", "FDLR", "Forces Démocratiques pour la Libération du Rwanda"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]
+   ideologicalOrientation: ["hutuPower"]
+   
+  
+
+
+
+

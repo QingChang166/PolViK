@@ -1,0 +1,220 @@
+concepts:
+   AlgerianSecurityForces:
+     stringTokens: ["Algerian People's National Army", "Combined military forces of Algeria", "Algerian Armed Forces"]
+     wikidataQnode: ["Q897700"]
+  
+  ## ethnicgroups
+   ArabEthnicGroup:
+     stringTokens: ["Arabs", "Arab people"]
+     wikidataQnode: ["Q35323"]
+     languagesMostSpoken: ["Arabic"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Northern regions", "Coastal regions"]
+
+   BerberEthnicGroup:
+     stringTokens: ["Berbers", "Amazigh", "Berber people"]
+     wikidataQnode: ["Q45315"]
+     languagesMostSpoken: ["Berber languages", "Tamazight", "Arabic"]
+     religionsMostPracticed: ["Sunni Islam"]
+     livesIn: ["Kabylie region"]
+
+   ## linguisticgroups
+   ArabicLinguisticGroup:
+     stringTokens: ["Arabic"]
+     wikidataQnode: ["Q13955"]
+     livesIn: [""]
+     associatedEthnicGroup: ["ArabEthnicGroup"]
+
+   AlgerianArabicLinguisticGroup:
+     stringTokens: ["Arabic", "Algerian Arabic]
+     wikidataQnode: ["Q56499"]
+     livesIn: [""]
+     associatedEthnicGroup: ["ArabEthnicGroup"]
+
+   ShenwaLinguisticGroup:
+     stringTokens: ["Chenoua", "Shenwa]
+     wikidataQnode: ["Q33276"]
+     livesIn: ["Mount Chenoua", "Jebel Chenoua", "Cherchell", "Tipaza", "Chlef"]
+     associatedEthnicGroup: ["BerberEthnicGroup"]
+
+   BerbersLinguisticGroup:
+     stringTokens: ["Amazigh", "Berbers", "Imazighen"]
+     wikidataQnode: ["Q45315"]
+     livesIn: [""]
+     associatedEthnicGroup: ["BerberEthnicGroup"]
+
+   KorandjeLinguisticGroup:
+     stringTokens: ["Korandje", "Kwaranje"]
+     wikidataQnode: ["Q33427"]
+     livesIn: ["Tabelbala", "Béchar Province"]
+     associatedethnicgroup: ["Belbali people"]
+
+   MozabiteLinguisticGroup:
+     stringTokens: ["Tumzabt", "Mozabite"]
+     wikidataQnode: ["Q36149"]
+     livesIn: ["M'zab"]
+     associatedethnicgroup: ["Mozabite"]
+
+   ShawiyaLinguisticGroup:
+     stringTokens: ["Tachawit", "Shawiya", "Shy"]
+     wikidataQnode: ["Q33274"]
+     livesIn: ["Awras region", "Aurès Mountains", "Batna", "Khenchela", "Oum El Bouaghi", "Souk Ahras", "Tébessa", "Biskra"]
+     associatedethnicgroup: ["Shawiya"]
+   
+   TamajaqLinguisticGroup:
+     stringTokens: ["Tamahaq, Tahaggart"]
+     wikidataQnode: ["Q56703"]
+     livesIn: [""]
+     associatedethnicgroup: ["Tuareg"]
+
+   TidikeltLinguisticGroup:
+     stringTokens: ["Tamazight", "Tidikelt", "Tidikelt Tamazight", "Tidikelt Berber"]
+     wikidataQnode: ["Q56392"]
+     livesIn: [""]
+     associatedethnicgroup: ["BerberEthnicGroup"]
+
+   TugurtLinguisticGroup:
+     stringTokens: ["Tugurt", "Tamazight, Temacine", "Temacine Tamazight", "Oued-Righ Berber", "Oued Righ"]
+     wikidataQnode: ["Q3507211"]
+     livesIn: ["Oued Righ", "Touggourt"]
+     associatedethnicgroup: ["BerberEthnicGroup"]
+     
+  ## politicalparties
+   FLNParty:
+     stringTokens: ["FLN", "National Liberation Front"]
+     wikidataQnode:  ["Q204543"]
+     yearsActiveasParty: ["1954-present"]
+     
+   FNAParty:
+     stringTokens: ["Algerian National Front"]
+     wikidataQnode:  ["Q912180"]
+     yearsActiveasParty: ["1980-present"]
+     ideologicalOrientation: ["right", "conservatism"]
+
+   RNDParty:
+     stringTokens: ["RND", "Democratic National Rally"]
+     wikidataQnode:  ["Q840321"]
+     yearsActiveasParty: ["1997-present"]
+     ideologicalOrientation: ["centre", "centreRight", "populism", "economicLiberalism"]
+   
+   FFSParty:
+     stringTokens: ["Socialist Forces Front", "FFS"]
+     wikidataQnode:  ["Q605960"]
+     yearsActiveasParty: ["1963-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "nationalism", "berberism", "secularism"]
+
+   MSPParty:
+     stringTokens: ["Movement of Society for Peace"]
+     wikidataQnode:  ["Q1889454"]
+     yearsActiveasParty: ["1990-present"]
+     ideologicalOrientation: ["islamicDemocracy", "socialConservatism", "economicLiberalism", "islamism", "sunniIslam"]
+
+
+   MNRParty:
+     stringTokens: ["Movement for National Reform"]
+     wikidataQnode:  ["Q852320"]
+     yearsActiveasParty: ["1999-present"]
+
+   WPPParty:
+     stringTokens: ["Workers' Party"]
+     wikidataQnode:  ["Q627196"]
+     yearsActiveasParty: ["1990-present"]
+     ideologicalOrientation: ["farLeft", "communism"]
+
+   IRMParty:
+     stringTokens: ["Islamic Renaissance Movement"]
+     wikidataQnode:  ["Q1790632"]
+     yearsActiveasParty: ["1990-present"]
+
+   FFParty:
+     stringTokens: ["Future Front", "El Moustakbal Front"]
+     wikidataQnode:  ["Q3088407"]
+     yearsActiveasParty: ["2012-present"]
+
+   NCMParty:
+     stringTokens: ["National Construction Movement"]
+     wikidataQnode:  ["Q77343344"]
+     yearsActiveasParty: ["2013-present"]
+
+   PVPParty:
+     stringTokens: ["Voice of the People", "Voice of the People Party"]
+     wikidataQnode:  ["Q111748052"]
+
+   JDFParty:
+     stringTokens: ["Justice and Development Front", "Front for Justice and Development"]
+     wikidataQnode:  ["Q3088456"]
+     yearsActiveasParty: ["2011-present"]
+
+   NDParty:
+     stringTokens: ["New Dawn", "New Dawn Party"]
+     wikidataQnode:  ["Q12207717"]
+     yearsActiveasParty: ["2012-present"]
+
+   RCDParty:
+     stringTokens: ["RCD", "Rally for Culture and Democracy"]
+     wikidataQnode:  ["Q1627773"]
+     yearsActiveasParty: ["1989-present"]
+     ideologicalOrientation: ["centre", "centreLeft", "liberalism", "socialLiberalism", "berberism", "nationalism", "secularism"]
+
+   FISParty:
+     stringTokens: ["FIS", "Islamic Salvation Front", "al-Jabhah al-Islāmiyah lil-Inqādh", "Front Islamique du Salut"]
+     wikidataQnode: ["Q734545"]
+     yearsActiveasParty: ["1989-1992"]
+     ideologicalOrientation: ["centreRight", "conservatism", "islamicDemocracy"]
+
+  ## armed groups
+   GIAarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Armed Islamic Group of Algeria"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q1125408"]
+     ideologicalOrientation: ["islamist", "sunniIslam"]
+  
+   FIDAarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Islamic Front for Armed Jihad"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q6082473"]
+     ideologicalOrientation: ["islamist"]
+  
+   AISarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Islamic Salvation Army"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q117184203"]
+     ideologicalOrientation: ["islamist", "sunniIslamist", "fundamentalistIslam", "jihadism", "nationalism", "qutbism", "panIslam", "antiCommunism", "antiDemocracy"]
+  
+   GSPCarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Salafist Group for Preaching and Combat"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q311841"]
+     ideologicalOrientationL ["islamist", "panIslam", "qutbism", "panIslam", "jihadism", "salafism"]
+  
+   THarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Takfir wal-Hijra"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q291419"]
+     ideologicalorientation: ["islamist", "qutbism"]
+  
+   MOJWAarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Movement for Oneness and Jihad in West Africa", "Movement for Unity and Jihad in West Africa", "MOJVA", "MUJVA"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q550108"]
+     ideologicalOrientation: ["islamist", "jihadism"]
+  
+   IS-AParmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Islamic State", "Islamic State – Algeria Province", "Jund al-Khilafah"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q18122635"]
+     ideologicalOrientation: ["salafism", "jihadism", "islamist"]
+
+   AQIMarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["al-Qaeda in the Islamic Maghreb", "AQIM"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q2635966"]
+     ideologicalOrientation: ["jihadism", "antiZionism", "salafism", "antiWest", "antiImperalism"]
+  
+ ## ProGovernment Militia
+      
+   OJALproGovernmentMilitia:
+     stringTokens: ["Organisation of Young Free Algerians"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: ["Q663518"]
+     ideologicalOrientation: ["secularism"]

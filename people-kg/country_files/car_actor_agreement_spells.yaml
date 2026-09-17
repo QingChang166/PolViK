@@ -1,0 +1,2239 @@
+CAF018_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Engagement Agreement on The Batangafo Unarmed Zone
+  Agreement_ID:
+  - CAF018
+  Date:
+  - 12-12-15
+  Location:
+  - Batangafo, Ouham
+  Location_ID:
+  - CAF.15.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF018_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Engagement Agreement on The Batangafo Unarmed Zone
+  Agreement_ID:
+  - CAF018
+  Date:
+  - 12-12-15
+  Location:
+  - Batangafo, Ouham
+  Location_ID:
+  - CAF.15.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF018_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Engagement Agreement on The Batangafo Unarmed Zone
+  Agreement_ID:
+  - CAF018
+  Date:
+  - 12-12-15
+  Location:
+  - Batangafo, Ouham
+  Location_ID:
+  - CAF.15.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF030_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - 'Memorandum of Understanding on Nonaggression and Coexistence '
+  Agreement_ID:
+  - CAF030
+  Date:
+  - 27-01-16
+  Location:
+  - Bambari, Ouaka
+  Location_ID:
+  - CAF.13.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF030_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - 'Memorandum of Understanding on Nonaggression and Coexistence '
+  Agreement_ID:
+  - CAF030
+  Date:
+  - 27-01-16
+  Location:
+  - Bambari, Ouaka
+  Location_ID:
+  - CAF.13.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF037_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Protocole de Non-Agression
+  Agreement_ID:
+  - CAF037
+  Date:
+  - 08-03-16
+  Location:
+  - Ndenga, Kaga-Bandoro
+  Location_ID:
+  - GID_139359
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2192_5e3447fa6c4ac.pdf
+  coder:
+  - Zhejun, Merve
+CAF037_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Protocole de Non-Agression
+  Agreement_ID:
+  - CAF037
+  Date:
+  - 08-03-16
+  Location:
+  - Ndenga, Kaga-Bandoro
+  Location_ID:
+  - GID_139359
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2192_5e3447fa6c4ac.pdf
+  coder:
+  - Zhejun, Merve
+CAF032_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Pacte de Non-Agression
+  Agreement_ID:
+  - CAF032
+  Date:
+  - 08-06-16
+  Location:
+  - Mbres
+  Location_ID:
+  - CAF.10.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2193_5e343fbcd3253.pdf
+  coder:
+  - Zhejun, Merve
+CAF032_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Pacte de Non-Agression
+  Agreement_ID:
+  - CAF032
+  Date:
+  - 08-06-16
+  Location:
+  - Mbres
+  Location_ID:
+  - CAF.10.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2193_5e343fbcd3253.pdf
+  coder:
+  - Zhejun, Merve
+CAF032_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Pacte de Non-Agression
+  Agreement_ID:
+  - CAF032
+  Date:
+  - 08-06-16
+  Location:
+  - Mbres
+  Location_ID:
+  - CAF.10.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2193_5e343fbcd3253.pdf
+  coder:
+  - Zhejun, Merve
+CAF032_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Pacte de Non-Agression
+  Agreement_ID:
+  - CAF032
+  Date:
+  - 08-06-16
+  Location:
+  - Mbres
+  Location_ID:
+  - CAF.10.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2193_5e343fbcd3253.pdf
+  coder:
+  - Zhejun, Merve
+CAF033_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Pacte de Non-Agression et Reconciliation Communautaire
+  Agreement_ID:
+  - CAF033
+  Date:
+  - 11-02-16
+  Location:
+  - 3rd District (Bangui) and the town of Bimbo III
+  Location_ID:
+  - GID_135758
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2197_5cfe875783151.pdf
+  coder:
+  - Zhejun, Merve
+CAF033_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Pacte de Non-Agression et Reconciliation Communautaire
+  Agreement_ID:
+  - CAF033
+  Date:
+  - 11-02-16
+  Location:
+  - 3rd District (Bangui) and the town of Bimbo III
+  Location_ID:
+  - GID_135758
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2197_5cfe875783151.pdf
+  coder:
+  - Zhejun, Merve
+CAF025_cnds_01:
+  Actor_ID:
+  - cnds
+  Agreement_Content:
+  - Joint Communique (Agreement of Ippy)
+  Agreement_ID:
+  - CAF025
+  Date:
+  - 06-10-17
+  Location:
+  - |-
+    WAKA, BASSE-KOTTO, and HAUTE-
+    KOTTO
+  Location_ID:
+  - CAF.13_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2256_5e95be7e361f1.pdf
+  coder:
+  - Zhejun, Merve
+CAF025_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Joint Communique (Agreement of Ippy)
+  Agreement_ID:
+  - CAF025
+  Date:
+  - 06-10-17
+  Location:
+  - |-
+    WAKA, BASSE-KOTTO, and HAUTE-
+    KOTTO
+  Location_ID:
+  - CAF.13_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2256_5e95be7e361f1.pdf
+  coder:
+  - Zhejun, Merve
+CAF025_cnds_02:
+  Actor_ID:
+  - cnds
+  Agreement_Content:
+  - Joint Communique (Agreement of Ippy)
+  Agreement_ID:
+  - CAF025
+  Date:
+  - 06-10-17
+  Location:
+  - |-
+    WAKA, BASSE-KOTTO, and HAUTE-
+    KOTTO
+  Location_ID:
+  - CAF.13_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2256_5e95be7e361f1.pdf
+  coder:
+  - Zhejun, Merve
+CAF025_cnds_03:
+  Actor_ID:
+  - cnds
+  Agreement_Content:
+  - Joint Communique (Agreement of Ippy)
+  Agreement_ID:
+  - CAF025
+  Date:
+  - 06-10-17
+  Location:
+  - |-
+    WAKA, BASSE-KOTTO, and HAUTE-
+    KOTTO
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2256_5e95be7e361f1.pdf
+  coder:
+  - Zhejun, Merve
+CAF025_upc_02:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Joint Communique (Agreement of Ippy)
+  Agreement_ID:
+  - CAF025
+  Date:
+  - 06-10-17
+  Location:
+  - |-
+    WAKA, BASSE-KOTTO, and HAUTE-
+    KOTTO
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2256_5e95be7e361f1.pdf
+  coder:
+  - Zhejun, Merve
+CAF025_cnds_04:
+  Actor_ID:
+  - cnds
+  Agreement_Content:
+  - Joint Communique (Agreement of Ippy)
+  Agreement_ID:
+  - CAF025
+  Date:
+  - 06-10-17
+  Location:
+  - |-
+    WAKA, BASSE-KOTTO, and HAUTE-
+    KOTTO
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2256_5e95be7e361f1.pdf
+  coder:
+  - Zhejun, Merve
+CAF008_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Act Of Commitment Between the Ex-Seleka of The Sub-Prefecture Of Nana Bakassa
+    And The Anti-Balaka of The Sub-Prefectures Of Nana Bakassa And Bossangoa
+  Agreement_ID:
+  - CAF008
+  Date:
+  - 15-06-17
+  Location:
+  - Nana-Bakassa, Ouham
+  Location_ID:
+  - CAF.15.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF008_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Act Of Commitment Between the Ex-Seleka of The Sub-Prefecture Of Nana Bakassa
+    And The Anti-Balaka of The Sub-Prefectures Of Nana Bakassa And Bossangoa
+  Agreement_ID:
+  - CAF008
+  Date:
+  - 15-06-17
+  Location:
+  - Nana-Bakassa, Ouham
+  Location_ID:
+  - CAF.15.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF015_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Declaration of social contract
+  Agreement_ID:
+  - CAF015
+  Date:
+  - 21-06-17
+  Location:
+  - Bossangoa, Ouham
+  Location_ID:
+  - CAF.15.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF034_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Pacte de Non-Agression et de la Libre Circulation dans La Commune de Ndenga
+  Agreement_ID:
+  - CAF034
+  Date:
+  - 10-06-17
+  Location:
+  - Ndenga commune, Kaga-Bandoro
+  Location_ID:
+  - GID_139359
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2196_5e343d552e7f7.pdf
+  coder:
+  - Zhejun, Merve
+CAF009_3r_01:
+  Actor_ID:
+  - 3r
+  Agreement_Content:
+  - Acte d'Engagement Entre Les Groupes Anti-Balakas de la Nana Membere et 3R (Bouar
+    Agreement)
+  Agreement_ID:
+  - CAF009
+  Date:
+  - 14-12-17
+  Location:
+  - Nana-Mambere prefecture
+  Location_ID:
+  - CAF.11_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2198_5e32fd165b672.pdf
+  coder:
+  - Zhejun, Merve
+CAF009_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Acte d'Engagement Entre Les Groupes Anti-Balakas de la Nana Membere et 3R (Bouar
+    Agreement)
+  Agreement_ID:
+  - CAF009
+  Date:
+  - 14-12-17
+  Location:
+  - Nana-Mambere prefecture
+  Location_ID:
+  - CAF.11_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2198_5e32fd165b672.pdf
+  coder:
+  - Zhejun, Merve
+CAF019_mlcj_01:
+  Actor_ID:
+  - mlcj
+  Agreement_Content:
+  - Feuille de Route
+  Agreement_ID:
+  - CAF019
+  Date:
+  - 19-12-17
+  Location:
+  - Haute-Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2204_5e1c739cc74df.pdf
+  coder:
+  - Zhejun, Merve
+CAF019_rprc_01:
+  Actor_ID:
+  - rprc
+  Agreement_Content:
+  - Feuille de Route
+  Agreement_ID:
+  - CAF019
+  Date:
+  - 19-12-17
+  Location:
+  - Haute-Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2204_5e1c739cc74df.pdf
+  coder:
+  - Zhejun, Merve
+CAF019_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Feuille de Route
+  Agreement_ID:
+  - CAF019
+  Date:
+  - 19-12-17
+  Location:
+  - Haute-Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2204_5e1c739cc74df.pdf
+  coder:
+  - Zhejun, Merve
+CAF007_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Accord entre les Groupes Armes de Batangafo
+  Agreement_ID:
+  - CAF007
+  Date:
+  - 24-02-18
+  Location:
+  - Batangafo
+  Location_ID:
+  - CAF.15.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2209_5e32beb9225e8.pdf
+  coder:
+  - Zhejun, Merve
+CAF007_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Accord entre les Groupes Armes de Batangafo
+  Agreement_ID:
+  - CAF007
+  Date:
+  - 24-02-18
+  Location:
+  - Batangafo
+  Location_ID:
+  - CAF.15.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2209_5e32beb9225e8.pdf
+  coder:
+  - Zhejun, Merve
+CAF004_rprc_01:
+  Actor_ID:
+  - rprc
+  Agreement_Content:
+  - Accord de Reconciliation Entre Les Communautés Goula et Peul (Bria Agreement)
+  Agreement_ID:
+  - CAF004
+  Date:
+  - 03-05-18
+  Location:
+  - Central and northeastern regions of the Central African Republic
+  Location_ID:
+  - CAF.5.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2189_5e32be49dc058.pdf
+  coder:
+  - Zhejun, Merve
+CAF004_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Accord de Reconciliation Entre Les Communautés Goula et Peul (Bria Agreement)
+  Agreement_ID:
+  - CAF004
+  Date:
+  - 03-05-18
+  Location:
+  - Central and northeastern regions of the Central African Republic
+  Location_ID:
+  - CAF.5.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2189_5e32be49dc058.pdf
+  coder:
+  - Zhejun, Merve
+CAF006_3r_01:
+  Actor_ID:
+  - 3r
+  Agreement_Content:
+  - Accord des Retour Voluntaire des DPIs des Koui
+  Agreement_ID:
+  - CAF006
+  Date:
+  - 03-10-18
+  Location:
+  - Degaule, Koui
+  Location_ID:
+  - CAF.14.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2382_609e93a780623.pdf
+  coder:
+  - Zhejun, Merve
+CAF006_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Accord des Retour Voluntaire des DPIs des Koui
+  Agreement_ID:
+  - CAF006
+  Date:
+  - 03-10-18
+  Location:
+  - Degaule, Koui
+  Location_ID:
+  - CAF.14.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2382_609e93a780623.pdf
+  coder:
+  - Zhejun, Merve
+CAF038_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Recommandations
+  Agreement_ID:
+  - CAF038
+  Date:
+  - 05-06-18
+  Location:
+  - Bangassou, Mbomou
+  Location_ID:
+  - CAF.9.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2190_5e32bdba19e7d.pdf
+  coder:
+  - Zhejun, Merve
+CAF026_cnds_01:
+  Actor_ID:
+  - cnds
+  Agreement_Content:
+  - Joint Final Communique of the meeting of the leaders of politico-military groups
+    for peace and reconciliation
+  Agreement_ID:
+  - CAF026
+  Date:
+  - 05-08-18
+  Location:
+  - Moyenne Sido
+  Location_ID:
+  - GID_141518
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2255_603cde972ddba.pdf
+  coder:
+  - Zhejun, Merve
+CAF026_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Joint Final Communique of the meeting of the leaders of politico-military groups
+    for peace and reconciliation
+  Agreement_ID:
+  - CAF026
+  Date:
+  - 05-08-18
+  Location:
+  - Moyenne Sido
+  Location_ID:
+  - GID_141518
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2255_603cde972ddba.pdf
+  coder:
+  - Zhejun, Merve
+CAF026_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Joint Final Communique of the meeting of the leaders of politico-military groups
+    for peace and reconciliation
+  Agreement_ID:
+  - CAF026
+  Date:
+  - 05-08-18
+  Location:
+  - Moyenne Sido
+  Location_ID:
+  - GID_141518
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2255_603cde972ddba.pdf
+  coder:
+  - Zhejun, Merve
+CAF013_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Decision
+  Agreement_ID:
+  - CAF013
+  Date:
+  - 31-05-18
+  Location:
+  - Kaga-Bandoro
+  Location_ID:
+  - CAF.10.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2257_5ef89bde061b2.pdf
+  coder:
+  - Zhejun, Merve
+CAF013_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Decision
+  Agreement_ID:
+  - CAF013
+  Date:
+  - 31-05-18
+  Location:
+  - Kaga-Bandoro
+  Location_ID:
+  - CAF.10.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2257_5ef89bde061b2.pdf
+  coder:
+  - Zhejun, Merve
+CAF003_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Accord de Paix de Bangassou
+  Agreement_ID:
+  - CAF003
+  Date:
+  - 09-04-18
+  Location:
+  - Bangassou
+  Location_ID:
+  - CAF.9.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2195_609e949f3fce6.pdf
+  coder:
+  - Zhejun, Merve
+CAF005_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Accord de la Paix Locale
+  Agreement_ID:
+  - CAF005
+  Date:
+  - 15-10-18
+  Location:
+  - Basse-Lotto
+  Location_ID:
+  - CAF.3_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2199_5e32bd3a3e3bf.pdf
+  coder:
+  - Zhejun, Merve
+CAF005_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Accord de la Paix Locale
+  Agreement_ID:
+  - CAF005
+  Date:
+  - 15-10-18
+  Location:
+  - Basse-Lotto
+  Location_ID:
+  - CAF.3_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2199_5e32bd3a3e3bf.pdf
+  coder:
+  - Zhejun, Merve
+CAF035_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Pombolo
+  Agreement_ID:
+  - CAF035
+  Date:
+  - 17-10-18
+  Location:
+  - Pombolo and Gambo (Southwest Mbomou)
+  Location_ID:
+  - CAF.9.3_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2202_5e32bc3378913.pdf
+  coder:
+  - Zhejun, Merve
+CAF020_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Gambo
+  Agreement_ID:
+  - CAF020
+  Date:
+  - 18-10-18
+  Location:
+  - Pombolo and Gambo (Southwest Mbomou)
+  Location_ID:
+  - CAF.9.3_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2203_5e32bba992228.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.11_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_rj_01:
+  Actor_ID:
+  - rj
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.11_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_rj_02:
+  Actor_ID:
+  - rj
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.11_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_3r_01:
+  Actor_ID:
+  - 3r
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.11_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_fdpc_01:
+  Actor_ID:
+  - fdpc
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.11_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_antibalaka_02:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.16_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_rj_03:
+  Actor_ID:
+  - rj
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.16_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_rj_04:
+  Actor_ID:
+  - rj
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.16_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_3r_02:
+  Actor_ID:
+  - 3r
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.16_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_fdpc_02:
+  Actor_ID:
+  - fdpc
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.16_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_antibalaka_03:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.8_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_rj_05:
+  Actor_ID:
+  - rj
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.8_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_rj_06:
+  Actor_ID:
+  - rj
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.8_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_3r_03:
+  Actor_ID:
+  - 3r
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.8_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF028_fdpc_03:
+  Actor_ID:
+  - fdpc
+  Agreement_Content:
+  - La Declaration de Coordination des Groupes Armes RCP
+  Agreement_ID:
+  - CAF028
+  Date:
+  - 20-10-18
+  Location:
+  - the West Zone
+  Location_ID:
+  - CAF.8_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2205_5e32bb40172ff.pdf
+  coder:
+  - Zhejun, Merve
+CAF017_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Dimbi UPC AB Joint Memorandum
+  Agreement_ID:
+  - CAF017
+  Date:
+  - 17-12-18
+  Location:
+  - Dimbi
+  Location_ID:
+  - CAF.3.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2346_601412817aa5a.pdf
+  coder:
+  - Zhejun, Merve
+CAF017_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Dimbi UPC AB Joint Memorandum
+  Agreement_ID:
+  - CAF017
+  Date:
+  - 17-12-18
+  Location:
+  - Dimbi
+  Location_ID:
+  - CAF.3.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2346_601412817aa5a.pdf
+  coder:
+  - Zhejun, Merve
+CAF021_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Gambo - Pombolo Peace and Reconciliation Agreement
+  Agreement_ID:
+  - CAF021
+  Date:
+  - 20-03-19
+  Location:
+  - Mbomou prefecture
+  Location_ID:
+  - CAF.9_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2347_6014139ebf496.pdf
+  coder:
+  - Zhejun, Merve
+CAF023_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Good neighborliness and Community Reconciliation Agreement between the Communities
+    of Castors, Yakite, Sara, Yalowa, Camerounais Douala, and Sanga-Bibale
+  Agreement_ID:
+  - CAF023
+  Date:
+  - 23-03-19
+  Location:
+  - Bangui, 3rd Arrondissement
+  Location_ID:
+  - GID_135758
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2348_601414aa6031a.pdf
+  coder:
+  - Zhejun, Merve
+CAF016_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Declaration of the Inclusive Intra and Inter-Communal Reconciliation Forum in
+    Haute Kotto
+  Agreement_ID:
+  - CAF016
+  Date:
+  - 24-04-19
+  Location:
+  - Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2352_601422af83e0e.pdf
+  coder:
+  - Zhejun, Merve
+CAF016_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Declaration of the Inclusive Intra and Inter-Communal Reconciliation Forum in
+    Haute Kotto
+  Agreement_ID:
+  - CAF016
+  Date:
+  - 24-04-19
+  Location:
+  - Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2352_601422af83e0e.pdf
+  coder:
+  - Zhejun, Merve
+CAF016_mlcj_01:
+  Actor_ID:
+  - mlcj
+  Agreement_Content:
+  - Declaration of the Inclusive Intra and Inter-Communal Reconciliation Forum in
+    Haute Kotto
+  Agreement_ID:
+  - CAF016
+  Date:
+  - 24-04-19
+  Location:
+  - Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2352_601422af83e0e.pdf
+  coder:
+  - Zhejun, Merve
+CAF016_rprc_01:
+  Actor_ID:
+  - rprc
+  Agreement_Content:
+  - Declaration of the Inclusive Intra and Inter-Communal Reconciliation Forum in
+    Haute Kotto
+  Agreement_ID:
+  - CAF016
+  Date:
+  - 24-04-19
+  Location:
+  - Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2352_601422af83e0e.pdf
+  coder:
+  - Zhejun, Merve
+CAF011_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Commitment note
+  Agreement_ID:
+  - CAF011
+  Date:
+  - 18-05-19
+  Location:
+  - Seko parish
+  Location_ID:
+  - GID_137923
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2329_6006cf42243a4.pdf
+  coder:
+  - Zhejun, Merve
+CAF011_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Commitment note
+  Agreement_ID:
+  - CAF011
+  Date:
+  - 18-05-19
+  Location:
+  - Seko parish
+  Location_ID:
+  - GID_137923
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2329_6006cf42243a4.pdf
+  coder:
+  - Zhejun, Merve
+CAF012_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Compte Rendu des Activities du Comite de Suivi de L'Accord de Paix a Bangassou
+  Agreement_ID:
+  - CAF012
+  Date:
+  - 06-03-19
+  Location:
+  - Bangassou
+  Location_ID:
+  - CAF.9.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2194_5e3312428de79.pdf
+  coder:
+  - Zhejun, Merve
+CAF036_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Proces verbal de gestion de conflit
+  Agreement_ID:
+  - CAF036
+  Date:
+  - 06-03-19
+  Location:
+  - Birao, Vakaga
+  Location_ID:
+  - CAF.17.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF041_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Report of The Reconciliation Committee Following  the July 14th Event in Am-Dafock
+  Agreement_ID:
+  - CAF041
+  Date:
+  - 06-08-19
+  Location:
+  - Birao, Vakaga
+  Location_ID:
+  - CAF.17.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF041_mlcj_01:
+  Actor_ID:
+  - mlcj
+  Agreement_Content:
+  - Report of The Reconciliation Committee Following  the July 14th Event in Am-Dafock
+  Agreement_ID:
+  - CAF041
+  Date:
+  - 06-08-19
+  Location:
+  - Birao, Vakaga
+  Location_ID:
+  - CAF.17.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF039_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Recommendations of the Round Table on the Free Movement of People and Goods in
+    Nana Gribizi
+  Agreement_ID:
+  - CAF039
+  Date:
+  - 14-06-19
+  Location:
+  - Nana Gribizi
+  Location_ID:
+  - CAF.10_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2349_601416420cd4a.pdf
+  coder:
+  - Zhejun, Merve
+CAF039_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Recommendations of the Round Table on the Free Movement of People and Goods in
+    Nana Gribizi
+  Agreement_ID:
+  - CAF039
+  Date:
+  - 14-06-19
+  Location:
+  - Nana Gribizi
+  Location_ID:
+  - CAF.10_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2349_601416420cd4a.pdf
+  coder:
+  - Zhejun, Merve
+CAF039_seleka_01:
+  Actor_ID:
+  - seleka
+  Agreement_Content:
+  - Recommendations of the Round Table on the Free Movement of People and Goods in
+    Nana Gribizi
+  Agreement_ID:
+  - CAF039
+  Date:
+  - 14-06-19
+  Location:
+  - Nana Gribizi
+  Location_ID:
+  - CAF.10_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2349_601416420cd4a.pdf
+  coder:
+  - Zhejun, Merve
+CAF039_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Recommendations of the Round Table on the Free Movement of People and Goods in
+    Nana Gribizi
+  Agreement_ID:
+  - CAF039
+  Date:
+  - 14-06-19
+  Location:
+  - Nana Gribizi
+  Location_ID:
+  - CAF.10_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2349_601416420cd4a.pdf
+  coder:
+  - Zhejun, Merve
+CAF027_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Joint Press Release
+  Agreement_ID:
+  - CAF027
+  Date:
+  - 21-09-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2327_6006c97b2477b.pdf
+  coder:
+  - Zhejun, Merve
+CAF027_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Joint Press Release
+  Agreement_ID:
+  - CAF027
+  Date:
+  - 21-09-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2327_6006c97b2477b.pdf
+  coder:
+  - Zhejun, Merve
+CAF029_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - MINUTES OF THE RECONCILIATION MEETING BETWEEN KARA AND GOULA COMMUNITIES
+  Agreement_ID:
+  - CAF029
+  Date:
+  - 30-08-19
+  Location:
+  - Delembe, Birao, Vakaga
+  Location_ID:
+  - GID_143686
+  Location_Precision:
+  - Grid
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2417_6246df4ec67b5.pdf
+  coder:
+  - Zhejun, Merve
+CAF001_seleka_01:
+  Actor_ID:
+  - seleka
+  Agreement_Content:
+  - Accord Entre Les Groupes Armes de Batangafo
+  Agreement_ID:
+  - CAF001
+  Date:
+  - 09-01-19
+  Location:
+  - Batangafo
+  Location_ID:
+  - CAF.15.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2191_5e32c1706cf8d.pdf
+  coder:
+  - Zhejun, Merve
+CAF001_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Accord Entre Les Groupes Armes de Batangafo
+  Agreement_ID:
+  - CAF001
+  Date:
+  - 09-01-19
+  Location:
+  - Batangafo
+  Location_ID:
+  - CAF.15.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2191_5e32c1706cf8d.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_rprc_01:
+  Actor_ID:
+  - rprc
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_upc_01:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_mlcj_01:
+  Actor_ID:
+  - mlcj
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_antibalaka_01:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_fprc_02:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_rprc_02:
+  Actor_ID:
+  - rprc
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_upc_02:
+  Actor_ID:
+  - upc
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_mpc_02:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_mlcj_02:
+  Actor_ID:
+  - mlcj
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF010_antibalaka_02:
+  Actor_ID:
+  - antibalaka
+  Agreement_Content:
+  - Commitment between the 6 Armed Groups of Haute Kotto
+  Agreement_ID:
+  - CAF010
+  Date:
+  - 09-04-19
+  Location:
+  - Bria, Haute Kotto
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2351_6014218aebef7.pdf
+  coder:
+  - Zhejun, Merve
+CAF022_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Good Neighborhood And Community Reconciation Agreement Between Communities In
+    The 3rd And 6th Arrondissements Of Bangui
+  Agreement_ID:
+  - CAF022
+  Date:
+  - 28-11-19
+  Location:
+  - Bangui
+  Location_ID:
+  - CAF.2.1_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF002_mpc_01:
+  Actor_ID:
+  - mpc
+  Agreement_Content:
+  - Accord de Ouadda
+  Agreement_ID:
+  - CAF002
+  Date:
+  - 15-08-20
+  Location:
+  - Ouadda
+  Location_ID:
+  - CAF.5.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2319_60141bee13c4c.pdf
+  coder:
+  - Zhejun, Merve
+CAF002_rprc_01:
+  Actor_ID:
+  - rprc
+  Agreement_Content:
+  - Accord de Ouadda
+  Agreement_ID:
+  - CAF002
+  Date:
+  - 15-08-20
+  Location:
+  - Ouadda
+  Location_ID:
+  - CAF.5.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2319_60141bee13c4c.pdf
+  coder:
+  - Zhejun, Merve
+CAF002_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Accord de Ouadda
+  Agreement_ID:
+  - CAF002
+  Date:
+  - 15-08-20
+  Location:
+  - Ouadda
+  Location_ID:
+  - CAF.5.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2319_60141bee13c4c.pdf
+  coder:
+  - Zhejun, Merve
+CAF031_fprc_01:
+  Actor_ID:
+  - fprc
+  Agreement_Content:
+  - Non-aggression and peaceful cohabitation pact between the disputing parties from
+    Bamingui-Bangoran
+  Agreement_ID:
+  - CAF031
+  Date:
+  - 27-08-20
+  Location:
+  - Ndele
+  Location_ID:
+  - CAF.1.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2372_60535018e081e.pdf
+  coder:
+  - Zhejun, Merve
+CAF024_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Interprefectoral Agreement for Peace and Reconciliation Between the Communities
+    of Dembia, Rafai and Zemio
+  Agreement_ID:
+  - CAF024
+  Date:
+  - 10-03-20
+  Location:
+  - Rafai, Mbomou
+  Location_ID:
+  - CAF.9.4_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve
+CAF040_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Reconciliation pact between the North-Eastern communities (Vakaga, Bamingui-Bangoran,
+    Haute-Kotto)
+  Agreement_ID:
+  - CAF040
+  Date:
+  - 10-11-20
+  Location:
+  - North-Eastern CAR
+  Location_ID:
+  - CAF.1_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2371_6051e3d714baa.pdf
+  coder:
+  - Zhejun, Merve
+CAF040_communitygroup_02:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Reconciliation pact between the North-Eastern communities (Vakaga, Bamingui-Bangoran,
+    Haute-Kotto)
+  Agreement_ID:
+  - CAF040
+  Date:
+  - 10-11-20
+  Location:
+  - North-Eastern CAR
+  Location_ID:
+  - CAF.17_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2371_6051e3d714baa.pdf
+  coder:
+  - Zhejun, Merve
+CAF040_communitygroup_03:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Reconciliation pact between the North-Eastern communities (Vakaga, Bamingui-Bangoran,
+    Haute-Kotto)
+  Agreement_ID:
+  - CAF040
+  Date:
+  - 10-11-20
+  Location:
+  - North-Eastern CAR
+  Location_ID:
+  - CAF.5_1_adm1
+  Location_Precision:
+  - Admin1
+  Source:
+  - PA-X
+  Link:
+  - https://www.peaceagreements.org/media/documents/ag2371_6051e3d714baa.pdf
+  coder:
+  - Zhejun, Merve
+CAF014_communitygroup_01:
+  Actor_ID:
+  - communitygroup
+  Agreement_Content:
+  - Declaration of reconciliation of dialogue between the communities of Obo
+  Agreement_ID:
+  - CAF014
+  Date:
+  - 24-05-22
+  Location:
+  - Obo, Haut-Mbomou
+  Location_ID:
+  - CAF.4.2_1_adm2
+  Location_Precision:
+  - Admin2
+  Source:
+  - UN
+  Link:
+  - ''
+  coder:
+  - Zhejun, Merve

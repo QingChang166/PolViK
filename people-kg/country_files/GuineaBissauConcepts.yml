@@ -1,0 +1,207 @@
+concepts:
+   GuineaBissauSecurityForces:
+     stringTokens: ["Armed Forces of Guinea-Bissau" , "Military of Guinea-Bissau", "Revolutionary Armed Forces of the People"]
+     wikidataQnode: ["Q147717"]
+  
+  ## ethnicgroups
+   BalantaEthnicGroup:
+     stringTokens: ["Balanta people", "Balanta", "Balanda Brassa", "Balanta Mane", "Balante", "Brassa"]
+     wikidataQnode: ["Q804639"]
+     languagesMostSpoken: ["Balanta"]
+     religionsMostPracticed: ["Roman Catholic"]
+     livesIn: ["Southern and central regions", "Tite"]
+
+   ManjakEthnicGroup:
+     stringTokens: ["Manjak people", "Manjaco", "Mandjak", "Manyako"]
+     wikidataQnode: ["Q1726724"]
+     languagesMostSpoken: ["Manjak language"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Coastal areas", "Bigene"]
+
+   PapelEthnicGroup:
+     stringTokens: ["Papel people", "Papel", "Moium", "Oium", "Papei", "Pepel", "Pelels"]
+     wikidataQnode: [""]
+     languagesMostSpoken: ["Papel"]
+     religionsMostPracticed: ["Christianity"]
+     livesIn: ["Coastal areas", "Quinhamel"]
+
+   FulaEthnicGroup:
+     stringTokens: ["Fula people", "Fulani", "Peul"]
+     wikidataQnode: ["Q202575"]
+     languagesMostSpoken: ["Fula languages"]
+     religionsMostPracticed: ["Islam"]
+     livesIn: ["Bafatá", "Gabú", "Oio", "Cacheu"]
+
+   MandinkaEthnicGroup:
+     stringTokens: ["Mandinka people", "Mandinka"]
+     wikidataQnode: ["Q819186"]
+     languagesMostSpoken: ["Manding languages"]
+     religionsMostPracticed: ["Traditional religion"]
+     livesIn: ["Coastal areas", "Farim"]
+
+  ## linguisticgroups
+   BanyunLinguisticGroup:
+     stringTokens: ["Bainouk-Gunyuño", "Banyun", "Nyun", "Bainouk", "Banyum"]
+     wikidataQnode: ["Q2892477"]
+     livesIn: [""]
+     associatedethnicgroup: ["Bainuk people"]
+
+   BalantaLinguisticGroup:
+     stringTokens: ["Balanta", "Balant"]
+     wikidataQnode: ["Q35006"]
+     livesIn: [""]
+     associatedethnicgroup: ["BalantaEthnicGroup"]
+
+   BiafadaLinguisticGroup:
+     stringTokens: ["Biafada"]
+     wikidataQnode: ["Q35099"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   BijagoLinguisticGroup:
+     stringTokens: ["Bijago", "Bidyogo"]
+     wikidataQnode: ["Q35365"]
+     livesIn: ["Bissagos Islands"]
+     associatedethnicgroup: [""]
+
+   FulaLinguisticGroup:
+     stringTokens: ["Fula"]
+     wikidataQnode: ["Q33454"]
+     livesIn: [""]
+     associatedethnicgroup: ["FulaEthnicGroup"]
+
+   Guinea-BissauCreoleLinguisticGroup:
+     stringTokens: ["Guinea-Bissau Creole", "Kiriol", "Crioulo", "Upper Guinea Crioulo", "Upper Guinea Creole", "Kriol", "Guinea-Bissau Creole Portuguese", "Guinea-Bissau Kriyol"]
+     wikidataQnode: ["Q33339"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   Jola-FelupeLinguisticGroup:
+     stringTokens: ["Jola-Felupe", "Feloup", "Felup", "Felupe", "Floup", "Flup", "Fulup", "Ejamat", "Ediamat"]
+     wikidataQnode: ["Q6269820"]
+     livesIn: ["Cacheu", "Ziguinchor"]
+     associatedethnicgroup: [""]
+
+   BadyaraLinguisticGroup:
+     stringTokens: ["Badyara"]
+     wikidataQnode: ["Q35095"]
+     livesIn: [""]
+     associatedethnicgroup: [""]
+
+   MandinkaLinguisticGroup:
+     stringTokens: ["Mandinka", "Mandingo"]
+     wikidataQnode: ["Q33678"]
+     livesIn: [""]
+     associatedethnicgroup: ["MandinkaEthnicGroup"]
+   
+   ManjakLinguisticGroup:
+     stringTokens: ["Manjak", "Manjack", "Kanyop"]
+     wikidataQnode: ["Q35822"]
+     livesIn: [""]
+     associatedethnicgroup: ["ManjakEthnicGroup"]
+
+   MankanyaLinguisticGroup:
+     stringTokens: ["Mankanya"]
+     wikidataQnode: ["Q35789"]
+     livesIn: [""]
+     associatedethnicgroup: ["Mankanya people"]
+
+   SuaLinguisticGroup:
+     stringTokens: ["Sua", "Mansoanka"]
+     wikidataQnode: ["Q35814"]
+     livesIn: ["Mansôa"]
+     associatedethnicgroup: [""]
+
+   NaluLinguisticGroup:
+     stringTokens: ["Nalu", "Nalou"]
+     wikidataQnode: ["Q36026"]
+     livesIn: [""]
+     associatedethnicgroup: ["Nalu people"]
+
+   PapelLinguisticGroup:
+     stringTokens: ["Papel", "Pepel", "Papei"]
+     wikidataQnode: ["Q36314"]
+     livesIn: [""]
+     associatedethnicgroup: ["PapelEthnicGroup"]
+
+  ## politicalparties
+   RGB-MBParty:
+     stringTokens: ["Resistance of Guinea-Bissau-Bafatá Movement"]
+     wikidataQnode:  ["Q7315625"]
+     yearsActiveasParty: ["1986-present"]
+
+   PRSParty:
+     stringTokens: ["Party for Social Renewal"]
+     wikidataQnode:  ["Q461351"]
+     yearsActiveasParty: ["1992-present"]
+     ideologicalOrientation: ["centreLeft", "socialLiberalism", "reformism", "agrarianism"]
+
+   PAIGCParty:
+     stringTokens: ["African Party for the Independence of Guinea and Cape Verde"]
+     wikidataQnode:  ["Q776352"]
+     yearsActiveasParty: ["1956-present"]
+     ideologicalOrientation: ["centreLeft", "left", "socialDemocracy", "nationalism", "panAfricanism", "communism", "marxism", "agrarianism"]
+
+   PUSDParty:
+     stringTokens: ["United Social Democratic Party"]
+     wikidataQnode:  ["Q7889155"]
+     yearsActiveasParty: ["1992-present"]
+     ideologicalOrientation: ["centreLeft", "socialDemocracy"]
+
+   PRIDParty:
+     stringTokens: ["Republican Party for Independence and Development"]
+     wikidataQnode:  ["Q16968513"]
+     yearsActiveasParty: ["2008-present"]
+
+   UMParty:
+     stringTokens: ["Union for Change"]
+     wikidataQnode:  ["Q7886422"]
+     yearsActiveasParty: ["1994-present"]
+
+   APU-PDGBParty:
+     stringTokens: ["Assembly of the People United", "Assembly of the People United–Democratic Party of Guinea-Bissau"]
+     wikidataQnode:  ["Q65086399"]
+     yearsActiveasParty: ["2014-present"]
+
+   Madem-G15Party:
+     stringTokens: ["Madem G15", "Movement for Democratic Alternation, Group of 15"]
+     wikidataQnode:  ["Q62258541"]
+     yearsActiveasParty: ["2018-present"]
+     ideologicalOrientation: ["left", "centreLeft", "socialDemocracy"]
+
+   FDParty:
+     stringTokens: ["Democratic Front"]
+     wikidataQnode:  ["Q16740046"]
+     yearsActiveasParty: ["1991-present"]
+
+   PDPParty:
+     stringTokens: ["Democratic Party of Progress"]
+     wikidataQnode:  ["Q16955766"]
+     yearsActiveasParty: ["1992-present"]
+
+   FDSParty:
+     stringTokens: ["Democratic Social Front"]
+     wikidataQnode:  ["Q17043850"]
+     yearsActiveasParty: ["1990-present"]
+
+   LIPEParty:
+     stringTokens: ["Guinean League for Ecological Protection"]
+     wikidataQnode:  ["Q16739990"]
+     yearsActiveasParty: ["1991-present"]
+
+   PRDParty:
+     stringTokens: ["Party for Renewal and Development"]
+     wikidataQnode:  ["Q17037979"]
+     yearsActiveasParty: ["1992-2004"]
+
+   MUDParty:
+     stringTokens: ["Unity Movement for Democracy"]
+     wikidataQnode:  ["Q16978150"]
+     yearsActiveasParty: ["1992-2004"]
+  
+  ## armed groups
+   MJCDPJarmedNonGovernmentalOrganizedGroup:
+     stringTokens: ["Military Junta for the Consolidation of Democracy, Peace and Justice"]
+     associatedEthnicGroup: [""]
+     wikidataQnode: [""]
+  

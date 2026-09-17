@@ -1,0 +1,135 @@
+concepts:
+    IvoryCoastArmedForces:
+      stringTokens: ["Republican Forces of Ivory Coast", "Armed Forces of Côte d'Ivoire", "FACI", "FRCI"]
+  ###ethnic groups
+    mandeEthnicGroup:
+      stringTokens: ["Mande peoples", "Mande", "Mandé peoples", "Dyula", "Maninka"]
+      wikidataQnode: ["Q1407391"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Séguéla", "Kouto", "Touba", "Ouaninou", "Toulepleu", "Boundiali", "Kabadougou", "Bafing", "Worodougou"]
+    danEthnicGroup:
+      stringTokens: ["Dan people", "Dan", "Yakuba", "Dan-Gioh", "Gio", "Gyo", "Gere", "Yacouba", "Yacuba"]
+      wikidataQnode: ["Q1804699"]
+      livesIn: ["Moyen-Cavally", "Dix-Huit Montagnes", "Dix-Huit Montagnes", "Man", "Danané", "Biankouma", "Zouan-Hounien", "Tonkpi"]
+    senufoEthnicGroup:
+      stringTokens: ["Senufo people", "Senufo", "Siena", "Senefo", "Sene", "Senoufo", "Syénambélé"]
+      wikidataQnode: ["Q1266038"]
+      religionsMostPracticed: ["Animist", "Islam"]
+      livesIn: ["Korhogo", "Boundiali", "Bagoué Region", "Ferkessedougou", "Tengrela", "Odienné", "Savanes Region", "Minignan", "Béré Region"]
+    akanEthnicGroup:
+      stringTokens: ["Akan", "Akan people", "Akans"]
+      wikidataQnode: ["Q415693"]
+      religionsMostPracticed: ["Christianity", "Akan religion", "Islam"]
+      livesIn: ["Agnéby Region", "Agboville", "Adzopé", "Bélier Region", "Tiebissou", "Gôh-Djiboua Region", "Gagnoa", "Divo", "Lacs Region", "Yamoussoukro", "N'zi-Comoé Region", "Dimbokro", "Sud-Comoé Region", "Aboisso"]
+    kruEthnicGroup:
+      stringTokens: ["Kru", "Kru people", "Caraw", "Krao", "Krou", "Kroomen", "Krumen"]
+      wikidataQnode: ["Q1537493"]
+      religionsMostPracticed: ["Christianity", "African traditional religion", "Sunni Islam" ]
+      livesIn: ["Bas-Sassandra", "San-Pédro", "Sassandra-Marahoué", "Tabou", "Grand-Béréby", "San-Pédro"]
+    beteEthnicGroup:
+      stringTokens: ["Bété people", "Bété", "Betegbo", "Bhete"]
+      wikidataQnode: ["Q1019506"]
+      religionsMostPracticed: ["Christianity", "Traditional religion"]
+      livesIn: ["Gôh-Djiboua", "Lôh-Djiboua", "Haut-Sassandra", "Marahoué", "Montagnes", "Guiglo", "Duekoué"]
+    baouleEthnicGroup:
+      stringTokens: ["Baoulé people", "Baoulé", "Baule", "Kwa"]
+      wikidataQnode: ["Q811460"]
+      religionsMostPracticed: ["Christianity", "Traditional religion"]
+      livesIn: ["Gbêkê", "Lôh-Djiboua", "Sassandra-Marahoué", "Haut-Sassandra", "Yamoussoukro"]
+    anyiEthnicGroup:
+      stringTokens: ["Anyi people", "Anyi", "Agnis", "Agni", "Ani", "Ndenie"]
+      wikidataQnode: ["Q613920"]
+      religionsMostPracticed: ["Christianity", "Akan religion"]
+      livesIn: ["Moyen-Comoé", "Indénié-Djuablin", "Moronou", "Abengourou", "Agnibilékrou", "Bongouanou"]
+    abbeEthnicGroup:
+      stringTokens: ["Abbe", "Abbe people", "Abbé people"]
+      wikidataQnode: ["Q336851"]
+      livesIn: ["Agboville", "Korhogo", "Ferkessédougou", "Boundiali"]
+    attieEthnicGroup:
+      stringTokens: ["Attie", "Attie people", "Akie people", "Ake", "Atie", "Atye", "Akye", "Attie", "Atshe", "Kuroba"]
+      wikidataQnode: ["Q417996"]
+      livesIn: ["Guiglo", "Taï", "Daloa", "Man", "Bangolo"]
+    hausaEthnicGroup:
+      stringTokens: ["Hausa people", "Hausa", "Haoussa", "Haussa", "Houssa", "Hausaawaa", "Hausawa", "Hawsa", "Mgbakpa"]
+      wikidataQnode: ["Q33938"]
+      religionsMostPracticed: ["Islam"]
+      livesIn: ["Tchologo", "Bagoué", "Kabadougou", "Poro", "Boundiali", "Ferkessédougou", "Korhogo", "Ouangolodougou" ]
+    bonoEthnicGroup:
+      stringTokens: ["Bono", "Bobo people", "Brong people", "Brong", "Abron", "Bron"]
+      wikidataQnode: ["Q927326"]
+      religionsMostPracticed: ["Bono ancestral worship and spirituality", "Christianity"]
+      livesIn: ["Doropo", "Zanzan"]
+    ### linguisticgroups
+    danLinguisticGroup:
+      stringTokens: ["Dan language", "Dan"]
+      wikidataQnode: ["Q1158971"]
+      associatedEthnicGroup: ["danEthnicGroup"]
+    guroLinguisticGroup:
+      stringTokens: ["Guro language", "Guro"]
+      wikidataQnode: ["Q35251"]
+    guereLinguisticGroup:
+      stringTokens: ["Guere language", "Guere"]
+      wikidataQnode: ["Q36919"]
+    wobeLinguisticGroup:
+      stringTokens: ["Wobe language", "Wobe", "Wobé"]
+      wikidataQnode: ["Q3915363"]
+    senufoLinguisticGroup:
+      stringTokens: ["Senufo languages", "Senufo"]
+      wikidataQnode: ["Q33795"]
+      associatedEthnicGroup: ["senufoEthnicGroup"]
+    akanfoLinguisticGroup:
+      stringTokens: ["Akan languages", "Akan"]
+      wikidataQnode: ["Q28026"]
+    cebaaraLinguisticGroup:
+      stringTokens: ["Cebaara", "Cebaara languages", "Cebaara Senoufo"]
+      wikidataQnode: ["Q10975121"]
+    kolangoLinguisticGroup:
+      stringTokens: ["Kulango language", "Kulango"]
+      wikidataQnode: ["Q35731"]
+      ###Political parties
+    mfaParty:
+      stringTokens: ["Movement of the Forces of the Future", "MFA"]
+    fpiParty:
+      stringTokens: ["Ivorian Popular Front",  "Front populaire ivoirien", "FPI"]
+      ideologicalOrientation: ["centreLeft", "socialDemocracy", "nationalism"]
+    rhdpParty:
+      stringTokens: ["Rally of Houphouëtists for Democracy and Peace", "RHDP"]
+      ideologicalOrientation: ["centre", "liberalism"]
+    pdciParty:
+      stringTokens: ["Democratic Party of Ivory Coast – African Democratic Rally", "PDCI", "PDCI-RDA"]
+      ideologicalOrientation: ["centreRight", "nationalism", "conservatism", "populism", "panAfricanism"]
+    edsParty:
+      stringTokens: ["Together for Democracy and Sovereignty", "EDS"]
+    udpciParty:
+      stringTokens: ["Union for Democracy and Peace in Ivory Coast", "Union for Democracy and Peace in Côte d'Ivoire", "UDPCI"]
+      ideologicalOrientation: ["centre", "socialLiberalism"]
+    rdrParty:
+      stringTokens: ["Rally of the Republicans", "RDR"]
+      ideologicalOrientation: ["centre", "liberalism", "republicanism"]
+    ###armedgroups
+    fnciArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Forces Nouvelles", "Forces Nouvelles de Côte d'Ivoire", "New Forces of Ivory Coast", "FNCI", "FN", "FAFN"]
+      wikidataQnode: ["Q1436666"]
+      yearsActiveasArmedGroup: ["2002-2007"]
+    mpciArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Patriotic Movement of Ivory Coast", "Mouvement patriotique de la Côte d'Ivoire", "MPCI"]
+      wikidataQnode: ["Q2723943"]
+      ideologicalOrientation: ["minorityRights", "nationalism", "liberalDemocracy"]
+    mpigoArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Ivorian Popular Movement of the Great West", "MPIGO"]
+      wikidataQnode: ["Q3326773"]
+    mjpArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Movement for Justice and Peace", "Mouvement pour la justice et la paix", "MJP"]
+      wikidataQnode: ["Q2744381"]
+      yearsActiveasArmedGroup: ["2002-2004"]
+    flgoArmedNonGovernmentalOrganizedGroup:
+      stringTokens: ["Great West Liberation Front", "FLGO", "Front de libération du Grand Ouest"]
+    cojepproGovernmentMilitia:
+    stringTokens: ["Congrès Panafricain des Jeunes et des Patriotes", "COJEP", "Young Patriots"]
+    wikidataQnode: ["Q2577116"]
+    ideologicalOrientation: ["nationalism", "antiIslam"]
+
+    
+
+
+      

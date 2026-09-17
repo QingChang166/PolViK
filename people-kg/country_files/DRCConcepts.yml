@@ -1,0 +1,328 @@
+concepts:
+  DRCSecurityForces:
+   stringTokens: ["Congolese military", "Congolese police", "Congolese security forces", "Forces Armées de la République Démocratique 
+                  du Congo", "FARDC", "Police Nationale Congolaise", "PNC", "Agence Nationale de Renseignments", "ANR", "Garde 
+                  Républicaine","Republican Guard", "Service Spécial de Sécurité du Président", "SSP", "Gendarmerie Nationale"] ##ethnicgroup
+  bembaEthnicGroup:
+   stringTokens: ["Bemba", "Bemba people", "Avemba", "Babemba", "Babemga", "Wawemba", "Walemba", "Wemba", "Wabemba", "Bembe", "Beembe"]
+   wikidataQnode: ["Q644450"]
+   languagesMostSpoken: ["Ichibemba"]
+   religionsMostPracticed: ["Christianity", "African traditional religion"]
+   livesIn: ["Tshopo"] 
+  hembaEthnicGroup:
+   stringTokens: ["Hemba", "Hemba people"]
+   wikidataQnode: ["Q3130001"]
+   languagesMostSpoken: ["hemba language"]
+   religionsMostPracticed: ["Christianity", "Luba tradition"]
+   livesIn: ["Kasai"]
+  hemaEthnicGroup:
+   stringTokens: ["Hema", "Hema people"]
+   wikidataQnode: ["Q1604701"]
+   languagesMostSpoken: ["Kilendu language", "Batha language", "Oruhema language", "Kinyoro languages"]
+   livesIn: ["Ituri"]
+  hundeEthnicGroup:  ##start here with attributes
+   stringTokens: ["Hunde", "Hunde people"]
+   wikidataQnode: ["Q3143295"]
+   religionsMostPracticed: ["Bantu spirituality", "Christianity", "Islam"]
+   livesIn: ["South Kivu", "North Kivu"] 
+  kongoEthnicGroup:
+   stringTokens: ["Kongo", "Kongo people", "Bakongo", "Esikongo", "Mwisikngo", "Mukongo", "Congo", "Fjort", "Frote", "Ikeleve", 
+                 "Kakongo", "Kileta", "Nkongo", "Wacongoamni", "Solongo", "Vili", "Sundi", "Woyo", "Zombo"]
+   wikidataQnode: ["Q640090"]
+   religionsMostPracticed: ["Christianity", "Kongo religion"]
+  lubaEthnicGroup:
+   stringTokens: ["Luba", "Luba people", "Baluba"]
+   wikidataQnode: ["Q805841"]
+   religionsMostPracticed: ["Christianity", "Bantu spirituality", "African traditional religion"]
+  lundaEthnicGroup:
+   stringTokens: ["Lunda", "Lunda people", "Alunda", "Arund", "Balunda", "Kalunda", "Luunda", "Valunda", "Aluund", "Ruund", "Aluun", 
+                 "Tulunda", "Northern Lunda", "Southern Lunda" ]
+   wikidataQnode: ["Q1292932"]
+   languagesMostSpoken: ["lunda language"]
+   livesIn: ["Ituri"]
+  lenduEthnicGroup:
+   stringTokens: ["Lendu", "Lendu people", "Baledha", "Kilendu"]
+   wikidataQnode: ["Q2375955"]
+  mongoEthnicGroup:
+   stringTokens: ["Mongo", "Mongo people", "Nkundo", "Lomongo", "Mango", "Nkundu"]
+   wikidataQnode: ["Q927706"]
+   religionsMostPracticed: ["Christianity", "African traditional religion"]
+   livesIn: ["Equateur", "Tshopo", "Tshuapa", "Mongala", "Kwilu", "Maï Ndombe", "Kongo-Centrale", "Kasai", "Sankuru", "Maniema", "North 
+            Kivu", "South Kivu", "Tanganyika", "Ituri" ] ##provinces, and Tanganyika was a sovereign state until 1964
+  nandeEthnicGroup:
+   stringTokens: ["Nande", "Nande people"]
+   wikidataQnode: ["Q3335624"]
+  ngalaEthnicGroup:
+   stringTokens: ["Ngala", "Ngala people", "Bangala", "Bangalas", "Gens d'Eau", "Mangla", "Mangaro", "Mongalla", "Bamangala", "Wangala"]
+   wikidataQnode: ["Q106684441"] 
+  nyangaEthnicGroup:
+   stringTokens: ["Nyanga", "Nyanga people", "Banianga", "Banuanga", "Inyanga", "Kinyanga", "Nianga", "Wanyanga"]
+   wikidataQnode: ["Q3346583"] 
+   livesIn: ["Kivu"]
+  pendeEthnicGroup:
+   stringTokens: ["Pende", "Pende people", "Bapende", "Apende", "Aphende", "Ba-Pendi", "Bampende", "Gipende", "Kipende", "Kasai Pende", 
+                 "Masindju", "Phende", "Pindi", "Pinji", "Tupende"]
+   wikidataQnode: ["Q377119"] 
+  songyeEthnicGroup:
+   stringTokens: ["Songye", "Songye people", "Songe"]
+   wikidataQnode: ["Q810544"] 
+  tshokweEthnicGroup:
+   stringTokens: ["Tshokwe", "Tshokwe people", "Chokwe", "Ciokwe", "Cokwe", "Bajokwe", "Badjok", "Quioco"]
+   wikidataQnode: ["Q1075883"]
+   religionsMostPracticed: ["Christian", "animist"]
+  yakaEthnicGroup:
+   stringTokens: ["Yaka", "Yaka people", "Bayaka"]
+   wikidataQnode: ["Q2749225"] 
+  zandeEthnicGroup:
+   stringTokens: ["Zande", "Zande people", "Niam-niam", "Niam-niam peope", "Sandeh", "Azande"]
+   wikidataQnode: ["Q793575"]
+   religionsMostPracticed: ["Christianity", "African traditional religion"]
+   livesIn: ["Bas-Uele", "Haut-Uele"]
+
+## linguistic groups
+  lingalaLinguisticGroup:
+    stringTokens: ["lingala", "ngala"]
+    wikidataQnode: ["Q36217"]
+    livesIn: ["kinshasa", "bandundu", "orientale", "equateur"]
+    associatedethnicgroup: [""]
+  kiswahiliLinguisticGroup:
+    stringTokens: ["Swahili", "Kiswahili", "sw","swa"]
+    wikidataQnode: ["Q7838"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  tshilubaLinguisticGroup:
+    stringTokens: ["Luba-Lulua", "Tshiluba", "Ciluba", "Western Luba", "Bena-Luba", "Luva", "Luba-Kasai"]
+    wikidataQnode: ["Q34173"]
+    livesIn: ["kasai", "kasai-oriental", "sankuru"]
+    associatedethnicgroup: ["lubaEthnicGroup"]
+  kikongoLinguisticGroup:
+    stringTokens: ["Kikongo", "kg", "Kongo", "kituba"]
+    wikidataQnode: ["Q33702"]
+    livesIn: [""]
+    associatedethnicgroup: ["kongoEthnicGroup"]
+  lundaLinguisticGroup:
+    stringTokens: ["lunda"]
+    wikidataQnode: ["Q33607"]
+    livesIn: ["kwango", "lualaba"]
+    associatedethnicgroup: ["lundaEthnicGroup"]
+  kilegaLinguisticGroup:
+    stringTokens: ["lega", "kilega"]
+    wikidataQnode: ["Q3196589"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  tetelaLinguisticGroup:
+    stringTokens: ["tetela"]
+    wikidataQnode: ["Q2613465"]
+    livesIn: ["equateur", "katanga", "kasai-oriental", "kasai", "maniema", "orientale"]
+    associatedethnicgroup: [""]
+  chokweLinguisticGroup:
+    stringTokens: ["chokwe"]
+    wikidataQnode: ["Q2422065"]
+    livesIn: [""]
+    associatedethnicgroup: ["tshokweEthnicGroup"]
+  budzaLinguisticGroup:
+    stringTokens: ["budza"]
+    wikidataQnode: ["Q3046889"]
+    livesIn: ["orientale", "equateur", "mongala"]
+    associatedethnicgroup: [""]
+   ngbandiLinguisticGroup:
+    stringTokens: ["ngbandi"]
+    wikidataQnode: ["Q36439"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+  lenduLinguisticGroup:
+    stringTokens: ["lendu", "Baledha", "Kilendu"]
+    wikidataQnode: ["Q523823"]
+    livesIn: ["ituri", "orientale", "lendu"]
+    associatedethnicgroup: ["lenduEthnicGroup"]
+  mangbetuLinguisticGroup:
+    stringTokens: ["mangbetu", "Nemangbetu"]
+    wikidataQnode: ["Q56327"]
+    livesIn: ["orientale"]
+    associatedethnicgroup: [""]
+ yombeLinguisticGroup:
+    stringTokens: ["yombe", "kiyombe"]
+    wikidataQnode: ["Q10961975"]
+    livesIn: ["kongo central"]
+    associatedethnicgroup: [""]
+ nandeLinguisticGroup:
+    stringTokens: ["nande"]
+    wikidataQnode: ["Q3196953"]
+    livesIn: ["north kivu", "orientale"]
+    associatedethnicgroup: ["nandeEthnicGroup"]
+ ngbakaLinguisticGroup:
+    stringTokens: ["ngbaka"]
+    wikidataQnode: ["Q1165960"]
+    livesIn: [""]
+    associatedethnicgroup: [""]
+ zandeLinguisticGroup:
+    stringTokens: ["zande"]
+    wikidataQnode: ["Q35015"]
+    livesIn: ["bas-uele", "haut-uele"]
+    associatedethnicgroup: ["zandeEthnicGroup"]
+ lugbaraLinguisticGroup:
+    stringTokens: ["lugbara", "lugbarati"]
+    wikidataQnode: ["Q3272737"]
+    livesIn: ["ituri"]
+    associatedethnicgroup: [""]
+ kifuliiruLinguisticGroup:
+    stringTokens: ["kifuliiru", "Fuliiru", "Kifulero"]
+    wikidataQnode: ["Q7166821"]
+    livesIn: ["south kivu"]
+    associatedethnicgroup: [""]
+ komoLinguisticGroup:
+    stringTokens: ["komo"]
+    wikidataQnode: ["Q56681"]
+    livesIn: ["south kivu"]
+    associatedethnicgroup: [""]
+##political parties  ##does this time coding work
+  PPRDParty: 
+   stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
+   yearsActiveasParty: ["2002-2019"]
+   ideologicalOrientation: ["centreLeft", "left", "socialDemocracy"]
+  FONUSParty: 
+   stringTokens: ["Innovative Forces for Union and Solidarity", "FONUS", "Forces Novatrices pour l'Union et la Solidarité"]
+   yearsActiveasParty: []
+  UDPSParty:
+   stringTokens: ["Union for Democracy and Social Progress", "UDPS"]
+   yearsActiveasParty: ["1982-Present"]
+   ideologicalOrientation: ["centreLeft", "progressivism", "socialDemocracy", "socialLiberalism"]
+  MLCParty:
+   stringTokens: ["Movement for the Liberation of the Congo", "MLC"]
+   yearsActiveasParty: ["1998-Present"]
+   ideologicalOrientation: ["right", "populism", "nationalism", "christianDemocracy"]
+  UNCParty:
+   stringTokens: ["Union for the Congolese Nation", "UNC"]
+   yearsActiveasParty: ["2010-Present"]
+   ideologicalOrientation: ["centreLeft", "socialDemocracy", "liberalDemocracy"]
+  PDSCParty:
+   stringTokens: ["Democratic Social Christian Party", "PDSC"]
+   yearsActiveasParty: ["1990-2010"]
+  PCTParty: 
+   stringTokens: ["Congolese Party of Labour", "PCT", "Popular Movement of the Revolution", "MPR"]
+   yearsActiveasParty: ["1965-1997"]
+  UJSCParty: 
+   stringTokens: ["UJSC", "Congolese Socialist Youth Union", "Union de la jeunesse socialiste congolaise"] #youth-wing of PCT
+   yearsActiveasParty: ["1969-1992"]
+  PALUParty: 
+   stringTokens: ["Unified Lumumbist Party", "PALU", "Parti Lumumbiste Unifié"]
+   yearsActiveasParty: ["1964-Present"]
+   ideologicalOrientation: ["panAfricanism", "left", "socialism", "nationalism"]
+  RCDParty: 
+   stringTokens: ["Rally for Congolese Democracy", "RCD"]
+   yearsActiveasParty: ["2002-Present"]
+   ideologicalOrientation: ["centre", "socialLiberalism"]
+##armed groups
+  ADFarmedNonGovernmentalOrganizedGroup:   ##should this go in Uganda instead
+   stringTokens: ["Allied Democratic Forces", "ADF", "ADF-Nalu", "Allied Democratic Forces- National Army for the Liberation of Uganda"]
+   associatedReligion: ["Islam"]
+   regionsMostActive: ["North Kivu"]
+   wikidataQnode: ["Q1133743"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1996-Present"]
+   ideologicalOrientation: ["islamist"]
+  CNDParmedNonGovernmentalOrganizedGroup:   
+   stringTokens: ["CNDP", "National Congress for the Defence of the People", "Congrès national pour la défense du peuple"]
+   regionsMostActive: ["North Kivu"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2006-2009"]
+   wikidataQnode: ["Q217726"]
+  FDLRarmedNonGovernmentalOrganizedGroup:   #should this go in Rwanda instead
+   stringTokens: ["FDLR", "Democratic Forces for the Liberation of Rwanda"]
+   regionsMostActive: ["North Kivu", "South Kivu"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000-Present"]
+   ideologicalOrientation: ["ethnicNationalism"]
+   wikidataQnode: ["Q249015"]
+  M23armedNonGovernmentalOrganizedGroup:  ##should this go in Rwanda instead
+   stringTokens: ["M23", "Congolese Revolutionary Army", "March 23 Movement"]
+   associatedEthnicGroup: ["Tutsi"]
+   regionsMostActive: ["North Kivu"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-2013"]
+   wikidataQnode: ["Q63345"]
+  MaiMaiarmedNonGovernmentalOrganizedGroup: 
+   stringTokens: ["Mai-Mai", "Mayi-Mayi", "Mai Mai", "Mayi Mayi"]
+   regionsMostActive: ["North Kivu", "South Kivu", "Maniema", "Katanga"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1990-Present"]
+   wikidataQnode: ["Q277028"]
+  LRAarmedNonGovernmentalOrganizedGroup:  ##should this go in Rwanda instead
+   stringTokens: ["LRA", "Lord's Resistance Army"]
+   regionsMostActive: ["Haut-Uele", "Bas-Uele"]
+   wikidataQnode: ["Q108462"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-Present"]
+   ideologicalOrientation: ["christianTheocracy"]
+  RaiaMutombokiarmedNonGovernmentalOrganizedGroup: ##subset of Mai Mai?
+   stringTokens: ["Raia Mutomboki", "Raiya Mutomboki"]
+   regionsMostActive: ["South Kivu", "Maniema"]
+   wikidataQnode: ["Q63226702"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-Present"]
+  NyaturaarmedNonGovernmentalOrganizedGroup: 
+   stringTokens: ["Nyatura", "Mongols", "MAGRIV", "Mutuelle agricole des Virunga", "Nyatura-APRDC"]
+   associatedEthnicGroup: ["hutuEthnicGroup"]  ##hutuethnicgroup otherwise not represented in DRC knowledge graph
+   regionsMostActive: ["North Kivu"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2010-Present"]
+  PUSICarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Parti pour l'unité et la sauvegarde de l'intégrité du Congo", "PUSIC", "Party for Unity and Safeguarding of the Integrity of Congo"] #split from UPC
+   regionsMostActive: ["Ituri"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2003-2006"]
+   ideologicalOrientation: ["nationalism"]
+  KamwinaNsapuarmedNonGovernmentalOrganizedGroup: 
+   stringTokens: ["Kamwina Nsapu"]
+   associatedEthnicGroup: ["lubaEthnicGroup"]
+   regionsMostActive: ["Kasai"]
+   wikidataQnode: ["Q28792426"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2016-2019"]
+  MLCarmedNonGovernmentalOrganizedGroup: 
+   stringTokens: ["MLC", "Movement for the Liberation of the Congo"]
+   regionsMostActive: ["Equateur"]
+   ideologicalOrientation: ["nationalism", "populism", "christianDemocracy"]
+   wikidataQnode: ["Q144806"]
+  RCDarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["RCD", "Rally for Congolese Democracy", "Congolese Rally for Democracy"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1998-2004"]
+   wikidataQnode: ["Q1498659"]
+   ideologicalOrientation: ["socialLiberalism"]
+  RCDMLarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["RCD-Mouvement de Libération", "RCD-Movement for Liberation", "RCD-ML"] #pro-Uganda wing of the RCD
+   regionsMostActive: ["Kisangani"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-2004"]
+   ideologicalOrientation: ["centreRight"]
+  RCDGarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["RCD-G", "RCD/G"] #pro-Rwanda wing of the RCD
+   regionsMostActive: ["Goma"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-2004"]
+  FNIarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["FNI", "Nationalist and Integrationist Front", "Front des Nationalistes et Intégrationnistes"]
+   regionsMostActive: ["Ituri"]
+   wikidataQnode: ["Q2470914"]
+   associatedEthnicGroup: ["lenduEthnicGroup"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-2007"]
+  FAPCarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["FAPC", "Armed Forces of the Congolese People", "Forces armées du Peuple congolais"]
+   wikidataQnode: ["Q3076948"]
+   regionsMostActive: ["Ituri"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2003-2005"]
+  UPCarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["UPC", "Union of Congolese Patriots", "Union des Patriotes congolais"]
+   regionsMostActive: ["Ituri"]
+   associatedEthnicGroup: ["hemaEthnicGroup"]
+   wikidataQnode: ["Q3550188"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2001-present"]
+   ideologicalOrientation: ["nationalism"]
+  APCLSarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["APCLS", "Alliance of Patriots for a Free and Sovereign Congo", "Alliance des patriotes pour un Congo libre et souverain"] 
+   regionsMostActive: ["North Kivu"] # mai-mai group, anti-Tutsi
+   wikidataQnode: ["Q2838075"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2006–present"]
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
