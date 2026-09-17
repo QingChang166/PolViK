@@ -51,4 +51,18 @@ the result; the geopackages are the scratch work.
 
 ---
 
-<!-- Task 4 and Task 5 evictions are appended below as they happen. -->
+## Task 4 — people-kg (2026-09-17)
+
+Removed in commit `chore: evict pickled model from people-kg`. **1 file, 13.4 MB.**
+
+| Path | Size | What it is | Why evicted | Regenerable |
+|---|---:|---|---|---|
+| `people-kg/Aspect_CountVectorizer_model.pkl.zip` | 14,060,307 B (13.4 MB) | Serialized scikit-learn `CountVectorizer`, zipped | Not graph data. Unpickling executes arbitrary code, so nothing in this repository loads it, and it is not needed to read the graph. | Re-trainable from the country files |
+
+**Security note.** Python pickles execute arbitrary code on load. If you retrieve
+this file from Dropbox, only unpickle it if you trust its provenance, and never
+from an untrusted copy.
+
+---
+
+<!-- Task 5 evictions are appended below. -->
