@@ -1,11 +1,21 @@
-* text=auto eol=lf
-*.yaml text eol=lf
-*.yml  text eol=lf
-*.R    text eol=lf
-*.Rmd  text eol=lf
+# Line endings are deliberately NOT normalized.
+#
+# Consolidation preserves file contents byte-for-byte (decision D5), and 7 of the
+# 124 people-kg YAML files use CRLF upstream while everything else uses LF. An
+# earlier version of this file set `text eol=lf`, which would have silently
+# rewritten those 7 files on the first checkout. See docs/KNOWN_ISSUES.md.
+#
+# To normalize later:  set `*.yml text eol=lf`, run `git add --renormalize .`,
+# and commit the result as its own explicit commit.
+
+# Binary files: never diff, never convert.
 *.gpkg     binary
-*.geojson  -text
-*.ipynb    -text
-*.png      binary
 *.xlsx     binary
 *.pkl      binary
+*.png      binary
+*.jpg      binary
+*.zip      binary
+
+# Large generated data: track as text but do not attempt EOL conversion.
+*.geojson  -text
+*.ipynb    -text
