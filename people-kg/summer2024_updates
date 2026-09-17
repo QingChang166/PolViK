@@ -1,0 +1,60 @@
+title: "Knowledge Graphs - Detecting Missing Data"
+author: "Merve Keskin"
+date: "07-05-2024"
+
+After completing the knowledge graphs, including both country and relation files, we proceeded to identify missing data, which could have arisen due to human error or gaps in the available sources.
+
+To detect missing data, I focused on the following key concepts and their attributes: ethnic groups, linguistic groups, political parties, and non-state armed organizations.
+
+The script named 'knowledgegraphs_missingdata.ipynb' was utilized to identify missing data. It's available in the Summer2024_update branch.
+
+For ethnic groups, the information gathered includes:
+
+- Values: 441
+- stringTokens: missing attributes: 0, empty attributes: 0 
+- wikidataQnode: missing attributes: 0.68%, empty attributes: 2.72%
+- languagesMostSpoken: missing attributes: 20.18%, empty attributes: 1.36%
+- religionsMostPracticed: missing attributes: 9.07%, empty attributes: 2.27%
+- livesIn: missing attributes: 10.20% , empty attributes: 9.75%
+
+For the linguistic groups, the information gathered includes:
+
+- Values: 690
+- stringTokens: missing attributes: 0, empty attributes: 0.14% 
+- wikidataQnode: missing attributes: 0, empty attributes: 0.43% 
+- associatedEthnicGroup: missing attributes: 10%, empty attributes: 25.94%
+- livesIn: missing attributes: 4.06%, empty attributes: 55.07%
+
+For the political party (This key appears in country files in both PoliticalParty and Party formats.), the information gathered includes:
+
+- Values__: 829
+- stringTokens: missing attributes: 0, empty attributes: 0
+- wikidataQnode: missing attributes: 7.72%, empty attributes: 8.20% 
+- associatedEthnicGroup: missing attributes: 66.71%, empty attributes: 20.75%
+- yearsActiveasParty: missing attributes: 31.36%, empty attributes: 6.65%
+- yearsActiveasEntity: missing attributes: 81.91%, empty attributes: 0.72%
+- ideologicalOrientation: missing attributes: 70.69%, empty attributes: 0
+- associatedReligion: (not included in the current concepts files)
+
+For the armed non-governmental organized groups, the information gathered includes:
+
+- Values__: 293
+- stringTokens: missing attributes: 0, empty attributes: 0.34% 
+- wikidataQnode: missing attributes: 22.18%, empty attributes: 9.90% 
+- regionsMostActive: missing attributes: 61.09%, empty attributes: 9.22%
+- associatedEthnicGroup: missing attributes: 24.23%, empty attributes: 43.69%
+- ideologicalOrientation: missing attributes: 43%, empty attributes: 0
+- yearsactiveasArmedGroup: missing attributes: 72.35%, empty attributes: 1.71% 
+- associatedReligion: (not included in the current concepts files)
+- groupType: (not included in the current concepts files)
+- originCountry: (not included in the current concepts files)
+
+
+After this inspection, I manually filled empty attributes with missing values where they were available. Additionally, I addressed attributes that were largely empty due to missing information, filling them wherever possible. Following this update, the country files now appear as follows:
+
+
+
+
+
+
+
