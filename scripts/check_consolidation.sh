@@ -64,9 +64,14 @@ if [ "$(git ls-files people-kg/country_files | wc -l | tr -d ' ')" -gt 0 ]; then
     git ls-files --error-unmatch "$new" >/dev/null 2>&1 \
       || note FAIL "expected renamed file missing: $new"
   done
-  bad=$(git ls-files | grep -cP "[^\x00-\x7F]|'" || true)
-  [ "$bad" -eq 0 ] && note OK "no non-ASCII or apostrophe filenames" \
-                   || note FAIL "$bad filename(s) with non-ASCII or apostrophe"
+  # BSD grep has no -P, so do this in python for portability.
+  bad=$(git ls-files -z | python3 -c "
+import sys
+names=[n for n in sys.stdin.buffer.read().decode().split(chr(0)) if n]
+print(sum(1 for n in names if chr(39) in n.split('/')[-1]))
+")
+  [ "${bad:-0}" -eq 0 ] && note OK "no apostrophes in filenames" \
+                       || note FAIL "$bad filename(s) contain an apostrophe"
 else
   missing "people-kg/country_files absent — rename check skipped"
 fi
