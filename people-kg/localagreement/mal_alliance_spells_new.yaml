@@ -1,0 +1,97 @@
+ansd-aqim:
+  rbl_aname: Ansar Dine
+  rbl_bname: AQIM
+  years_alliance: 2012; 2013; 2015
+  years_alliance_broad: 2012; 2013; 2015
+  coder: Zhejun
+  source: '{"ROAD Database": "1391_2042"}'
+ansd-flm:
+  rbl_aname: Ansar Dine
+  rbl_bname: FLM
+  years_alliance: 2015; 2016
+  years_alliance_broad: 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 210449}'
+ansd-mnla:
+  rbl_aname: Ansar Dine
+  rbl_bname: MNLA
+  years_alliance: ''
+  years_alliance_broad: '2012'
+  coder: Zhejun
+  source: '{"https://stanford.edu/group/mappingmilitants/cgi-bin/groups/print_view/437":
+    }'
+ansd-mujao:
+  rbl_aname: Ansar Dine
+  rbl_bname: MUJAO
+  years_alliance: ''
+  years_alliance_broad: 2012; 2013
+  coder: Zhejun
+  source: '{"https://stanford.edu/group/mappingmilitants/cgi-bin/groups/print_view/437":
+    }'
+aqim-flm:
+  rbl_aname: AQIM
+  rbl_bname: FLM
+  years_alliance: '2015'
+  years_alliance_broad: '2015'
+  coder: Zhejun
+  source: '{"ROAD Database": "1391_6267"}'
+aqim-mnla:
+  rbl_aname: AQIM
+  rbl_bname: MNLA
+  years_alliance: ''
+  years_alliance_broad: '2012'
+  coder: Zhejun
+  source: '{"https://stanford.edu/group/mappingmilitants/cgi-bin/groups/print_view/437":
+    }'
+aqim-mujao:
+  rbl_aname: AQIM
+  rbl_bname: MUJAO
+  years_alliance: 2012; 2013
+  years_alliance_broad: 2012; 2013
+  coder: Zhejun
+  source: '{"ROAD Database": "1391_2046"}'
+aqim-sib:
+  rbl_aname: AQIM
+  rbl_bname: Signed-in-Blood Battalion
+  years_alliance: '2013'
+  years_alliance_broad: '2013'
+  coder: Zhejun
+  source: '{"ROAD Database": "1391_2120"}'
+flm-sib:
+  rbl_aname: FLM
+  rbl_bname: Signed-in-Blood Battalion
+  years_alliance: '2015'
+  years_alliance_broad: '2015'
+  coder: Zhejun
+  source: '{"MGAR Database": 107733}'
+isgs-sib:
+  rbl_aname: ISGS
+  rbl_bname: Signed-in-Blood Battalion
+  years_alliance: '2015'
+  years_alliance_broad: '2015'
+  coder: Zhejun
+  source: '{"MGAR Database": 107728}'
+mnla-mia:
+  rbl_aname: MNLA
+  rbl_bname: MIA
+  years_alliance: 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022; 2023
+  years_alliance_broad: 2013; 2014; 2015; 2016; 2017; 2018; 2019; 2020; 2021; 2022;
+    2023
+  coder: Zhejun
+  source: '{"MGAR Database": 358259}'
+mnla-mujao:
+  rbl_aname: MNLA
+  rbl_bname: MUJAO
+  years_alliance: ''
+  years_alliance_broad: '2012'
+  coder: Zhejun
+  source: '{"https://stanford.edu/group/mappingmilitants/cgi-bin/groups/print_view/437":
+    }'
+mujao-sib:
+  rbl_aname: MUJAO
+  rbl_bname: Signed-in-Blood Battalion
+  years_alliance: 2013; 2014
+  years_alliance_broad: 2013; 2014
+  coder: Zhejun
+  source: '{"ROAD Database": "2046_2120"}'
+

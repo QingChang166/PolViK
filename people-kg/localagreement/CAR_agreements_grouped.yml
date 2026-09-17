@@ -1,0 +1,587 @@
+CAF004:
+  AgreementName: Accord de Reconciliation Entre Les Communautés Goula et Peul (Bria
+    Agreement)
+  Location: Central and northeastern regions of the Central African Republic
+  LocationID: CAF.5.1_1_adm2
+  Date: 03-05-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("rprc", "CAF004", timestamp=03-05-18)
+  - ArePartiesToAgreement("upc", "CAF004", timestamp=03-05-18)
+CAF006:
+  AgreementName: Accord des Retour Voluntaire des DPIs des Koui
+  Location: Degaule, Koui
+  LocationID: CAF.14.1_1_adm2
+  Date: 03-10-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("3r", "CAF006", timestamp=03-10-18)
+  - ArePartiesToAgreement("antibalaka", "CAF006", timestamp=03-10-18)
+CAF038:
+  AgreementName: Recommandations
+  Location: Bangassou, Mbomou
+  LocationID: CAF.9.2_1_adm2
+  Date: 05-06-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF038", timestamp=05-06-18)
+CAF026:
+  AgreementName: Joint Final Communique of the meeting of the leaders of politico-military
+    groups for peace and reconciliation
+  Location: Moyenne Sido
+  LocationID: GID_141518
+  Date: 05-08-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("cnds", "CAF026", timestamp=05-08-18)
+  - ArePartiesToAgreement("mpc", "CAF026", timestamp=05-08-18)
+  - ArePartiesToAgreement("upc", "CAF026", timestamp=05-08-18)
+CAF012:
+  AgreementName: Compte Rendu des Activities du Comite de Suivi de L'Accord de Paix
+    a Bangassou
+  Location: Bangassou
+  LocationID: CAF.9.2_1_adm2
+  Date: 06-03-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF012", timestamp=06-03-19)
+CAF036:
+  AgreementName: Proces verbal de gestion de conflit
+  Location: Birao, Vakaga
+  LocationID: CAF.17.1_1_adm2
+  Date: 06-03-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF036", timestamp=06-03-19)
+CAF041:
+  AgreementName: Report of The Reconciliation Committee Following  the July 14th Event
+    in Am-Dafock
+  Location: Birao, Vakaga
+  LocationID: CAF.17.1_1_adm2
+  Date: 06-08-19
+  Source: UN
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("fprc", "CAF041", timestamp=06-08-19)
+  - ArePartiesToAgreement("mlcj", "CAF041", timestamp=06-08-19)
+CAF025:
+  AgreementName: Joint Communique (Agreement of Ippy)
+  Location: 'WAKA, BASSE-KOTTO, and HAUTE-KOTTO'
+  LocationID: CAF.13_1_adm1
+  Date: 06-10-17
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("cnds", "CAF025", timestamp=06-10-17)
+  - ArePartiesToAgreement("upc", "CAF025", timestamp=06-10-17)
+CAF025_2:
+  AgreementName: Joint Communique (Agreement of Ippy)
+  Location: 'WAKA, BASSE-KOTTO, and HAUTE-KOTTO'
+  LocationID: CAF.5_1_adm1
+  Date: 06-10-17
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("cnds", "CAF025_2", timestamp=06-10-17)
+  - ArePartiesToAgreement("upc", "CAF025_2", timestamp=06-10-17)
+CAF037:
+  AgreementName: Protocole de Non-Agression
+  Location: Ndenga, Kaga-Bandoro
+  LocationID: GID_139359
+  Date: 08-03-16
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF037", timestamp=08-03-16)
+  - ArePartiesToAgreement("mpc", "CAF037", timestamp=08-03-16)
+CAF032:
+  AgreementName: Pacte de Non-Agression
+  Location: Mbres
+  LocationID: CAF.10.2_1_adm2
+  Date: 08-06-16
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF032", timestamp=08-06-16)
+  - ArePartiesToAgreement("fprc", "CAF032", timestamp=08-06-16)
+  - ArePartiesToAgreement("mpc", "CAF032", timestamp=08-06-16)
+  - ArePartiesToAgreement("upc", "CAF032", timestamp=08-06-16)
+CAF001:
+  AgreementName: Accord Entre Les Groupes Armes de Batangafo
+  Location: Batangafo
+  LocationID: CAF.15.1_1_adm2
+  Date: 09-01-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF001", timestamp=09-01-19)
+  - ArePartiesToAgreement("seleka", "CAF001", timestamp=09-01-19)
+CAF003:
+  AgreementName: Accord de Paix de Bangassou
+  Location: Bangassou
+  LocationID: CAF.9.2_1_adm2
+  Date: 09-04-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF003", timestamp=09-04-18)
+CAF010:
+  AgreementName: Commitment between the 6 Armed Groups of Haute Kotto
+  Location: Bria, Haute Kotto
+  LocationID: CAF.5.1_1_adm2
+  Date: 09-04-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF010", timestamp=09-04-19)
+  - ArePartiesToAgreement("fprc", "CAF010", timestamp=09-04-19)
+  - ArePartiesToAgreement("mlcj", "CAF010", timestamp=09-04-19)
+  - ArePartiesToAgreement("mpc", "CAF010", timestamp=09-04-19)
+  - ArePartiesToAgreement("rprc", "CAF010", timestamp=09-04-19)
+  - ArePartiesToAgreement("upc", "CAF010", timestamp=09-04-19)
+CAF010_2:
+  AgreementName: Commitment between the 6 Armed Groups of Haute Kotto
+  Location: Bria, Haute Kotto
+  LocationID: CAF.5_1_adm1
+  Date: 09-04-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF010_2", timestamp=09-04-19)
+  - ArePartiesToAgreement("fprc", "CAF010_2", timestamp=09-04-19)
+  - ArePartiesToAgreement("mlcj", "CAF010_2", timestamp=09-04-19)
+  - ArePartiesToAgreement("mpc", "CAF010_2", timestamp=09-04-19)
+  - ArePartiesToAgreement("rprc", "CAF010_2", timestamp=09-04-19)
+  - ArePartiesToAgreement("upc", "CAF010_2", timestamp=09-04-19)
+CAF024:
+  AgreementName: Interprefectoral Agreement for Peace and Reconciliation Between the
+    Communities of Dembia, Rafai and Zemio
+  Location: Rafai, Mbomou
+  LocationID: CAF.9.4_1_adm2
+  Date: 10-03-20
+  Source: UN
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF024", timestamp=10-03-20)
+CAF034:
+  AgreementName: Pacte de Non-Agression et de la Libre Circulation dans La Commune
+    de Ndenga
+  Location: Ndenga commune, Kaga-Bandoro
+  LocationID: GID_139359
+  Date: 10-06-17
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF034", timestamp=10-06-17)
+CAF040:
+  AgreementName: Reconciliation pact between the North-Eastern communities (Vakaga,
+    Bamingui-Bangoran, Haute-Kotto)
+  Location: North-Eastern CAR
+  LocationID: CAF.1_1_adm1
+  Date: 10-11-20
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF040", timestamp=10-11-20)
+CAF040_2:
+  AgreementName: Reconciliation pact between the North-Eastern communities (Vakaga,
+    Bamingui-Bangoran, Haute-Kotto)
+  Location: North-Eastern CAR
+  LocationID: CAF.17_1_adm1
+  Date: 10-11-20
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF040_2", timestamp=10-11-20)
+CAF040_3:
+  AgreementName: Reconciliation pact between the North-Eastern communities (Vakaga,
+    Bamingui-Bangoran, Haute-Kotto)
+  Location: North-Eastern CAR
+  LocationID: CAF.5_1_adm1
+  Date: 10-11-20
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF040_3", timestamp=10-11-20)
+CAF033:
+  AgreementName: Pacte de Non-Agression et Reconciliation Communautaire
+  Location: 3rd District (Bangui) and the town of Bimbo III
+  LocationID: GID_135758
+  Date: 11-02-16
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF033", timestamp=11-02-16)
+  - ArePartiesToAgreement("communitygroup", "CAF033", timestamp=11-02-16)
+CAF018:
+  AgreementName: Engagement Agreement on The Batangafo Unarmed Zone
+  Location: Batangafo, Ouham
+  LocationID: CAF.15.1_1_adm2
+  Date: 12-12-15
+  Source: UN
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF018", timestamp=12-12-15)
+  - ArePartiesToAgreement("fprc", "CAF018", timestamp=12-12-15)
+  - ArePartiesToAgreement("mpc", "CAF018", timestamp=12-12-15)
+CAF039:
+  AgreementName: Recommendations of the Round Table on the Free Movement of People
+    and Goods in Nana Gribizi
+  Location: Nana Gribizi
+  LocationID: CAF.10_1_adm1
+  Date: 14-06-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF039", timestamp=14-06-19)
+  - ArePartiesToAgreement("fprc", "CAF039", timestamp=14-06-19)
+  - ArePartiesToAgreement("mpc", "CAF039", timestamp=14-06-19)
+  - ArePartiesToAgreement("seleka", "CAF039", timestamp=14-06-19)
+CAF009:
+  AgreementName: Acte d'Engagement Entre Les Groupes Anti-Balakas de la Nana Membere
+    et 3R (Bouar Agreement)
+  Location: Nana-Mambere prefecture
+  LocationID: CAF.11_1_adm1
+  Date: 14-12-17
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("3r", "CAF009", timestamp=14-12-17)
+  - ArePartiesToAgreement("antibalaka", "CAF009", timestamp=14-12-17)
+CAF008:
+  AgreementName: Act Of Commitment Between the Ex-Seleka of The Sub-Prefecture Of
+    Nana Bakassa And The Anti-Balaka of The Sub-Prefectures Of Nana Bakassa And Bossangoa
+  Location: Nana-Bakassa, Ouham
+  LocationID: CAF.15.2_1_adm2
+  Date: 15-06-17
+  Source: UN
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF008", timestamp=15-06-17)
+  - ArePartiesToAgreement("mpc", "CAF008", timestamp=15-06-17)
+CAF002:
+  AgreementName: Accord de Ouadda
+  Location: Ouadda
+  LocationID: CAF.5.2_1_adm2
+  Date: 15-08-20
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("fprc", "CAF002", timestamp=15-08-20)
+  - ArePartiesToAgreement("mpc", "CAF002", timestamp=15-08-20)
+  - ArePartiesToAgreement("rprc", "CAF002", timestamp=15-08-20)
+CAF005:
+  AgreementName: Accord de la Paix Locale
+  Location: Basse-Lotto
+  LocationID: CAF.3_1_adm1
+  Date: 15-10-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF005", timestamp=15-10-18)
+  - ArePartiesToAgreement("upc", "CAF005", timestamp=15-10-18)
+CAF035:
+  AgreementName: Pombolo
+  Location: Pombolo and Gambo (Southwest Mbomou)
+  LocationID: CAF.9.3_1_adm2
+  Date: 17-10-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF035", timestamp=17-10-18)
+CAF017:
+  AgreementName: Dimbi UPC AB Joint Memorandum
+  Location: Dimbi
+  LocationID: CAF.3.2_1_adm2
+  Date: 17-12-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF017", timestamp=17-12-18)
+  - ArePartiesToAgreement("upc", "CAF017", timestamp=17-12-18)
+CAF011:
+  AgreementName: Commitment note
+  Location: Seko parish
+  LocationID: GID_137923
+  Date: 18-05-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF011", timestamp=18-05-19)
+  - ArePartiesToAgreement("upc", "CAF011", timestamp=18-05-19)
+CAF020:
+  AgreementName: Gambo
+  Location: Pombolo and Gambo (Southwest Mbomou)
+  LocationID: CAF.9.3_1_adm2
+  Date: 18-10-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF020", timestamp=18-10-18)
+CAF019:
+  AgreementName: Feuille de Route
+  Location: Haute-Kotto
+  LocationID: CAF.5_1_adm1
+  Date: 19-12-17
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF019", timestamp=19-12-17)
+  - ArePartiesToAgreement("mlcj", "CAF019", timestamp=19-12-17)
+  - ArePartiesToAgreement("rprc", "CAF019", timestamp=19-12-17)
+CAF021:
+  AgreementName: Gambo - Pombolo Peace and Reconciliation Agreement
+  Location: Mbomou prefecture
+  LocationID: CAF.9_1_adm1
+  Date: 20-03-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF021", timestamp=20-03-19)
+CAF028:
+  AgreementName: La Declaration de Coordination des Groupes Armes RCP
+  Location: the West Zone
+  LocationID: CAF.11_1_adm1
+  Date: 20-10-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("3r", "CAF028", timestamp=20-10-18)
+  - ArePartiesToAgreement("antibalaka", "CAF028", timestamp=20-10-18)
+  - ArePartiesToAgreement("fdpc", "CAF028", timestamp=20-10-18)
+  - ArePartiesToAgreement("rj", "CAF028", timestamp=20-10-18)
+CAF028_2:
+  AgreementName: La Declaration de Coordination des Groupes Armes RCP
+  Location: the West Zone
+  LocationID: CAF.16_1_adm1
+  Date: 20-10-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("3r", "CAF028_2", timestamp=20-10-18)
+  - ArePartiesToAgreement("antibalaka", "CAF028_2", timestamp=20-10-18)
+  - ArePartiesToAgreement("fdpc", "CAF028_2", timestamp=20-10-18)
+  - ArePartiesToAgreement("rj", "CAF028_2", timestamp=20-10-18)
+CAF028_3:
+  AgreementName: La Declaration de Coordination des Groupes Armes RCP
+  Location: the West Zone
+  LocationID: CAF.8_1_adm1
+  Date: 20-10-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("3r", "CAF028_3", timestamp=20-10-18)
+  - ArePartiesToAgreement("antibalaka", "CAF028_3", timestamp=20-10-18)
+  - ArePartiesToAgreement("fdpc", "CAF028_3", timestamp=20-10-18)
+  - ArePartiesToAgreement("rj", "CAF028_3", timestamp=20-10-18)
+CAF015:
+  AgreementName: Declaration of social contract
+  Location: Bossangoa, Ouham
+  LocationID: CAF.15.2_1_adm2
+  Date: 21-06-17
+  Source: UN
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF015", timestamp=21-06-17)
+CAF027:
+  AgreementName: Joint Press Release
+  Location: Bria, Haute Kotto
+  LocationID: CAF.5_1_adm1
+  Date: 21-09-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: []
+  Note: []
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF027", timestamp=21-09-19)
+  - ArePartiesToAgreement("fprc", "CAF027", timestamp=21-09-19)
+CAF023:
+  AgreementName: Good neighborliness and Community Reconciliation Agreement between
+    the Communities of Castors, Yakite, Sara, Yalowa, Camerounais Douala, and Sanga-Bibale
+  Location: Bangui, 3rd Arrondissement
+  LocationID: GID_135758
+  Date: 23-03-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF023", timestamp=23-03-19)
+CAF007:
+  AgreementName: Accord entre les Groupes Armes de Batangafo
+  Location: Batangafo
+  LocationID: CAF.15.1_1_adm2
+  Date: 24-02-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF007", timestamp=24-02-18)
+  - ArePartiesToAgreement("fprc", "CAF007", timestamp=24-02-18)
+CAF016:
+  AgreementName: Declaration of the Inclusive Intra and Inter-Communal Reconciliation
+    Forum in Haute Kotto
+  Location: Haute Kotto
+  LocationID: CAF.5_1_adm1
+  Date: 24-04-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("mlcj", "CAF016", timestamp=24-04-19)
+  - ArePartiesToAgreement("mpc", "CAF016", timestamp=24-04-19)
+  - ArePartiesToAgreement("rprc", "CAF016", timestamp=24-04-19)
+  - ArePartiesToAgreement("upc", "CAF016", timestamp=24-04-19)
+CAF014:
+  AgreementName: Declaration of reconciliation of dialogue between the communities
+    of Obo
+  Location: Obo, Haut-Mbomou
+  LocationID: CAF.4.2_1_adm2
+  Date: 24-05-22
+  Source: UN
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF014", timestamp=24-05-22)
+CAF030:
+  AgreementName: 'Memorandum of Understanding on Nonaggression and Coexistence '
+  Location: Bambari, Ouaka
+  LocationID: CAF.13.2_1_adm2
+  Date: 27-01-16
+  Source: UN
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("antibalaka", "CAF030", timestamp=27-01-16)
+  - ArePartiesToAgreement("upc", "CAF030", timestamp=27-01-16)
+CAF031:
+  AgreementName: Non-aggression and peaceful cohabitation pact between the disputing
+    parties from Bamingui-Bangoran
+  Location: Ndele
+  LocationID: CAF.1.2_1_adm2
+  Date: 27-08-20
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("fprc", "CAF031", timestamp=27-08-20)
+CAF022:
+  AgreementName: Good Neighborhood And Community Reconciation Agreement Between Communities
+    In The 3rd And 6th Arrondissements Of Bangui
+  Location: Bangui
+  LocationID: CAF.2.1_1_adm2
+  Date: 28-11-19
+  Source: UN
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF022", timestamp=28-11-19)
+CAF029:
+  AgreementName: MINUTES OF THE RECONCILIATION MEETING BETWEEN KARA AND GOULA COMMUNITIES
+  Location: Delembe, Birao, Vakaga
+  LocationID: GID_143686
+  Date: 30-08-19
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("communitygroup", "CAF029", timestamp=30-08-19)
+CAF013:
+  AgreementName: Decision
+  Location: Kaga-Bandoro
+  LocationID: CAF.10.1_1_adm2
+  Date: 31-05-18
+  Source: PA-X
+  Coder: Zhejun, Merve
+  CodingDate: null
+  Note: null
+  ArePartiesToAgreement:
+  - ArePartiesToAgreement("fprc", "CAF013", timestamp=31-05-18)
+  - ArePartiesToAgreement("mpc", "CAF013", timestamp=31-05-18)

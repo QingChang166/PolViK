@@ -1,0 +1,192 @@
+##Splits
+# split from and rival; # expansion from; different from split from
+# expansion from; it is not splitting; contained within
+# programatic map; armed rivals, armed alliances?
+seleka-fprc:
+  rbl_pname: selekaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: fprcArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2014'
+  child_start_month: 2014-07
+  url_time: ["https://en.wikipedia.org/wiki/S%C3%A9l%C3%A9ka"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+seleka-fprc:
+  rbl_pname: selekaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: fdpcArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2014'
+  child_start_month: 2014-01
+  url_time: ["https://en.wikipedia.org/wiki/S%C3%A9l%C3%A9ka", "https://en.wikipedia.org/wiki/Democratic_Front_of_the_Central_African_People"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+seleka-upc:
+  rbl_pname: selekaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: upcArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2014'
+  child_start_month: 2014-09
+  url_time: ["https://en.wikipedia.org/wiki/Union_for_Peace_in_the_Central_African_Republic"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+seleka-mpc:
+  rbl_pname: selekaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: mpcArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2015'
+  child_start_month: 2015-07
+  url_time: ["https://en.wikipedia.org/wiki/Central_African_Patriotic_Movement"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+seleka-rprc:
+  rbl_pname: selekaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: rprcArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2014'
+  child_start_month: 2014-11
+  url_time: ["https://en.wikipedia.org/wiki/Patriotic_Rally_for_the_Renewal_of_the_Central_African_Republic"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+ufdr-mlcj:
+  rbl_pname: ufdrArmedNonGovernmentalOrganizedGroup
+  rbl_cname: mlcjArmedNonGovernmentalOrganizedGroup
+  type_child: 'split'
+  years_child: '2008'
+  child_start_month: 2008-08
+  url_time: ["https://en.wikipedia.org/wiki/Movement_of_Central_African_Liberators_for_Justice", "https://www.thenewhumanitarian.org/news/2014/09/17/armed-groups-car"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+##Expansion
+rprc-prnc:
+  rbl_pname: rprcArmedNonGovernmentalOrganizedGroup
+  rbl_cname: prncArmedNonGovernmentalOrganizedGroup
+  type_child: 'contains with'
+  years_child: '2019'
+  child_start_month: 2019-05 # some are the split, some are the branches
+  url_time: ["https://en.wikipedia.org/wiki/Party_of_the_Rally_of_the_Central_African_Nation"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+##Mergers
+fprc-seleka:
+  rbl_pname: fdpcArmedNonGovernmentalOrganizedGroup
+  rbl_cname: selekaArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2013'
+  child_start_month: 2013-03
+  url_time: ["https://en.wikipedia.org/wiki/S%C3%A9l%C3%A9ka", "https://en.wikipedia.org/wiki/Democratic_Front_of_the_Central_African_People"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+cpjp-seleka:
+  rbl_pname: cpjpArmedNonGovernmentalOrganizedGroup
+  rbl_cname: selekaArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2012'
+  child_start_month: 2012-09
+  url_time: ["https://en.wikipedia.org/wiki/S%C3%A9l%C3%A9ka"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+cpsk-seleka:
+  rbl_pname: cpskArmedNonGovernmentalOrganizedGroup
+  rbl_cname: selekaArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2012'
+  child_start_month: 2012-09
+  url_time: ["https://en.wikipedia.org/wiki/S%C3%A9l%C3%A9ka"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+ufdr-seleka:
+  rbl_pname: ufdrArmedNonGovernmentalOrganizedGroup
+  rbl_cname: selekaArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2012'
+  child_start_month: 2012-09
+  url_time: ["https://en.wikipedia.org/wiki/S%C3%A9l%C3%A9ka"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+fprc-cpc:
+  rbl_pname: fprcArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cpcArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2020'
+  child_start_month: 2020-12
+  url_time: ["https://en.wikipedia.org/wiki/Popular_Front_for_the_Rebirth_of_Central_African_Republic"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+upc-cpc:
+  rbl_pname: upcArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cpcArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2020'
+  child_start_month: 2020-12
+  url_time: ["https://en.wikipedia.org/wiki/Union_for_Peace_in_the_Central_African_Republic"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+antibalaka-cpc:
+  rbl_pname: antibalakaArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cpcArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2020'
+  child_start_month: 2020-12
+  url_time: ["https://en.wikipedia.org/wiki/Anti-balakac"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+mpc-cpc:
+  rbl_pname: mpcArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cpcArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2020'
+  child_start_month: 2020-12
+  url_time: ["https://en.wikipedia.org/wiki/Central_African_Patriotic_Movement"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+3r-cpc:
+  rbl_pname: 3rArmedNonGovernmentalOrganizedGroup
+  rbl_cname: cpcArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2020'
+  child_start_month: 2020-12
+  url_time: ["https://en.wikipedia.org/wiki/Coalition_of_Patriots_for_Change"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'
+
+mnlc-mpc:
+  rbl_pname: mnlArmedNonGovernmentalOrganizedGroup
+  rbl_cname: mpcArmedNonGovernmentalOrganizedGroup
+  type_child: 'merge'
+  years_child: '2018'
+  child_start_month: 2018-05
+  url_time: ["https://en.wikipedia.org/wiki/Central_African_Patriotic_Movement"]
+  coder: Zhejun
+  source: '{"Wikipedia":
+    }'

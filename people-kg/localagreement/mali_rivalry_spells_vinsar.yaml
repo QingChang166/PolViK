@@ -1,0 +1,37 @@
+ansd-mnla:
+  rbl_aname: Ansar Dine
+  rbl_bname: MNLA
+  years_rivalry: 2012; 2013; 2014; 2015
+  years_threat: ''
+  years_denounce: '2012'
+  years_violence: 2012; 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"vinsar": ""}'
+aqim-mnla:
+  rbl_aname: AQIM
+  rbl_bname: MNLA
+  years_rivalry: 2012; 2013; 2014
+  years_threat: 2012; 2013
+  years_denounce: 2012; 2013
+  years_violence: 2012; 2013; 2014
+  coder: Zhejun
+  source: '{"vinsar": ""}'
+cma-mujao:
+  rbl_aname: CMA
+  rbl_bname: MUJAO
+  years_rivalry: '2015'
+  years_threat: ''
+  years_denounce: '2015'
+  years_violence: ''
+  coder: Zhejun
+  source: '{"vinsar": ""}'
+mnla-mujao:
+  rbl_aname: MNLA
+  rbl_bname: MUJAO
+  years_rivalry: 2012; 2013; 2014
+  years_threat: ''
+  years_denounce: 2012; 2014
+  years_violence: 2012; 2013; 2014
+  coder: Zhejun
+  source: '{"vinsar": ""}'
+

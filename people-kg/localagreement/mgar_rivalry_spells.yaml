@@ -1,0 +1,1152 @@
+1920_revolution_brigades;tawhid_and_jihad:
+  rbl_aname: 1920 REVOLUTION BRIGADES
+  rbl_bname: AL-QA'IDA IN IRAQ (TAWHID AND JIHAD)
+  years_rivalry: 2007; 2008; 2009; 2010; 2011; 2012; 2013
+  coder: Zhejun
+  source: '{"MGAR Database": 4223}'
+1920_revolution_brigades;al-jaish_al-islami_fi_al-iraq:
+  rbl_aname: 1920 REVOLUTION BRIGADES
+  rbl_bname: ISLAMIC ARMY IN IRAQ (AL-JAISH AL-ISLAMI FI AL-IRAQ)
+  years_rivalry: 2007; 2008
+  coder: Zhejun
+  source: '{"MGAR Database": 4692}'
+2nd_of_june_movement;baader-meinhof_group:
+  rbl_aname: 2ND OF JUNE MOVEMENT
+  rbl_bname: BAADER-MEINHOF GROUP
+  years_rivalry: 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980
+  coder: Zhejun
+  source: '{"MGAR Database": 12716}'
+a'chik_sangma_an'pachakgipa_kook;anvc:
+  rbl_aname: A'CHIK SANGMA AN'PACHAKGIPA KOOK
+  rbl_bname: ACHIK NATIONAL VOLUNTEER COUNCIL (ANVC)
+  years_rivalry: '2014'
+  coder: Zhejun
+  source: '{"MGAR Database": 20040}'
+ano;plo:
+  rbl_aname: ABU NIDAL ORGANIZATION (ANO)
+  rbl_bname: PALESTINE LIBERATION ORGANIZATION (PLO)
+  years_rivalry: 1974; 1975; 1976; 1977; 1978; 1979; 1980; 1981; 1982; 1983; 1984;
+    1985; 1986; 1987; 1988; 1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997;
+    1998; 1999; 2000; 2001; 2002
+  coder: Zhejun
+  source: '{"MGAR Database": 33484}'
+asg;mnlf:
+  rbl_aname: ABU SAYYAF GROUP (ASG)
+  rbl_bname: MORO NATIONAL LIBERATION FRONT (MNLF)
+  years_rivalry: 1991; 1992; 1993; 1994; 1995; 1996
+  coder: Zhejun
+  source: '{"MGAR Database": 35241}'
+anvc;garo_national_liberation_army:
+  rbl_aname: ACHIK NATIONAL VOLUNTEER COUNCIL (ANVC)
+  rbl_bname: GARO NATIONAL LIBERATION ARMY
+  years_rivalry: 2010; 2011; 2012; 2013; 2014
+  coder: Zhejun
+  source: '{"MGAR Database": 36610}'
+anvc;ndfb:
+  rbl_aname: ACHIK NATIONAL VOLUNTEER COUNCIL (ANVC)
+  rbl_bname: NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)
+  years_rivalry: '2011'
+  coder: Zhejun
+  source: '{"MGAR Database": 37129}'
+anvc;uala:
+  rbl_aname: ACHIK NATIONAL VOLUNTEER COUNCIL (ANVC)
+  rbl_bname: UNITED ACHIK LIBERATION ARMY (UALA)
+  years_rivalry: '2013'
+  coder: Zhejun
+  source: '{"MGAR Database": 37643}'
+anvc;ulfa:
+  rbl_aname: ACHIK NATIONAL VOLUNTEER COUNCIL (ANVC)
+  rbl_bname: UNITED LIBERATION FRONT OF ASSAM (ULFA)
+  years_rivalry: '2011'
+  coder: Zhejun
+  source: '{"MGAR Database": 37654}'
+anla;nscn-im:
+  rbl_aname: ADIVASI NATIONAL LIBERATION ARMY (ANLA)
+  rbl_bname: NATIONAL SOCIALIST COUNCIL OF NAGALAND-ISAK-MUIVAH (NSCN-IM)
+  years_rivalry: '2014'
+  coder: Zhejun
+  source: '{"MGAR Database": 49028}'
+anla;nscn-k:
+  rbl_aname: ADIVASI NATIONAL LIBERATION ARMY (ANLA)
+  rbl_bname: NATIONAL SOCIALIST COUNCIL OF NAGALAND-KHAPLANG (NSCN-K)
+  years_rivalry: '2014'
+  coder: Zhejun
+  source: '{"MGAR Database": 49029}'
+south_africa;pac:
+  rbl_aname: AFRICAN NATIONAL CONGRESS (SOUTH AFRICA)
+  rbl_bname: PAN AFRICANIST CONGRESS (PAC)
+  years_rivalry: 1959; 1960; 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969;
+    1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979; 1980; 1981; 1982;
+    1983; 1984; 1985; 1986; 1987; 1988; 1989; 1990; 1991; 1992; 1993; 1994
+  coder: Zhejun
+  source: '{"MGAR Database": 52708}'
+somalia;somalia:
+  rbl_aname: AHLU-SUNAH WAL-JAMEA (SOMALIA)
+  rbl_bname: ISLAMIC PARTY (SOMALIA)
+  years_rivalry: '2010'
+  coder: Zhejun
+  source: '{"MGAR Database": 55849}'
+aideed_miltia;united_somali_congress:
+  rbl_aname: AIDEED MILTIA
+  rbl_bname: UNITED SOMALI CONGRESS
+  years_rivalry: '1991'
+  coder: Zhejun
+  source: '{"MGAR Database": 61588}'
+al_tawhid_brigade;isis:
+  rbl_aname: AL TAWHID BRIGADE
+  rbl_bname: ISIS
+  years_rivalry: '2014'
+  coder: Zhejun
+  source: '{"MGAR Database": 362325}'
+al-aqsa_martyrs_brigade;islamic_resistance_movement:
+  rbl_aname: AL-AQSA MARTYRS BRIGADE
+  rbl_bname: HAMAS (ISLAMIC RESISTANCE MOVEMENT)
+  years_rivalry: '2000'
+  coder: Zhejun
+  source: '{"MGAR Database": 73116}'
+aiai;ssdf:
+  rbl_aname: AL-ITTIHAAD AL-ISLAMI (AIAI)
+  rbl_bname: SOMALI SALVATION DEMOCRATIC FRONT (SSDF)
+  years_rivalry: 1991; 1992; 1993
+  coder: Zhejun
+  source: '{"MGAR Database": 96418}'
+tawhid_and_jihad;iraqi_hamas_/_islamic_resistance_movement:
+  rbl_aname: AL-QA'IDA IN IRAQ (TAWHID AND JIHAD)
+  rbl_bname: IRAQI HAMAS / ISLAMIC RESISTANCE MOVEMENT
+  years_rivalry: 2007; 2008; 2009; 2010; 2011; 2012; 2013
+  coder: Zhejun
+  source: '{"MGAR Database": 115118}'
+aqap;islamic_state_in_yemen:
+  rbl_aname: AL-QA`IDA IN THE ARABIAN PENINSULA (AQAP)
+  rbl_bname: ISLAMIC STATE IN YEMEN
+  years_rivalry: 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 125510}'
+aqlim;algeria_province_of_the_islamic_state:
+  rbl_aname: AL-QA`IDA IN THE LANDS OF THE ISLAMIC MAGHREB (AQLIM)
+  rbl_bname: ALGERIA PROVINCE OF THE ISLAMIC STATE
+  years_rivalry: 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 127585}'
+aqlim;islamic_salvation_front:
+  rbl_aname: AL-QA`IDA IN THE LANDS OF THE ISLAMIC MAGHREB (AQLIM)
+  rbl_bname: ISLAMIC SALVATION FRONT
+  years_rivalry: 1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997; 1998; 1999
+  coder: Zhejun
+  source: '{"MGAR Database": 126437}'
+al-shabaab;icu:
+  rbl_aname: AL-SHABAAB
+  rbl_bname: ISLAMIC COURTS UNION (ICU)
+  years_rivalry: '2007'
+  coder: Zhejun
+  source: '{"MGAR Database": 134933}'
+al-shabaab;somalia:
+  rbl_aname: AL-SHABAAB
+  rbl_bname: ISLAMIC PARTY (SOMALIA)
+  years_rivalry: '2009'
+  coder: Zhejun
+  source: '{"MGAR Database": 134956}'
+abb;npa:
+  rbl_aname: ALEX BONCAYAO BRIGADE (ABB)
+  rbl_bname: NEW PEOPLE'S ARMY (NPA)
+  years_rivalry: 1997; 1998; 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007;
+    2008; 2009; 2010; 2011; 2012; 2013
+  coder: Zhejun
+  source: '{"MGAR Database": 150917}'
+abb;rpa:
+  rbl_aname: ALEX BONCAYAO BRIGADE (ABB)
+  rbl_bname: REVOLUTIONARY PROLETARIAN ARMY (RPA)
+  years_rivalry: '2007'
+  coder: Zhejun
+  source: '{"MGAR Database": 151223}'
+all_bodo_women's_welfare_federation;ndfb:
+  rbl_aname: ALL BODO WOMEN'S WELFARE FEDERATION
+  rbl_bname: NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)
+  years_rivalry: '2001'
+  coder: Zhejun
+  source: '{"MGAR Database": 156898}'
+absdf;nmsp:
+  rbl_aname: ALL BURMA STUDENTS' DEMOCRATIC FRONT (ABSDF)
+  rbl_bname: NEW MON STATE PARTY (NMSP)
+  years_rivalry: '1995'
+  coder: Zhejun
+  source: '{"MGAR Database": 158893}'
+alliance_of_democratic_forces_for_the_liberation_of_congo;rally_for_unity_and_democracy:
+  rbl_aname: ALLIANCE OF DEMOCRATIC FORCES FOR THE LIBERATION OF CONGO
+  rbl_bname: RALLY FOR UNITY AND DEMOCRACY
+  years_rivalry: 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 173789}'
+ansar_al-islam;islamic_movement_of_kurdistan:
+  rbl_aname: ANSAR AL-ISLAM
+  rbl_bname: ISLAMIC MOVEMENT OF KURDISTAN
+  years_rivalry: 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012;
+    2013; 2014
+  coder: Zhejun
+  source: '{"MGAR Database": 211078}'
+ansar_al-islam;isi:
+  rbl_aname: ANSAR AL-ISLAM
+  rbl_bname: ISLAMIC STATE OF IRAQ (ISI)
+  years_rivalry: 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013;
+    2014
+  coder: Zhejun
+  source: '{"MGAR Database": 211084}'
+ansar_al-islam;kdp:
+  rbl_aname: ANSAR AL-ISLAM
+  rbl_bname: KURDISH DEMOCRATIC PARTY-IRAQ (KDP)
+  years_rivalry: 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014
+  coder: Zhejun
+  source: '{"MGAR Database": 211229}'
+ansar_al-islam;kurdistan_islamic_group:
+  rbl_aname: ANSAR AL-ISLAM
+  rbl_bname: KURDISTAN ISLAMIC GROUP
+  years_rivalry: 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012;
+    2013; 2014
+  coder: Zhejun
+  source: '{"MGAR Database": 211234}'
+ansar_al-islam;puk:
+  rbl_aname: ANSAR AL-ISLAM
+  rbl_bname: PATRIOTIC UNION OF KURDISTAN (PUK)
+  years_rivalry: 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011;
+    2012; 2013; 2014
+  coder: Zhejun
+  source: '{"MGAR Database": 211495}'
+ansar_al-sharia;libyan_national_army:
+  rbl_aname: ANSAR AL-SHARIA
+  rbl_bname: LIBYAN NATIONAL ARMY
+  years_rivalry: 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 213063}'
+ansarullah_bangla_team;islamic_state_in_bangladesh:
+  rbl_aname: ANSARULLAH BANGLA TEAM
+  rbl_bname: ISLAMIC STATE IN BANGLADESH
+  years_rivalry: 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 2627247}'
+anti-balaka;ex-seleka:
+  rbl_aname: ANTI-BALAKA
+  rbl_bname: EX-SELEKA
+  years_rivalry: 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 226986}'
+anti-balaka;seleka:
+  rbl_aname: ANTI-BALAKA
+  rbl_bname: SELEKA
+  years_rivalry: 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 227354}'
+armata_corsa;flnc:
+  rbl_aname: ARMATA CORSA
+  rbl_bname: CORSICAN NATIONAL LIBERATION FRONT (FLNC)
+  years_rivalry: 1998; 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008;
+    2009; 2010; 2011; 2012; 2013
+  coder: Zhejun
+  source: '{"MGAR Database": 275620}'
+armed_forces_of_the_republic_of_kosovo;kla:
+  rbl_aname: ARMED FORCES OF THE REPUBLIC OF KOSOVO
+  rbl_bname: KOSOVO LIBERATION ARMY (KLA)
+  years_rivalry: 1998; 1999
+  coder: Zhejun
+  source: '{"MGAR Database": 288386}'
+gia;islamic_salvation_front:
+  rbl_aname: ARMED ISLAMIC GROUP (GIA)
+  rbl_bname: ISLAMIC SALVATION FRONT
+  years_rivalry: 1996; 1997
+  coder: Zhejun
+  source: '{"MGAR Database": 290403}'
+gia;gspc:
+  rbl_aname: ARMED ISLAMIC GROUP (GIA)
+  rbl_bname: SALAFIST GROUP FOR PREACHING AND COMBAT (GSPC)
+  years_rivalry: 1998; 1999
+  coder: Zhejun
+  source: '{"MGAR Database": 291097}'
+armee_de_liberation_du_congo;apc:
+  rbl_aname: ARMEE DE LIBERATION DU CONGO
+  rbl_bname: ARMEE POPULAIRE CONGOLAISE (APC)
+  years_rivalry: 2001; 2002; 2003
+  coder: Zhejun
+  source: '{"MGAR Database": 302637}'
+apc;rcd:
+  rbl_aname: ARMEE POPULAIRE CONGOLAISE (APC)
+  rbl_bname: CONGOLESE RALLY FOR DEMOCRACY (RCD)
+  years_rivalry: 2001; 2002; 2003
+  coder: Zhejun
+  source: '{"MGAR Database": 305462}'
+apc;leopard_mobile_force:
+  rbl_aname: ARMEE POPULAIRE CONGOLAISE (APC)
+  rbl_bname: LEOPARD MOBILE FORCE
+  years_rivalry: '2000'
+  coder: Zhejun
+  source: '{"MGAR Database": 305796}'
+apc;mlc:
+  rbl_aname: ARMEE POPULAIRE CONGOLAISE (APC)
+  rbl_bname: MOVEMENT FOR THE LIBERATION OF CONGO (MLC)
+  years_rivalry: '2001'
+  coder: Zhejun
+  source: '{"MGAR Database": 305863}'
+apc;usalama_battalion:
+  rbl_aname: ARMEE POPULAIRE CONGOLAISE (APC)
+  rbl_bname: USALAMA BATTALION
+  years_rivalry: '1999'
+  coder: Zhejun
+  source: '{"MGAR Database": 306250}'
+armenian_secret_army_for_the_liberation_of_armenia;justice_commandos_for_the_armenian_genocide:
+  rbl_aname: ARMENIAN SECRET ARMY FOR THE LIBERATION OF ARMENIA
+  rbl_bname: JUSTICE COMMANDOS FOR THE ARMENIAN GENOCIDE
+  years_rivalry: 1975; 1976; 1977; 1978; 1979; 1980; 1981; 1982; 1983; 1984; 1985
+  coder: Zhejun
+  source: '{"MGAR Database": 308468}'
+army_of_the_naqshbandi_way;isi:
+  rbl_aname: ARMY OF THE NAQSHBANDI WAY
+  rbl_bname: ISLAMIC STATE OF IRAQ (ISI)
+  years_rivalry: 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 320916}'
+asa'ib_ahl_al-haqq;isi:
+  rbl_aname: ASA'IB AHL AL-HAQQ
+  rbl_bname: ISLAMIC STATE OF IRAQ (ISI)
+  years_rivalry: 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 330811}'
+asbat_al-ansar;hizballah:
+  rbl_aname: ASBAT AL-ANSAR
+  rbl_bname: HIZBALLAH
+  years_rivalry: 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997; 1998; 1999; 2000;
+    2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2013; 2014
+  coder: Zhejun
+  source: '{"MGAR Database": 332222}'
+atto_militia;united_somali_congress/somali_national_alliance:
+  rbl_aname: ATTO MILITIA
+  rbl_bname: UNITED SOMALI CONGRESS/SOMALI NATIONAL ALLIANCE
+  years_rivalry: 1995; 1996; 1997
+  coder: Zhejun
+  source: '{"MGAR Database": 344040}'
+badr_brigades;isi:
+  rbl_aname: BADR BRIGADES
+  rbl_bname: ISLAMIC STATE OF IRAQ (ISI)
+  years_rivalry: 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 373349}'
+badr_brigades;mahdi_army:
+  rbl_aname: BADR BRIGADES
+  rbl_bname: MAHDI ARMY
+  years_rivalry: 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013;
+    2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 373629}'
+biff;misuari_breakaway_group:
+  rbl_aname: BANGSAMORO ISLAMIC FREEDOM FIGHTERS (BIFF)
+  rbl_bname: MISUARI BREAKAWAY GROUP
+  years_rivalry: '2016'
+  coder: Zhejun
+  source: '{"MGAR Database": 398851}'
+black_widows;dhd:
+  rbl_aname: BLACK WIDOWS
+  rbl_bname: DIMA HALAO DAOGA (DHD)
+  years_rivalry: 2004; 2005; 2006; 2007; 2008; 2009
+  coder: Zhejun
+  source: '{"MGAR Database": 446488}'
+black_widows;nscn-im:
+  rbl_aname: BLACK WIDOWS
+  rbl_bname: NATIONAL SOCIALIST COUNCIL OF NAGALAND-ISAK-MUIVAH (NSCN-IM)
+  years_rivalry: '2008'
+  coder: Zhejun
+  source: '{"MGAR Database": 446951}'
+blt;ndfb:
+  rbl_aname: BODO LIBERATION TIGERS (BLT)
+  rbl_bname: NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)
+  years_rivalry: 1996; 1997; 1998; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007;
+    2008; 2009; 2010; 2011
+  coder: Zhejun
+  source: '{"MGAR Database": 449248}'
+burma_communist_party;kia:
+  rbl_aname: BURMA COMMUNIST PARTY
+  rbl_bname: KACHIN INDEPENDENCE ARMY (KIA)
+  years_rivalry: 1961; 1962; 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971;
+    1972; 1973; 1974; 1975; 1976
+  coder: Zhejun
+  source: '{"MGAR Database": 478554}'
+caucasus_emirate;caucasus_province_of_the_islamic_state:
+  rbl_aname: CAUCASUS EMIRATE
+  rbl_bname: CAUCASUS PROVINCE OF THE ISLAMIC STATE
+  years_rivalry: 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 496041}'
+cdf;npfl:
+  rbl_aname: CIVIL DEFENSE FORCE (CDF)-SIERRA LEON
+  rbl_bname: NATIONAL PATRIOTIC FRONT OF LIBERIA (NPFL)
+  years_rivalry: 1991; 1992; 1993; 1994; 1995; 1996; 1997
+  coder: Zhejun
+  source: '{"MGAR Database": 533212}'
+cpi-m;jlt:
+  rbl_aname: COMMUNIST PARTY OF INDIA - MAOIST (CPI-M)
+  rbl_bname: JHARKHAND LIBERATION TIGERS (JLT)
+  years_rivalry: 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014;
+    2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 574671}'
+cpi-m;people's_liberation_front_of_india:
+  rbl_aname: COMMUNIST PARTY OF INDIA - MAOIST (CPI-M)
+  rbl_bname: PEOPLE'S LIBERATION FRONT OF INDIA
+  years_rivalry: 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 575256}'
+communist_party_of_india-_marxist-leninist;janashakti:
+  rbl_aname: COMMUNIST PARTY OF INDIA- MARXIST-LENINIST
+  rbl_bname: JANASHAKTI
+  years_rivalry: 2003; 2004; 2005
+  coder: Zhejun
+  source: '{"MGAR Database": 579333}'
+communist_party_of_india-_marxist-leninist;mcc:
+  rbl_aname: COMMUNIST PARTY OF INDIA- MARXIST-LENINIST
+  rbl_bname: MAOIST COMMUNIST CENTER (MCC)
+  years_rivalry: 1994; 1995; 1996; 1997; 1998; 1999; 2000; 2001
+  coder: Zhejun
+  source: '{"MGAR Database": 579516}'
+communist_party_of_india-_marxist-leninist;ranbir_sena:
+  rbl_aname: COMMUNIST PARTY OF INDIA- MARXIST-LENINIST
+  rbl_bname: RANBIR SENA
+  years_rivalry: 1996; 1997; 1998; 1999; 2000; 2001; 2002; 2003; 2004
+  coder: Zhejun
+  source: '{"MGAR Database": 579848}'
+rcd;congolese_rally_for_democracy/liberation_movement:
+  rbl_aname: CONGOLESE RALLY FOR DEMOCRACY (RCD)
+  rbl_bname: CONGOLESE RALLY FOR DEMOCRACY/LIBERATION MOVEMENT
+  years_rivalry: 2000; 2001; 2002; 2003
+  coder: Zhejun
+  source: '{"MGAR Database": 596163}'
+rcd;masunzu_rebels:
+  rbl_aname: CONGOLESE RALLY FOR DEMOCRACY (RCD)
+  rbl_bname: MASUNZU REBELS
+  years_rivalry: 2002; 2003
+  coder: Zhejun
+  source: '{"MGAR Database": 596529}'
+congolese_rally_for_democracy/liberation_movement;mlc:
+  rbl_aname: CONGOLESE RALLY FOR DEMOCRACY/LIBERATION MOVEMENT
+  rbl_bname: MOVEMENT FOR THE LIBERATION OF CONGO (MLC)
+  years_rivalry: 2001; 2002; 2003
+  coder: Zhejun
+  source: '{"MGAR Database": 601399}'
+convention_of_patriots_for_justice_and_peace;union_of_democratic_forces:
+  rbl_aname: CONVENTION OF PATRIOTS FOR JUSTICE AND PEACE
+  rbl_bname: UNION OF DEMOCRATIC FORCES
+  years_rivalry: 2004; 2008; 2009; 2010; 2011
+  coder: Zhejun
+  source: '{"MGAR Database": 611046}'
+corsican_national_liberation_front-historical_channel;flnc_tw:
+  rbl_aname: CORSICAN NATIONAL LIBERATION FRONT - HISTORICAL CHANNEL
+  rbl_bname: FLNC TW
+  years_rivalry: 1988; 1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997
+  coder: Zhejun
+  source: '{"MGAR Database": 618018}'
+defense_forces_of_democracy;national_circle_of_patriots:
+  rbl_aname: DEFENSE FORCES OF DEMOCRACY
+  rbl_bname: NATIONAL CIRCLE OF PATRIOTS
+  years_rivalry: 2001; 2002
+  coder: Zhejun
+  source: '{"MGAR Database": 648452}'
+fdpc;seleka:
+  rbl_aname: DEMOCRATIC FRONT OF THE CENTRAL AFRICAN PEOPLE (FDPC)
+  rbl_bname: SELEKA
+  years_rivalry: 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 658868}'
+denge_kawa;pkk:
+  rbl_aname: DENGE KAWA
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: 1978; 1979; 1980
+  coder: Zhejun
+  source: '{"MGAR Database": 667964}'
+dev_genc;grey_wolves:
+  rbl_aname: DEV GENC
+  rbl_bname: GREY WOLVES
+  years_rivalry: 1969; 1970; 1971; 1972; 1973; 1974; 1975; 1976; 1977; 1978; 1979
+  coder: Zhejun
+  source: '{"MGAR Database": 669933}'
+dev_genc;pkk:
+  rbl_aname: DEV GENC
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: 1974; 1975; 1976; 1977
+  coder: Zhejun
+  source: '{"MGAR Database": 670091}'
+dev_sol;dev_yol:
+  rbl_aname: DEV SOL
+  rbl_bname: DEV YOL
+  years_rivalry: 1978; 1979; 1980
+  coder: Zhejun
+  source: '{"MGAR Database": 671180}'
+dev_sol;grey_wolves:
+  rbl_aname: DEV SOL
+  rbl_bname: GREY WOLVES
+  years_rivalry: 1978; 1979; 1980; 1981; 1982; 1983; 1984; 1985; 1986; 1987; 1988;
+    1989; 1990; 1991; 1992; 1993; 1994
+  coder: Zhejun
+  source: '{"MGAR Database": 671359}'
+dev_sol;tkp/ml-tikko:
+  rbl_aname: DEV SOL
+  rbl_bname: TKP/ML-TIKKO
+  years_rivalry: '1993'
+  coder: Zhejun
+  source: '{"MGAR Database": 672432}'
+dev_yol;grey_wolves:
+  rbl_aname: DEV YOL
+  rbl_bname: GREY WOLVES
+  years_rivalry: 1977; 1978; 1979; 1980
+  coder: Zhejun
+  source: '{"MGAR Database": 672807}'
+dev_yol;pkk:
+  rbl_aname: DEV YOL
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: 1983; 1984; 1985
+  coder: Zhejun
+  source: '{"MGAR Database": 672902}'
+dev_yol;thkp/c-ksd:
+  rbl_aname: DEV YOL
+  rbl_bname: THKP/C-KSD
+  years_rivalry: 1978; 1979
+  coder: Zhejun
+  source: '{"MGAR Database": 673172}'
+dhkp/c;grey_wolves:
+  rbl_aname: DEVRIMCI HALK KURTULUS CEPHESI (DHKP/C)
+  rbl_bname: GREY WOLVES
+  years_rivalry: '1995'
+  coder: Zhejun
+  source: '{"MGAR Database": 674103}'
+dhkp/c;pkk:
+  rbl_aname: DEVRIMCI HALK KURTULUS CEPHESI (DHKP/C)
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: 2009; 2010
+  coder: Zhejun
+  source: '{"MGAR Database": 674505}'
+dieme_group;front_nord:
+  rbl_aname: DIEME GROUP
+  rbl_bname: FRONT NORD
+  years_rivalry: 2003; 2004
+  coder: Zhejun
+  source: '{"MGAR Database": 677523}'
+dignity_for_colombia;eln:
+  rbl_aname: DIGNITY FOR COLOMBIA
+  rbl_bname: NATIONAL LIBERATION ARMY OF COLOMBIA (ELN)
+  years_rivalry: '1996'
+  coder: Zhejun
+  source: '{"MGAR Database": 681331}'
+dhd;hpc-d:
+  rbl_aname: DIMA HALAO DAOGA (DHD)
+  rbl_bname: HMAR PEOPLE'S CONVENTION-DEMOCRACY (HPC-D)
+  years_rivalry: 2003; 2004; 2005; 2006
+  coder: Zhejun
+  source: '{"MGAR Database": 683028}'
+eprlf;ltte:
+  rbl_aname: EELAM PEOPLE'S REVOLUTIONARY LIBERATION FRONT (EPRLF)
+  rbl_bname: LIBERATION TIGERS OF TAMIL EELAM (LTTE)
+  years_rivalry: 1986; 1987; 1988; 1989; 1990
+  coder: Zhejun
+  source: '{"MGAR Database": 726222}'
+ethiopian_people's_patriotic_front;onlf:
+  rbl_aname: ETHIOPIAN PEOPLE'S PATRIOTIC FRONT
+  rbl_bname: OGADEN NATIONAL LIBERATION FRONT (ONLF)
+  years_rivalry: '2008'
+  coder: Zhejun
+  source: '{"MGAR Database": 760513}'
+ethiopian_people's_revolutionary_party;meison:
+  rbl_aname: ETHIOPIAN PEOPLE'S REVOLUTIONARY PARTY
+  rbl_bname: MEISON
+  years_rivalry: 1972; 1973; 1974; 1975; 1976; 1977
+  coder: Zhejun
+  source: '{"MGAR Database": 764124}'
+ethiopian_people's_revolutionary_party;tplf:
+  rbl_aname: ETHIOPIAN PEOPLE'S REVOLUTIONARY PARTY
+  rbl_bname: TIGRAY PEOPLES LIBERATION FRONT (TPLF)
+  years_rivalry: 1975; 1976; 1977; 1978
+  coder: Zhejun
+  source: '{"MGAR Database": 764579}'
+finnish_militia;musa_sudi_yalahow_militia:
+  rbl_aname: FINNISH MILITIA
+  rbl_bname: MUSA SUDI YALAHOW MILITIA
+  years_rivalry: 2001; 2003
+  coder: Zhejun
+  source: '{"MGAR Database": 797091}'
+forces_nouvelles-ibrahim_coulibaly_faction;forces_nouvelles-soro_faction:
+  rbl_aname: FORCES NOUVELLES - IBRAHIM COULIBALY FACTION
+  rbl_bname: FORCES NOUVELLES - SORO FACTION
+  years_rivalry: '2004'
+  coder: Zhejun
+  source: '{"MGAR Database": 812932}'
+gsl;gspc:
+  rbl_aname: FREE SALAFI GROUP (GSL)
+  rbl_bname: SALAFIST GROUP FOR PREACHING AND COMBAT (GSPC)
+  years_rivalry: 2003; 2004; 2005; 2006
+  coder: Zhejun
+  source: '{"MGAR Database": 842733}'
+front_nord;front_sud:
+  rbl_aname: FRONT NORD
+  rbl_bname: FRONT SUD
+  years_rivalry: 1992; 1993; 1994; 1995; 1996
+  coder: Zhejun
+  source: '{"MGAR Database": 875070}'
+front_sud;sadio_group:
+  rbl_aname: FRONT SUD
+  rbl_bname: SADIO GROUP
+  years_rivalry: 1998; 1999; 2000; 2001; 2002; 2003; 2004
+  coder: Zhejun
+  source: '{"MGAR Database": 878854}'
+god's_army_of_the_holy_mountain;karen_national_union:
+  rbl_aname: GOD'S ARMY OF THE HOLY MOUNTAIN
+  rbl_bname: KAREN NATIONAL UNION
+  years_rivalry: '2001'
+  coder: Zhejun
+  source: '{"MGAR Database": 903313}'
+ibda-c;pkk:
+  rbl_aname: GREAT EASTERN ISLAMIC RAIDERS FRONT (IBDA-C)
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 910636}'
+grey_wolves;pkk:
+  rbl_aname: GREY WOLVES
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: 1978; 1979; 1980; 1981; 1982; 1983; 1984; 1985; 1986; 1987; 1988;
+    1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997; 1998; 1999; 2000; 2001;
+    2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014;
+    2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 917525}'
+islamic_resistance_movement;pij:
+  rbl_aname: HAMAS (ISLAMIC RESISTANCE MOVEMENT)
+  rbl_bname: PALESTINIAN ISLAMIC JIHAD (PIJ)
+  years_rivalry: 1980; 1981; 1982; 1983; 1984; 1985; 1986; 1987; 2013; 2014; 2015;
+    2016
+  coder: Zhejun
+  source: '{"MGAR Database": 949781}'
+islamic_resistance_movement;pflp:
+  rbl_aname: HAMAS (ISLAMIC RESISTANCE MOVEMENT)
+  rbl_bname: POPULAR FRONT FOR THE LIBERATION OF PALESTINE (PFLP)
+  years_rivalry: 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014
+  coder: Zhejun
+  source: '{"MGAR Database": 949871}'
+hum;harkatul_jihad-e-islami:
+  rbl_aname: HARAKAT UL-MUJAHIDIN (HUM)
+  rbl_bname: HARKATUL JIHAD-E-ISLAMI
+  years_rivalry: 1985; 1986; 1987; 1988; 1989; 1990; 1991; 1992
+  coder: Zhejun
+  source: '{"MGAR Database": 962377}'
+hizballah;jund_al-sham:
+  rbl_aname: HIZBALLAH
+  rbl_bname: JUND AL-SHAM
+  years_rivalry: 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014;
+    2015
+  coder: Zhejun
+  source: '{"MGAR Database": 989000}'
+hm;ikhwan_jammu_and_kashmir:
+  rbl_aname: HIZBUL MUJAHIDEEN (HM)
+  rbl_bname: IKHWAN JAMMU AND KASHMIR
+  years_rivalry: 1995; 1996
+  coder: Zhejun
+  source: '{"MGAR Database": 992919}'
+hm;ikhwan-ul-muslimeen:
+  rbl_aname: HIZBUL MUJAHIDEEN (HM)
+  rbl_bname: IKHWAN-UL-MUSLIMEEN
+  years_rivalry: 1992; 1994; 1995; 1996
+  coder: Zhejun
+  source: '{"MGAR Database": 992920}'
+hmar_national_army;hpc-d:
+  rbl_aname: HMAR NATIONAL ARMY
+  rbl_bname: HMAR PEOPLE'S CONVENTION-DEMOCRACY (HPC-D)
+  years_rivalry: 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 997137}'
+hpc-d;kcp:
+  rbl_aname: HMAR PEOPLE'S CONVENTION-DEMOCRACY (HPC-D)
+  rbl_bname: KANGLEIPAK COMMUNIST PARTY (KCP)
+  years_rivalry: 2006; 2007; 2008
+  coder: Zhejun
+  source: '{"MGAR Database": 998902}'
+hpc-d;unlf:
+  rbl_aname: HMAR PEOPLE'S CONVENTION-DEMOCRACY (HPC-D)
+  rbl_bname: UNITED NATIONAL LIBERATION FRONT (UNLF)
+  years_rivalry: 2006; 2007; 2008; 2009; 2010
+  coder: Zhejun
+  source: '{"MGAR Database": 999911}'
+hpc-d;zra:
+  rbl_aname: HMAR PEOPLE'S CONVENTION-DEMOCRACY (HPC-D)
+  rbl_bname: ZOMI REVOLUTIONARY ARMY (ZRA)
+  years_rivalry: '2004'
+  coder: Zhejun
+  source: '{"MGAR Database": 999992}'
+huthis;islamic_state_in_yemen:
+  rbl_aname: HUTHIS
+  rbl_bname: ISLAMIC STATE IN YEMEN
+  years_rivalry: 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1012966}'
+ikhwan-ul-muslimeen;jklf:
+  rbl_aname: IKHWAN-UL-MUSLIMEEN
+  rbl_bname: JAMMU AND KASHMIR LIBERATION FRONT (JKLF)
+  years_rivalry: '1991'
+  coder: Zhejun
+  source: '{"MGAR Database": 1023130}'
+inla;ira:
+  rbl_aname: IRISH NATIONAL LIBERATION ARMY (INLA)
+  rbl_bname: IRISH REPUBLICAN ARMY (IRA)
+  years_rivalry: 1974; 1975; 1976; 1977; 1978; 1979; 1980; 1982; 1983; 1984; 1985;
+    1986; 1987; 1988; 1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997
+  coder: Zhejun
+  source: '{"MGAR Database": 1071541}'
+isis;jabhat_al-nusra:
+  rbl_aname: ISIS
+  rbl_bname: JABHAT AL-NUSRA
+  years_rivalry: 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1078010}'
+al-jaish_al-islami_fi_al-iraq;isi:
+  rbl_aname: ISLAMIC ARMY IN IRAQ (AL-JAISH AL-ISLAMI FI AL-IRAQ)
+  rbl_bname: ISLAMIC STATE OF IRAQ (ISI)
+  years_rivalry: 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 1085373}'
+islamic_movement_of_kurdistan;kdp:
+  rbl_aname: ISLAMIC MOVEMENT OF KURDISTAN
+  rbl_bname: KURDISH DEMOCRATIC PARTY-IRAQ (KDP)
+  years_rivalry: 1994; 1995; 1996; 1997; 1998; 1999; 2000; 2001; 2002; 2003; 2004;
+    2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1127010}'
+islamic_movement_of_kurdistan;kurdish_hamas:
+  rbl_aname: ISLAMIC MOVEMENT OF KURDISTAN
+  rbl_bname: KURDISH HAMAS
+  years_rivalry: 1997; 1998; 1999; 2000; 2001
+  coder: Zhejun
+  source: '{"MGAR Database": 1127011}'
+islamic_movement_of_kurdistan;puk:
+  rbl_aname: ISLAMIC MOVEMENT OF KURDISTAN
+  rbl_bname: PATRIOTIC UNION OF KURDISTAN (PUK)
+  years_rivalry: 1994; 1995; 1996; 1997; 1998; 1999; 2000; 2001; 2002; 2003; 2004;
+    2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1127423}'
+islamic_movement_of_kurdistan;second_soran_unit:
+  rbl_aname: ISLAMIC MOVEMENT OF KURDISTAN
+  rbl_bname: SECOND SORAN UNIT
+  years_rivalry: 1998; 1999; 2000; 2001
+  coder: Zhejun
+  source: '{"MGAR Database": 1127675}'
+islamic_movement_organization;pkk:
+  rbl_aname: ISLAMIC MOVEMENT ORGANIZATION
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: 1987; 1988; 1989; 1990; 1991; 1992
+  coder: Zhejun
+  source: '{"MGAR Database": 1130491}'
+islamic_state_in_yemen;yemen:
+  rbl_aname: ISLAMIC STATE IN YEMEN
+  rbl_bname: SOUTHERN MOBILITY MOVEMENT (YEMEN)
+  years_rivalry: 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 2295829}'
+isi;kh:
+  rbl_aname: ISLAMIC STATE OF IRAQ (ISI)
+  rbl_bname: KATA'IB HEZBOLLAH (KH)
+  years_rivalry: 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 1139683}'
+isi;mujahedeen_army:
+  rbl_aname: ISLAMIC STATE OF IRAQ (ISI)
+  rbl_bname: MUJAHEDEEN ARMY
+  years_rivalry: 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 1139822}'
+isi;puk:
+  rbl_aname: ISLAMIC STATE OF IRAQ (ISI)
+  rbl_bname: PATRIOTIC UNION OF KURDISTAN (PUK)
+  years_rivalry: 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 1139963}'
+jbc;auc:
+  rbl_aname: JAIME BATEMAN CAYON GROUP (JBC)
+  rbl_bname: UNITED SELF DEFENSE UNITS OF COLOMBIA (AUC)
+  years_rivalry: 1997; 1998; 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006
+  coder: Zhejun
+  source: '{"MGAR Database": 1168206}'
+jtmm-j;u-jtmm:
+  rbl_aname: JANATANTRIK TERAI MUKTI MORCHA- JWALA SINGH (JTMM-J)
+  rbl_bname: UNITED JANATANTRIK TERAI MUKTI MORCHA (U-JTMM)
+  years_rivalry: 2006; 2007; 2008
+  coder: Zhejun
+  source: '{"MGAR Database": 1208519}'
+ji;komite_aksi_penanggulangan_akibat_krisis:
+  rbl_aname: JEMAAH ISLAMIYA (JI)
+  rbl_bname: KOMITE AKSI PENANGGULANGAN AKIBAT KRISIS
+  years_rivalry: '2000'
+  coder: Zhejun
+  source: '{"MGAR Database": 1226337}'
+jlt;india:
+  rbl_aname: JHARKHAND LIBERATION TIGERS (JLT)
+  rbl_bname: TRITIYA PRASTUTI COMMITTEE (INDIA)
+  years_rivalry: 2004; 2005; 2006; 2007; 2008
+  coder: Zhejun
+  source: '{"MGAR Database": 1239021}'
+kcp;unlf:
+  rbl_aname: KANGLEIPAK COMMUNIST PARTY (KCP)
+  rbl_bname: UNITED NATIONAL LIBERATION FRONT (UNLF)
+  years_rivalry: 2005; 2006
+  coder: Zhejun
+  source: '{"MGAR Database": 1291339}'
+khalistan_commando_force;khalistan_liberation_force:
+  rbl_aname: KHALISTAN COMMANDO FORCE
+  rbl_bname: KHALISTAN LIBERATION FORCE
+  years_rivalry: 1987; 1988; 1989
+  coder: Zhejun
+  source: '{"MGAR Database": 1326425}'
+khmer_rouge;salvation_front:
+  rbl_aname: KHMER ROUGE
+  rbl_bname: SALVATION FRONT
+  years_rivalry: 1978; 1979
+  coder: Zhejun
+  source: '{"MGAR Database": 1336187}'
+khorasan_chapter_of_the_islamic_state;taliban:
+  rbl_aname: KHORASAN CHAPTER OF THE ISLAMIC STATE
+  rbl_bname: TALIBAN
+  years_rivalry: 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 2359544}'
+kuk;pkk:
+  rbl_aname: KUK
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: '1987'
+  coder: Zhejun
+  source: '{"MGAR Database": 1352830}'
+kdp;puk:
+  rbl_aname: KURDISH DEMOCRATIC PARTY-IRAQ (KDP)
+  rbl_bname: PATRIOTIC UNION OF KURDISTAN (PUK)
+  years_rivalry: 1994; 1995; 1996; 1997; 1998
+  coder: Zhejun
+  source: '{"MGAR Database": 1368424}'
+tak;pkk:
+  rbl_aname: KURDISTAN FREEDOM HAWKS (TAK)
+  rbl_bname: KURDISTAN WORKERS' PARTY (PKK)
+  years_rivalry: '2006'
+  coder: Zhejun
+  source: '{"MGAR Database": 1374228}'
+pkk;people's_liberation_army:
+  rbl_aname: KURDISTAN WORKERS' PARTY (PKK)
+  rbl_bname: PEOPLE'S LIBERATION ARMY
+  years_rivalry: 1991; 1992; 1993; 1994; 1995; 1996
+  coder: Zhejun
+  source: '{"MGAR Database": 1381439}'
+pkk;people's_liberation_army_of_kurdistan:
+  rbl_aname: KURDISTAN WORKERS' PARTY (PKK)
+  rbl_bname: PEOPLE'S LIBERATION ARMY OF KURDISTAN
+  years_rivalry: 1977; 1978; 1979; 1980; 1981; 1982; 1983; 1984; 1985; 1986; 1987;
+    1988; 1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997; 1998; 1999; 2000;
+    2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013;
+    2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1381443}'
+pkk;revolutionary_democratic_cultural_associations:
+  rbl_aname: KURDISTAN WORKERS' PARTY (PKK)
+  rbl_bname: REVOLUTIONARY DEMOCRATIC CULTURAL ASSOCIATIONS
+  years_rivalry: 1978; 1979; 1980
+  coder: Zhejun
+  source: '{"MGAR Database": 1381632}'
+pkk;sterka_sor:
+  rbl_aname: KURDISTAN WORKERS' PARTY (PKK)
+  rbl_bname: STERKA SOR
+  years_rivalry: '1978'
+  coder: Zhejun
+  source: '{"MGAR Database": 1381837}'
+pkk;turkish_hizballah:
+  rbl_aname: KURDISTAN WORKERS' PARTY (PKK)
+  rbl_bname: TURKISH HIZBALLAH
+  years_rivalry: 1984; 1985; 1986; 1987; 1988; 1989; 1990; 1991; 1992; 1993; 1994;
+    1995; 1996; 1997; 1998; 1999; 2000; 2001; 2002; 2003; 2012; 2013; 2014; 2015;
+    2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1381976}'
+pkk;tplf:
+  rbl_aname: KURDISTAN WORKERS' PARTY (PKK)
+  rbl_bname: TURKISH PEOPLE'S LIBERATION FRONT (TPLF) (THKP-C)
+  years_rivalry: '1998'
+  coder: Zhejun
+  source: '{"MGAR Database": 1381981}'
+pakistan;ttp:
+  rbl_aname: LASHKAR-E-ISLAM (PAKISTAN)
+  rbl_bname: TEHRIK-I-TALIBAN PAKISTAN (TTP)
+  years_rivalry: 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 1387908}'
+lej;let:
+  rbl_aname: LASHKAR-E-JABBAR (LEJ)
+  rbl_bname: LASHKAR-E-TAIBA (LET)
+  years_rivalry: '2001'
+  coder: Zhejun
+  source: '{"MGAR Database": 1388431}'
+laskar_jihad;rms:
+  rbl_aname: LASKAR JIHAD
+  rbl_bname: SOUTH MALUKU REPUBLIC (RMS)
+  years_rivalry: 1999; 2000; 2001; 2002
+  coder: Zhejun
+  source: '{"MGAR Database": 1394970}'
+libardo_moratoro_front;farc:
+  rbl_aname: LIBARDO MORATORO FRONT
+  rbl_bname: REVOLUTIONARY ARMED FORCES OF COLOMBIA (FARC)
+  years_rivalry: 2000; 2001
+  coder: Zhejun
+  source: '{"MGAR Database": 1413281}'
+liberation_army_of_bhutan;the_united_revolutionary_front_of_bhutan:
+  rbl_aname: LIBERATION ARMY OF BHUTAN
+  rbl_bname: THE UNITED REVOLUTIONARY FRONT OF BHUTAN
+  years_rivalry: 2009; 2010
+  coder: Zhejun
+  source: '{"MGAR Database": 1417969}'
+ltte;telo:
+  rbl_aname: LIBERATION TIGERS OF TAMIL EELAM (LTTE)
+  rbl_bname: TAMIL EELAM LIBERATION ORGANIZATION (TELO)
+  years_rivalry: 1986; 1987
+  coder: Zhejun
+  source: '{"MGAR Database": 1422726}'
+ltte;tmvp:
+  rbl_aname: LIBERATION TIGERS OF TAMIL EELAM (LTTE)
+  rbl_bname: TAMIL MAKKAL VIDUTHALAI PULIKAL (TMVP)
+  years_rivalry: 2004; 2005; 2006; 2007; 2008; 2009
+  coder: Zhejun
+  source: '{"MGAR Database": 1422727}'
+libya_revolutionaries_operations_room;zintani_militia:
+  rbl_aname: LIBYA REVOLUTIONARIES OPERATIONS ROOM
+  rbl_bname: ZINTANI MILITIA
+  years_rivalry: 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 1427086}'
+libyan_national_army;libyan_shield_force:
+  rbl_aname: LIBYAN NATIONAL ARMY
+  rbl_bname: LIBYAN SHIELD FORCE
+  years_rivalry: 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 1429782}'
+maute_group;milf:
+  rbl_aname: MAUTE GROUP
+  rbl_bname: MORO ISLAMIC LIBERATION FRONT (MILF)
+  years_rivalry: 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1563379}'
+maute_group;mnlf:
+  rbl_aname: MAUTE GROUP
+  rbl_bname: MORO NATIONAL LIBERATION FRONT (MNLF)
+  years_rivalry: 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1565939}'
+merab_kostava_society;south_ossetian_separatists:
+  rbl_aname: MERAB KOSTAVA SOCIETY
+  rbl_bname: SOUTH OSSETIAN SEPARATISTS
+  years_rivalry: 1990; 1991
+  coder: Zhejun
+  source: '{"MGAR Database": 1523106}'
+mkhedrioni;zviadists:
+  rbl_aname: MKHEDRIONI
+  rbl_bname: ZVIADISTS
+  years_rivalry: 1990; 1991
+  coder: Zhejun
+  source: '{"MGAR Database": 1546248}'
+mdf;sldf:
+  rbl_aname: MOORLAND DEFENCE FORCES (MDF)
+  rbl_bname: SABAOT LAND DEFENSE FORCE (SLDF)
+  years_rivalry: 2007; 2008
+  coder: Zhejun
+  source: '{"MGAR Database": 1558912}'
+milf;mnlf:
+  rbl_aname: MORO ISLAMIC LIBERATION FRONT (MILF)
+  rbl_bname: MORO NATIONAL LIBERATION FRONT (MNLF)
+  years_rivalry: 1978; 1979; 1980; 1981; 1982; 1983; 1984; 1985; 1986; 1987; 1988;
+    1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996
+  coder: Zhejun
+  source: '{"MGAR Database": 1562402}'
+milf;npa:
+  rbl_aname: MORO ISLAMIC LIBERATION FRONT (MILF)
+  rbl_bname: NEW PEOPLE'S ARMY (NPA)
+  years_rivalry: '2009'
+  coder: Zhejun
+  source: '{"MGAR Database": 1562560}'
+milf;pentagon_kidnap_group:
+  rbl_aname: MORO ISLAMIC LIBERATION FRONT (MILF)
+  rbl_bname: PENTAGON KIDNAP GROUP
+  years_rivalry: '2003'
+  coder: Zhejun
+  source: '{"MGAR Database": 1562684}'
+movement_of_democratic_forces_of_casamance;sadio_group:
+  rbl_aname: MOVEMENT OF DEMOCRATIC FORCES OF CASAMANCE
+  rbl_bname: SADIO GROUP
+  years_rivalry: 1998; 2000; 2001; 2002
+  coder: Zhejun
+  source: '{"MGAR Database": 1588949}'
+musa_sudi_yalahow_militia;usc/ssa-omar_mohamed_mohamud_finish:
+  rbl_aname: MUSA SUDI YALAHOW MILITIA
+  rbl_bname: USC/SSA - OMAR MOHAMED MOHAMUD FINISH
+  years_rivalry: '1998'
+  coder: Zhejun
+  source: '{"MGAR Database": 1630336}'
+national_circle_of_patriots;ncdd:
+  rbl_aname: NATIONAL CIRCLE OF PATRIOTS
+  rbl_bname: NATIONAL COUNCIL FOR DEFENSE OF DEMOCRACY (NCDD)
+  years_rivalry: 2001; 2002
+  coder: Zhejun
+  source: '{"MGAR Database": 1658149}'
+national_democratic_front_for_bodoland-ranjan_daimary;ndfb-iks:
+  rbl_aname: NATIONAL DEMOCRATIC FRONT FOR BODOLAND - RANJAN DAIMARY
+  rbl_bname: NATIONAL DEMOCRATIC FRONT OF BODOLAND - I.K. SONGBIJIT FACTION (NDFB
+    - IKS)
+  years_rivalry: 2012; 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1665819}'
+ndfb;upds:
+  rbl_aname: NATIONAL DEMOCRATIC FRONT OF BODOLAND (NDFB)
+  rbl_bname: UNITED PEOPLE'S DEMOCRATIC SOLIDARITY (UPDS)
+  years_rivalry: '2005'
+  coder: Zhejun
+  source: '{"MGAR Database": 1668187}'
+fni;fapc:
+  rbl_aname: NATIONAL INTEGRATIONIST FRONT (FNI)
+  rbl_bname: POPULAR ARMED FORCES OF CONGO (FAPC)
+  years_rivalry: '2004'
+  coder: Zhejun
+  source: '{"MGAR Database": 1680042}'
+npa;rhb:
+  rbl_aname: NEW PEOPLE'S ARMY (NPA)
+  rbl_bname: REBOLUSYONARYONG HUKBONG BAYAN (RHB)
+  years_rivalry: 1997; 1998; 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006
+  coder: Zhejun
+  source: '{"MGAR Database": 1757726}'
+nicaraguan_revolutionary_armed_forces;fsln:
+  rbl_aname: NICARAGUAN REVOLUTIONARY ARMED FORCES
+  rbl_bname: SANDINISTA NATIONAL LIBERATION FRONT (FSLN)
+  years_rivalry: 1975; 1976; 1977; 1978; 1979
+  coder: Zhejun
+  source: '{"MGAR Database": 1764169}'
+onlf;sidama_liberation_movement:
+  rbl_aname: OGADEN NATIONAL LIBERATION FRONT (ONLF)
+  rbl_bname: SIDAMA LIBERATION MOVEMENT
+  years_rivalry: 1980; 1981; 1982
+  coder: Zhejun
+  source: '{"MGAR Database": 1799777}'
+opr-33;uruguay:
+  rbl_aname: OPR-33
+  rbl_bname: TUPAMAROS (URUGUAY)
+  years_rivalry: 1971; 1972
+  coder: Zhejun
+  source: '{"MGAR Database": 1805360}'
+kenya;kenya:
+  rbl_aname: ORMA (KENYA)
+  rbl_bname: POKOMO (KENYA)
+  years_rivalry: 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1822975}'
+kenya;kenya:
+  rbl_aname: ORMA (KENYA)
+  rbl_bname: WARDEI (KENYA)
+  years_rivalry: 2011; 2012; 2013; 2014; 2015; 2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1823327}'
+oromo_liberation_front;sidama_liberation_movement:
+  rbl_aname: OROMO LIBERATION FRONT
+  rbl_bname: SIDAMA LIBERATION MOVEMENT
+  years_rivalry: 1980; 1981; 1982
+  coder: Zhejun
+  source: '{"MGAR Database": 1825437}'
+pcjss;updf:
+  rbl_aname: PARBATYA CHATTAGRAM JANA SANGHATI SAMITY (PCJSS) - BANGLADESH
+  rbl_bname: UNITED PEOPLE'S DEMOCRATIC FRONT (UPDF) - BANGLADESH
+  years_rivalry: 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009;
+    2010; 2011; 2012; 2013; 2014; 2015
+  coder: Zhejun
+  source: '{"MGAR Database": 1856128}'
+scud;fuc:
+  rbl_aname: PLATFORM FOR CHANGE, UNITY AND DEMOCRACY (SCUD)
+  rbl_bname: UNITED FRONT FOR DEMOCRATIC CHANGE (FUC)
+  years_rivalry: '2006'
+  coder: Zhejun
+  source: '{"MGAR Database": 1936123}'
+kenya;kenya:
+  rbl_aname: POKOT (KENYA)
+  rbl_bname: SAMBURU (KENYA)
+  years_rivalry: 2005; 2006; 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015;
+    2016
+  coder: Zhejun
+  source: '{"MGAR Database": 1938417}'
+prima_linea;red_brigades:
+  rbl_aname: PRIMA LINEA
+  rbl_bname: RED BRIGADES
+  years_rivalry: 1976; 1977; 1978; 1979; 1980; 1982; 1983
+  coder: Zhejun
+  source: '{"MGAR Database": 1977203}'
+rra;united_somali_congress/somali_national_alliance:
+  rbl_aname: RAHANWEIN RESISTANCE ARMY (RRA)
+  rbl_bname: UNITED SOMALI CONGRESS/SOMALI NATIONAL ALLIANCE
+  years_rivalry: 1996; 1997; 1998; 1999; 2000
+  coder: Zhejun
+  source: '{"MGAR Database": 2008061}'
+rafd;fuc:
+  rbl_aname: RALLY OF DEMOCRATIC FORCES (RAFD)
+  rbl_bname: UNITED FRONT FOR DEMOCRATIC CHANGE (FUC)
+  years_rivalry: 2006; 2007
+  coder: Zhejun
+  source: '{"MGAR Database": 2016601}'
+sl;mrta:
+  rbl_aname: SHINING PATH (SL)
+  rbl_bname: TUPAC AMARU REVOLUTIONARY MOVEMENT (MRTA)
+  years_rivalry: 1987; 1988; 1989; 1990; 1991; 1992; 1993; 1994; 1995; 1996; 1997
+  coder: Zhejun
+  source: '{"MGAR Database": 2236246}'
+snf;united_somali_congress/somali_national_alliance:
+  rbl_aname: SOMALI NATIONAL FRONT (SNF)
+  rbl_bname: UNITED SOMALI CONGRESS/SOMALI NATIONAL ALLIANCE
+  years_rivalry: '1992'
+  coder: Zhejun
+  source: '{"MGAR Database": 2266736}'
+somali_national_movement;united_somali_congress:
+  rbl_aname: SOMALI NATIONAL MOVEMENT
+  rbl_bname: UNITED SOMALI CONGRESS
+  years_rivalry: '1991'
+  coder: Zhejun
+  source: '{"MGAR Database": 2268447}'
+somali_patriotic_movement;somali_patriotic_movement-jess'_militia:
+  rbl_aname: SOMALI PATRIOTIC MOVEMENT
+  rbl_bname: SOMALI PATRIOTIC MOVEMENT-JESS' MILITIA
+  years_rivalry: 1992; 1993; 1994; 1995
+  coder: Zhejun
+  source: '{"MGAR Database": 2269566}'
+somali_patriotic_movement;united_somali_congress:
+  rbl_aname: SOMALI PATRIOTIC MOVEMENT
+  rbl_bname: UNITED SOMALI CONGRESS
+  years_rivalry: '1991'
+  coder: Zhejun
+  source: '{"MGAR Database": 2269685}'
+thkp/c-devrim_savascilari;thkp/c-cy:
+  rbl_aname: THKP/C - DEVRIM SAVASCILARI
+  rbl_bname: THKP/C-CY
+  years_rivalry: 1979; 1980
+  coder: Zhejun
+  source: '{"MGAR Database": 2410022}'
+tkep;tkep/l:
+  rbl_aname: TKEP
+  rbl_bname: TKEP/L
+  years_rivalry: '1990'
+  coder: Zhejun
+  source: '{"MGAR Database": 2429597}'
+tpla;tplf:
+  rbl_aname: TURKISH PEOPLE'S LIBERATION ARMY (TPLA)
+  rbl_bname: TURKISH PEOPLE'S LIBERATION FRONT (TPLF) (THKP-C)
+  years_rivalry: '1971'
+  coder: Zhejun
+  source: '{"MGAR Database": 2459809}'
+united_somali_congress/somali_national_alliance;usc/ssa-omar_mohamed_mohamud_finish:
+  rbl_aname: UNITED SOMALI CONGRESS/SOMALI NATIONAL ALLIANCE
+  rbl_bname: USC/SSA - OMAR MOHAMED MOHAMUD FINISH
+  years_rivalry: 1992; 1993; 1994; 1995; 1996; 1997
+  coder: Zhejun
+  source: '{"MGAR Database": 2543487}'
+zanu;zapu:
+  rbl_aname: ZIMBABWE AFRICAN NATIONALIST UNION (ZANU)
+  rbl_bname: ZIMBABWE AFRICAN PEOPLE'S UNION (ZAPU)
+  years_rivalry: 1963; 1964; 1965; 1966; 1967; 1968; 1969; 1970; 1971; 1972; 1973;
+    1974; 1975; 1976; 1977; 1978; 1979; 1980; 1981; 1982; 1983; 1984; 1985; 1986;
+    1987
+  coder: Zhejun
+  source: '{"MGAR Database": 2616839}'
+
