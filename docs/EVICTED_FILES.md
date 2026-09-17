@@ -65,4 +65,35 @@ from an untrusted copy.
 
 ---
 
-<!-- Task 5 evictions are appended below. -->
+## Task 5 — people-kg/localagreement (2026-09-17)
+
+Removed in commit `chore: evict rendered figures from the localagreement layer`.
+**7 files, 12.9 MB.** The layer goes 29 -> 22 tracked files.
+
+These are rendered output, not data. Each was traced back to the code that draws
+it; **two could not be traced**, so "regenerable" is not claimed uniformly.
+
+| File | Size | Regenerable from |
+|---|---:|---|
+| `network_territorial_competition.png` | 3.4 MB | `ucdp_based_network_visuals.py` |
+| `network_spatial_cooccurrence.png` | 2.7 MB | `ucdp_based_network_visuals.py` |
+| `network_temporal_control.png` | 2.7 MB | `ucdp_based_network_visuals.py` |
+| `splits_car_1314.png` | 2.3 MB | `Mergers_Splits_Snapshots.ipynb`, `multi-layer-split.ipynb` |
+| `splits_mergers_car.png` | 0.8 MB | `directed_network_pc.ipynb` |
+| `splits_mergers_car_final.png` | 0.8 MB | **not referenced by any script or notebook** |
+| `plot_with_edges.png` | 0.1 MB | **not referenced by any script or notebook** |
+
+The last two are the reason the Dropbox copy matters: nothing in this repository
+is known to reproduce them. The filename `splits_mergers_car_final.png` suggests a
+hand-edited or manually re-run variant of `splits_mergers_car.png`.
+
+### Deliberately kept in git
+
+| Path | Size | Why |
+|---|---:|---|
+| `priogrid_polygons_0.5deg_agreement.geojson` | 12.8 MB | A processed **input** to the analysis, not rendered output. Under D2 processed data stays in git. |
+| `Malispells.yml`, `Carspells.yml` | 1.8 MB | The actor-place-time edges — 1,976 Mali and 1,782 CAR spells. The point of the whole repository. |
+| `car_alliance_all.xlsx`, `final_merged_data.csv` | 0.1 MB | Source data for the notebooks. |
+
+---
+
