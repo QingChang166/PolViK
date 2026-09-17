@@ -1,0 +1,451 @@
+concepts:
+  SYR.0_Adm0:
+    GID: SYR
+    admin_name: Syria
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm0
+  SYR.1_1_Adm1:
+    GID: SYR.1_1
+    admin_name: Al Ḥasakah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.1.1_1_Adm2:
+    GID: SYR.1.1_1
+    admin_name: Al-Hasakah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.1.2_1_Adm2:
+    GID: SYR.1.2_1
+    admin_name: Al-Malikiyah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.1.3_1_Adm2:
+    GID: SYR.1.3_1
+    admin_name: Al Qamishli
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.1.4_1_Adm2:
+    GID: SYR.1.4_1
+    admin_name: Ra's al-'Ayn
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.10_1_Adm1:
+    GID: SYR.10_1
+    admin_name: Idlib
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.10.1_1_Adm2:
+    GID: SYR.10.1_1
+    admin_name: Arihah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.10.2_1_Adm2:
+    GID: SYR.10.2_1
+    admin_name: Harem
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.10.3_1_Adm2:
+    GID: SYR.10.3_1
+    admin_name: Idlib
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.10.4_1_Adm2:
+    GID: SYR.10.4_1
+    admin_name: Jisr ash-Shugur
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.10.5_1_Adm2:
+    GID: SYR.10.5_1
+    admin_name: Ma'arrat al-Numan
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.11_1_Adm1:
+    GID: SYR.11_1
+    admin_name: Lattakia
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.11.1_1_Adm2:
+    GID: SYR.11.1_1
+    admin_name: Al-Haffah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.11.2_1_Adm2:
+    GID: SYR.11.2_1
+    admin_name: Jableh
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.11.3_1_Adm2:
+    GID: SYR.11.3_1
+    admin_name: Latakia
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.11.4_1_Adm2:
+    GID: SYR.11.4_1
+    admin_name: Qardaha
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.12_1_Adm1:
+    GID: SYR.12_1
+    admin_name: Quneitra
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.12.1_1_Adm2:
+    GID: SYR.12.1_1
+    admin_name: Quneitra
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13_1_Adm1:
+    GID: SYR.13_1
+    admin_name: Rif Dimashq
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.13.1_1_Adm2:
+    GID: SYR.13.1_1
+    admin_name: Al-Qutayfah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13.2_1_Adm2:
+    GID: SYR.13.2_1
+    admin_name: An-Nabk
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13.3_1_Adm2:
+    GID: SYR.13.3_1
+    admin_name: At-Tall
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13.4_1_Adm2:
+    GID: SYR.13.4_1
+    admin_name: Darayya
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13.5_1_Adm2:
+    GID: SYR.13.5_1
+    admin_name: Duma
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13.6_1_Adm2:
+    GID: SYR.13.6_1
+    admin_name: Markaz Rif Dimashq
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13.7_1_Adm2:
+    GID: SYR.13.7_1
+    admin_name: Qatana
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13.8_1_Adm2:
+    GID: SYR.13.8_1
+    admin_name: Yabrud
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.13.9_1_Adm2:
+    GID: SYR.13.9_1
+    admin_name: Zabadani
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.14_1_Adm1:
+    GID: SYR.14_1
+    admin_name: Tartus
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.14.1_1_Adm2:
+    GID: SYR.14.1_1
+    admin_name: Ash-Shaykh Badr
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.14.2_1_Adm2:
+    GID: SYR.14.2_1
+    admin_name: Baniyas
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.14.3_1_Adm2:
+    GID: SYR.14.3_1
+    admin_name: Duraykish
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.14.4_1_Adm2:
+    GID: SYR.14.4_1
+    admin_name: Safita
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.14.5_1_Adm2:
+    GID: SYR.14.5_1
+    admin_name: Tartus
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2_1_Adm1:
+    GID: SYR.2_1
+    admin_name: Aleppo
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.2.1_1_Adm2:
+    GID: SYR.2.1_1
+    admin_name: '''Ayn al-''Arab'
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.2_1_Adm2:
+    GID: SYR.2.2_1
+    admin_name: A'zaz
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.3_1_Adm2:
+    GID: SYR.2.3_1
+    admin_name: Afrin
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.4_1_Adm2:
+    GID: SYR.2.4_1
+    admin_name: Al Bab
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.5_1_Adm2:
+    GID: SYR.2.5_1
+    admin_name: As-Safirah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.6_1_Adm2:
+    GID: SYR.2.6_1
+    admin_name: Jabal Sam'an
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.7_1_Adm2:
+    GID: SYR.2.7_1
+    admin_name: Jarabulus
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.2.8_1_Adm2:
+    GID: SYR.2.8_1
+    admin_name: Manbij
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.3_1_Adm1:
+    GID: SYR.3_1
+    admin_name: Ar Raqqah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.3.1_1_Adm2:
+    GID: SYR.3.1_1
+    admin_name: Ar-Raqqah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.3.2_1_Adm2:
+    GID: SYR.3.2_1
+    admin_name: Ath-Thawrah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.3.3_1_Adm2:
+    GID: SYR.3.3_1
+    admin_name: Tal Abyad
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.4_1_Adm1:
+    GID: SYR.4_1
+    admin_name: As Suwayda'
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.4.1_1_Adm2:
+    GID: SYR.4.1_1
+    admin_name: As-Suwayda
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.4.2_1_Adm2:
+    GID: SYR.4.2_1
+    admin_name: Salkhad
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.4.3_1_Adm2:
+    GID: SYR.4.3_1
+    admin_name: Shahba
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.5_1_Adm1:
+    GID: SYR.5_1
+    admin_name: Damascus
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.5.1_1_Adm2:
+    GID: SYR.5.1_1
+    admin_name: Damascus
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.6_1_Adm1:
+    GID: SYR.6_1
+    admin_name: Dar`a
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.6.1_1_Adm2:
+    GID: SYR.6.1_1
+    admin_name: As-Sanamayn
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.6.2_1_Adm2:
+    GID: SYR.6.2_1
+    admin_name: Daraa
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.6.3_1_Adm2:
+    GID: SYR.6.3_1
+    admin_name: Izra'
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.7_1_Adm1:
+    GID: SYR.7_1
+    admin_name: Dayr Az Zawr
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.7.1_1_Adm2:
+    GID: SYR.7.1_1
+    admin_name: Abu Kamal
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.7.2_1_Adm2:
+    GID: SYR.7.2_1
+    admin_name: Deir ez-Zor
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.7.3_1_Adm2:
+    GID: SYR.7.3_1
+    admin_name: Mayadin
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8_1_Adm1:
+    GID: SYR.8_1
+    admin_name: Hamah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.8.1_1_Adm2:
+    GID: SYR.8.1_1
+    admin_name: As-Suqaylabiyah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8.2_1_Adm2:
+    GID: SYR.8.2_1
+    admin_name: Hama
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8.3_1_Adm2:
+    GID: SYR.8.3_1
+    admin_name: Masyaf
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8.4_1_Adm2:
+    GID: SYR.8.4_1
+    admin_name: Muhardeh
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.8.5_1_Adm2:
+    GID: SYR.8.5_1
+    admin_name: Salamiyah
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9_1_Adm1:
+    GID: SYR.9_1
+    admin_name: Hims
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm1
+  SYR.9.1_1_Adm2:
+    GID: SYR.9.1_1
+    admin_name: Al-Mukharram
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.2_1_Adm2:
+    GID: SYR.9.2_1
+    admin_name: Al-Qusayr
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.3_1_Adm2:
+    GID: SYR.9.3_1
+    admin_name: Ar-Rastan
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.4_1_Adm2:
+    GID: SYR.9.4_1
+    admin_name: Hims
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.5_1_Adm2:
+    GID: SYR.9.5_1
+    admin_name: Palmyra
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2
+  SYR.9.6_1_Adm2:
+    GID: SYR.9.6_1
+    admin_name: Talkalakh
+    iso3c: SYR
+    country_name: Syria
+    admin_level: Adm2

@@ -1,0 +1,733 @@
+concepts:
+  BOL.0_Adm0:
+    GID: BOL
+    admin_name: Bolivia
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm0
+  BOL.1_1_Adm1:
+    GID: BOL.1_1
+    admin_name: Chuquisaca
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.1.1_2_Adm2:
+    GID: BOL.1.1_2
+    admin_name: Azurduy
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.10_2_Adm2:
+    GID: BOL.1.10_2
+    admin_name: Zudáñez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.2_2_Adm2:
+    GID: BOL.1.2_2
+    admin_name: Belisario Boeto
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.3_2_Adm2:
+    GID: BOL.1.3_2
+    admin_name: Hernando Siles
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.4_2_Adm2:
+    GID: BOL.1.4_2
+    admin_name: Luis Calvo
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.5_2_Adm2:
+    GID: BOL.1.5_2
+    admin_name: Nor Cinti
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.6_2_Adm2:
+    GID: BOL.1.6_2
+    admin_name: Oropeza
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.7_2_Adm2:
+    GID: BOL.1.7_2
+    admin_name: Sur Cinti
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.8_2_Adm2:
+    GID: BOL.1.8_2
+    admin_name: Tomina
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.1.9_2_Adm2:
+    GID: BOL.1.9_2
+    admin_name: Yamparáez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2_1_Adm1:
+    GID: BOL.2_1
+    admin_name: Cochabamba
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.2.1_2_Adm2:
+    GID: BOL.2.1_2
+    admin_name: Arani
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.10_2_Adm2:
+    GID: BOL.2.10_2
+    admin_name: Esteban Arze
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.11_2_Adm2:
+    GID: BOL.2.11_2
+    admin_name: Germán Jordán
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.12_2_Adm2:
+    GID: BOL.2.12_2
+    admin_name: Mizque
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.13_2_Adm2:
+    GID: BOL.2.13_2
+    admin_name: Punata
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.14_2_Adm2:
+    GID: BOL.2.14_2
+    admin_name: Quillacollo
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.15_2_Adm2:
+    GID: BOL.2.15_2
+    admin_name: Tapacarí
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.16_2_Adm2:
+    GID: BOL.2.16_2
+    admin_name: Tiraque
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.2_2_Adm2:
+    GID: BOL.2.2_2
+    admin_name: Arque
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.3_2_Adm2:
+    GID: BOL.2.3_2
+    admin_name: Ayopaya
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.4_2_Adm2:
+    GID: BOL.2.4_2
+    admin_name: Bolivar
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.5_2_Adm2:
+    GID: BOL.2.5_2
+    admin_name: Campero
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.6_2_Adm2:
+    GID: BOL.2.6_2
+    admin_name: Capinota
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.7_2_Adm2:
+    GID: BOL.2.7_2
+    admin_name: Carrasco
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.8_2_Adm2:
+    GID: BOL.2.8_2
+    admin_name: Cercado
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.2.9_2_Adm2:
+    GID: BOL.2.9_2
+    admin_name: Chapare
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.3_1_Adm1:
+    GID: BOL.3_1
+    admin_name: Beni
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.3.1_2_Adm2:
+    GID: BOL.3.1_2
+    admin_name: Cercado
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.3.2_2_Adm2:
+    GID: BOL.3.2_2
+    admin_name: General José Ballivián
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.3.3_2_Adm2:
+    GID: BOL.3.3_2
+    admin_name: Iténez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.3.4_2_Adm2:
+    GID: BOL.3.4_2
+    admin_name: Mamoré
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.3.5_2_Adm2:
+    GID: BOL.3.5_2
+    admin_name: Marbán
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.3.6_2_Adm2:
+    GID: BOL.3.6_2
+    admin_name: Moxos
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.3.7_2_Adm2:
+    GID: BOL.3.7_2
+    admin_name: Vaca Diez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.3.8_2_Adm2:
+    GID: BOL.3.8_2
+    admin_name: Yacuma
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4_1_Adm1:
+    GID: BOL.4_1
+    admin_name: La Paz
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.4.10_2_Adm2:
+    GID: BOL.4.10_2
+    admin_name: Ingavi
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.11_2_Adm2:
+    GID: BOL.4.11_2
+    admin_name: Inquisivi
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.12_2_Adm2:
+    GID: BOL.4.12_2
+    admin_name: Larecaja
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.13_2_Adm2:
+    GID: BOL.4.13_2
+    admin_name: Loayza
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.14_2_Adm2:
+    GID: BOL.4.14_2
+    admin_name: Los Andes
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.15_2_Adm2:
+    GID: BOL.4.15_2
+    admin_name: Manco Kapac
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.16_2_Adm2:
+    GID: BOL.4.16_2
+    admin_name: Muñecas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.17_2_Adm2:
+    GID: BOL.4.17_2
+    admin_name: Murillo
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.18_2_Adm2:
+    GID: BOL.4.18_2
+    admin_name: Nor Yungas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.19_2_Adm2:
+    GID: BOL.4.19_2
+    admin_name: Omasuyos
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.2_2_Adm2:
+    GID: BOL.4.2_2
+    admin_name: Abel Iturralde
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.20_2_Adm2:
+    GID: BOL.4.20_2
+    admin_name: Pacajes
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.21_2_Adm2:
+    GID: BOL.4.21_2
+    admin_name: Sud Yungas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.3_2_Adm2:
+    GID: BOL.4.3_2
+    admin_name: Aroma
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.4_2_Adm2:
+    GID: BOL.4.4_2
+    admin_name: Bautista Saavedra
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.5_2_Adm2:
+    GID: BOL.4.5_2
+    admin_name: Camacho
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.6_2_Adm2:
+    GID: BOL.4.6_2
+    admin_name: Caranavi
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.7_2_Adm2:
+    GID: BOL.4.7_2
+    admin_name: Franz Tamayo
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.8_2_Adm2:
+    GID: BOL.4.8_2
+    admin_name: General José Manuel Pando
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.4.9_2_Adm2:
+    GID: BOL.4.9_2
+    admin_name: Gualberto Villarroel
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5_1_Adm1:
+    GID: BOL.5_1
+    admin_name: Oruro
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.5.1_2_Adm2:
+    GID: BOL.5.1_2
+    admin_name: Abaroa
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.10_2_Adm2:
+    GID: BOL.5.10_2
+    admin_name: Sabaya
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.11_2_Adm2:
+    GID: BOL.5.11_2
+    admin_name: Sajama
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.12_2_Adm2:
+    GID: BOL.5.12_2
+    admin_name: San Pedro de Totora
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.13_2_Adm2:
+    GID: BOL.5.13_2
+    admin_name: Saucarí
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.14_2_Adm2:
+    GID: BOL.5.14_2
+    admin_name: Sebastián Pagador
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.15_2_Adm2:
+    GID: BOL.5.15_2
+    admin_name: Sur Carangas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.16_2_Adm2:
+    GID: BOL.5.16_2
+    admin_name: Tomás Barrón
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.2_2_Adm2:
+    GID: BOL.5.2_2
+    admin_name: Carangas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.3_2_Adm2:
+    GID: BOL.5.3_2
+    admin_name: Cercado
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.4_2_Adm2:
+    GID: BOL.5.4_2
+    admin_name: Ladislao Cabrera
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.5_2_Adm2:
+    GID: BOL.5.5_2
+    admin_name: Litoral
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.6_2_Adm2:
+    GID: BOL.5.6_2
+    admin_name: Mejillones
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.7_2_Adm2:
+    GID: BOL.5.7_2
+    admin_name: Nor Carangas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.8_2_Adm2:
+    GID: BOL.5.8_2
+    admin_name: Pantaleón Dalence
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.5.9_2_Adm2:
+    GID: BOL.5.9_2
+    admin_name: Poopó
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.6_1_Adm1:
+    GID: BOL.6_1
+    admin_name: Pando
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.6.1_2_Adm2:
+    GID: BOL.6.1_2
+    admin_name: Abuná
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.6.2_2_Adm2:
+    GID: BOL.6.2_2
+    admin_name: Federico Román
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.6.3_2_Adm2:
+    GID: BOL.6.3_2
+    admin_name: Madre de Dios
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.6.4_2_Adm2:
+    GID: BOL.6.4_2
+    admin_name: Manuripi
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.6.5_2_Adm2:
+    GID: BOL.6.5_2
+    admin_name: Nicolás Suárez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7_1_Adm1:
+    GID: BOL.7_1
+    admin_name: Potosí
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.7.1_2_Adm2:
+    GID: BOL.7.1_2
+    admin_name: Alonso de Ibáñez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.10_2_Adm2:
+    GID: BOL.7.10_2
+    admin_name: Modesto Omiste
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.11_2_Adm2:
+    GID: BOL.7.11_2
+    admin_name: Nor Chichas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.12_2_Adm2:
+    GID: BOL.7.12_2
+    admin_name: Nor Lipez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.13_2_Adm2:
+    GID: BOL.7.13_2
+    admin_name: Rafael Bustillo
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.14_2_Adm2:
+    GID: BOL.7.14_2
+    admin_name: Sur Chichas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.15_2_Adm2:
+    GID: BOL.7.15_2
+    admin_name: Sur Lipez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.16_2_Adm2:
+    GID: BOL.7.16_2
+    admin_name: Tomás Frías
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.2_2_Adm2:
+    GID: BOL.7.2_2
+    admin_name: Antonio Quijarro
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.3_2_Adm2:
+    GID: BOL.7.3_2
+    admin_name: Chárcas
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.4_2_Adm2:
+    GID: BOL.7.4_2
+    admin_name: Chayanta
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.5_2_Adm2:
+    GID: BOL.7.5_2
+    admin_name: Cornelio Saavedra
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.6_2_Adm2:
+    GID: BOL.7.6_2
+    admin_name: Daniel Campos
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.7_2_Adm2:
+    GID: BOL.7.7_2
+    admin_name: Enrique Baldivieso
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.8_2_Adm2:
+    GID: BOL.7.8_2
+    admin_name: General Bilbao
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.7.9_2_Adm2:
+    GID: BOL.7.9_2
+    admin_name: José María Linares
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8_1_Adm1:
+    GID: BOL.8_1
+    admin_name: Santa Cruz
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.8.1_2_Adm2:
+    GID: BOL.8.1_2
+    admin_name: Andrés Ibáñez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.10_2_Adm2:
+    GID: BOL.8.10_2
+    admin_name: Ñuflo De Chávez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.11_2_Adm2:
+    GID: BOL.8.11_2
+    admin_name: Obispo Santistéban
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.12_2_Adm2:
+    GID: BOL.8.12_2
+    admin_name: Sara
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.13_2_Adm2:
+    GID: BOL.8.13_2
+    admin_name: Vallegrande
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.14_2_Adm2:
+    GID: BOL.8.14_2
+    admin_name: Velasco
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.15_2_Adm2:
+    GID: BOL.8.15_2
+    admin_name: Warnes
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.2_2_Adm2:
+    GID: BOL.8.2_2
+    admin_name: Angel Sandoval
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.3_2_Adm2:
+    GID: BOL.8.3_2
+    admin_name: Chiquitos
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.4_2_Adm2:
+    GID: BOL.8.4_2
+    admin_name: Cordillera
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.5_2_Adm2:
+    GID: BOL.8.5_2
+    admin_name: Florida
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.6_2_Adm2:
+    GID: BOL.8.6_2
+    admin_name: Germán Busch
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.7_2_Adm2:
+    GID: BOL.8.7_2
+    admin_name: Guarayos
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.8_2_Adm2:
+    GID: BOL.8.8_2
+    admin_name: Ichilo
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.8.9_2_Adm2:
+    GID: BOL.8.9_2
+    admin_name: Manuel María Caballero
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.9_1_Adm1:
+    GID: BOL.9_1
+    admin_name: Tarija
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm1
+  BOL.9.1_2_Adm2:
+    GID: BOL.9.1_2
+    admin_name: Arce
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.9.2_2_Adm2:
+    GID: BOL.9.2_2
+    admin_name: Avilés
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.9.3_2_Adm2:
+    GID: BOL.9.3_2
+    admin_name: Cercado
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.9.4_2_Adm2:
+    GID: BOL.9.4_2
+    admin_name: Gran Chaco
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.9.5_2_Adm2:
+    GID: BOL.9.5_2
+    admin_name: Méndez
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2
+  BOL.9.6_2_Adm2:
+    GID: BOL.9.6_2
+    admin_name: O'Connor
+    iso3c: BOL
+    country_name: Bolivia
+    admin_level: Adm2

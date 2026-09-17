@@ -1,0 +1,2263 @@
+concepts:
+  GTM.0_Adm0:
+    GID: GTM
+    admin_name: Guatemala
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm0
+  GTM.1_1_Adm1:
+    GID: GTM.1_1
+    admin_name: Alta Verapaz
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.1.1_1_Adm2:
+    GID: GTM.1.1_1
+    admin_name: Chahal
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.10_1_Adm2:
+    GID: GTM.1.10_1
+    admin_name: Santa Cruz Verapaz
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.11_1_Adm2:
+    GID: GTM.1.11_1
+    admin_name: Santa María Cahabón
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.12_1_Adm2:
+    GID: GTM.1.12_1
+    admin_name: Senahú
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.13_1_Adm2:
+    GID: GTM.1.13_1
+    admin_name: Tactic
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.14_1_Adm2:
+    GID: GTM.1.14_1
+    admin_name: Tamahú
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.15_1_Adm2:
+    GID: GTM.1.15_1
+    admin_name: Tucurú
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.2_1_Adm2:
+    GID: GTM.1.2_1
+    admin_name: Chisec
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.3_1_Adm2:
+    GID: GTM.1.3_1
+    admin_name: Cobán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.4_1_Adm2:
+    GID: GTM.1.4_1
+    admin_name: Fray Bartolomé de las Casas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.5_1_Adm2:
+    GID: GTM.1.5_1
+    admin_name: Lanquín
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.6_1_Adm2:
+    GID: GTM.1.6_1
+    admin_name: Panzós
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.7_1_Adm2:
+    GID: GTM.1.7_1
+    admin_name: San Cristóbal Verapaz
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.8_1_Adm2:
+    GID: GTM.1.8_1
+    admin_name: San Juan Chamelco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.1.9_1_Adm2:
+    GID: GTM.1.9_1
+    admin_name: San Pedro Carchá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.10_1_Adm1:
+    GID: GTM.10_1
+    admin_name: Jalapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.10.1_1_Adm2:
+    GID: GTM.10.1_1
+    admin_name: Jalapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.10.2_1_Adm2:
+    GID: GTM.10.2_1
+    admin_name: Mataquescuintla
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.10.3_1_Adm2:
+    GID: GTM.10.3_1
+    admin_name: Monjas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.10.4_1_Adm2:
+    GID: GTM.10.4_1
+    admin_name: San Carlos Alzatate
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.10.5_1_Adm2:
+    GID: GTM.10.5_1
+    admin_name: San Luis Jilotepeque
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.10.6_1_Adm2:
+    GID: GTM.10.6_1
+    admin_name: San Manuel Chaparrón
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.10.7_1_Adm2:
+    GID: GTM.10.7_1
+    admin_name: San Pedro Pinula
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11_1_Adm1:
+    GID: GTM.11_1
+    admin_name: Jutiapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.11.1_1_Adm2:
+    GID: GTM.11.1_1
+    admin_name: Agua Blanca
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.10_1_Adm2:
+    GID: GTM.11.10_1
+    admin_name: Jutiapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.11_1_Adm2:
+    GID: GTM.11.11_1
+    admin_name: Moyuta
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.12_1_Adm2:
+    GID: GTM.11.12_1
+    admin_name: Pasaco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.13_1_Adm2:
+    GID: GTM.11.13_1
+    admin_name: Quezada
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.14_1_Adm2:
+    GID: GTM.11.14_1
+    admin_name: San José Acatempa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.15_1_Adm2:
+    GID: GTM.11.15_1
+    admin_name: Santa Catarina Mita
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.16_1_Adm2:
+    GID: GTM.11.16_1
+    admin_name: Yupiltepeque
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.17_1_Adm2:
+    GID: GTM.11.17_1
+    admin_name: Zapotitlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.2_1_Adm2:
+    GID: GTM.11.2_1
+    admin_name: Asunción Mita
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.3_1_Adm2:
+    GID: GTM.11.3_1
+    admin_name: Atescatempa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.4_1_Adm2:
+    GID: GTM.11.4_1
+    admin_name: Comapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.5_1_Adm2:
+    GID: GTM.11.5_1
+    admin_name: Conguaco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.6_1_Adm2:
+    GID: GTM.11.6_1
+    admin_name: El Adelanto
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.7_1_Adm2:
+    GID: GTM.11.7_1
+    admin_name: El Progreso
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.8_1_Adm2:
+    GID: GTM.11.8_1
+    admin_name: Jalpatagua
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.11.9_1_Adm2:
+    GID: GTM.11.9_1
+    admin_name: Jerez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12_1_Adm1:
+    GID: GTM.12_1
+    admin_name: Petén
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.12.1_1_Adm2:
+    GID: GTM.12.1_1
+    admin_name: Dolores
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.10_1_Adm2:
+    GID: GTM.12.10_1
+    admin_name: San Luis
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.11_1_Adm2:
+    GID: GTM.12.11_1
+    admin_name: Santa Ana
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.12_1_Adm2:
+    GID: GTM.12.12_1
+    admin_name: Sayaxché
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.2_1_Adm2:
+    GID: GTM.12.2_1
+    admin_name: Flores
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.3_1_Adm2:
+    GID: GTM.12.3_1
+    admin_name: La Libertad
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.4_1_Adm2:
+    GID: GTM.12.4_1
+    admin_name: Melchor de Mencos
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.5_1_Adm2:
+    GID: GTM.12.5_1
+    admin_name: Poptún
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.6_1_Adm2:
+    GID: GTM.12.6_1
+    admin_name: San Andrés
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.7_1_Adm2:
+    GID: GTM.12.7_1
+    admin_name: San Benito
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.8_1_Adm2:
+    GID: GTM.12.8_1
+    admin_name: San Francisco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.12.9_1_Adm2:
+    GID: GTM.12.9_1
+    admin_name: San José
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13_1_Adm1:
+    GID: GTM.13_1
+    admin_name: Quezaltenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.13.1_1_Adm2:
+    GID: GTM.13.1_1
+    admin_name: Almolonga
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.10_1_Adm2:
+    GID: GTM.13.10_1
+    admin_name: Génova
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.11_1_Adm2:
+    GID: GTM.13.11_1
+    admin_name: Huitán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.12_1_Adm2:
+    GID: GTM.13.12_1
+    admin_name: La Esperanza
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.13_1_Adm2:
+    GID: GTM.13.13_1
+    admin_name: Olintepeque
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.14_1_Adm2:
+    GID: GTM.13.14_1
+    admin_name: Ostuncalco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.15_1_Adm2:
+    GID: GTM.13.15_1
+    admin_name: Palestina de Los Altos
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.16_1_Adm2:
+    GID: GTM.13.16_1
+    admin_name: Quetzaltenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.17_1_Adm2:
+    GID: GTM.13.17_1
+    admin_name: Salcajá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.18_1_Adm2:
+    GID: GTM.13.18_1
+    admin_name: San Carlos Sija
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.19_1_Adm2:
+    GID: GTM.13.19_1
+    admin_name: San Francisco La Unión
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.2_1_Adm2:
+    GID: GTM.13.2_1
+    admin_name: Cabricán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.20_1_Adm2:
+    GID: GTM.13.20_1
+    admin_name: San Martín Sacatepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.21_1_Adm2:
+    GID: GTM.13.21_1
+    admin_name: San Mateo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.22_1_Adm2:
+    GID: GTM.13.22_1
+    admin_name: San Miguel Sigüilá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.23_1_Adm2:
+    GID: GTM.13.23_1
+    admin_name: Sibilia
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.24_1_Adm2:
+    GID: GTM.13.24_1
+    admin_name: Zunil
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.3_1_Adm2:
+    GID: GTM.13.3_1
+    admin_name: Cajolá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.4_1_Adm2:
+    GID: GTM.13.4_1
+    admin_name: Cantel
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.5_1_Adm2:
+    GID: GTM.13.5_1
+    admin_name: Coatepeque
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.6_1_Adm2:
+    GID: GTM.13.6_1
+    admin_name: Colomba
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.7_1_Adm2:
+    GID: GTM.13.7_1
+    admin_name: Concepción Chiquirichapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.8_1_Adm2:
+    GID: GTM.13.8_1
+    admin_name: El Palmar
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.13.9_1_Adm2:
+    GID: GTM.13.9_1
+    admin_name: Flores Costa Cuca
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14_1_Adm1:
+    GID: GTM.14_1
+    admin_name: Quiché
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.14.1_1_Adm2:
+    GID: GTM.14.1_1
+    admin_name: Canillá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.10_1_Adm2:
+    GID: GTM.14.10_1
+    admin_name: Nebaj
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.11_1_Adm2:
+    GID: GTM.14.11_1
+    admin_name: Pachalúm
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.12_1_Adm2:
+    GID: GTM.14.12_1
+    admin_name: Patzité
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.13_1_Adm2:
+    GID: GTM.14.13_1
+    admin_name: Sacapulas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.14_1_Adm2:
+    GID: GTM.14.14_1
+    admin_name: San Andrés Sajcabajá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.15_1_Adm2:
+    GID: GTM.14.15_1
+    admin_name: San Antonio Ilotenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.16_1_Adm2:
+    GID: GTM.14.16_1
+    admin_name: San Bartolomé Jocotenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.17_1_Adm2:
+    GID: GTM.14.17_1
+    admin_name: San Juan Cotzal
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.18_1_Adm2:
+    GID: GTM.14.18_1
+    admin_name: San Pedro Jocopilas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.19_1_Adm2:
+    GID: GTM.14.19_1
+    admin_name: Santa Cruz del Quiché
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.2_1_Adm2:
+    GID: GTM.14.2_1
+    admin_name: Chajul
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.20_1_Adm2:
+    GID: GTM.14.20_1
+    admin_name: Uspantán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.21_1_Adm2:
+    GID: GTM.14.21_1
+    admin_name: Zacualpa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.3_1_Adm2:
+    GID: GTM.14.3_1
+    admin_name: Chicaman
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.4_1_Adm2:
+    GID: GTM.14.4_1
+    admin_name: Chiché
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.5_1_Adm2:
+    GID: GTM.14.5_1
+    admin_name: Chichicastenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.6_1_Adm2:
+    GID: GTM.14.6_1
+    admin_name: Chinique
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.7_1_Adm2:
+    GID: GTM.14.7_1
+    admin_name: Cunén
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.8_1_Adm2:
+    GID: GTM.14.8_1
+    admin_name: Ixcán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.14.9_1_Adm2:
+    GID: GTM.14.9_1
+    admin_name: Joyabaj
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15_1_Adm1:
+    GID: GTM.15_1
+    admin_name: Retalhuleu
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.15.1_1_Adm2:
+    GID: GTM.15.1_1
+    admin_name: Champerico
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15.2_1_Adm2:
+    GID: GTM.15.2_1
+    admin_name: El Asintal
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15.3_1_Adm2:
+    GID: GTM.15.3_1
+    admin_name: Nuevo San Carlos
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15.4_1_Adm2:
+    GID: GTM.15.4_1
+    admin_name: Retalhuleu
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15.5_1_Adm2:
+    GID: GTM.15.5_1
+    admin_name: San Andrés Villa Seca
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15.6_1_Adm2:
+    GID: GTM.15.6_1
+    admin_name: San Felipe
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15.7_1_Adm2:
+    GID: GTM.15.7_1
+    admin_name: San Martín Zapotitlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15.8_1_Adm2:
+    GID: GTM.15.8_1
+    admin_name: San Sebastián
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.15.9_1_Adm2:
+    GID: GTM.15.9_1
+    admin_name: Santa Cruz Muluá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16_1_Adm1:
+    GID: GTM.16_1
+    admin_name: Sacatepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.16.1_1_Adm2:
+    GID: GTM.16.1_1
+    admin_name: Alotenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.10_1_Adm2:
+    GID: GTM.16.10_1
+    admin_name: San Miguel Dueñas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.11_1_Adm2:
+    GID: GTM.16.11_1
+    admin_name: Santa Catarina Barahona
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.12_1_Adm2:
+    GID: GTM.16.12_1
+    admin_name: Santa Lucía Milpas Altas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.13_1_Adm2:
+    GID: GTM.16.13_1
+    admin_name: Santa María de Jesús
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.14_1_Adm2:
+    GID: GTM.16.14_1
+    admin_name: Santiago Sacatepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.15_1_Adm2:
+    GID: GTM.16.15_1
+    admin_name: Santo Domingo Xenacoj
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.16_1_Adm2:
+    GID: GTM.16.16_1
+    admin_name: Sumpango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.2_1_Adm2:
+    GID: GTM.16.2_1
+    admin_name: Antigua Guatemala
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.3_1_Adm2:
+    GID: GTM.16.3_1
+    admin_name: Ciudad Vieja
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.4_1_Adm2:
+    GID: GTM.16.4_1
+    admin_name: Jocotenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.5_1_Adm2:
+    GID: GTM.16.5_1
+    admin_name: Magdalena Milpas Altas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.6_1_Adm2:
+    GID: GTM.16.6_1
+    admin_name: Pastores
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.7_1_Adm2:
+    GID: GTM.16.7_1
+    admin_name: San Antonio Aguas Calientes
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.8_1_Adm2:
+    GID: GTM.16.8_1
+    admin_name: San Bartolomé Milpas Altas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.16.9_1_Adm2:
+    GID: GTM.16.9_1
+    admin_name: San Lucas Sacatepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17_1_Adm1:
+    GID: GTM.17_1
+    admin_name: San Marcos
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.17.1_1_Adm2:
+    GID: GTM.17.1_1
+    admin_name: Ayutla
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.10_1_Adm2:
+    GID: GTM.17.10_1
+    admin_name: La Reforma
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.11_1_Adm2:
+    GID: GTM.17.11_1
+    admin_name: Malacatán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.12_1_Adm2:
+    GID: GTM.17.12_1
+    admin_name: Nuevo Progreso
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.13_1_Adm2:
+    GID: GTM.17.13_1
+    admin_name: Ocos
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.14_1_Adm2:
+    GID: GTM.17.14_1
+    admin_name: Pajapita
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.15_1_Adm2:
+    GID: GTM.17.15_1
+    admin_name: Río Blanco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.16_1_Adm2:
+    GID: GTM.17.16_1
+    admin_name: San Antonio Sacatepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.17_1_Adm2:
+    GID: GTM.17.17_1
+    admin_name: San Cristobal Cucho
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.18_1_Adm2:
+    GID: GTM.17.18_1
+    admin_name: San José Ojetenam
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.19_1_Adm2:
+    GID: GTM.17.19_1
+    admin_name: San Lorenzo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.2_1_Adm2:
+    GID: GTM.17.2_1
+    admin_name: Catarina
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.20_1_Adm2:
+    GID: GTM.17.20_1
+    admin_name: San Marcos
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.21_1_Adm2:
+    GID: GTM.17.21_1
+    admin_name: San Miguel Ixtahuacán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.22_1_Adm2:
+    GID: GTM.17.22_1
+    admin_name: San Pablo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.23_1_Adm2:
+    GID: GTM.17.23_1
+    admin_name: San Pedro Sacatepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.24_1_Adm2:
+    GID: GTM.17.24_1
+    admin_name: San Rafaél Pie de la Cuesta
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.25_1_Adm2:
+    GID: GTM.17.25_1
+    admin_name: San Sibinal
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.26_1_Adm2:
+    GID: GTM.17.26_1
+    admin_name: Sipacapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.27_1_Adm2:
+    GID: GTM.17.27_1
+    admin_name: Tacaná
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.28_1_Adm2:
+    GID: GTM.17.28_1
+    admin_name: Tajumulco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.29_1_Adm2:
+    GID: GTM.17.29_1
+    admin_name: Tejutla
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.3_1_Adm2:
+    GID: GTM.17.3_1
+    admin_name: Comitancillo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.4_1_Adm2:
+    GID: GTM.17.4_1
+    admin_name: Concepción Tutuapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.5_1_Adm2:
+    GID: GTM.17.5_1
+    admin_name: El Quetzal
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.6_1_Adm2:
+    GID: GTM.17.6_1
+    admin_name: El Rodeo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.7_1_Adm2:
+    GID: GTM.17.7_1
+    admin_name: El Tumbador
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.8_1_Adm2:
+    GID: GTM.17.8_1
+    admin_name: Esquipulas Palo Gordo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.17.9_1_Adm2:
+    GID: GTM.17.9_1
+    admin_name: Ixchiguan
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18_1_Adm1:
+    GID: GTM.18_1
+    admin_name: Santa Rosa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.18.1_1_Adm2:
+    GID: GTM.18.1_1
+    admin_name: Barberena
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.10_1_Adm2:
+    GID: GTM.18.10_1
+    admin_name: San Rafaél Las Flores
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.11_1_Adm2:
+    GID: GTM.18.11_1
+    admin_name: Santa Cruz Naranjo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.12_1_Adm2:
+    GID: GTM.18.12_1
+    admin_name: Santa María Ixhuatán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.13_1_Adm2:
+    GID: GTM.18.13_1
+    admin_name: Santa Rosa de Lima
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.14_1_Adm2:
+    GID: GTM.18.14_1
+    admin_name: Taxisco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.2_1_Adm2:
+    GID: GTM.18.2_1
+    admin_name: Casillas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.3_1_Adm2:
+    GID: GTM.18.3_1
+    admin_name: Chiquimulilla
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.4_1_Adm2:
+    GID: GTM.18.4_1
+    admin_name: Cuilapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.5_1_Adm2:
+    GID: GTM.18.5_1
+    admin_name: Guazacapán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.6_1_Adm2:
+    GID: GTM.18.6_1
+    admin_name: Nueva Santa Rosa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.7_1_Adm2:
+    GID: GTM.18.7_1
+    admin_name: Oratorio
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.8_1_Adm2:
+    GID: GTM.18.8_1
+    admin_name: Pueblo Nuevo Viñas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.18.9_1_Adm2:
+    GID: GTM.18.9_1
+    admin_name: San Juan Tecuaco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19_1_Adm1:
+    GID: GTM.19_1
+    admin_name: Sololá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.19.1_1_Adm2:
+    GID: GTM.19.1_1
+    admin_name: Concepción
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.10_1_Adm2:
+    GID: GTM.19.10_1
+    admin_name: San Marcos La Laguna
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.11_1_Adm2:
+    GID: GTM.19.11_1
+    admin_name: San Pablo La Laguna
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.12_1_Adm2:
+    GID: GTM.19.12_1
+    admin_name: San Pedro La Laguna
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.13_1_Adm2:
+    GID: GTM.19.13_1
+    admin_name: Santa Catarina Ixtahuacan
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.14_1_Adm2:
+    GID: GTM.19.14_1
+    admin_name: Santa Catarina Palopó
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.15_1_Adm2:
+    GID: GTM.19.15_1
+    admin_name: Santa Clara La Laguna
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.16_1_Adm2:
+    GID: GTM.19.16_1
+    admin_name: Santa Cruz La Laguna
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.17_1_Adm2:
+    GID: GTM.19.17_1
+    admin_name: Santa Lucía Utatlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.18_1_Adm2:
+    GID: GTM.19.18_1
+    admin_name: Santa María Visitación
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.19_1_Adm2:
+    GID: GTM.19.19_1
+    admin_name: Santiago Atitlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.2_1_Adm2:
+    GID: GTM.19.2_1
+    admin_name: Municipio de Santa Cruz La Laguna
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.20_1_Adm2:
+    GID: GTM.19.20_1
+    admin_name: Sololá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.3_1_Adm2:
+    GID: GTM.19.3_1
+    admin_name: Nahualá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.4_1_Adm2:
+    GID: GTM.19.4_1
+    admin_name: Panajachel
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.5_1_Adm2:
+    GID: GTM.19.5_1
+    admin_name: San Andrés Semetabaj
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.6_1_Adm2:
+    GID: GTM.19.6_1
+    admin_name: San Antonio Palopó
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.7_1_Adm2:
+    GID: GTM.19.7_1
+    admin_name: San José Chacayá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.8_1_Adm2:
+    GID: GTM.19.8_1
+    admin_name: San Juan La Laguna
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.19.9_1_Adm2:
+    GID: GTM.19.9_1
+    admin_name: San Lucas Tolimán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.2_1_Adm1:
+    GID: GTM.2_1
+    admin_name: Baja Verapaz
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.2.1_1_Adm2:
+    GID: GTM.2.1_1
+    admin_name: Cubulco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.2.2_1_Adm2:
+    GID: GTM.2.2_1
+    admin_name: Granados
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.2.3_1_Adm2:
+    GID: GTM.2.3_1
+    admin_name: Purulhá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.2.4_1_Adm2:
+    GID: GTM.2.4_1
+    admin_name: Rabinal
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.2.5_1_Adm2:
+    GID: GTM.2.5_1
+    admin_name: Salamá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.2.6_1_Adm2:
+    GID: GTM.2.6_1
+    admin_name: San Jerónimo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.2.7_1_Adm2:
+    GID: GTM.2.7_1
+    admin_name: San Miguel Chicaj
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.2.8_1_Adm2:
+    GID: GTM.2.8_1
+    admin_name: Santa Cruz El Chol
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20_1_Adm1:
+    GID: GTM.20_1
+    admin_name: Suchitepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.20.1_1_Adm2:
+    GID: GTM.20.1_1
+    admin_name: Chicacao
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.10_1_Adm2:
+    GID: GTM.20.10_1
+    admin_name: San Francisco Zapotitlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.11_1_Adm2:
+    GID: GTM.20.11_1
+    admin_name: San Gabriel
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.12_1_Adm2:
+    GID: GTM.20.12_1
+    admin_name: San José El Idolo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.13_1_Adm2:
+    GID: GTM.20.13_1
+    admin_name: San Juan Bautista
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.14_1_Adm2:
+    GID: GTM.20.14_1
+    admin_name: San Lorenzo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.15_1_Adm2:
+    GID: GTM.20.15_1
+    admin_name: San Miguel Panán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.16_1_Adm2:
+    GID: GTM.20.16_1
+    admin_name: San Pablo Jocopilas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.17_1_Adm2:
+    GID: GTM.20.17_1
+    admin_name: Santa Bárbara
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.18_1_Adm2:
+    GID: GTM.20.18_1
+    admin_name: Santo Domingo Suchitepequez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.19_1_Adm2:
+    GID: GTM.20.19_1
+    admin_name: Santo Tomás La Unión
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.2_1_Adm2:
+    GID: GTM.20.2_1
+    admin_name: Cuyotenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.20_1_Adm2:
+    GID: GTM.20.20_1
+    admin_name: Zunilito
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.3_1_Adm2:
+    GID: GTM.20.3_1
+    admin_name: Mazatenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.4_1_Adm2:
+    GID: GTM.20.4_1
+    admin_name: Patulul
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.5_1_Adm2:
+    GID: GTM.20.5_1
+    admin_name: Pueblo Nuevo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.6_1_Adm2:
+    GID: GTM.20.6_1
+    admin_name: Río Bravo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.7_1_Adm2:
+    GID: GTM.20.7_1
+    admin_name: Samayac
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.8_1_Adm2:
+    GID: GTM.20.8_1
+    admin_name: San Antonio Suchitepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.20.9_1_Adm2:
+    GID: GTM.20.9_1
+    admin_name: San Bernardino
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.21_1_Adm1:
+    GID: GTM.21_1
+    admin_name: Totonicapán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.21.1_1_Adm2:
+    GID: GTM.21.1_1
+    admin_name: Momostenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.21.2_1_Adm2:
+    GID: GTM.21.2_1
+    admin_name: San Andrés Xecul
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.21.3_1_Adm2:
+    GID: GTM.21.3_1
+    admin_name: San Bartolo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.21.4_1_Adm2:
+    GID: GTM.21.4_1
+    admin_name: San Cristóbal Totonicapán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.21.5_1_Adm2:
+    GID: GTM.21.5_1
+    admin_name: San Francisco El Alto
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.21.6_1_Adm2:
+    GID: GTM.21.6_1
+    admin_name: Santa Lucía La Reforma
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.21.7_1_Adm2:
+    GID: GTM.21.7_1
+    admin_name: Santa María Chiquimula
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.21.8_1_Adm2:
+    GID: GTM.21.8_1
+    admin_name: Totonicapán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22_1_Adm1:
+    GID: GTM.22_1
+    admin_name: Zacapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.22.1_1_Adm2:
+    GID: GTM.22.1_1
+    admin_name: Cabañas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.10_1_Adm2:
+    GID: GTM.22.10_1
+    admin_name: Zacapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.2_1_Adm2:
+    GID: GTM.22.2_1
+    admin_name: Estanzuela
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.3_1_Adm2:
+    GID: GTM.22.3_1
+    admin_name: Gualán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.4_1_Adm2:
+    GID: GTM.22.4_1
+    admin_name: Huité
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.5_1_Adm2:
+    GID: GTM.22.5_1
+    admin_name: La Unión
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.6_1_Adm2:
+    GID: GTM.22.6_1
+    admin_name: Río Hondo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.7_1_Adm2:
+    GID: GTM.22.7_1
+    admin_name: San Diego
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.8_1_Adm2:
+    GID: GTM.22.8_1
+    admin_name: Teculután
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.22.9_1_Adm2:
+    GID: GTM.22.9_1
+    admin_name: Usumatlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3_1_Adm1:
+    GID: GTM.3_1
+    admin_name: Chimaltenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.3.1_1_Adm2:
+    GID: GTM.3.1_1
+    admin_name: Acatenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.10_1_Adm2:
+    GID: GTM.3.10_1
+    admin_name: San José Poaquil
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.11_1_Adm2:
+    GID: GTM.3.11_1
+    admin_name: San Martín Jilotepeque
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.12_1_Adm2:
+    GID: GTM.3.12_1
+    admin_name: Santa Apolonia
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.13_1_Adm2:
+    GID: GTM.3.13_1
+    admin_name: Santa Cruz Balanyá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.14_1_Adm2:
+    GID: GTM.3.14_1
+    admin_name: Tecpán Guatemala
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.15_1_Adm2:
+    GID: GTM.3.15_1
+    admin_name: Yepocapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.16_1_Adm2:
+    GID: GTM.3.16_1
+    admin_name: Zaragoza
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.2_1_Adm2:
+    GID: GTM.3.2_1
+    admin_name: Chimaltenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.3_1_Adm2:
+    GID: GTM.3.3_1
+    admin_name: Comalapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.4_1_Adm2:
+    GID: GTM.3.4_1
+    admin_name: El Tejar
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.5_1_Adm2:
+    GID: GTM.3.5_1
+    admin_name: Parramos
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.6_1_Adm2:
+    GID: GTM.3.6_1
+    admin_name: Patzicía
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.7_1_Adm2:
+    GID: GTM.3.7_1
+    admin_name: Patzún
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.8_1_Adm2:
+    GID: GTM.3.8_1
+    admin_name: Pochuta
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.3.9_1_Adm2:
+    GID: GTM.3.9_1
+    admin_name: San Andrés Itzapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4_1_Adm1:
+    GID: GTM.4_1
+    admin_name: Chiquimula
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.4.1_1_Adm2:
+    GID: GTM.4.1_1
+    admin_name: Camotán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.10_1_Adm2:
+    GID: GTM.4.10_1
+    admin_name: San José La Arada
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.11_1_Adm2:
+    GID: GTM.4.11_1
+    admin_name: San Juan Ermita
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.2_1_Adm2:
+    GID: GTM.4.2_1
+    admin_name: Chiquimula
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.3_1_Adm2:
+    GID: GTM.4.3_1
+    admin_name: Concepción Las Minas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.4_1_Adm2:
+    GID: GTM.4.4_1
+    admin_name: Esquipulas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.5_1_Adm2:
+    GID: GTM.4.5_1
+    admin_name: Ipala
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.6_1_Adm2:
+    GID: GTM.4.6_1
+    admin_name: Jocotán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.7_1_Adm2:
+    GID: GTM.4.7_1
+    admin_name: Olopa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.8_1_Adm2:
+    GID: GTM.4.8_1
+    admin_name: Quezaltepeque
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.4.9_1_Adm2:
+    GID: GTM.4.9_1
+    admin_name: San Jacinto
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.5_1_Adm1:
+    GID: GTM.5_1
+    admin_name: El Progreso
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.5.1_1_Adm2:
+    GID: GTM.5.1_1
+    admin_name: El Jícaro
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.5.2_1_Adm2:
+    GID: GTM.5.2_1
+    admin_name: Guastatoya
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.5.3_1_Adm2:
+    GID: GTM.5.3_1
+    admin_name: Morazán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.5.4_1_Adm2:
+    GID: GTM.5.4_1
+    admin_name: San Agustín Acasaguastlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.5.5_1_Adm2:
+    GID: GTM.5.5_1
+    admin_name: San Antonio La Paz
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.5.6_1_Adm2:
+    GID: GTM.5.6_1
+    admin_name: San Cristóbal Acasaguastlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.5.7_1_Adm2:
+    GID: GTM.5.7_1
+    admin_name: Sanarate
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.5.8_1_Adm2:
+    GID: GTM.5.8_1
+    admin_name: Sansare
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6_1_Adm1:
+    GID: GTM.6_1
+    admin_name: Escuintla
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.6.1_1_Adm2:
+    GID: GTM.6.1_1
+    admin_name: Escuintla
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.10_1_Adm2:
+    GID: GTM.6.10_1
+    admin_name: San Vicente Pacaya
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.11_1_Adm2:
+    GID: GTM.6.11_1
+    admin_name: Santa Lucía Cotzumalguapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.12_1_Adm2:
+    GID: GTM.6.12_1
+    admin_name: Siquinalá
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.13_1_Adm2:
+    GID: GTM.6.13_1
+    admin_name: Tiquisate
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.2_1_Adm2:
+    GID: GTM.6.2_1
+    admin_name: Guanagazapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.3_1_Adm2:
+    GID: GTM.6.3_1
+    admin_name: Iztapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.4_1_Adm2:
+    GID: GTM.6.4_1
+    admin_name: La Democracia
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.5_1_Adm2:
+    GID: GTM.6.5_1
+    admin_name: La Gomera
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.6_1_Adm2:
+    GID: GTM.6.6_1
+    admin_name: Masagua
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.7_1_Adm2:
+    GID: GTM.6.7_1
+    admin_name: Nueva Concepción
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.8_1_Adm2:
+    GID: GTM.6.8_1
+    admin_name: Palín
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.6.9_1_Adm2:
+    GID: GTM.6.9_1
+    admin_name: San José
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7_1_Adm1:
+    GID: GTM.7_1
+    admin_name: Guatemala
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.7.1_1_Adm2:
+    GID: GTM.7.1_1
+    admin_name: Amatitlán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.10_1_Adm2:
+    GID: GTM.7.10_1
+    admin_name: San Juan Sacatepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.11_1_Adm2:
+    GID: GTM.7.11_1
+    admin_name: San Pedro Ayampuc
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.12_1_Adm2:
+    GID: GTM.7.12_1
+    admin_name: San Pedro Sacatepéquez
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.13_1_Adm2:
+    GID: GTM.7.13_1
+    admin_name: San Raymundo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.14_1_Adm2:
+    GID: GTM.7.14_1
+    admin_name: Santa Catarina Pinula
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.15_1_Adm2:
+    GID: GTM.7.15_1
+    admin_name: Villa Canales
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.16_1_Adm2:
+    GID: GTM.7.16_1
+    admin_name: Villa Nueva
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.17_1_Adm2:
+    GID: GTM.7.17_1
+    admin_name: ZONA 1
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.18_1_Adm2:
+    GID: GTM.7.18_1
+    admin_name: ZONA 10
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.19_1_Adm2:
+    GID: GTM.7.19_1
+    admin_name: ZONA 11
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.2_1_Adm2:
+    GID: GTM.7.2_1
+    admin_name: Chinautla
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.20_1_Adm2:
+    GID: GTM.7.20_1
+    admin_name: ZONA 12
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.21_1_Adm2:
+    GID: GTM.7.21_1
+    admin_name: ZONA 13
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.22_1_Adm2:
+    GID: GTM.7.22_1
+    admin_name: ZONA 14
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.23_1_Adm2:
+    GID: GTM.7.23_1
+    admin_name: ZONA 15
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.24_1_Adm2:
+    GID: GTM.7.24_1
+    admin_name: ZONA 16
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.25_1_Adm2:
+    GID: GTM.7.25_1
+    admin_name: ZONA 17
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.26_1_Adm2:
+    GID: GTM.7.26_1
+    admin_name: ZONA 18
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.27_1_Adm2:
+    GID: GTM.7.27_1
+    admin_name: ZONA 19
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.28_1_Adm2:
+    GID: GTM.7.28_1
+    admin_name: ZONA 2
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.29_1_Adm2:
+    GID: GTM.7.29_1
+    admin_name: ZONA 22
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.3_1_Adm2:
+    GID: GTM.7.3_1
+    admin_name: Chuarrancho
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.30_1_Adm2:
+    GID: GTM.7.30_1
+    admin_name: ZONA 24
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.31_1_Adm2:
+    GID: GTM.7.31_1
+    admin_name: ZONA 25
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.32_1_Adm2:
+    GID: GTM.7.32_1
+    admin_name: ZONA 3
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.33_1_Adm2:
+    GID: GTM.7.33_1
+    admin_name: ZONA 4
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.34_1_Adm2:
+    GID: GTM.7.34_1
+    admin_name: ZONA 5
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.35_1_Adm2:
+    GID: GTM.7.35_1
+    admin_name: ZONA 6
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.36_1_Adm2:
+    GID: GTM.7.36_1
+    admin_name: ZONA 7
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.37_1_Adm2:
+    GID: GTM.7.37_1
+    admin_name: ZONA 8
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.38_1_Adm2:
+    GID: GTM.7.38_1
+    admin_name: ZONA 9
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.4_1_Adm2:
+    GID: GTM.7.4_1
+    admin_name: Fraijanes
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.5_1_Adm2:
+    GID: GTM.7.5_1
+    admin_name: Mixco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.6_1_Adm2:
+    GID: GTM.7.6_1
+    admin_name: Palencia
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.7_1_Adm2:
+    GID: GTM.7.7_1
+    admin_name: Petapa
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.8_1_Adm2:
+    GID: GTM.7.8_1
+    admin_name: San José del Golfo
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.7.9_1_Adm2:
+    GID: GTM.7.9_1
+    admin_name: San José Pinula
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8_1_Adm1:
+    GID: GTM.8_1
+    admin_name: Huehuetenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.8.1_1_Adm2:
+    GID: GTM.8.1_1
+    admin_name: Aguacatán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.10_1_Adm2:
+    GID: GTM.8.10_1
+    admin_name: Malacatancito
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.11_1_Adm2:
+    GID: GTM.8.11_1
+    admin_name: Nentón
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.12_1_Adm2:
+    GID: GTM.8.12_1
+    admin_name: San Antonio Huista
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.13_1_Adm2:
+    GID: GTM.8.13_1
+    admin_name: San Gaspar Ixchil
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.14_1_Adm2:
+    GID: GTM.8.14_1
+    admin_name: San Ildefonso Ixtahuacán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.15_1_Adm2:
+    GID: GTM.8.15_1
+    admin_name: San Juan Atitán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.16_1_Adm2:
+    GID: GTM.8.16_1
+    admin_name: San Juan Ixcoy
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.17_1_Adm2:
+    GID: GTM.8.17_1
+    admin_name: San Mateo Ixtatán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.18_1_Adm2:
+    GID: GTM.8.18_1
+    admin_name: San Miguel Acatán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.19_1_Adm2:
+    GID: GTM.8.19_1
+    admin_name: San Pedro Necta
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.2_1_Adm2:
+    GID: GTM.8.2_1
+    admin_name: Chiantla
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.20_1_Adm2:
+    GID: GTM.8.20_1
+    admin_name: San Rafael La Independencia
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.21_1_Adm2:
+    GID: GTM.8.21_1
+    admin_name: San Rafael Petzal
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.22_1_Adm2:
+    GID: GTM.8.22_1
+    admin_name: San Sebastián Coatán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.23_1_Adm2:
+    GID: GTM.8.23_1
+    admin_name: San Sebastián Huehuetenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.24_1_Adm2:
+    GID: GTM.8.24_1
+    admin_name: Santa Ana Huista
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.25_1_Adm2:
+    GID: GTM.8.25_1
+    admin_name: Santa Bárbara
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.26_1_Adm2:
+    GID: GTM.8.26_1
+    admin_name: Santa Cruz Barillas
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.27_1_Adm2:
+    GID: GTM.8.27_1
+    admin_name: Santa Eulalia
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.28_1_Adm2:
+    GID: GTM.8.28_1
+    admin_name: Santiago Chimaltenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.29_1_Adm2:
+    GID: GTM.8.29_1
+    admin_name: Soloma
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.3_1_Adm2:
+    GID: GTM.8.3_1
+    admin_name: Colotenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.30_1_Adm2:
+    GID: GTM.8.30_1
+    admin_name: Tectitán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.31_1_Adm2:
+    GID: GTM.8.31_1
+    admin_name: Todos Santos Cuchumatán
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.4_1_Adm2:
+    GID: GTM.8.4_1
+    admin_name: Concepción Huista
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.5_1_Adm2:
+    GID: GTM.8.5_1
+    admin_name: Cuilco
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.6_1_Adm2:
+    GID: GTM.8.6_1
+    admin_name: Huehuetenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.7_1_Adm2:
+    GID: GTM.8.7_1
+    admin_name: Jacaltenango
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.8_1_Adm2:
+    GID: GTM.8.8_1
+    admin_name: La Democracia
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.8.9_1_Adm2:
+    GID: GTM.8.9_1
+    admin_name: La Libertad
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.9_1_Adm1:
+    GID: GTM.9_1
+    admin_name: Izabal
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm1
+  GTM.9.1_1_Adm2:
+    GID: GTM.9.1_1
+    admin_name: El Estor
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.9.2_1_Adm2:
+    GID: GTM.9.2_1
+    admin_name: Livingston
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.9.3_1_Adm2:
+    GID: GTM.9.3_1
+    admin_name: Los Amates
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.9.4_1_Adm2:
+    GID: GTM.9.4_1
+    admin_name: Morales
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.9.5_1_Adm2:
+    GID: GTM.9.5_1
+    admin_name: Municipio de Los Amates
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.9.6_1_Adm2:
+    GID: GTM.9.6_1
+    admin_name: Puerto Barrios
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2
+  GTM.9.7_1_Adm2:
+    GID: GTM.9.7_1
+    admin_name: San Luis
+    iso3c: GTM
+    country_name: Guatemala
+    admin_level: Adm2

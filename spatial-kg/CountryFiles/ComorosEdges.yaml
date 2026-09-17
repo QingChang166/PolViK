@@ -1,0 +1,4 @@
+relations:
+    - (COM.0_Adm0, COM.3_1_Adm1)
+    - (COM.0_Adm0, COM.2_1_Adm1)
+    - (COM.0_Adm0, COM.1_1_Adm1)

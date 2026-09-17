@@ -1,0 +1,43 @@
+concepts:
+  KWT.0_Adm0:
+    GID: KWT
+    admin_name: Kuwait
+    iso3c: KWT
+    country_name: Kuwait
+    admin_level: Adm0
+  KWT.1_1_Adm1:
+    GID: KWT.1_1
+    admin_name: Al Ahmadi
+    iso3c: KWT
+    country_name: Kuwait
+    admin_level: Adm1
+  KWT.2_1_Adm1:
+    GID: KWT.2_1
+    admin_name: Al Farwaniyah
+    iso3c: KWT
+    country_name: Kuwait
+    admin_level: Adm1
+  KWT.3_1_Adm1:
+    GID: KWT.3_1
+    admin_name: Al Jahrah
+    iso3c: KWT
+    country_name: Kuwait
+    admin_level: Adm1
+  KWT.4_1_Adm1:
+    GID: KWT.4_1
+    admin_name: Al Kuwayt
+    iso3c: KWT
+    country_name: Kuwait
+    admin_level: Adm1
+  KWT.5_1_Adm1:
+    GID: KWT.5_1
+    admin_name: Hawalli
+    iso3c: KWT
+    country_name: Kuwait
+    admin_level: Adm1
+  KWT.6_1_Adm1:
+    GID: KWT.6_1
+    admin_name: Mubarak Al-Kabeer
+    iso3c: KWT
+    country_name: Kuwait
+    admin_level: Adm1

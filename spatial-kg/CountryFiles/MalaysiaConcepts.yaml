@@ -1,0 +1,967 @@
+concepts:
+  MYS.0_Adm0:
+    GID: MYS
+    admin_name: Malaysia
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm0
+  MYS.1_1_Adm1:
+    GID: MYS.1_1
+    admin_name: Johor
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.1.1_1_Adm2:
+    GID: MYS.1.1_1
+    admin_name: Batu Pahat
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.10_1_Adm2:
+    GID: MYS.1.10_1
+    admin_name: Segamat
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.2_1_Adm2:
+    GID: MYS.1.2_1
+    admin_name: Johor Baharu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.3_1_Adm2:
+    GID: MYS.1.3_1
+    admin_name: Keluang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.4_1_Adm2:
+    GID: MYS.1.4_1
+    admin_name: Kota Tinggi
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.5_1_Adm2:
+    GID: MYS.1.5_1
+    admin_name: Kulaijaya
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.6_1_Adm2:
+    GID: MYS.1.6_1
+    admin_name: Ledang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.7_1_Adm2:
+    GID: MYS.1.7_1
+    admin_name: Mersing
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.8_1_Adm2:
+    GID: MYS.1.8_1
+    admin_name: Muar
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.1.9_1_Adm2:
+    GID: MYS.1.9_1
+    admin_name: Pontian
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.10_1_Adm1:
+    GID: MYS.10_1
+    admin_name: Perlis
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.10.1_1_Adm2:
+    GID: MYS.10.1_1
+    admin_name: Perlis
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.11_1_Adm1:
+    GID: MYS.11_1
+    admin_name: Pulau Pinang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.11.1_1_Adm2:
+    GID: MYS.11.1_1
+    admin_name: Barat Daya
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.11.2_1_Adm2:
+    GID: MYS.11.2_1
+    admin_name: Seberang Perai Selatan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.11.3_1_Adm2:
+    GID: MYS.11.3_1
+    admin_name: Seberang Perai Tengah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.11.4_1_Adm2:
+    GID: MYS.11.4_1
+    admin_name: Seberang Perai Utara
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.11.5_1_Adm2:
+    GID: MYS.11.5_1
+    admin_name: Timur Laut
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.12_1_Adm1:
+    GID: MYS.12_1
+    admin_name: Putrajaya
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.12.1_1_Adm2:
+    GID: MYS.12.1_1
+    admin_name: Putrajaya
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13_1_Adm1:
+    GID: MYS.13_1
+    admin_name: Sabah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.13.1_1_Adm2:
+    GID: MYS.13.1_1
+    admin_name: Beaufort
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.10_1_Adm2:
+    GID: MYS.13.10_1
+    admin_name: Kunak
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.11_1_Adm2:
+    GID: MYS.13.11_1
+    admin_name: Lahad Datu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.12_1_Adm2:
+    GID: MYS.13.12_1
+    admin_name: Nabawan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.13_1_Adm2:
+    GID: MYS.13.13_1
+    admin_name: Papar
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.14_1_Adm2:
+    GID: MYS.13.14_1
+    admin_name: Penampang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.15_1_Adm2:
+    GID: MYS.13.15_1
+    admin_name: Pitas
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.16_1_Adm2:
+    GID: MYS.13.16_1
+    admin_name: Putatan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.17_1_Adm2:
+    GID: MYS.13.17_1
+    admin_name: Ranau
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.18_1_Adm2:
+    GID: MYS.13.18_1
+    admin_name: Sandakan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.19_1_Adm2:
+    GID: MYS.13.19_1
+    admin_name: Semporna
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.2_1_Adm2:
+    GID: MYS.13.2_1
+    admin_name: Beluran
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.20_1_Adm2:
+    GID: MYS.13.20_1
+    admin_name: Sipitang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.21_1_Adm2:
+    GID: MYS.13.21_1
+    admin_name: Tambunan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.22_1_Adm2:
+    GID: MYS.13.22_1
+    admin_name: Tawau
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.23_1_Adm2:
+    GID: MYS.13.23_1
+    admin_name: Tenom
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.24_1_Adm2:
+    GID: MYS.13.24_1
+    admin_name: Tongod
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.25_1_Adm2:
+    GID: MYS.13.25_1
+    admin_name: Tuaran
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.3_1_Adm2:
+    GID: MYS.13.3_1
+    admin_name: Keningau
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.4_1_Adm2:
+    GID: MYS.13.4_1
+    admin_name: Kinabatangan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.5_1_Adm2:
+    GID: MYS.13.5_1
+    admin_name: Kota Belud
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.6_1_Adm2:
+    GID: MYS.13.6_1
+    admin_name: Kota Kinabalu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.7_1_Adm2:
+    GID: MYS.13.7_1
+    admin_name: Kota Marudu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.8_1_Adm2:
+    GID: MYS.13.8_1
+    admin_name: Kuala Penyu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.13.9_1_Adm2:
+    GID: MYS.13.9_1
+    admin_name: Kudat
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14_1_Adm1:
+    GID: MYS.14_1
+    admin_name: Sarawak
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.14.1_1_Adm2:
+    GID: MYS.14.1_1
+    admin_name: Asajaya
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.10_1_Adm2:
+    GID: MYS.14.10_1
+    admin_name: Kapit
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.11_1_Adm2:
+    GID: MYS.14.11_1
+    admin_name: Kuching
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.12_1_Adm2:
+    GID: MYS.14.12_1
+    admin_name: Lawas
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.13_1_Adm2:
+    GID: MYS.14.13_1
+    admin_name: Limbang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.14_1_Adm2:
+    GID: MYS.14.14_1
+    admin_name: Lubok Antu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.15_1_Adm2:
+    GID: MYS.14.15_1
+    admin_name: Lundu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.16_1_Adm2:
+    GID: MYS.14.16_1
+    admin_name: Marudi
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.17_1_Adm2:
+    GID: MYS.14.17_1
+    admin_name: Matu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.18_1_Adm2:
+    GID: MYS.14.18_1
+    admin_name: Meradong
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.19_1_Adm2:
+    GID: MYS.14.19_1
+    admin_name: Miri
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.2_1_Adm2:
+    GID: MYS.14.2_1
+    admin_name: Bau
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.20_1_Adm2:
+    GID: MYS.14.20_1
+    admin_name: Mukah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.21_1_Adm2:
+    GID: MYS.14.21_1
+    admin_name: Pakan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.22_1_Adm2:
+    GID: MYS.14.22_1
+    admin_name: Samarahan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.23_1_Adm2:
+    GID: MYS.14.23_1
+    admin_name: Saratok
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.24_1_Adm2:
+    GID: MYS.14.24_1
+    admin_name: Sarikei
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.25_1_Adm2:
+    GID: MYS.14.25_1
+    admin_name: Selangau
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.26_1_Adm2:
+    GID: MYS.14.26_1
+    admin_name: Serian
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.27_1_Adm2:
+    GID: MYS.14.27_1
+    admin_name: Sibu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.28_1_Adm2:
+    GID: MYS.14.28_1
+    admin_name: Simunjan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.29_1_Adm2:
+    GID: MYS.14.29_1
+    admin_name: Song
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.3_1_Adm2:
+    GID: MYS.14.3_1
+    admin_name: Belaga
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.30_1_Adm2:
+    GID: MYS.14.30_1
+    admin_name: Sri Aman
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.31_1_Adm2:
+    GID: MYS.14.31_1
+    admin_name: Tatau
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.4_1_Adm2:
+    GID: MYS.14.4_1
+    admin_name: Betong
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.5_1_Adm2:
+    GID: MYS.14.5_1
+    admin_name: Bintulu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.6_1_Adm2:
+    GID: MYS.14.6_1
+    admin_name: Dalat
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.7_1_Adm2:
+    GID: MYS.14.7_1
+    admin_name: Daro
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.8_1_Adm2:
+    GID: MYS.14.8_1
+    admin_name: Julau
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.14.9_1_Adm2:
+    GID: MYS.14.9_1
+    admin_name: Kanowit
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15_1_Adm1:
+    GID: MYS.15_1
+    admin_name: Selangor
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.15.1_1_Adm2:
+    GID: MYS.15.1_1
+    admin_name: Gombak
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15.2_1_Adm2:
+    GID: MYS.15.2_1
+    admin_name: Hulu Langat
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15.3_1_Adm2:
+    GID: MYS.15.3_1
+    admin_name: Hulu Selangor
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15.4_1_Adm2:
+    GID: MYS.15.4_1
+    admin_name: Klang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15.5_1_Adm2:
+    GID: MYS.15.5_1
+    admin_name: Kuala Langat
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15.6_1_Adm2:
+    GID: MYS.15.6_1
+    admin_name: Kuala Selangor
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15.7_1_Adm2:
+    GID: MYS.15.7_1
+    admin_name: Petaling
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15.8_1_Adm2:
+    GID: MYS.15.8_1
+    admin_name: Sabak Bernam
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.15.9_1_Adm2:
+    GID: MYS.15.9_1
+    admin_name: Sepang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.16_1_Adm1:
+    GID: MYS.16_1
+    admin_name: Trengganu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.16.1_1_Adm2:
+    GID: MYS.16.1_1
+    admin_name: Besut
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.16.2_1_Adm2:
+    GID: MYS.16.2_1
+    admin_name: Dungun
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.16.3_1_Adm2:
+    GID: MYS.16.3_1
+    admin_name: Hulu Terengganu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.16.4_1_Adm2:
+    GID: MYS.16.4_1
+    admin_name: Kemaman
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.16.5_1_Adm2:
+    GID: MYS.16.5_1
+    admin_name: Kuala Terengganu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.16.6_1_Adm2:
+    GID: MYS.16.6_1
+    admin_name: Marang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.16.7_1_Adm2:
+    GID: MYS.16.7_1
+    admin_name: Setiu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2_1_Adm1:
+    GID: MYS.2_1
+    admin_name: Kedah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.2.1_1_Adm2:
+    GID: MYS.2.1_1
+    admin_name: Baling
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.10_1_Adm2:
+    GID: MYS.2.10_1
+    admin_name: Pokok Sena
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.11_1_Adm2:
+    GID: MYS.2.11_1
+    admin_name: Sik
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.12_1_Adm2:
+    GID: MYS.2.12_1
+    admin_name: Yan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.2_1_Adm2:
+    GID: MYS.2.2_1
+    admin_name: Bandar Baharu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.3_1_Adm2:
+    GID: MYS.2.3_1
+    admin_name: Kota Setar
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.4_1_Adm2:
+    GID: MYS.2.4_1
+    admin_name: Kuala Muda
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.5_1_Adm2:
+    GID: MYS.2.5_1
+    admin_name: Kubang Pasu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.6_1_Adm2:
+    GID: MYS.2.6_1
+    admin_name: Kulim
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.7_1_Adm2:
+    GID: MYS.2.7_1
+    admin_name: Langkawi
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.8_1_Adm2:
+    GID: MYS.2.8_1
+    admin_name: Padang Terap
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.2.9_1_Adm2:
+    GID: MYS.2.9_1
+    admin_name: Pendang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3_1_Adm1:
+    GID: MYS.3_1
+    admin_name: Kelantan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.3.1_1_Adm2:
+    GID: MYS.3.1_1
+    admin_name: Bachok
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.10_1_Adm2:
+    GID: MYS.3.10_1
+    admin_name: Tumpat
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.2_1_Adm2:
+    GID: MYS.3.2_1
+    admin_name: Gua Musang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.3_1_Adm2:
+    GID: MYS.3.3_1
+    admin_name: Jeli
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.4_1_Adm2:
+    GID: MYS.3.4_1
+    admin_name: Kota Bharu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.5_1_Adm2:
+    GID: MYS.3.5_1
+    admin_name: Kuala Krai
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.6_1_Adm2:
+    GID: MYS.3.6_1
+    admin_name: Machang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.7_1_Adm2:
+    GID: MYS.3.7_1
+    admin_name: Pasir Mas
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.8_1_Adm2:
+    GID: MYS.3.8_1
+    admin_name: Pasir Putih
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.3.9_1_Adm2:
+    GID: MYS.3.9_1
+    admin_name: Tanah Merah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.4_1_Adm1:
+    GID: MYS.4_1
+    admin_name: Kuala Lumpur
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.4.1_1_Adm2:
+    GID: MYS.4.1_1
+    admin_name: Kuala Lumpur
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.5_1_Adm1:
+    GID: MYS.5_1
+    admin_name: Labuan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.5.1_1_Adm2:
+    GID: MYS.5.1_1
+    admin_name: Labuan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.6_1_Adm1:
+    GID: MYS.6_1
+    admin_name: Melaka
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.6.1_1_Adm2:
+    GID: MYS.6.1_1
+    admin_name: Alor Gajah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.6.2_1_Adm2:
+    GID: MYS.6.2_1
+    admin_name: Jasin
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.6.3_1_Adm2:
+    GID: MYS.6.3_1
+    admin_name: Melaka Tengah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.7_1_Adm1:
+    GID: MYS.7_1
+    admin_name: Negeri Sembilan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.7.1_1_Adm2:
+    GID: MYS.7.1_1
+    admin_name: Jelebu
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.7.2_1_Adm2:
+    GID: MYS.7.2_1
+    admin_name: Jempol
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.7.3_1_Adm2:
+    GID: MYS.7.3_1
+    admin_name: Kuala Pilah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.7.4_1_Adm2:
+    GID: MYS.7.4_1
+    admin_name: Port Dickson
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.7.5_1_Adm2:
+    GID: MYS.7.5_1
+    admin_name: Rembau
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.7.6_1_Adm2:
+    GID: MYS.7.6_1
+    admin_name: Seremban
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.7.7_1_Adm2:
+    GID: MYS.7.7_1
+    admin_name: Tampin
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8_1_Adm1:
+    GID: MYS.8_1
+    admin_name: Pahang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.8.1_1_Adm2:
+    GID: MYS.8.1_1
+    admin_name: Bentong
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.10_1_Adm2:
+    GID: MYS.8.10_1
+    admin_name: Rompin
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.11_1_Adm2:
+    GID: MYS.8.11_1
+    admin_name: Temerloh
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.2_1_Adm2:
+    GID: MYS.8.2_1
+    admin_name: Bera
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.3_1_Adm2:
+    GID: MYS.8.3_1
+    admin_name: Cameron Highlands
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.4_1_Adm2:
+    GID: MYS.8.4_1
+    admin_name: Jerantut
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.5_1_Adm2:
+    GID: MYS.8.5_1
+    admin_name: Kuantan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.6_1_Adm2:
+    GID: MYS.8.6_1
+    admin_name: Lipis
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.7_1_Adm2:
+    GID: MYS.8.7_1
+    admin_name: Maran
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.8_1_Adm2:
+    GID: MYS.8.8_1
+    admin_name: Pekan
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.8.9_1_Adm2:
+    GID: MYS.8.9_1
+    admin_name: Raub
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9_1_Adm1:
+    GID: MYS.9_1
+    admin_name: Perak
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm1
+  MYS.9.1_1_Adm2:
+    GID: MYS.9.1_1
+    admin_name: Batang Padang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.10_1_Adm2:
+    GID: MYS.9.10_1
+    admin_name: Perak Tengah
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.2_1_Adm2:
+    GID: MYS.9.2_1
+    admin_name: Hilir Perak
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.3_1_Adm2:
+    GID: MYS.9.3_1
+    admin_name: Hulu Perak
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.4_1_Adm2:
+    GID: MYS.9.4_1
+    admin_name: Kampar
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.5_1_Adm2:
+    GID: MYS.9.5_1
+    admin_name: Kerian
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.6_1_Adm2:
+    GID: MYS.9.6_1
+    admin_name: Kinta
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.7_1_Adm2:
+    GID: MYS.9.7_1
+    admin_name: Kuala Kangsar
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.8_1_Adm2:
+    GID: MYS.9.8_1
+    admin_name: Larut and Matang
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2
+  MYS.9.9_1_Adm2:
+    GID: MYS.9.9_1
+    admin_name: Manjung
+    iso3c: MYS
+    country_name: Malaysia
+    admin_level: Adm2

@@ -1,0 +1,10 @@
+relations:
+    - (SMR.0_Adm0, SMR.1_1_Adm1)
+    - (SMR.0_Adm0, SMR.2_1_Adm1)
+    - (SMR.0_Adm0, SMR.3_1_Adm1)
+    - (SMR.0_Adm0, SMR.4_1_Adm1)
+    - (SMR.0_Adm0, SMR.5_1_Adm1)
+    - (SMR.0_Adm0, SMR.6_1_Adm1)
+    - (SMR.0_Adm0, SMR.7_1_Adm1)
+    - (SMR.0_Adm0, SMR.8_1_Adm1)
+    - (SMR.0_Adm0, SMR.9_1_Adm1)

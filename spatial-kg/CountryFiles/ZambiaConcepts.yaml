@@ -1,0 +1,757 @@
+concepts:
+  ZMB.0_Adm0:
+    GID: ZMB
+    admin_name: Zambia
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm0
+  ZMB.1_1_Adm1:
+    GID: ZMB.1_1
+    admin_name: Central
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.1.1_2_Adm2:
+    GID: ZMB.1.1_2
+    admin_name: Chibombo
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.10_2_Adm2:
+    GID: ZMB.1.10_2
+    admin_name: Ngabwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.11_2_Adm2:
+    GID: ZMB.1.11_2
+    admin_name: Serenje
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.2_2_Adm2:
+    GID: ZMB.1.2_2
+    admin_name: Chisamba
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.3_2_Adm2:
+    GID: ZMB.1.3_2
+    admin_name: Chitambo
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.4_2_Adm2:
+    GID: ZMB.1.4_2
+    admin_name: Itezhi-tezhi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.5_2_Adm2:
+    GID: ZMB.1.5_2
+    admin_name: Kabwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.6_2_Adm2:
+    GID: ZMB.1.6_2
+    admin_name: Kapiri Mposhi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.7_2_Adm2:
+    GID: ZMB.1.7_2
+    admin_name: Luano
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.8_2_Adm2:
+    GID: ZMB.1.8_2
+    admin_name: Mkushi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.1.9_2_Adm2:
+    GID: ZMB.1.9_2
+    admin_name: Mumbwa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10_1_Adm1:
+    GID: ZMB.10_1
+    admin_name: Western
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.10.1_2_Adm2:
+    GID: ZMB.10.1_2
+    admin_name: Kalabo
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.10_2_Adm2:
+    GID: ZMB.10.10_2
+    admin_name: Nalolo
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.11_2_Adm2:
+    GID: ZMB.10.11_2
+    admin_name: Nkeyema
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.12_2_Adm2:
+    GID: ZMB.10.12_2
+    admin_name: Senanga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.13_2_Adm2:
+    GID: ZMB.10.13_2
+    admin_name: Sesheke
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.14_2_Adm2:
+    GID: ZMB.10.14_2
+    admin_name: Shang'ombo
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.15_2_Adm2:
+    GID: ZMB.10.15_2
+    admin_name: Sikongo
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.16_2_Adm2:
+    GID: ZMB.10.16_2
+    admin_name: Sioma
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.2_2_Adm2:
+    GID: ZMB.10.2_2
+    admin_name: Kaoma
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.3_2_Adm2:
+    GID: ZMB.10.3_2
+    admin_name: Limulunga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.4_2_Adm2:
+    GID: ZMB.10.4_2
+    admin_name: Luampa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.5_2_Adm2:
+    GID: ZMB.10.5_2
+    admin_name: Lukulu
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.6_2_Adm2:
+    GID: ZMB.10.6_2
+    admin_name: Mitete
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.7_2_Adm2:
+    GID: ZMB.10.7_2
+    admin_name: Mongu
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.8_2_Adm2:
+    GID: ZMB.10.8_2
+    admin_name: Mulobezi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.10.9_2_Adm2:
+    GID: ZMB.10.9_2
+    admin_name: Mwandi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2_1_Adm1:
+    GID: ZMB.2_1
+    admin_name: Copperbelt
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.2.1_2_Adm2:
+    GID: ZMB.2.1_2
+    admin_name: Chililabombwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.10_2_Adm2:
+    GID: ZMB.2.10_2
+    admin_name: Ndola
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.2_2_Adm2:
+    GID: ZMB.2.2_2
+    admin_name: Chingola
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.3_2_Adm2:
+    GID: ZMB.2.3_2
+    admin_name: Kalulushi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.4_2_Adm2:
+    GID: ZMB.2.4_2
+    admin_name: Kitwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.5_2_Adm2:
+    GID: ZMB.2.5_2
+    admin_name: Luanshya
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.6_2_Adm2:
+    GID: ZMB.2.6_2
+    admin_name: Lufwanyama
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.7_2_Adm2:
+    GID: ZMB.2.7_2
+    admin_name: Masaiti
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.8_2_Adm2:
+    GID: ZMB.2.8_2
+    admin_name: Mpongwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.2.9_2_Adm2:
+    GID: ZMB.2.9_2
+    admin_name: Mufulira
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3_1_Adm1:
+    GID: ZMB.3_1
+    admin_name: Eastern
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.3.1_2_Adm2:
+    GID: ZMB.3.1_2
+    admin_name: Chadiza
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.10_2_Adm2:
+    GID: ZMB.3.10_2
+    admin_name: Nyimba
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.11_2_Adm2:
+    GID: ZMB.3.11_2
+    admin_name: Petauke
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.12_2_Adm2:
+    GID: ZMB.3.12_2
+    admin_name: Sinda
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.13_2_Adm2:
+    GID: ZMB.3.13_2
+    admin_name: Vubwi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.2_2_Adm2:
+    GID: ZMB.3.2_2
+    admin_name: Chasefu
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.3_2_Adm2:
+    GID: ZMB.3.3_2
+    admin_name: Chipangali
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.4_2_Adm2:
+    GID: ZMB.3.4_2
+    admin_name: Chipata
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.5_2_Adm2:
+    GID: ZMB.3.5_2
+    admin_name: Kasenengwa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.6_2_Adm2:
+    GID: ZMB.3.6_2
+    admin_name: Katete
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.7_2_Adm2:
+    GID: ZMB.3.7_2
+    admin_name: Lumezi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.8_2_Adm2:
+    GID: ZMB.3.8_2
+    admin_name: Lundazi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.3.9_2_Adm2:
+    GID: ZMB.3.9_2
+    admin_name: Mambwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4_1_Adm1:
+    GID: ZMB.4_1
+    admin_name: Luapula
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.4.1_2_Adm2:
+    GID: ZMB.4.1_2
+    admin_name: Chembe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.10_2_Adm2:
+    GID: ZMB.4.10_2
+    admin_name: Mwense
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.11_2_Adm2:
+    GID: ZMB.4.11_2
+    admin_name: Nchelenge
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.12_2_Adm2:
+    GID: ZMB.4.12_2
+    admin_name: Samfya
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.2_2_Adm2:
+    GID: ZMB.4.2_2
+    admin_name: Chiengi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.3_2_Adm2:
+    GID: ZMB.4.3_2
+    admin_name: Chifunabuli
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.4_2_Adm2:
+    GID: ZMB.4.4_2
+    admin_name: Chipili
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.5_2_Adm2:
+    GID: ZMB.4.5_2
+    admin_name: Kawambwa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.6_2_Adm2:
+    GID: ZMB.4.6_2
+    admin_name: Lunga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.7_2_Adm2:
+    GID: ZMB.4.7_2
+    admin_name: Mansa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.8_2_Adm2:
+    GID: ZMB.4.8_2
+    admin_name: Milengi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.4.9_2_Adm2:
+    GID: ZMB.4.9_2
+    admin_name: Mwansabombwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.5_1_Adm1:
+    GID: ZMB.5_1
+    admin_name: Lusaka
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.5.1_2_Adm2:
+    GID: ZMB.5.1_2
+    admin_name: Chilanga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.5.2_2_Adm2:
+    GID: ZMB.5.2_2
+    admin_name: Chirundu
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.5.3_2_Adm2:
+    GID: ZMB.5.3_2
+    admin_name: Chongwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.5.4_2_Adm2:
+    GID: ZMB.5.4_2
+    admin_name: Kafue
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.5.5_2_Adm2:
+    GID: ZMB.5.5_2
+    admin_name: Luangwa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.5.6_2_Adm2:
+    GID: ZMB.5.6_2
+    admin_name: Lusaka
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.5.7_2_Adm2:
+    GID: ZMB.5.7_2
+    admin_name: Rufunsa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.5.8_2_Adm2:
+    GID: ZMB.5.8_2
+    admin_name: Shibuyunji
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6_1_Adm1:
+    GID: ZMB.6_1
+    admin_name: Muchinga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.6.1_2_Adm2:
+    GID: ZMB.6.1_2
+    admin_name: Chama
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6.2_2_Adm2:
+    GID: ZMB.6.2_2
+    admin_name: Chinsali
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6.3_2_Adm2:
+    GID: ZMB.6.3_2
+    admin_name: Isoka
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6.4_2_Adm2:
+    GID: ZMB.6.4_2
+    admin_name: Kanchibiya
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6.5_2_Adm2:
+    GID: ZMB.6.5_2
+    admin_name: Lavushimanda
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6.6_2_Adm2:
+    GID: ZMB.6.6_2
+    admin_name: Mafinga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6.7_2_Adm2:
+    GID: ZMB.6.7_2
+    admin_name: Mpika
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6.8_2_Adm2:
+    GID: ZMB.6.8_2
+    admin_name: Nakonde
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.6.9_2_Adm2:
+    GID: ZMB.6.9_2
+    admin_name: Shiwamg'andu
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7_1_Adm1:
+    GID: ZMB.7_1
+    admin_name: North-Western
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.7.1_2_Adm2:
+    GID: ZMB.7.1_2
+    admin_name: Chavuma
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.10_2_Adm2:
+    GID: ZMB.7.10_2
+    admin_name: Solwezi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.11_2_Adm2:
+    GID: ZMB.7.11_2
+    admin_name: Zambezi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.2_2_Adm2:
+    GID: ZMB.7.2_2
+    admin_name: Ikelenge
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.3_2_Adm2:
+    GID: ZMB.7.3_2
+    admin_name: Kabompo
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.4_2_Adm2:
+    GID: ZMB.7.4_2
+    admin_name: Kalumbila
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.5_2_Adm2:
+    GID: ZMB.7.5_2
+    admin_name: Kasempa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.6_2_Adm2:
+    GID: ZMB.7.6_2
+    admin_name: Manyinga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.7_2_Adm2:
+    GID: ZMB.7.7_2
+    admin_name: Mufumbwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.8_2_Adm2:
+    GID: ZMB.7.8_2
+    admin_name: Mushindano
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.7.9_2_Adm2:
+    GID: ZMB.7.9_2
+    admin_name: Mwinilunga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8_1_Adm1:
+    GID: ZMB.8_1
+    admin_name: Northern
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.8.1_2_Adm2:
+    GID: ZMB.8.1_2
+    admin_name: Chilubi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.10_2_Adm2:
+    GID: ZMB.8.10_2
+    admin_name: Mungwi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.11_2_Adm2:
+    GID: ZMB.8.11_2
+    admin_name: Nsama
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.12_2_Adm2:
+    GID: ZMB.8.12_2
+    admin_name: Senga Hill
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.2_2_Adm2:
+    GID: ZMB.8.2_2
+    admin_name: Kaputa
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.3_2_Adm2:
+    GID: ZMB.8.3_2
+    admin_name: Kasama
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.4_2_Adm2:
+    GID: ZMB.8.4_2
+    admin_name: Lunte District
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.5_2_Adm2:
+    GID: ZMB.8.5_2
+    admin_name: Lupososhi
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.6_2_Adm2:
+    GID: ZMB.8.6_2
+    admin_name: Luwingu
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.7_2_Adm2:
+    GID: ZMB.8.7_2
+    admin_name: Mbala
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.8_2_Adm2:
+    GID: ZMB.8.8_2
+    admin_name: Mporokoso
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.8.9_2_Adm2:
+    GID: ZMB.8.9_2
+    admin_name: Mpulungu
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9_1_Adm1:
+    GID: ZMB.9_1
+    admin_name: Southern
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm1
+  ZMB.9.1_2_Adm2:
+    GID: ZMB.9.1_2
+    admin_name: Chikankanta
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.10_2_Adm2:
+    GID: ZMB.9.10_2
+    admin_name: Pemba
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.11_2_Adm2:
+    GID: ZMB.9.11_2
+    admin_name: Siavonga
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.12_2_Adm2:
+    GID: ZMB.9.12_2
+    admin_name: Sinazongwe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.13_2_Adm2:
+    GID: ZMB.9.13_2
+    admin_name: Zimba
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.2_2_Adm2:
+    GID: ZMB.9.2_2
+    admin_name: Choma
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.3_2_Adm2:
+    GID: ZMB.9.3_2
+    admin_name: Gwembe
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.4_2_Adm2:
+    GID: ZMB.9.4_2
+    admin_name: Kalomo
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.5_2_Adm2:
+    GID: ZMB.9.5_2
+    admin_name: Kazungula
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.6_2_Adm2:
+    GID: ZMB.9.6_2
+    admin_name: Livingstone
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.7_2_Adm2:
+    GID: ZMB.9.7_2
+    admin_name: Mazabuka
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.8_2_Adm2:
+    GID: ZMB.9.8_2
+    admin_name: Monze
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2
+  ZMB.9.9_2_Adm2:
+    GID: ZMB.9.9_2
+    admin_name: Namwala
+    iso3c: ZMB
+    country_name: Zambia
+    admin_level: Adm2

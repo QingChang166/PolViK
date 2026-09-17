@@ -1,0 +1,421 @@
+concepts:
+  VUT.0_Adm0:
+    GID: VUT
+    admin_name: Vanuatu
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm0
+  VUT.1_1_Adm1:
+    GID: VUT.1_1
+    admin_name: Malampa
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm1
+  VUT.1.1_1_Adm2:
+    GID: VUT.1.1_1
+    admin_name: Central Malekula
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.10_1_Adm2:
+    GID: VUT.1.10_1
+    admin_name: West Ambrym
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.2_1_Adm2:
+    GID: VUT.1.2_1
+    admin_name: North Ambrym
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.3_1_Adm2:
+    GID: VUT.1.3_1
+    admin_name: North East Malekula
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.4_1_Adm2:
+    GID: VUT.1.4_1
+    admin_name: North West Malekula
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.5_1_Adm2:
+    GID: VUT.1.5_1
+    admin_name: Paama
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.6_1_Adm2:
+    GID: VUT.1.6_1
+    admin_name: South East Ambrym
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.7_1_Adm2:
+    GID: VUT.1.7_1
+    admin_name: South East Malekula
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.8_1_Adm2:
+    GID: VUT.1.8_1
+    admin_name: South Malekula
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.1.9_1_Adm2:
+    GID: VUT.1.9_1
+    admin_name: South West Malekula
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2_1_Adm1:
+    GID: VUT.2_1
+    admin_name: Penama
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm1
+  VUT.2.1_1_Adm2:
+    GID: VUT.2.1_1
+    admin_name: Central Pentecost 1
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.10_1_Adm2:
+    GID: VUT.2.10_1
+    admin_name: West Ambae
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.2_1_Adm2:
+    GID: VUT.2.2_1
+    admin_name: Central Pentecost 2
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.3_1_Adm2:
+    GID: VUT.2.3_1
+    admin_name: East Ambae
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.4_1_Adm2:
+    GID: VUT.2.4_1
+    admin_name: North Ambae
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.5_1_Adm2:
+    GID: VUT.2.5_1
+    admin_name: North Maewo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.6_1_Adm2:
+    GID: VUT.2.6_1
+    admin_name: North Pentecost
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.7_1_Adm2:
+    GID: VUT.2.7_1
+    admin_name: South Ambae
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.8_1_Adm2:
+    GID: VUT.2.8_1
+    admin_name: South Maewo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.2.9_1_Adm2:
+    GID: VUT.2.9_1
+    admin_name: South Pentecost
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3_1_Adm1:
+    GID: VUT.3_1
+    admin_name: Sanma
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm1
+  VUT.3.1_1_Adm2:
+    GID: VUT.3.1_1
+    admin_name: Canal - Fanafo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.10_1_Adm2:
+    GID: VUT.3.10_1
+    admin_name: West Santo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.2_1_Adm2:
+    GID: VUT.3.2_1
+    admin_name: East Malo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.3_1_Adm2:
+    GID: VUT.3.3_1
+    admin_name: East Santo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.4_1_Adm2:
+    GID: VUT.3.4_1
+    admin_name: Luganville
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.5_1_Adm2:
+    GID: VUT.3.5_1
+    admin_name: North Santo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.6_1_Adm2:
+    GID: VUT.3.6_1
+    admin_name: North West Santo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.7_1_Adm2:
+    GID: VUT.3.7_1
+    admin_name: South East Santo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.8_1_Adm2:
+    GID: VUT.3.8_1
+    admin_name: South Santo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.3.9_1_Adm2:
+    GID: VUT.3.9_1
+    admin_name: West Malo
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4_1_Adm1:
+    GID: VUT.4_1
+    admin_name: Shefa
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm1
+  VUT.4.1_1_Adm2:
+    GID: VUT.4.1_1
+    admin_name: Emau
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.10_1_Adm2:
+    GID: VUT.4.10_1
+    admin_name: North Efate
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.11_1_Adm2:
+    GID: VUT.4.11_1
+    admin_name: North Tongoa
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.12_1_Adm2:
+    GID: VUT.4.12_1
+    admin_name: Pango
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.13_1_Adm2:
+    GID: VUT.4.13_1
+    admin_name: Port Vila
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.14_1_Adm2:
+    GID: VUT.4.14_1
+    admin_name: Tongariki
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.15_1_Adm2:
+    GID: VUT.4.15_1
+    admin_name: Varisu
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.16_1_Adm2:
+    GID: VUT.4.16_1
+    admin_name: Vermali
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.17_1_Adm2:
+    GID: VUT.4.17_1
+    admin_name: Vermaul
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.18_1_Adm2:
+    GID: VUT.4.18_1
+    admin_name: Yarsu
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.2_1_Adm2:
+    GID: VUT.4.2_1
+    admin_name: Erakor
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.3_1_Adm2:
+    GID: VUT.4.3_1
+    admin_name: Eratap
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.4_1_Adm2:
+    GID: VUT.4.4_1
+    admin_name: Eton
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.5_1_Adm2:
+    GID: VUT.4.5_1
+    admin_name: Ifira
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.6_1_Adm2:
+    GID: VUT.4.6_1
+    admin_name: Makimae
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.7_1_Adm2:
+    GID: VUT.4.7_1
+    admin_name: Malorua
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.8_1_Adm2:
+    GID: VUT.4.8_1
+    admin_name: Mele
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.4.9_1_Adm2:
+    GID: VUT.4.9_1
+    admin_name: Nguna
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5_1_Adm1:
+    GID: VUT.5_1
+    admin_name: Tafea
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm1
+  VUT.5.1_1_Adm2:
+    GID: VUT.5.1_1
+    admin_name: Aneityum
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.10_1_Adm2:
+    GID: VUT.5.10_1
+    admin_name: West Tanna
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.11_1_Adm2:
+    GID: VUT.5.11_1
+    admin_name: Whitesands
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.2_1_Adm2:
+    GID: VUT.5.2_1
+    admin_name: Aniwa
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.3_1_Adm2:
+    GID: VUT.5.3_1
+    admin_name: Futuna
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.4_1_Adm2:
+    GID: VUT.5.4_1
+    admin_name: Middle Bush Tanna
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.5_1_Adm2:
+    GID: VUT.5.5_1
+    admin_name: North Erromango
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.6_1_Adm2:
+    GID: VUT.5.6_1
+    admin_name: North Tanna
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.7_1_Adm2:
+    GID: VUT.5.7_1
+    admin_name: South Erromango
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.8_1_Adm2:
+    GID: VUT.5.8_1
+    admin_name: South Tanna
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.5.9_1_Adm2:
+    GID: VUT.5.9_1
+    admin_name: South West Tanna
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.6_1_Adm1:
+    GID: VUT.6_1
+    admin_name: Torba
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm1
+  VUT.6.1_1_Adm2:
+    GID: VUT.6.1_1
+    admin_name: Central Torba
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.6.2_1_Adm2:
+    GID: VUT.6.2_1
+    admin_name: Northern Torba
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.6.3_1_Adm2:
+    GID: VUT.6.3_1
+    admin_name: South Torba
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2
+  VUT.6.4_1_Adm2:
+    GID: VUT.6.4_1
+    admin_name: Southern Torba
+    iso3c: VUT
+    country_name: Vanuatu
+    admin_level: Adm2

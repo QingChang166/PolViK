@@ -1,0 +1,1135 @@
+concepts:
+  KAZ.0_Adm0:
+    GID: KAZ
+    admin_name: Kazakhstan
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm0
+  KAZ.1_1_Adm1:
+    GID: KAZ.1_1
+    admin_name: Almaty
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.1.1_1_Adm2:
+    GID: KAZ.1.1_1
+    admin_name: Aksuskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.10_1_Adm2:
+    GID: KAZ.1.10_1
+    admin_name: Koksuskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.11_1_Adm2:
+    GID: KAZ.1.11_1
+    admin_name: Panfilovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.12_1_Adm2:
+    GID: KAZ.1.12_1
+    admin_name: Raiymbekskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.13_1_Adm2:
+    GID: KAZ.1.13_1
+    admin_name: Sarkandskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.14_1_Adm2:
+    GID: KAZ.1.14_1
+    admin_name: Taldyqorghan
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.15_1_Adm2:
+    GID: KAZ.1.15_1
+    admin_name: Talgarskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.16_1_Adm2:
+    GID: KAZ.1.16_1
+    admin_name: Uygurskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.17_1_Adm2:
+    GID: KAZ.1.17_1
+    admin_name: Zhambylskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.2_1_Adm2:
+    GID: KAZ.1.2_1
+    admin_name: Alakolskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.3_1_Adm2:
+    GID: KAZ.1.3_1
+    admin_name: Almaty (Alma-Ata)
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.4_1_Adm2:
+    GID: KAZ.1.4_1
+    admin_name: Balkhashskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.5_1_Adm2:
+    GID: KAZ.1.5_1
+    admin_name: Enbekshikazakhskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.6_1_Adm2:
+    GID: KAZ.1.6_1
+    admin_name: Iliyskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.7_1_Adm2:
+    GID: KAZ.1.7_1
+    admin_name: Karasayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.8_1_Adm2:
+    GID: KAZ.1.8_1
+    admin_name: Karatal`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.1.9_1_Adm2:
+    GID: KAZ.1.9_1
+    admin_name: Kerbulakskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10_1_Adm1:
+    GID: KAZ.10_1
+    admin_name: Qostanay
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.10.1_1_Adm2:
+    GID: KAZ.10.1_1
+    admin_name: Altynsarinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.10_1_Adm2:
+    GID: KAZ.10.10_1
+    admin_name: Karasuskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.11_1_Adm2:
+    GID: KAZ.10.11_1
+    admin_name: Mendykarinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.12_1_Adm2:
+    GID: KAZ.10.12_1
+    admin_name: Naurzumskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.13_1_Adm2:
+    GID: KAZ.10.13_1
+    admin_name: Qostanay
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.14_1_Adm2:
+    GID: KAZ.10.14_1
+    admin_name: Sarykol`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.15_1_Adm2:
+    GID: KAZ.10.15_1
+    admin_name: Taranovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.16_1_Adm2:
+    GID: KAZ.10.16_1
+    admin_name: Uzunkol`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.17_1_Adm2:
+    GID: KAZ.10.17_1
+    admin_name: Zhitikarinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.2_1_Adm2:
+    GID: KAZ.10.2_1
+    admin_name: Amangel`dinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.3_1_Adm2:
+    GID: KAZ.10.3_1
+    admin_name: Arkalyk
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.4_1_Adm2:
+    GID: KAZ.10.4_1
+    admin_name: Auliekol`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.5_1_Adm2:
+    GID: KAZ.10.5_1
+    admin_name: Denisovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.6_1_Adm2:
+    GID: KAZ.10.6_1
+    admin_name: Dzhangil`dinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.7_1_Adm2:
+    GID: KAZ.10.7_1
+    admin_name: Fyodorovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.8_1_Adm2:
+    GID: KAZ.10.8_1
+    admin_name: Kamystinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.10.9_1_Adm2:
+    GID: KAZ.10.9_1
+    admin_name: Karabalykskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.11_1_Adm1:
+    GID: KAZ.11_1
+    admin_name: Qyzylorda
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.11.1_1_Adm2:
+    GID: KAZ.11.1_1
+    admin_name: Aral`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.11.2_1_Adm2:
+    GID: KAZ.11.2_1
+    admin_name: Karmakchinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.11.3_1_Adm2:
+    GID: KAZ.11.3_1
+    admin_name: Kazalinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.11.4_1_Adm2:
+    GID: KAZ.11.4_1
+    admin_name: Qyzylorda
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.11.5_1_Adm2:
+    GID: KAZ.11.5_1
+    admin_name: Shieliyskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.11.6_1_Adm2:
+    GID: KAZ.11.6_1
+    admin_name: Terenozekskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.11.7_1_Adm2:
+    GID: KAZ.11.7_1
+    admin_name: Zhalagashskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.11.8_1_Adm2:
+    GID: KAZ.11.8_1
+    admin_name: Zhanakorganskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12_1_Adm1:
+    GID: KAZ.12_1
+    admin_name: South Kazakhstan
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.12.1_1_Adm2:
+    GID: KAZ.12.1_1
+    admin_name: Arysskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.10_1_Adm2:
+    GID: KAZ.12.10_1
+    admin_name: Shymkent
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.11_1_Adm2:
+    GID: KAZ.12.11_1
+    admin_name: Suzakskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.12_1_Adm2:
+    GID: KAZ.12.12_1
+    admin_name: Tolebiyskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.13_1_Adm2:
+    GID: KAZ.12.13_1
+    admin_name: Turkestan
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.14_1_Adm2:
+    GID: KAZ.12.14_1
+    admin_name: Tyul`kubaskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.2_1_Adm2:
+    GID: KAZ.12.2_1
+    admin_name: Baydibekskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.3_1_Adm2:
+    GID: KAZ.12.3_1
+    admin_name: Chardarinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.4_1_Adm2:
+    GID: KAZ.12.4_1
+    admin_name: Kazygurtskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.5_1_Adm2:
+    GID: KAZ.12.5_1
+    admin_name: Maktaaral`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.6_1_Adm2:
+    GID: KAZ.12.6_1
+    admin_name: Ordabasynskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.7_1_Adm2:
+    GID: KAZ.12.7_1
+    admin_name: Otrarskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.8_1_Adm2:
+    GID: KAZ.12.8_1
+    admin_name: Saryagashskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.12.9_1_Adm2:
+    GID: KAZ.12.9_1
+    admin_name: Sayramskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13_1_Adm1:
+    GID: KAZ.13_1
+    admin_name: West Kazakhstan
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.13.1_1_Adm2:
+    GID: KAZ.13.1_1
+    admin_name: Akzhaikskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.10_1_Adm2:
+    GID: KAZ.13.10_1
+    admin_name: Terektinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.11_1_Adm2:
+    GID: KAZ.13.11_1
+    admin_name: Urdinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.12_1_Adm2:
+    GID: KAZ.13.12_1
+    admin_name: Zelenovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.2_1_Adm2:
+    GID: KAZ.13.2_1
+    admin_name: Burlinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.3_1_Adm2:
+    GID: KAZ.13.3_1
+    admin_name: Chingirlauskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.4_1_Adm2:
+    GID: KAZ.13.4_1
+    admin_name: Dzhangalinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.5_1_Adm2:
+    GID: KAZ.13.5_1
+    admin_name: Dzhanybekskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.6_1_Adm2:
+    GID: KAZ.13.6_1
+    admin_name: Karatobinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.7_1_Adm2:
+    GID: KAZ.13.7_1
+    admin_name: Kaztalovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.8_1_Adm2:
+    GID: KAZ.13.8_1
+    admin_name: Syrymskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.13.9_1_Adm2:
+    GID: KAZ.13.9_1
+    admin_name: Taskalinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14_1_Adm1:
+    GID: KAZ.14_1
+    admin_name: Zhambyl
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.14.1_1_Adm2:
+    GID: KAZ.14.1_1
+    admin_name: Bayzakskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.10_1_Adm2:
+    GID: KAZ.14.10_1
+    admin_name: Zhambylskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.11_1_Adm2:
+    GID: KAZ.14.11_1
+    admin_name: Zhualy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.12_1_Adm2:
+    GID: KAZ.14.12_1
+    admin_name: Zhualynskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.2_1_Adm2:
+    GID: KAZ.14.2_1
+    admin_name: Kordayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.3_1_Adm2:
+    GID: KAZ.14.3_1
+    admin_name: Lugovskoy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.4_1_Adm2:
+    GID: KAZ.14.4_1
+    admin_name: Merkenskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.5_1_Adm2:
+    GID: KAZ.14.5_1
+    admin_name: Moyynkumskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.6_1_Adm2:
+    GID: KAZ.14.6_1
+    admin_name: Sarysuskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.7_1_Adm2:
+    GID: KAZ.14.7_1
+    admin_name: Shuskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.8_1_Adm2:
+    GID: KAZ.14.8_1
+    admin_name: Talasskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.14.9_1_Adm2:
+    GID: KAZ.14.9_1
+    admin_name: Zhamb.
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2_1_Adm1:
+    GID: KAZ.2_1
+    admin_name: Aqmola
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.2.1_1_Adm2:
+    GID: KAZ.2.1_1
+    admin_name: Akkol`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.10_1_Adm2:
+    GID: KAZ.2.10_1
+    admin_name: Korgalzhynskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.11_1_Adm2:
+    GID: KAZ.2.11_1
+    admin_name: Sandyktauskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.12_1_Adm2:
+    GID: KAZ.2.12_1
+    admin_name: Shortandinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.13_1_Adm2:
+    GID: KAZ.2.13_1
+    admin_name: Shuchinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.14_1_Adm2:
+    GID: KAZ.2.14_1
+    admin_name: Tselinogradskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.15_1_Adm2:
+    GID: KAZ.2.15_1
+    admin_name: Zerendinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.16_1_Adm2:
+    GID: KAZ.2.16_1
+    admin_name: Zhaksynskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.17_1_Adm2:
+    GID: KAZ.2.17_1
+    admin_name: Zharkainskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.2_1_Adm2:
+    GID: KAZ.2.2_1
+    admin_name: Arshalynskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.3_1_Adm2:
+    GID: KAZ.2.3_1
+    admin_name: Astrakhansiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.4_1_Adm2:
+    GID: KAZ.2.4_1
+    admin_name: Atbasarskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.5_1_Adm2:
+    GID: KAZ.2.5_1
+    admin_name: Bulandynskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.6_1_Adm2:
+    GID: KAZ.2.6_1
+    admin_name: Egindykol`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.7_1_Adm2:
+    GID: KAZ.2.7_1
+    admin_name: Enbekshil`derskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.8_1_Adm2:
+    GID: KAZ.2.8_1
+    admin_name: Ereymengauskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.2.9_1_Adm2:
+    GID: KAZ.2.9_1
+    admin_name: Esil`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3_1_Adm1:
+    GID: KAZ.3_1
+    admin_name: Aqtöbe
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.3.1_1_Adm2:
+    GID: KAZ.3.1_1
+    admin_name: Alginskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.10_1_Adm2:
+    GID: KAZ.3.10_1
+    admin_name: Mugalzharskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.11_1_Adm2:
+    GID: KAZ.3.11_1
+    admin_name: Shalkarskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.12_1_Adm2:
+    GID: KAZ.3.12_1
+    admin_name: Temirskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.13_1_Adm2:
+    GID: KAZ.3.13_1
+    admin_name: Uilskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.2_1_Adm2:
+    GID: KAZ.3.2_1
+    admin_name: Aqtobe
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.3_1_Adm2:
+    GID: KAZ.3.3_1
+    admin_name: Aytekebiyskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.4_1_Adm2:
+    GID: KAZ.3.4_1
+    admin_name: Bayganinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.5_1_Adm2:
+    GID: KAZ.3.5_1
+    admin_name: Irgizskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.6_1_Adm2:
+    GID: KAZ.3.6_1
+    admin_name: Kargalinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.7_1_Adm2:
+    GID: KAZ.3.7_1
+    admin_name: Khobdinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.8_1_Adm2:
+    GID: KAZ.3.8_1
+    admin_name: Khromtauskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.3.9_1_Adm2:
+    GID: KAZ.3.9_1
+    admin_name: Martukskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.4_1_Adm1:
+    GID: KAZ.4_1
+    admin_name: Atyrau
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.4.1_1_Adm2:
+    GID: KAZ.4.1_1
+    admin_name: Atyrau
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.4.2_1_Adm2:
+    GID: KAZ.4.2_1
+    admin_name: Inderskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.4.3_1_Adm2:
+    GID: KAZ.4.3_1
+    admin_name: Isatayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.4.4_1_Adm2:
+    GID: KAZ.4.4_1
+    admin_name: Kurmangazinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.4.5_1_Adm2:
+    GID: KAZ.4.5_1
+    admin_name: Kzylkoginskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.4.6_1_Adm2:
+    GID: KAZ.4.6_1
+    admin_name: Makatskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.4.7_1_Adm2:
+    GID: KAZ.4.7_1
+    admin_name: Makhambetskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.4.8_1_Adm2:
+    GID: KAZ.4.8_1
+    admin_name: Zhylyoyskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5_1_Adm1:
+    GID: KAZ.5_1
+    admin_name: East Kazakhstan
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.5.1_1_Adm2:
+    GID: KAZ.5.1_1
+    admin_name: Abayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.10_1_Adm2:
+    GID: KAZ.5.10_1
+    admin_name: Semipalatinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.11_1_Adm2:
+    GID: KAZ.5.11_1
+    admin_name: Shemonaikhinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.12_1_Adm2:
+    GID: KAZ.5.12_1
+    admin_name: Tarbagatayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.13_1_Adm2:
+    GID: KAZ.5.13_1
+    admin_name: Ulanskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.14_1_Adm2:
+    GID: KAZ.5.14_1
+    admin_name: Urdzharskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.15_1_Adm2:
+    GID: KAZ.5.15_1
+    admin_name: Zaysanskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.16_1_Adm2:
+    GID: KAZ.5.16_1
+    admin_name: Zharminskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.17_1_Adm2:
+    GID: KAZ.5.17_1
+    admin_name: Zyryanovsk
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.2_1_Adm2:
+    GID: KAZ.5.2_1
+    admin_name: Ayagozskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.3_1_Adm2:
+    GID: KAZ.5.3_1
+    admin_name: Beskaragayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.4_1_Adm2:
+    GID: KAZ.5.4_1
+    admin_name: Borodulikhinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.5_1_Adm2:
+    GID: KAZ.5.5_1
+    admin_name: Glubokovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.6_1_Adm2:
+    GID: KAZ.5.6_1
+    admin_name: Katon-Karagayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.7_1_Adm2:
+    GID: KAZ.5.7_1
+    admin_name: Kokpektinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.8_1_Adm2:
+    GID: KAZ.5.8_1
+    admin_name: Kurchumskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.5.9_1_Adm2:
+    GID: KAZ.5.9_1
+    admin_name: Leninogorsk
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.6_1_Adm1:
+    GID: KAZ.6_1
+    admin_name: Mangghystau
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.6.1_1_Adm2:
+    GID: KAZ.6.1_1
+    admin_name: Aqtau
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.6.2_1_Adm2:
+    GID: KAZ.6.2_1
+    admin_name: Beyneuskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.6.3_1_Adm2:
+    GID: KAZ.6.3_1
+    admin_name: Karakiyanskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.6.4_1_Adm2:
+    GID: KAZ.6.4_1
+    admin_name: Manghystauskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.6.5_1_Adm2:
+    GID: KAZ.6.5_1
+    admin_name: Tupkaraganskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7_1_Adm1:
+    GID: KAZ.7_1
+    admin_name: North Kazakhstan
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.7.1_1_Adm2:
+    GID: KAZ.7.1_1
+    admin_name: Akzharskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.10_1_Adm2:
+    GID: KAZ.7.10_1
+    admin_name: Timiryazevskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.11_1_Adm2:
+    GID: KAZ.7.11_1
+    admin_name: Tselinniy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.12_1_Adm2:
+    GID: KAZ.7.12_1
+    admin_name: Ualikhanovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.13_1_Adm2:
+    GID: KAZ.7.13_1
+    admin_name: Zhambylskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.2_1_Adm2:
+    GID: KAZ.7.2_1
+    admin_name: Ayyrtauskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.3_1_Adm2:
+    GID: KAZ.7.3_1
+    admin_name: Bulaevskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.4_1_Adm2:
+    GID: KAZ.7.4_1
+    admin_name: Esil`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.5_1_Adm2:
+    GID: KAZ.7.5_1
+    admin_name: Kyzylzharskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.6_1_Adm2:
+    GID: KAZ.7.6_1
+    admin_name: Mamlyutskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.7_1_Adm2:
+    GID: KAZ.7.7_1
+    admin_name: Shal Akyna
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.8_1_Adm2:
+    GID: KAZ.7.8_1
+    admin_name: Sovetskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.7.9_1_Adm2:
+    GID: KAZ.7.9_1
+    admin_name: Taiynshinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8_1_Adm1:
+    GID: KAZ.8_1
+    admin_name: Pavlodar
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.8.1_1_Adm2:
+    GID: KAZ.8.1_1
+    admin_name: Aksuskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.10_1_Adm2:
+    GID: KAZ.8.10_1
+    admin_name: Sherbaktinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.11_1_Adm2:
+    GID: KAZ.8.11_1
+    admin_name: Uspenskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.12_1_Adm2:
+    GID: KAZ.8.12_1
+    admin_name: Zhelezinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.2_1_Adm2:
+    GID: KAZ.8.2_1
+    admin_name: Aktogayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.3_1_Adm2:
+    GID: KAZ.8.3_1
+    admin_name: Bayanaul`skiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.4_1_Adm2:
+    GID: KAZ.8.4_1
+    admin_name: Ekibastuz
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.5_1_Adm2:
+    GID: KAZ.8.5_1
+    admin_name: Irtyshskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.6_1_Adm2:
+    GID: KAZ.8.6_1
+    admin_name: Kachirskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.7_1_Adm2:
+    GID: KAZ.8.7_1
+    admin_name: Lebyazhinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.8_1_Adm2:
+    GID: KAZ.8.8_1
+    admin_name: Mayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.8.9_1_Adm2:
+    GID: KAZ.8.9_1
+    admin_name: Pavlodarskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9_1_Adm1:
+    GID: KAZ.9_1
+    admin_name: Qaraghandy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm1
+  KAZ.9.1_1_Adm2:
+    GID: KAZ.9.1_1
+    admin_name: Abayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9.2_1_Adm2:
+    GID: KAZ.9.2_1
+    admin_name: Aktogayskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9.3_1_Adm2:
+    GID: KAZ.9.3_1
+    admin_name: Bukhar-Zhyrauskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9.4_1_Adm2:
+    GID: KAZ.9.4_1
+    admin_name: Karkaralinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9.5_1_Adm2:
+    GID: KAZ.9.5_1
+    admin_name: Nurinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9.6_1_Adm2:
+    GID: KAZ.9.6_1
+    admin_name: Osakarovskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9.7_1_Adm2:
+    GID: KAZ.9.7_1
+    admin_name: Shetskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9.8_1_Adm2:
+    GID: KAZ.9.8_1
+    admin_name: Ulytauskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2
+  KAZ.9.9_1_Adm2:
+    GID: KAZ.9.9_1
+    admin_name: Zhanaarkinskiy
+    iso3c: KAZ
+    country_name: Kazakhstan
+    admin_level: Adm2

@@ -1,0 +1,10 @@
+relations:
+    - (TUV.0_Adm0, TUV.1_1_Adm1)
+    - (TUV.0_Adm0, TUV.2_1_Adm1)
+    - (TUV.0_Adm0, TUV.3_1_Adm1)
+    - (TUV.0_Adm0, TUV.4_1_Adm1)
+    - (TUV.0_Adm0, TUV.5_1_Adm1)
+    - (TUV.0_Adm0, TUV.6_1_Adm1)
+    - (TUV.0_Adm0, TUV.7_1_Adm1)
+    - (TUV.0_Adm0, TUV.8_1_Adm1)
+    - (TUV.0_Adm0, TUV.9_1_Adm1)

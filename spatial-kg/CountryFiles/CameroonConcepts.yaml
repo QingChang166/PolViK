@@ -1,0 +1,415 @@
+concepts:
+  CMR.0_Adm0:
+    GID: CMR
+    admin_name: Cameroon
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm0
+  CMR.1_1_Adm1:
+    GID: CMR.1_1
+    admin_name: Adamaoua
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.1.1_1_Adm2:
+    GID: CMR.1.1_1
+    admin_name: Djerem
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.1.2_1_Adm2:
+    GID: CMR.1.2_1
+    admin_name: Faro et Déo
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.1.3_1_Adm2:
+    GID: CMR.1.3_1
+    admin_name: Mayo Banyo
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.1.4_1_Adm2:
+    GID: CMR.1.4_1
+    admin_name: Mbéré
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.1.5_1_Adm2:
+    GID: CMR.1.5_1
+    admin_name: Vina
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.10_1_Adm1:
+    GID: CMR.10_1
+    admin_name: Sud
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.10.1_1_Adm2:
+    GID: CMR.10.1_1
+    admin_name: Dja et Lobo
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.10.2_1_Adm2:
+    GID: CMR.10.2_1
+    admin_name: Mvila
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.10.3_1_Adm2:
+    GID: CMR.10.3_1
+    admin_name: Océan
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.10.4_1_Adm2:
+    GID: CMR.10.4_1
+    admin_name: Vallée du Ntem
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2_1_Adm1:
+    GID: CMR.2_1
+    admin_name: Centre
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.2.1_1_Adm2:
+    GID: CMR.2.1_1
+    admin_name: Haute Sanaga
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.10_1_Adm2:
+    GID: CMR.2.10_1
+    admin_name: Nyong et So'o
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.2_1_Adm2:
+    GID: CMR.2.2_1
+    admin_name: Lekié
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.3_1_Adm2:
+    GID: CMR.2.3_1
+    admin_name: Mbam et Inoubou
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.4_1_Adm2:
+    GID: CMR.2.4_1
+    admin_name: Mbam et Kim
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.5_1_Adm2:
+    GID: CMR.2.5_1
+    admin_name: Mefou et Afamba
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.6_1_Adm2:
+    GID: CMR.2.6_1
+    admin_name: Mefou et Akono
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.7_1_Adm2:
+    GID: CMR.2.7_1
+    admin_name: Mfoundi
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.8_1_Adm2:
+    GID: CMR.2.8_1
+    admin_name: Nyong et Kéllé
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.2.9_1_Adm2:
+    GID: CMR.2.9_1
+    admin_name: Nyong et Mfoumou
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.3_1_Adm1:
+    GID: CMR.3_1
+    admin_name: Est
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.3.1_1_Adm2:
+    GID: CMR.3.1_1
+    admin_name: Boumba et Ngoko
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.3.2_1_Adm2:
+    GID: CMR.3.2_1
+    admin_name: Haut Nyong
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.3.3_1_Adm2:
+    GID: CMR.3.3_1
+    admin_name: Kadey
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.3.4_1_Adm2:
+    GID: CMR.3.4_1
+    admin_name: Lom et Djerem
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.4_1_Adm1:
+    GID: CMR.4_1
+    admin_name: Extrême-Nord
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.4.1_1_Adm2:
+    GID: CMR.4.1_1
+    admin_name: Diamaré
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.4.2_1_Adm2:
+    GID: CMR.4.2_1
+    admin_name: Logone et Chari
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.4.3_1_Adm2:
+    GID: CMR.4.3_1
+    admin_name: Mayo Danay
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.4.4_1_Adm2:
+    GID: CMR.4.4_1
+    admin_name: Mayo Kani
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.4.5_1_Adm2:
+    GID: CMR.4.5_1
+    admin_name: Mayo Sava
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.4.6_1_Adm2:
+    GID: CMR.4.6_1
+    admin_name: Mayo Tsanaga
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.5_1_Adm1:
+    GID: CMR.5_1
+    admin_name: Littoral
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.5.1_1_Adm2:
+    GID: CMR.5.1_1
+    admin_name: Moungo
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.5.2_1_Adm2:
+    GID: CMR.5.2_1
+    admin_name: Nkam
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.5.3_1_Adm2:
+    GID: CMR.5.3_1
+    admin_name: Sanaga Maritime
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.5.4_1_Adm2:
+    GID: CMR.5.4_1
+    admin_name: Wouri
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.6_1_Adm1:
+    GID: CMR.6_1
+    admin_name: Nord-Ouest
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.6.1_1_Adm2:
+    GID: CMR.6.1_1
+    admin_name: Boyo
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.6.2_1_Adm2:
+    GID: CMR.6.2_1
+    admin_name: Bui
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.6.3_1_Adm2:
+    GID: CMR.6.3_1
+    admin_name: Donga Mantung
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.6.4_1_Adm2:
+    GID: CMR.6.4_1
+    admin_name: Menchum
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.6.5_1_Adm2:
+    GID: CMR.6.5_1
+    admin_name: Mezam
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.6.6_1_Adm2:
+    GID: CMR.6.6_1
+    admin_name: Momo
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.6.7_1_Adm2:
+    GID: CMR.6.7_1
+    admin_name: Ngo Ketunjia
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.7_1_Adm1:
+    GID: CMR.7_1
+    admin_name: Nord
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.7.1_1_Adm2:
+    GID: CMR.7.1_1
+    admin_name: Bénoué
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.7.2_1_Adm2:
+    GID: CMR.7.2_1
+    admin_name: Faro
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.7.3_1_Adm2:
+    GID: CMR.7.3_1
+    admin_name: Mayo Louti
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.7.4_1_Adm2:
+    GID: CMR.7.4_1
+    admin_name: Mayo Rey
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.8_1_Adm1:
+    GID: CMR.8_1
+    admin_name: Ouest
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.8.1_1_Adm2:
+    GID: CMR.8.1_1
+    admin_name: Bamboutos
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.8.2_1_Adm2:
+    GID: CMR.8.2_1
+    admin_name: Haut Nkam
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.8.3_1_Adm2:
+    GID: CMR.8.3_1
+    admin_name: Hauts Plateaux
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.8.4_1_Adm2:
+    GID: CMR.8.4_1
+    admin_name: Koung Khi
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.8.5_1_Adm2:
+    GID: CMR.8.5_1
+    admin_name: Menoua
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.8.6_1_Adm2:
+    GID: CMR.8.6_1
+    admin_name: Mifi
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.8.7_1_Adm2:
+    GID: CMR.8.7_1
+    admin_name: Ndé
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.8.8_1_Adm2:
+    GID: CMR.8.8_1
+    admin_name: Noun
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.9_1_Adm1:
+    GID: CMR.9_1
+    admin_name: Sud-Ouest
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm1
+  CMR.9.1_1_Adm2:
+    GID: CMR.9.1_1
+    admin_name: Fako
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.9.2_1_Adm2:
+    GID: CMR.9.2_1
+    admin_name: Koupé Manengouba
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.9.3_1_Adm2:
+    GID: CMR.9.3_1
+    admin_name: Lebialem
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.9.4_1_Adm2:
+    GID: CMR.9.4_1
+    admin_name: Manyu
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.9.5_1_Adm2:
+    GID: CMR.9.5_1
+    admin_name: Meme
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2
+  CMR.9.6_1_Adm2:
+    GID: CMR.9.6_1
+    admin_name: Ndian
+    iso3c: CMR
+    country_name: Cameroon
+    admin_level: Adm2

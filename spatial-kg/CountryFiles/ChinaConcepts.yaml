@@ -1,0 +1,2437 @@
+concepts:
+  CHN.0_Adm0:
+    GID: CHN
+    admin_name: China
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm0
+  CHN.1_1_Adm1:
+    GID: CHN.1_1
+    admin_name: Anhui
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.1.1_1_Adm2:
+    GID: CHN.1.1_1
+    admin_name: Anqing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.10_1_Adm2:
+    GID: CHN.1.10_1
+    admin_name: Huainan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.11_1_Adm2:
+    GID: CHN.1.11_1
+    admin_name: Huangshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.12_1_Adm2:
+    GID: CHN.1.12_1
+    admin_name: Lu'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.13_1_Adm2:
+    GID: CHN.1.13_1
+    admin_name: Ma'anshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.14_1_Adm2:
+    GID: CHN.1.14_1
+    admin_name: Suzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.15_1_Adm2:
+    GID: CHN.1.15_1
+    admin_name: Tongling
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.16_1_Adm2:
+    GID: CHN.1.16_1
+    admin_name: Wuhu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.17_1_Adm2:
+    GID: CHN.1.17_1
+    admin_name: Xuancheng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.2_1_Adm2:
+    GID: CHN.1.2_1
+    admin_name: Bengbu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.3_1_Adm2:
+    GID: CHN.1.3_1
+    admin_name: Bozhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.4_1_Adm2:
+    GID: CHN.1.4_1
+    admin_name: Chaohu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.5_1_Adm2:
+    GID: CHN.1.5_1
+    admin_name: Chizhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.6_1_Adm2:
+    GID: CHN.1.6_1
+    admin_name: Chuzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.7_1_Adm2:
+    GID: CHN.1.7_1
+    admin_name: Fuyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.8_1_Adm2:
+    GID: CHN.1.8_1
+    admin_name: Hefei
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.1.9_1_Adm2:
+    GID: CHN.1.9_1
+    admin_name: Huaibei
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10_1_Adm1:
+    GID: CHN.10_1
+    admin_name: Hebei
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.10.1_1_Adm2:
+    GID: CHN.10.1_1
+    admin_name: Baoding
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.10_1_Adm2:
+    GID: CHN.10.10_1
+    admin_name: Xingtai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.11_1_Adm2:
+    GID: CHN.10.11_1
+    admin_name: Zhangjiakou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.2_1_Adm2:
+    GID: CHN.10.2_1
+    admin_name: Cangzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.3_1_Adm2:
+    GID: CHN.10.3_1
+    admin_name: Chengde
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.4_1_Adm2:
+    GID: CHN.10.4_1
+    admin_name: Handan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.5_1_Adm2:
+    GID: CHN.10.5_1
+    admin_name: Hengshui
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.6_1_Adm2:
+    GID: CHN.10.6_1
+    admin_name: Langfang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.7_1_Adm2:
+    GID: CHN.10.7_1
+    admin_name: Qinhuangdao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.8_1_Adm2:
+    GID: CHN.10.8_1
+    admin_name: Shijiazhuang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.10.9_1_Adm2:
+    GID: CHN.10.9_1
+    admin_name: Tangshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11_1_Adm1:
+    GID: CHN.11_1
+    admin_name: Heilongjiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.11.1_1_Adm2:
+    GID: CHN.11.1_1
+    admin_name: Daqing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.10_1_Adm2:
+    GID: CHN.11.10_1
+    admin_name: Qitaihe
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.11_1_Adm2:
+    GID: CHN.11.11_1
+    admin_name: Shuangyashan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.12_1_Adm2:
+    GID: CHN.11.12_1
+    admin_name: Suihua
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.13_1_Adm2:
+    GID: CHN.11.13_1
+    admin_name: Yichun
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.2_1_Adm2:
+    GID: CHN.11.2_1
+    admin_name: Daxing'anling
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.3_1_Adm2:
+    GID: CHN.11.3_1
+    admin_name: Harbin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.4_1_Adm2:
+    GID: CHN.11.4_1
+    admin_name: Hegang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.5_1_Adm2:
+    GID: CHN.11.5_1
+    admin_name: Heihe
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.6_1_Adm2:
+    GID: CHN.11.6_1
+    admin_name: Jiamusi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.7_1_Adm2:
+    GID: CHN.11.7_1
+    admin_name: Jixi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.8_1_Adm2:
+    GID: CHN.11.8_1
+    admin_name: Mudanjiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.11.9_1_Adm2:
+    GID: CHN.11.9_1
+    admin_name: Qiqihar
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12_1_Adm1:
+    GID: CHN.12_1
+    admin_name: Henan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.12.1_1_Adm2:
+    GID: CHN.12.1_1
+    admin_name: Anyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.10_1_Adm2:
+    GID: CHN.12.10_1
+    admin_name: Puyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.11_1_Adm2:
+    GID: CHN.12.11_1
+    admin_name: Sanmenxia
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.12_1_Adm2:
+    GID: CHN.12.12_1
+    admin_name: Shangqiu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.13_1_Adm2:
+    GID: CHN.12.13_1
+    admin_name: Xinxiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.14_1_Adm2:
+    GID: CHN.12.14_1
+    admin_name: Xinyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.15_1_Adm2:
+    GID: CHN.12.15_1
+    admin_name: Xuchang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.16_1_Adm2:
+    GID: CHN.12.16_1
+    admin_name: Zhengzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.17_1_Adm2:
+    GID: CHN.12.17_1
+    admin_name: Zhoukou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.18_1_Adm2:
+    GID: CHN.12.18_1
+    admin_name: Zhumadian
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.2_1_Adm2:
+    GID: CHN.12.2_1
+    admin_name: Hebi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.3_1_Adm2:
+    GID: CHN.12.3_1
+    admin_name: Jiaozuo
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.4_1_Adm2:
+    GID: CHN.12.4_1
+    admin_name: Jiyuan shi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.5_1_Adm2:
+    GID: CHN.12.5_1
+    admin_name: Kaifeng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.6_1_Adm2:
+    GID: CHN.12.6_1
+    admin_name: Luohe
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.7_1_Adm2:
+    GID: CHN.12.7_1
+    admin_name: Luoyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.8_1_Adm2:
+    GID: CHN.12.8_1
+    admin_name: Nanyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.12.9_1_Adm2:
+    GID: CHN.12.9_1
+    admin_name: Pingdingshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13_1_Adm1:
+    GID: CHN.13_1
+    admin_name: Hubei
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.13.1_1_Adm2:
+    GID: CHN.13.1_1
+    admin_name: Enshi Tujia and Miao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.10_1_Adm2:
+    GID: CHN.13.10_1
+    admin_name: Suizhou Shi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.11_1_Adm2:
+    GID: CHN.13.11_1
+    admin_name: Tianmen
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.12_1_Adm2:
+    GID: CHN.13.12_1
+    admin_name: Wuhan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.13_1_Adm2:
+    GID: CHN.13.13_1
+    admin_name: Xiangfan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.14_1_Adm2:
+    GID: CHN.13.14_1
+    admin_name: Xianning
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.15_1_Adm2:
+    GID: CHN.13.15_1
+    admin_name: Xiantao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.16_1_Adm2:
+    GID: CHN.13.16_1
+    admin_name: Xiaogan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.17_1_Adm2:
+    GID: CHN.13.17_1
+    admin_name: Yichang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.2_1_Adm2:
+    GID: CHN.13.2_1
+    admin_name: Ezhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.3_1_Adm2:
+    GID: CHN.13.3_1
+    admin_name: Huanggang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.4_1_Adm2:
+    GID: CHN.13.4_1
+    admin_name: Huangshi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.5_1_Adm2:
+    GID: CHN.13.5_1
+    admin_name: Jingmen
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.6_1_Adm2:
+    GID: CHN.13.6_1
+    admin_name: Jingzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.7_1_Adm2:
+    GID: CHN.13.7_1
+    admin_name: Qianjiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.8_1_Adm2:
+    GID: CHN.13.8_1
+    admin_name: Shennongjia
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.13.9_1_Adm2:
+    GID: CHN.13.9_1
+    admin_name: Shiyan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14_1_Adm1:
+    GID: CHN.14_1
+    admin_name: Hunan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.14.1_1_Adm2:
+    GID: CHN.14.1_1
+    admin_name: Changde
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.10_1_Adm2:
+    GID: CHN.14.10_1
+    admin_name: Yiyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.11_1_Adm2:
+    GID: CHN.14.11_1
+    admin_name: Yongzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.12_1_Adm2:
+    GID: CHN.14.12_1
+    admin_name: Yueyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.13_1_Adm2:
+    GID: CHN.14.13_1
+    admin_name: Zhangjiajie
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.14_1_Adm2:
+    GID: CHN.14.14_1
+    admin_name: Zhuzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.2_1_Adm2:
+    GID: CHN.14.2_1
+    admin_name: Changsha
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.3_1_Adm2:
+    GID: CHN.14.3_1
+    admin_name: Chenzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.4_1_Adm2:
+    GID: CHN.14.4_1
+    admin_name: Hengyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.5_1_Adm2:
+    GID: CHN.14.5_1
+    admin_name: Huaihua
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.6_1_Adm2:
+    GID: CHN.14.6_1
+    admin_name: Loudi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.7_1_Adm2:
+    GID: CHN.14.7_1
+    admin_name: Shaoyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.8_1_Adm2:
+    GID: CHN.14.8_1
+    admin_name: Xiangtan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.14.9_1_Adm2:
+    GID: CHN.14.9_1
+    admin_name: Xiangxi Tujia and Miao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15_1_Adm1:
+    GID: CHN.15_1
+    admin_name: Jiangsu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.15.1_1_Adm2:
+    GID: CHN.15.1_1
+    admin_name: Changzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.10_1_Adm2:
+    GID: CHN.15.10_1
+    admin_name: Xuzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.11_1_Adm2:
+    GID: CHN.15.11_1
+    admin_name: Yancheng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.12_1_Adm2:
+    GID: CHN.15.12_1
+    admin_name: Yangzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.13_1_Adm2:
+    GID: CHN.15.13_1
+    admin_name: Zhenjiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.2_1_Adm2:
+    GID: CHN.15.2_1
+    admin_name: Huai'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.3_1_Adm2:
+    GID: CHN.15.3_1
+    admin_name: Lianyungang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.4_1_Adm2:
+    GID: CHN.15.4_1
+    admin_name: Nanjing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.5_1_Adm2:
+    GID: CHN.15.5_1
+    admin_name: Nantong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.6_1_Adm2:
+    GID: CHN.15.6_1
+    admin_name: Suqian
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.7_1_Adm2:
+    GID: CHN.15.7_1
+    admin_name: Suzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.8_1_Adm2:
+    GID: CHN.15.8_1
+    admin_name: Taizhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.15.9_1_Adm2:
+    GID: CHN.15.9_1
+    admin_name: Wuxi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16_1_Adm1:
+    GID: CHN.16_1
+    admin_name: Jiangxi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.16.1_1_Adm2:
+    GID: CHN.16.1_1
+    admin_name: Fuzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.10_1_Adm2:
+    GID: CHN.16.10_1
+    admin_name: Yichun
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.11_1_Adm2:
+    GID: CHN.16.11_1
+    admin_name: Yingtan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.2_1_Adm2:
+    GID: CHN.16.2_1
+    admin_name: Ganzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.3_1_Adm2:
+    GID: CHN.16.3_1
+    admin_name: Ji'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.4_1_Adm2:
+    GID: CHN.16.4_1
+    admin_name: Jingdezhen
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.5_1_Adm2:
+    GID: CHN.16.5_1
+    admin_name: Jiujiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.6_1_Adm2:
+    GID: CHN.16.6_1
+    admin_name: Nanchang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.7_1_Adm2:
+    GID: CHN.16.7_1
+    admin_name: Pingxiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.8_1_Adm2:
+    GID: CHN.16.8_1
+    admin_name: Shangrao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.16.9_1_Adm2:
+    GID: CHN.16.9_1
+    admin_name: Xinyu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17_1_Adm1:
+    GID: CHN.17_1
+    admin_name: Jilin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.17.1_1_Adm2:
+    GID: CHN.17.1_1
+    admin_name: Baicheng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17.2_1_Adm2:
+    GID: CHN.17.2_1
+    admin_name: Baishan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17.3_1_Adm2:
+    GID: CHN.17.3_1
+    admin_name: Changchun
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17.4_1_Adm2:
+    GID: CHN.17.4_1
+    admin_name: Jilin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17.5_1_Adm2:
+    GID: CHN.17.5_1
+    admin_name: Liaoyuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17.6_1_Adm2:
+    GID: CHN.17.6_1
+    admin_name: Siping
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17.7_1_Adm2:
+    GID: CHN.17.7_1
+    admin_name: Songyuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17.8_1_Adm2:
+    GID: CHN.17.8_1
+    admin_name: Tonghua
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.17.9_1_Adm2:
+    GID: CHN.17.9_1
+    admin_name: Yanbian Korean
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18_1_Adm1:
+    GID: CHN.18_1
+    admin_name: Liaoning
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.18.1_1_Adm2:
+    GID: CHN.18.1_1
+    admin_name: Anshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.10_1_Adm2:
+    GID: CHN.18.10_1
+    admin_name: Liaoyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.11_1_Adm2:
+    GID: CHN.18.11_1
+    admin_name: Panjin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.12_1_Adm2:
+    GID: CHN.18.12_1
+    admin_name: Shenyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.13_1_Adm2:
+    GID: CHN.18.13_1
+    admin_name: Tieling
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.2_1_Adm2:
+    GID: CHN.18.2_1
+    admin_name: Benxi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.3_1_Adm2:
+    GID: CHN.18.3_1
+    admin_name: Chaoyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.4_1_Adm2:
+    GID: CHN.18.4_1
+    admin_name: Dalian
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.5_1_Adm2:
+    GID: CHN.18.5_1
+    admin_name: Dandong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.6_1_Adm2:
+    GID: CHN.18.6_1
+    admin_name: Fushun
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.7_1_Adm2:
+    GID: CHN.18.7_1
+    admin_name: Fuxin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.8_1_Adm2:
+    GID: CHN.18.8_1
+    admin_name: Huludao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.18.9_1_Adm2:
+    GID: CHN.18.9_1
+    admin_name: Jinzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19_1_Adm1:
+    GID: CHN.19_1
+    admin_name: Nei Mongol
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.19.1_1_Adm2:
+    GID: CHN.19.1_1
+    admin_name: Alxa
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.10_1_Adm2:
+    GID: CHN.19.10_1
+    admin_name: Wuhai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.11_1_Adm2:
+    GID: CHN.19.11_1
+    admin_name: Xilin Gol
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.12_1_Adm2:
+    GID: CHN.19.12_1
+    admin_name: Xing'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.2_1_Adm2:
+    GID: CHN.19.2_1
+    admin_name: Baotou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.3_1_Adm2:
+    GID: CHN.19.3_1
+    admin_name: Baynnur
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.4_1_Adm2:
+    GID: CHN.19.4_1
+    admin_name: Chifeng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.5_1_Adm2:
+    GID: CHN.19.5_1
+    admin_name: Hohhot
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.6_1_Adm2:
+    GID: CHN.19.6_1
+    admin_name: Hulunbuir
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.7_1_Adm2:
+    GID: CHN.19.7_1
+    admin_name: Ordos
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.8_1_Adm2:
+    GID: CHN.19.8_1
+    admin_name: Tongliao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.19.9_1_Adm2:
+    GID: CHN.19.9_1
+    admin_name: Ulaan Chab
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.2_1_Adm1:
+    GID: CHN.2_1
+    admin_name: Beijing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.2.1_1_Adm2:
+    GID: CHN.2.1_1
+    admin_name: Beijing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.20_1_Adm1:
+    GID: CHN.20_1
+    admin_name: Ningxia Hui
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.20.1_1_Adm2:
+    GID: CHN.20.1_1
+    admin_name: Guyuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.20.2_1_Adm2:
+    GID: CHN.20.2_1
+    admin_name: Shizuishan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.20.3_1_Adm2:
+    GID: CHN.20.3_1
+    admin_name: Wuzhong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.20.4_1_Adm2:
+    GID: CHN.20.4_1
+    admin_name: Yinchuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.20.5_1_Adm2:
+    GID: CHN.20.5_1
+    admin_name: Zhongwei
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.21_1_Adm1:
+    GID: CHN.21_1
+    admin_name: Qinghai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.21.1_1_Adm2:
+    GID: CHN.21.1_1
+    admin_name: Golog Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.21.2_1_Adm2:
+    GID: CHN.21.2_1
+    admin_name: Gyêgu Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.21.3_1_Adm2:
+    GID: CHN.21.3_1
+    admin_name: Haibei Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.21.4_1_Adm2:
+    GID: CHN.21.4_1
+    admin_name: Haidong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.21.5_1_Adm2:
+    GID: CHN.21.5_1
+    admin_name: Hainan Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.21.6_1_Adm2:
+    GID: CHN.21.6_1
+    admin_name: Haixi Mongol and Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.21.7_1_Adm2:
+    GID: CHN.21.7_1
+    admin_name: Huangnan Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.21.8_1_Adm2:
+    GID: CHN.21.8_1
+    admin_name: Xining
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22_1_Adm1:
+    GID: CHN.22_1
+    admin_name: Shaanxi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.22.1_1_Adm2:
+    GID: CHN.22.1_1
+    admin_name: Ankang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.10_1_Adm2:
+    GID: CHN.22.10_1
+    admin_name: Yulin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.2_1_Adm2:
+    GID: CHN.22.2_1
+    admin_name: Baoji
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.3_1_Adm2:
+    GID: CHN.22.3_1
+    admin_name: Hanzhong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.4_1_Adm2:
+    GID: CHN.22.4_1
+    admin_name: Shangluo
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.5_1_Adm2:
+    GID: CHN.22.5_1
+    admin_name: Tongchuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.6_1_Adm2:
+    GID: CHN.22.6_1
+    admin_name: Weinan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.7_1_Adm2:
+    GID: CHN.22.7_1
+    admin_name: Xi'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.8_1_Adm2:
+    GID: CHN.22.8_1
+    admin_name: Xianyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.22.9_1_Adm2:
+    GID: CHN.22.9_1
+    admin_name: Yan'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23_1_Adm1:
+    GID: CHN.23_1
+    admin_name: Shandong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.23.1_1_Adm2:
+    GID: CHN.23.1_1
+    admin_name: Binzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.10_1_Adm2:
+    GID: CHN.23.10_1
+    admin_name: Qingdao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.11_1_Adm2:
+    GID: CHN.23.11_1
+    admin_name: Rizhao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.12_1_Adm2:
+    GID: CHN.23.12_1
+    admin_name: Tai'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.13_1_Adm2:
+    GID: CHN.23.13_1
+    admin_name: Weifang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.14_1_Adm2:
+    GID: CHN.23.14_1
+    admin_name: Weihai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.15_1_Adm2:
+    GID: CHN.23.15_1
+    admin_name: Yantai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.16_1_Adm2:
+    GID: CHN.23.16_1
+    admin_name: Zaozhuang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.17_1_Adm2:
+    GID: CHN.23.17_1
+    admin_name: Zibo
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.2_1_Adm2:
+    GID: CHN.23.2_1
+    admin_name: Dezhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.3_1_Adm2:
+    GID: CHN.23.3_1
+    admin_name: Dongying
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.4_1_Adm2:
+    GID: CHN.23.4_1
+    admin_name: Heze
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.5_1_Adm2:
+    GID: CHN.23.5_1
+    admin_name: Jinan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.6_1_Adm2:
+    GID: CHN.23.6_1
+    admin_name: Jining
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.7_1_Adm2:
+    GID: CHN.23.7_1
+    admin_name: Laiwu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.8_1_Adm2:
+    GID: CHN.23.8_1
+    admin_name: Liaocheng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.23.9_1_Adm2:
+    GID: CHN.23.9_1
+    admin_name: Linyi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.24_1_Adm1:
+    GID: CHN.24_1
+    admin_name: Shanghai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.24.1_1_Adm2:
+    GID: CHN.24.1_1
+    admin_name: Shanghai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25_1_Adm1:
+    GID: CHN.25_1
+    admin_name: Shanxi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.25.1_1_Adm2:
+    GID: CHN.25.1_1
+    admin_name: Changzhi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.10_1_Adm2:
+    GID: CHN.25.10_1
+    admin_name: Yangquan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.11_1_Adm2:
+    GID: CHN.25.11_1
+    admin_name: Yuncheng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.2_1_Adm2:
+    GID: CHN.25.2_1
+    admin_name: Datong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.3_1_Adm2:
+    GID: CHN.25.3_1
+    admin_name: Jincheng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.4_1_Adm2:
+    GID: CHN.25.4_1
+    admin_name: Jinzhong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.5_1_Adm2:
+    GID: CHN.25.5_1
+    admin_name: Linfen
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.6_1_Adm2:
+    GID: CHN.25.6_1
+    admin_name: Luliang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.7_1_Adm2:
+    GID: CHN.25.7_1
+    admin_name: Shuozhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.8_1_Adm2:
+    GID: CHN.25.8_1
+    admin_name: Taiyuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.25.9_1_Adm2:
+    GID: CHN.25.9_1
+    admin_name: Xinzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26_1_Adm1:
+    GID: CHN.26_1
+    admin_name: Sichuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.26.1_1_Adm2:
+    GID: CHN.26.1_1
+    admin_name: Bazhong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.10_1_Adm2:
+    GID: CHN.26.10_1
+    admin_name: Luzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.11_1_Adm2:
+    GID: CHN.26.11_1
+    admin_name: Meishan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.12_1_Adm2:
+    GID: CHN.26.12_1
+    admin_name: Mianyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.13_1_Adm2:
+    GID: CHN.26.13_1
+    admin_name: Nanchong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.14_1_Adm2:
+    GID: CHN.26.14_1
+    admin_name: Neijiang]]
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.15_1_Adm2:
+    GID: CHN.26.15_1
+    admin_name: Neijiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.16_1_Adm2:
+    GID: CHN.26.16_1
+    admin_name: Ngawa Tibetan and Qiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.17_1_Adm2:
+    GID: CHN.26.17_1
+    admin_name: Panzhihua
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.18_1_Adm2:
+    GID: CHN.26.18_1
+    admin_name: Suining
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.19_1_Adm2:
+    GID: CHN.26.19_1
+    admin_name: Ya'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.2_1_Adm2:
+    GID: CHN.26.2_1
+    admin_name: Chengdu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.20_1_Adm2:
+    GID: CHN.26.20_1
+    admin_name: Yibin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.21_1_Adm2:
+    GID: CHN.26.21_1
+    admin_name: Zigong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.22_1_Adm2:
+    GID: CHN.26.22_1
+    admin_name: Ziyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.3_1_Adm2:
+    GID: CHN.26.3_1
+    admin_name: Dazhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.4_1_Adm2:
+    GID: CHN.26.4_1
+    admin_name: Deyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.5_1_Adm2:
+    GID: CHN.26.5_1
+    admin_name: Garzê Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.6_1_Adm2:
+    GID: CHN.26.6_1
+    admin_name: Guang'an
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.7_1_Adm2:
+    GID: CHN.26.7_1
+    admin_name: Guangyuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.8_1_Adm2:
+    GID: CHN.26.8_1
+    admin_name: Leshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.26.9_1_Adm2:
+    GID: CHN.26.9_1
+    admin_name: Liangshan Yi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.27_1_Adm1:
+    GID: CHN.27_1
+    admin_name: Tianjin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.27.1_1_Adm2:
+    GID: CHN.27.1_1
+    admin_name: Tianjin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28_1_Adm1:
+    GID: CHN.28_1
+    admin_name: Xinjiang Uygur
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.28.1_1_Adm2:
+    GID: CHN.28.1_1
+    admin_name: Aksu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.10_1_Adm2:
+    GID: CHN.28.10_1
+    admin_name: Khotan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.11_1_Adm2:
+    GID: CHN.28.11_1
+    admin_name: Kizilsu Kirghiz
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.12_1_Adm2:
+    GID: CHN.28.12_1
+    admin_name: Shihezi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.13_1_Adm2:
+    GID: CHN.28.13_1
+    admin_name: Tacheng
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.14_1_Adm2:
+    GID: CHN.28.14_1
+    admin_name: Turfan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.15_1_Adm2:
+    GID: CHN.28.15_1
+    admin_name: Ürümqi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.2_1_Adm2:
+    GID: CHN.28.2_1
+    admin_name: Altay
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.3_1_Adm2:
+    GID: CHN.28.3_1
+    admin_name: Bayin'gholin Mongol
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.4_1_Adm2:
+    GID: CHN.28.4_1
+    admin_name: Börtala Mongol
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.5_1_Adm2:
+    GID: CHN.28.5_1
+    admin_name: Changji Hui
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.6_1_Adm2:
+    GID: CHN.28.6_1
+    admin_name: Hami
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.7_1_Adm2:
+    GID: CHN.28.7_1
+    admin_name: Ili Kazakh
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.8_1_Adm2:
+    GID: CHN.28.8_1
+    admin_name: Karamay
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.28.9_1_Adm2:
+    GID: CHN.28.9_1
+    admin_name: Kashgar
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.29_1_Adm1:
+    GID: CHN.29_1
+    admin_name: Xizang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.29.1_1_Adm2:
+    GID: CHN.29.1_1
+    admin_name: Chamdo
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.29.2_1_Adm2:
+    GID: CHN.29.2_1
+    admin_name: Lhasa
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.29.3_1_Adm2:
+    GID: CHN.29.3_1
+    admin_name: Nagchu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.29.4_1_Adm2:
+    GID: CHN.29.4_1
+    admin_name: Ngari
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.29.5_1_Adm2:
+    GID: CHN.29.5_1
+    admin_name: Nyingtri
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.29.6_1_Adm2:
+    GID: CHN.29.6_1
+    admin_name: Shannan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.29.7_1_Adm2:
+    GID: CHN.29.7_1
+    admin_name: Shigatse
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.3_1_Adm1:
+    GID: CHN.3_1
+    admin_name: Chongqing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.3.1_1_Adm2:
+    GID: CHN.3.1_1
+    admin_name: Chongqing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30_1_Adm1:
+    GID: CHN.30_1
+    admin_name: Yunnan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.30.1_1_Adm2:
+    GID: CHN.30.1_1
+    admin_name: Baoshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.10_1_Adm2:
+    GID: CHN.30.10_1
+    admin_name: Nujiang Lisu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.11_1_Adm2:
+    GID: CHN.30.11_1
+    admin_name: Pu'er
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.12_1_Adm2:
+    GID: CHN.30.12_1
+    admin_name: Qujing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.13_1_Adm2:
+    GID: CHN.30.13_1
+    admin_name: Wenshan Zhuang and Miao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.14_1_Adm2:
+    GID: CHN.30.14_1
+    admin_name: Xishuangbanna Dai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.15_1_Adm2:
+    GID: CHN.30.15_1
+    admin_name: Yuxi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.16_1_Adm2:
+    GID: CHN.30.16_1
+    admin_name: Zhaotong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.2_1_Adm2:
+    GID: CHN.30.2_1
+    admin_name: Chuxiong Yi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.3_1_Adm2:
+    GID: CHN.30.3_1
+    admin_name: Dali Bai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.4_1_Adm2:
+    GID: CHN.30.4_1
+    admin_name: Dehong Dai and Jingpo
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.5_1_Adm2:
+    GID: CHN.30.5_1
+    admin_name: Dêqên Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.6_1_Adm2:
+    GID: CHN.30.6_1
+    admin_name: Honghe Hani and Yi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.7_1_Adm2:
+    GID: CHN.30.7_1
+    admin_name: Kunming
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.8_1_Adm2:
+    GID: CHN.30.8_1
+    admin_name: Lijiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.30.9_1_Adm2:
+    GID: CHN.30.9_1
+    admin_name: Lincang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31_1_Adm1:
+    GID: CHN.31_1
+    admin_name: Zhejiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.31.1_1_Adm2:
+    GID: CHN.31.1_1
+    admin_name: Hangzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.10_1_Adm2:
+    GID: CHN.31.10_1
+    admin_name: Wenzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.11_1_Adm2:
+    GID: CHN.31.11_1
+    admin_name: Zhoushan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.2_1_Adm2:
+    GID: CHN.31.2_1
+    admin_name: Huzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.3_1_Adm2:
+    GID: CHN.31.3_1
+    admin_name: Jiaxing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.4_1_Adm2:
+    GID: CHN.31.4_1
+    admin_name: Jinhua
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.5_1_Adm2:
+    GID: CHN.31.5_1
+    admin_name: Lishui
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.6_1_Adm2:
+    GID: CHN.31.6_1
+    admin_name: Ningbo
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.7_1_Adm2:
+    GID: CHN.31.7_1
+    admin_name: Quzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.8_1_Adm2:
+    GID: CHN.31.8_1
+    admin_name: Shaoxing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.31.9_1_Adm2:
+    GID: CHN.31.9_1
+    admin_name: Taizhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4_1_Adm1:
+    GID: CHN.4_1
+    admin_name: Fujian
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.4.1_1_Adm2:
+    GID: CHN.4.1_1
+    admin_name: Fuzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4.2_1_Adm2:
+    GID: CHN.4.2_1
+    admin_name: Longyan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4.3_1_Adm2:
+    GID: CHN.4.3_1
+    admin_name: Nanping
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4.4_1_Adm2:
+    GID: CHN.4.4_1
+    admin_name: Ningde
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4.5_1_Adm2:
+    GID: CHN.4.5_1
+    admin_name: Putian
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4.6_1_Adm2:
+    GID: CHN.4.6_1
+    admin_name: Quanzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4.7_1_Adm2:
+    GID: CHN.4.7_1
+    admin_name: Sanming
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4.8_1_Adm2:
+    GID: CHN.4.8_1
+    admin_name: Xiamen
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.4.9_1_Adm2:
+    GID: CHN.4.9_1
+    admin_name: Zhangzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5_1_Adm1:
+    GID: CHN.5_1
+    admin_name: Gansu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.5.1_1_Adm2:
+    GID: CHN.5.1_1
+    admin_name: Baiyin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.10_1_Adm2:
+    GID: CHN.5.10_1
+    admin_name: Pingliang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.11_1_Adm2:
+    GID: CHN.5.11_1
+    admin_name: Qingyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.12_1_Adm2:
+    GID: CHN.5.12_1
+    admin_name: Tianshui
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.13_1_Adm2:
+    GID: CHN.5.13_1
+    admin_name: Wuwei
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.14_1_Adm2:
+    GID: CHN.5.14_1
+    admin_name: Zhangye
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.2_1_Adm2:
+    GID: CHN.5.2_1
+    admin_name: Dingxi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.3_1_Adm2:
+    GID: CHN.5.3_1
+    admin_name: Gannan Tibetan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.4_1_Adm2:
+    GID: CHN.5.4_1
+    admin_name: Jiayuguan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.5_1_Adm2:
+    GID: CHN.5.5_1
+    admin_name: Jinchang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.6_1_Adm2:
+    GID: CHN.5.6_1
+    admin_name: Jiuquan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.7_1_Adm2:
+    GID: CHN.5.7_1
+    admin_name: Lanzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.8_1_Adm2:
+    GID: CHN.5.8_1
+    admin_name: Linxia Hui
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.5.9_1_Adm2:
+    GID: CHN.5.9_1
+    admin_name: Longnan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6_1_Adm1:
+    GID: CHN.6_1
+    admin_name: Guangdong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.6.1_1_Adm2:
+    GID: CHN.6.1_1
+    admin_name: Chaozhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.10_1_Adm2:
+    GID: CHN.6.10_1
+    admin_name: Meizhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.11_1_Adm2:
+    GID: CHN.6.11_1
+    admin_name: Qingyuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.12_1_Adm2:
+    GID: CHN.6.12_1
+    admin_name: Shantou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.13_1_Adm2:
+    GID: CHN.6.13_1
+    admin_name: Shanwei
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.14_1_Adm2:
+    GID: CHN.6.14_1
+    admin_name: Shaoguan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.15_1_Adm2:
+    GID: CHN.6.15_1
+    admin_name: Shenzhen
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.16_1_Adm2:
+    GID: CHN.6.16_1
+    admin_name: Yangjiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.17_1_Adm2:
+    GID: CHN.6.17_1
+    admin_name: Yunfu
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.18_1_Adm2:
+    GID: CHN.6.18_1
+    admin_name: Zhanjiang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.19_1_Adm2:
+    GID: CHN.6.19_1
+    admin_name: Zhaoqing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.2_1_Adm2:
+    GID: CHN.6.2_1
+    admin_name: Dongguan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.20_1_Adm2:
+    GID: CHN.6.20_1
+    admin_name: Zhongshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.21_1_Adm2:
+    GID: CHN.6.21_1
+    admin_name: Zhuhai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.3_1_Adm2:
+    GID: CHN.6.3_1
+    admin_name: Foshan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.4_1_Adm2:
+    GID: CHN.6.4_1
+    admin_name: Guangzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.5_1_Adm2:
+    GID: CHN.6.5_1
+    admin_name: Heyuan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.6_1_Adm2:
+    GID: CHN.6.6_1
+    admin_name: Huizhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.7_1_Adm2:
+    GID: CHN.6.7_1
+    admin_name: Jiangmen
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.8_1_Adm2:
+    GID: CHN.6.8_1
+    admin_name: Jieyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.6.9_1_Adm2:
+    GID: CHN.6.9_1
+    admin_name: Maoming
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7_1_Adm1:
+    GID: CHN.7_1
+    admin_name: Guangxi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.7.1_1_Adm2:
+    GID: CHN.7.1_1
+    admin_name: Baise
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.10_1_Adm2:
+    GID: CHN.7.10_1
+    admin_name: Liuzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.11_1_Adm2:
+    GID: CHN.7.11_1
+    admin_name: Nanning
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.12_1_Adm2:
+    GID: CHN.7.12_1
+    admin_name: Qinzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.13_1_Adm2:
+    GID: CHN.7.13_1
+    admin_name: Wuzhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.14_1_Adm2:
+    GID: CHN.7.14_1
+    admin_name: Yulin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.2_1_Adm2:
+    GID: CHN.7.2_1
+    admin_name: Beihai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.3_1_Adm2:
+    GID: CHN.7.3_1
+    admin_name: Chongzuo
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.4_1_Adm2:
+    GID: CHN.7.4_1
+    admin_name: Fangchenggang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.5_1_Adm2:
+    GID: CHN.7.5_1
+    admin_name: Guigang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.6_1_Adm2:
+    GID: CHN.7.6_1
+    admin_name: Guilin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.7_1_Adm2:
+    GID: CHN.7.7_1
+    admin_name: Hechi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.8_1_Adm2:
+    GID: CHN.7.8_1
+    admin_name: Hezhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.7.9_1_Adm2:
+    GID: CHN.7.9_1
+    admin_name: Laibin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8_1_Adm1:
+    GID: CHN.8_1
+    admin_name: Guizhou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.8.1_1_Adm2:
+    GID: CHN.8.1_1
+    admin_name: Anshun
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8.2_1_Adm2:
+    GID: CHN.8.2_1
+    admin_name: Bijie
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8.3_1_Adm2:
+    GID: CHN.8.3_1
+    admin_name: Guiyang
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8.4_1_Adm2:
+    GID: CHN.8.4_1
+    admin_name: Liupanshui
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8.5_1_Adm2:
+    GID: CHN.8.5_1
+    admin_name: Qiandongnan Miao and Dong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8.6_1_Adm2:
+    GID: CHN.8.6_1
+    admin_name: Qiannan Buyei and Miao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8.7_1_Adm2:
+    GID: CHN.8.7_1
+    admin_name: Qianxinan Buyei and Miao
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8.8_1_Adm2:
+    GID: CHN.8.8_1
+    admin_name: Tongren
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.8.9_1_Adm2:
+    GID: CHN.8.9_1
+    admin_name: Zunyi
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.9_1_Adm1:
+    GID: CHN.9_1
+    admin_name: Hainan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.9.1_1_Adm2:
+    GID: CHN.9.1_1
+    admin_name: Haikou
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.9.2_1_Adm2:
+    GID: CHN.9.2_1
+    admin_name: Hainan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.9.3_1_Adm2:
+    GID: CHN.9.3_1
+    admin_name: Sanya
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  CHN.HKG_Adm1:
+    GID: CHN.HKG
+    admin_name: Hong Kong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  CHN.MAC_Adm1:
+    GID: CHN.MAC
+    admin_name: Macau
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm1
+  HKG.1_1_Adm2:
+    GID: HKG.1_1
+    admin_name: Central and Western
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.10_1_Adm2:
+    GID: HKG.10_1
+    admin_name: Sham Shui Po
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.11_1_Adm2:
+    GID: HKG.11_1
+    admin_name: Southern
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.12_1_Adm2:
+    GID: HKG.12_1
+    admin_name: Tai Po
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.13_1_Adm2:
+    GID: HKG.13_1
+    admin_name: Tsuen Wan
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.14_1_Adm2:
+    GID: HKG.14_1
+    admin_name: Tuen Mun
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.15_1_Adm2:
+    GID: HKG.15_1
+    admin_name: Wan Chai
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.16_1_Adm2:
+    GID: HKG.16_1
+    admin_name: Wong Tai Sin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.17_1_Adm2:
+    GID: HKG.17_1
+    admin_name: Yau Tsim Mong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.18_1_Adm2:
+    GID: HKG.18_1
+    admin_name: Yuen Long
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.2_1_Adm2:
+    GID: HKG.2_1
+    admin_name: Eastern
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.3_1_Adm2:
+    GID: HKG.3_1
+    admin_name: Islands
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.4_1_Adm2:
+    GID: HKG.4_1
+    admin_name: Kowloon City
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.5_1_Adm2:
+    GID: HKG.5_1
+    admin_name: Kwai Tsing
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.6_1_Adm2:
+    GID: HKG.6_1
+    admin_name: Kwun Tong
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.7_1_Adm2:
+    GID: HKG.7_1
+    admin_name: North
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.8_1_Adm2:
+    GID: HKG.8_1
+    admin_name: Sai Kung
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  HKG.9_1_Adm2:
+    GID: HKG.9_1
+    admin_name: Sha Tin
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  MAC.1_1_Adm2:
+    GID: MAC.1_1
+    admin_name: Ilhas
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  MAC.2_1_Adm2:
+    GID: MAC.2_1
+    admin_name: Macau
+    iso3c: CHN
+    country_name: China
+    admin_level: Adm2
+  Z02.28_1_Adm1:
+    GID: Z02.28_1
+    admin_name: Xinjiang Uygur
+    iso3c: Z02
+    country_name: China
+    admin_level: Adm1
+  Z02.28.9_1_Adm2:
+    GID: Z02.28.9_1
+    admin_name: Kashgar
+    iso3c: Z02
+    country_name: China
+    admin_level: Adm2
+  Z03.28_1_Adm1:
+    GID: Z03.28_1
+    admin_name: Xinjiang Uygur
+    iso3c: Z03
+    country_name: China
+    admin_level: Adm1
+  Z03.28.10_1_Adm2:
+    GID: Z03.28.10_1
+    admin_name: Khotan
+    iso3c: Z03
+    country_name: China
+    admin_level: Adm2
+  Z03.29_1_Adm1:
+    GID: Z03.29_1
+    admin_name: Xizang
+    iso3c: Z03
+    country_name: China
+    admin_level: Adm1
+  Z03.29.4_1_Adm2:
+    GID: Z03.29.4_1
+    admin_name: Ngari
+    iso3c: Z03
+    country_name: China
+    admin_level: Adm2
+  Z08.29_1_Adm1:
+    GID: Z08.29_1
+    admin_name: Xizang
+    iso3c: Z08
+    country_name: China
+    admin_level: Adm1
+  Z08.29.4_1_Adm2:
+    GID: Z08.29.4_1
+    admin_name: Ngari
+    iso3c: Z08
+    country_name: China
+    admin_level: Adm2

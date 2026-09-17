@@ -1,0 +1,91 @@
+concepts:
+  JAM.0_Adm0:
+    GID: JAM
+    admin_name: Jamaica
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm0
+  JAM.1_1_Adm1:
+    GID: JAM.1_1
+    admin_name: Clarendon
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.10_1_Adm1:
+    GID: JAM.10_1
+    admin_name: Saint James
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.11_1_Adm1:
+    GID: JAM.11_1
+    admin_name: Saint Mary
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.12_1_Adm1:
+    GID: JAM.12_1
+    admin_name: Saint Thomas
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.13_1_Adm1:
+    GID: JAM.13_1
+    admin_name: Trelawny
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.14_1_Adm1:
+    GID: JAM.14_1
+    admin_name: Westmoreland
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.2_1_Adm1:
+    GID: JAM.2_1
+    admin_name: Hanover
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.3_1_Adm1:
+    GID: JAM.3_1
+    admin_name: Kingston
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.4_1_Adm1:
+    GID: JAM.4_1
+    admin_name: Manchester
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.5_1_Adm1:
+    GID: JAM.5_1
+    admin_name: Portland
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.6_1_Adm1:
+    GID: JAM.6_1
+    admin_name: Saint Andrew
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.7_1_Adm1:
+    GID: JAM.7_1
+    admin_name: Saint Ann
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.8_1_Adm1:
+    GID: JAM.8_1
+    admin_name: Saint Catherine
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1
+  JAM.9_1_Adm1:
+    GID: JAM.9_1
+    admin_name: Saint Elizabeth
+    iso3c: JAM
+    country_name: Jamaica
+    admin_level: Adm1

@@ -1,0 +1,37 @@
+concepts:
+  CYP.0_Adm0:
+    GID: CYP
+    admin_name: Cyprus
+    iso3c: CYP
+    country_name: Cyprus
+    admin_level: Adm0
+  CYP.1_1_Adm1:
+    GID: CYP.1_1
+    admin_name: Famagusta
+    iso3c: CYP
+    country_name: Cyprus
+    admin_level: Adm1
+  CYP.2_1_Adm1:
+    GID: CYP.2_1
+    admin_name: Larnaca
+    iso3c: CYP
+    country_name: Cyprus
+    admin_level: Adm1
+  CYP.3_1_Adm1:
+    GID: CYP.3_1
+    admin_name: Limassol
+    iso3c: CYP
+    country_name: Cyprus
+    admin_level: Adm1
+  CYP.4_1_Adm1:
+    GID: CYP.4_1
+    admin_name: Nicosia
+    iso3c: CYP
+    country_name: Cyprus
+    admin_level: Adm1
+  CYP.5_1_Adm1:
+    GID: CYP.5_1
+    admin_name: Paphos
+    iso3c: CYP
+    country_name: Cyprus
+    admin_level: Adm1

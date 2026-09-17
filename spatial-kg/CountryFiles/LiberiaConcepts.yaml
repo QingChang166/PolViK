@@ -1,0 +1,493 @@
+concepts:
+  LBR.0_Adm0:
+    GID: LBR
+    admin_name: Liberia
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm0
+  LBR.1_1_Adm1:
+    GID: LBR.1_1
+    admin_name: Bomi
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.1.1_1_Adm2:
+    GID: LBR.1.1_1
+    admin_name: Klay
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.1.2_1_Adm2:
+    GID: LBR.1.2_1
+    admin_name: Mecca
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.10_1_Adm1:
+    GID: LBR.10_1
+    admin_name: Maryland
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.10.1_1_Adm2:
+    GID: LBR.10.1_1
+    admin_name: Barrobo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.10.2_1_Adm2:
+    GID: LBR.10.2_1
+    admin_name: Pleebo/Sodeken
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.11_1_Adm1:
+    GID: LBR.11_1
+    admin_name: Montserrado
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.11.1_1_Adm2:
+    GID: LBR.11.1_1
+    admin_name: Careysburg
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.11.2_1_Adm2:
+    GID: LBR.11.2_1
+    admin_name: Greater Monrovia
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.11.3_1_Adm2:
+    GID: LBR.11.3_1
+    admin_name: St Paul River
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.11.4_1_Adm2:
+    GID: LBR.11.4_1
+    admin_name: Todee
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12_1_Adm1:
+    GID: LBR.12_1
+    admin_name: Nimba
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.12.1_1_Adm2:
+    GID: LBR.12.1_1
+    admin_name: Gbehlageh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.2_1_Adm2:
+    GID: LBR.12.2_1
+    admin_name: Saclepea
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.3_1_Adm2:
+    GID: LBR.12.3_1
+    admin_name: Sanniquelleh-Mahn
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.4_1_Adm2:
+    GID: LBR.12.4_1
+    admin_name: Tappita
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.5_1_Adm2:
+    GID: LBR.12.5_1
+    admin_name: Yarwein-Mehnsohnne
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.12.6_1_Adm2:
+    GID: LBR.12.6_1
+    admin_name: Zoegeh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.13_1_Adm1:
+    GID: LBR.13_1
+    admin_name: Rivercess
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.13.1_1_Adm2:
+    GID: LBR.13.1_1
+    admin_name: Morweh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.13.2_1_Adm2:
+    GID: LBR.13.2_1
+    admin_name: Timbo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.14_1_Adm1:
+    GID: LBR.14_1
+    admin_name: River Gee
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.14.1_1_Adm2:
+    GID: LBR.14.1_1
+    admin_name: Gbeapo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.14.2_1_Adm2:
+    GID: LBR.14.2_1
+    admin_name: Webbo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15_1_Adm1:
+    GID: LBR.15_1
+    admin_name: Sinoe
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.15.1_1_Adm2:
+    GID: LBR.15.1_1
+    admin_name: Butaw
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.2_1_Adm2:
+    GID: LBR.15.2_1
+    admin_name: Dugbe River
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.3_1_Adm2:
+    GID: LBR.15.3_1
+    admin_name: Greenville
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.4_1_Adm2:
+    GID: LBR.15.4_1
+    admin_name: Jaedae Jaedepo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.5_1_Adm2:
+    GID: LBR.15.5_1
+    admin_name: Juarzon
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.6_1_Adm2:
+    GID: LBR.15.6_1
+    admin_name: Kpayan
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.15.7_1_Adm2:
+    GID: LBR.15.7_1
+    admin_name: Pyneston
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.2_1_Adm1:
+    GID: LBR.2_1
+    admin_name: Bong
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.2.1_1_Adm2:
+    GID: LBR.2.1_1
+    admin_name: Fuamah
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.2.2_1_Adm2:
+    GID: LBR.2.2_1
+    admin_name: Jorquelleh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.2.3_1_Adm2:
+    GID: LBR.2.3_1
+    admin_name: Kokoyah
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.2.4_1_Adm2:
+    GID: LBR.2.4_1
+    admin_name: Panta-Kpa
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.2.5_1_Adm2:
+    GID: LBR.2.5_1
+    admin_name: Salala
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.2.6_1_Adm2:
+    GID: LBR.2.6_1
+    admin_name: Sanayea
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.2.7_1_Adm2:
+    GID: LBR.2.7_1
+    admin_name: Suakoko
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.2.8_1_Adm2:
+    GID: LBR.2.8_1
+    admin_name: Zota
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.3_1_Adm1:
+    GID: LBR.3_1
+    admin_name: Gbapolu
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.3.1_1_Adm2:
+    GID: LBR.3.1_1
+    admin_name: Belleh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.3.2_1_Adm2:
+    GID: LBR.3.2_1
+    admin_name: Bokomu
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.3.3_1_Adm2:
+    GID: LBR.3.3_1
+    admin_name: Bopolu
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.3.4_1_Adm2:
+    GID: LBR.3.4_1
+    admin_name: Gbarma
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.3.5_1_Adm2:
+    GID: LBR.3.5_1
+    admin_name: Kongba
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.4_1_Adm1:
+    GID: LBR.4_1
+    admin_name: Grand Cape Mount
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.4.1_1_Adm2:
+    GID: LBR.4.1_1
+    admin_name: Commnwealth
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.4.2_1_Adm2:
+    GID: LBR.4.2_1
+    admin_name: Garwula
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.4.3_1_Adm2:
+    GID: LBR.4.3_1
+    admin_name: Golakonneh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.4.4_1_Adm2:
+    GID: LBR.4.4_1
+    admin_name: Porkpa
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.4.5_1_Adm2:
+    GID: LBR.4.5_1
+    admin_name: Tewor
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5_1_Adm1:
+    GID: LBR.5_1
+    admin_name: Grand Bassa
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.5.1_1_Adm2:
+    GID: LBR.5.1_1
+    admin_name: 'District # 1'
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.2_1_Adm2:
+    GID: LBR.5.2_1
+    admin_name: 'District # 2'
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.3_1_Adm2:
+    GID: LBR.5.3_1
+    admin_name: 'District # 3'
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.4_1_Adm2:
+    GID: LBR.5.4_1
+    admin_name: 'District # 4'
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.5_1_Adm2:
+    GID: LBR.5.5_1
+    admin_name: Owensgrove
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.5.6_1_Adm2:
+    GID: LBR.5.6_1
+    admin_name: Stjohnriver
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.6_1_Adm1:
+    GID: LBR.6_1
+    admin_name: Grand Gedeh
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.6.1_1_Adm2:
+    GID: LBR.6.1_1
+    admin_name: Gbarzon
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.6.2_1_Adm2:
+    GID: LBR.6.2_1
+    admin_name: Konobo
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.6.3_1_Adm2:
+    GID: LBR.6.3_1
+    admin_name: Tchien
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.7_1_Adm1:
+    GID: LBR.7_1
+    admin_name: Grand Kru
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.7.1_1_Adm2:
+    GID: LBR.7.1_1
+    admin_name: Buah
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.7.2_1_Adm2:
+    GID: LBR.7.2_1
+    admin_name: Lower Kru Coast
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.7.3_1_Adm2:
+    GID: LBR.7.3_1
+    admin_name: Sasstown 180606
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.7.4_1_Adm2:
+    GID: LBR.7.4_1
+    admin_name: Upperkrucoast
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8_1_Adm1:
+    GID: LBR.8_1
+    admin_name: Lofa
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.8.1_1_Adm2:
+    GID: LBR.8.1_1
+    admin_name: Foya
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.2_1_Adm2:
+    GID: LBR.8.2_1
+    admin_name: Kolahun
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.3_1_Adm2:
+    GID: LBR.8.3_1
+    admin_name: Lower Kru Coast
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.4_1_Adm2:
+    GID: LBR.8.4_1
+    admin_name: Salayea
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.5_1_Adm2:
+    GID: LBR.8.5_1
+    admin_name: Voinjama
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.8.6_1_Adm2:
+    GID: LBR.8.6_1
+    admin_name: Zorzor
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.9_1_Adm1:
+    GID: LBR.9_1
+    admin_name: Margibi
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm1
+  LBR.9.1_1_Adm2:
+    GID: LBR.9.1_1
+    admin_name: Firestone
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.9.2_1_Adm2:
+    GID: LBR.9.2_1
+    admin_name: Gibi
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.9.3_1_Adm2:
+    GID: LBR.9.3_1
+    admin_name: Kakata
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2
+  LBR.9.4_1_Adm2:
+    GID: LBR.9.4_1
+    admin_name: Mambah-Kaba
+    iso3c: LBR
+    country_name: Liberia
+    admin_level: Adm2

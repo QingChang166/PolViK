@@ -1,0 +1,6 @@
+relations:
+    - (CYP.0_Adm0, CYP.1_1_Adm1)
+    - (CYP.0_Adm0, CYP.2_1_Adm1)
+    - (CYP.0_Adm0, CYP.3_1_Adm1)
+    - (CYP.0_Adm0, CYP.4_1_Adm1)
+    - (CYP.0_Adm0, CYP.5_1_Adm1)

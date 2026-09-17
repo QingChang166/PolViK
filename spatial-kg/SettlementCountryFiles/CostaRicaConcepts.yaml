@@ -1,0 +1,2653 @@
+concepts:
+   Costa Rica_22_5881:
+      SMOD_ID: 22_5881
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Esparza
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '606'
+      - '765'
+      - '929'
+      - '1105'
+      - '1218'
+      - '1388'
+      - '1770'
+      - '2141'
+      - '2427'
+      - '2519'
+      - '2648'
+      - '2685'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5882:
+      SMOD_ID: 22_5882
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Carlos
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2561'
+      - '2770'
+      - '3025'
+      - '3344'
+      - '3684'
+      - '3846'
+      - '4015'
+      - '4050'
+      - '3850'
+      - '3470'
+      - '3411'
+      - '3507'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5883:
+      SMOD_ID: 22_5883
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Parrita
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1732'
+      - '2353'
+      - '3104'
+      - '3877'
+      - '4253'
+      - '4281'
+      - '4660'
+      - '4761'
+      - '4601'
+      - '4045'
+      - '4038'
+      - '4142'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5884:
+      SMOD_ID: 22_5884
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Zarcero
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.16_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4201'
+      - '5032'
+      - '5835'
+      - '6541'
+      - '6948'
+      - '7001'
+      - '7496'
+      - '7877'
+      - '7984'
+      - '7706'
+      - '7593'
+      - '7520'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5885:
+      SMOD_ID: 22_5885
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Carlos
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '27'
+      - '46'
+      - '67'
+      - '84'
+      - '103'
+      - '123'
+      - '174'
+      - '270'
+      - '358'
+      - '375'
+      - '409'
+      - '501'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5886:
+      SMOD_ID: 22_5886
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Tarrazú
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.7.17_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3759'
+      - '4652'
+      - '5736'
+      - '6927'
+      - '8300'
+      - '9930'
+      - '10896'
+      - '11843'
+      - '12681'
+      - '13404'
+      - '13792'
+      - '13933'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5887:
+      SMOD_ID: 22_5887
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Alvarado
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3082'
+      - '3647'
+      - '4366'
+      - '4988'
+      - '5362'
+      - '5305'
+      - '5525'
+      - '5598'
+      - '5527'
+      - '5173'
+      - '5224'
+      - '5236'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5888:
+      SMOD_ID: 22_5888
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Paraíso
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2791'
+      - '3382'
+      - '3965'
+      - '4435'
+      - '4854'
+      - '5021'
+      - '5270'
+      - '5427'
+      - '5460'
+      - '5318'
+      - '5253'
+      - '5193'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5889:
+      SMOD_ID: 22_5889
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Alvarado
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2260'
+      - '2634'
+      - '3048'
+      - '3402'
+      - '3698'
+      - '3939'
+      - '4519'
+      - '5085'
+      - '5424'
+      - '5444'
+      - '5406'
+      - '5402'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5890:
+      SMOD_ID: 22_5890
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Jiménez
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4353'
+      - '4721'
+      - '5098'
+      - '5412'
+      - '5654'
+      - '5671'
+      - '5898'
+      - '6007'
+      - '5976'
+      - '5732'
+      - '5424'
+      - '5233'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5891:
+      SMOD_ID: 22_5891
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Osa
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '743'
+      - '962'
+      - '1234'
+      - '1542'
+      - '1730'
+      - '1900'
+      - '2194'
+      - '2480'
+      - '2647'
+      - '2544'
+      - '2534'
+      - '2530'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5892:
+      SMOD_ID: 22_5892
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Turrialba
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3074'
+      - '3613'
+      - '4147'
+      - '4719'
+      - '4875'
+      - '4891'
+      - '5047'
+      - '5068'
+      - '4901'
+      - '4439'
+      - '4126'
+      - '3876'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_22_5893:
+      SMOD_ID: 22_5893
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Coto Brus
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1062'
+      - '1486'
+      - '1942'
+      - '2395'
+      - '2623'
+      - '2702'
+      - '2802'
+      - '2835'
+      - '2689'
+      - '2289'
+      - '2023'
+      - '1828'
+      Settlement_level: Semi-dense Urban Clusters
+   Costa Rica_23_27685:
+      SMOD_ID: 23_27685
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Carrillo
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1343'
+      - '1564'
+      - '1784'
+      - '2011'
+      - '2156'
+      - '2211'
+      - '2197'
+      - '2174'
+      - '2142'
+      - '2080'
+      - '2088'
+      - '2210'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27686:
+      SMOD_ID: 23_27686
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Santa Cruz
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6275'
+      - '7470'
+      - '8925'
+      - '10402'
+      - '11974'
+      - '12983'
+      - '14152'
+      - '14945'
+      - '15442'
+      - '15702'
+      - '16155'
+      - '17038'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27687:
+      SMOD_ID: 23_27687
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Carrillo
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '765'
+      - '1024'
+      - '1354'
+      - '1686'
+      - '2146'
+      - '2618'
+      - '3318'
+      - '4042'
+      - '4641'
+      - '4806'
+      - '4973'
+      - '5267'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27688:
+      SMOD_ID: 23_27688
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: La Cruz
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2988'
+      - '3381'
+      - '3786'
+      - '4149'
+      - '4532'
+      - '4664'
+      - '4584'
+      - '4336'
+      - '3999'
+      - '3718'
+      - '3503'
+      - '3436'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27689:
+      SMOD_ID: 23_27689
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Nicoya
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9236'
+      - '10678'
+      - '12414'
+      - '14087'
+      - '15339'
+      - '15837'
+      - '16988'
+      - '17694'
+      - '17877'
+      - '17261'
+      - '17213'
+      - '17437'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27690:
+      SMOD_ID: 23_27690
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Liberia
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15156'
+      - '18033'
+      - '21527'
+      - '25198'
+      - '29284'
+      - '32866'
+      - '38154'
+      - '43334'
+      - '47579'
+      - '49549'
+      - '50761'
+      - '53807'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27691:
+      SMOD_ID: 23_27691
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: La Cruz
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '47'
+      - '182'
+      - '338'
+      - '522'
+      - '1070'
+      - '1543'
+      - '1854'
+      - '2082'
+      - '2266'
+      - '2046'
+      - '2053'
+      - '1994'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27692:
+      SMOD_ID: 23_27692
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Bagaces
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1606'
+      - '1854'
+      - '2110'
+      - '2376'
+      - '2704'
+      - '3004'
+      - '3433'
+      - '3804'
+      - '3961'
+      - '3534'
+      - '3233'
+      - '3179'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27693:
+      SMOD_ID: 23_27693
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Cañas
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '11777'
+      - '12833'
+      - '13942'
+      - '14763'
+      - '15586'
+      - '15824'
+      - '16801'
+      - '17398'
+      - '17376'
+      - '16410'
+      - '15624'
+      - '15251'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27694:
+      SMOD_ID: 23_27694
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Tilarán
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.3.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4572'
+      - '4989'
+      - '5433'
+      - '5776'
+      - '6204'
+      - '6413'
+      - '6912'
+      - '7301'
+      - '7440'
+      - '7148'
+      - '6878'
+      - '6796'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27695:
+      SMOD_ID: 23_27695
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Upala
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.14_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '759'
+      - '1432'
+      - '2045'
+      - '2601'
+      - '3874'
+      - '4851'
+      - '5293'
+      - '5434'
+      - '5406'
+      - '4848'
+      - '4458'
+      - '4325'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27696:
+      SMOD_ID: 23_27696
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Puntarenas
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4290'
+      - '4385'
+      - '4693'
+      - '5994'
+      - '7589'
+      - '9288'
+      - '8903'
+      - '8492'
+      - '7930'
+      - '7877'
+      - '7974'
+      - '8362'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27697:
+      SMOD_ID: 23_27697
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Upala
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.14_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9'
+      - '10'
+      - '11'
+      - '13'
+      - '16'
+      - '23'
+      - '33'
+      - '43'
+      - '46'
+      - '38'
+      - '50'
+      - '47'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27698:
+      SMOD_ID: 23_27698
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Montes de Oro
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3597'
+      - '4017'
+      - '4489'
+      - '4946'
+      - '5389'
+      - '5683'
+      - '6284'
+      - '6780'
+      - '6978'
+      - '6818'
+      - '6774'
+      - '6798'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27699:
+      SMOD_ID: 23_27699
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Garabito
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '222'
+      - '727'
+      - '1307'
+      - '1774'
+      - '2649'
+      - '3437'
+      - '4508'
+      - '5581'
+      - '6545'
+      - '6828'
+      - '7772'
+      - '8874'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27700:
+      SMOD_ID: 23_27700
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Esparza
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '10738'
+      - '12177'
+      - '13812'
+      - '15175'
+      - '16506'
+      - '17015'
+      - '17842'
+      - '18440'
+      - '18701'
+      - '18382'
+      - '18309'
+      - '18359'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27701:
+      SMOD_ID: 23_27701
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Orotina
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3940'
+      - '4721'
+      - '5559'
+      - '6318'
+      - '7231'
+      - '7845'
+      - '8589'
+      - '9208'
+      - '9607'
+      - '9866'
+      - '10232'
+      - '10716'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27702:
+      SMOD_ID: 23_27702
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Los Chiles
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2962'
+      - '3263'
+      - '3661'
+      - '4035'
+      - '4572'
+      - '5033'
+      - '5710'
+      - '6170'
+      - '6381'
+      - '6021'
+      - '5828'
+      - '5748'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27703:
+      SMOD_ID: 23_27703
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Carlos
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '110'
+      - '148'
+      - '196'
+      - '246'
+      - '243'
+      - '249'
+      - '306'
+      - '349'
+      - '374'
+      - '349'
+      - '357'
+      - '384'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27704:
+      SMOD_ID: 23_27704
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Ramón
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '24736'
+      - '27521'
+      - '30589'
+      - '33236'
+      - '36362'
+      - '37901'
+      - '40676'
+      - '42836'
+      - '43909'
+      - '43309'
+      - '42793'
+      - '43580'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27705:
+      SMOD_ID: 23_27705
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Palmares
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '13628'
+      - '15189'
+      - '16924'
+      - '18410'
+      - '19954'
+      - '20764'
+      - '22688'
+      - '24613'
+      - '26008'
+      - '26221'
+      - '26105'
+      - '26610'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27706:
+      SMOD_ID: 23_27706
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Carlos
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '0'
+      - '4'
+      - '9'
+      - '38'
+      - '62'
+      - '109'
+      - '146'
+      - '198'
+      - '254'
+      - '312'
+      - '386'
+      - '398'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27707:
+      SMOD_ID: 23_27707
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Atenas
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4720'
+      - '5022'
+      - '5369'
+      - '5623'
+      - '5928'
+      - '5967'
+      - '6287'
+      - '6463'
+      - '6455'
+      - '6237'
+      - '6182'
+      - '6144'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27708:
+      SMOD_ID: 23_27708
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Carlos
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '14727'
+      - '16699'
+      - '19052'
+      - '21230'
+      - '23731'
+      - '25276'
+      - '27417'
+      - '29061'
+      - '30169'
+      - '30805'
+      - '31715'
+      - '33166'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27709:
+      SMOD_ID: 23_27709
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Naranjo
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7110'
+      - '7362'
+      - '7620'
+      - '7665'
+      - '7980'
+      - '7993'
+      - '8352'
+      - '8563'
+      - '8598'
+      - '8516'
+      - '8201'
+      - '8199'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27710:
+      SMOD_ID: 23_27710
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Puriscal
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.7.14_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7264'
+      - '8119'
+      - '9018'
+      - '9721'
+      - '10432'
+      - '10654'
+      - '11257'
+      - '11712'
+      - '11716'
+      - '11223'
+      - '10987'
+      - '10955'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27711:
+      SMOD_ID: 23_27711
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Grecia
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '19402'
+      - '21484'
+      - '23653'
+      - '25543'
+      - '27401'
+      - '28185'
+      - '30160'
+      - '31695'
+      - '32419'
+      - '31889'
+      - '31239'
+      - '31674'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27712:
+      SMOD_ID: 23_27712
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Carlos
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3432'
+      - '3915'
+      - '4325'
+      - '4844'
+      - '5636'
+      - '6464'
+      - '7513'
+      - '8417'
+      - '8812'
+      - '8179'
+      - '8031'
+      - '8232'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27713:
+      SMOD_ID: 23_27713
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Quepos
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2668'
+      - '3332'
+      - '4101'
+      - '4868'
+      - '5244'
+      - '5207'
+      - '5868'
+      - '6431'
+      - '6740'
+      - '6622'
+      - '6394'
+      - '6670'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27714:
+      SMOD_ID: 23_27714
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Poás
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3561'
+      - '4038'
+      - '4444'
+      - '4769'
+      - '5254'
+      - '5541'
+      - '5893'
+      - '6106'
+      - '6229'
+      - '6236'
+      - '6060'
+      - '6160'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27715:
+      SMOD_ID: 23_27715
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Carlos
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2799'
+      - '3164'
+      - '3575'
+      - '3945'
+      - '4505'
+      - '4967'
+      - '5663'
+      - '6254'
+      - '6424'
+      - '5785'
+      - '5614'
+      - '5694'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27716:
+      SMOD_ID: 23_27716
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Acosta
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.7.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2448'
+      - '3003'
+      - '3560'
+      - '4097'
+      - '4781'
+      - '5557'
+      - '6018'
+      - '6450'
+      - '6728'
+      - '6699'
+      - '6676'
+      - '6701'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27717:
+      SMOD_ID: 23_27717
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: San Isidro
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.4.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '5921'
+      - '6914'
+      - '8131'
+      - '9343'
+      - '10696'
+      - '11755'
+      - '13506'
+      - '15214'
+      - '16609'
+      - '17230'
+      - '17777'
+      - '18755'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27718:
+      SMOD_ID: 23_27718
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Cartago
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4089'
+      - '4419'
+      - '4696'
+      - '4902'
+      - '5315'
+      - '5498'
+      - '6070'
+      - '6517'
+      - '6531'
+      - '5760'
+      - '5697'
+      - '5863'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27719:
+      SMOD_ID: 23_27719
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Sarapiquí
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.4.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2370'
+      - '3151'
+      - '4039'
+      - '4998'
+      - '5662'
+      - '5949'
+      - '6496'
+      - '6879'
+      - '6803'
+      - '5747'
+      - '5576'
+      - '5607'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27720:
+      SMOD_ID: 23_27720
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Oreamuno
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4333'
+      - '4846'
+      - '5390'
+      - '5887'
+      - '6413'
+      - '6739'
+      - '7543'
+      - '8272'
+      - '8673'
+      - '8389'
+      - '8113'
+      - '8227'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27721:
+      SMOD_ID: 23_27721
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Sarapiquí
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.4.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '17'
+      - '20'
+      - '28'
+      - '31'
+      - '51'
+      - '71'
+      - '112'
+      - '184'
+      - '224'
+      - '264'
+      - '278'
+      - '311'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27722:
+      SMOD_ID: 23_27722
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Pérez Zeledón
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.7.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '32419'
+      - '35509'
+      - '38572'
+      - '41044'
+      - '43595'
+      - '44791'
+      - '48129'
+      - '50672'
+      - '51421'
+      - '49786'
+      - '47755'
+      - '47164'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27723:
+      SMOD_ID: 23_27723
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Pococí
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '12456'
+      - '14097'
+      - '15876'
+      - '17436'
+      - '18032'
+      - '18278'
+      - '20688'
+      - '22886'
+      - '24165'
+      - '23531'
+      - '22720'
+      - '23139'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27724:
+      SMOD_ID: 23_27724
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Turrialba
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '26001'
+      - '27794'
+      - '29512'
+      - '30514'
+      - '31174'
+      - '30586'
+      - '31671'
+      - '32073'
+      - '31324'
+      - '28740'
+      - '26847'
+      - '25732'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27725:
+      SMOD_ID: 23_27725
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Pococí
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '5657'
+      - '6301'
+      - '6811'
+      - '7158'
+      - '7679'
+      - '7816'
+      - '8343'
+      - '8629'
+      - '8350'
+      - '6864'
+      - '6546'
+      - '6471'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27726:
+      SMOD_ID: 23_27726
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Guácimo
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4481'
+      - '5117'
+      - '5828'
+      - '6396'
+      - '7663'
+      - '8864'
+      - '10018'
+      - '11019'
+      - '11453'
+      - '10858'
+      - '10254'
+      - '10163'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27727:
+      SMOD_ID: 23_27727
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Pococí
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '81'
+      - '86'
+      - '89'
+      - '128'
+      - '242'
+      - '306'
+      - '298'
+      - '284'
+      - '268'
+      - '224'
+      - '198'
+      - '189'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27728:
+      SMOD_ID: 23_27728
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Osa
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3128'
+      - '3671'
+      - '4262'
+      - '4755'
+      - '5269'
+      - '5405'
+      - '5425'
+      - '5268'
+      - '5020'
+      - '4782'
+      - '4566'
+      - '4545'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27729:
+      SMOD_ID: 23_27729
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Guácimo
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2395'
+      - '2770'
+      - '3228'
+      - '3652'
+      - '3967'
+      - '4079'
+      - '4380'
+      - '4538'
+      - '4543'
+      - '4114'
+      - '3948'
+      - '3945'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27730:
+      SMOD_ID: 23_27730
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Guácimo
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1250'
+      - '1552'
+      - '1830'
+      - '2064'
+      - '2616'
+      - '2992'
+      - '3203'
+      - '3310'
+      - '3290'
+      - '2789'
+      - '2885'
+      - '2831'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27731:
+      SMOD_ID: 23_27731
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Siquirres
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '52'
+      - '58'
+      - '63'
+      - '74'
+      - '71'
+      - '63'
+      - '197'
+      - '459'
+      - '743'
+      - '1036'
+      - '1075'
+      - '1061'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27732:
+      SMOD_ID: 23_27732
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Siquirres
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '186'
+      - '227'
+      - '271'
+      - '353'
+      - '373'
+      - '387'
+      - '421'
+      - '443'
+      - '410'
+      - '312'
+      - '319'
+      - '345'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27733:
+      SMOD_ID: 23_27733
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Golfito
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '813'
+      - '969'
+      - '1186'
+      - '1376'
+      - '1588'
+      - '1825'
+      - '2161'
+      - '2497'
+      - '2691'
+      - '2631'
+      - '2589'
+      - '2536'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27734:
+      SMOD_ID: 23_27734
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Siquirres
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '117'
+      - '191'
+      - '322'
+      - '469'
+      - '572'
+      - '692'
+      - '874'
+      - '1039'
+      - '1121'
+      - '894'
+      - '852'
+      - '791'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27735:
+      SMOD_ID: 23_27735
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Siquirres
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '17663'
+      - '19205'
+      - '20778'
+      - '21894'
+      - '22672'
+      - '21973'
+      - '22145'
+      - '21626'
+      - '20448'
+      - '18028'
+      - '16737'
+      - '16188'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27736:
+      SMOD_ID: 23_27736
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Buenos Aires
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6735'
+      - '7917'
+      - '9232'
+      - '10399'
+      - '11548'
+      - '12188'
+      - '13143'
+      - '13784'
+      - '13983'
+      - '13652'
+      - '13330'
+      - '13260'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27737:
+      SMOD_ID: 23_27737
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Matina
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '5013'
+      - '5501'
+      - '5982'
+      - '6254'
+      - '6698'
+      - '6848'
+      - '7448'
+      - '7884'
+      - '8051'
+      - '7885'
+      - '7498'
+      - '7356'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27738:
+      SMOD_ID: 23_27738
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Matina
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1959'
+      - '2187'
+      - '2461'
+      - '2701'
+      - '2859'
+      - '2845'
+      - '2916'
+      - '2940'
+      - '2900'
+      - '2762'
+      - '2657'
+      - '2572'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27739:
+      SMOD_ID: 23_27739
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Golfito
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3355'
+      - '3896'
+      - '4454'
+      - '4920'
+      - '5695'
+      - '6123'
+      - '6543'
+      - '6760'
+      - '6766'
+      - '6539'
+      - '6271'
+      - '6162'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27740:
+      SMOD_ID: 23_27740
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Coto Brus
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4178'
+      - '5213'
+      - '6177'
+      - '6714'
+      - '6944'
+      - '6758'
+      - '6604'
+      - '6227'
+      - '5659'
+      - '4909'
+      - '4289'
+      - '3891'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27741:
+      SMOD_ID: 23_27741
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Corredores
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4662'
+      - '5418'
+      - '6156'
+      - '6753'
+      - '7252'
+      - '7232'
+      - '7393'
+      - '7388'
+      - '7167'
+      - '6714'
+      - '6287'
+      - '6199'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27742:
+      SMOD_ID: 23_27742
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Limón
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1772'
+      - '2176'
+      - '2675'
+      - '3101'
+      - '3406'
+      - '3655'
+      - '3851'
+      - '3962'
+      - '4000'
+      - '3872'
+      - '3731'
+      - '3647'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27743:
+      SMOD_ID: 23_27743
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Limón
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '42416'
+      - '46000'
+      - '49767'
+      - '52478'
+      - '53941'
+      - '53270'
+      - '54924'
+      - '55471'
+      - '54690'
+      - '52584'
+      - '50592'
+      - '49388'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27744:
+      SMOD_ID: 23_27744
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Corredores
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2913'
+      - '3426'
+      - '4071'
+      - '4629'
+      - '5351'
+      - '6055'
+      - '6970'
+      - '7737'
+      - '8117'
+      - '7714'
+      - '7377'
+      - '7327'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27745:
+      SMOD_ID: 23_27745
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Limón
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '524'
+      - '577'
+      - '635'
+      - '675'
+      - '853'
+      - '1059'
+      - '1148'
+      - '1218'
+      - '1242'
+      - '1173'
+      - '1091'
+      - '1046'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_23_27746:
+      SMOD_ID: 23_27746
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Talamanca
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.5.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '589'
+      - '840'
+      - '1167'
+      - '1425'
+      - '1496'
+      - '1429'
+      - '1428'
+      - '1396'
+      - '1371'
+      - '1354'
+      - '1349'
+      - '1361'
+      Settlement_level: Dense Urban Clusters
+   Costa Rica_30_3408:
+      SMOD_ID: 30_3408
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Puntarenas
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.6.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '26220'
+      - '28243'
+      - '31160'
+      - '36776'
+      - '44116'
+      - '52725'
+      - '57063'
+      - '61031'
+      - '62249'
+      - '61401'
+      - '61406'
+      - '63182'
+      Settlement_level: Urban Centres
+   Costa Rica_30_3409:
+      SMOD_ID: 30_3409
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Alajuela
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.1.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '774294'
+      - '894499'
+      - '1034967'
+      - '1208404'
+      - '1415252'
+      - '1659239'
+      - '1758839'
+      - '1845574'
+      - '1947600'
+      - '2090886'
+      - '2172675'
+      - '2225945'
+      Settlement_level: Urban Centres
+   Costa Rica_30_3410:
+      SMOD_ID: 30_3410
+      Country_name: Costa Rica
+      iso3c: CRI
+      Admin_name: Cartago
+      Admin_level: Adm2
+      Admin_geo_ID: CRI.2.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '121506'
+      - '136710'
+      - '154031'
+      - '169253'
+      - '182422'
+      - '189311'
+      - '206216'
+      - '220823'
+      - '229392'
+      - '226581'
+      - '224964'
+      - '227146'
+      Settlement_level: Urban Centres

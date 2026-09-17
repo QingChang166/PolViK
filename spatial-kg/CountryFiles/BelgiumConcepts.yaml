@@ -1,0 +1,91 @@
+concepts:
+  BEL.0_Adm0:
+    GID: BEL
+    admin_name: Belgium
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm0
+  BEL.1_1_Adm1:
+    GID: BEL.1_1
+    admin_name: Bruxelles
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm1
+  BEL.1.1_1_Adm2:
+    GID: BEL.1.1_1
+    admin_name: Bruxelles
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.2_1_Adm1:
+    GID: BEL.2_1
+    admin_name: Vlaanderen
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm1
+  BEL.2.1_1_Adm2:
+    GID: BEL.2.1_1
+    admin_name: Antwerpen
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.2.2_1_Adm2:
+    GID: BEL.2.2_1
+    admin_name: Limburg
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.2.3_1_Adm2:
+    GID: BEL.2.3_1
+    admin_name: Oost-Vlaanderen
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.2.4_1_Adm2:
+    GID: BEL.2.4_1
+    admin_name: Vlaams Brabant
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.2.5_1_Adm2:
+    GID: BEL.2.5_1
+    admin_name: West-Vlaanderen
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3_1_Adm1:
+    GID: BEL.3_1
+    admin_name: Wallonie
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm1
+  BEL.3.1_1_Adm2:
+    GID: BEL.3.1_1
+    admin_name: Brabant Wallon
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3.2_1_Adm2:
+    GID: BEL.3.2_1
+    admin_name: Hainaut
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3.3_1_Adm2:
+    GID: BEL.3.3_1
+    admin_name: Liège
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3.4_1_Adm2:
+    GID: BEL.3.4_1
+    admin_name: Luxembourg
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2
+  BEL.3.5_1_Adm2:
+    GID: BEL.3.5_1
+    admin_name: Namur
+    iso3c: BEL
+    country_name: Belgium
+    admin_level: Adm2

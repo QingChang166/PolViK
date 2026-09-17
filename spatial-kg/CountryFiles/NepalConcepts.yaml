@@ -1,0 +1,121 @@
+concepts:
+  NPL.0_Adm0:
+    GID: NPL
+    admin_name: Nepal
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm0
+  NPL.1_1_Adm1:
+    GID: NPL.1_1
+    admin_name: Central
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm1
+  NPL.1.1_1_Adm2:
+    GID: NPL.1.1_1
+    admin_name: Bagmati
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.1.2_1_Adm2:
+    GID: NPL.1.2_1
+    admin_name: Janakpur
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.1.3_1_Adm2:
+    GID: NPL.1.3_1
+    admin_name: Narayani
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.2_1_Adm1:
+    GID: NPL.2_1
+    admin_name: East
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm1
+  NPL.2.1_1_Adm2:
+    GID: NPL.2.1_1
+    admin_name: Koshi
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.2.2_1_Adm2:
+    GID: NPL.2.2_1
+    admin_name: Mechi
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.2.3_1_Adm2:
+    GID: NPL.2.3_1
+    admin_name: Sagarmatha
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.3_1_Adm1:
+    GID: NPL.3_1
+    admin_name: Far-Western
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm1
+  NPL.3.1_1_Adm2:
+    GID: NPL.3.1_1
+    admin_name: Mahakali
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.3.2_1_Adm2:
+    GID: NPL.3.2_1
+    admin_name: Seti
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.4_1_Adm1:
+    GID: NPL.4_1
+    admin_name: Mid-Western
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm1
+  NPL.4.1_1_Adm2:
+    GID: NPL.4.1_1
+    admin_name: Bheri
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.4.2_1_Adm2:
+    GID: NPL.4.2_1
+    admin_name: Karnali
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.4.3_1_Adm2:
+    GID: NPL.4.3_1
+    admin_name: Rapti
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.5_1_Adm1:
+    GID: NPL.5_1
+    admin_name: West
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm1
+  NPL.5.1_1_Adm2:
+    GID: NPL.5.1_1
+    admin_name: Dhaualagiri
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.5.2_1_Adm2:
+    GID: NPL.5.2_1
+    admin_name: Gandaki
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2
+  NPL.5.3_1_Adm2:
+    GID: NPL.5.3_1
+    admin_name: Lumbini
+    iso3c: NPL
+    country_name: Nepal
+    admin_level: Adm2

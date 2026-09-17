@@ -1,0 +1,1801 @@
+concepts:
+  IRN.0_Adm0:
+    GID: IRN
+    admin_name: Iran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm0
+  IRN.1_1_Adm1:
+    GID: IRN.1_1
+    admin_name: Alborz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.1.1_1_Adm2:
+    GID: IRN.1.1_1
+    admin_name: Karaj
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.1.2_1_Adm2:
+    GID: IRN.1.2_1
+    admin_name: Nazarabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.1.3_1_Adm2:
+    GID: IRN.1.3_1
+    admin_name: Savojbolagh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.1.4_1_Adm2:
+    GID: IRN.1.4_1
+    admin_name: Shahriyar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.10_1_Adm1:
+    GID: IRN.10_1
+    admin_name: Hamadan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.10.1_1_Adm2:
+    GID: IRN.10.1_1
+    admin_name: Asadabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.10.2_1_Adm2:
+    GID: IRN.10.2_1
+    admin_name: Bahar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.10.3_1_Adm2:
+    GID: IRN.10.3_1
+    admin_name: Hamadan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.10.4_1_Adm2:
+    GID: IRN.10.4_1
+    admin_name: Kabudarahang
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.10.5_1_Adm2:
+    GID: IRN.10.5_1
+    admin_name: Malayer
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.10.6_1_Adm2:
+    GID: IRN.10.6_1
+    admin_name: Nahavand
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.10.7_1_Adm2:
+    GID: IRN.10.7_1
+    admin_name: Razan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.10.8_1_Adm2:
+    GID: IRN.10.8_1
+    admin_name: Tuyserkan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11_1_Adm1:
+    GID: IRN.11_1
+    admin_name: Hormozgan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.11.1_1_Adm2:
+    GID: IRN.11.1_1
+    admin_name: Abu Musa
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.10_1_Adm2:
+    GID: IRN.11.10_1
+    admin_name: Kish
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.11_1_Adm2:
+    GID: IRN.11.11_1
+    admin_name: Lavan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.12_1_Adm2:
+    GID: IRN.11.12_1
+    admin_name: Lesser Tonb
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.13_1_Adm2:
+    GID: IRN.11.13_1
+    admin_name: Minab
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.14_1_Adm2:
+    GID: IRN.11.14_1
+    admin_name: Qeshm
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.15_1_Adm2:
+    GID: IRN.11.15_1
+    admin_name: Rudan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.16_1_Adm2:
+    GID: IRN.11.16_1
+    admin_name: Sirri
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.17_1_Adm2:
+    GID: IRN.11.17_1
+    admin_name: Strait of Hormuz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.2_1_Adm2:
+    GID: IRN.11.2_1
+    admin_name: Bandar-e-Abbas
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.3_1_Adm2:
+    GID: IRN.11.3_1
+    admin_name: Bandar-e-Jask
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.4_1_Adm2:
+    GID: IRN.11.4_1
+    admin_name: Bandar-e-Lengeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.5_1_Adm2:
+    GID: IRN.11.5_1
+    admin_name: Bastak
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.6_1_Adm2:
+    GID: IRN.11.6_1
+    admin_name: Greater Farur
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.7_1_Adm2:
+    GID: IRN.11.7_1
+    admin_name: Greater Tonb
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.8_1_Adm2:
+    GID: IRN.11.8_1
+    admin_name: Hajiabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.11.9_1_Adm2:
+    GID: IRN.11.9_1
+    admin_name: Hendorabi
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.12_1_Adm1:
+    GID: IRN.12_1
+    admin_name: Ilam
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.12.1_1_Adm2:
+    GID: IRN.12.1_1
+    admin_name: Abdanan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.12.2_1_Adm2:
+    GID: IRN.12.2_1
+    admin_name: Darrehshahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.12.3_1_Adm2:
+    GID: IRN.12.3_1
+    admin_name: Dehloran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.12.4_1_Adm2:
+    GID: IRN.12.4_1
+    admin_name: Eevan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.12.5_1_Adm2:
+    GID: IRN.12.5_1
+    admin_name: Ilam
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.12.6_1_Adm2:
+    GID: IRN.12.6_1
+    admin_name: Mehran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.12.7_1_Adm2:
+    GID: IRN.12.7_1
+    admin_name: Shirvan and Chard-e-Aval
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13_1_Adm1:
+    GID: IRN.13_1
+    admin_name: Kerman
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.13.1_1_Adm2:
+    GID: IRN.13.1_1
+    admin_name: Baft
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.10_1_Adm2:
+    GID: IRN.13.10_1
+    admin_name: Zarand
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.2_1_Adm2:
+    GID: IRN.13.2_1
+    admin_name: Bam
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.3_1_Adm2:
+    GID: IRN.13.3_1
+    admin_name: Bardsir
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.4_1_Adm2:
+    GID: IRN.13.4_1
+    admin_name: Jiroft
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.5_1_Adm2:
+    GID: IRN.13.5_1
+    admin_name: Kahnuj
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.6_1_Adm2:
+    GID: IRN.13.6_1
+    admin_name: Kerman
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.7_1_Adm2:
+    GID: IRN.13.7_1
+    admin_name: Rafsanjan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.8_1_Adm2:
+    GID: IRN.13.8_1
+    admin_name: Ravar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.13.9_1_Adm2:
+    GID: IRN.13.9_1
+    admin_name: Sirjan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14_1_Adm1:
+    GID: IRN.14_1
+    admin_name: Kermanshah
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.14.1_1_Adm2:
+    GID: IRN.14.1_1
+    admin_name: Eslamabad-e-Gharb
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.10_1_Adm2:
+    GID: IRN.14.10_1
+    admin_name: Sarpol-e-Zahab
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.11_1_Adm2:
+    GID: IRN.14.11_1
+    admin_name: Sonqor
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.2_1_Adm2:
+    GID: IRN.14.2_1
+    admin_name: Gilan-e-Gharb
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.3_1_Adm2:
+    GID: IRN.14.3_1
+    admin_name: Harsin
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.4_1_Adm2:
+    GID: IRN.14.4_1
+    admin_name: Kangavar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.5_1_Adm2:
+    GID: IRN.14.5_1
+    admin_name: Kermanshah
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.6_1_Adm2:
+    GID: IRN.14.6_1
+    admin_name: n.a. (03)
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.7_1_Adm2:
+    GID: IRN.14.7_1
+    admin_name: Paveh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.8_1_Adm2:
+    GID: IRN.14.8_1
+    admin_name: Qasr-e-Shirin
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.14.9_1_Adm2:
+    GID: IRN.14.9_1
+    admin_name: Sahneh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15_1_Adm1:
+    GID: IRN.15_1
+    admin_name: Khuzestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.15.1_1_Adm2:
+    GID: IRN.15.1_1
+    admin_name: Abadan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.10_1_Adm2:
+    GID: IRN.15.10_1
+    admin_name: Khorramshahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.11_1_Adm2:
+    GID: IRN.15.11_1
+    admin_name: Masjed Soleyman
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.12_1_Adm2:
+    GID: IRN.15.12_1
+    admin_name: Ramhormoz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.13_1_Adm2:
+    GID: IRN.15.13_1
+    admin_name: Shadegan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.14_1_Adm2:
+    GID: IRN.15.14_1
+    admin_name: Shush
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.15_1_Adm2:
+    GID: IRN.15.15_1
+    admin_name: Shushtar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.2_1_Adm2:
+    GID: IRN.15.2_1
+    admin_name: Ahvaz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.3_1_Adm2:
+    GID: IRN.15.3_1
+    admin_name: Andimeshk
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.4_1_Adm2:
+    GID: IRN.15.4_1
+    admin_name: Baghemalek
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.5_1_Adm2:
+    GID: IRN.15.5_1
+    admin_name: Bandar-e-Mahshahr/Hendijan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.6_1_Adm2:
+    GID: IRN.15.6_1
+    admin_name: Behbahan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.7_1_Adm2:
+    GID: IRN.15.7_1
+    admin_name: Dasht-e-Azadegan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.8_1_Adm2:
+    GID: IRN.15.8_1
+    admin_name: Dezful
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.15.9_1_Adm2:
+    GID: IRN.15.9_1
+    admin_name: Izeh County
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.16_1_Adm1:
+    GID: IRN.16_1
+    admin_name: Kohgiluyeh and Buyer Ahmad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.16.1_1_Adm2:
+    GID: IRN.16.1_1
+    admin_name: Boyer Ahmad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.16.2_1_Adm2:
+    GID: IRN.16.2_1
+    admin_name: Gachsaran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.16.3_1_Adm2:
+    GID: IRN.16.3_1
+    admin_name: Kohgiluyeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.17_1_Adm1:
+    GID: IRN.17_1
+    admin_name: Kordestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.17.1_1_Adm2:
+    GID: IRN.17.1_1
+    admin_name: Baneh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.17.2_1_Adm2:
+    GID: IRN.17.2_1
+    admin_name: Bijar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.17.3_1_Adm2:
+    GID: IRN.17.3_1
+    admin_name: Divandarreh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.17.4_1_Adm2:
+    GID: IRN.17.4_1
+    admin_name: Kamyaran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.17.5_1_Adm2:
+    GID: IRN.17.5_1
+    admin_name: Marivan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.17.6_1_Adm2:
+    GID: IRN.17.6_1
+    admin_name: Qorveh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.17.7_1_Adm2:
+    GID: IRN.17.7_1
+    admin_name: Sanandaj
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.17.8_1_Adm2:
+    GID: IRN.17.8_1
+    admin_name: Saqqez
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.18_1_Adm1:
+    GID: IRN.18_1
+    admin_name: Lorestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.18.1_1_Adm2:
+    GID: IRN.18.1_1
+    admin_name: Aligudarz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.18.2_1_Adm2:
+    GID: IRN.18.2_1
+    admin_name: Azna
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.18.3_1_Adm2:
+    GID: IRN.18.3_1
+    admin_name: Borujerd
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.18.4_1_Adm2:
+    GID: IRN.18.4_1
+    admin_name: Dalfan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.18.5_1_Adm2:
+    GID: IRN.18.5_1
+    admin_name: Dorud
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.18.6_1_Adm2:
+    GID: IRN.18.6_1
+    admin_name: Khorramabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.18.7_1_Adm2:
+    GID: IRN.18.7_1
+    admin_name: Kuhdasht
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.18.8_1_Adm2:
+    GID: IRN.18.8_1
+    admin_name: Poldokhtar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19_1_Adm1:
+    GID: IRN.19_1
+    admin_name: Markazi
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.19.1_1_Adm2:
+    GID: IRN.19.1_1
+    admin_name: Arak
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19.2_1_Adm2:
+    GID: IRN.19.2_1
+    admin_name: Ashtiyan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19.3_1_Adm2:
+    GID: IRN.19.3_1
+    admin_name: Delijan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19.4_1_Adm2:
+    GID: IRN.19.4_1
+    admin_name: Khomeyn
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19.5_1_Adm2:
+    GID: IRN.19.5_1
+    admin_name: Mahalat
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19.6_1_Adm2:
+    GID: IRN.19.6_1
+    admin_name: Saveh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19.7_1_Adm2:
+    GID: IRN.19.7_1
+    admin_name: Shazand
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19.8_1_Adm2:
+    GID: IRN.19.8_1
+    admin_name: Tafresh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.19.9_1_Adm2:
+    GID: IRN.19.9_1
+    admin_name: Zarandiyeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.2_1_Adm1:
+    GID: IRN.2_1
+    admin_name: Ardebil
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.2.1_1_Adm2:
+    GID: IRN.2.1_1
+    admin_name: Ardebil
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.2.2_1_Adm2:
+    GID: IRN.2.2_1
+    admin_name: Bilehsavar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.2.3_1_Adm2:
+    GID: IRN.2.3_1
+    admin_name: Germi
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.2.4_1_Adm2:
+    GID: IRN.2.4_1
+    admin_name: Khalkhal
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.2.5_1_Adm2:
+    GID: IRN.2.5_1
+    admin_name: Neer
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.2.6_1_Adm2:
+    GID: IRN.2.6_1
+    admin_name: Parsabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20_1_Adm1:
+    GID: IRN.20_1
+    admin_name: Mazandaran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.20.1_1_Adm2:
+    GID: IRN.20.1_1
+    admin_name: Amol
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.10_1_Adm2:
+    GID: IRN.20.10_1
+    admin_name: Sari
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.11_1_Adm2:
+    GID: IRN.20.11_1
+    admin_name: Savadkuh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.12_1_Adm2:
+    GID: IRN.20.12_1
+    admin_name: Tonekabon
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.2_1_Adm2:
+    GID: IRN.20.2_1
+    admin_name: Babol
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.3_1_Adm2:
+    GID: IRN.20.3_1
+    admin_name: Babolsar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.4_1_Adm2:
+    GID: IRN.20.4_1
+    admin_name: Behshahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.5_1_Adm2:
+    GID: IRN.20.5_1
+    admin_name: Chalus
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.6_1_Adm2:
+    GID: IRN.20.6_1
+    admin_name: Juybar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.7_1_Adm2:
+    GID: IRN.20.7_1
+    admin_name: Mahmudabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.8_1_Adm2:
+    GID: IRN.20.8_1
+    admin_name: Nur
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.20.9_1_Adm2:
+    GID: IRN.20.9_1
+    admin_name: Ramsar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.21_1_Adm1:
+    GID: IRN.21_1
+    admin_name: North Khorasan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.21.1_1_Adm2:
+    GID: IRN.21.1_1
+    admin_name: Bojnurd
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.21.2_1_Adm2:
+    GID: IRN.21.2_1
+    admin_name: Esfarayen
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.21.3_1_Adm2:
+    GID: IRN.21.3_1
+    admin_name: Jajarm
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.22_1_Adm1:
+    GID: IRN.22_1
+    admin_name: Qazvin
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.22.1_1_Adm2:
+    GID: IRN.22.1_1
+    admin_name: Qazvin
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.22.2_1_Adm2:
+    GID: IRN.22.2_1
+    admin_name: Takestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.23_1_Adm1:
+    GID: IRN.23_1
+    admin_name: Qom
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.23.1_1_Adm2:
+    GID: IRN.23.1_1
+    admin_name: Qom
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24_1_Adm1:
+    GID: IRN.24_1
+    admin_name: Razavi Khorasan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.24.1_1_Adm2:
+    GID: IRN.24.1_1
+    admin_name: Bardeskan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.10_1_Adm2:
+    GID: IRN.24.10_1
+    admin_name: n.a. (01)
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.11_1_Adm2:
+    GID: IRN.24.11_1
+    admin_name: n.a. (02)
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.12_1_Adm2:
+    GID: IRN.24.12_1
+    admin_name: Neyshabur
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.13_1_Adm2:
+    GID: IRN.24.13_1
+    admin_name: Quchan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.14_1_Adm2:
+    GID: IRN.24.14_1
+    admin_name: Sabzevar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.15_1_Adm2:
+    GID: IRN.24.15_1
+    admin_name: Sarakhs
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.16_1_Adm2:
+    GID: IRN.24.16_1
+    admin_name: Taybad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.17_1_Adm2:
+    GID: IRN.24.17_1
+    admin_name: Torbat-e-Heydarieh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.18_1_Adm2:
+    GID: IRN.24.18_1
+    admin_name: Torbat-e-Jam
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.2_1_Adm2:
+    GID: IRN.24.2_1
+    admin_name: Chenaran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.3_1_Adm2:
+    GID: IRN.24.3_1
+    admin_name: Dargaz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.4_1_Adm2:
+    GID: IRN.24.4_1
+    admin_name: Fariman
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.5_1_Adm2:
+    GID: IRN.24.5_1
+    admin_name: Ferdows
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.6_1_Adm2:
+    GID: IRN.24.6_1
+    admin_name: Gonabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.7_1_Adm2:
+    GID: IRN.24.7_1
+    admin_name: Kashmar/Khalilabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.8_1_Adm2:
+    GID: IRN.24.8_1
+    admin_name: Khaf
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.24.9_1_Adm2:
+    GID: IRN.24.9_1
+    admin_name: Mashhad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.25_1_Adm1:
+    GID: IRN.25_1
+    admin_name: Semnan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.25.1_1_Adm2:
+    GID: IRN.25.1_1
+    admin_name: Damghan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.25.2_1_Adm2:
+    GID: IRN.25.2_1
+    admin_name: Garmsar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.25.3_1_Adm2:
+    GID: IRN.25.3_1
+    admin_name: Semnan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.25.4_1_Adm2:
+    GID: IRN.25.4_1
+    admin_name: Shahrud
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.26_1_Adm1:
+    GID: IRN.26_1
+    admin_name: Sistan and Baluchestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.26.1_1_Adm2:
+    GID: IRN.26.1_1
+    admin_name: Chahbahar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.26.2_1_Adm2:
+    GID: IRN.26.2_1
+    admin_name: Iranshahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.26.3_1_Adm2:
+    GID: IRN.26.3_1
+    admin_name: Khash
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.26.4_1_Adm2:
+    GID: IRN.26.4_1
+    admin_name: Nikshahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.26.5_1_Adm2:
+    GID: IRN.26.5_1
+    admin_name: Saravan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.26.6_1_Adm2:
+    GID: IRN.26.6_1
+    admin_name: Zabol
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.26.7_1_Adm2:
+    GID: IRN.26.7_1
+    admin_name: Zahedan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.27_1_Adm1:
+    GID: IRN.27_1
+    admin_name: South Khorasan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.27.1_1_Adm2:
+    GID: IRN.27.1_1
+    admin_name: Birjand
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.27.2_1_Adm2:
+    GID: IRN.27.2_1
+    admin_name: Nehbandan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.27.3_1_Adm2:
+    GID: IRN.27.3_1
+    admin_name: Sarbisheh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28_1_Adm1:
+    GID: IRN.28_1
+    admin_name: Tehran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.28.1_1_Adm2:
+    GID: IRN.28.1_1
+    admin_name: Damavand
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28.2_1_Adm2:
+    GID: IRN.28.2_1
+    admin_name: Eslamshahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28.3_1_Adm2:
+    GID: IRN.28.3_1
+    admin_name: Firuzkuh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28.4_1_Adm2:
+    GID: IRN.28.4_1
+    admin_name: Pakdasht
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28.5_1_Adm2:
+    GID: IRN.28.5_1
+    admin_name: Rey
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28.6_1_Adm2:
+    GID: IRN.28.6_1
+    admin_name: Robatkarim
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28.7_1_Adm2:
+    GID: IRN.28.7_1
+    admin_name: Shemiranat
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28.8_1_Adm2:
+    GID: IRN.28.8_1
+    admin_name: Theran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.28.9_1_Adm2:
+    GID: IRN.28.9_1
+    admin_name: Varamin
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29_1_Adm1:
+    GID: IRN.29_1
+    admin_name: West Azarbaijan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.29.1_1_Adm2:
+    GID: IRN.29.1_1
+    admin_name: Bukan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.10_1_Adm2:
+    GID: IRN.29.10_1
+    admin_name: Piranshahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.11_1_Adm2:
+    GID: IRN.29.11_1
+    admin_name: Salmas
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.12_1_Adm2:
+    GID: IRN.29.12_1
+    admin_name: Sardasht
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.13_1_Adm2:
+    GID: IRN.29.13_1
+    admin_name: Shahindezh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.14_1_Adm2:
+    GID: IRN.29.14_1
+    admin_name: Takab
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.2_1_Adm2:
+    GID: IRN.29.2_1
+    admin_name: Chaldoran
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.3_1_Adm2:
+    GID: IRN.29.3_1
+    admin_name: Khoy
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.4_1_Adm2:
+    GID: IRN.29.4_1
+    admin_name: Mahabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.5_1_Adm2:
+    GID: IRN.29.5_1
+    admin_name: Maku
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.6_1_Adm2:
+    GID: IRN.29.6_1
+    admin_name: Miyandoab
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.7_1_Adm2:
+    GID: IRN.29.7_1
+    admin_name: Naqadeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.8_1_Adm2:
+    GID: IRN.29.8_1
+    admin_name: Orumiyeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.29.9_1_Adm2:
+    GID: IRN.29.9_1
+    admin_name: Oshnaviyeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.3_1_Adm1:
+    GID: IRN.3_1
+    admin_name: Bushehr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.3.1_1_Adm2:
+    GID: IRN.3.1_1
+    admin_name: Bushehr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.3.2_1_Adm2:
+    GID: IRN.3.2_1
+    admin_name: Dashtestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.3.3_1_Adm2:
+    GID: IRN.3.3_1
+    admin_name: Dashti
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.3.4_1_Adm2:
+    GID: IRN.3.4_1
+    admin_name: Dayyer
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.3.5_1_Adm2:
+    GID: IRN.3.5_1
+    admin_name: Deylam
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.3.6_1_Adm2:
+    GID: IRN.3.6_1
+    admin_name: Genaveh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.3.7_1_Adm2:
+    GID: IRN.3.7_1
+    admin_name: Jam
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.3.8_1_Adm2:
+    GID: IRN.3.8_1
+    admin_name: Tangestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.30_1_Adm1:
+    GID: IRN.30_1
+    admin_name: Yazd
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.30.1_1_Adm2:
+    GID: IRN.30.1_1
+    admin_name: Ardakan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.30.2_1_Adm2:
+    GID: IRN.30.2_1
+    admin_name: Bafq
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.30.3_1_Adm2:
+    GID: IRN.30.3_1
+    admin_name: Mehriz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.30.4_1_Adm2:
+    GID: IRN.30.4_1
+    admin_name: Meybod
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.30.5_1_Adm2:
+    GID: IRN.30.5_1
+    admin_name: Tabas
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.30.6_1_Adm2:
+    GID: IRN.30.6_1
+    admin_name: Taft
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.30.7_1_Adm2:
+    GID: IRN.30.7_1
+    admin_name: Yazd
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.31_1_Adm1:
+    GID: IRN.31_1
+    admin_name: Zanjan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.31.1_1_Adm2:
+    GID: IRN.31.1_1
+    admin_name: Abhar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.31.2_1_Adm2:
+    GID: IRN.31.2_1
+    admin_name: Khodabandeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.31.3_1_Adm2:
+    GID: IRN.31.3_1
+    admin_name: Khorramdarreh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.31.4_1_Adm2:
+    GID: IRN.31.4_1
+    admin_name: Mahneshan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.31.5_1_Adm2:
+    GID: IRN.31.5_1
+    admin_name: Tarom
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.31.6_1_Adm2:
+    GID: IRN.31.6_1
+    admin_name: Zanjan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.31.7_1_Adm2:
+    GID: IRN.31.7_1
+    admin_name: Zarrinabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.4_1_Adm1:
+    GID: IRN.4_1
+    admin_name: Chahar Mahall and Bakhtiari
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.4.1_1_Adm2:
+    GID: IRN.4.1_1
+    admin_name: Ardal
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.4.2_1_Adm2:
+    GID: IRN.4.2_1
+    admin_name: Borujen
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.4.3_1_Adm2:
+    GID: IRN.4.3_1
+    admin_name: Kuhrang
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.4.4_1_Adm2:
+    GID: IRN.4.4_1
+    admin_name: Lordakan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.4.5_1_Adm2:
+    GID: IRN.4.5_1
+    admin_name: Shahr-e-Kord
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5_1_Adm1:
+    GID: IRN.5_1
+    admin_name: East Azarbaijan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.5.1_1_Adm2:
+    GID: IRN.5.1_1
+    admin_name: Ahar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.10_1_Adm2:
+    GID: IRN.5.10_1
+    admin_name: Sarab
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.11_1_Adm2:
+    GID: IRN.5.11_1
+    admin_name: Shabestar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.12_1_Adm2:
+    GID: IRN.5.12_1
+    admin_name: Tabriz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.2_1_Adm2:
+    GID: IRN.5.2_1
+    admin_name: Bonab
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.3_1_Adm2:
+    GID: IRN.5.3_1
+    admin_name: Bostan Abad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.4_1_Adm2:
+    GID: IRN.5.4_1
+    admin_name: Hashtrud
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.5_1_Adm2:
+    GID: IRN.5.5_1
+    admin_name: Heris
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.6_1_Adm2:
+    GID: IRN.5.6_1
+    admin_name: Kaleibar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.7_1_Adm2:
+    GID: IRN.5.7_1
+    admin_name: Marand
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.8_1_Adm2:
+    GID: IRN.5.8_1
+    admin_name: Maraqeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.5.9_1_Adm2:
+    GID: IRN.5.9_1
+    admin_name: Mianeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6_1_Adm1:
+    GID: IRN.6_1
+    admin_name: Esfahan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.6.1_1_Adm2:
+    GID: IRN.6.1_1
+    admin_name: Ardestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.10_1_Adm2:
+    GID: IRN.6.10_1
+    admin_name: Lanjan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.11_1_Adm2:
+    GID: IRN.6.11_1
+    admin_name: Lower Semirom/Dehaghan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.12_1_Adm2:
+    GID: IRN.6.12_1
+    admin_name: Mobarakeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.13_1_Adm2:
+    GID: IRN.6.13_1
+    admin_name: Natanz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.14_1_Adm2:
+    GID: IRN.6.14_1
+    admin_name: Nayin
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.15_1_Adm2:
+    GID: IRN.6.15_1
+    admin_name: Semirom
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.16_1_Adm2:
+    GID: IRN.6.16_1
+    admin_name: Tiran and Karvan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.2_1_Adm2:
+    GID: IRN.6.2_1
+    admin_name: Borkhar and Meymeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.3_1_Adm2:
+    GID: IRN.6.3_1
+    admin_name: Chadegan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.4_1_Adm2:
+    GID: IRN.6.4_1
+    admin_name: Falavarjan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.5_1_Adm2:
+    GID: IRN.6.5_1
+    admin_name: Fereydunshahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.6_1_Adm2:
+    GID: IRN.6.6_1
+    admin_name: Golpayegan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.7_1_Adm2:
+    GID: IRN.6.7_1
+    admin_name: Kashan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.8_1_Adm2:
+    GID: IRN.6.8_1
+    admin_name: Khansar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.6.9_1_Adm2:
+    GID: IRN.6.9_1
+    admin_name: Khomeynishahr
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7_1_Adm1:
+    GID: IRN.7_1
+    admin_name: Fars
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.7.1_1_Adm2:
+    GID: IRN.7.1_1
+    admin_name: Abadeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.10_1_Adm2:
+    GID: IRN.7.10_1
+    admin_name: Lamard
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.11_1_Adm2:
+    GID: IRN.7.11_1
+    admin_name: Lar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.12_1_Adm2:
+    GID: IRN.7.12_1
+    admin_name: Mamasany
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.13_1_Adm2:
+    GID: IRN.7.13_1
+    admin_name: Marvdasht
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.14_1_Adm2:
+    GID: IRN.7.14_1
+    admin_name: Neyriz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.15_1_Adm2:
+    GID: IRN.7.15_1
+    admin_name: Sepidan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.16_1_Adm2:
+    GID: IRN.7.16_1
+    admin_name: Shiraz
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.2_1_Adm2:
+    GID: IRN.7.2_1
+    admin_name: Darab
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.3_1_Adm2:
+    GID: IRN.7.3_1
+    admin_name: Eqlid
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.4_1_Adm2:
+    GID: IRN.7.4_1
+    admin_name: Estahban
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.5_1_Adm2:
+    GID: IRN.7.5_1
+    admin_name: Fasa
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.6_1_Adm2:
+    GID: IRN.7.6_1
+    admin_name: Firozabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.7_1_Adm2:
+    GID: IRN.7.7_1
+    admin_name: Jahrom
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.8_1_Adm2:
+    GID: IRN.7.8_1
+    admin_name: Kazerun
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.7.9_1_Adm2:
+    GID: IRN.7.9_1
+    admin_name: Khorrambid
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8_1_Adm1:
+    GID: IRN.8_1
+    admin_name: Gilan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.8.1_1_Adm2:
+    GID: IRN.8.1_1
+    admin_name: Astaneh-ye-Ashrafiyeh
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.10_1_Adm2:
+    GID: IRN.8.10_1
+    admin_name: Rudsar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.11_1_Adm2:
+    GID: IRN.8.11_1
+    admin_name: Shaft
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.12_1_Adm2:
+    GID: IRN.8.12_1
+    admin_name: Sume'eh Sara
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.2_1_Adm2:
+    GID: IRN.8.2_1
+    admin_name: Astara
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.3_1_Adm2:
+    GID: IRN.8.3_1
+    admin_name: Bandar-e Anzali
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.4_1_Adm2:
+    GID: IRN.8.4_1
+    admin_name: Fuman
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.5_1_Adm2:
+    GID: IRN.8.5_1
+    admin_name: Hashtpar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.6_1_Adm2:
+    GID: IRN.8.6_1
+    admin_name: Lahijan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.7_1_Adm2:
+    GID: IRN.8.7_1
+    admin_name: Langrud
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.8_1_Adm2:
+    GID: IRN.8.8_1
+    admin_name: Rasht
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.8.9_1_Adm2:
+    GID: IRN.8.9_1
+    admin_name: Rudbar
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.9_1_Adm1:
+    GID: IRN.9_1
+    admin_name: Golestan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm1
+  IRN.9.1_1_Adm2:
+    GID: IRN.9.1_1
+    admin_name: Aliabad
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.9.2_1_Adm2:
+    GID: IRN.9.2_1
+    admin_name: Gonbad-e-Kavus
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.9.3_1_Adm2:
+    GID: IRN.9.3_1
+    admin_name: Gorgan
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.9.4_1_Adm2:
+    GID: IRN.9.4_1
+    admin_name: Kordkuy
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.9.5_1_Adm2:
+    GID: IRN.9.5_1
+    admin_name: Minudasht
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2
+  IRN.9.6_1_Adm2:
+    GID: IRN.9.6_1
+    admin_name: Torkaman
+    iso3c: IRN
+    country_name: Iran
+    admin_level: Adm2

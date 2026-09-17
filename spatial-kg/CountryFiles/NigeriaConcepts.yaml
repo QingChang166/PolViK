@@ -1,0 +1,4879 @@
+concepts:
+  NGA.0_Adm0:
+    GID: NGA
+    admin_name: Nigeria
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm0
+  NGA.1_1_Adm1:
+    GID: NGA.1_1
+    admin_name: Abia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.1.1_1_Adm2:
+    GID: NGA.1.1_1
+    admin_name: Aba North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.10_1_Adm2:
+    GID: NGA.1.10_1
+    admin_name: Ohafia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.11_1_Adm2:
+    GID: NGA.1.11_1
+    admin_name: Osisioma Ngwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.12_1_Adm2:
+    GID: NGA.1.12_1
+    admin_name: Ugwunagbo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.13_1_Adm2:
+    GID: NGA.1.13_1
+    admin_name: Ukwa East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.14_1_Adm2:
+    GID: NGA.1.14_1
+    admin_name: Ukwa West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.15_1_Adm2:
+    GID: NGA.1.15_1
+    admin_name: Umu Nneochi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.16_1_Adm2:
+    GID: NGA.1.16_1
+    admin_name: Umuahia North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.17_1_Adm2:
+    GID: NGA.1.17_1
+    admin_name: Umuahia South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.2_1_Adm2:
+    GID: NGA.1.2_1
+    admin_name: Aba South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.3_1_Adm2:
+    GID: NGA.1.3_1
+    admin_name: Arochukwu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.4_1_Adm2:
+    GID: NGA.1.4_1
+    admin_name: Bende
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.5_1_Adm2:
+    GID: NGA.1.5_1
+    admin_name: Ikwuano
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.6_1_Adm2:
+    GID: NGA.1.6_1
+    admin_name: Isiala Ngwa North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.7_1_Adm2:
+    GID: NGA.1.7_1
+    admin_name: Isiala Ngwa South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.8_1_Adm2:
+    GID: NGA.1.8_1
+    admin_name: Isuikwuato
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.1.9_1_Adm2:
+    GID: NGA.1.9_1
+    admin_name: Obi Ngwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10_1_Adm1:
+    GID: NGA.10_1
+    admin_name: Delta
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.10.1_1_Adm2:
+    GID: NGA.10.1_1
+    admin_name: Aniocha North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.10_1_Adm2:
+    GID: NGA.10.10_1
+    admin_name: Isoko South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.11_1_Adm2:
+    GID: NGA.10.11_1
+    admin_name: Ndokwa East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.12_1_Adm2:
+    GID: NGA.10.12_1
+    admin_name: Ndokwa West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.13_1_Adm2:
+    GID: NGA.10.13_1
+    admin_name: Okpe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.14_1_Adm2:
+    GID: NGA.10.14_1
+    admin_name: Oshimili North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.15_1_Adm2:
+    GID: NGA.10.15_1
+    admin_name: Oshimili South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.16_1_Adm2:
+    GID: NGA.10.16_1
+    admin_name: Patani
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.17_1_Adm2:
+    GID: NGA.10.17_1
+    admin_name: Sapele
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.18_1_Adm2:
+    GID: NGA.10.18_1
+    admin_name: Udu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.19_1_Adm2:
+    GID: NGA.10.19_1
+    admin_name: Ughelli North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.2_1_Adm2:
+    GID: NGA.10.2_1
+    admin_name: Aniocha South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.20_1_Adm2:
+    GID: NGA.10.20_1
+    admin_name: Ughelli South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.21_1_Adm2:
+    GID: NGA.10.21_1
+    admin_name: Ukwuani
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.22_1_Adm2:
+    GID: NGA.10.22_1
+    admin_name: Uvwie
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.23_1_Adm2:
+    GID: NGA.10.23_1
+    admin_name: Warri North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.24_1_Adm2:
+    GID: NGA.10.24_1
+    admin_name: Warri South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.25_1_Adm2:
+    GID: NGA.10.25_1
+    admin_name: Warri South-West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.3_1_Adm2:
+    GID: NGA.10.3_1
+    admin_name: Bomadi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.4_1_Adm2:
+    GID: NGA.10.4_1
+    admin_name: Burutu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.5_1_Adm2:
+    GID: NGA.10.5_1
+    admin_name: Ethiope West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.6_1_Adm2:
+    GID: NGA.10.6_1
+    admin_name: Ethiope East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.7_1_Adm2:
+    GID: NGA.10.7_1
+    admin_name: Ika North-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.8_1_Adm2:
+    GID: NGA.10.8_1
+    admin_name: Ika South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.10.9_1_Adm2:
+    GID: NGA.10.9_1
+    admin_name: Isoko North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11_1_Adm1:
+    GID: NGA.11_1
+    admin_name: Ebonyi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.11.1_1_Adm2:
+    GID: NGA.11.1_1
+    admin_name: Abakaliki
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.10_1_Adm2:
+    GID: NGA.11.10_1
+    admin_name: Izzi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.11_1_Adm2:
+    GID: NGA.11.11_1
+    admin_name: Ohaozara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.12_1_Adm2:
+    GID: NGA.11.12_1
+    admin_name: Ohaukwu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.13_1_Adm2:
+    GID: NGA.11.13_1
+    admin_name: Onicha
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.2_1_Adm2:
+    GID: NGA.11.2_1
+    admin_name: Afikpo North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.3_1_Adm2:
+    GID: NGA.11.3_1
+    admin_name: Afikpo South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.4_1_Adm2:
+    GID: NGA.11.4_1
+    admin_name: Ebonyi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.5_1_Adm2:
+    GID: NGA.11.5_1
+    admin_name: Ezza North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.6_1_Adm2:
+    GID: NGA.11.6_1
+    admin_name: Ezza South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.7_1_Adm2:
+    GID: NGA.11.7_1
+    admin_name: Ikwo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.8_1_Adm2:
+    GID: NGA.11.8_1
+    admin_name: Ishielu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.11.9_1_Adm2:
+    GID: NGA.11.9_1
+    admin_name: Ivo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12_1_Adm1:
+    GID: NGA.12_1
+    admin_name: Edo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.12.1_1_Adm2:
+    GID: NGA.12.1_1
+    admin_name: Akoko-Edo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.10_1_Adm2:
+    GID: NGA.12.10_1
+    admin_name: Igueben
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.11_1_Adm2:
+    GID: NGA.12.11_1
+    admin_name: Ikpoba-Okha
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.12_1_Adm2:
+    GID: NGA.12.12_1
+    admin_name: Oredo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.13_1_Adm2:
+    GID: NGA.12.13_1
+    admin_name: Orhionmwon
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.14_1_Adm2:
+    GID: NGA.12.14_1
+    admin_name: Ovia North-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.15_1_Adm2:
+    GID: NGA.12.15_1
+    admin_name: Ovia South-West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.16_1_Adm2:
+    GID: NGA.12.16_1
+    admin_name: Owan East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.17_1_Adm2:
+    GID: NGA.12.17_1
+    admin_name: Owan West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.18_1_Adm2:
+    GID: NGA.12.18_1
+    admin_name: Uhunmwonde
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.2_1_Adm2:
+    GID: NGA.12.2_1
+    admin_name: Egor
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.3_1_Adm2:
+    GID: NGA.12.3_1
+    admin_name: Esan Central
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.4_1_Adm2:
+    GID: NGA.12.4_1
+    admin_name: Esan North-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.5_1_Adm2:
+    GID: NGA.12.5_1
+    admin_name: Esan South-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.6_1_Adm2:
+    GID: NGA.12.6_1
+    admin_name: Esan West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.7_1_Adm2:
+    GID: NGA.12.7_1
+    admin_name: Etsako Central
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.8_1_Adm2:
+    GID: NGA.12.8_1
+    admin_name: Etsako East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.12.9_1_Adm2:
+    GID: NGA.12.9_1
+    admin_name: Etsako West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13_1_Adm1:
+    GID: NGA.13_1
+    admin_name: Ekiti
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.13.1_1_Adm2:
+    GID: NGA.13.1_1
+    admin_name: Ado-Ekiti
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.10_1_Adm2:
+    GID: NGA.13.10_1
+    admin_name: Ikere
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.11_1_Adm2:
+    GID: NGA.13.11_1
+    admin_name: Ikole
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.12_1_Adm2:
+    GID: NGA.13.12_1
+    admin_name: Ilejemeje
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.13_1_Adm2:
+    GID: NGA.13.13_1
+    admin_name: Irepodun/Ifelodun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.14_1_Adm2:
+    GID: NGA.13.14_1
+    admin_name: Ise/Orun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.15_1_Adm2:
+    GID: NGA.13.15_1
+    admin_name: Moba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.16_1_Adm2:
+    GID: NGA.13.16_1
+    admin_name: Oye
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.2_1_Adm2:
+    GID: NGA.13.2_1
+    admin_name: Efon
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.3_1_Adm2:
+    GID: NGA.13.3_1
+    admin_name: Ekiti East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.4_1_Adm2:
+    GID: NGA.13.4_1
+    admin_name: Ekiti South-West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.5_1_Adm2:
+    GID: NGA.13.5_1
+    admin_name: Ekiti West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.6_1_Adm2:
+    GID: NGA.13.6_1
+    admin_name: Emure/Ise/Orun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.7_1_Adm2:
+    GID: NGA.13.7_1
+    admin_name: Gboyin
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.8_1_Adm2:
+    GID: NGA.13.8_1
+    admin_name: Ido-Osi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.13.9_1_Adm2:
+    GID: NGA.13.9_1
+    admin_name: Ijero
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14_1_Adm1:
+    GID: NGA.14_1
+    admin_name: Enugu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.14.1_1_Adm2:
+    GID: NGA.14.1_1
+    admin_name: Aninri
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.10_1_Adm2:
+    GID: NGA.14.10_1
+    admin_name: Isi-Uzo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.11_1_Adm2:
+    GID: NGA.14.11_1
+    admin_name: Nkanu East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.12_1_Adm2:
+    GID: NGA.14.12_1
+    admin_name: Nkanu West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.13_1_Adm2:
+    GID: NGA.14.13_1
+    admin_name: Nsukka
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.14_1_Adm2:
+    GID: NGA.14.14_1
+    admin_name: Oji-River
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.15_1_Adm2:
+    GID: NGA.14.15_1
+    admin_name: Udenu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.16_1_Adm2:
+    GID: NGA.14.16_1
+    admin_name: Udi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.17_1_Adm2:
+    GID: NGA.14.17_1
+    admin_name: Uzo-Uwani
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.2_1_Adm2:
+    GID: NGA.14.2_1
+    admin_name: Awgu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.3_1_Adm2:
+    GID: NGA.14.3_1
+    admin_name: Enugu East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.4_1_Adm2:
+    GID: NGA.14.4_1
+    admin_name: Enugu North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.5_1_Adm2:
+    GID: NGA.14.5_1
+    admin_name: Enugu South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.6_1_Adm2:
+    GID: NGA.14.6_1
+    admin_name: Ezeagu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.7_1_Adm2:
+    GID: NGA.14.7_1
+    admin_name: Igbo-Etiti
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.8_1_Adm2:
+    GID: NGA.14.8_1
+    admin_name: Igbo-eze North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.14.9_1_Adm2:
+    GID: NGA.14.9_1
+    admin_name: Igbo-eze South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.15_1_Adm1:
+    GID: NGA.15_1
+    admin_name: Federal Capital Territory
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.15.1_1_Adm2:
+    GID: NGA.15.1_1
+    admin_name: Abaji
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.15.2_1_Adm2:
+    GID: NGA.15.2_1
+    admin_name: Abuja
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.15.3_1_Adm2:
+    GID: NGA.15.3_1
+    admin_name: Bwari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.15.4_1_Adm2:
+    GID: NGA.15.4_1
+    admin_name: Gwagwalada
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.15.5_1_Adm2:
+    GID: NGA.15.5_1
+    admin_name: Kuje
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.15.6_1_Adm2:
+    GID: NGA.15.6_1
+    admin_name: Kwali
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16_1_Adm1:
+    GID: NGA.16_1
+    admin_name: Gombe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.16.1_1_Adm2:
+    GID: NGA.16.1_1
+    admin_name: Akko
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.10_1_Adm2:
+    GID: NGA.16.10_1
+    admin_name: Shomgom
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.11_1_Adm2:
+    GID: NGA.16.11_1
+    admin_name: Yamaltu/Deba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.2_1_Adm2:
+    GID: NGA.16.2_1
+    admin_name: Balanga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.3_1_Adm2:
+    GID: NGA.16.3_1
+    admin_name: Billiri
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.4_1_Adm2:
+    GID: NGA.16.4_1
+    admin_name: Dukku
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.5_1_Adm2:
+    GID: NGA.16.5_1
+    admin_name: Funakaye
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.6_1_Adm2:
+    GID: NGA.16.6_1
+    admin_name: Gombe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.7_1_Adm2:
+    GID: NGA.16.7_1
+    admin_name: Kaltungo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.8_1_Adm2:
+    GID: NGA.16.8_1
+    admin_name: Kwami
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.16.9_1_Adm2:
+    GID: NGA.16.9_1
+    admin_name: Nafada
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17_1_Adm1:
+    GID: NGA.17_1
+    admin_name: Imo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.17.1_1_Adm2:
+    GID: NGA.17.1_1
+    admin_name: Aboh-Mbaise
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.10_1_Adm2:
+    GID: NGA.17.10_1
+    admin_name: Isu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.11_1_Adm2:
+    GID: NGA.17.11_1
+    admin_name: Mbatoli
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.12_1_Adm2:
+    GID: NGA.17.12_1
+    admin_name: Ngor-Okpala
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.13_1_Adm2:
+    GID: NGA.17.13_1
+    admin_name: Njaba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.14_1_Adm2:
+    GID: NGA.17.14_1
+    admin_name: Nkwerre
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.15_1_Adm2:
+    GID: NGA.17.15_1
+    admin_name: Nwangele
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.16_1_Adm2:
+    GID: NGA.17.16_1
+    admin_name: Obowo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.17_1_Adm2:
+    GID: NGA.17.17_1
+    admin_name: Oguta
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.18_1_Adm2:
+    GID: NGA.17.18_1
+    admin_name: Ohaji/Egbema
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.19_1_Adm2:
+    GID: NGA.17.19_1
+    admin_name: Okigwe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.2_1_Adm2:
+    GID: NGA.17.2_1
+    admin_name: Ahiazu-Mbaise
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.20_1_Adm2:
+    GID: NGA.17.20_1
+    admin_name: Orlu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.21_1_Adm2:
+    GID: NGA.17.21_1
+    admin_name: Orsu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.22_1_Adm2:
+    GID: NGA.17.22_1
+    admin_name: Oru East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.23_1_Adm2:
+    GID: NGA.17.23_1
+    admin_name: Oru West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.24_1_Adm2:
+    GID: NGA.17.24_1
+    admin_name: Owerri Municipal
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.25_1_Adm2:
+    GID: NGA.17.25_1
+    admin_name: Owerri North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.26_1_Adm2:
+    GID: NGA.17.26_1
+    admin_name: Owerri West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.27_1_Adm2:
+    GID: NGA.17.27_1
+    admin_name: Unuimo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.3_1_Adm2:
+    GID: NGA.17.3_1
+    admin_name: Ehime-Mbano
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.4_1_Adm2:
+    GID: NGA.17.4_1
+    admin_name: Ezinihitte Mbaise
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.5_1_Adm2:
+    GID: NGA.17.5_1
+    admin_name: Ideato South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.6_1_Adm2:
+    GID: NGA.17.6_1
+    admin_name: Ideato North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.7_1_Adm2:
+    GID: NGA.17.7_1
+    admin_name: Ihitte/Uboma
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.8_1_Adm2:
+    GID: NGA.17.8_1
+    admin_name: Ikeduru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.17.9_1_Adm2:
+    GID: NGA.17.9_1
+    admin_name: Isiala Mbano
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18_1_Adm1:
+    GID: NGA.18_1
+    admin_name: Jigawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.18.1_1_Adm2:
+    GID: NGA.18.1_1
+    admin_name: Auyo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.10_1_Adm2:
+    GID: NGA.18.10_1
+    admin_name: Guri
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.11_1_Adm2:
+    GID: NGA.18.11_1
+    admin_name: Gwaram
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.12_1_Adm2:
+    GID: NGA.18.12_1
+    admin_name: Gwiwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.13_1_Adm2:
+    GID: NGA.18.13_1
+    admin_name: Hadejia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.14_1_Adm2:
+    GID: NGA.18.14_1
+    admin_name: Jahun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.15_1_Adm2:
+    GID: NGA.18.15_1
+    admin_name: Kafin Hausa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.16_1_Adm2:
+    GID: NGA.18.16_1
+    admin_name: Kaugama
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.17_1_Adm2:
+    GID: NGA.18.17_1
+    admin_name: Kazaure
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.18_1_Adm2:
+    GID: NGA.18.18_1
+    admin_name: Kiri Kasama
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.19_1_Adm2:
+    GID: NGA.18.19_1
+    admin_name: Kiyawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.2_1_Adm2:
+    GID: NGA.18.2_1
+    admin_name: Babura
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.20_1_Adm2:
+    GID: NGA.18.20_1
+    admin_name: Maigatari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.21_1_Adm2:
+    GID: NGA.18.21_1
+    admin_name: Malam Maduri
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.22_1_Adm2:
+    GID: NGA.18.22_1
+    admin_name: Miga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.23_1_Adm2:
+    GID: NGA.18.23_1
+    admin_name: Ringim
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.24_1_Adm2:
+    GID: NGA.18.24_1
+    admin_name: Roni
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.25_1_Adm2:
+    GID: NGA.18.25_1
+    admin_name: Sule Tankarkar
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.26_1_Adm2:
+    GID: NGA.18.26_1
+    admin_name: Taura
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.27_1_Adm2:
+    GID: NGA.18.27_1
+    admin_name: Yankwashi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.3_1_Adm2:
+    GID: NGA.18.3_1
+    admin_name: Biriniwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.4_1_Adm2:
+    GID: NGA.18.4_1
+    admin_name: Birnin Kudu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.5_1_Adm2:
+    GID: NGA.18.5_1
+    admin_name: Buji
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.6_1_Adm2:
+    GID: NGA.18.6_1
+    admin_name: Dutse
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.7_1_Adm2:
+    GID: NGA.18.7_1
+    admin_name: Gagarawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.8_1_Adm2:
+    GID: NGA.18.8_1
+    admin_name: Garki
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.18.9_1_Adm2:
+    GID: NGA.18.9_1
+    admin_name: Gumel
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19_1_Adm1:
+    GID: NGA.19_1
+    admin_name: Kaduna
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.19.1_1_Adm2:
+    GID: NGA.19.1_1
+    admin_name: Birnin Gwari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.10_1_Adm2:
+    GID: NGA.19.10_1
+    admin_name: Kaduna South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.11_1_Adm2:
+    GID: NGA.19.11_1
+    admin_name: Kagarko
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.12_1_Adm2:
+    GID: NGA.19.12_1
+    admin_name: Kajuru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.13_1_Adm2:
+    GID: NGA.19.13_1
+    admin_name: Kaura
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.14_1_Adm2:
+    GID: NGA.19.14_1
+    admin_name: Kauru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.15_1_Adm2:
+    GID: NGA.19.15_1
+    admin_name: Kubau
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.16_1_Adm2:
+    GID: NGA.19.16_1
+    admin_name: Kudan
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.17_1_Adm2:
+    GID: NGA.19.17_1
+    admin_name: Lere
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.18_1_Adm2:
+    GID: NGA.19.18_1
+    admin_name: Makarfi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.19_1_Adm2:
+    GID: NGA.19.19_1
+    admin_name: Sabon Gari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.2_1_Adm2:
+    GID: NGA.19.2_1
+    admin_name: Chikun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.20_1_Adm2:
+    GID: NGA.19.20_1
+    admin_name: Sanga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.21_1_Adm2:
+    GID: NGA.19.21_1
+    admin_name: Soba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.22_1_Adm2:
+    GID: NGA.19.22_1
+    admin_name: Zangon Kataf
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.23_1_Adm2:
+    GID: NGA.19.23_1
+    admin_name: Zaria
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.3_1_Adm2:
+    GID: NGA.19.3_1
+    admin_name: Giwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.4_1_Adm2:
+    GID: NGA.19.4_1
+    admin_name: Igabi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.5_1_Adm2:
+    GID: NGA.19.5_1
+    admin_name: Ikara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.6_1_Adm2:
+    GID: NGA.19.6_1
+    admin_name: Jaba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.7_1_Adm2:
+    GID: NGA.19.7_1
+    admin_name: Jema'a
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.8_1_Adm2:
+    GID: NGA.19.8_1
+    admin_name: Kachia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.19.9_1_Adm2:
+    GID: NGA.19.9_1
+    admin_name: Kaduna North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2_1_Adm1:
+    GID: NGA.2_1
+    admin_name: Adamawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.2.1_1_Adm2:
+    GID: NGA.2.1_1
+    admin_name: Demsa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.10_1_Adm2:
+    GID: NGA.2.10_1
+    admin_name: Madagali
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.11_1_Adm2:
+    GID: NGA.2.11_1
+    admin_name: Maiha
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.12_1_Adm2:
+    GID: NGA.2.12_1
+    admin_name: Mayo-Belwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.13_1_Adm2:
+    GID: NGA.2.13_1
+    admin_name: Michika
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.14_1_Adm2:
+    GID: NGA.2.14_1
+    admin_name: Mubi North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.15_1_Adm2:
+    GID: NGA.2.15_1
+    admin_name: Mubi South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.16_1_Adm2:
+    GID: NGA.2.16_1
+    admin_name: Numan
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.17_1_Adm2:
+    GID: NGA.2.17_1
+    admin_name: Shelleng
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.18_1_Adm2:
+    GID: NGA.2.18_1
+    admin_name: Song
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.19_1_Adm2:
+    GID: NGA.2.19_1
+    admin_name: Teungo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.2_1_Adm2:
+    GID: NGA.2.2_1
+    admin_name: Fufore
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.20_1_Adm2:
+    GID: NGA.2.20_1
+    admin_name: Yola North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.21_1_Adm2:
+    GID: NGA.2.21_1
+    admin_name: Yola South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.3_1_Adm2:
+    GID: NGA.2.3_1
+    admin_name: Ganye
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.4_1_Adm2:
+    GID: NGA.2.4_1
+    admin_name: Girie
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.5_1_Adm2:
+    GID: NGA.2.5_1
+    admin_name: Gombi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.6_1_Adm2:
+    GID: NGA.2.6_1
+    admin_name: Guyuk
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.7_1_Adm2:
+    GID: NGA.2.7_1
+    admin_name: Hong
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.8_1_Adm2:
+    GID: NGA.2.8_1
+    admin_name: Jada
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.2.9_1_Adm2:
+    GID: NGA.2.9_1
+    admin_name: Lamurde
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20_1_Adm1:
+    GID: NGA.20_1
+    admin_name: Kano
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.20.1_1_Adm2:
+    GID: NGA.20.1_1
+    admin_name: Ajingi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.10_1_Adm2:
+    GID: NGA.20.10_1
+    admin_name: Dawakin Tofa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.11_1_Adm2:
+    GID: NGA.20.11_1
+    admin_name: Doguwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.12_1_Adm2:
+    GID: NGA.20.12_1
+    admin_name: Fagge
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.13_1_Adm2:
+    GID: NGA.20.13_1
+    admin_name: Gabasawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.14_1_Adm2:
+    GID: NGA.20.14_1
+    admin_name: Garko
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.15_1_Adm2:
+    GID: NGA.20.15_1
+    admin_name: Garum Mallam
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.16_1_Adm2:
+    GID: NGA.20.16_1
+    admin_name: Gaya
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.17_1_Adm2:
+    GID: NGA.20.17_1
+    admin_name: Gezawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.18_1_Adm2:
+    GID: NGA.20.18_1
+    admin_name: Gwale
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.19_1_Adm2:
+    GID: NGA.20.19_1
+    admin_name: Gwarzo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.2_1_Adm2:
+    GID: NGA.20.2_1
+    admin_name: Albasu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.20_1_Adm2:
+    GID: NGA.20.20_1
+    admin_name: Kabo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.21_1_Adm2:
+    GID: NGA.20.21_1
+    admin_name: Kano
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.22_1_Adm2:
+    GID: NGA.20.22_1
+    admin_name: Karaye
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.23_1_Adm2:
+    GID: NGA.20.23_1
+    admin_name: Kibiya
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.24_1_Adm2:
+    GID: NGA.20.24_1
+    admin_name: Kiru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.25_1_Adm2:
+    GID: NGA.20.25_1
+    admin_name: Kumbotso
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.26_1_Adm2:
+    GID: NGA.20.26_1
+    admin_name: Kunchi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.27_1_Adm2:
+    GID: NGA.20.27_1
+    admin_name: Kura
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.28_1_Adm2:
+    GID: NGA.20.28_1
+    admin_name: Madobi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.29_1_Adm2:
+    GID: NGA.20.29_1
+    admin_name: Makoda
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.3_1_Adm2:
+    GID: NGA.20.3_1
+    admin_name: Bagwai
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.30_1_Adm2:
+    GID: NGA.20.30_1
+    admin_name: Minjibir
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.31_1_Adm2:
+    GID: NGA.20.31_1
+    admin_name: Nasarawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.32_1_Adm2:
+    GID: NGA.20.32_1
+    admin_name: Rano
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.33_1_Adm2:
+    GID: NGA.20.33_1
+    admin_name: Rimin Gado
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.34_1_Adm2:
+    GID: NGA.20.34_1
+    admin_name: Rogo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.35_1_Adm2:
+    GID: NGA.20.35_1
+    admin_name: Shanono
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.36_1_Adm2:
+    GID: NGA.20.36_1
+    admin_name: Sumaila
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.37_1_Adm2:
+    GID: NGA.20.37_1
+    admin_name: Takai
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.38_1_Adm2:
+    GID: NGA.20.38_1
+    admin_name: Tarauni
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.39_1_Adm2:
+    GID: NGA.20.39_1
+    admin_name: Tofa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.4_1_Adm2:
+    GID: NGA.20.4_1
+    admin_name: Bebeji
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.40_1_Adm2:
+    GID: NGA.20.40_1
+    admin_name: Tsanyawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.41_1_Adm2:
+    GID: NGA.20.41_1
+    admin_name: Tudun Wada
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.42_1_Adm2:
+    GID: NGA.20.42_1
+    admin_name: Ungogo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.43_1_Adm2:
+    GID: NGA.20.43_1
+    admin_name: Warawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.44_1_Adm2:
+    GID: NGA.20.44_1
+    admin_name: Wudil
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.5_1_Adm2:
+    GID: NGA.20.5_1
+    admin_name: Bichi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.6_1_Adm2:
+    GID: NGA.20.6_1
+    admin_name: Bunkure
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.7_1_Adm2:
+    GID: NGA.20.7_1
+    admin_name: Dala
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.8_1_Adm2:
+    GID: NGA.20.8_1
+    admin_name: Dambatta
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.20.9_1_Adm2:
+    GID: NGA.20.9_1
+    admin_name: Dawakin Kudu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21_1_Adm1:
+    GID: NGA.21_1
+    admin_name: Katsina
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.21.1_1_Adm2:
+    GID: NGA.21.1_1
+    admin_name: Bakori
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.10_1_Adm2:
+    GID: NGA.21.10_1
+    admin_name: Daura
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.11_1_Adm2:
+    GID: NGA.21.11_1
+    admin_name: Dutsi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.12_1_Adm2:
+    GID: NGA.21.12_1
+    admin_name: Dutsinma
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.13_1_Adm2:
+    GID: NGA.21.13_1
+    admin_name: Faskari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.14_1_Adm2:
+    GID: NGA.21.14_1
+    admin_name: Funtua
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.15_1_Adm2:
+    GID: NGA.21.15_1
+    admin_name: Ingawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.16_1_Adm2:
+    GID: NGA.21.16_1
+    admin_name: Jibia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.17_1_Adm2:
+    GID: NGA.21.17_1
+    admin_name: Kafur
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.18_1_Adm2:
+    GID: NGA.21.18_1
+    admin_name: Kaita
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.19_1_Adm2:
+    GID: NGA.21.19_1
+    admin_name: Kankara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.2_1_Adm2:
+    GID: NGA.21.2_1
+    admin_name: Batagarawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.20_1_Adm2:
+    GID: NGA.21.20_1
+    admin_name: Kankia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.21_1_Adm2:
+    GID: NGA.21.21_1
+    admin_name: Katsina
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.22_1_Adm2:
+    GID: NGA.21.22_1
+    admin_name: Kurfi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.23_1_Adm2:
+    GID: NGA.21.23_1
+    admin_name: Kusada
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.24_1_Adm2:
+    GID: NGA.21.24_1
+    admin_name: Mai'Adua
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.25_1_Adm2:
+    GID: NGA.21.25_1
+    admin_name: Malumfashi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.26_1_Adm2:
+    GID: NGA.21.26_1
+    admin_name: Mani
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.27_1_Adm2:
+    GID: NGA.21.27_1
+    admin_name: Mashi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.28_1_Adm2:
+    GID: NGA.21.28_1
+    admin_name: Matazu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.29_1_Adm2:
+    GID: NGA.21.29_1
+    admin_name: Musawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.3_1_Adm2:
+    GID: NGA.21.3_1
+    admin_name: Batsari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.30_1_Adm2:
+    GID: NGA.21.30_1
+    admin_name: Rimi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.31_1_Adm2:
+    GID: NGA.21.31_1
+    admin_name: Sabuwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.32_1_Adm2:
+    GID: NGA.21.32_1
+    admin_name: Safana
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.33_1_Adm2:
+    GID: NGA.21.33_1
+    admin_name: Sandamu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.34_1_Adm2:
+    GID: NGA.21.34_1
+    admin_name: Zango
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.4_1_Adm2:
+    GID: NGA.21.4_1
+    admin_name: Baure
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.5_1_Adm2:
+    GID: NGA.21.5_1
+    admin_name: Bindawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.6_1_Adm2:
+    GID: NGA.21.6_1
+    admin_name: Charanchi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.7_1_Adm2:
+    GID: NGA.21.7_1
+    admin_name: Dandume
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.8_1_Adm2:
+    GID: NGA.21.8_1
+    admin_name: Danja
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.21.9_1_Adm2:
+    GID: NGA.21.9_1
+    admin_name: Danmusa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22_1_Adm1:
+    GID: NGA.22_1
+    admin_name: Kebbi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.22.1_1_Adm2:
+    GID: NGA.22.1_1
+    admin_name: Aleiro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.10_1_Adm2:
+    GID: NGA.22.10_1
+    admin_name: Fakai
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.11_1_Adm2:
+    GID: NGA.22.11_1
+    admin_name: Gwandu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.12_1_Adm2:
+    GID: NGA.22.12_1
+    admin_name: Jega
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.13_1_Adm2:
+    GID: NGA.22.13_1
+    admin_name: Kalgo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.14_1_Adm2:
+    GID: NGA.22.14_1
+    admin_name: Koko/Besse
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.15_1_Adm2:
+    GID: NGA.22.15_1
+    admin_name: Maiyama
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.16_1_Adm2:
+    GID: NGA.22.16_1
+    admin_name: Ngaski
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.17_1_Adm2:
+    GID: NGA.22.17_1
+    admin_name: Sakaba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.18_1_Adm2:
+    GID: NGA.22.18_1
+    admin_name: Shanga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.19_1_Adm2:
+    GID: NGA.22.19_1
+    admin_name: Suru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.2_1_Adm2:
+    GID: NGA.22.2_1
+    admin_name: Arewa Dandi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.20_1_Adm2:
+    GID: NGA.22.20_1
+    admin_name: Yauri
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.21_1_Adm2:
+    GID: NGA.22.21_1
+    admin_name: Zuru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.3_1_Adm2:
+    GID: NGA.22.3_1
+    admin_name: Argungu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.4_1_Adm2:
+    GID: NGA.22.4_1
+    admin_name: Augie
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.5_1_Adm2:
+    GID: NGA.22.5_1
+    admin_name: Bagudo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.6_1_Adm2:
+    GID: NGA.22.6_1
+    admin_name: Birnin Kebbi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.7_1_Adm2:
+    GID: NGA.22.7_1
+    admin_name: Bunza
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.8_1_Adm2:
+    GID: NGA.22.8_1
+    admin_name: Dandi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.22.9_1_Adm2:
+    GID: NGA.22.9_1
+    admin_name: Danko Wasagu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23_1_Adm1:
+    GID: NGA.23_1
+    admin_name: Kogi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.23.1_1_Adm2:
+    GID: NGA.23.1_1
+    admin_name: Adavi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.10_1_Adm2:
+    GID: NGA.23.10_1
+    admin_name: Kabba/Bunu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.11_1_Adm2:
+    GID: NGA.23.11_1
+    admin_name: Kogi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.12_1_Adm2:
+    GID: NGA.23.12_1
+    admin_name: Lokoja
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.13_1_Adm2:
+    GID: NGA.23.13_1
+    admin_name: Mopa-Muro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.14_1_Adm2:
+    GID: NGA.23.14_1
+    admin_name: Ofu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.15_1_Adm2:
+    GID: NGA.23.15_1
+    admin_name: Ogori/Magongo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.16_1_Adm2:
+    GID: NGA.23.16_1
+    admin_name: Okehi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.17_1_Adm2:
+    GID: NGA.23.17_1
+    admin_name: Okene
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.18_1_Adm2:
+    GID: NGA.23.18_1
+    admin_name: Olamaboro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.19_1_Adm2:
+    GID: NGA.23.19_1
+    admin_name: Omala
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.2_1_Adm2:
+    GID: NGA.23.2_1
+    admin_name: Ajaokuta
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.20_1_Adm2:
+    GID: NGA.23.20_1
+    admin_name: Yagba East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.21_1_Adm2:
+    GID: NGA.23.21_1
+    admin_name: Yagba West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.3_1_Adm2:
+    GID: NGA.23.3_1
+    admin_name: Ankpa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.4_1_Adm2:
+    GID: NGA.23.4_1
+    admin_name: Bassa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.5_1_Adm2:
+    GID: NGA.23.5_1
+    admin_name: Dekina
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.6_1_Adm2:
+    GID: NGA.23.6_1
+    admin_name: Ibaji
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.7_1_Adm2:
+    GID: NGA.23.7_1
+    admin_name: Idah
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.8_1_Adm2:
+    GID: NGA.23.8_1
+    admin_name: Igalamela-Odolu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.23.9_1_Adm2:
+    GID: NGA.23.9_1
+    admin_name: Ijumu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24_1_Adm1:
+    GID: NGA.24_1
+    admin_name: Kwara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.24.1_1_Adm2:
+    GID: NGA.24.1_1
+    admin_name: Asa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.10_1_Adm2:
+    GID: NGA.24.10_1
+    admin_name: Isin
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.11_1_Adm2:
+    GID: NGA.24.11_1
+    admin_name: Kaiama
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.12_1_Adm2:
+    GID: NGA.24.12_1
+    admin_name: Moro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.13_1_Adm2:
+    GID: NGA.24.13_1
+    admin_name: Offa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.14_1_Adm2:
+    GID: NGA.24.14_1
+    admin_name: Oke-Ero
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.15_1_Adm2:
+    GID: NGA.24.15_1
+    admin_name: Oyun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.16_1_Adm2:
+    GID: NGA.24.16_1
+    admin_name: Pategi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.2_1_Adm2:
+    GID: NGA.24.2_1
+    admin_name: Baruten
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.3_1_Adm2:
+    GID: NGA.24.3_1
+    admin_name: Edu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.4_1_Adm2:
+    GID: NGA.24.4_1
+    admin_name: Ekiti
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.5_1_Adm2:
+    GID: NGA.24.5_1
+    admin_name: Ifelodun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.6_1_Adm2:
+    GID: NGA.24.6_1
+    admin_name: Ilorin East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.7_1_Adm2:
+    GID: NGA.24.7_1
+    admin_name: Ilorin South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.8_1_Adm2:
+    GID: NGA.24.8_1
+    admin_name: Ilorin West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.24.9_1_Adm2:
+    GID: NGA.24.9_1
+    admin_name: Irepodun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25_1_Adm1:
+    GID: NGA.25_1
+    admin_name: Lagos
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.25.1_1_Adm2:
+    GID: NGA.25.1_1
+    admin_name: Agege
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.10_1_Adm2:
+    GID: NGA.25.10_1
+    admin_name: Ifako/Ijaye
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.11_1_Adm2:
+    GID: NGA.25.11_1
+    admin_name: Ikeja
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.12_1_Adm2:
+    GID: NGA.25.12_1
+    admin_name: Ikorodu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.13_1_Adm2:
+    GID: NGA.25.13_1
+    admin_name: Kosofe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.14_1_Adm2:
+    GID: NGA.25.14_1
+    admin_name: Lagos Island
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.15_1_Adm2:
+    GID: NGA.25.15_1
+    admin_name: Mainland
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.16_1_Adm2:
+    GID: NGA.25.16_1
+    admin_name: Mushin
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.17_1_Adm2:
+    GID: NGA.25.17_1
+    admin_name: Ojo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.18_1_Adm2:
+    GID: NGA.25.18_1
+    admin_name: Oshodi/Isolo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.19_1_Adm2:
+    GID: NGA.25.19_1
+    admin_name: Shomolu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.2_1_Adm2:
+    GID: NGA.25.2_1
+    admin_name: Ajeromi/Ifelodun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.20_1_Adm2:
+    GID: NGA.25.20_1
+    admin_name: Surulere
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.3_1_Adm2:
+    GID: NGA.25.3_1
+    admin_name: Alimosho
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.4_1_Adm2:
+    GID: NGA.25.4_1
+    admin_name: Amuwo Odofin
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.5_1_Adm2:
+    GID: NGA.25.5_1
+    admin_name: Apapa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.6_1_Adm2:
+    GID: NGA.25.6_1
+    admin_name: Badagry
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.7_1_Adm2:
+    GID: NGA.25.7_1
+    admin_name: Epe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.8_1_Adm2:
+    GID: NGA.25.8_1
+    admin_name: Eti-Osa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.25.9_1_Adm2:
+    GID: NGA.25.9_1
+    admin_name: Ibeju-Lekki
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26_1_Adm1:
+    GID: NGA.26_1
+    admin_name: Nasarawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.26.1_1_Adm2:
+    GID: NGA.26.1_1
+    admin_name: Akwanga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.10_1_Adm2:
+    GID: NGA.26.10_1
+    admin_name: Nasarawa Eggon
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.11_1_Adm2:
+    GID: NGA.26.11_1
+    admin_name: Obi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.12_1_Adm2:
+    GID: NGA.26.12_1
+    admin_name: Toto
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.13_1_Adm2:
+    GID: NGA.26.13_1
+    admin_name: Wamba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.2_1_Adm2:
+    GID: NGA.26.2_1
+    admin_name: Awe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.3_1_Adm2:
+    GID: NGA.26.3_1
+    admin_name: Doma
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.4_1_Adm2:
+    GID: NGA.26.4_1
+    admin_name: Karu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.5_1_Adm2:
+    GID: NGA.26.5_1
+    admin_name: Keana
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.6_1_Adm2:
+    GID: NGA.26.6_1
+    admin_name: Keffi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.7_1_Adm2:
+    GID: NGA.26.7_1
+    admin_name: Kokona
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.8_1_Adm2:
+    GID: NGA.26.8_1
+    admin_name: Lafia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.26.9_1_Adm2:
+    GID: NGA.26.9_1
+    admin_name: Nasarawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27_1_Adm1:
+    GID: NGA.27_1
+    admin_name: Niger
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.27.1_1_Adm2:
+    GID: NGA.27.1_1
+    admin_name: Agaie
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.10_1_Adm2:
+    GID: NGA.27.10_1
+    admin_name: Katcha
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.11_1_Adm2:
+    GID: NGA.27.11_1
+    admin_name: Kontagora
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.12_1_Adm2:
+    GID: NGA.27.12_1
+    admin_name: Lapai
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.13_1_Adm2:
+    GID: NGA.27.13_1
+    admin_name: Lavun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.14_1_Adm2:
+    GID: NGA.27.14_1
+    admin_name: Magama
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.15_1_Adm2:
+    GID: NGA.27.15_1
+    admin_name: Mariga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.16_1_Adm2:
+    GID: NGA.27.16_1
+    admin_name: Mashegu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.17_1_Adm2:
+    GID: NGA.27.17_1
+    admin_name: Mokwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.18_1_Adm2:
+    GID: NGA.27.18_1
+    admin_name: Muya
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.19_1_Adm2:
+    GID: NGA.27.19_1
+    admin_name: Paikoro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.2_1_Adm2:
+    GID: NGA.27.2_1
+    admin_name: Agwara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.20_1_Adm2:
+    GID: NGA.27.20_1
+    admin_name: Rafi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.21_1_Adm2:
+    GID: NGA.27.21_1
+    admin_name: Rijau
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.22_1_Adm2:
+    GID: NGA.27.22_1
+    admin_name: Shiroro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.23_1_Adm2:
+    GID: NGA.27.23_1
+    admin_name: Suleja
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.24_1_Adm2:
+    GID: NGA.27.24_1
+    admin_name: Tafa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.25_1_Adm2:
+    GID: NGA.27.25_1
+    admin_name: Wushishi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.3_1_Adm2:
+    GID: NGA.27.3_1
+    admin_name: Bida
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.4_1_Adm2:
+    GID: NGA.27.4_1
+    admin_name: Borgu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.5_1_Adm2:
+    GID: NGA.27.5_1
+    admin_name: Bosso
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.6_1_Adm2:
+    GID: NGA.27.6_1
+    admin_name: Chanchaga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.7_1_Adm2:
+    GID: NGA.27.7_1
+    admin_name: Edati
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.8_1_Adm2:
+    GID: NGA.27.8_1
+    admin_name: Gbako
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.27.9_1_Adm2:
+    GID: NGA.27.9_1
+    admin_name: Gurara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28_1_Adm1:
+    GID: NGA.28_1
+    admin_name: Ogun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.28.1_1_Adm2:
+    GID: NGA.28.1_1
+    admin_name: Abeokuta South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.10_1_Adm2:
+    GID: NGA.28.10_1
+    admin_name: Ijebu North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.11_1_Adm2:
+    GID: NGA.28.11_1
+    admin_name: Ijebu-Ode
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.12_1_Adm2:
+    GID: NGA.28.12_1
+    admin_name: Ikenne
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.13_1_Adm2:
+    GID: NGA.28.13_1
+    admin_name: Imeko-Afon
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.14_1_Adm2:
+    GID: NGA.28.14_1
+    admin_name: Ipokia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.15_1_Adm2:
+    GID: NGA.28.15_1
+    admin_name: Obafemi-Owode
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.16_1_Adm2:
+    GID: NGA.28.16_1
+    admin_name: Odeda
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.17_1_Adm2:
+    GID: NGA.28.17_1
+    admin_name: Odogbolu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.18_1_Adm2:
+    GID: NGA.28.18_1
+    admin_name: Ogun Waterside
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.19_1_Adm2:
+    GID: NGA.28.19_1
+    admin_name: Remo-North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.2_1_Adm2:
+    GID: NGA.28.2_1
+    admin_name: Abeokuta North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.20_1_Adm2:
+    GID: NGA.28.20_1
+    admin_name: Shagamu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.3_1_Adm2:
+    GID: NGA.28.3_1
+    admin_name: Ado Odo/Ota
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.4_1_Adm2:
+    GID: NGA.28.4_1
+    admin_name: Yewa North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.5_1_Adm2:
+    GID: NGA.28.5_1
+    admin_name: Yewa South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.6_1_Adm2:
+    GID: NGA.28.6_1
+    admin_name: Ewekoro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.7_1_Adm2:
+    GID: NGA.28.7_1
+    admin_name: Ifo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.8_1_Adm2:
+    GID: NGA.28.8_1
+    admin_name: Ijebu North-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.28.9_1_Adm2:
+    GID: NGA.28.9_1
+    admin_name: Ijebu East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29_1_Adm1:
+    GID: NGA.29_1
+    admin_name: Ondo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.29.1_1_Adm2:
+    GID: NGA.29.1_1
+    admin_name: Akoko North-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.10_1_Adm2:
+    GID: NGA.29.10_1
+    admin_name: Ilaje
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.11_1_Adm2:
+    GID: NGA.29.11_1
+    admin_name: Ile-Oluji/Okeigbo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.12_1_Adm2:
+    GID: NGA.29.12_1
+    admin_name: Irele
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.13_1_Adm2:
+    GID: NGA.29.13_1
+    admin_name: Odigbo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.14_1_Adm2:
+    GID: NGA.29.14_1
+    admin_name: Okitipupa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.15_1_Adm2:
+    GID: NGA.29.15_1
+    admin_name: Ondo East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.16_1_Adm2:
+    GID: NGA.29.16_1
+    admin_name: Ondo West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.17_1_Adm2:
+    GID: NGA.29.17_1
+    admin_name: Ose
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.18_1_Adm2:
+    GID: NGA.29.18_1
+    admin_name: Owo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.2_1_Adm2:
+    GID: NGA.29.2_1
+    admin_name: Akoko South-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.3_1_Adm2:
+    GID: NGA.29.3_1
+    admin_name: Akoko South-West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.4_1_Adm2:
+    GID: NGA.29.4_1
+    admin_name: Akoko North-West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.5_1_Adm2:
+    GID: NGA.29.5_1
+    admin_name: Akure North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.6_1_Adm2:
+    GID: NGA.29.6_1
+    admin_name: Akure South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.7_1_Adm2:
+    GID: NGA.29.7_1
+    admin_name: Ese-Odo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.8_1_Adm2:
+    GID: NGA.29.8_1
+    admin_name: Idanre
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.29.9_1_Adm2:
+    GID: NGA.29.9_1
+    admin_name: Ifedore
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3_1_Adm1:
+    GID: NGA.3_1
+    admin_name: Akwa Ibom
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.3.1_1_Adm2:
+    GID: NGA.3.1_1
+    admin_name: Abak
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.10_1_Adm2:
+    GID: NGA.3.10_1
+    admin_name: Ibiono Ibom
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.11_1_Adm2:
+    GID: NGA.3.11_1
+    admin_name: Ika
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.12_1_Adm2:
+    GID: NGA.3.12_1
+    admin_name: Ikono
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.13_1_Adm2:
+    GID: NGA.3.13_1
+    admin_name: Ikot Abasi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.14_1_Adm2:
+    GID: NGA.3.14_1
+    admin_name: Ikot Ekpene
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.15_1_Adm2:
+    GID: NGA.3.15_1
+    admin_name: Ini
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.16_1_Adm2:
+    GID: NGA.3.16_1
+    admin_name: Itu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.17_1_Adm2:
+    GID: NGA.3.17_1
+    admin_name: Mbo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.18_1_Adm2:
+    GID: NGA.3.18_1
+    admin_name: Mkpat Enin
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.19_1_Adm2:
+    GID: NGA.3.19_1
+    admin_name: Nsit Atai
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.2_1_Adm2:
+    GID: NGA.3.2_1
+    admin_name: Eastern Obolo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.20_1_Adm2:
+    GID: NGA.3.20_1
+    admin_name: Nsit Ibom
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.21_1_Adm2:
+    GID: NGA.3.21_1
+    admin_name: Nsit Ubium
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.22_1_Adm2:
+    GID: NGA.3.22_1
+    admin_name: Obot Akara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.23_1_Adm2:
+    GID: NGA.3.23_1
+    admin_name: Okobo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.24_1_Adm2:
+    GID: NGA.3.24_1
+    admin_name: Onna
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.25_1_Adm2:
+    GID: NGA.3.25_1
+    admin_name: Oron
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.26_1_Adm2:
+    GID: NGA.3.26_1
+    admin_name: Oruk Anam
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.27_1_Adm2:
+    GID: NGA.3.27_1
+    admin_name: Udung Uko
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.28_1_Adm2:
+    GID: NGA.3.28_1
+    admin_name: Ukanafun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.29_1_Adm2:
+    GID: NGA.3.29_1
+    admin_name: Uruan
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.3_1_Adm2:
+    GID: NGA.3.3_1
+    admin_name: Eket
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.30_1_Adm2:
+    GID: NGA.3.30_1
+    admin_name: Urue Offong
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.31_1_Adm2:
+    GID: NGA.3.31_1
+    admin_name: Uyo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.4_1_Adm2:
+    GID: NGA.3.4_1
+    admin_name: Esit Eket
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.5_1_Adm2:
+    GID: NGA.3.5_1
+    admin_name: Essien Udim
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.6_1_Adm2:
+    GID: NGA.3.6_1
+    admin_name: Etim Ekpo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.7_1_Adm2:
+    GID: NGA.3.7_1
+    admin_name: Etinan
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.8_1_Adm2:
+    GID: NGA.3.8_1
+    admin_name: Ibeno
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.3.9_1_Adm2:
+    GID: NGA.3.9_1
+    admin_name: Ibesikpo Asutan
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30_1_Adm1:
+    GID: NGA.30_1
+    admin_name: Osun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.30.1_1_Adm2:
+    GID: NGA.30.1_1
+    admin_name: Atakumosa East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.10_1_Adm2:
+    GID: NGA.30.10_1
+    admin_name: Ejigbo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.11_1_Adm2:
+    GID: NGA.30.11_1
+    admin_name: Ife East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.12_1_Adm2:
+    GID: NGA.30.12_1
+    admin_name: Ife North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.13_1_Adm2:
+    GID: NGA.30.13_1
+    admin_name: Ife South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.14_1_Adm2:
+    GID: NGA.30.14_1
+    admin_name: Ife Central
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.15_1_Adm2:
+    GID: NGA.30.15_1
+    admin_name: Ifedayo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.16_1_Adm2:
+    GID: NGA.30.16_1
+    admin_name: Ifelodun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.17_1_Adm2:
+    GID: NGA.30.17_1
+    admin_name: Ila
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.18_1_Adm2:
+    GID: NGA.30.18_1
+    admin_name: Ilesha East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.19_1_Adm2:
+    GID: NGA.30.19_1
+    admin_name: Ilesha West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.2_1_Adm2:
+    GID: NGA.30.2_1
+    admin_name: Atakumosa West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.20_1_Adm2:
+    GID: NGA.30.20_1
+    admin_name: Irepodun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.21_1_Adm2:
+    GID: NGA.30.21_1
+    admin_name: Irewole
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.22_1_Adm2:
+    GID: NGA.30.22_1
+    admin_name: Isokan
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.23_1_Adm2:
+    GID: NGA.30.23_1
+    admin_name: Iwo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.24_1_Adm2:
+    GID: NGA.30.24_1
+    admin_name: Obokun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.25_1_Adm2:
+    GID: NGA.30.25_1
+    admin_name: Odo-Otin
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.26_1_Adm2:
+    GID: NGA.30.26_1
+    admin_name: Ola Oluwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.27_1_Adm2:
+    GID: NGA.30.27_1
+    admin_name: Olorunda
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.28_1_Adm2:
+    GID: NGA.30.28_1
+    admin_name: Oriade
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.29_1_Adm2:
+    GID: NGA.30.29_1
+    admin_name: Orolu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.3_1_Adm2:
+    GID: NGA.30.3_1
+    admin_name: Aiyedade
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.30_1_Adm2:
+    GID: NGA.30.30_1
+    admin_name: Osogbo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.4_1_Adm2:
+    GID: NGA.30.4_1
+    admin_name: Ayedire
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.5_1_Adm2:
+    GID: NGA.30.5_1
+    admin_name: Boluwaduro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.6_1_Adm2:
+    GID: NGA.30.6_1
+    admin_name: Boripe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.7_1_Adm2:
+    GID: NGA.30.7_1
+    admin_name: Ede North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.8_1_Adm2:
+    GID: NGA.30.8_1
+    admin_name: Ede South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.30.9_1_Adm2:
+    GID: NGA.30.9_1
+    admin_name: Egbedore
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31_1_Adm1:
+    GID: NGA.31_1
+    admin_name: Oyo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.31.1_1_Adm2:
+    GID: NGA.31.1_1
+    admin_name: Afijio
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.10_1_Adm2:
+    GID: NGA.31.10_1
+    admin_name: Ibadan South-West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.11_1_Adm2:
+    GID: NGA.31.11_1
+    admin_name: Ibarapa Central
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.12_1_Adm2:
+    GID: NGA.31.12_1
+    admin_name: Ibarapa East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.13_1_Adm2:
+    GID: NGA.31.13_1
+    admin_name: Ibarapa North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.14_1_Adm2:
+    GID: NGA.31.14_1
+    admin_name: Ido
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.15_1_Adm2:
+    GID: NGA.31.15_1
+    admin_name: Irepo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.16_1_Adm2:
+    GID: NGA.31.16_1
+    admin_name: Iseyin
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.17_1_Adm2:
+    GID: NGA.31.17_1
+    admin_name: Itesiwaju
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.18_1_Adm2:
+    GID: NGA.31.18_1
+    admin_name: Iwajowa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.19_1_Adm2:
+    GID: NGA.31.19_1
+    admin_name: Kajola
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.2_1_Adm2:
+    GID: NGA.31.2_1
+    admin_name: Akinyele
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.20_1_Adm2:
+    GID: NGA.31.20_1
+    admin_name: Lagelu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.21_1_Adm2:
+    GID: NGA.31.21_1
+    admin_name: Ogbomosho North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.22_1_Adm2:
+    GID: NGA.31.22_1
+    admin_name: Ogbomosho South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.23_1_Adm2:
+    GID: NGA.31.23_1
+    admin_name: Ogo Oluwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.24_1_Adm2:
+    GID: NGA.31.24_1
+    admin_name: Olorunsogo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.25_1_Adm2:
+    GID: NGA.31.25_1
+    admin_name: Oluyole
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.26_1_Adm2:
+    GID: NGA.31.26_1
+    admin_name: Ona Ara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.27_1_Adm2:
+    GID: NGA.31.27_1
+    admin_name: Orelope
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.28_1_Adm2:
+    GID: NGA.31.28_1
+    admin_name: Ori-Ire
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.29_1_Adm2:
+    GID: NGA.31.29_1
+    admin_name: Oyo East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.3_1_Adm2:
+    GID: NGA.31.3_1
+    admin_name: Atiba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.30_1_Adm2:
+    GID: NGA.31.30_1
+    admin_name: Oyo West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.31_1_Adm2:
+    GID: NGA.31.31_1
+    admin_name: Saki East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.32_1_Adm2:
+    GID: NGA.31.32_1
+    admin_name: Saki West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.33_1_Adm2:
+    GID: NGA.31.33_1
+    admin_name: Surulere
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.4_1_Adm2:
+    GID: NGA.31.4_1
+    admin_name: Atisbo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.5_1_Adm2:
+    GID: NGA.31.5_1
+    admin_name: Egbeda
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.6_1_Adm2:
+    GID: NGA.31.6_1
+    admin_name: Ibadan North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.7_1_Adm2:
+    GID: NGA.31.7_1
+    admin_name: Ibadan North-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.8_1_Adm2:
+    GID: NGA.31.8_1
+    admin_name: Ibadan North-West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.31.9_1_Adm2:
+    GID: NGA.31.9_1
+    admin_name: Ibadan South-East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32_1_Adm1:
+    GID: NGA.32_1
+    admin_name: Plateau
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.32.1_1_Adm2:
+    GID: NGA.32.1_1
+    admin_name: Barkin Ladi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.10_1_Adm2:
+    GID: NGA.32.10_1
+    admin_name: Langtang South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.11_1_Adm2:
+    GID: NGA.32.11_1
+    admin_name: Mangu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.12_1_Adm2:
+    GID: NGA.32.12_1
+    admin_name: Mikang
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.13_1_Adm2:
+    GID: NGA.32.13_1
+    admin_name: Pankshin
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.14_1_Adm2:
+    GID: NGA.32.14_1
+    admin_name: Qua'an Pan
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.15_1_Adm2:
+    GID: NGA.32.15_1
+    admin_name: Riyom
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.16_1_Adm2:
+    GID: NGA.32.16_1
+    admin_name: Shendam
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.17_1_Adm2:
+    GID: NGA.32.17_1
+    admin_name: Wase
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.2_1_Adm2:
+    GID: NGA.32.2_1
+    admin_name: Bassa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.3_1_Adm2:
+    GID: NGA.32.3_1
+    admin_name: Bokkos
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.4_1_Adm2:
+    GID: NGA.32.4_1
+    admin_name: Jos East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.5_1_Adm2:
+    GID: NGA.32.5_1
+    admin_name: Jos North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.6_1_Adm2:
+    GID: NGA.32.6_1
+    admin_name: Jos South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.7_1_Adm2:
+    GID: NGA.32.7_1
+    admin_name: Kanam
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.8_1_Adm2:
+    GID: NGA.32.8_1
+    admin_name: Kanke
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.32.9_1_Adm2:
+    GID: NGA.32.9_1
+    admin_name: Langtang North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33_1_Adm1:
+    GID: NGA.33_1
+    admin_name: Rivers
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.33.1_1_Adm2:
+    GID: NGA.33.1_1
+    admin_name: Abua/Odual
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.10_1_Adm2:
+    GID: NGA.33.10_1
+    admin_name: Emuoha
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.11_1_Adm2:
+    GID: NGA.33.11_1
+    admin_name: Etche
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.12_1_Adm2:
+    GID: NGA.33.12_1
+    admin_name: Gokana
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.13_1_Adm2:
+    GID: NGA.33.13_1
+    admin_name: Ikwerre
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.14_1_Adm2:
+    GID: NGA.33.14_1
+    admin_name: Khana
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.15_1_Adm2:
+    GID: NGA.33.15_1
+    admin_name: Obio/Akpor
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.16_1_Adm2:
+    GID: NGA.33.16_1
+    admin_name: Ogba/Egbema/Ndoni
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.17_1_Adm2:
+    GID: NGA.33.17_1
+    admin_name: Ogu/Bolo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.18_1_Adm2:
+    GID: NGA.33.18_1
+    admin_name: Okrika
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.19_1_Adm2:
+    GID: NGA.33.19_1
+    admin_name: Omumma
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.2_1_Adm2:
+    GID: NGA.33.2_1
+    admin_name: Ahoada East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.20_1_Adm2:
+    GID: NGA.33.20_1
+    admin_name: Opobo/Nkoro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.21_1_Adm2:
+    GID: NGA.33.21_1
+    admin_name: Oyigbo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.22_1_Adm2:
+    GID: NGA.33.22_1
+    admin_name: Port Harcourt
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.23_1_Adm2:
+    GID: NGA.33.23_1
+    admin_name: Tai
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.3_1_Adm2:
+    GID: NGA.33.3_1
+    admin_name: Ahoada West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.4_1_Adm2:
+    GID: NGA.33.4_1
+    admin_name: Akuku-Toru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.5_1_Adm2:
+    GID: NGA.33.5_1
+    admin_name: Andoni
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.6_1_Adm2:
+    GID: NGA.33.6_1
+    admin_name: Asari-Toru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.7_1_Adm2:
+    GID: NGA.33.7_1
+    admin_name: Bonny
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.8_1_Adm2:
+    GID: NGA.33.8_1
+    admin_name: Degema
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.33.9_1_Adm2:
+    GID: NGA.33.9_1
+    admin_name: Eleme
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34_1_Adm1:
+    GID: NGA.34_1
+    admin_name: Sokoto
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.34.1_1_Adm2:
+    GID: NGA.34.1_1
+    admin_name: Binji
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.10_1_Adm2:
+    GID: NGA.34.10_1
+    admin_name: Kebbe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.11_1_Adm2:
+    GID: NGA.34.11_1
+    admin_name: Kware
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.12_1_Adm2:
+    GID: NGA.34.12_1
+    admin_name: Rabah
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.13_1_Adm2:
+    GID: NGA.34.13_1
+    admin_name: Sabon Birni
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.14_1_Adm2:
+    GID: NGA.34.14_1
+    admin_name: Shagari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.15_1_Adm2:
+    GID: NGA.34.15_1
+    admin_name: Silame
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.16_1_Adm2:
+    GID: NGA.34.16_1
+    admin_name: Sokoto North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.17_1_Adm2:
+    GID: NGA.34.17_1
+    admin_name: Sokoto South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.18_1_Adm2:
+    GID: NGA.34.18_1
+    admin_name: Tambuwal
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.19_1_Adm2:
+    GID: NGA.34.19_1
+    admin_name: Tangaza
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.2_1_Adm2:
+    GID: NGA.34.2_1
+    admin_name: Bodinga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.20_1_Adm2:
+    GID: NGA.34.20_1
+    admin_name: Tureta
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.21_1_Adm2:
+    GID: NGA.34.21_1
+    admin_name: Wamako
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.22_1_Adm2:
+    GID: NGA.34.22_1
+    admin_name: Wurno
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.23_1_Adm2:
+    GID: NGA.34.23_1
+    admin_name: Yabo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.3_1_Adm2:
+    GID: NGA.34.3_1
+    admin_name: Dange-Shuni
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.4_1_Adm2:
+    GID: NGA.34.4_1
+    admin_name: Gada
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.5_1_Adm2:
+    GID: NGA.34.5_1
+    admin_name: Goronyo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.6_1_Adm2:
+    GID: NGA.34.6_1
+    admin_name: Gudu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.7_1_Adm2:
+    GID: NGA.34.7_1
+    admin_name: Gwadabawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.8_1_Adm2:
+    GID: NGA.34.8_1
+    admin_name: Illela
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.34.9_1_Adm2:
+    GID: NGA.34.9_1
+    admin_name: Isa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35_1_Adm1:
+    GID: NGA.35_1
+    admin_name: Taraba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.35.1_1_Adm2:
+    GID: NGA.35.1_1
+    admin_name: Ardo-Kola
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.10_1_Adm2:
+    GID: NGA.35.10_1
+    admin_name: Lau
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.11_1_Adm2:
+    GID: NGA.35.11_1
+    admin_name: Sardauna
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.12_1_Adm2:
+    GID: NGA.35.12_1
+    admin_name: Takum
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.13_1_Adm2:
+    GID: NGA.35.13_1
+    admin_name: Ussa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.14_1_Adm2:
+    GID: NGA.35.14_1
+    admin_name: Wukari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.15_1_Adm2:
+    GID: NGA.35.15_1
+    admin_name: Yorro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.16_1_Adm2:
+    GID: NGA.35.16_1
+    admin_name: Zing
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.2_1_Adm2:
+    GID: NGA.35.2_1
+    admin_name: Bali
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.3_1_Adm2:
+    GID: NGA.35.3_1
+    admin_name: Donga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.4_1_Adm2:
+    GID: NGA.35.4_1
+    admin_name: Gashaka
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.5_1_Adm2:
+    GID: NGA.35.5_1
+    admin_name: Gassol
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.6_1_Adm2:
+    GID: NGA.35.6_1
+    admin_name: Ibi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.7_1_Adm2:
+    GID: NGA.35.7_1
+    admin_name: Jalingo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.8_1_Adm2:
+    GID: NGA.35.8_1
+    admin_name: Karim Lamido
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.35.9_1_Adm2:
+    GID: NGA.35.9_1
+    admin_name: Kurmi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36_1_Adm1:
+    GID: NGA.36_1
+    admin_name: Yobe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.36.1_1_Adm2:
+    GID: NGA.36.1_1
+    admin_name: Bade
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.10_1_Adm2:
+    GID: NGA.36.10_1
+    admin_name: Karasuwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.11_1_Adm2:
+    GID: NGA.36.11_1
+    admin_name: Machina
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.12_1_Adm2:
+    GID: NGA.36.12_1
+    admin_name: Nangere
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.13_1_Adm2:
+    GID: NGA.36.13_1
+    admin_name: Nguru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.14_1_Adm2:
+    GID: NGA.36.14_1
+    admin_name: Potiskum
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.15_1_Adm2:
+    GID: NGA.36.15_1
+    admin_name: Tarmuwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.16_1_Adm2:
+    GID: NGA.36.16_1
+    admin_name: Yunusari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.17_1_Adm2:
+    GID: NGA.36.17_1
+    admin_name: Yusufari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.2_1_Adm2:
+    GID: NGA.36.2_1
+    admin_name: Borsari
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.3_1_Adm2:
+    GID: NGA.36.3_1
+    admin_name: Damaturu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.4_1_Adm2:
+    GID: NGA.36.4_1
+    admin_name: Fika
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.5_1_Adm2:
+    GID: NGA.36.5_1
+    admin_name: Fune
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.6_1_Adm2:
+    GID: NGA.36.6_1
+    admin_name: Geidam
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.7_1_Adm2:
+    GID: NGA.36.7_1
+    admin_name: Gujba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.8_1_Adm2:
+    GID: NGA.36.8_1
+    admin_name: Gulani
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.36.9_1_Adm2:
+    GID: NGA.36.9_1
+    admin_name: Jakusko
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37_1_Adm1:
+    GID: NGA.37_1
+    admin_name: Zamfara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.37.1_1_Adm2:
+    GID: NGA.37.1_1
+    admin_name: Anka
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.10_1_Adm2:
+    GID: NGA.37.10_1
+    admin_name: Maru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.11_1_Adm2:
+    GID: NGA.37.11_1
+    admin_name: Shinkafi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.12_1_Adm2:
+    GID: NGA.37.12_1
+    admin_name: Talata-Mafara
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.13_1_Adm2:
+    GID: NGA.37.13_1
+    admin_name: Tsafe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.14_1_Adm2:
+    GID: NGA.37.14_1
+    admin_name: Zurmi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.2_1_Adm2:
+    GID: NGA.37.2_1
+    admin_name: Bakura
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.3_1_Adm2:
+    GID: NGA.37.3_1
+    admin_name: Birnin-Magaji/Kiyaw
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.4_1_Adm2:
+    GID: NGA.37.4_1
+    admin_name: Bukkuyum
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.5_1_Adm2:
+    GID: NGA.37.5_1
+    admin_name: Bungudu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.6_1_Adm2:
+    GID: NGA.37.6_1
+    admin_name: Gummi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.7_1_Adm2:
+    GID: NGA.37.7_1
+    admin_name: Gusau
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.8_1_Adm2:
+    GID: NGA.37.8_1
+    admin_name: Kaura Namoda
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.37.9_1_Adm2:
+    GID: NGA.37.9_1
+    admin_name: Maradun
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4_1_Adm1:
+    GID: NGA.4_1
+    admin_name: Anambra
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.4.1_1_Adm2:
+    GID: NGA.4.1_1
+    admin_name: Aguata
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.10_1_Adm2:
+    GID: NGA.4.10_1
+    admin_name: Idemili North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.11_1_Adm2:
+    GID: NGA.4.11_1
+    admin_name: Idemili South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.12_1_Adm2:
+    GID: NGA.4.12_1
+    admin_name: Ihiala
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.13_1_Adm2:
+    GID: NGA.4.13_1
+    admin_name: Njikoka
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.14_1_Adm2:
+    GID: NGA.4.14_1
+    admin_name: Nnewi North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.15_1_Adm2:
+    GID: NGA.4.15_1
+    admin_name: Nnewi South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.16_1_Adm2:
+    GID: NGA.4.16_1
+    admin_name: Ogbaru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.17_1_Adm2:
+    GID: NGA.4.17_1
+    admin_name: Onitsha North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.18_1_Adm2:
+    GID: NGA.4.18_1
+    admin_name: Onitsha South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.19_1_Adm2:
+    GID: NGA.4.19_1
+    admin_name: Orumba North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.2_1_Adm2:
+    GID: NGA.4.2_1
+    admin_name: Anambra East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.20_1_Adm2:
+    GID: NGA.4.20_1
+    admin_name: Orumba South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.21_1_Adm2:
+    GID: NGA.4.21_1
+    admin_name: Oyi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.3_1_Adm2:
+    GID: NGA.4.3_1
+    admin_name: Anambra West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.4_1_Adm2:
+    GID: NGA.4.4_1
+    admin_name: Anaocha
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.5_1_Adm2:
+    GID: NGA.4.5_1
+    admin_name: Awka North
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.6_1_Adm2:
+    GID: NGA.4.6_1
+    admin_name: Awka South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.7_1_Adm2:
+    GID: NGA.4.7_1
+    admin_name: Ayamelum
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.8_1_Adm2:
+    GID: NGA.4.8_1
+    admin_name: Dunukofia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.4.9_1_Adm2:
+    GID: NGA.4.9_1
+    admin_name: Ekwusigo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5_1_Adm1:
+    GID: NGA.5_1
+    admin_name: Bauchi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.5.1_1_Adm2:
+    GID: NGA.5.1_1
+    admin_name: Alkaleri
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.10_1_Adm2:
+    GID: NGA.5.10_1
+    admin_name: Itas/Gadau
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.11_1_Adm2:
+    GID: NGA.5.11_1
+    admin_name: Jama'are
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.12_1_Adm2:
+    GID: NGA.5.12_1
+    admin_name: Katagum
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.13_1_Adm2:
+    GID: NGA.5.13_1
+    admin_name: Kirfi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.14_1_Adm2:
+    GID: NGA.5.14_1
+    admin_name: Misau
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.15_1_Adm2:
+    GID: NGA.5.15_1
+    admin_name: Ningi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.16_1_Adm2:
+    GID: NGA.5.16_1
+    admin_name: Shira
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.17_1_Adm2:
+    GID: NGA.5.17_1
+    admin_name: Tafawa-Balewa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.18_1_Adm2:
+    GID: NGA.5.18_1
+    admin_name: Toro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.19_1_Adm2:
+    GID: NGA.5.19_1
+    admin_name: Warji
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.2_1_Adm2:
+    GID: NGA.5.2_1
+    admin_name: Bauchi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.20_1_Adm2:
+    GID: NGA.5.20_1
+    admin_name: Zaki
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.3_1_Adm2:
+    GID: NGA.5.3_1
+    admin_name: Bogoro
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.4_1_Adm2:
+    GID: NGA.5.4_1
+    admin_name: Damban
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.5_1_Adm2:
+    GID: NGA.5.5_1
+    admin_name: Darazo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.6_1_Adm2:
+    GID: NGA.5.6_1
+    admin_name: Dass
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.7_1_Adm2:
+    GID: NGA.5.7_1
+    admin_name: Gamawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.8_1_Adm2:
+    GID: NGA.5.8_1
+    admin_name: Ganjuwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.5.9_1_Adm2:
+    GID: NGA.5.9_1
+    admin_name: Giade
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.6_1_Adm1:
+    GID: NGA.6_1
+    admin_name: Bayelsa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.6.1_1_Adm2:
+    GID: NGA.6.1_1
+    admin_name: Brass
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.6.2_1_Adm2:
+    GID: NGA.6.2_1
+    admin_name: Ekeremor
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.6.3_1_Adm2:
+    GID: NGA.6.3_1
+    admin_name: Kolokuma/Opokuma
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.6.4_1_Adm2:
+    GID: NGA.6.4_1
+    admin_name: Nembe
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.6.5_1_Adm2:
+    GID: NGA.6.5_1
+    admin_name: Ogbia
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.6.6_1_Adm2:
+    GID: NGA.6.6_1
+    admin_name: Sagbama
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.6.7_1_Adm2:
+    GID: NGA.6.7_1
+    admin_name: Southern Ijaw
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.6.8_1_Adm2:
+    GID: NGA.6.8_1
+    admin_name: Yenagoa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7_1_Adm1:
+    GID: NGA.7_1
+    admin_name: Benue
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.7.1_1_Adm2:
+    GID: NGA.7.1_1
+    admin_name: Ado
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.10_1_Adm2:
+    GID: NGA.7.10_1
+    admin_name: Konshisha
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.11_1_Adm2:
+    GID: NGA.7.11_1
+    admin_name: Kwande
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.12_1_Adm2:
+    GID: NGA.7.12_1
+    admin_name: Logo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.13_1_Adm2:
+    GID: NGA.7.13_1
+    admin_name: Makurdi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.14_1_Adm2:
+    GID: NGA.7.14_1
+    admin_name: Obi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.15_1_Adm2:
+    GID: NGA.7.15_1
+    admin_name: Ogbadibo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.16_1_Adm2:
+    GID: NGA.7.16_1
+    admin_name: Ohimini
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.17_1_Adm2:
+    GID: NGA.7.17_1
+    admin_name: Oju
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.18_1_Adm2:
+    GID: NGA.7.18_1
+    admin_name: Okpokwu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.19_1_Adm2:
+    GID: NGA.7.19_1
+    admin_name: Otukpo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.2_1_Adm2:
+    GID: NGA.7.2_1
+    admin_name: Agatu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.20_1_Adm2:
+    GID: NGA.7.20_1
+    admin_name: Tarka
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.21_1_Adm2:
+    GID: NGA.7.21_1
+    admin_name: Ukum
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.22_1_Adm2:
+    GID: NGA.7.22_1
+    admin_name: Ushongo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.23_1_Adm2:
+    GID: NGA.7.23_1
+    admin_name: Vande Ikya
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.3_1_Adm2:
+    GID: NGA.7.3_1
+    admin_name: Apa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.4_1_Adm2:
+    GID: NGA.7.4_1
+    admin_name: Bukuru
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.5_1_Adm2:
+    GID: NGA.7.5_1
+    admin_name: Gboko
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.6_1_Adm2:
+    GID: NGA.7.6_1
+    admin_name: Guma
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.7_1_Adm2:
+    GID: NGA.7.7_1
+    admin_name: Gwer East
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.8_1_Adm2:
+    GID: NGA.7.8_1
+    admin_name: Gwer West
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.7.9_1_Adm2:
+    GID: NGA.7.9_1
+    admin_name: Katsina-Ala
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8_1_Adm1:
+    GID: NGA.8_1
+    admin_name: Borno
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.8.1_1_Adm2:
+    GID: NGA.8.1_1
+    admin_name: Abadam
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.10_1_Adm2:
+    GID: NGA.8.10_1
+    admin_name: Guzamala
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.11_1_Adm2:
+    GID: NGA.8.11_1
+    admin_name: Gwoza
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.12_1_Adm2:
+    GID: NGA.8.12_1
+    admin_name: Hawul
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.13_1_Adm2:
+    GID: NGA.8.13_1
+    admin_name: Jere
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.14_1_Adm2:
+    GID: NGA.8.14_1
+    admin_name: Kaga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.15_1_Adm2:
+    GID: NGA.8.15_1
+    admin_name: Kala/Balge
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.16_1_Adm2:
+    GID: NGA.8.16_1
+    admin_name: Konduga
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.17_1_Adm2:
+    GID: NGA.8.17_1
+    admin_name: Kukawa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.18_1_Adm2:
+    GID: NGA.8.18_1
+    admin_name: Kwaya Kusar
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.19_1_Adm2:
+    GID: NGA.8.19_1
+    admin_name: Lake Chad
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.2_1_Adm2:
+    GID: NGA.8.2_1
+    admin_name: Askira/Uba
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.20_1_Adm2:
+    GID: NGA.8.20_1
+    admin_name: Mafa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.21_1_Adm2:
+    GID: NGA.8.21_1
+    admin_name: Magumeri
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.22_1_Adm2:
+    GID: NGA.8.22_1
+    admin_name: Maiduguri
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.23_1_Adm2:
+    GID: NGA.8.23_1
+    admin_name: Marte
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.24_1_Adm2:
+    GID: NGA.8.24_1
+    admin_name: Mobbar
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.25_1_Adm2:
+    GID: NGA.8.25_1
+    admin_name: Monguno
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.26_1_Adm2:
+    GID: NGA.8.26_1
+    admin_name: Ngala
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.27_1_Adm2:
+    GID: NGA.8.27_1
+    admin_name: Nganzai
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.28_1_Adm2:
+    GID: NGA.8.28_1
+    admin_name: Shani
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.3_1_Adm2:
+    GID: NGA.8.3_1
+    admin_name: Bama
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.4_1_Adm2:
+    GID: NGA.8.4_1
+    admin_name: Bayo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.5_1_Adm2:
+    GID: NGA.8.5_1
+    admin_name: Biu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.6_1_Adm2:
+    GID: NGA.8.6_1
+    admin_name: Chibok
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.7_1_Adm2:
+    GID: NGA.8.7_1
+    admin_name: Damboa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.8_1_Adm2:
+    GID: NGA.8.8_1
+    admin_name: Dikwa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.8.9_1_Adm2:
+    GID: NGA.8.9_1
+    admin_name: Gubio
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9_1_Adm1:
+    GID: NGA.9_1
+    admin_name: Cross River
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm1
+  NGA.9.1_1_Adm2:
+    GID: NGA.9.1_1
+    admin_name: Abi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.10_1_Adm2:
+    GID: NGA.9.10_1
+    admin_name: Etung
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.11_1_Adm2:
+    GID: NGA.9.11_1
+    admin_name: Ikom
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.12_1_Adm2:
+    GID: NGA.9.12_1
+    admin_name: Obanliku
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.13_1_Adm2:
+    GID: NGA.9.13_1
+    admin_name: Obubra
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.14_1_Adm2:
+    GID: NGA.9.14_1
+    admin_name: Obudu
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.15_1_Adm2:
+    GID: NGA.9.15_1
+    admin_name: Odukpani
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.16_1_Adm2:
+    GID: NGA.9.16_1
+    admin_name: Ogoja
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.17_1_Adm2:
+    GID: NGA.9.17_1
+    admin_name: Yakurr
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.18_1_Adm2:
+    GID: NGA.9.18_1
+    admin_name: Yala
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.2_1_Adm2:
+    GID: NGA.9.2_1
+    admin_name: Akamkpa
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.3_1_Adm2:
+    GID: NGA.9.3_1
+    admin_name: Akpabuyo
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.4_1_Adm2:
+    GID: NGA.9.4_1
+    admin_name: Bakassi
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.5_1_Adm2:
+    GID: NGA.9.5_1
+    admin_name: Bekwarra
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.6_1_Adm2:
+    GID: NGA.9.6_1
+    admin_name: Biase
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.7_1_Adm2:
+    GID: NGA.9.7_1
+    admin_name: Boki
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.8_1_Adm2:
+    GID: NGA.9.8_1
+    admin_name: Calabar
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2
+  NGA.9.9_1_Adm2:
+    GID: NGA.9.9_1
+    admin_name: Calabar South
+    iso3c: NGA
+    country_name: Nigeria
+    admin_level: Adm2

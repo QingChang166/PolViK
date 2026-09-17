@@ -1,0 +1,49 @@
+concepts:
+  GRD.0_Adm0:
+    GID: GRD
+    admin_name: Grenada
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm0
+  GRD.1_1_Adm1:
+    GID: GRD.1_1
+    admin_name: Carriacou
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm1
+  GRD.2_1_Adm1:
+    GID: GRD.2_1
+    admin_name: Saint Andrew
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm1
+  GRD.3_1_Adm1:
+    GID: GRD.3_1
+    admin_name: Saint David
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm1
+  GRD.4_1_Adm1:
+    GID: GRD.4_1
+    admin_name: Saint George
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm1
+  GRD.5_1_Adm1:
+    GID: GRD.5_1
+    admin_name: Saint John
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm1
+  GRD.6_1_Adm1:
+    GID: GRD.6_1
+    admin_name: Saint Mark
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm1
+  GRD.7_1_Adm1:
+    GID: GRD.7_1
+    admin_name: Saint Patrick
+    iso3c: GRD
+    country_name: Grenada
+    admin_level: Adm1

@@ -1,0 +1,1759 @@
+concepts:
+  TUN.0_Adm0:
+    GID: TUN
+    admin_name: Tunisia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm0
+  TUN.1_1_Adm1:
+    GID: TUN.1_1
+    admin_name: Ariana
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.1.1_1_Adm2:
+    GID: TUN.1.1_1
+    admin_name: Ariana Médina
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.1.2_1_Adm2:
+    GID: TUN.1.2_1
+    admin_name: Ettadhamen
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.1.3_1_Adm2:
+    GID: TUN.1.3_1
+    admin_name: Kalaat El Andalous
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.1.4_1_Adm2:
+    GID: TUN.1.4_1
+    admin_name: Mnihla
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.1.5_1_Adm2:
+    GID: TUN.1.5_1
+    admin_name: Raoued
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.1.6_1_Adm2:
+    GID: TUN.1.6_1
+    admin_name: Sebkhet Ariana
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.1.7_1_Adm2:
+    GID: TUN.1.7_1
+    admin_name: Sidi Thabet
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.1.8_1_Adm2:
+    GID: TUN.1.8_1
+    admin_name: Soukra
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.10_1_Adm1:
+    GID: TUN.10_1
+    admin_name: Kebili
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.10.1_1_Adm2:
+    GID: TUN.10.1_1
+    admin_name: Douz
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.10.2_1_Adm2:
+    GID: TUN.10.2_1
+    admin_name: Faouar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.10.3_1_Adm2:
+    GID: TUN.10.3_1
+    admin_name: Kebili Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.10.4_1_Adm2:
+    GID: TUN.10.4_1
+    admin_name: Kebili Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.10.5_1_Adm2:
+    GID: TUN.10.5_1
+    admin_name: Souk El Ahed
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11_1_Adm1:
+    GID: TUN.11_1
+    admin_name: Le Kef
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.11.1_1_Adm2:
+    GID: TUN.11.1_1
+    admin_name: Dahmani
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.10_1_Adm2:
+    GID: TUN.11.10_1
+    admin_name: Sakiet Sidi Youssef
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.11_1_Adm2:
+    GID: TUN.11.11_1
+    admin_name: Tajerouine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.2_1_Adm2:
+    GID: TUN.11.2_1
+    admin_name: Es Sers
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.3_1_Adm2:
+    GID: TUN.11.3_1
+    admin_name: Jerissa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.4_1_Adm2:
+    GID: TUN.11.4_1
+    admin_name: Kalaa Khesba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.5_1_Adm2:
+    GID: TUN.11.5_1
+    admin_name: Kalaat Senan
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.6_1_Adm2:
+    GID: TUN.11.6_1
+    admin_name: Kef Est
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.7_1_Adm2:
+    GID: TUN.11.7_1
+    admin_name: Kef Ouest
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.8_1_Adm2:
+    GID: TUN.11.8_1
+    admin_name: Ksour
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.11.9_1_Adm2:
+    GID: TUN.11.9_1
+    admin_name: Nebeur
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12_1_Adm1:
+    GID: TUN.12_1
+    admin_name: Mahdia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.12.1_1_Adm2:
+    GID: TUN.12.1_1
+    admin_name: Boumerdès
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.10_1_Adm2:
+    GID: TUN.12.10_1
+    admin_name: Sidi Alouane
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.11_1_Adm2:
+    GID: TUN.12.11_1
+    admin_name: Souassi
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.2_1_Adm2:
+    GID: TUN.12.2_1
+    admin_name: Chebba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.3_1_Adm2:
+    GID: TUN.12.3_1
+    admin_name: Chorbane
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.4_1_Adm2:
+    GID: TUN.12.4_1
+    admin_name: El Jem
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.5_1_Adm2:
+    GID: TUN.12.5_1
+    admin_name: Hbira
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.6_1_Adm2:
+    GID: TUN.12.6_1
+    admin_name: Ksour Essef
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.7_1_Adm2:
+    GID: TUN.12.7_1
+    admin_name: Mahdia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.8_1_Adm2:
+    GID: TUN.12.8_1
+    admin_name: Melloulech
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.12.9_1_Adm2:
+    GID: TUN.12.9_1
+    admin_name: Ouled Chamekh
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.13_1_Adm1:
+    GID: TUN.13_1
+    admin_name: Manubah
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.13.1_1_Adm2:
+    GID: TUN.13.1_1
+    admin_name: Borj El Amri
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.13.2_1_Adm2:
+    GID: TUN.13.2_1
+    admin_name: Douar Hicher
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.13.3_1_Adm2:
+    GID: TUN.13.3_1
+    admin_name: El Battan
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.13.4_1_Adm2:
+    GID: TUN.13.4_1
+    admin_name: Jedaida
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.13.5_1_Adm2:
+    GID: TUN.13.5_1
+    admin_name: Manouba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.13.6_1_Adm2:
+    GID: TUN.13.6_1
+    admin_name: Mornaguia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.13.7_1_Adm2:
+    GID: TUN.13.7_1
+    admin_name: Oued Ellil
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.13.8_1_Adm2:
+    GID: TUN.13.8_1
+    admin_name: Tebourba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14_1_Adm1:
+    GID: TUN.14_1
+    admin_name: Médenine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.14.1_1_Adm2:
+    GID: TUN.14.1_1
+    admin_name: Ben Guerdane
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14.2_1_Adm2:
+    GID: TUN.14.2_1
+    admin_name: Beni Khedache
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14.3_1_Adm2:
+    GID: TUN.14.3_1
+    admin_name: Djerba Ajim
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14.4_1_Adm2:
+    GID: TUN.14.4_1
+    admin_name: Djerba Midoun
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14.5_1_Adm2:
+    GID: TUN.14.5_1
+    admin_name: Houmt Souk
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14.6_1_Adm2:
+    GID: TUN.14.6_1
+    admin_name: Médenine Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14.7_1_Adm2:
+    GID: TUN.14.7_1
+    admin_name: Médenine Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14.8_1_Adm2:
+    GID: TUN.14.8_1
+    admin_name: Sidi Makhlouf
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.14.9_1_Adm2:
+    GID: TUN.14.9_1
+    admin_name: Zarzis
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15_1_Adm1:
+    GID: TUN.15_1
+    admin_name: Monastir
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.15.1_1_Adm2:
+    GID: TUN.15.1_1
+    admin_name: Bekalta
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.10_1_Adm2:
+    GID: TUN.15.10_1
+    admin_name: Sahline
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.11_1_Adm2:
+    GID: TUN.15.11_1
+    admin_name: Sayada-Lamta-Bou Hjar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.12_1_Adm2:
+    GID: TUN.15.12_1
+    admin_name: Sebkhet El Moknine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.13_1_Adm2:
+    GID: TUN.15.13_1
+    admin_name: Teboulba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.14_1_Adm2:
+    GID: TUN.15.14_1
+    admin_name: Unknown1
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.15_1_Adm2:
+    GID: TUN.15.15_1
+    admin_name: Zeramdine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.2_1_Adm2:
+    GID: TUN.15.2_1
+    admin_name: Bembla
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.3_1_Adm2:
+    GID: TUN.15.3_1
+    admin_name: Beni Hassen
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.4_1_Adm2:
+    GID: TUN.15.4_1
+    admin_name: Jammel
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.5_1_Adm2:
+    GID: TUN.15.5_1
+    admin_name: Ksar Hellal
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.6_1_Adm2:
+    GID: TUN.15.6_1
+    admin_name: Ksibet El Mediouni
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.7_1_Adm2:
+    GID: TUN.15.7_1
+    admin_name: Moknine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.8_1_Adm2:
+    GID: TUN.15.8_1
+    admin_name: Monastir
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.15.9_1_Adm2:
+    GID: TUN.15.9_1
+    admin_name: Ouerdanine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16_1_Adm1:
+    GID: TUN.16_1
+    admin_name: Nabeul
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.16.1_1_Adm2:
+    GID: TUN.16.1_1
+    admin_name: Beni Khalled
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.10_1_Adm2:
+    GID: TUN.16.10_1
+    admin_name: Kelibia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.11_1_Adm2:
+    GID: TUN.16.11_1
+    admin_name: Korba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.12_1_Adm2:
+    GID: TUN.16.12_1
+    admin_name: Menzel Bouzelfa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.13_1_Adm2:
+    GID: TUN.16.13_1
+    admin_name: Menzel Temime
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.14_1_Adm2:
+    GID: TUN.16.14_1
+    admin_name: Nabeul
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.15_1_Adm2:
+    GID: TUN.16.15_1
+    admin_name: Soliman
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.16_1_Adm2:
+    GID: TUN.16.16_1
+    admin_name: Takelsa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.2_1_Adm2:
+    GID: TUN.16.2_1
+    admin_name: Beni Khiar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.3_1_Adm2:
+    GID: TUN.16.3_1
+    admin_name: Bou Argoub
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.4_1_Adm2:
+    GID: TUN.16.4_1
+    admin_name: Dar Chaabane El Fehri
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.5_1_Adm2:
+    GID: TUN.16.5_1
+    admin_name: El Mida
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.6_1_Adm2:
+    GID: TUN.16.6_1
+    admin_name: Grombalia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.7_1_Adm2:
+    GID: TUN.16.7_1
+    admin_name: Hammam Ghezaz
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.8_1_Adm2:
+    GID: TUN.16.8_1
+    admin_name: Hammamet
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.16.9_1_Adm2:
+    GID: TUN.16.9_1
+    admin_name: Haouaria
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17_1_Adm1:
+    GID: TUN.17_1
+    admin_name: Sfax
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.17.1_1_Adm2:
+    GID: TUN.17.1_1
+    admin_name: Agareb
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.10_1_Adm2:
+    GID: TUN.17.10_1
+    admin_name: Sakiet Eddaier
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.11_1_Adm2:
+    GID: TUN.17.11_1
+    admin_name: Sakiet Ezzit
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.12_1_Adm2:
+    GID: TUN.17.12_1
+    admin_name: Sfax Médina
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.13_1_Adm2:
+    GID: TUN.17.13_1
+    admin_name: Sfax Ouest
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.14_1_Adm2:
+    GID: TUN.17.14_1
+    admin_name: Sfax Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.15_1_Adm2:
+    GID: TUN.17.15_1
+    admin_name: Skhira
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.2_1_Adm2:
+    GID: TUN.17.2_1
+    admin_name: Bir Ali Ben Khélifa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.3_1_Adm2:
+    GID: TUN.17.3_1
+    admin_name: El Amra
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.4_1_Adm2:
+    GID: TUN.17.4_1
+    admin_name: El Ghraiba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.5_1_Adm2:
+    GID: TUN.17.5_1
+    admin_name: Hencha
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.6_1_Adm2:
+    GID: TUN.17.6_1
+    admin_name: Jebeniana
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.7_1_Adm2:
+    GID: TUN.17.7_1
+    admin_name: Kerkennah
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.8_1_Adm2:
+    GID: TUN.17.8_1
+    admin_name: Mahres
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.17.9_1_Adm2:
+    GID: TUN.17.9_1
+    admin_name: Menzel Chaker
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18_1_Adm1:
+    GID: TUN.18_1
+    admin_name: Sidi Bou Zid
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.18.1_1_Adm2:
+    GID: TUN.18.1_1
+    admin_name: Bir El Hfay
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.10_1_Adm2:
+    GID: TUN.18.10_1
+    admin_name: Sidi Bouzid Est
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.11_1_Adm2:
+    GID: TUN.18.11_1
+    admin_name: Sidi Bouzid Ouest
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.12_1_Adm2:
+    GID: TUN.18.12_1
+    admin_name: Souk Jedid
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.2_1_Adm2:
+    GID: TUN.18.2_1
+    admin_name: Jelma
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.3_1_Adm2:
+    GID: TUN.18.3_1
+    admin_name: Mazzouna
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.4_1_Adm2:
+    GID: TUN.18.4_1
+    admin_name: Meknassi
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.5_1_Adm2:
+    GID: TUN.18.5_1
+    admin_name: Menzel Bouzaiene
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.6_1_Adm2:
+    GID: TUN.18.6_1
+    admin_name: Ouled Haffouz
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.7_1_Adm2:
+    GID: TUN.18.7_1
+    admin_name: Regueb
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.8_1_Adm2:
+    GID: TUN.18.8_1
+    admin_name: Sabalat Ouled Asker
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.18.9_1_Adm2:
+    GID: TUN.18.9_1
+    admin_name: Sidi Ali Ben Aoun
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19_1_Adm1:
+    GID: TUN.19_1
+    admin_name: Siliana
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.19.1_1_Adm2:
+    GID: TUN.19.1_1
+    admin_name: Bargou
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.10_1_Adm2:
+    GID: TUN.19.10_1
+    admin_name: Siliana Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.11_1_Adm2:
+    GID: TUN.19.11_1
+    admin_name: Siliana Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.2_1_Adm2:
+    GID: TUN.19.2_1
+    admin_name: Bouarada
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.3_1_Adm2:
+    GID: TUN.19.3_1
+    admin_name: Bourouis
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.4_1_Adm2:
+    GID: TUN.19.4_1
+    admin_name: El Krib
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.5_1_Adm2:
+    GID: TUN.19.5_1
+    admin_name: Gaafour
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.6_1_Adm2:
+    GID: TUN.19.6_1
+    admin_name: Kesra
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.7_1_Adm2:
+    GID: TUN.19.7_1
+    admin_name: Laroussa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.8_1_Adm2:
+    GID: TUN.19.8_1
+    admin_name: Makthar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.19.9_1_Adm2:
+    GID: TUN.19.9_1
+    admin_name: Rouhia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2_1_Adm1:
+    GID: TUN.2_1
+    admin_name: Béja
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.2.1_1_Adm2:
+    GID: TUN.2.1_1
+    admin_name: Amdoun
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2.2_1_Adm2:
+    GID: TUN.2.2_1
+    admin_name: Béja Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2.3_1_Adm2:
+    GID: TUN.2.3_1
+    admin_name: Béja Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2.4_1_Adm2:
+    GID: TUN.2.4_1
+    admin_name: Goubellat
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2.5_1_Adm2:
+    GID: TUN.2.5_1
+    admin_name: Mejez El Bab
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2.6_1_Adm2:
+    GID: TUN.2.6_1
+    admin_name: Nefza
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2.7_1_Adm2:
+    GID: TUN.2.7_1
+    admin_name: Téboursouk
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2.8_1_Adm2:
+    GID: TUN.2.8_1
+    admin_name: Testour
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.2.9_1_Adm2:
+    GID: TUN.2.9_1
+    admin_name: Thibar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20_1_Adm1:
+    GID: TUN.20_1
+    admin_name: Sousse
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.20.1_1_Adm2:
+    GID: TUN.20.1_1
+    admin_name: Akouda
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.10_1_Adm2:
+    GID: TUN.20.10_1
+    admin_name: Sebkhat Sidi El Hani
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.11_1_Adm2:
+    GID: TUN.20.11_1
+    admin_name: Sebkhit El Kabla
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.12_1_Adm2:
+    GID: TUN.20.12_1
+    admin_name: Sidi Bou Ali
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.13_1_Adm2:
+    GID: TUN.20.13_1
+    admin_name: Sidi El Heni
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.14_1_Adm2:
+    GID: TUN.20.14_1
+    admin_name: Sousse Jaouhara
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.15_1_Adm2:
+    GID: TUN.20.15_1
+    admin_name: Sousse Médina
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.16_1_Adm2:
+    GID: TUN.20.16_1
+    admin_name: Sousse Riadh
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.17_1_Adm2:
+    GID: TUN.20.17_1
+    admin_name: Sousse Sidi Abdelhamid
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.2_1_Adm2:
+    GID: TUN.20.2_1
+    admin_name: Bouficha
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.3_1_Adm2:
+    GID: TUN.20.3_1
+    admin_name: Enfidha
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.4_1_Adm2:
+    GID: TUN.20.4_1
+    admin_name: Hammam Sousse
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.5_1_Adm2:
+    GID: TUN.20.5_1
+    admin_name: Hergla
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.6_1_Adm2:
+    GID: TUN.20.6_1
+    admin_name: Kalaa Kebira
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.7_1_Adm2:
+    GID: TUN.20.7_1
+    admin_name: Kalaa Sghira
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.8_1_Adm2:
+    GID: TUN.20.8_1
+    admin_name: Kondar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.20.9_1_Adm2:
+    GID: TUN.20.9_1
+    admin_name: M'Saken
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.21_1_Adm1:
+    GID: TUN.21_1
+    admin_name: Tataouine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.21.1_1_Adm2:
+    GID: TUN.21.1_1
+    admin_name: Bir Lahmar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.21.2_1_Adm2:
+    GID: TUN.21.2_1
+    admin_name: Dhiba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.21.3_1_Adm2:
+    GID: TUN.21.3_1
+    admin_name: Ghomrassen
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.21.4_1_Adm2:
+    GID: TUN.21.4_1
+    admin_name: Remada
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.21.5_1_Adm2:
+    GID: TUN.21.5_1
+    admin_name: Samar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.21.6_1_Adm2:
+    GID: TUN.21.6_1
+    admin_name: Tataouine Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.21.7_1_Adm2:
+    GID: TUN.21.7_1
+    admin_name: Tataouine Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.22_1_Adm1:
+    GID: TUN.22_1
+    admin_name: Tozeur
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.22.1_1_Adm2:
+    GID: TUN.22.1_1
+    admin_name: Degueche
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.22.2_1_Adm2:
+    GID: TUN.22.2_1
+    admin_name: Hazoua
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.22.3_1_Adm2:
+    GID: TUN.22.3_1
+    admin_name: Nefta
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.22.4_1_Adm2:
+    GID: TUN.22.4_1
+    admin_name: Tamaghza
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.22.5_1_Adm2:
+    GID: TUN.22.5_1
+    admin_name: Tozeur
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23_1_Adm1:
+    GID: TUN.23_1
+    admin_name: Tunis
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.23.1_1_Adm2:
+    GID: TUN.23.1_1
+    admin_name: Bab Bhar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.10_1_Adm2:
+    GID: TUN.23.10_1
+    admin_name: Ezzouhour
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.11_1_Adm2:
+    GID: TUN.23.11_1
+    admin_name: Hrairia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.12_1_Adm2:
+    GID: TUN.23.12_1
+    admin_name: Jebel Jelloud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.13_1_Adm2:
+    GID: TUN.23.13_1
+    admin_name: Kabaria
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.14_1_Adm2:
+    GID: TUN.23.14_1
+    admin_name: La Goulette
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.15_1_Adm2:
+    GID: TUN.23.15_1
+    admin_name: La Marsa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.16_1_Adm2:
+    GID: TUN.23.16_1
+    admin_name: Médina
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.17_1_Adm2:
+    GID: TUN.23.17_1
+    admin_name: Omrane
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.18_1_Adm2:
+    GID: TUN.23.18_1
+    admin_name: Omrane Supérieur
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.19_1_Adm2:
+    GID: TUN.23.19_1
+    admin_name: Sabkhet Sijoumi
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.2_1_Adm2:
+    GID: TUN.23.2_1
+    admin_name: Bab Souika
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.20_1_Adm2:
+    GID: TUN.23.20_1
+    admin_name: Sidi El Béchir
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.21_1_Adm2:
+    GID: TUN.23.21_1
+    admin_name: Sidi Hassine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.22_1_Adm2:
+    GID: TUN.23.22_1
+    admin_name: Sijoumi
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.23_1_Adm2:
+    GID: TUN.23.23_1
+    admin_name: Unknown
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.3_1_Adm2:
+    GID: TUN.23.3_1
+    admin_name: Bardo
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.4_1_Adm2:
+    GID: TUN.23.4_1
+    admin_name: Bouhaira
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.5_1_Adm2:
+    GID: TUN.23.5_1
+    admin_name: Carthage
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.6_1_Adm2:
+    GID: TUN.23.6_1
+    admin_name: Cité El Khadra
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.7_1_Adm2:
+    GID: TUN.23.7_1
+    admin_name: El Menzah
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.8_1_Adm2:
+    GID: TUN.23.8_1
+    admin_name: El Ouardia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.23.9_1_Adm2:
+    GID: TUN.23.9_1
+    admin_name: El Tahrir
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.24_1_Adm1:
+    GID: TUN.24_1
+    admin_name: Zaghouan
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.24.1_1_Adm2:
+    GID: TUN.24.1_1
+    admin_name: Bir Mchergua
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.24.2_1_Adm2:
+    GID: TUN.24.2_1
+    admin_name: Fahs
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.24.3_1_Adm2:
+    GID: TUN.24.3_1
+    admin_name: Nadhour
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.24.4_1_Adm2:
+    GID: TUN.24.4_1
+    admin_name: Saouaf
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.24.5_1_Adm2:
+    GID: TUN.24.5_1
+    admin_name: Zaghouan
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.24.6_1_Adm2:
+    GID: TUN.24.6_1
+    admin_name: Zriba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3_1_Adm1:
+    GID: TUN.3_1
+    admin_name: Ben Arous (Tunis Sud)
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.3.1_1_Adm2:
+    GID: TUN.3.1_1
+    admin_name: Ben Arous
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.10_1_Adm2:
+    GID: TUN.3.10_1
+    admin_name: Mornag
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.11_1_Adm2:
+    GID: TUN.3.11_1
+    admin_name: Nouvelle Médina
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.12_1_Adm2:
+    GID: TUN.3.12_1
+    admin_name: Radès
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.2_1_Adm2:
+    GID: TUN.3.2_1
+    admin_name: Boumhel
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.3_1_Adm2:
+    GID: TUN.3.3_1
+    admin_name: El Mourouj
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.4_1_Adm2:
+    GID: TUN.3.4_1
+    admin_name: Ezzahra
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.5_1_Adm2:
+    GID: TUN.3.5_1
+    admin_name: Fouchana
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.6_1_Adm2:
+    GID: TUN.3.6_1
+    admin_name: Hammam Chott
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.7_1_Adm2:
+    GID: TUN.3.7_1
+    admin_name: Hammam Lif
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.8_1_Adm2:
+    GID: TUN.3.8_1
+    admin_name: M'Hamdia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.3.9_1_Adm2:
+    GID: TUN.3.9_1
+    admin_name: Mégrine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4_1_Adm1:
+    GID: TUN.4_1
+    admin_name: Bizerte
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.4.1_1_Adm2:
+    GID: TUN.4.1_1
+    admin_name: Bizerte Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.10_1_Adm2:
+    GID: TUN.4.10_1
+    admin_name: Menzel Jemil
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.11_1_Adm2:
+    GID: TUN.4.11_1
+    admin_name: Ras Jebel
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.12_1_Adm2:
+    GID: TUN.4.12_1
+    admin_name: Sejnane
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.13_1_Adm2:
+    GID: TUN.4.13_1
+    admin_name: Tinja
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.14_1_Adm2:
+    GID: TUN.4.14_1
+    admin_name: Utique
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.2_1_Adm2:
+    GID: TUN.4.2_1
+    admin_name: Bizerte Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.3_1_Adm2:
+    GID: TUN.4.3_1
+    admin_name: El Alia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.4_1_Adm2:
+    GID: TUN.4.4_1
+    admin_name: Ghar El Melh
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.5_1_Adm2:
+    GID: TUN.4.5_1
+    admin_name: Ghazala
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.6_1_Adm2:
+    GID: TUN.4.6_1
+    admin_name: Joumine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.7_1_Adm2:
+    GID: TUN.4.7_1
+    admin_name: Lake Ichkeul
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.8_1_Adm2:
+    GID: TUN.4.8_1
+    admin_name: Mateur
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.4.9_1_Adm2:
+    GID: TUN.4.9_1
+    admin_name: Menzel Bourguiba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5_1_Adm1:
+    GID: TUN.5_1
+    admin_name: Gabès
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.5.1_1_Adm2:
+    GID: TUN.5.1_1
+    admin_name: Gabès Médina
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.10_1_Adm2:
+    GID: TUN.5.10_1
+    admin_name: Metouia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.2_1_Adm2:
+    GID: TUN.5.2_1
+    admin_name: Gabès Ouest
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.3_1_Adm2:
+    GID: TUN.5.3_1
+    admin_name: Gabès Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.4_1_Adm2:
+    GID: TUN.5.4_1
+    admin_name: Ghannouch
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.5_1_Adm2:
+    GID: TUN.5.5_1
+    admin_name: Hamma
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.6_1_Adm2:
+    GID: TUN.5.6_1
+    admin_name: Mareth
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.7_1_Adm2:
+    GID: TUN.5.7_1
+    admin_name: Matmata
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.8_1_Adm2:
+    GID: TUN.5.8_1
+    admin_name: Matmata Nouvelle
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.5.9_1_Adm2:
+    GID: TUN.5.9_1
+    admin_name: Menzel Habib
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6_1_Adm1:
+    GID: TUN.6_1
+    admin_name: Gafsa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.6.1_1_Adm2:
+    GID: TUN.6.1_1
+    admin_name: Belkhir
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.10_1_Adm2:
+    GID: TUN.6.10_1
+    admin_name: Sened
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.11_1_Adm2:
+    GID: TUN.6.11_1
+    admin_name: Sidi Aich
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.2_1_Adm2:
+    GID: TUN.6.2_1
+    admin_name: Gafsa Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.3_1_Adm2:
+    GID: TUN.6.3_1
+    admin_name: Gafsa Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.4_1_Adm2:
+    GID: TUN.6.4_1
+    admin_name: Guetar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.5_1_Adm2:
+    GID: TUN.6.5_1
+    admin_name: Ksar
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.6_1_Adm2:
+    GID: TUN.6.6_1
+    admin_name: Mdhilla
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.7_1_Adm2:
+    GID: TUN.6.7_1
+    admin_name: Metlaoui
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.8_1_Adm2:
+    GID: TUN.6.8_1
+    admin_name: Oum Larais
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.6.9_1_Adm2:
+    GID: TUN.6.9_1
+    admin_name: Redeyef
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7_1_Adm1:
+    GID: TUN.7_1
+    admin_name: Jendouba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.7.1_1_Adm2:
+    GID: TUN.7.1_1
+    admin_name: Aïn Draham
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7.2_1_Adm2:
+    GID: TUN.7.2_1
+    admin_name: Balta Bou Aouane
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7.3_1_Adm2:
+    GID: TUN.7.3_1
+    admin_name: Bousalem
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7.4_1_Adm2:
+    GID: TUN.7.4_1
+    admin_name: Fernana
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7.5_1_Adm2:
+    GID: TUN.7.5_1
+    admin_name: Ghardimaou
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7.6_1_Adm2:
+    GID: TUN.7.6_1
+    admin_name: Jendouba Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7.7_1_Adm2:
+    GID: TUN.7.7_1
+    admin_name: Jendouba Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7.8_1_Adm2:
+    GID: TUN.7.8_1
+    admin_name: Oued Mliz
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.7.9_1_Adm2:
+    GID: TUN.7.9_1
+    admin_name: Tabarka
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8_1_Adm1:
+    GID: TUN.8_1
+    admin_name: Kairouan
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.8.1_1_Adm2:
+    GID: TUN.8.1_1
+    admin_name: Alaa
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.10_1_Adm2:
+    GID: TUN.8.10_1
+    admin_name: Oueslatia
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.11_1_Adm2:
+    GID: TUN.8.11_1
+    admin_name: Sbikha
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.2_1_Adm2:
+    GID: TUN.8.2_1
+    admin_name: Bouhajla
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.3_1_Adm2:
+    GID: TUN.8.3_1
+    admin_name: Chebika
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.4_1_Adm2:
+    GID: TUN.8.4_1
+    admin_name: Chrarda
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.5_1_Adm2:
+    GID: TUN.8.5_1
+    admin_name: Haffouz
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.6_1_Adm2:
+    GID: TUN.8.6_1
+    admin_name: Hajeb El Ayoun
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.7_1_Adm2:
+    GID: TUN.8.7_1
+    admin_name: Kairouan Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.8_1_Adm2:
+    GID: TUN.8.8_1
+    admin_name: Kairouan Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.8.9_1_Adm2:
+    GID: TUN.8.9_1
+    admin_name: Nasrallah
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9_1_Adm1:
+    GID: TUN.9_1
+    admin_name: Kassérine
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm1
+  TUN.9.1_1_Adm2:
+    GID: TUN.9.1_1
+    admin_name: Ayoun
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.10_1_Adm2:
+    GID: TUN.9.10_1
+    admin_name: Majel Belabbes
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.11_1_Adm2:
+    GID: TUN.9.11_1
+    admin_name: Sbeitla
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.12_1_Adm2:
+    GID: TUN.9.12_1
+    admin_name: Sbiba
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.13_1_Adm2:
+    GID: TUN.9.13_1
+    admin_name: Thala
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.2_1_Adm2:
+    GID: TUN.9.2_1
+    admin_name: Ezzouhour
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.3_1_Adm2:
+    GID: TUN.9.3_1
+    admin_name: Feriana
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.4_1_Adm2:
+    GID: TUN.9.4_1
+    admin_name: Foussana
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.5_1_Adm2:
+    GID: TUN.9.5_1
+    admin_name: Hassi El Ferid
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.6_1_Adm2:
+    GID: TUN.9.6_1
+    admin_name: Hidra
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.7_1_Adm2:
+    GID: TUN.9.7_1
+    admin_name: Jedeliane
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.8_1_Adm2:
+    GID: TUN.9.8_1
+    admin_name: Kasserine Nord
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2
+  TUN.9.9_1_Adm2:
+    GID: TUN.9.9_1
+    admin_name: Kasserine Sud
+    iso3c: TUN
+    country_name: Tunisia
+    admin_level: Adm2

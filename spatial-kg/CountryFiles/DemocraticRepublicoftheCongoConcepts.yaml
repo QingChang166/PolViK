@@ -1,0 +1,1603 @@
+concepts:
+  COD.0_Adm0:
+    GID: COD
+    admin_name: Democratic Republic of the Congo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm0
+  COD.1_1_Adm1:
+    GID: COD.1_1
+    admin_name: Bas-Uele
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.1.1_1_Adm2:
+    GID: COD.1.1_1
+    admin_name: Aketi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.10_1_Adm2:
+    GID: COD.1.10_1
+    admin_name: Poko
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.2_1_Adm2:
+    GID: COD.1.2_1
+    admin_name: Aketi (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.3_1_Adm2:
+    GID: COD.1.3_1
+    admin_name: Ango
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.4_1_Adm2:
+    GID: COD.1.4_1
+    admin_name: Bambesa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.5_1_Adm2:
+    GID: COD.1.5_1
+    admin_name: Bondo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.6_1_Adm2:
+    GID: COD.1.6_1
+    admin_name: Bondo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.7_1_Adm2:
+    GID: COD.1.7_1
+    admin_name: Buta
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.8_1_Adm2:
+    GID: COD.1.8_1
+    admin_name: Buta (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.1.9_1_Adm2:
+    GID: COD.1.9_1
+    admin_name: Dingila
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.10_1_Adm1:
+    GID: COD.10_1
+    admin_name: Kinshasa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.10.1_1_Adm2:
+    GID: COD.10.1_1
+    admin_name: Kinshasa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11_1_Adm1:
+    GID: COD.11_1
+    admin_name: Kongo-Central
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.11.1_1_Adm2:
+    GID: COD.11.1_1
+    admin_name: Bangu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.10_1_Adm2:
+    GID: COD.11.10_1
+    admin_name: Madimba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.11_1_Adm2:
+    GID: COD.11.11_1
+    admin_name: Matadi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.12_1_Adm2:
+    GID: COD.11.12_1
+    admin_name: Mbanza-Ngungu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.13_1_Adm2:
+    GID: COD.11.13_1
+    admin_name: Mbanza-Ngungu (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.14_1_Adm2:
+    GID: COD.11.14_1
+    admin_name: Moanda
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.15_1_Adm2:
+    GID: COD.11.15_1
+    admin_name: Moanda (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.16_1_Adm2:
+    GID: COD.11.16_1
+    admin_name: Seke-Banza
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.17_1_Adm2:
+    GID: COD.11.17_1
+    admin_name: Songololo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.18_1_Adm2:
+    GID: COD.11.18_1
+    admin_name: Tshela
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.19_1_Adm2:
+    GID: COD.11.19_1
+    admin_name: Tshela (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.2_1_Adm2:
+    GID: COD.11.2_1
+    admin_name: Boma
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.3_1_Adm2:
+    GID: COD.11.3_1
+    admin_name: Inkisi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.4_1_Adm2:
+    GID: COD.11.4_1
+    admin_name: Kasangulu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.5_1_Adm2:
+    GID: COD.11.5_1
+    admin_name: Kasangulu (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.6_1_Adm2:
+    GID: COD.11.6_1
+    admin_name: Kimvula
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.7_1_Adm2:
+    GID: COD.11.7_1
+    admin_name: Lukula
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.8_1_Adm2:
+    GID: COD.11.8_1
+    admin_name: Lukula (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.11.9_1_Adm2:
+    GID: COD.11.9_1
+    admin_name: Luozi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.12_1_Adm1:
+    GID: COD.12_1
+    admin_name: Kwango
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.12.1_1_Adm2:
+    GID: COD.12.1_1
+    admin_name: Feshi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.12.2_1_Adm2:
+    GID: COD.12.2_1
+    admin_name: Kahemba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.12.3_1_Adm2:
+    GID: COD.12.3_1
+    admin_name: Kahemba (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.12.4_1_Adm2:
+    GID: COD.12.4_1
+    admin_name: Kasongo-Lunda
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.12.5_1_Adm2:
+    GID: COD.12.5_1
+    admin_name: Kasongo-Lunda (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.12.6_1_Adm2:
+    GID: COD.12.6_1
+    admin_name: Kenge
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.12.7_1_Adm2:
+    GID: COD.12.7_1
+    admin_name: Kenge (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.12.8_1_Adm2:
+    GID: COD.12.8_1
+    admin_name: Popokabaka
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13_1_Adm1:
+    GID: COD.13_1
+    admin_name: Kwilu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.13.1_1_Adm2:
+    GID: COD.13.1_1
+    admin_name: Bagata
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.10_1_Adm2:
+    GID: COD.13.10_1
+    admin_name: Kikwit
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.11_1_Adm2:
+    GID: COD.13.11_1
+    admin_name: Mangai
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.12_1_Adm2:
+    GID: COD.13.12_1
+    admin_name: Masi-Manimba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.13_1_Adm2:
+    GID: COD.13.13_1
+    admin_name: Masi-Manimba (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.2_1_Adm2:
+    GID: COD.13.2_1
+    admin_name: Bandundu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.3_1_Adm2:
+    GID: COD.13.3_1
+    admin_name: Bulungu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.4_1_Adm2:
+    GID: COD.13.4_1
+    admin_name: Bulungu (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.5_1_Adm2:
+    GID: COD.13.5_1
+    admin_name: Dibaya-Lubwe
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.6_1_Adm2:
+    GID: COD.13.6_1
+    admin_name: Gungu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.7_1_Adm2:
+    GID: COD.13.7_1
+    admin_name: Gungu (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.8_1_Adm2:
+    GID: COD.13.8_1
+    admin_name: Idiofa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.13.9_1_Adm2:
+    GID: COD.13.9_1
+    admin_name: Idiofa (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14_1_Adm1:
+    GID: COD.14_1
+    admin_name: Lomami
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.14.1_1_Adm2:
+    GID: COD.14.1_1
+    admin_name: Kabinda
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14.2_1_Adm2:
+    GID: COD.14.2_1
+    admin_name: Kabinda (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14.3_1_Adm2:
+    GID: COD.14.3_1
+    admin_name: Kamiji
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14.4_1_Adm2:
+    GID: COD.14.4_1
+    admin_name: Lubao
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14.5_1_Adm2:
+    GID: COD.14.5_1
+    admin_name: Lubao (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14.6_1_Adm2:
+    GID: COD.14.6_1
+    admin_name: Luilu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14.7_1_Adm2:
+    GID: COD.14.7_1
+    admin_name: Mwene-Ditu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14.8_1_Adm2:
+    GID: COD.14.8_1
+    admin_name: Ngandajika
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.14.9_1_Adm2:
+    GID: COD.14.9_1
+    admin_name: Ngandajika (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.15_1_Adm1:
+    GID: COD.15_1
+    admin_name: Lualaba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.15.1_1_Adm2:
+    GID: COD.15.1_1
+    admin_name: Dilolo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.15.2_1_Adm2:
+    GID: COD.15.2_1
+    admin_name: Kapanga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.15.3_1_Adm2:
+    GID: COD.15.3_1
+    admin_name: Kasaji
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.15.4_1_Adm2:
+    GID: COD.15.4_1
+    admin_name: Kolwezi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.15.5_1_Adm2:
+    GID: COD.15.5_1
+    admin_name: Lubudi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.15.6_1_Adm2:
+    GID: COD.15.6_1
+    admin_name: Mutshatsha
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.15.7_1_Adm2:
+    GID: COD.15.7_1
+    admin_name: Sandoa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16_1_Adm1:
+    GID: COD.16_1
+    admin_name: Mai-Ndombe
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.16.1_1_Adm2:
+    GID: COD.16.1_1
+    admin_name: Bolobo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.10_1_Adm2:
+    GID: COD.16.10_1
+    admin_name: Oshwe
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.11_1_Adm2:
+    GID: COD.16.11_1
+    admin_name: Yumbi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.2_1_Adm2:
+    GID: COD.16.2_1
+    admin_name: Bolobo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.3_1_Adm2:
+    GID: COD.16.3_1
+    admin_name: Inongo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.4_1_Adm2:
+    GID: COD.16.4_1
+    admin_name: Inongo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.5_1_Adm2:
+    GID: COD.16.5_1
+    admin_name: Kiri
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.6_1_Adm2:
+    GID: COD.16.6_1
+    admin_name: Kutu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.7_1_Adm2:
+    GID: COD.16.7_1
+    admin_name: Kwamouth
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.8_1_Adm2:
+    GID: COD.16.8_1
+    admin_name: Mushie
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.16.9_1_Adm2:
+    GID: COD.16.9_1
+    admin_name: Nioki
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17_1_Adm1:
+    GID: COD.17_1
+    admin_name: Maniema
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.17.1_1_Adm2:
+    GID: COD.17.1_1
+    admin_name: Kabambare
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.10_1_Adm2:
+    GID: COD.17.10_1
+    admin_name: Namoya
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.11_1_Adm2:
+    GID: COD.17.11_1
+    admin_name: Pangi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.12_1_Adm2:
+    GID: COD.17.12_1
+    admin_name: Punia
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.13_1_Adm2:
+    GID: COD.17.13_1
+    admin_name: Punia (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.2_1_Adm2:
+    GID: COD.17.2_1
+    admin_name: Kailo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.3_1_Adm2:
+    GID: COD.17.3_1
+    admin_name: Kalima
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.4_1_Adm2:
+    GID: COD.17.4_1
+    admin_name: Kasongo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.5_1_Adm2:
+    GID: COD.17.5_1
+    admin_name: Kasongo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.6_1_Adm2:
+    GID: COD.17.6_1
+    admin_name: Kibombo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.7_1_Adm2:
+    GID: COD.17.7_1
+    admin_name: Kindu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.8_1_Adm2:
+    GID: COD.17.8_1
+    admin_name: Lubutu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.17.9_1_Adm2:
+    GID: COD.17.9_1
+    admin_name: Lubutu (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.18_1_Adm1:
+    GID: COD.18_1
+    admin_name: Mongala
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.18.1_1_Adm2:
+    GID: COD.18.1_1
+    admin_name: Bongandanga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.18.2_1_Adm2:
+    GID: COD.18.2_1
+    admin_name: Bumba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.18.3_1_Adm2:
+    GID: COD.18.3_1
+    admin_name: Bumba (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.18.4_1_Adm2:
+    GID: COD.18.4_1
+    admin_name: Lisala
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.18.5_1_Adm2:
+    GID: COD.18.5_1
+    admin_name: Lisala (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19_1_Adm1:
+    GID: COD.19_1
+    admin_name: Nord-Kivu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.19.1_1_Adm2:
+    GID: COD.19.1_1
+    admin_name: Beni
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.10_1_Adm2:
+    GID: COD.19.10_1
+    admin_name: Rutshuru (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.11_1_Adm2:
+    GID: COD.19.11_1
+    admin_name: Walikale
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.2_1_Adm2:
+    GID: COD.19.2_1
+    admin_name: Butembo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.3_1_Adm2:
+    GID: COD.19.3_1
+    admin_name: Goma
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.4_1_Adm2:
+    GID: COD.19.4_1
+    admin_name: Lubero
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.5_1_Adm2:
+    GID: COD.19.5_1
+    admin_name: Masisi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.6_1_Adm2:
+    GID: COD.19.6_1
+    admin_name: Nyiragongo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.7_1_Adm2:
+    GID: COD.19.7_1
+    admin_name: Oicha
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.8_1_Adm2:
+    GID: COD.19.8_1
+    admin_name: Oïcha (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.19.9_1_Adm2:
+    GID: COD.19.9_1
+    admin_name: Rutshuru
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2_1_Adm1:
+    GID: COD.2_1
+    admin_name: Équateur
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.2.1_1_Adm2:
+    GID: COD.2.1_1
+    admin_name: Basankusu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2.2_1_Adm2:
+    GID: COD.2.2_1
+    admin_name: Basankusu (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2.3_1_Adm2:
+    GID: COD.2.3_1
+    admin_name: Bikoro
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2.4_1_Adm2:
+    GID: COD.2.4_1
+    admin_name: Bolomba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2.5_1_Adm2:
+    GID: COD.2.5_1
+    admin_name: Bomongo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2.6_1_Adm2:
+    GID: COD.2.6_1
+    admin_name: Ingende
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2.7_1_Adm2:
+    GID: COD.2.7_1
+    admin_name: Lukolela
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2.8_1_Adm2:
+    GID: COD.2.8_1
+    admin_name: Makanza
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.2.9_1_Adm2:
+    GID: COD.2.9_1
+    admin_name: Mbandaka
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.20_1_Adm1:
+    GID: COD.20_1
+    admin_name: Nord-Ubangi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.20.1_1_Adm2:
+    GID: COD.20.1_1
+    admin_name: Bosobolo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.20.2_1_Adm2:
+    GID: COD.20.2_1
+    admin_name: Businga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.20.3_1_Adm2:
+    GID: COD.20.3_1
+    admin_name: Gbadolite
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.20.4_1_Adm2:
+    GID: COD.20.4_1
+    admin_name: Mobayi-Mbongo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.20.5_1_Adm2:
+    GID: COD.20.5_1
+    admin_name: Mobayi-Mbongo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.20.6_1_Adm2:
+    GID: COD.20.6_1
+    admin_name: Yakoma
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21_1_Adm1:
+    GID: COD.21_1
+    admin_name: Sankuru
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.21.1_1_Adm2:
+    GID: COD.21.1_1
+    admin_name: Bena-Dibele
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.10_1_Adm2:
+    GID: COD.21.10_1
+    admin_name: Tshumbe
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.2_1_Adm2:
+    GID: COD.21.2_1
+    admin_name: Katako-Kombe
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.3_1_Adm2:
+    GID: COD.21.3_1
+    admin_name: Kole
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.4_1_Adm2:
+    GID: COD.21.4_1
+    admin_name: Lodja
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.5_1_Adm2:
+    GID: COD.21.5_1
+    admin_name: Lodja (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.6_1_Adm2:
+    GID: COD.21.6_1
+    admin_name: Lomela
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.7_1_Adm2:
+    GID: COD.21.7_1
+    admin_name: Lubefu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.8_1_Adm2:
+    GID: COD.21.8_1
+    admin_name: Lusambo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.21.9_1_Adm2:
+    GID: COD.21.9_1
+    admin_name: Lusambo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22_1_Adm1:
+    GID: COD.22_1
+    admin_name: Sud-Kivu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.22.1_1_Adm2:
+    GID: COD.22.1_1
+    admin_name: Baraka
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.10_1_Adm2:
+    GID: COD.22.10_1
+    admin_name: Shabunda (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.11_1_Adm2:
+    GID: COD.22.11_1
+    admin_name: Uvira
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.12_1_Adm2:
+    GID: COD.22.12_1
+    admin_name: Uvira (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.13_1_Adm2:
+    GID: COD.22.13_1
+    admin_name: Walungu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.2_1_Adm2:
+    GID: COD.22.2_1
+    admin_name: Bukavu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.3_1_Adm2:
+    GID: COD.22.3_1
+    admin_name: Fizi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.4_1_Adm2:
+    GID: COD.22.4_1
+    admin_name: Idjwi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.5_1_Adm2:
+    GID: COD.22.5_1
+    admin_name: Kabare
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.6_1_Adm2:
+    GID: COD.22.6_1
+    admin_name: Kalehe
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.7_1_Adm2:
+    GID: COD.22.7_1
+    admin_name: Kamituga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.8_1_Adm2:
+    GID: COD.22.8_1
+    admin_name: Mwenga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.22.9_1_Adm2:
+    GID: COD.22.9_1
+    admin_name: Shabunda
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.23_1_Adm1:
+    GID: COD.23_1
+    admin_name: Sud-Ubangi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.23.1_1_Adm2:
+    GID: COD.23.1_1
+    admin_name: Budjala
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.23.2_1_Adm2:
+    GID: COD.23.2_1
+    admin_name: Gemena
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.23.3_1_Adm2:
+    GID: COD.23.3_1
+    admin_name: Gemena (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.23.4_1_Adm2:
+    GID: COD.23.4_1
+    admin_name: Kungu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.23.5_1_Adm2:
+    GID: COD.23.5_1
+    admin_name: Libenge
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.23.6_1_Adm2:
+    GID: COD.23.6_1
+    admin_name: Zongo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24_1_Adm1:
+    GID: COD.24_1
+    admin_name: Tanganyika
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.24.1_1_Adm2:
+    GID: COD.24.1_1
+    admin_name: Kabalo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.10_1_Adm2:
+    GID: COD.24.10_1
+    admin_name: Nyunzu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.2_1_Adm2:
+    GID: COD.24.2_1
+    admin_name: Kalemie
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.3_1_Adm2:
+    GID: COD.24.3_1
+    admin_name: Kalemie (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.4_1_Adm2:
+    GID: COD.24.4_1
+    admin_name: Kaoze
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.5_1_Adm2:
+    GID: COD.24.5_1
+    admin_name: Kongolo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.6_1_Adm2:
+    GID: COD.24.6_1
+    admin_name: Kongolo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.7_1_Adm2:
+    GID: COD.24.7_1
+    admin_name: Manono
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.8_1_Adm2:
+    GID: COD.24.8_1
+    admin_name: Manono (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.24.9_1_Adm2:
+    GID: COD.24.9_1
+    admin_name: Moba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25_1_Adm1:
+    GID: COD.25_1
+    admin_name: Tshopo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.25.1_1_Adm2:
+    GID: COD.25.1_1
+    admin_name: Bafwasende
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.10_1_Adm2:
+    GID: COD.25.10_1
+    admin_name: Yahuma
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.11_1_Adm2:
+    GID: COD.25.11_1
+    admin_name: Yangambi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.2_1_Adm2:
+    GID: COD.25.2_1
+    admin_name: Banalia
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.3_1_Adm2:
+    GID: COD.25.3_1
+    admin_name: Basoko
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.4_1_Adm2:
+    GID: COD.25.4_1
+    admin_name: Basoko (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.5_1_Adm2:
+    GID: COD.25.5_1
+    admin_name: Isangi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.6_1_Adm2:
+    GID: COD.25.6_1
+    admin_name: Isangi (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.7_1_Adm2:
+    GID: COD.25.7_1
+    admin_name: Kisangani
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.8_1_Adm2:
+    GID: COD.25.8_1
+    admin_name: Opala
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.25.9_1_Adm2:
+    GID: COD.25.9_1
+    admin_name: Ubundu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.26_1_Adm1:
+    GID: COD.26_1
+    admin_name: Tshuapa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.26.1_1_Adm2:
+    GID: COD.26.1_1
+    admin_name: Befale
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.26.2_1_Adm2:
+    GID: COD.26.2_1
+    admin_name: Boende
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.26.3_1_Adm2:
+    GID: COD.26.3_1
+    admin_name: Boende (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.26.4_1_Adm2:
+    GID: COD.26.4_1
+    admin_name: Bokungu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.26.5_1_Adm2:
+    GID: COD.26.5_1
+    admin_name: Djolu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.26.6_1_Adm2:
+    GID: COD.26.6_1
+    admin_name: Ikela
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.26.7_1_Adm2:
+    GID: COD.26.7_1
+    admin_name: Monkoto
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3_1_Adm1:
+    GID: COD.3_1
+    admin_name: Haut-Katanga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.3.1_1_Adm2:
+    GID: COD.3.1_1
+    admin_name: Kambove
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3.2_1_Adm2:
+    GID: COD.3.2_1
+    admin_name: Kasenga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3.3_1_Adm2:
+    GID: COD.3.3_1
+    admin_name: Kipushi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3.4_1_Adm2:
+    GID: COD.3.4_1
+    admin_name: Kipushi (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3.5_1_Adm2:
+    GID: COD.3.5_1
+    admin_name: Likasi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3.6_1_Adm2:
+    GID: COD.3.6_1
+    admin_name: Lubumbashi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3.7_1_Adm2:
+    GID: COD.3.7_1
+    admin_name: Mitwaba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3.8_1_Adm2:
+    GID: COD.3.8_1
+    admin_name: Pweto
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.3.9_1_Adm2:
+    GID: COD.3.9_1
+    admin_name: Sakania
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.4_1_Adm1:
+    GID: COD.4_1
+    admin_name: Haut-Lomami
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.4.1_1_Adm2:
+    GID: COD.4.1_1
+    admin_name: Bukama
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.4.2_1_Adm2:
+    GID: COD.4.2_1
+    admin_name: Kabongo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.4.3_1_Adm2:
+    GID: COD.4.3_1
+    admin_name: Kamina
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.4.4_1_Adm2:
+    GID: COD.4.4_1
+    admin_name: Kamina (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.4.5_1_Adm2:
+    GID: COD.4.5_1
+    admin_name: Kaniama
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.4.6_1_Adm2:
+    GID: COD.4.6_1
+    admin_name: Malemba-Nkulu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5_1_Adm1:
+    GID: COD.5_1
+    admin_name: Haut-Uele
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.5.1_1_Adm2:
+    GID: COD.5.1_1
+    admin_name: Aba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.10_1_Adm2:
+    GID: COD.5.10_1
+    admin_name: Watsa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.11_1_Adm2:
+    GID: COD.5.11_1
+    admin_name: Watsa (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.2_1_Adm2:
+    GID: COD.5.2_1
+    admin_name: Dungu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.3_1_Adm2:
+    GID: COD.5.3_1
+    admin_name: Dungu (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.4_1_Adm2:
+    GID: COD.5.4_1
+    admin_name: Faradje
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.5_1_Adm2:
+    GID: COD.5.5_1
+    admin_name: Isiro
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.6_1_Adm2:
+    GID: COD.5.6_1
+    admin_name: Niangara
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.7_1_Adm2:
+    GID: COD.5.7_1
+    admin_name: Rungu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.8_1_Adm2:
+    GID: COD.5.8_1
+    admin_name: Wamba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.5.9_1_Adm2:
+    GID: COD.5.9_1
+    admin_name: Wamba (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6_1_Adm1:
+    GID: COD.6_1
+    admin_name: Ituri
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.6.1_1_Adm2:
+    GID: COD.6.1_1
+    admin_name: Ariwara
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.10_1_Adm2:
+    GID: COD.6.10_1
+    admin_name: Mambasa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.11_1_Adm2:
+    GID: COD.6.11_1
+    admin_name: Mongwalu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.2_1_Adm2:
+    GID: COD.6.2_1
+    admin_name: Aru
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.3_1_Adm2:
+    GID: COD.6.3_1
+    admin_name: Aru (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.4_1_Adm2:
+    GID: COD.6.4_1
+    admin_name: Bunia
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.5_1_Adm2:
+    GID: COD.6.5_1
+    admin_name: Djugu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.6_1_Adm2:
+    GID: COD.6.6_1
+    admin_name: Ingbokolo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.7_1_Adm2:
+    GID: COD.6.7_1
+    admin_name: Irumu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.8_1_Adm2:
+    GID: COD.6.8_1
+    admin_name: Mahagi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.6.9_1_Adm2:
+    GID: COD.6.9_1
+    admin_name: Mahagi (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.7_1_Adm1:
+    GID: COD.7_1
+    admin_name: Kasaï-Central
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.7.1_1_Adm2:
+    GID: COD.7.1_1
+    admin_name: Demba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.7.2_1_Adm2:
+    GID: COD.7.2_1
+    admin_name: Dibaya
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.7.3_1_Adm2:
+    GID: COD.7.3_1
+    admin_name: Dimbelenge
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.7.4_1_Adm2:
+    GID: COD.7.4_1
+    admin_name: Kananga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.7.5_1_Adm2:
+    GID: COD.7.5_1
+    admin_name: Kazumba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.7.6_1_Adm2:
+    GID: COD.7.6_1
+    admin_name: Luiza
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.7.7_1_Adm2:
+    GID: COD.7.7_1
+    admin_name: Tshimbulu
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8_1_Adm1:
+    GID: COD.8_1
+    admin_name: Kasaï-Oriental
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.8.1_1_Adm2:
+    GID: COD.8.1_1
+    admin_name: Kabeya-Kamwanga
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8.2_1_Adm2:
+    GID: COD.8.2_1
+    admin_name: Katanda
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8.3_1_Adm2:
+    GID: COD.8.3_1
+    admin_name: Lukalaba
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8.4_1_Adm2:
+    GID: COD.8.4_1
+    admin_name: Lupatapata
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8.5_1_Adm2:
+    GID: COD.8.5_1
+    admin_name: Mbuji-Mayi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8.6_1_Adm2:
+    GID: COD.8.6_1
+    admin_name: Miabi
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8.7_1_Adm2:
+    GID: COD.8.7_1
+    admin_name: Miabi (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8.8_1_Adm2:
+    GID: COD.8.8_1
+    admin_name: Tshilenge
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.8.9_1_Adm2:
+    GID: COD.8.9_1
+    admin_name: Tshilenge (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.9_1_Adm1:
+    GID: COD.9_1
+    admin_name: Kasaï
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm1
+  COD.9.1_1_Adm2:
+    GID: COD.9.1_1
+    admin_name: Dekese
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.9.2_1_Adm2:
+    GID: COD.9.2_1
+    admin_name: Ilebo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.9.3_1_Adm2:
+    GID: COD.9.3_1
+    admin_name: Ilebo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.9.4_1_Adm2:
+    GID: COD.9.4_1
+    admin_name: Kamonia
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.9.5_1_Adm2:
+    GID: COD.9.5_1
+    admin_name: Luebo
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.9.6_1_Adm2:
+    GID: COD.9.6_1
+    admin_name: Luebo (ville)
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.9.7_1_Adm2:
+    GID: COD.9.7_1
+    admin_name: Mweka
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2
+  COD.9.8_1_Adm2:
+    GID: COD.9.8_1
+    admin_name: Tshikapa
+    iso3c: COD
+    country_name: Democratic Republic of the Congo
+    admin_level: Adm2

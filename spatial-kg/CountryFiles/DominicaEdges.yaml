@@ -1,0 +1,11 @@
+relations:
+    - (DMA.0_Adm0, DMA.1_1_Adm1)
+    - (DMA.0_Adm0, DMA.2_1_Adm1)
+    - (DMA.0_Adm0, DMA.3_1_Adm1)
+    - (DMA.0_Adm0, DMA.4_1_Adm1)
+    - (DMA.0_Adm0, DMA.5_1_Adm1)
+    - (DMA.0_Adm0, DMA.6_1_Adm1)
+    - (DMA.0_Adm0, DMA.7_1_Adm1)
+    - (DMA.0_Adm0, DMA.8_1_Adm1)
+    - (DMA.0_Adm0, DMA.9_1_Adm1)
+    - (DMA.0_Adm0, DMA.10_1_Adm1)

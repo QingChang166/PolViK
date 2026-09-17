@@ -1,0 +1,349 @@
+concepts:
+  MRT.0_Adm0:
+    GID: MRT
+    admin_name: Mauritania
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm0
+  MRT.1_1_Adm1:
+    GID: MRT.1_1
+    admin_name: Adrar
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.1.1_1_Adm2:
+    GID: MRT.1.1_1
+    admin_name: Aoujeft
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.1.2_1_Adm2:
+    GID: MRT.1.2_1
+    admin_name: Atar
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.1.3_1_Adm2:
+    GID: MRT.1.3_1
+    admin_name: Chinguetti
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.10_1_Adm1:
+    GID: MRT.10_1
+    admin_name: Nouakchott
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.10.1_1_Adm2:
+    GID: MRT.10.1_1
+    admin_name: Nouakchott
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.11_1_Adm1:
+    GID: MRT.11_1
+    admin_name: Tagant
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.11.1_1_Adm2:
+    GID: MRT.11.1_1
+    admin_name: Moudjéria
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.11.2_1_Adm2:
+    GID: MRT.11.2_1
+    admin_name: Tichitt
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.11.3_1_Adm2:
+    GID: MRT.11.3_1
+    admin_name: Tidjikja
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.12_1_Adm1:
+    GID: MRT.12_1
+    admin_name: Tiris Zemmour
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.12.1_1_Adm2:
+    GID: MRT.12.1_1
+    admin_name: Bir Moghreïn
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.12.2_1_Adm2:
+    GID: MRT.12.2_1
+    admin_name: F'Dérik
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.12.3_1_Adm2:
+    GID: MRT.12.3_1
+    admin_name: Zouérate
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.13_1_Adm1:
+    GID: MRT.13_1
+    admin_name: Trarza
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.13.1_1_Adm2:
+    GID: MRT.13.1_1
+    admin_name: Boutilimit
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.13.2_1_Adm2:
+    GID: MRT.13.2_1
+    admin_name: Keur-Macène
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.13.3_1_Adm2:
+    GID: MRT.13.3_1
+    admin_name: Méderdra
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.13.4_1_Adm2:
+    GID: MRT.13.4_1
+    admin_name: Ouad-Naga
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.13.5_1_Adm2:
+    GID: MRT.13.5_1
+    admin_name: R'Kiz
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.13.6_1_Adm2:
+    GID: MRT.13.6_1
+    admin_name: Rosso
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.2_1_Adm1:
+    GID: MRT.2_1
+    admin_name: Assaba
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.2.1_1_Adm2:
+    GID: MRT.2.1_1
+    admin_name: Barkéol
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.2.2_1_Adm2:
+    GID: MRT.2.2_1
+    admin_name: Boumdeïd
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.2.3_1_Adm2:
+    GID: MRT.2.3_1
+    admin_name: Guérou
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.2.4_1_Adm2:
+    GID: MRT.2.4_1
+    admin_name: Kankossa
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.2.5_1_Adm2:
+    GID: MRT.2.5_1
+    admin_name: Kiffa
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.3_1_Adm1:
+    GID: MRT.3_1
+    admin_name: Brakna
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.3.1_1_Adm2:
+    GID: MRT.3.1_1
+    admin_name: Aleg
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.3.2_1_Adm2:
+    GID: MRT.3.2_1
+    admin_name: Bababé
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.3.3_1_Adm2:
+    GID: MRT.3.3_1
+    admin_name: Boghé
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.3.4_1_Adm2:
+    GID: MRT.3.4_1
+    admin_name: M'Bagne
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.3.5_1_Adm2:
+    GID: MRT.3.5_1
+    admin_name: Magta-Lahjar
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.4_1_Adm1:
+    GID: MRT.4_1
+    admin_name: Dakhlet Nouadhibou
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.4.1_1_Adm2:
+    GID: MRT.4.1_1
+    admin_name: Nouadhibou
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.5_1_Adm1:
+    GID: MRT.5_1
+    admin_name: Gorgol
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.5.1_1_Adm2:
+    GID: MRT.5.1_1
+    admin_name: Kaédi
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.5.2_1_Adm2:
+    GID: MRT.5.2_1
+    admin_name: M'Bout
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.5.3_1_Adm2:
+    GID: MRT.5.3_1
+    admin_name: Maghama
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.5.4_1_Adm2:
+    GID: MRT.5.4_1
+    admin_name: Monguel
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.6_1_Adm1:
+    GID: MRT.6_1
+    admin_name: Guidimaka
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.6.1_1_Adm2:
+    GID: MRT.6.1_1
+    admin_name: Ould Yengé
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.6.2_1_Adm2:
+    GID: MRT.6.2_1
+    admin_name: Sélibaby
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.7_1_Adm1:
+    GID: MRT.7_1
+    admin_name: Hodh ech Chargui
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.7.1_1_Adm2:
+    GID: MRT.7.1_1
+    admin_name: Amourj
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.7.2_1_Adm2:
+    GID: MRT.7.2_1
+    admin_name: Bassikounou
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.7.3_1_Adm2:
+    GID: MRT.7.3_1
+    admin_name: Djiguenni
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.7.4_1_Adm2:
+    GID: MRT.7.4_1
+    admin_name: Néma
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.7.5_1_Adm2:
+    GID: MRT.7.5_1
+    admin_name: Ouadane
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.7.6_1_Adm2:
+    GID: MRT.7.6_1
+    admin_name: Timbédra
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.8_1_Adm1:
+    GID: MRT.8_1
+    admin_name: Hodh el Gharbi
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.8.1_1_Adm2:
+    GID: MRT.8.1_1
+    admin_name: Aïoun
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.8.2_1_Adm2:
+    GID: MRT.8.2_1
+    admin_name: Kobenni
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.8.3_1_Adm2:
+    GID: MRT.8.3_1
+    admin_name: Tamchakett
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.8.4_1_Adm2:
+    GID: MRT.8.4_1
+    admin_name: Tintane
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2
+  MRT.9_1_Adm1:
+    GID: MRT.9_1
+    admin_name: Inchiri
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm1
+  MRT.9.1_1_Adm2:
+    GID: MRT.9.1_1
+    admin_name: Akjoujt
+    iso3c: MRT
+    country_name: Mauritania
+    admin_level: Adm2

@@ -1,0 +1,571 @@
+concepts:
+  NZL.0_Adm0:
+    GID: NZL
+    admin_name: New Zealand
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm0
+  NZL.1_1_Adm1:
+    GID: NZL.1_1
+    admin_name: Auckland
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.1.1_1_Adm2:
+    GID: NZL.1.1_1
+    admin_name: Auckland
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.10_1_Adm1:
+    GID: NZL.10_1
+    admin_name: Northern Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.10.1_1_Adm2:
+    GID: NZL.10.1_1
+    admin_name: Kermadec Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.10.2_1_Adm2:
+    GID: NZL.10.2_1
+    admin_name: Three Kings
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.11_1_Adm1:
+    GID: NZL.11_1
+    admin_name: Northland
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.11.1_1_Adm2:
+    GID: NZL.11.1_1
+    admin_name: Far North
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.11.2_1_Adm2:
+    GID: NZL.11.2_1
+    admin_name: Kaipara
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.11.3_1_Adm2:
+    GID: NZL.11.3_1
+    admin_name: Whangarei
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.12_1_Adm1:
+    GID: NZL.12_1
+    admin_name: Otago
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.12.1_1_Adm2:
+    GID: NZL.12.1_1
+    admin_name: Central Otago
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.12.2_1_Adm2:
+    GID: NZL.12.2_1
+    admin_name: Clutha
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.12.3_1_Adm2:
+    GID: NZL.12.3_1
+    admin_name: Dunedin
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.12.4_1_Adm2:
+    GID: NZL.12.4_1
+    admin_name: Queenstown-Lakes
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.13_1_Adm1:
+    GID: NZL.13_1
+    admin_name: Southern Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.13.1_1_Adm2:
+    GID: NZL.13.1_1
+    admin_name: Antipodes Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.13.2_1_Adm2:
+    GID: NZL.13.2_1
+    admin_name: Auckland islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.13.3_1_Adm2:
+    GID: NZL.13.3_1
+    admin_name: Bounty Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.13.4_1_Adm2:
+    GID: NZL.13.4_1
+    admin_name: Campbell Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.13.5_1_Adm2:
+    GID: NZL.13.5_1
+    admin_name: Snares Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.14_1_Adm1:
+    GID: NZL.14_1
+    admin_name: Southland
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.14.1_1_Adm2:
+    GID: NZL.14.1_1
+    admin_name: Gore
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.14.2_1_Adm2:
+    GID: NZL.14.2_1
+    admin_name: Invercargill
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.14.3_1_Adm2:
+    GID: NZL.14.3_1
+    admin_name: Southland
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.15_1_Adm1:
+    GID: NZL.15_1
+    admin_name: Taranaki
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.15.1_1_Adm2:
+    GID: NZL.15.1_1
+    admin_name: New Plymouth
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.15.2_1_Adm2:
+    GID: NZL.15.2_1
+    admin_name: South Taranaki
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.15.3_1_Adm2:
+    GID: NZL.15.3_1
+    admin_name: Stratford
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.16_1_Adm1:
+    GID: NZL.16_1
+    admin_name: Tasman
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.16.1_1_Adm2:
+    GID: NZL.16.1_1
+    admin_name: Tasman
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17_1_Adm1:
+    GID: NZL.17_1
+    admin_name: Waikato
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.17.1_1_Adm2:
+    GID: NZL.17.1_1
+    admin_name: Hamilton
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.10_1_Adm2:
+    GID: NZL.17.10_1
+    admin_name: Waitomo
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.2_1_Adm2:
+    GID: NZL.17.2_1
+    admin_name: Hauraki
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.3_1_Adm2:
+    GID: NZL.17.3_1
+    admin_name: Matamata-Piako
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.4_1_Adm2:
+    GID: NZL.17.4_1
+    admin_name: Otorohanga
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.5_1_Adm2:
+    GID: NZL.17.5_1
+    admin_name: South Waikato
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.6_1_Adm2:
+    GID: NZL.17.6_1
+    admin_name: Taupo
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.7_1_Adm2:
+    GID: NZL.17.7_1
+    admin_name: Thames-Coromandel
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.8_1_Adm2:
+    GID: NZL.17.8_1
+    admin_name: Waikato
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.17.9_1_Adm2:
+    GID: NZL.17.9_1
+    admin_name: Waipa
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.18_1_Adm1:
+    GID: NZL.18_1
+    admin_name: Wellington
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.18.1_1_Adm2:
+    GID: NZL.18.1_1
+    admin_name: Carterton
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.18.2_1_Adm2:
+    GID: NZL.18.2_1
+    admin_name: Kapiti Coast
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.18.3_1_Adm2:
+    GID: NZL.18.3_1
+    admin_name: Lower Hutt
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.18.4_1_Adm2:
+    GID: NZL.18.4_1
+    admin_name: Masterton
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.18.5_1_Adm2:
+    GID: NZL.18.5_1
+    admin_name: Porirua
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.18.6_1_Adm2:
+    GID: NZL.18.6_1
+    admin_name: South Wairarapa
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.18.7_1_Adm2:
+    GID: NZL.18.7_1
+    admin_name: Upper Hutt
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.18.8_1_Adm2:
+    GID: NZL.18.8_1
+    admin_name: Wellington
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.19_1_Adm1:
+    GID: NZL.19_1
+    admin_name: West Coast
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.19.1_1_Adm2:
+    GID: NZL.19.1_1
+    admin_name: Buller
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.19.2_1_Adm2:
+    GID: NZL.19.2_1
+    admin_name: Grey
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.19.3_1_Adm2:
+    GID: NZL.19.3_1
+    admin_name: Westland
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.2_1_Adm1:
+    GID: NZL.2_1
+    admin_name: Bay of Plenty
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.2.1_1_Adm2:
+    GID: NZL.2.1_1
+    admin_name: Area Outside Territorial Authori
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.2.2_1_Adm2:
+    GID: NZL.2.2_1
+    admin_name: Kawerau
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.2.3_1_Adm2:
+    GID: NZL.2.3_1
+    admin_name: Opotiki
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.2.4_1_Adm2:
+    GID: NZL.2.4_1
+    admin_name: Rotorua
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.2.5_1_Adm2:
+    GID: NZL.2.5_1
+    admin_name: Tauranga
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.2.6_1_Adm2:
+    GID: NZL.2.6_1
+    admin_name: Western Bay of Plenty
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.2.7_1_Adm2:
+    GID: NZL.2.7_1
+    admin_name: Whakatane
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3_1_Adm1:
+    GID: NZL.3_1
+    admin_name: Canterbury
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.3.1_1_Adm2:
+    GID: NZL.3.1_1
+    admin_name: Ashburton
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.10_1_Adm2:
+    GID: NZL.3.10_1
+    admin_name: Waitaki
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.2_1_Adm2:
+    GID: NZL.3.2_1
+    admin_name: Christchurch
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.3_1_Adm2:
+    GID: NZL.3.3_1
+    admin_name: Hurunui
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.4_1_Adm2:
+    GID: NZL.3.4_1
+    admin_name: Kaikoura
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.5_1_Adm2:
+    GID: NZL.3.5_1
+    admin_name: Mackenzie
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.6_1_Adm2:
+    GID: NZL.3.6_1
+    admin_name: Selwyn
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.7_1_Adm2:
+    GID: NZL.3.7_1
+    admin_name: Timaru
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.8_1_Adm2:
+    GID: NZL.3.8_1
+    admin_name: Waimakariri
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.3.9_1_Adm2:
+    GID: NZL.3.9_1
+    admin_name: Waimate
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.4_1_Adm1:
+    GID: NZL.4_1
+    admin_name: Chatham Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.4.1_1_Adm2:
+    GID: NZL.4.1_1
+    admin_name: Chatham Islands
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.5_1_Adm1:
+    GID: NZL.5_1
+    admin_name: Gisborne
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.5.1_1_Adm2:
+    GID: NZL.5.1_1
+    admin_name: Gisborne
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.6_1_Adm1:
+    GID: NZL.6_1
+    admin_name: Hawke's Bay
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.6.1_1_Adm2:
+    GID: NZL.6.1_1
+    admin_name: Central Hawke's Bay
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.6.2_1_Adm2:
+    GID: NZL.6.2_1
+    admin_name: Hastings
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.6.3_1_Adm2:
+    GID: NZL.6.3_1
+    admin_name: Napier
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.6.4_1_Adm2:
+    GID: NZL.6.4_1
+    admin_name: Wairoa
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.7_1_Adm1:
+    GID: NZL.7_1
+    admin_name: Manawatu-Wanganui
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.7.1_1_Adm2:
+    GID: NZL.7.1_1
+    admin_name: Horowhenua
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.7.2_1_Adm2:
+    GID: NZL.7.2_1
+    admin_name: Manawatu
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.7.3_1_Adm2:
+    GID: NZL.7.3_1
+    admin_name: Palmerston North
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.7.4_1_Adm2:
+    GID: NZL.7.4_1
+    admin_name: Rangitikei
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.7.5_1_Adm2:
+    GID: NZL.7.5_1
+    admin_name: Ruapehu
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.7.6_1_Adm2:
+    GID: NZL.7.6_1
+    admin_name: Tararua
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.7.7_1_Adm2:
+    GID: NZL.7.7_1
+    admin_name: Whanganui
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.8_1_Adm1:
+    GID: NZL.8_1
+    admin_name: Marlborough
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.8.1_1_Adm2:
+    GID: NZL.8.1_1
+    admin_name: Marlborough
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2
+  NZL.9_1_Adm1:
+    GID: NZL.9_1
+    admin_name: Nelson
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm1
+  NZL.9.1_1_Adm2:
+    GID: NZL.9.1_1
+    admin_name: Nelson
+    iso3c: NZL
+    country_name: New Zealand
+    admin_level: Adm2

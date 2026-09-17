@@ -1,0 +1,133 @@
+concepts:
+  BIH.0_Adm0:
+    GID: BIH
+    admin_name: Bosnia and Herzegovina
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm0
+  BIH.1_1_Adm1:
+    GID: BIH.1_1
+    admin_name: Brčko
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm1
+  BIH.1.1_1_Adm2:
+    GID: BIH.1.1_1
+    admin_name: Brčko
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2_1_Adm1:
+    GID: BIH.2_1
+    admin_name: Federacija Bosna i Hercegovina
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm1
+  BIH.2.1_1_Adm2:
+    GID: BIH.2.1_1
+    admin_name: Bosnian Podrinje
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.10_1_Adm2:
+    GID: BIH.2.10_1
+    admin_name: Zenica-Doboj
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.2_1_Adm2:
+    GID: BIH.2.2_1
+    admin_name: Canton 10
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.3_1_Adm2:
+    GID: BIH.2.3_1
+    admin_name: Central Bosnia
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.4_1_Adm2:
+    GID: BIH.2.4_1
+    admin_name: Herzegovina-Neretva
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.5_1_Adm2:
+    GID: BIH.2.5_1
+    admin_name: Posavina
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.6_1_Adm2:
+    GID: BIH.2.6_1
+    admin_name: Sarajevo
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.7_1_Adm2:
+    GID: BIH.2.7_1
+    admin_name: Tuzla
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.8_1_Adm2:
+    GID: BIH.2.8_1
+    admin_name: Una-Sana
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.2.9_1_Adm2:
+    GID: BIH.2.9_1
+    admin_name: West Herzegovina
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.3_1_Adm1:
+    GID: BIH.3_1
+    admin_name: Repuplika Srpska
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm1
+  BIH.3.1_1_Adm2:
+    GID: BIH.3.1_1
+    admin_name: Banja Luka
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.3.2_1_Adm2:
+    GID: BIH.3.2_1
+    admin_name: Bijeljina
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.3.3_1_Adm2:
+    GID: BIH.3.3_1
+    admin_name: Doboj
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.3.4_1_Adm2:
+    GID: BIH.3.4_1
+    admin_name: Foča
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.3.5_1_Adm2:
+    GID: BIH.3.5_1
+    admin_name: Istočno Sarajevo
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.3.6_1_Adm2:
+    GID: BIH.3.6_1
+    admin_name: Trebinje
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2
+  BIH.3.7_1_Adm2:
+    GID: BIH.3.7_1
+    admin_name: Vlasenica
+    iso3c: BIH
+    country_name: Bosnia and Herzegovina
+    admin_level: Adm2

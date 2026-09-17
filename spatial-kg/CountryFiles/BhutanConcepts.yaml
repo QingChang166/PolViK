@@ -1,0 +1,1357 @@
+concepts:
+  BTN.0_Adm0:
+    GID: BTN
+    admin_name: Bhutan
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm0
+  BTN.1_1_Adm1:
+    GID: BTN.1_1
+    admin_name: Bumthang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.1.1_1_Adm2:
+    GID: BTN.1.1_1
+    admin_name: Chhoekhor
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.1.2_1_Adm2:
+    GID: BTN.1.2_1
+    admin_name: Chhume
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.1.3_1_Adm2:
+    GID: BTN.1.3_1
+    admin_name: Tang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.1.4_1_Adm2:
+    GID: BTN.1.4_1
+    admin_name: Ura
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10_1_Adm1:
+    GID: BTN.10_1
+    admin_name: Punakha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.10.1_1_Adm2:
+    GID: BTN.10.1_1
+    admin_name: Barp
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.10_1_Adm2:
+    GID: BTN.10.10_1
+    admin_name: Toepisa
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.11_1_Adm2:
+    GID: BTN.10.11_1
+    admin_name: Toewang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.2_1_Adm2:
+    GID: BTN.10.2_1
+    admin_name: Chhubug
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.3_1_Adm2:
+    GID: BTN.10.3_1
+    admin_name: Dzomi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.4_1_Adm2:
+    GID: BTN.10.4_1
+    admin_name: Goenshari
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.5_1_Adm2:
+    GID: BTN.10.5_1
+    admin_name: Guma
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.6_1_Adm2:
+    GID: BTN.10.6_1
+    admin_name: Kabisa
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.7_1_Adm2:
+    GID: BTN.10.7_1
+    admin_name: Lingmukha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.8_1_Adm2:
+    GID: BTN.10.8_1
+    admin_name: Shenga Bjemi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.10.9_1_Adm2:
+    GID: BTN.10.9_1
+    admin_name: Talog
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11_1_Adm1:
+    GID: BTN.11_1
+    admin_name: Samdrup Jongkhar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.11.1_1_Adm2:
+    GID: BTN.11.1_1
+    admin_name: Dewathang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.10_1_Adm2:
+    GID: BTN.11.10_1
+    admin_name: Serthi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.11_1_Adm2:
+    GID: BTN.11.11_1
+    admin_name: Wangphu
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.2_1_Adm2:
+    GID: BTN.11.2_1
+    admin_name: Gomdar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.3_1_Adm2:
+    GID: BTN.11.3_1
+    admin_name: Orong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.4_1_Adm2:
+    GID: BTN.11.4_1
+    admin_name: Langchhenphu
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.5_1_Adm2:
+    GID: BTN.11.5_1
+    admin_name: Lauri
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.6_1_Adm2:
+    GID: BTN.11.6_1
+    admin_name: Martshala
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.7_1_Adm2:
+    GID: BTN.11.7_1
+    admin_name: Pemathang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.8_1_Adm2:
+    GID: BTN.11.8_1
+    admin_name: Phuntsthothang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.11.9_1_Adm2:
+    GID: BTN.11.9_1
+    admin_name: Samrang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12_1_Adm1:
+    GID: BTN.12_1
+    admin_name: Samtse
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.12.1_1_Adm2:
+    GID: BTN.12.1_1
+    admin_name: Norgaygang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.10_1_Adm2:
+    GID: BTN.12.10_1
+    admin_name: Samtse
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.11_1_Adm2:
+    GID: BTN.12.11_1
+    admin_name: Tashicholing
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.12_1_Adm2:
+    GID: BTN.12.12_1
+    admin_name: Tading
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.13_1_Adm2:
+    GID: BTN.12.13_1
+    admin_name: Tendruk
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.14_1_Adm2:
+    GID: BTN.12.14_1
+    admin_name: Ugentse
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.15_1_Adm2:
+    GID: BTN.12.15_1
+    admin_name: Yoeseltse
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.2_1_Adm2:
+    GID: BTN.12.2_1
+    admin_name: Pemaling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.3_1_Adm2:
+    GID: BTN.12.3_1
+    admin_name: Sangngagchhoeling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.4_1_Adm2:
+    GID: BTN.12.4_1
+    admin_name: Norbugang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.5_1_Adm2:
+    GID: BTN.12.5_1
+    admin_name: Denchhukha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.6_1_Adm2:
+    GID: BTN.12.6_1
+    admin_name: Dophoogchen
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.7_1_Adm2:
+    GID: BTN.12.7_1
+    admin_name: Dungtoe
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.8_1_Adm2:
+    GID: BTN.12.8_1
+    admin_name: Namgaychhoeling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.12.9_1_Adm2:
+    GID: BTN.12.9_1
+    admin_name: Phuentshogpelri
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13_1_Adm1:
+    GID: BTN.13_1
+    admin_name: Sarpang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.13.1_1_Adm2:
+    GID: BTN.13.1_1
+    admin_name: Samtenling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.10_1_Adm2:
+    GID: BTN.13.10_1
+    admin_name: Shompangkha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.11_1_Adm2:
+    GID: BTN.13.11_1
+    admin_name: Tareythang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.12_1_Adm2:
+    GID: BTN.13.12_1
+    admin_name: Umling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.2_1_Adm2:
+    GID: BTN.13.2_1
+    admin_name: Chhuzagang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.3_1_Adm2:
+    GID: BTN.13.3_1
+    admin_name: Dekiling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.4_1_Adm2:
+    GID: BTN.13.4_1
+    admin_name: Chhudzom
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.5_1_Adm2:
+    GID: BTN.13.5_1
+    admin_name: Gelephu
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.6_1_Adm2:
+    GID: BTN.13.6_1
+    admin_name: Gakiling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.7_1_Adm2:
+    GID: BTN.13.7_1
+    admin_name: Jigmichhoeling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.8_1_Adm2:
+    GID: BTN.13.8_1
+    admin_name: Senggey
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.13.9_1_Adm2:
+    GID: BTN.13.9_1
+    admin_name: Sherzhong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.14_1_Adm1:
+    GID: BTN.14_1
+    admin_name: Thimphu
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.14.1_1_Adm2:
+    GID: BTN.14.1_1
+    admin_name: Chang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.14.2_1_Adm2:
+    GID: BTN.14.2_1
+    admin_name: Darkala
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.14.3_1_Adm2:
+    GID: BTN.14.3_1
+    admin_name: Genye
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.14.4_1_Adm2:
+    GID: BTN.14.4_1
+    admin_name: Kawang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.14.5_1_Adm2:
+    GID: BTN.14.5_1
+    admin_name: Lingzhi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.14.6_1_Adm2:
+    GID: BTN.14.6_1
+    admin_name: Mewang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.14.7_1_Adm2:
+    GID: BTN.14.7_1
+    admin_name: Naro
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.14.8_1_Adm2:
+    GID: BTN.14.8_1
+    admin_name: Soe
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15_1_Adm1:
+    GID: BTN.15_1
+    admin_name: Trashigang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.15.1_1_Adm2:
+    GID: BTN.15.1_1
+    admin_name: Bartsham
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.10_1_Adm2:
+    GID: BTN.15.10_1
+    admin_name: Sagteng
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.11_1_Adm2:
+    GID: BTN.15.11_1
+    admin_name: Samkhar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.12_1_Adm2:
+    GID: BTN.15.12_1
+    admin_name: Shongphoog
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.13_1_Adm2:
+    GID: BTN.15.13_1
+    admin_name: Thrimshing
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.14_1_Adm2:
+    GID: BTN.15.14_1
+    admin_name: Uzorong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.15_1_Adm2:
+    GID: BTN.15.15_1
+    admin_name: Yangnyer
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.2_1_Adm2:
+    GID: BTN.15.2_1
+    admin_name: Bidung
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.3_1_Adm2:
+    GID: BTN.15.3_1
+    admin_name: Kanglung
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.4_1_Adm2:
+    GID: BTN.15.4_1
+    admin_name: Kangpar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.5_1_Adm2:
+    GID: BTN.15.5_1
+    admin_name: Khaling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.6_1_Adm2:
+    GID: BTN.15.6_1
+    admin_name: Lumang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.7_1_Adm2:
+    GID: BTN.15.7_1
+    admin_name: Merag
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.8_1_Adm2:
+    GID: BTN.15.8_1
+    admin_name: Phongmed
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.15.9_1_Adm2:
+    GID: BTN.15.9_1
+    admin_name: Radi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.16_1_Adm1:
+    GID: BTN.16_1
+    admin_name: Trongsa
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.16.1_1_Adm2:
+    GID: BTN.16.1_1
+    admin_name: Dragteng
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.16.2_1_Adm2:
+    GID: BTN.16.2_1
+    admin_name: Korpoog
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.16.3_1_Adm2:
+    GID: BTN.16.3_1
+    admin_name: Langthil
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.16.4_1_Adm2:
+    GID: BTN.16.4_1
+    admin_name: Nubi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.16.5_1_Adm2:
+    GID: BTN.16.5_1
+    admin_name: Tangsibji
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17_1_Adm1:
+    GID: BTN.17_1
+    admin_name: Tsirang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.17.1_1_Adm2:
+    GID: BTN.17.1_1
+    admin_name: Barshong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.10_1_Adm2:
+    GID: BTN.17.10_1
+    admin_name: Shemjong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.11_1_Adm2:
+    GID: BTN.17.11_1
+    admin_name: Tsholingkhor
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.12_1_Adm2:
+    GID: BTN.17.12_1
+    admin_name: Tsirangtoe
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.2_1_Adm2:
+    GID: BTN.17.2_1
+    admin_name: Patshaling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.3_1_Adm2:
+    GID: BTN.17.3_1
+    admin_name: Dunglegang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.4_1_Adm2:
+    GID: BTN.17.4_1
+    admin_name: Gosarling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.5_1_Adm2:
+    GID: BTN.17.5_1
+    admin_name: Kikorthang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.6_1_Adm2:
+    GID: BTN.17.6_1
+    admin_name: Mendrelgang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.7_1_Adm2:
+    GID: BTN.17.7_1
+    admin_name: Sergithang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.8_1_Adm2:
+    GID: BTN.17.8_1
+    admin_name: Phuntenchu
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.17.9_1_Adm2:
+    GID: BTN.17.9_1
+    admin_name: Rangthangling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18_1_Adm1:
+    GID: BTN.18_1
+    admin_name: Wangdue Phodrang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.18.1_1_Adm2:
+    GID: BTN.18.1_1
+    admin_name: Athang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.10_1_Adm2:
+    GID: BTN.18.10_1
+    admin_name: Nyisho
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.11_1_Adm2:
+    GID: BTN.18.11_1
+    admin_name: Phangyul
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.12_1_Adm2:
+    GID: BTN.18.12_1
+    admin_name: Phobji
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.13_1_Adm2:
+    GID: BTN.18.13_1
+    admin_name: Ruepisa
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.14_1_Adm2:
+    GID: BTN.18.14_1
+    admin_name: Sephu
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.15_1_Adm2:
+    GID: BTN.18.15_1
+    admin_name: Thedtsho
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.2_1_Adm2:
+    GID: BTN.18.2_1
+    admin_name: Bjenag
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.3_1_Adm2:
+    GID: BTN.18.3_1
+    admin_name: Darkar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.4_1_Adm2:
+    GID: BTN.18.4_1
+    admin_name: Dangchu
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.5_1_Adm2:
+    GID: BTN.18.5_1
+    admin_name: Gangteng
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.6_1_Adm2:
+    GID: BTN.18.6_1
+    admin_name: Gasetsho Gom
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.7_1_Adm2:
+    GID: BTN.18.7_1
+    admin_name: Gasetsho Wom
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.8_1_Adm2:
+    GID: BTN.18.8_1
+    admin_name: Kazhi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.18.9_1_Adm2:
+    GID: BTN.18.9_1
+    admin_name: Nahi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.19_1_Adm1:
+    GID: BTN.19_1
+    admin_name: Trashi Yangtse
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.19.1_1_Adm2:
+    GID: BTN.19.1_1
+    admin_name: Bumdeling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.19.2_1_Adm2:
+    GID: BTN.19.2_1
+    admin_name: Jamkhar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.19.3_1_Adm2:
+    GID: BTN.19.3_1
+    admin_name: Khamdang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.19.4_1_Adm2:
+    GID: BTN.19.4_1
+    admin_name: Ramjar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.19.5_1_Adm2:
+    GID: BTN.19.5_1
+    admin_name: Toetsho
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.19.6_1_Adm2:
+    GID: BTN.19.6_1
+    admin_name: Tongzhang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.19.7_1_Adm2:
+    GID: BTN.19.7_1
+    admin_name: Yangtse
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.19.8_1_Adm2:
+    GID: BTN.19.8_1
+    admin_name: Yalang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2_1_Adm1:
+    GID: BTN.2_1
+    admin_name: Chhukha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.2.1_1_Adm2:
+    GID: BTN.2.1_1
+    admin_name: Bjachho
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.10_1_Adm2:
+    GID: BTN.2.10_1
+    admin_name: Phuentsholing
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.11_1_Adm2:
+    GID: BTN.2.11_1
+    admin_name: Samphelling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.2_1_Adm2:
+    GID: BTN.2.2_1
+    admin_name: Bongo
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.3_1_Adm2:
+    GID: BTN.2.3_1
+    admin_name: Chapchha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.4_1_Adm2:
+    GID: BTN.2.4_1
+    admin_name: Darla
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.5_1_Adm2:
+    GID: BTN.2.5_1
+    admin_name: Dungna
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.6_1_Adm2:
+    GID: BTN.2.6_1
+    admin_name: Geling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.7_1_Adm2:
+    GID: BTN.2.7_1
+    admin_name: Getana
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.8_1_Adm2:
+    GID: BTN.2.8_1
+    admin_name: Logchina
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.2.9_1_Adm2:
+    GID: BTN.2.9_1
+    admin_name: Metap
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.20_1_Adm1:
+    GID: BTN.20_1
+    admin_name: Zhemgang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.20.1_1_Adm2:
+    GID: BTN.20.1_1
+    admin_name: Bardo
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.20.2_1_Adm2:
+    GID: BTN.20.2_1
+    admin_name: Bjoka
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.20.3_1_Adm2:
+    GID: BTN.20.3_1
+    admin_name: Goshing
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.20.4_1_Adm2:
+    GID: BTN.20.4_1
+    admin_name: Nangkor
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.20.5_1_Adm2:
+    GID: BTN.20.5_1
+    admin_name: Ngangla
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.20.6_1_Adm2:
+    GID: BTN.20.6_1
+    admin_name: Pangkhar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.20.7_1_Adm2:
+    GID: BTN.20.7_1
+    admin_name: Shingkhar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.20.8_1_Adm2:
+    GID: BTN.20.8_1
+    admin_name: Trong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3_1_Adm1:
+    GID: BTN.3_1
+    admin_name: Dagana
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.3.1_1_Adm2:
+    GID: BTN.3.1_1
+    admin_name: Karmaling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.10_1_Adm2:
+    GID: BTN.3.10_1
+    admin_name: Nichula
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.11_1_Adm2:
+    GID: BTN.3.11_1
+    admin_name: Trashiding
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.12_1_Adm2:
+    GID: BTN.3.12_1
+    admin_name: Tsangkha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.13_1_Adm2:
+    GID: BTN.3.13_1
+    admin_name: Tsendagang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.14_1_Adm2:
+    GID: BTN.3.14_1
+    admin_name: Tseza
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.2_1_Adm2:
+    GID: BTN.3.2_1
+    admin_name: Dorona
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.3_1_Adm2:
+    GID: BTN.3.3_1
+    admin_name: Drugyelgang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.4_1_Adm2:
+    GID: BTN.3.4_1
+    admin_name: Gesarling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.5_1_Adm2:
+    GID: BTN.3.5_1
+    admin_name: Gozhi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.6_1_Adm2:
+    GID: BTN.3.6_1
+    admin_name: Kalidzingkha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.7_1_Adm2:
+    GID: BTN.3.7_1
+    admin_name: Khipisa
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.8_1_Adm2:
+    GID: BTN.3.8_1
+    admin_name: Lajab
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.3.9_1_Adm2:
+    GID: BTN.3.9_1
+    admin_name: Lhamoi Zingkha
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.4_1_Adm1:
+    GID: BTN.4_1
+    admin_name: Gasa
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.4.1_1_Adm2:
+    GID: BTN.4.1_1
+    admin_name: Khamaed
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.4.2_1_Adm2:
+    GID: BTN.4.2_1
+    admin_name: Khatoe
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.4.3_1_Adm2:
+    GID: BTN.4.3_1
+    admin_name: Laya
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.4.4_1_Adm2:
+    GID: BTN.4.4_1
+    admin_name: Lunana
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.5_1_Adm1:
+    GID: BTN.5_1
+    admin_name: Haa
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.5.1_1_Adm2:
+    GID: BTN.5.1_1
+    admin_name: Bji
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.5.2_1_Adm2:
+    GID: BTN.5.2_1
+    admin_name: Gakiling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.5.3_1_Adm2:
+    GID: BTN.5.3_1
+    admin_name: Katsho
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.5.4_1_Adm2:
+    GID: BTN.5.4_1
+    admin_name: Sama
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.5.5_1_Adm2:
+    GID: BTN.5.5_1
+    admin_name: Sangbay
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.5.6_1_Adm2:
+    GID: BTN.5.6_1
+    admin_name: Uesu
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.6_1_Adm1:
+    GID: BTN.6_1
+    admin_name: Lhuentse
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.6.1_1_Adm2:
+    GID: BTN.6.1_1
+    admin_name: Gangzur
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.6.2_1_Adm2:
+    GID: BTN.6.2_1
+    admin_name: Jaray
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.6.3_1_Adm2:
+    GID: BTN.6.3_1
+    admin_name: Khoma
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.6.4_1_Adm2:
+    GID: BTN.6.4_1
+    admin_name: Kurtoed
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.6.5_1_Adm2:
+    GID: BTN.6.5_1
+    admin_name: Menbi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.6.6_1_Adm2:
+    GID: BTN.6.6_1
+    admin_name: Metsho
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.6.7_1_Adm2:
+    GID: BTN.6.7_1
+    admin_name: Minjay
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.6.8_1_Adm2:
+    GID: BTN.6.8_1
+    admin_name: Tsenkhar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7_1_Adm1:
+    GID: BTN.7_1
+    admin_name: Monggar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.7.1_1_Adm2:
+    GID: BTN.7.1_1
+    admin_name: Balam
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.10_1_Adm2:
+    GID: BTN.7.10_1
+    admin_name: Narang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.11_1_Adm2:
+    GID: BTN.7.11_1
+    admin_name: Ngatshang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.12_1_Adm2:
+    GID: BTN.7.12_1
+    admin_name: Saling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.13_1_Adm2:
+    GID: BTN.7.13_1
+    admin_name: Shermuhoong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.14_1_Adm2:
+    GID: BTN.7.14_1
+    admin_name: Silambi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.15_1_Adm2:
+    GID: BTN.7.15_1
+    admin_name: Thangrong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.16_1_Adm2:
+    GID: BTN.7.16_1
+    admin_name: Tsakaling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.17_1_Adm2:
+    GID: BTN.7.17_1
+    admin_name: Tsamang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.2_1_Adm2:
+    GID: BTN.7.2_1
+    admin_name: Chaskhar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.3_1_Adm2:
+    GID: BTN.7.3_1
+    admin_name: Chali
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.4_1_Adm2:
+    GID: BTN.7.4_1
+    admin_name: Drametse
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.5_1_Adm2:
+    GID: BTN.7.5_1
+    admin_name: Drepong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.6_1_Adm2:
+    GID: BTN.7.6_1
+    admin_name: Gongdue
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.7_1_Adm2:
+    GID: BTN.7.7_1
+    admin_name: Jurmey
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.8_1_Adm2:
+    GID: BTN.7.8_1
+    admin_name: Kengkhar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.7.9_1_Adm2:
+    GID: BTN.7.9_1
+    admin_name: Mongar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8_1_Adm1:
+    GID: BTN.8_1
+    admin_name: Paro
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.8.1_1_Adm2:
+    GID: BTN.8.1_1
+    admin_name: Doga
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.10_1_Adm2:
+    GID: BTN.8.10_1
+    admin_name: Wangchang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.2_1_Adm2:
+    GID: BTN.8.2_1
+    admin_name: Dopshari
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.3_1_Adm2:
+    GID: BTN.8.3_1
+    admin_name: Doteng
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.4_1_Adm2:
+    GID: BTN.8.4_1
+    admin_name: Hungrel
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.5_1_Adm2:
+    GID: BTN.8.5_1
+    admin_name: Lamgong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.6_1_Adm2:
+    GID: BTN.8.6_1
+    admin_name: Lungnyi
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.7_1_Adm2:
+    GID: BTN.8.7_1
+    admin_name: Naja
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.8_1_Adm2:
+    GID: BTN.8.8_1
+    admin_name: Shapa
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.8.9_1_Adm2:
+    GID: BTN.8.9_1
+    admin_name: Tsento
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9_1_Adm1:
+    GID: BTN.9_1
+    admin_name: Pema Gatshel
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm1
+  BTN.9.1_1_Adm2:
+    GID: BTN.9.1_1
+    admin_name: Chimoong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.10_1_Adm2:
+    GID: BTN.9.10_1
+    admin_name: Yurung
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.11_1_Adm2:
+    GID: BTN.9.11_1
+    admin_name: Zobel
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.2_1_Adm2:
+    GID: BTN.9.2_1
+    admin_name: Chokhorling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.3_1_Adm2:
+    GID: BTN.9.3_1
+    admin_name: Chongshing
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.4_1_Adm2:
+    GID: BTN.9.4_1
+    admin_name: Dechhenling
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.5_1_Adm2:
+    GID: BTN.9.5_1
+    admin_name: Dungmaed
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.6_1_Adm2:
+    GID: BTN.9.6_1
+    admin_name: Khar
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.7_1_Adm2:
+    GID: BTN.9.7_1
+    admin_name: Nanong
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.8_1_Adm2:
+    GID: BTN.9.8_1
+    admin_name: Norbugang
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2
+  BTN.9.9_1_Adm2:
+    GID: BTN.9.9_1
+    admin_name: Shumer
+    iso3c: BTN
+    country_name: Bhutan
+    admin_level: Adm2

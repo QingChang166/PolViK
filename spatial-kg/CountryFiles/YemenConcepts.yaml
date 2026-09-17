@@ -1,0 +1,2125 @@
+concepts:
+  YEM.0_Adm0:
+    GID: YEM
+    admin_name: Yemen
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm0
+  YEM.1_1_Adm1:
+    GID: YEM.1_1
+    admin_name: '`Adan'
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.1.1_1_Adm2:
+    GID: YEM.1.1_1
+    admin_name: Al Buraiqeh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.1.2_1_Adm2:
+    GID: YEM.1.2_1
+    admin_name: Al Mansura
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.1.3_1_Adm2:
+    GID: YEM.1.3_1
+    admin_name: Al Mualla
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.1.4_1_Adm2:
+    GID: YEM.1.4_1
+    admin_name: Ash Shaikh Outhman
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.1.5_1_Adm2:
+    GID: YEM.1.5_1
+    admin_name: Attawahi
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.1.6_1_Adm2:
+    GID: YEM.1.6_1
+    admin_name: Craiter
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.1.7_1_Adm2:
+    GID: YEM.1.7_1
+    admin_name: Dar Sad
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.1.8_1_Adm2:
+    GID: YEM.1.8_1
+    admin_name: Khur Maksar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10_1_Adm1:
+    GID: YEM.10_1
+    admin_name: Amran
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.10.1_1_Adm2:
+    GID: YEM.10.1_1
+    admin_name: Al Ashah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.10_1_Adm2:
+    GID: YEM.10.10_1
+    admin_name: Harf Sufyan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.11_1_Adm2:
+    GID: YEM.10.11_1
+    admin_name: Huth
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.12_1_Adm2:
+    GID: YEM.10.12_1
+    admin_name: Iyal Surayh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.13_1_Adm2:
+    GID: YEM.10.13_1
+    admin_name: Jabal Iyal Yazid
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.14_1_Adm2:
+    GID: YEM.10.14_1
+    admin_name: Khamir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.15_1_Adm2:
+    GID: YEM.10.15_1
+    admin_name: Kharif
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.16_1_Adm2:
+    GID: YEM.10.16_1
+    admin_name: Maswar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.17_1_Adm2:
+    GID: YEM.10.17_1
+    admin_name: Raydah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.18_1_Adm2:
+    GID: YEM.10.18_1
+    admin_name: Shaharah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.19_1_Adm2:
+    GID: YEM.10.19_1
+    admin_name: Suwayr
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.2_1_Adm2:
+    GID: YEM.10.2_1
+    admin_name: Al Madan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.20_1_Adm2:
+    GID: YEM.10.20_1
+    admin_name: Thula
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.3_1_Adm2:
+    GID: YEM.10.3_1
+    admin_name: Al Qaflah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.4_1_Adm2:
+    GID: YEM.10.4_1
+    admin_name: Amran
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.5_1_Adm2:
+    GID: YEM.10.5_1
+    admin_name: As Sawd
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.6_1_Adm2:
+    GID: YEM.10.6_1
+    admin_name: As Sudah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.7_1_Adm2:
+    GID: YEM.10.7_1
+    admin_name: Bani Suraim
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.8_1_Adm2:
+    GID: YEM.10.8_1
+    admin_name: Dhi Bin
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.10.9_1_Adm2:
+    GID: YEM.10.9_1
+    admin_name: Habur Zulaymah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11_1_Adm1:
+    GID: YEM.11_1
+    admin_name: Dhamar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.11.1_1_Adm2:
+    GID: YEM.11.1_1
+    admin_name: Al Hada
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.10_1_Adm2:
+    GID: YEM.11.10_1
+    admin_name: Utmah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.11_1_Adm2:
+    GID: YEM.11.11_1
+    admin_name: Wusab Al Ali
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.12_1_Adm2:
+    GID: YEM.11.12_1
+    admin_name: Wusab As Safil
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.2_1_Adm2:
+    GID: YEM.11.2_1
+    admin_name: Al Manar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.3_1_Adm2:
+    GID: YEM.11.3_1
+    admin_name: Anss
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.4_1_Adm2:
+    GID: YEM.11.4_1
+    admin_name: Dawran Aness
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.5_1_Adm2:
+    GID: YEM.11.5_1
+    admin_name: Dhamar City
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.6_1_Adm2:
+    GID: YEM.11.6_1
+    admin_name: Jabal Ash sharq
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.7_1_Adm2:
+    GID: YEM.11.7_1
+    admin_name: Jahran
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.8_1_Adm2:
+    GID: YEM.11.8_1
+    admin_name: Maghirib Ans
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.11.9_1_Adm2:
+    GID: YEM.11.9_1
+    admin_name: Mayfa'at Anss
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12_1_Adm1:
+    GID: YEM.12_1
+    admin_name: Hadramawt
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.12.1_1_Adm2:
+    GID: YEM.12.1_1
+    admin_name: Ad Dis
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.10_1_Adm2:
+    GID: YEM.12.10_1
+    admin_name: As Sawm
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.11_1_Adm2:
+    GID: YEM.12.11_1
+    admin_name: Ash Shihr
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.12_1_Adm2:
+    GID: YEM.12.12_1
+    admin_name: Brom Mayfa
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.13_1_Adm2:
+    GID: YEM.12.13_1
+    admin_name: Daw'an
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.14_1_Adm2:
+    GID: YEM.12.14_1
+    admin_name: Ghayl Ba Wazir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.15_1_Adm2:
+    GID: YEM.12.15_1
+    admin_name: Ghayl Bin Yamin
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.16_1_Adm2:
+    GID: YEM.12.16_1
+    admin_name: Hagr As Sai'ar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.17_1_Adm2:
+    GID: YEM.12.17_1
+    admin_name: Hajr
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.18_1_Adm2:
+    GID: YEM.12.18_1
+    admin_name: Hidaybu
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.19_1_Adm2:
+    GID: YEM.12.19_1
+    admin_name: Huraidhah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.2_1_Adm2:
+    GID: YEM.12.2_1
+    admin_name: Adh Dhlia'ah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.20_1_Adm2:
+    GID: YEM.12.20_1
+    admin_name: Qulensya Wa Abd Al Kuri
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.21_1_Adm2:
+    GID: YEM.12.21_1
+    admin_name: Rakhyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.22_1_Adm2:
+    GID: YEM.12.22_1
+    admin_name: Rumah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.23_1_Adm2:
+    GID: YEM.12.23_1
+    admin_name: Sah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.24_1_Adm2:
+    GID: YEM.12.24_1
+    admin_name: Sayun
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.25_1_Adm2:
+    GID: YEM.12.25_1
+    admin_name: Shibam
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.26_1_Adm2:
+    GID: YEM.12.26_1
+    admin_name: Tarim
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.27_1_Adm2:
+    GID: YEM.12.27_1
+    admin_name: Thamud
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.28_1_Adm2:
+    GID: YEM.12.28_1
+    admin_name: Wadi Al Ayn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.29_1_Adm2:
+    GID: YEM.12.29_1
+    admin_name: Yabuth
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.3_1_Adm2:
+    GID: YEM.12.3_1
+    admin_name: Al Abr
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.30_1_Adm2:
+    GID: YEM.12.30_1
+    admin_name: Zamakh wa Manwakh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.4_1_Adm2:
+    GID: YEM.12.4_1
+    admin_name: Al Mukalla
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.5_1_Adm2:
+    GID: YEM.12.5_1
+    admin_name: Al Mukalla City
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.6_1_Adm2:
+    GID: YEM.12.6_1
+    admin_name: Al Qaf
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.7_1_Adm2:
+    GID: YEM.12.7_1
+    admin_name: Al Qatn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.8_1_Adm2:
+    GID: YEM.12.8_1
+    admin_name: Amd
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.12.9_1_Adm2:
+    GID: YEM.12.9_1
+    admin_name: Ar Raydah Wa Qusayar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13_1_Adm1:
+    GID: YEM.13_1
+    admin_name: Hajjah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.13.1_1_Adm2:
+    GID: YEM.13.1_1
+    admin_name: Abs
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.10_1_Adm2:
+    GID: YEM.13.10_1
+    admin_name: Aslem
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.11_1_Adm2:
+    GID: YEM.13.11_1
+    admin_name: Bakil Al Mir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.12_1_Adm2:
+    GID: YEM.13.12_1
+    admin_name: Bani Al Awam
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.13_1_Adm2:
+    GID: YEM.13.13_1
+    admin_name: Bani Qa'is
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.14_1_Adm2:
+    GID: YEM.13.14_1
+    admin_name: Hajjah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.15_1_Adm2:
+    GID: YEM.13.15_1
+    admin_name: Hajjah City
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.16_1_Adm2:
+    GID: YEM.13.16_1
+    admin_name: Harad
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.17_1_Adm2:
+    GID: YEM.13.17_1
+    admin_name: Hayran
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.18_1_Adm2:
+    GID: YEM.13.18_1
+    admin_name: Khayran Al Muharraq
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.19_1_Adm2:
+    GID: YEM.13.19_1
+    admin_name: Ku'aydinah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.2_1_Adm2:
+    GID: YEM.13.2_1
+    admin_name: Aflah Al Yaman
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.20_1_Adm2:
+    GID: YEM.13.20_1
+    admin_name: Kuhlan Affar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.21_1_Adm2:
+    GID: YEM.13.21_1
+    admin_name: Kuhlan Ash Sharaf
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.22_1_Adm2:
+    GID: YEM.13.22_1
+    admin_name: Kushar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.23_1_Adm2:
+    GID: YEM.13.23_1
+    admin_name: Mabyan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.24_1_Adm2:
+    GID: YEM.13.24_1
+    admin_name: Midi
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.25_1_Adm2:
+    GID: YEM.13.25_1
+    admin_name: Mustaba
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.26_1_Adm2:
+    GID: YEM.13.26_1
+    admin_name: Najrah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.27_1_Adm2:
+    GID: YEM.13.27_1
+    admin_name: Qafl Shamer
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.28_1_Adm2:
+    GID: YEM.13.28_1
+    admin_name: Qarah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.29_1_Adm2:
+    GID: YEM.13.29_1
+    admin_name: Sharas
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.3_1_Adm2:
+    GID: YEM.13.3_1
+    admin_name: Aflah Ash Shawm
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.30_1_Adm2:
+    GID: YEM.13.30_1
+    admin_name: Wadhrah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.31_1_Adm2:
+    GID: YEM.13.31_1
+    admin_name: Washhah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.4_1_Adm2:
+    GID: YEM.13.4_1
+    admin_name: Al Jamimah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.5_1_Adm2:
+    GID: YEM.13.5_1
+    admin_name: Al Maghrabah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.6_1_Adm2:
+    GID: YEM.13.6_1
+    admin_name: Al Mahabishah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.7_1_Adm2:
+    GID: YEM.13.7_1
+    admin_name: Al Miftah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.8_1_Adm2:
+    GID: YEM.13.8_1
+    admin_name: Ash Shaghadirah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.13.9_1_Adm2:
+    GID: YEM.13.9_1
+    admin_name: Ash Shahil
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14_1_Adm1:
+    GID: YEM.14_1
+    admin_name: Ibb
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.14.1_1_Adm2:
+    GID: YEM.14.1_1
+    admin_name: Al Dhihar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.10_1_Adm2:
+    GID: YEM.14.10_1
+    admin_name: As Sayyani
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.11_1_Adm2:
+    GID: YEM.14.11_1
+    admin_name: Ash Sha'ir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.12_1_Adm2:
+    GID: YEM.14.12_1
+    admin_name: Ba'dan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.13_1_Adm2:
+    GID: YEM.14.13_1
+    admin_name: Dhi As Sufal
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.14_1_Adm2:
+    GID: YEM.14.14_1
+    admin_name: Far Al Udayn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.15_1_Adm2:
+    GID: YEM.14.15_1
+    admin_name: Hazm Al Udayn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.16_1_Adm2:
+    GID: YEM.14.16_1
+    admin_name: Hubaysh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.17_1_Adm2:
+    GID: YEM.14.17_1
+    admin_name: Ibb
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.18_1_Adm2:
+    GID: YEM.14.18_1
+    admin_name: Jiblah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.19_1_Adm2:
+    GID: YEM.14.19_1
+    admin_name: Mudhaykhirah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.2_1_Adm2:
+    GID: YEM.14.2_1
+    admin_name: Al Makhadir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.20_1_Adm2:
+    GID: YEM.14.20_1
+    admin_name: Yarim
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.3_1_Adm2:
+    GID: YEM.14.3_1
+    admin_name: Al Mashannah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.4_1_Adm2:
+    GID: YEM.14.4_1
+    admin_name: Al Qafr
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.5_1_Adm2:
+    GID: YEM.14.5_1
+    admin_name: Al Udayn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.6_1_Adm2:
+    GID: YEM.14.6_1
+    admin_name: An Nadirah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.7_1_Adm2:
+    GID: YEM.14.7_1
+    admin_name: Ar Radmah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.8_1_Adm2:
+    GID: YEM.14.8_1
+    admin_name: As Sabrah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.14.9_1_Adm2:
+    GID: YEM.14.9_1
+    admin_name: As Saddah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15_1_Adm1:
+    GID: YEM.15_1
+    admin_name: Lahij
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.15.1_1_Adm2:
+    GID: YEM.15.1_1
+    admin_name: Al Hawtah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.10_1_Adm2:
+    GID: YEM.15.10_1
+    admin_name: Halimayn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.11_1_Adm2:
+    GID: YEM.15.11_1
+    admin_name: Radfan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.12_1_Adm2:
+    GID: YEM.15.12_1
+    admin_name: Tuban
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.13_1_Adm2:
+    GID: YEM.15.13_1
+    admin_name: Tur Al Bahah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.14_1_Adm2:
+    GID: YEM.15.14_1
+    admin_name: Yafa'a
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.15_1_Adm2:
+    GID: YEM.15.15_1
+    admin_name: Yahr
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.2_1_Adm2:
+    GID: YEM.15.2_1
+    admin_name: Al Had
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.3_1_Adm2:
+    GID: YEM.15.3_1
+    admin_name: Al Madaribah Wa Al Arah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.4_1_Adm2:
+    GID: YEM.15.4_1
+    admin_name: Al Maflahy
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.5_1_Adm2:
+    GID: YEM.15.5_1
+    admin_name: Al Maqatirah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.6_1_Adm2:
+    GID: YEM.15.6_1
+    admin_name: Al Milah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.7_1_Adm2:
+    GID: YEM.15.7_1
+    admin_name: Al Musaymir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.8_1_Adm2:
+    GID: YEM.15.8_1
+    admin_name: Al Qabbaytah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.15.9_1_Adm2:
+    GID: YEM.15.9_1
+    admin_name: Habil Jabr
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16_1_Adm1:
+    GID: YEM.16_1
+    admin_name: Ma'rib
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.16.1_1_Adm2:
+    GID: YEM.16.1_1
+    admin_name: Al Abdiyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.10_1_Adm2:
+    GID: YEM.16.10_1
+    admin_name: Marib City
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.11_1_Adm2:
+    GID: YEM.16.11_1
+    admin_name: Medghal
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.12_1_Adm2:
+    GID: YEM.16.12_1
+    admin_name: Raghwan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.13_1_Adm2:
+    GID: YEM.16.13_1
+    admin_name: Rahabah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.14_1_Adm2:
+    GID: YEM.16.14_1
+    admin_name: Sirwah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.2_1_Adm2:
+    GID: YEM.16.2_1
+    admin_name: Al Jubah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.3_1_Adm2:
+    GID: YEM.16.3_1
+    admin_name: Bidbadah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.4_1_Adm2:
+    GID: YEM.16.4_1
+    admin_name: Harib
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.5_1_Adm2:
+    GID: YEM.16.5_1
+    admin_name: Harib Al Qaramish
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.6_1_Adm2:
+    GID: YEM.16.6_1
+    admin_name: Jabal Murad
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.7_1_Adm2:
+    GID: YEM.16.7_1
+    admin_name: Mahliyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.8_1_Adm2:
+    GID: YEM.16.8_1
+    admin_name: Majzar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.16.9_1_Adm2:
+    GID: YEM.16.9_1
+    admin_name: Marib
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.17_1_Adm1:
+    GID: YEM.17_1
+    admin_name: Raymah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.17.1_1_Adm2:
+    GID: YEM.17.1_1
+    admin_name: Al Jabin
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.17.2_1_Adm2:
+    GID: YEM.17.2_1
+    admin_name: Al Jafariyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.17.3_1_Adm2:
+    GID: YEM.17.3_1
+    admin_name: As Salafiyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.17.4_1_Adm2:
+    GID: YEM.17.4_1
+    admin_name: Bilad At Ta'am
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.17.5_1_Adm2:
+    GID: YEM.17.5_1
+    admin_name: Kusmah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.17.6_1_Adm2:
+    GID: YEM.17.6_1
+    admin_name: Mazhar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18_1_Adm1:
+    GID: YEM.18_1
+    admin_name: Sa`dah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.18.1_1_Adm2:
+    GID: YEM.18.1_1
+    admin_name: Al Dhaher
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.10_1_Adm2:
+    GID: YEM.18.10_1
+    admin_name: Qatabir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.11_1_Adm2:
+    GID: YEM.18.11_1
+    admin_name: Razih
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.12_1_Adm2:
+    GID: YEM.18.12_1
+    admin_name: Sa'adah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.13_1_Adm2:
+    GID: YEM.18.13_1
+    admin_name: Sahar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.14_1_Adm2:
+    GID: YEM.18.14_1
+    admin_name: Saqayn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.15_1_Adm2:
+    GID: YEM.18.15_1
+    admin_name: Shada'a
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.2_1_Adm2:
+    GID: YEM.18.2_1
+    admin_name: Al Hashwah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.3_1_Adm2:
+    GID: YEM.18.3_1
+    admin_name: As Safra
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.4_1_Adm2:
+    GID: YEM.18.4_1
+    admin_name: Baqim
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.5_1_Adm2:
+    GID: YEM.18.5_1
+    admin_name: Ghamr
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.6_1_Adm2:
+    GID: YEM.18.6_1
+    admin_name: Haydan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.7_1_Adm2:
+    GID: YEM.18.7_1
+    admin_name: Kitaf wa Al Boqe'e
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.8_1_Adm2:
+    GID: YEM.18.8_1
+    admin_name: Majz
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.18.9_1_Adm2:
+    GID: YEM.18.9_1
+    admin_name: Monabbih
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19_1_Adm1:
+    GID: YEM.19_1
+    admin_name: San`a'
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.19.1_1_Adm2:
+    GID: YEM.19.1_1
+    admin_name: Al Haymah Ad Dakhiliyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.10_1_Adm2:
+    GID: YEM.19.10_1
+    admin_name: Hamdan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.11_1_Adm2:
+    GID: YEM.19.11_1
+    admin_name: Jihanah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.12_1_Adm2:
+    GID: YEM.19.12_1
+    admin_name: Khwlan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.13_1_Adm2:
+    GID: YEM.19.13_1
+    admin_name: Manakhah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.14_1_Adm2:
+    GID: YEM.19.14_1
+    admin_name: Nihm
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.15_1_Adm2:
+    GID: YEM.19.15_1
+    admin_name: Sa'fan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.16_1_Adm2:
+    GID: YEM.19.16_1
+    admin_name: Sanhan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.2_1_Adm2:
+    GID: YEM.19.2_1
+    admin_name: Al Haymah Al Kharijiyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.3_1_Adm2:
+    GID: YEM.19.3_1
+    admin_name: Al Husn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.4_1_Adm2:
+    GID: YEM.19.4_1
+    admin_name: Arhab
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.5_1_Adm2:
+    GID: YEM.19.5_1
+    admin_name: Attyal
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.6_1_Adm2:
+    GID: YEM.19.6_1
+    admin_name: Bani Dhabyan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.7_1_Adm2:
+    GID: YEM.19.7_1
+    admin_name: Bani Hushaysh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.8_1_Adm2:
+    GID: YEM.19.8_1
+    admin_name: Bani Matar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.19.9_1_Adm2:
+    GID: YEM.19.9_1
+    admin_name: Bilad Ar Rus
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2_1_Adm1:
+    GID: YEM.2_1
+    admin_name: Abyan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.2.1_1_Adm2:
+    GID: YEM.2.1_1
+    admin_name: Ahwar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.10_1_Adm2:
+    GID: YEM.2.10_1
+    admin_name: Sibah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.11_1_Adm2:
+    GID: YEM.2.11_1
+    admin_name: Zingibar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.2_1_Adm2:
+    GID: YEM.2.2_1
+    admin_name: Al Mahfad
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.3_1_Adm2:
+    GID: YEM.2.3_1
+    admin_name: Al Wade'a
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.4_1_Adm2:
+    GID: YEM.2.4_1
+    admin_name: Jayshan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.5_1_Adm2:
+    GID: YEM.2.5_1
+    admin_name: Khanfir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.6_1_Adm2:
+    GID: YEM.2.6_1
+    admin_name: Lawdar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.7_1_Adm2:
+    GID: YEM.2.7_1
+    admin_name: Mudiyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.8_1_Adm2:
+    GID: YEM.2.8_1
+    admin_name: Rasad
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.2.9_1_Adm2:
+    GID: YEM.2.9_1
+    admin_name: Sarar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20_1_Adm1:
+    GID: YEM.20_1
+    admin_name: Shabwah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.20.1_1_Adm2:
+    GID: YEM.20.1_1
+    admin_name: Ain
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.10_1_Adm2:
+    GID: YEM.20.10_1
+    admin_name: Hatib
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.11_1_Adm2:
+    GID: YEM.20.11_1
+    admin_name: Jardan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.12_1_Adm2:
+    GID: YEM.20.12_1
+    admin_name: Mayfa'a
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.13_1_Adm2:
+    GID: YEM.20.13_1
+    admin_name: Merkhah Al Ulya
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.14_1_Adm2:
+    GID: YEM.20.14_1
+    admin_name: Merkhah As Sufla
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.15_1_Adm2:
+    GID: YEM.20.15_1
+    admin_name: Nisab
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.16_1_Adm2:
+    GID: YEM.20.16_1
+    admin_name: Rudum
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.17_1_Adm2:
+    GID: YEM.20.17_1
+    admin_name: Usaylan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.2_1_Adm2:
+    GID: YEM.20.2_1
+    admin_name: Al Talh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.3_1_Adm2:
+    GID: YEM.20.3_1
+    admin_name: Ar Rawdah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.4_1_Adm2:
+    GID: YEM.20.4_1
+    admin_name: Arma
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.5_1_Adm2:
+    GID: YEM.20.5_1
+    admin_name: As Said
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.6_1_Adm2:
+    GID: YEM.20.6_1
+    admin_name: Ataq
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.7_1_Adm2:
+    GID: YEM.20.7_1
+    admin_name: Bayhan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.8_1_Adm2:
+    GID: YEM.20.8_1
+    admin_name: Dhar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.20.9_1_Adm2:
+    GID: YEM.20.9_1
+    admin_name: Habban
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21_1_Adm1:
+    GID: YEM.21_1
+    admin_name: Ta`izz
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.21.1_1_Adm2:
+    GID: YEM.21.1_1
+    admin_name: Al Mukha
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.10_1_Adm2:
+    GID: YEM.21.10_1
+    admin_name: At Ta'iziyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.11_1_Adm2:
+    GID: YEM.21.11_1
+    admin_name: Dhubab
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.12_1_Adm2:
+    GID: YEM.21.12_1
+    admin_name: Dimnat Khadir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.13_1_Adm2:
+    GID: YEM.21.13_1
+    admin_name: Hayfan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.14_1_Adm2:
+    GID: YEM.21.14_1
+    admin_name: Jabal Habashy
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.15_1_Adm2:
+    GID: YEM.21.15_1
+    admin_name: Maqbanah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.16_1_Adm2:
+    GID: YEM.21.16_1
+    admin_name: Mashra'a Wa Hadnan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.17_1_Adm2:
+    GID: YEM.21.17_1
+    admin_name: Mawiyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.18_1_Adm2:
+    GID: YEM.21.18_1
+    admin_name: Mawza
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.19_1_Adm2:
+    GID: YEM.21.19_1
+    admin_name: Sabir Al Mawadim
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.2_1_Adm2:
+    GID: YEM.21.2_1
+    admin_name: Al Ma'afer
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.20_1_Adm2:
+    GID: YEM.21.20_1
+    admin_name: Salh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.21_1_Adm2:
+    GID: YEM.21.21_1
+    admin_name: Sama
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.22_1_Adm2:
+    GID: YEM.21.22_1
+    admin_name: Shara'b Ar Rawnah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.23_1_Adm2:
+    GID: YEM.21.23_1
+    admin_name: Shara'b As Salam
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.3_1_Adm2:
+    GID: YEM.21.3_1
+    admin_name: Al Mawasit
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.4_1_Adm2:
+    GID: YEM.21.4_1
+    admin_name: Al Misrakh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.5_1_Adm2:
+    GID: YEM.21.5_1
+    admin_name: Al Mudhaffar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.6_1_Adm2:
+    GID: YEM.21.6_1
+    admin_name: Al Qahirah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.7_1_Adm2:
+    GID: YEM.21.7_1
+    admin_name: Al Wazi'iyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.8_1_Adm2:
+    GID: YEM.21.8_1
+    admin_name: As Silw
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.21.9_1_Adm2:
+    GID: YEM.21.9_1
+    admin_name: Ash Shamayatayn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3_1_Adm1:
+    GID: YEM.3_1
+    admin_name: Al Bayda'
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.3.1_1_Adm2:
+    GID: YEM.3.1_1
+    admin_name: Al A'rsh
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.10_1_Adm2:
+    GID: YEM.3.10_1
+    admin_name: At Taffah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.11_1_Adm2:
+    GID: YEM.3.11_1
+    admin_name: Az Zahir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.12_1_Adm2:
+    GID: YEM.3.12_1
+    admin_name: Dhi Na'im
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.13_1_Adm2:
+    GID: YEM.3.13_1
+    admin_name: Maswarah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.14_1_Adm2:
+    GID: YEM.3.14_1
+    admin_name: Mukayras
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.15_1_Adm2:
+    GID: YEM.3.15_1
+    admin_name: Na'man
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.16_1_Adm2:
+    GID: YEM.3.16_1
+    admin_name: Nati'
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.18_1_Adm2:
+    GID: YEM.3.18_1
+    admin_name: Radman Al Awad
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.19_1_Adm2:
+    GID: YEM.3.19_1
+    admin_name: Sabah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.2_1_Adm2:
+    GID: YEM.3.2_1
+    admin_name: Al Bayda
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.20_1_Adm2:
+    GID: YEM.3.20_1
+    admin_name: Wald Rabi'
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.3_1_Adm2:
+    GID: YEM.3.3_1
+    admin_name: Al Bayda City
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.4_1_Adm2:
+    GID: YEM.3.4_1
+    admin_name: Al Malagim
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.5_1_Adm2:
+    GID: YEM.3.5_1
+    admin_name: Al Quraishyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.6_1_Adm2:
+    GID: YEM.3.6_1
+    admin_name: Ar Ryashyyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.7_1_Adm2:
+    GID: YEM.3.7_1
+    admin_name: As Sawadiyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.8_1_Adm2:
+    GID: YEM.3.8_1
+    admin_name: As Sawma'ah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.3.9_1_Adm2:
+    GID: YEM.3.9_1
+    admin_name: Ash Sharyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4_1_Adm1:
+    GID: YEM.4_1
+    admin_name: Al Dali'
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.4.1_1_Adm2:
+    GID: YEM.4.1_1
+    admin_name: Ad Dhale'e
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4.2_1_Adm2:
+    GID: YEM.4.2_1
+    admin_name: Al Azariq
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4.3_1_Adm2:
+    GID: YEM.4.3_1
+    admin_name: Al Husha
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4.4_1_Adm2:
+    GID: YEM.4.4_1
+    admin_name: Al Hussein
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4.5_1_Adm2:
+    GID: YEM.4.5_1
+    admin_name: Ash Shu'ayb
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4.6_1_Adm2:
+    GID: YEM.4.6_1
+    admin_name: Damt
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4.7_1_Adm2:
+    GID: YEM.4.7_1
+    admin_name: Jahaf
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4.8_1_Adm2:
+    GID: YEM.4.8_1
+    admin_name: Juban
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.4.9_1_Adm2:
+    GID: YEM.4.9_1
+    admin_name: Qa'atabah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5_1_Adm1:
+    GID: YEM.5_1
+    admin_name: Al Hudaydah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.5.1_1_Adm2:
+    GID: YEM.5.1_1
+    admin_name: Ad Dahi
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.10_1_Adm2:
+    GID: YEM.5.10_1
+    admin_name: Al Mighlaf
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.11_1_Adm2:
+    GID: YEM.5.11_1
+    admin_name: Al Mina
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.12_1_Adm2:
+    GID: YEM.5.12_1
+    admin_name: Al Munirah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.13_1_Adm2:
+    GID: YEM.5.13_1
+    admin_name: Al Qanawis
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.14_1_Adm2:
+    GID: YEM.5.14_1
+    admin_name: Alluheyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.15_1_Adm2:
+    GID: YEM.5.15_1
+    admin_name: As Salif
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.16_1_Adm2:
+    GID: YEM.5.16_1
+    admin_name: As Sukhnah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.17_1_Adm2:
+    GID: YEM.5.17_1
+    admin_name: At Tuhayat
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.18_1_Adm2:
+    GID: YEM.5.18_1
+    admin_name: Az Zaydiyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.19_1_Adm2:
+    GID: YEM.5.19_1
+    admin_name: Az Zuhrah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.2_1_Adm2:
+    GID: YEM.5.2_1
+    admin_name: Ad Durayhimi
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.20_1_Adm2:
+    GID: YEM.5.20_1
+    admin_name: Bajil
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.21_1_Adm2:
+    GID: YEM.5.21_1
+    admin_name: Bayt Al Faqiah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.22_1_Adm2:
+    GID: YEM.5.22_1
+    admin_name: Bura
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.23_1_Adm2:
+    GID: YEM.5.23_1
+    admin_name: Hays
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.24_1_Adm2:
+    GID: YEM.5.24_1
+    admin_name: Jabal Ra's
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.25_1_Adm2:
+    GID: YEM.5.25_1
+    admin_name: Kamaran
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.26_1_Adm2:
+    GID: YEM.5.26_1
+    admin_name: Zabid
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.3_1_Adm2:
+    GID: YEM.5.3_1
+    admin_name: Al Garrahi
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.4_1_Adm2:
+    GID: YEM.5.4_1
+    admin_name: Al Hajjaylah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.5_1_Adm2:
+    GID: YEM.5.5_1
+    admin_name: Al Hali
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.6_1_Adm2:
+    GID: YEM.5.6_1
+    admin_name: Al Hawak
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.7_1_Adm2:
+    GID: YEM.5.7_1
+    admin_name: Al Khawkhah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.8_1_Adm2:
+    GID: YEM.5.8_1
+    admin_name: Al Mansuriyah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.5.9_1_Adm2:
+    GID: YEM.5.9_1
+    admin_name: Al Marawi'ah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6_1_Adm1:
+    GID: YEM.6_1
+    admin_name: Al Jawf
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.6.1_1_Adm2:
+    GID: YEM.6.1_1
+    admin_name: Al Ghayl
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.10_1_Adm2:
+    GID: YEM.6.10_1
+    admin_name: Khabb wa ash Sha'af
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.11_1_Adm2:
+    GID: YEM.6.11_1
+    admin_name: Kharab Al Marashi
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.12_1_Adm2:
+    GID: YEM.6.12_1
+    admin_name: Rajuzah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.2_1_Adm2:
+    GID: YEM.6.2_1
+    admin_name: Al Hazm
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.3_1_Adm2:
+    GID: YEM.6.3_1
+    admin_name: Al Humaydat
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.4_1_Adm2:
+    GID: YEM.6.4_1
+    admin_name: Al Khalq
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.5_1_Adm2:
+    GID: YEM.6.5_1
+    admin_name: Al Maslub
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.6_1_Adm2:
+    GID: YEM.6.6_1
+    admin_name: Al Matammah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.7_1_Adm2:
+    GID: YEM.6.7_1
+    admin_name: Al Maton
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.8_1_Adm2:
+    GID: YEM.6.8_1
+    admin_name: Az Zahir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.6.9_1_Adm2:
+    GID: YEM.6.9_1
+    admin_name: Bart Al Anan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7_1_Adm1:
+    GID: YEM.7_1
+    admin_name: Al Mahrah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.7.1_1_Adm2:
+    GID: YEM.7.1_1
+    admin_name: Al Ghaydah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7.2_1_Adm2:
+    GID: YEM.7.2_1
+    admin_name: Al Masilah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7.3_1_Adm2:
+    GID: YEM.7.3_1
+    admin_name: Hat
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7.4_1_Adm2:
+    GID: YEM.7.4_1
+    admin_name: Hawf
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7.5_1_Adm2:
+    GID: YEM.7.5_1
+    admin_name: Huswain
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7.6_1_Adm2:
+    GID: YEM.7.6_1
+    admin_name: Man'ar
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7.7_1_Adm2:
+    GID: YEM.7.7_1
+    admin_name: Qishn
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7.8_1_Adm2:
+    GID: YEM.7.8_1
+    admin_name: Sayhut
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.7.9_1_Adm2:
+    GID: YEM.7.9_1
+    admin_name: Shahan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8_1_Adm1:
+    GID: YEM.8_1
+    admin_name: Al Mahwit
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.8.1_1_Adm2:
+    GID: YEM.8.1_1
+    admin_name: Al Khabt
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8.2_1_Adm2:
+    GID: YEM.8.2_1
+    admin_name: Al Mahwait
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8.3_1_Adm2:
+    GID: YEM.8.3_1
+    admin_name: Al Mahwait City
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8.4_1_Adm2:
+    GID: YEM.8.4_1
+    admin_name: Ar Rujum
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8.5_1_Adm2:
+    GID: YEM.8.5_1
+    admin_name: At Tawilah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8.6_1_Adm2:
+    GID: YEM.8.6_1
+    admin_name: Bani Sa'd
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8.7_1_Adm2:
+    GID: YEM.8.7_1
+    admin_name: Hufash
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8.8_1_Adm2:
+    GID: YEM.8.8_1
+    admin_name: Milhan
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.8.9_1_Adm2:
+    GID: YEM.8.9_1
+    admin_name: Shibam Kawkaban
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9_1_Adm1:
+    GID: YEM.9_1
+    admin_name: Amanat Al Asimah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm1
+  YEM.9.1_1_Adm2:
+    GID: YEM.9.1_1
+    admin_name: Al Wahdah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.10_1_Adm2:
+    GID: YEM.9.10_1
+    admin_name: Shu'aub
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.2_1_Adm2:
+    GID: YEM.9.2_1
+    admin_name: As Sabain
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.3_1_Adm2:
+    GID: YEM.9.3_1
+    admin_name: Assafi'yah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.4_1_Adm2:
+    GID: YEM.9.4_1
+    admin_name: At Tahrir
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.5_1_Adm2:
+    GID: YEM.9.5_1
+    admin_name: Ath'thaorah
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.6_1_Adm2:
+    GID: YEM.9.6_1
+    admin_name: Az'zal
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.7_1_Adm2:
+    GID: YEM.9.7_1
+    admin_name: Bani Al Harith
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.8_1_Adm2:
+    GID: YEM.9.8_1
+    admin_name: Ma'ain
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2
+  YEM.9.9_1_Adm2:
+    GID: YEM.9.9_1
+    admin_name: Old City
+    iso3c: YEM
+    country_name: Yemen
+    admin_level: Adm2

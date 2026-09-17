@@ -1,0 +1,12 @@
+relations:
+    - (BRB.0_Adm0, BRB.1_1_Adm1)
+    - (BRB.0_Adm0, BRB.2_1_Adm1)
+    - (BRB.0_Adm0, BRB.3_1_Adm1)
+    - (BRB.0_Adm0, BRB.4_1_Adm1)
+    - (BRB.0_Adm0, BRB.5_1_Adm1)
+    - (BRB.0_Adm0, BRB.6_1_Adm1)
+    - (BRB.0_Adm0, BRB.7_1_Adm1)
+    - (BRB.0_Adm0, BRB.8_1_Adm1)
+    - (BRB.0_Adm0, BRB.9_1_Adm1)
+    - (BRB.0_Adm0, BRB.10_1_Adm1)
+    - (BRB.0_Adm0, BRB.11_1_Adm1)

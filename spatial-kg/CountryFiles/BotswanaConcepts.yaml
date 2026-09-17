@@ -1,0 +1,283 @@
+concepts:
+  BWA.0_Adm0:
+    GID: BWA
+    admin_name: Botswana
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm0
+  BWA.1_1_Adm1:
+    GID: BWA.1_1
+    admin_name: Central
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.1.1_1_Adm2:
+    GID: BWA.1.1_1
+    admin_name: Bobonong
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.1.2_1_Adm2:
+    GID: BWA.1.2_1
+    admin_name: Lethlakane
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.1.3_1_Adm2:
+    GID: BWA.1.3_1
+    admin_name: Machaneng
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.1.4_1_Adm2:
+    GID: BWA.1.4_1
+    admin_name: Mahalapye
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.1.5_1_Adm2:
+    GID: BWA.1.5_1
+    admin_name: Palapye
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.1.6_1_Adm2:
+    GID: BWA.1.6_1
+    admin_name: Serowe
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.1.7_1_Adm2:
+    GID: BWA.1.7_1
+    admin_name: Tuli
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.1.8_1_Adm2:
+    GID: BWA.1.8_1
+    admin_name: Tutume
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.10_1_Adm1:
+    GID: BWA.10_1
+    admin_name: Lobatse
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.10.1_1_Adm2:
+    GID: BWA.10.1_1
+    admin_name: Lobatse
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.11_1_Adm1:
+    GID: BWA.11_1
+    admin_name: North-East
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.11.1_1_Adm2:
+    GID: BWA.11.1_1
+    admin_name: Masungu
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.12_1_Adm1:
+    GID: BWA.12_1
+    admin_name: North-West
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.12.1_1_Adm2:
+    GID: BWA.12.1_1
+    admin_name: Ngamiland East
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.12.2_1_Adm2:
+    GID: BWA.12.2_1
+    admin_name: Ngamiland West
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.13_1_Adm1:
+    GID: BWA.13_1
+    admin_name: Selibe Phikwe
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.13.1_1_Adm2:
+    GID: BWA.13.1_1
+    admin_name: Selibe Phikwe
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.14_1_Adm1:
+    GID: BWA.14_1
+    admin_name: South-East
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.14.1_1_Adm2:
+    GID: BWA.14.1_1
+    admin_name: South East
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.15_1_Adm1:
+    GID: BWA.15_1
+    admin_name: Southern
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.15.1_1_Adm2:
+    GID: BWA.15.1_1
+    admin_name: Barolong
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.15.2_1_Adm2:
+    GID: BWA.15.2_1
+    admin_name: Ngwaketse Central
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.15.3_1_Adm2:
+    GID: BWA.15.3_1
+    admin_name: Ngwaketse North
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.15.4_1_Adm2:
+    GID: BWA.15.4_1
+    admin_name: Ngwaketse South
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.16_1_Adm1:
+    GID: BWA.16_1
+    admin_name: Sowa
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.16.1_1_Adm2:
+    GID: BWA.16.1_1
+    admin_name: Sowa
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.2_1_Adm1:
+    GID: BWA.2_1
+    admin_name: Chobe
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.2.1_1_Adm2:
+    GID: BWA.2.1_1
+    admin_name: Chobe
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.3_1_Adm1:
+    GID: BWA.3_1
+    admin_name: Francistown
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.3.1_1_Adm2:
+    GID: BWA.3.1_1
+    admin_name: Francistown
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.4_1_Adm1:
+    GID: BWA.4_1
+    admin_name: Gaborone
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.4.1_1_Adm2:
+    GID: BWA.4.1_1
+    admin_name: Gaborone
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.5_1_Adm1:
+    GID: BWA.5_1
+    admin_name: Ghanzi
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.5.1_1_Adm2:
+    GID: BWA.5.1_1
+    admin_name: Ghanzi
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.6_1_Adm1:
+    GID: BWA.6_1
+    admin_name: Jwaneng
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.6.1_1_Adm2:
+    GID: BWA.6.1_1
+    admin_name: Jwaneng
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.7_1_Adm1:
+    GID: BWA.7_1
+    admin_name: Kgalagadi
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.7.1_1_Adm2:
+    GID: BWA.7.1_1
+    admin_name: Gemsbok
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.7.2_1_Adm2:
+    GID: BWA.7.2_1
+    admin_name: Hukunsti
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.7.3_1_Adm2:
+    GID: BWA.7.3_1
+    admin_name: Tshabong
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.8_1_Adm1:
+    GID: BWA.8_1
+    admin_name: Kgatleng
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.8.1_1_Adm2:
+    GID: BWA.8.1_1
+    admin_name: Kgatleng
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.9_1_Adm1:
+    GID: BWA.9_1
+    admin_name: Kweneng
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm1
+  BWA.9.1_1_Adm2:
+    GID: BWA.9.1_1
+    admin_name: Kweneng North
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2
+  BWA.9.2_1_Adm2:
+    GID: BWA.9.2_1
+    admin_name: Kweneng South
+    iso3c: BWA
+    country_name: Botswana
+    admin_level: Adm2

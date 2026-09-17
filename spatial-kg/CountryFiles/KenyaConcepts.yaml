@@ -1,0 +1,2089 @@
+concepts:
+  KEN.0_Adm0:
+    GID: KEN
+    admin_name: Kenya
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm0
+  KEN.1_1_Adm1:
+    GID: KEN.1_1
+    admin_name: Baringo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.1.1_1_Adm2:
+    GID: KEN.1.1_1
+    admin_name: '805'
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.1.2_1_Adm2:
+    GID: KEN.1.2_1
+    admin_name: Baringo Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.1.3_1_Adm2:
+    GID: KEN.1.3_1
+    admin_name: Baringo North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.1.4_1_Adm2:
+    GID: KEN.1.4_1
+    admin_name: Baringo South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.1.5_1_Adm2:
+    GID: KEN.1.5_1
+    admin_name: Eldama Ravine
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.1.6_1_Adm2:
+    GID: KEN.1.6_1
+    admin_name: Mogotio
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.1.7_1_Adm2:
+    GID: KEN.1.7_1
+    admin_name: Tiaty
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.10_1_Adm1:
+    GID: KEN.10_1
+    admin_name: Kajiado
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.10.1_1_Adm2:
+    GID: KEN.10.1_1
+    admin_name: Kajiado Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.10.2_1_Adm2:
+    GID: KEN.10.2_1
+    admin_name: Kajiado East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.10.3_1_Adm2:
+    GID: KEN.10.3_1
+    admin_name: Kajiado North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.10.4_1_Adm2:
+    GID: KEN.10.4_1
+    admin_name: Kajiado South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.10.5_1_Adm2:
+    GID: KEN.10.5_1
+    admin_name: Kajiado West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11_1_Adm1:
+    GID: KEN.11_1
+    admin_name: Kakamega
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.11.1_1_Adm2:
+    GID: KEN.11.1_1
+    admin_name: Butere
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.10_1_Adm2:
+    GID: KEN.11.10_1
+    admin_name: Navakholo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.11_1_Adm2:
+    GID: KEN.11.11_1
+    admin_name: Shinyalu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.2_1_Adm2:
+    GID: KEN.11.2_1
+    admin_name: Ikolomani
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.3_1_Adm2:
+    GID: KEN.11.3_1
+    admin_name: Khwisero
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.4_1_Adm2:
+    GID: KEN.11.4_1
+    admin_name: Lugari
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.5_1_Adm2:
+    GID: KEN.11.5_1
+    admin_name: Lurambi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.6_1_Adm2:
+    GID: KEN.11.6_1
+    admin_name: Malava
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.7_1_Adm2:
+    GID: KEN.11.7_1
+    admin_name: Matungu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.8_1_Adm2:
+    GID: KEN.11.8_1
+    admin_name: Mumias East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.11.9_1_Adm2:
+    GID: KEN.11.9_1
+    admin_name: Mumias West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.12_1_Adm1:
+    GID: KEN.12_1
+    admin_name: Kericho
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.12.1_1_Adm2:
+    GID: KEN.12.1_1
+    admin_name: Ainamoi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.12.2_1_Adm2:
+    GID: KEN.12.2_1
+    admin_name: Belgut
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.12.3_1_Adm2:
+    GID: KEN.12.3_1
+    admin_name: Bureti
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.12.4_1_Adm2:
+    GID: KEN.12.4_1
+    admin_name: Kipkelion East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.12.5_1_Adm2:
+    GID: KEN.12.5_1
+    admin_name: Kipkelion West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.12.6_1_Adm2:
+    GID: KEN.12.6_1
+    admin_name: Sigowet/Soin
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13_1_Adm1:
+    GID: KEN.13_1
+    admin_name: Kiambu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.13.1_1_Adm2:
+    GID: KEN.13.1_1
+    admin_name: Gatundu North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.10_1_Adm2:
+    GID: KEN.13.10_1
+    admin_name: Limuru
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.11_1_Adm2:
+    GID: KEN.13.11_1
+    admin_name: Ruiru
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.12_1_Adm2:
+    GID: KEN.13.12_1
+    admin_name: Thika Town
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.2_1_Adm2:
+    GID: KEN.13.2_1
+    admin_name: Gatundu South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.3_1_Adm2:
+    GID: KEN.13.3_1
+    admin_name: Githunguri
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.4_1_Adm2:
+    GID: KEN.13.4_1
+    admin_name: Juja
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.5_1_Adm2:
+    GID: KEN.13.5_1
+    admin_name: Kabete
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.6_1_Adm2:
+    GID: KEN.13.6_1
+    admin_name: Kiambaa
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.7_1_Adm2:
+    GID: KEN.13.7_1
+    admin_name: Kiambu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.8_1_Adm2:
+    GID: KEN.13.8_1
+    admin_name: Kikuyu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.13.9_1_Adm2:
+    GID: KEN.13.9_1
+    admin_name: Lari
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.14_1_Adm1:
+    GID: KEN.14_1
+    admin_name: Kilifi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.14.1_1_Adm2:
+    GID: KEN.14.1_1
+    admin_name: Ganze
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.14.2_1_Adm2:
+    GID: KEN.14.2_1
+    admin_name: Kaloleni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.14.3_1_Adm2:
+    GID: KEN.14.3_1
+    admin_name: Kilifi North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.14.4_1_Adm2:
+    GID: KEN.14.4_1
+    admin_name: Kilifi South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.14.5_1_Adm2:
+    GID: KEN.14.5_1
+    admin_name: Magarini
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.14.6_1_Adm2:
+    GID: KEN.14.6_1
+    admin_name: Malindi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.14.7_1_Adm2:
+    GID: KEN.14.7_1
+    admin_name: Rabai
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.15_1_Adm1:
+    GID: KEN.15_1
+    admin_name: Kirinyaga
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.15.1_1_Adm2:
+    GID: KEN.15.1_1
+    admin_name: Gichugu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.15.2_1_Adm2:
+    GID: KEN.15.2_1
+    admin_name: Kirinyaga Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.15.3_1_Adm2:
+    GID: KEN.15.3_1
+    admin_name: Mwea
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.15.4_1_Adm2:
+    GID: KEN.15.4_1
+    admin_name: Ndia
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16_1_Adm1:
+    GID: KEN.16_1
+    admin_name: Kisii
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.16.1_1_Adm2:
+    GID: KEN.16.1_1
+    admin_name: Bobasi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16.2_1_Adm2:
+    GID: KEN.16.2_1
+    admin_name: Bomachoge Borabu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16.3_1_Adm2:
+    GID: KEN.16.3_1
+    admin_name: Bomachoge Chache
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16.4_1_Adm2:
+    GID: KEN.16.4_1
+    admin_name: Bonchari
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16.5_1_Adm2:
+    GID: KEN.16.5_1
+    admin_name: Kitutu Chache North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16.6_1_Adm2:
+    GID: KEN.16.6_1
+    admin_name: Kitutu Chache South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16.7_1_Adm2:
+    GID: KEN.16.7_1
+    admin_name: Nyaribari Chache
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16.8_1_Adm2:
+    GID: KEN.16.8_1
+    admin_name: Nyaribari Masaba
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.16.9_1_Adm2:
+    GID: KEN.16.9_1
+    admin_name: South Mugirango
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.17_1_Adm1:
+    GID: KEN.17_1
+    admin_name: Kisumu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.17.1_1_Adm2:
+    GID: KEN.17.1_1
+    admin_name: Kisumu Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.17.2_1_Adm2:
+    GID: KEN.17.2_1
+    admin_name: Kisumu East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.17.3_1_Adm2:
+    GID: KEN.17.3_1
+    admin_name: Kisumu West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.17.4_1_Adm2:
+    GID: KEN.17.4_1
+    admin_name: Muhoroni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.17.5_1_Adm2:
+    GID: KEN.17.5_1
+    admin_name: Nyakach
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.17.6_1_Adm2:
+    GID: KEN.17.6_1
+    admin_name: Nyando
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.17.7_1_Adm2:
+    GID: KEN.17.7_1
+    admin_name: Seme
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.18_1_Adm1:
+    GID: KEN.18_1
+    admin_name: Kitui
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.18.1_1_Adm2:
+    GID: KEN.18.1_1
+    admin_name: Kitui Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.18.2_1_Adm2:
+    GID: KEN.18.2_1
+    admin_name: Kitui East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.18.3_1_Adm2:
+    GID: KEN.18.3_1
+    admin_name: Kitui Rural
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.18.4_1_Adm2:
+    GID: KEN.18.4_1
+    admin_name: Kitui South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.18.5_1_Adm2:
+    GID: KEN.18.5_1
+    admin_name: Kitui West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.18.6_1_Adm2:
+    GID: KEN.18.6_1
+    admin_name: Mwingi Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.18.7_1_Adm2:
+    GID: KEN.18.7_1
+    admin_name: Mwingi North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.18.8_1_Adm2:
+    GID: KEN.18.8_1
+    admin_name: Mwingi West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.19_1_Adm1:
+    GID: KEN.19_1
+    admin_name: Kwale
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.19.1_1_Adm2:
+    GID: KEN.19.1_1
+    admin_name: Kinango
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.19.2_1_Adm2:
+    GID: KEN.19.2_1
+    admin_name: Lungalunga
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.19.3_1_Adm2:
+    GID: KEN.19.3_1
+    admin_name: Matuga
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.19.4_1_Adm2:
+    GID: KEN.19.4_1
+    admin_name: Msambweni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.2_1_Adm1:
+    GID: KEN.2_1
+    admin_name: Bomet
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.2.1_1_Adm2:
+    GID: KEN.2.1_1
+    admin_name: Bomet Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.2.2_1_Adm2:
+    GID: KEN.2.2_1
+    admin_name: Bomet East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.2.3_1_Adm2:
+    GID: KEN.2.3_1
+    admin_name: Chepalungu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.2.4_1_Adm2:
+    GID: KEN.2.4_1
+    admin_name: Konoin
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.2.5_1_Adm2:
+    GID: KEN.2.5_1
+    admin_name: Sotik
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.20_1_Adm1:
+    GID: KEN.20_1
+    admin_name: Laikipia
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.20.1_1_Adm2:
+    GID: KEN.20.1_1
+    admin_name: Laikipia East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.20.2_1_Adm2:
+    GID: KEN.20.2_1
+    admin_name: Laikipia North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.20.3_1_Adm2:
+    GID: KEN.20.3_1
+    admin_name: Laikipia West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.21_1_Adm1:
+    GID: KEN.21_1
+    admin_name: Lamu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.21.1_1_Adm2:
+    GID: KEN.21.1_1
+    admin_name: Lamu East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.21.2_1_Adm2:
+    GID: KEN.21.2_1
+    admin_name: Lamu West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22_1_Adm1:
+    GID: KEN.22_1
+    admin_name: Machakos
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.22.1_1_Adm2:
+    GID: KEN.22.1_1
+    admin_name: Kangundo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22.2_1_Adm2:
+    GID: KEN.22.2_1
+    admin_name: Kathiani
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22.3_1_Adm2:
+    GID: KEN.22.3_1
+    admin_name: Machakos Town
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22.4_1_Adm2:
+    GID: KEN.22.4_1
+    admin_name: Masinga
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22.5_1_Adm2:
+    GID: KEN.22.5_1
+    admin_name: Matungulu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22.6_1_Adm2:
+    GID: KEN.22.6_1
+    admin_name: Mavoko
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22.7_1_Adm2:
+    GID: KEN.22.7_1
+    admin_name: Mwala
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22.8_1_Adm2:
+    GID: KEN.22.8_1
+    admin_name: unknown 7
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.22.9_1_Adm2:
+    GID: KEN.22.9_1
+    admin_name: Yatta
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.23_1_Adm1:
+    GID: KEN.23_1
+    admin_name: Makueni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.23.1_1_Adm2:
+    GID: KEN.23.1_1
+    admin_name: Kaiti
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.23.2_1_Adm2:
+    GID: KEN.23.2_1
+    admin_name: Kibwezi East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.23.3_1_Adm2:
+    GID: KEN.23.3_1
+    admin_name: Kibwezi West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.23.4_1_Adm2:
+    GID: KEN.23.4_1
+    admin_name: Kilome
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.23.5_1_Adm2:
+    GID: KEN.23.5_1
+    admin_name: Makueni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.23.6_1_Adm2:
+    GID: KEN.23.6_1
+    admin_name: Mbooni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.24_1_Adm1:
+    GID: KEN.24_1
+    admin_name: Mandera
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.24.1_1_Adm2:
+    GID: KEN.24.1_1
+    admin_name: Banissa
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.24.2_1_Adm2:
+    GID: KEN.24.2_1
+    admin_name: Lafey
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.24.3_1_Adm2:
+    GID: KEN.24.3_1
+    admin_name: Mandera East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.24.4_1_Adm2:
+    GID: KEN.24.4_1
+    admin_name: Mandera North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.24.5_1_Adm2:
+    GID: KEN.24.5_1
+    admin_name: Mandera South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.24.6_1_Adm2:
+    GID: KEN.24.6_1
+    admin_name: Mandera West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.24.7_1_Adm2:
+    GID: KEN.24.7_1
+    admin_name: unknown 1
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.25_1_Adm1:
+    GID: KEN.25_1
+    admin_name: Marsabit
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.25.1_1_Adm2:
+    GID: KEN.25.1_1
+    admin_name: Laisamis
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.25.2_1_Adm2:
+    GID: KEN.25.2_1
+    admin_name: Moyale
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.25.3_1_Adm2:
+    GID: KEN.25.3_1
+    admin_name: North Horr
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.25.4_1_Adm2:
+    GID: KEN.25.4_1
+    admin_name: Saku
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26_1_Adm1:
+    GID: KEN.26_1
+    admin_name: Meru
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.26.1_1_Adm2:
+    GID: KEN.26.1_1
+    admin_name: Buuri
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.10_1_Adm2:
+    GID: KEN.26.10_1
+    admin_name: unknown 5
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.2_1_Adm2:
+    GID: KEN.26.2_1
+    admin_name: Central Imenti
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.3_1_Adm2:
+    GID: KEN.26.3_1
+    admin_name: Igembe Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.4_1_Adm2:
+    GID: KEN.26.4_1
+    admin_name: Igembe North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.5_1_Adm2:
+    GID: KEN.26.5_1
+    admin_name: Igembe South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.6_1_Adm2:
+    GID: KEN.26.6_1
+    admin_name: North Imenti
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.7_1_Adm2:
+    GID: KEN.26.7_1
+    admin_name: South Imenti
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.8_1_Adm2:
+    GID: KEN.26.8_1
+    admin_name: Tigania East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.26.9_1_Adm2:
+    GID: KEN.26.9_1
+    admin_name: Tigania West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.27_1_Adm1:
+    GID: KEN.27_1
+    admin_name: Migori
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.27.1_1_Adm2:
+    GID: KEN.27.1_1
+    admin_name: Awendo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.27.2_1_Adm2:
+    GID: KEN.27.2_1
+    admin_name: Kuria East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.27.3_1_Adm2:
+    GID: KEN.27.3_1
+    admin_name: Kuria West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.27.4_1_Adm2:
+    GID: KEN.27.4_1
+    admin_name: Nyatike
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.27.5_1_Adm2:
+    GID: KEN.27.5_1
+    admin_name: Rongo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.27.6_1_Adm2:
+    GID: KEN.27.6_1
+    admin_name: Suna East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.27.7_1_Adm2:
+    GID: KEN.27.7_1
+    admin_name: Suna West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.27.8_1_Adm2:
+    GID: KEN.27.8_1
+    admin_name: Uriri
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.28_1_Adm1:
+    GID: KEN.28_1
+    admin_name: Mombasa
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.28.1_1_Adm2:
+    GID: KEN.28.1_1
+    admin_name: Changamwe
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.28.2_1_Adm2:
+    GID: KEN.28.2_1
+    admin_name: Jomvu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.28.3_1_Adm2:
+    GID: KEN.28.3_1
+    admin_name: Kisauni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.28.4_1_Adm2:
+    GID: KEN.28.4_1
+    admin_name: Likoni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.28.5_1_Adm2:
+    GID: KEN.28.5_1
+    admin_name: Mvita
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.28.6_1_Adm2:
+    GID: KEN.28.6_1
+    admin_name: Nyali
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.29_1_Adm1:
+    GID: KEN.29_1
+    admin_name: Murang'a
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.29.1_1_Adm2:
+    GID: KEN.29.1_1
+    admin_name: Gatanga
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.29.2_1_Adm2:
+    GID: KEN.29.2_1
+    admin_name: Kandara
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.29.3_1_Adm2:
+    GID: KEN.29.3_1
+    admin_name: Kangema
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.29.4_1_Adm2:
+    GID: KEN.29.4_1
+    admin_name: Kigumo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.29.5_1_Adm2:
+    GID: KEN.29.5_1
+    admin_name: Kiharu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.29.6_1_Adm2:
+    GID: KEN.29.6_1
+    admin_name: Maragwa
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.29.7_1_Adm2:
+    GID: KEN.29.7_1
+    admin_name: Mathioya
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3_1_Adm1:
+    GID: KEN.3_1
+    admin_name: Bungoma
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.3.1_1_Adm2:
+    GID: KEN.3.1_1
+    admin_name: Bumula
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.10_1_Adm2:
+    GID: KEN.3.10_1
+    admin_name: Webute West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.11_1_Adm2:
+    GID: KEN.3.11_1
+    admin_name: Webuye East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.2_1_Adm2:
+    GID: KEN.3.2_1
+    admin_name: Kabuchai
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.3_1_Adm2:
+    GID: KEN.3.3_1
+    admin_name: Kanduyi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.4_1_Adm2:
+    GID: KEN.3.4_1
+    admin_name: Kimilili
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.5_1_Adm2:
+    GID: KEN.3.5_1
+    admin_name: Likuyani
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.6_1_Adm2:
+    GID: KEN.3.6_1
+    admin_name: Lugari
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.7_1_Adm2:
+    GID: KEN.3.7_1
+    admin_name: Mt. Elgon
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.8_1_Adm2:
+    GID: KEN.3.8_1
+    admin_name: Sirisia
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.3.9_1_Adm2:
+    GID: KEN.3.9_1
+    admin_name: Tongaren
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30_1_Adm1:
+    GID: KEN.30_1
+    admin_name: Nairobi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.30.1_1_Adm2:
+    GID: KEN.30.1_1
+    admin_name: Dagoretti North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.10_1_Adm2:
+    GID: KEN.30.10_1
+    admin_name: Kibra
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.11_1_Adm2:
+    GID: KEN.30.11_1
+    admin_name: Langata
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.12_1_Adm2:
+    GID: KEN.30.12_1
+    admin_name: Makadara
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.13_1_Adm2:
+    GID: KEN.30.13_1
+    admin_name: Mathare
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.14_1_Adm2:
+    GID: KEN.30.14_1
+    admin_name: Roysambu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.15_1_Adm2:
+    GID: KEN.30.15_1
+    admin_name: Ruaraka
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.16_1_Adm2:
+    GID: KEN.30.16_1
+    admin_name: Starehe
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.17_1_Adm2:
+    GID: KEN.30.17_1
+    admin_name: Westlands
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.2_1_Adm2:
+    GID: KEN.30.2_1
+    admin_name: Dagoretti South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.3_1_Adm2:
+    GID: KEN.30.3_1
+    admin_name: Embakasi Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.4_1_Adm2:
+    GID: KEN.30.4_1
+    admin_name: Embakasi East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.5_1_Adm2:
+    GID: KEN.30.5_1
+    admin_name: Embakasi North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.6_1_Adm2:
+    GID: KEN.30.6_1
+    admin_name: Embakasi South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.7_1_Adm2:
+    GID: KEN.30.7_1
+    admin_name: Embakasi West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.8_1_Adm2:
+    GID: KEN.30.8_1
+    admin_name: Kamukunji
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.30.9_1_Adm2:
+    GID: KEN.30.9_1
+    admin_name: Kasarani
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31_1_Adm1:
+    GID: KEN.31_1
+    admin_name: Nakuru
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.31.1_1_Adm2:
+    GID: KEN.31.1_1
+    admin_name: Bahati
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.10_1_Adm2:
+    GID: KEN.31.10_1
+    admin_name: Rongai
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.11_1_Adm2:
+    GID: KEN.31.11_1
+    admin_name: Subukia
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.2_1_Adm2:
+    GID: KEN.31.2_1
+    admin_name: Gilgil
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.3_1_Adm2:
+    GID: KEN.31.3_1
+    admin_name: Kuresoi North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.4_1_Adm2:
+    GID: KEN.31.4_1
+    admin_name: Kuresoi South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.5_1_Adm2:
+    GID: KEN.31.5_1
+    admin_name: Molo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.6_1_Adm2:
+    GID: KEN.31.6_1
+    admin_name: Naivasha
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.7_1_Adm2:
+    GID: KEN.31.7_1
+    admin_name: Nakuru Town East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.8_1_Adm2:
+    GID: KEN.31.8_1
+    admin_name: Nakuru Town West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.31.9_1_Adm2:
+    GID: KEN.31.9_1
+    admin_name: Njoro
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.32_1_Adm1:
+    GID: KEN.32_1
+    admin_name: Nandi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.32.1_1_Adm2:
+    GID: KEN.32.1_1
+    admin_name: Aldai
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.32.2_1_Adm2:
+    GID: KEN.32.2_1
+    admin_name: Chesumei
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.32.3_1_Adm2:
+    GID: KEN.32.3_1
+    admin_name: Emgwen
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.32.4_1_Adm2:
+    GID: KEN.32.4_1
+    admin_name: Mosop
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.32.5_1_Adm2:
+    GID: KEN.32.5_1
+    admin_name: Nandi Hills
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.32.6_1_Adm2:
+    GID: KEN.32.6_1
+    admin_name: Tinderet
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.33_1_Adm1:
+    GID: KEN.33_1
+    admin_name: Narok
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.33.1_1_Adm2:
+    GID: KEN.33.1_1
+    admin_name: Emurua Dikirr
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.33.2_1_Adm2:
+    GID: KEN.33.2_1
+    admin_name: Kilgoris
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.33.3_1_Adm2:
+    GID: KEN.33.3_1
+    admin_name: Narok East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.33.4_1_Adm2:
+    GID: KEN.33.4_1
+    admin_name: Narok North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.33.5_1_Adm2:
+    GID: KEN.33.5_1
+    admin_name: Narok South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.33.6_1_Adm2:
+    GID: KEN.33.6_1
+    admin_name: Narok West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.34_1_Adm1:
+    GID: KEN.34_1
+    admin_name: Nyamira
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.34.1_1_Adm2:
+    GID: KEN.34.1_1
+    admin_name: Borabu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.34.2_1_Adm2:
+    GID: KEN.34.2_1
+    admin_name: Kitutu Masaba
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.34.3_1_Adm2:
+    GID: KEN.34.3_1
+    admin_name: North Mugirango
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.34.4_1_Adm2:
+    GID: KEN.34.4_1
+    admin_name: West Mugirango
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.35_1_Adm1:
+    GID: KEN.35_1
+    admin_name: Nyandarua
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.35.1_1_Adm2:
+    GID: KEN.35.1_1
+    admin_name: Kinangop
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.35.2_1_Adm2:
+    GID: KEN.35.2_1
+    admin_name: Kipipiri
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.35.3_1_Adm2:
+    GID: KEN.35.3_1
+    admin_name: Ndaragwa
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.35.4_1_Adm2:
+    GID: KEN.35.4_1
+    admin_name: Ol Jorok
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.35.5_1_Adm2:
+    GID: KEN.35.5_1
+    admin_name: Ol Kalou
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.36_1_Adm1:
+    GID: KEN.36_1
+    admin_name: Nyeri
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.36.1_1_Adm2:
+    GID: KEN.36.1_1
+    admin_name: Kieni
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.36.2_1_Adm2:
+    GID: KEN.36.2_1
+    admin_name: Mathira
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.36.3_1_Adm2:
+    GID: KEN.36.3_1
+    admin_name: Mukurweini
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.36.4_1_Adm2:
+    GID: KEN.36.4_1
+    admin_name: Nyeri Town
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.36.5_1_Adm2:
+    GID: KEN.36.5_1
+    admin_name: Othaya
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.36.6_1_Adm2:
+    GID: KEN.36.6_1
+    admin_name: Tetu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.37_1_Adm1:
+    GID: KEN.37_1
+    admin_name: Samburu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.37.1_1_Adm2:
+    GID: KEN.37.1_1
+    admin_name: Samburu East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.37.2_1_Adm2:
+    GID: KEN.37.2_1
+    admin_name: Samburu North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.37.3_1_Adm2:
+    GID: KEN.37.3_1
+    admin_name: Samburu West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.38_1_Adm1:
+    GID: KEN.38_1
+    admin_name: Siaya
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.38.1_1_Adm2:
+    GID: KEN.38.1_1
+    admin_name: Alego Usonga
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.38.2_1_Adm2:
+    GID: KEN.38.2_1
+    admin_name: Bondo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.38.3_1_Adm2:
+    GID: KEN.38.3_1
+    admin_name: Gem
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.38.4_1_Adm2:
+    GID: KEN.38.4_1
+    admin_name: Rarieda
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.38.5_1_Adm2:
+    GID: KEN.38.5_1
+    admin_name: Ugenya
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.38.6_1_Adm2:
+    GID: KEN.38.6_1
+    admin_name: Ugunja
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.39_1_Adm1:
+    GID: KEN.39_1
+    admin_name: Taita Taveta
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.39.1_1_Adm2:
+    GID: KEN.39.1_1
+    admin_name: Mwatate
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.39.2_1_Adm2:
+    GID: KEN.39.2_1
+    admin_name: Taveta
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.39.3_1_Adm2:
+    GID: KEN.39.3_1
+    admin_name: Voi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.39.4_1_Adm2:
+    GID: KEN.39.4_1
+    admin_name: Wundanyi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.4_1_Adm1:
+    GID: KEN.4_1
+    admin_name: Busia
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.4.1_1_Adm2:
+    GID: KEN.4.1_1
+    admin_name: Budalangi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.4.2_1_Adm2:
+    GID: KEN.4.2_1
+    admin_name: Butula
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.4.3_1_Adm2:
+    GID: KEN.4.3_1
+    admin_name: Funyula
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.4.4_1_Adm2:
+    GID: KEN.4.4_1
+    admin_name: Matayos
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.4.5_1_Adm2:
+    GID: KEN.4.5_1
+    admin_name: Nambale
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.4.6_1_Adm2:
+    GID: KEN.4.6_1
+    admin_name: Teso North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.4.7_1_Adm2:
+    GID: KEN.4.7_1
+    admin_name: Teso South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.40_1_Adm1:
+    GID: KEN.40_1
+    admin_name: Tana River
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.40.1_1_Adm2:
+    GID: KEN.40.1_1
+    admin_name: Bura
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.40.2_1_Adm2:
+    GID: KEN.40.2_1
+    admin_name: Galole
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.40.3_1_Adm2:
+    GID: KEN.40.3_1
+    admin_name: Garsen
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.41_1_Adm1:
+    GID: KEN.41_1
+    admin_name: Tharaka-Nithi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.41.1_1_Adm2:
+    GID: KEN.41.1_1
+    admin_name: Chuka/Igambang'Ombe
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.41.2_1_Adm2:
+    GID: KEN.41.2_1
+    admin_name: Igembe South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.41.3_1_Adm2:
+    GID: KEN.41.3_1
+    admin_name: Maara
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.41.4_1_Adm2:
+    GID: KEN.41.4_1
+    admin_name: Tharaka
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.42_1_Adm1:
+    GID: KEN.42_1
+    admin_name: Trans Nzoia
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.42.1_1_Adm2:
+    GID: KEN.42.1_1
+    admin_name: Cherangany
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.42.2_1_Adm2:
+    GID: KEN.42.2_1
+    admin_name: Endebess
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.42.3_1_Adm2:
+    GID: KEN.42.3_1
+    admin_name: Kiminini
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.42.4_1_Adm2:
+    GID: KEN.42.4_1
+    admin_name: Kwanza
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.42.5_1_Adm2:
+    GID: KEN.42.5_1
+    admin_name: Saboti
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.42.6_1_Adm2:
+    GID: KEN.42.6_1
+    admin_name: unknown 4
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.43_1_Adm1:
+    GID: KEN.43_1
+    admin_name: Turkana
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.43.1_1_Adm2:
+    GID: KEN.43.1_1
+    admin_name: Loima
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.43.2_1_Adm2:
+    GID: KEN.43.2_1
+    admin_name: Turkana Central
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.43.3_1_Adm2:
+    GID: KEN.43.3_1
+    admin_name: Turkana East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.43.4_1_Adm2:
+    GID: KEN.43.4_1
+    admin_name: Turkana North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.43.5_1_Adm2:
+    GID: KEN.43.5_1
+    admin_name: Turkana South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.43.6_1_Adm2:
+    GID: KEN.43.6_1
+    admin_name: Turkana West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.43.7_1_Adm2:
+    GID: KEN.43.7_1
+    admin_name: unknown 2
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.44_1_Adm1:
+    GID: KEN.44_1
+    admin_name: Uasin Gishu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.44.1_1_Adm2:
+    GID: KEN.44.1_1
+    admin_name: Ainabkoi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.44.2_1_Adm2:
+    GID: KEN.44.2_1
+    admin_name: Kapseret
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.44.3_1_Adm2:
+    GID: KEN.44.3_1
+    admin_name: Kesses
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.44.4_1_Adm2:
+    GID: KEN.44.4_1
+    admin_name: Moiben
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.44.5_1_Adm2:
+    GID: KEN.44.5_1
+    admin_name: Soy
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.44.6_1_Adm2:
+    GID: KEN.44.6_1
+    admin_name: Turbo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.45_1_Adm1:
+    GID: KEN.45_1
+    admin_name: Vihiga
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.45.1_1_Adm2:
+    GID: KEN.45.1_1
+    admin_name: Emuhaya
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.45.2_1_Adm2:
+    GID: KEN.45.2_1
+    admin_name: Hamisi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.45.3_1_Adm2:
+    GID: KEN.45.3_1
+    admin_name: Luanda
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.45.4_1_Adm2:
+    GID: KEN.45.4_1
+    admin_name: Sabatia
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.45.5_1_Adm2:
+    GID: KEN.45.5_1
+    admin_name: Vihiga
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.46_1_Adm1:
+    GID: KEN.46_1
+    admin_name: Wajir
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.46.1_1_Adm2:
+    GID: KEN.46.1_1
+    admin_name: Eldas
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.46.2_1_Adm2:
+    GID: KEN.46.2_1
+    admin_name: Tarbaj
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.46.3_1_Adm2:
+    GID: KEN.46.3_1
+    admin_name: Wajir East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.46.4_1_Adm2:
+    GID: KEN.46.4_1
+    admin_name: Wajir North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.46.5_1_Adm2:
+    GID: KEN.46.5_1
+    admin_name: Wajir South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.46.6_1_Adm2:
+    GID: KEN.46.6_1
+    admin_name: Wajir West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.47_1_Adm1:
+    GID: KEN.47_1
+    admin_name: West Pokot
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.47.1_1_Adm2:
+    GID: KEN.47.1_1
+    admin_name: Kacheliba
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.47.2_1_Adm2:
+    GID: KEN.47.2_1
+    admin_name: Kapenguria
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.47.3_1_Adm2:
+    GID: KEN.47.3_1
+    admin_name: Pokot South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.47.4_1_Adm2:
+    GID: KEN.47.4_1
+    admin_name: Sigor
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.47.5_1_Adm2:
+    GID: KEN.47.5_1
+    admin_name: unknown 3
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.5_1_Adm1:
+    GID: KEN.5_1
+    admin_name: Elgeyo-Marakwet
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.5.1_1_Adm2:
+    GID: KEN.5.1_1
+    admin_name: Keiyo North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.5.2_1_Adm2:
+    GID: KEN.5.2_1
+    admin_name: Keiyo South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.5.3_1_Adm2:
+    GID: KEN.5.3_1
+    admin_name: Marakwet East
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.5.4_1_Adm2:
+    GID: KEN.5.4_1
+    admin_name: Marakwet West
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.6_1_Adm1:
+    GID: KEN.6_1
+    admin_name: Embu
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.6.1_1_Adm2:
+    GID: KEN.6.1_1
+    admin_name: Manyatta
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.6.2_1_Adm2:
+    GID: KEN.6.2_1
+    admin_name: Mbeere North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.6.3_1_Adm2:
+    GID: KEN.6.3_1
+    admin_name: Mbeere South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.6.4_1_Adm2:
+    GID: KEN.6.4_1
+    admin_name: Runyenjes
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.7_1_Adm1:
+    GID: KEN.7_1
+    admin_name: Garissa
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.7.1_1_Adm2:
+    GID: KEN.7.1_1
+    admin_name: Balambala
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.7.2_1_Adm2:
+    GID: KEN.7.2_1
+    admin_name: Daadab
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.7.3_1_Adm2:
+    GID: KEN.7.3_1
+    admin_name: Fafi
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.7.4_1_Adm2:
+    GID: KEN.7.4_1
+    admin_name: Garissa Township
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.7.5_1_Adm2:
+    GID: KEN.7.5_1
+    admin_name: Ijara
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.7.6_1_Adm2:
+    GID: KEN.7.6_1
+    admin_name: Lagdera
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8_1_Adm1:
+    GID: KEN.8_1
+    admin_name: Homa Bay
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.8.1_1_Adm2:
+    GID: KEN.8.1_1
+    admin_name: Homa Bay Town
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8.2_1_Adm2:
+    GID: KEN.8.2_1
+    admin_name: Kabondo Kasipul
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8.3_1_Adm2:
+    GID: KEN.8.3_1
+    admin_name: Karachuonyo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8.4_1_Adm2:
+    GID: KEN.8.4_1
+    admin_name: Kasipul
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8.5_1_Adm2:
+    GID: KEN.8.5_1
+    admin_name: Mbita
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8.6_1_Adm2:
+    GID: KEN.8.6_1
+    admin_name: Ndhiwa
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8.7_1_Adm2:
+    GID: KEN.8.7_1
+    admin_name: Rangwe
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8.8_1_Adm2:
+    GID: KEN.8.8_1
+    admin_name: Suba
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.8.9_1_Adm2:
+    GID: KEN.8.9_1
+    admin_name: unknown 6
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.9_1_Adm1:
+    GID: KEN.9_1
+    admin_name: Isiolo
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm1
+  KEN.9.1_1_Adm2:
+    GID: KEN.9.1_1
+    admin_name: Isiolo North
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2
+  KEN.9.2_1_Adm2:
+    GID: KEN.9.2_1
+    admin_name: Isiolo South
+    iso3c: KEN
+    country_name: Kenya
+    admin_level: Adm2

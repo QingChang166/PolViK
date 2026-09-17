@@ -1,0 +1,4645 @@
+concepts:
+  VNM.0_Adm0:
+    GID: VNM
+    admin_name: Vietnam
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm0
+  VNM.1_1_Adm1:
+    GID: VNM.1_1
+    admin_name: An Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.1.1_1_Adm2:
+    GID: VNM.1.1_1
+    admin_name: An Phú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.10_1_Adm2:
+    GID: VNM.1.10_1
+    admin_name: Thoại Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.11_1_Adm2:
+    GID: VNM.1.11_1
+    admin_name: Tri Tôn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.2_1_Adm2:
+    GID: VNM.1.2_1
+    admin_name: Chợ Mới
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.3_1_Adm2:
+    GID: VNM.1.3_1
+    admin_name: Châu Đốc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.4_1_Adm2:
+    GID: VNM.1.4_1
+    admin_name: Châu Phú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.5_1_Adm2:
+    GID: VNM.1.5_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.6_1_Adm2:
+    GID: VNM.1.6_1
+    admin_name: Long Xuyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.7_1_Adm2:
+    GID: VNM.1.7_1
+    admin_name: Phú Tân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.8_1_Adm2:
+    GID: VNM.1.8_1
+    admin_name: Tịnh Biên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.1.9_1_Adm2:
+    GID: VNM.1.9_1
+    admin_name: Tân Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10_1_Adm1:
+    GID: VNM.10_1
+    admin_name: Bình Phước
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.10.1_1_Adm2:
+    GID: VNM.10.1_1
+    admin_name: Bình Long
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.10_1_Adm2:
+    GID: VNM.10.10_1
+    admin_name: Phú Riềng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.11_1_Adm2:
+    GID: VNM.10.11_1
+    admin_name: Phước Long
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.2_1_Adm2:
+    GID: VNM.10.2_1
+    admin_name: Bù Đốp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.3_1_Adm2:
+    GID: VNM.10.3_1
+    admin_name: Bù Đăng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.4_1_Adm2:
+    GID: VNM.10.4_1
+    admin_name: Bù Gia Mập
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.5_1_Adm2:
+    GID: VNM.10.5_1
+    admin_name: Chơn Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.6_1_Adm2:
+    GID: VNM.10.6_1
+    admin_name: Đồng Phú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.7_1_Adm2:
+    GID: VNM.10.7_1
+    admin_name: Đồng Xoài
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.8_1_Adm2:
+    GID: VNM.10.8_1
+    admin_name: Hớn Quản
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.10.9_1_Adm2:
+    GID: VNM.10.9_1
+    admin_name: Lộc Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11_1_Adm1:
+    GID: VNM.11_1
+    admin_name: Bình Thuận
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.11.1_1_Adm2:
+    GID: VNM.11.1_1
+    admin_name: Bắc Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.10_1_Adm2:
+    GID: VNM.11.10_1
+    admin_name: Tuy Phong
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.2_1_Adm2:
+    GID: VNM.11.2_1
+    admin_name: Đức Linh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.3_1_Adm2:
+    GID: VNM.11.3_1
+    admin_name: Hàm Tân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.4_1_Adm2:
+    GID: VNM.11.4_1
+    admin_name: Hàm Thuận Bắc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.5_1_Adm2:
+    GID: VNM.11.5_1
+    admin_name: Hàm Thuận Nam
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.6_1_Adm2:
+    GID: VNM.11.6_1
+    admin_name: La Gi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.7_1_Adm2:
+    GID: VNM.11.7_1
+    admin_name: Phan Thiết
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.8_1_Adm2:
+    GID: VNM.11.8_1
+    admin_name: Phú Quí
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.11.9_1_Adm2:
+    GID: VNM.11.9_1
+    admin_name: Tánh Linh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12_1_Adm1:
+    GID: VNM.12_1
+    admin_name: Cần Thơ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.12.1_1_Adm2:
+    GID: VNM.12.1_1
+    admin_name: Bình Thuỷ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12.2_1_Adm2:
+    GID: VNM.12.2_1
+    admin_name: Cờ Đỏ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12.3_1_Adm2:
+    GID: VNM.12.3_1
+    admin_name: Cái Răng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12.4_1_Adm2:
+    GID: VNM.12.4_1
+    admin_name: Ninh Kiều
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12.5_1_Adm2:
+    GID: VNM.12.5_1
+    admin_name: Ô Môn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12.6_1_Adm2:
+    GID: VNM.12.6_1
+    admin_name: Phong Điền
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12.7_1_Adm2:
+    GID: VNM.12.7_1
+    admin_name: Thốt Nốt
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12.8_1_Adm2:
+    GID: VNM.12.8_1
+    admin_name: Thới Lai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.12.9_1_Adm2:
+    GID: VNM.12.9_1
+    admin_name: Vĩnh Thạnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13_1_Adm1:
+    GID: VNM.13_1
+    admin_name: Cà Mau
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.13.1_1_Adm2:
+    GID: VNM.13.1_1
+    admin_name: Cà Mau
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13.2_1_Adm2:
+    GID: VNM.13.2_1
+    admin_name: Cái Nước
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13.3_1_Adm2:
+    GID: VNM.13.3_1
+    admin_name: Đầm Dơi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13.4_1_Adm2:
+    GID: VNM.13.4_1
+    admin_name: Năm Căn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13.5_1_Adm2:
+    GID: VNM.13.5_1
+    admin_name: Ngọc Hiển
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13.6_1_Adm2:
+    GID: VNM.13.6_1
+    admin_name: Phú Tân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13.7_1_Adm2:
+    GID: VNM.13.7_1
+    admin_name: Thới Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13.8_1_Adm2:
+    GID: VNM.13.8_1
+    admin_name: Trần Văn Thời
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.13.9_1_Adm2:
+    GID: VNM.13.9_1
+    admin_name: U Minh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14_1_Adm1:
+    GID: VNM.14_1
+    admin_name: Cao Bằng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.14.1_1_Adm2:
+    GID: VNM.14.1_1
+    admin_name: Bảo Lạc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.10_1_Adm2:
+    GID: VNM.14.10_1
+    admin_name: Thạch An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.11_1_Adm2:
+    GID: VNM.14.11_1
+    admin_name: Thông Nông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.12_1_Adm2:
+    GID: VNM.14.12_1
+    admin_name: Trà Lĩnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.13_1_Adm2:
+    GID: VNM.14.13_1
+    admin_name: Trùng Khánh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.2_1_Adm2:
+    GID: VNM.14.2_1
+    admin_name: Bảo Lâm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.3_1_Adm2:
+    GID: VNM.14.3_1
+    admin_name: Cao Bằng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.4_1_Adm2:
+    GID: VNM.14.4_1
+    admin_name: Hạ Lang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.5_1_Adm2:
+    GID: VNM.14.5_1
+    admin_name: Hà Quảng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.6_1_Adm2:
+    GID: VNM.14.6_1
+    admin_name: Hoà An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.7_1_Adm2:
+    GID: VNM.14.7_1
+    admin_name: Nguyên Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.8_1_Adm2:
+    GID: VNM.14.8_1
+    admin_name: Phục Hoà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.14.9_1_Adm2:
+    GID: VNM.14.9_1
+    admin_name: Quảng Uyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15_1_Adm1:
+    GID: VNM.15_1
+    admin_name: Đắk Lắk
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.15.1_1_Adm2:
+    GID: VNM.15.1_1
+    admin_name: Buôn Đôn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.10_1_Adm2:
+    GID: VNM.15.10_1
+    admin_name: Krông Búk
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.11_1_Adm2:
+    GID: VNM.15.11_1
+    admin_name: Krông Năng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.12_1_Adm2:
+    GID: VNM.15.12_1
+    admin_name: Krông Pắc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.13_1_Adm2:
+    GID: VNM.15.13_1
+    admin_name: Lắk
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.14_1_Adm2:
+    GID: VNM.15.14_1
+    admin_name: M'Đrắk
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.15_1_Adm2:
+    GID: VNM.15.15_1
+    admin_name: Thị Xã Buôn Hồ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.2_1_Adm2:
+    GID: VNM.15.2_1
+    admin_name: Buôn Ma Thuột
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.3_1_Adm2:
+    GID: VNM.15.3_1
+    admin_name: Cư Kuin
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.4_1_Adm2:
+    GID: VNM.15.4_1
+    admin_name: Cư M'gar
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.5_1_Adm2:
+    GID: VNM.15.5_1
+    admin_name: Ea H'leo
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.6_1_Adm2:
+    GID: VNM.15.6_1
+    admin_name: Ea Kar
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.7_1_Adm2:
+    GID: VNM.15.7_1
+    admin_name: Ea Súp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.8_1_Adm2:
+    GID: VNM.15.8_1
+    admin_name: Krông A Na
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.15.9_1_Adm2:
+    GID: VNM.15.9_1
+    admin_name: Krông Bông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.16_1_Adm1:
+    GID: VNM.16_1
+    admin_name: Đắk Nông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.16.1_1_Adm2:
+    GID: VNM.16.1_1
+    admin_name: Cư Jút
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.16.2_1_Adm2:
+    GID: VNM.16.2_1
+    admin_name: Đắk Mil
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.16.3_1_Adm2:
+    GID: VNM.16.3_1
+    admin_name: Đắk R'Lấp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.16.4_1_Adm2:
+    GID: VNM.16.4_1
+    admin_name: Đắk Song
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.16.5_1_Adm2:
+    GID: VNM.16.5_1
+    admin_name: Đăk Glong
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.16.6_1_Adm2:
+    GID: VNM.16.6_1
+    admin_name: Gia Nghĩa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.16.7_1_Adm2:
+    GID: VNM.16.7_1
+    admin_name: Krông Nô
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.16.8_1_Adm2:
+    GID: VNM.16.8_1
+    admin_name: Tuy Đức
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17_1_Adm1:
+    GID: VNM.17_1
+    admin_name: Đồng Nai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.17.1_1_Adm2:
+    GID: VNM.17.1_1
+    admin_name: Biên Hòa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.10_1_Adm2:
+    GID: VNM.17.10_1
+    admin_name: Vĩnh Cửu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.11_1_Adm2:
+    GID: VNM.17.11_1
+    admin_name: Xuân Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.2_1_Adm2:
+    GID: VNM.17.2_1
+    admin_name: Cẩm Mỹ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.3_1_Adm2:
+    GID: VNM.17.3_1
+    admin_name: Định Quán
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.4_1_Adm2:
+    GID: VNM.17.4_1
+    admin_name: Long Khánh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.5_1_Adm2:
+    GID: VNM.17.5_1
+    admin_name: Long Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.6_1_Adm2:
+    GID: VNM.17.6_1
+    admin_name: Nhơn Trạch
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.7_1_Adm2:
+    GID: VNM.17.7_1
+    admin_name: Tân Phú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.8_1_Adm2:
+    GID: VNM.17.8_1
+    admin_name: Thống Nhất
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.17.9_1_Adm2:
+    GID: VNM.17.9_1
+    admin_name: Trảng Bom
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18_1_Adm1:
+    GID: VNM.18_1
+    admin_name: Đồng Tháp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.18.1_1_Adm2:
+    GID: VNM.18.1_1
+    admin_name: Cao Lãnh (Thành phố)
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.10_1_Adm2:
+    GID: VNM.18.10_1
+    admin_name: Tân Hồng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.11_1_Adm2:
+    GID: VNM.18.11_1
+    admin_name: Thanh Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.12_1_Adm2:
+    GID: VNM.18.12_1
+    admin_name: Tháp Mười
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.2_1_Adm2:
+    GID: VNM.18.2_1
+    admin_name: Cao Lãnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.3_1_Adm2:
+    GID: VNM.18.3_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.4_1_Adm2:
+    GID: VNM.18.4_1
+    admin_name: Hồng Ngự (Thị xã)
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.5_1_Adm2:
+    GID: VNM.18.5_1
+    admin_name: Hồng Ngự
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.6_1_Adm2:
+    GID: VNM.18.6_1
+    admin_name: Lấp Vò
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.7_1_Adm2:
+    GID: VNM.18.7_1
+    admin_name: Lai Vung
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.8_1_Adm2:
+    GID: VNM.18.8_1
+    admin_name: Sa Đéc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.18.9_1_Adm2:
+    GID: VNM.18.9_1
+    admin_name: Tam Nông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.19_1_Adm1:
+    GID: VNM.19_1
+    admin_name: Đà Nẵng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.19.1_1_Adm2:
+    GID: VNM.19.1_1
+    admin_name: Cẩm Lệ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.19.2_1_Adm2:
+    GID: VNM.19.2_1
+    admin_name: Hải Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.19.3_1_Adm2:
+    GID: VNM.19.3_1
+    admin_name: Hòa Vang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.19.4_1_Adm2:
+    GID: VNM.19.4_1
+    admin_name: Liên Chiểu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.19.5_1_Adm2:
+    GID: VNM.19.5_1
+    admin_name: Ngũ Hành Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.19.6_1_Adm2:
+    GID: VNM.19.6_1
+    admin_name: Sơn Trà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.19.7_1_Adm2:
+    GID: VNM.19.7_1
+    admin_name: Thanh Khê
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.2_1_Adm1:
+    GID: VNM.2_1
+    admin_name: Bạc Liêu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.2.1_1_Adm2:
+    GID: VNM.2.1_1
+    admin_name: Bạc Liêu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.2.2_1_Adm2:
+    GID: VNM.2.2_1
+    admin_name: Đông Hải
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.2.3_1_Adm2:
+    GID: VNM.2.3_1
+    admin_name: Giá Rai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.2.4_1_Adm2:
+    GID: VNM.2.4_1
+    admin_name: Hồng Dân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.2.5_1_Adm2:
+    GID: VNM.2.5_1
+    admin_name: Hoà Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.2.6_1_Adm2:
+    GID: VNM.2.6_1
+    admin_name: Phước Long
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.2.7_1_Adm2:
+    GID: VNM.2.7_1
+    admin_name: Vĩnh Lợi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20_1_Adm1:
+    GID: VNM.20_1
+    admin_name: Điện Biên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.20.1_1_Adm2:
+    GID: VNM.20.1_1
+    admin_name: Điện Biên Đông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.10_1_Adm2:
+    GID: VNM.20.10_1
+    admin_name: Tuần Giáo
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.2_1_Adm2:
+    GID: VNM.20.2_1
+    admin_name: Điện Biên Phủ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.3_1_Adm2:
+    GID: VNM.20.3_1
+    admin_name: Điện Biên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.4_1_Adm2:
+    GID: VNM.20.4_1
+    admin_name: Mường Ảng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.5_1_Adm2:
+    GID: VNM.20.5_1
+    admin_name: Mường Chà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.6_1_Adm2:
+    GID: VNM.20.6_1
+    admin_name: Mường Nhé
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.7_1_Adm2:
+    GID: VNM.20.7_1
+    admin_name: Nậm Pồ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.8_1_Adm2:
+    GID: VNM.20.8_1
+    admin_name: Tủa Chùa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.20.9_1_Adm2:
+    GID: VNM.20.9_1
+    admin_name: Thị Xã Mường Lay
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21_1_Adm1:
+    GID: VNM.21_1
+    admin_name: Gia Lai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.21.1_1_Adm2:
+    GID: VNM.21.1_1
+    admin_name: An Khê
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.10_1_Adm2:
+    GID: VNM.21.10_1
+    admin_name: Ia Grai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.11_1_Adm2:
+    GID: VNM.21.11_1
+    admin_name: Ia Pa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.12_1_Adm2:
+    GID: VNM.21.12_1
+    admin_name: KBang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.13_1_Adm2:
+    GID: VNM.21.13_1
+    admin_name: Kông Chro
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.14_1_Adm2:
+    GID: VNM.21.14_1
+    admin_name: Krông Pa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.15_1_Adm2:
+    GID: VNM.21.15_1
+    admin_name: Mang Yang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.16_1_Adm2:
+    GID: VNM.21.16_1
+    admin_name: Phú Thiện
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.17_1_Adm2:
+    GID: VNM.21.17_1
+    admin_name: Pleiku
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.2_1_Adm2:
+    GID: VNM.21.2_1
+    admin_name: Ayun Pa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.3_1_Adm2:
+    GID: VNM.21.3_1
+    admin_name: Chư Păh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.4_1_Adm2:
+    GID: VNM.21.4_1
+    admin_name: Chư Prông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.5_1_Adm2:
+    GID: VNM.21.5_1
+    admin_name: Chư Pưh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.6_1_Adm2:
+    GID: VNM.21.6_1
+    admin_name: Chư Sê
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.7_1_Adm2:
+    GID: VNM.21.7_1
+    admin_name: Đức Cơ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.8_1_Adm2:
+    GID: VNM.21.8_1
+    admin_name: Đăk Đoa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.21.9_1_Adm2:
+    GID: VNM.21.9_1
+    admin_name: Đăk Pơ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22_1_Adm1:
+    GID: VNM.22_1
+    admin_name: Hải Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.22.1_1_Adm2:
+    GID: VNM.22.1_1
+    admin_name: Bình Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.10_1_Adm2:
+    GID: VNM.22.10_1
+    admin_name: Tứ Kỳ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.11_1_Adm2:
+    GID: VNM.22.11_1
+    admin_name: Thanh Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.12_1_Adm2:
+    GID: VNM.22.12_1
+    admin_name: Thanh Miện
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.2_1_Adm2:
+    GID: VNM.22.2_1
+    admin_name: Cẩm Giàng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.3_1_Adm2:
+    GID: VNM.22.3_1
+    admin_name: Chí Linh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.4_1_Adm2:
+    GID: VNM.22.4_1
+    admin_name: Gia Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.5_1_Adm2:
+    GID: VNM.22.5_1
+    admin_name: Hải Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.6_1_Adm2:
+    GID: VNM.22.6_1
+    admin_name: Kim Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.7_1_Adm2:
+    GID: VNM.22.7_1
+    admin_name: Kinh Môn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.8_1_Adm2:
+    GID: VNM.22.8_1
+    admin_name: Nam Sách
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.22.9_1_Adm2:
+    GID: VNM.22.9_1
+    admin_name: Ninh Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23_1_Adm1:
+    GID: VNM.23_1
+    admin_name: Hải Phòng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.23.1_1_Adm2:
+    GID: VNM.23.1_1
+    admin_name: An Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.10_1_Adm2:
+    GID: VNM.23.10_1
+    admin_name: Kiến Thuỵ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.11_1_Adm2:
+    GID: VNM.23.11_1
+    admin_name: Lê Chân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.12_1_Adm2:
+    GID: VNM.23.12_1
+    admin_name: Ngô Quyền
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.13_1_Adm2:
+    GID: VNM.23.13_1
+    admin_name: Thuỷ Nguyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.14_1_Adm2:
+    GID: VNM.23.14_1
+    admin_name: Tiên Lãng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.15_1_Adm2:
+    GID: VNM.23.15_1
+    admin_name: Vĩnh Bảo
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.2_1_Adm2:
+    GID: VNM.23.2_1
+    admin_name: An Lão
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.3_1_Adm2:
+    GID: VNM.23.3_1
+    admin_name: Bạch Long Vĩ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.4_1_Adm2:
+    GID: VNM.23.4_1
+    admin_name: Cát Hải
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.5_1_Adm2:
+    GID: VNM.23.5_1
+    admin_name: Đồ Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.6_1_Adm2:
+    GID: VNM.23.6_1
+    admin_name: Dương Kinh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.7_1_Adm2:
+    GID: VNM.23.7_1
+    admin_name: Hải An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.8_1_Adm2:
+    GID: VNM.23.8_1
+    admin_name: Hồng Bàng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.23.9_1_Adm2:
+    GID: VNM.23.9_1
+    admin_name: Kiến An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.24_1_Adm1:
+    GID: VNM.24_1
+    admin_name: Hậu Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.24.1_1_Adm2:
+    GID: VNM.24.1_1
+    admin_name: Châu Thành A
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.24.2_1_Adm2:
+    GID: VNM.24.2_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.24.3_1_Adm2:
+    GID: VNM.24.3_1
+    admin_name: Long Mỹ (Thị xã)
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.24.4_1_Adm2:
+    GID: VNM.24.4_1
+    admin_name: Long Mỹ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.24.5_1_Adm2:
+    GID: VNM.24.5_1
+    admin_name: Ngã Bảy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.24.6_1_Adm2:
+    GID: VNM.24.6_1
+    admin_name: Phụng Hiệp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.24.7_1_Adm2:
+    GID: VNM.24.7_1
+    admin_name: Vị Thanh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.24.8_1_Adm2:
+    GID: VNM.24.8_1
+    admin_name: Vị Thuỷ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25_1_Adm1:
+    GID: VNM.25_1
+    admin_name: Hồ Chí Minh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.25.1_1_Adm2:
+    GID: VNM.25.1_1
+    admin_name: Bình Chánh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.10_1_Adm2:
+    GID: VNM.25.10_1
+    admin_name: Quận 10
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.11_1_Adm2:
+    GID: VNM.25.11_1
+    admin_name: Quận 11
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.12_1_Adm2:
+    GID: VNM.25.12_1
+    admin_name: Quận 12
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.13_1_Adm2:
+    GID: VNM.25.13_1
+    admin_name: Quận 1
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.14_1_Adm2:
+    GID: VNM.25.14_1
+    admin_name: Quận 2
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.15_1_Adm2:
+    GID: VNM.25.15_1
+    admin_name: Quận 3
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.16_1_Adm2:
+    GID: VNM.25.16_1
+    admin_name: Quận 4
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.17_1_Adm2:
+    GID: VNM.25.17_1
+    admin_name: Quận 5
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.18_1_Adm2:
+    GID: VNM.25.18_1
+    admin_name: Quận 6
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.19_1_Adm2:
+    GID: VNM.25.19_1
+    admin_name: Quận 7
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.2_1_Adm2:
+    GID: VNM.25.2_1
+    admin_name: Bình Tân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.20_1_Adm2:
+    GID: VNM.25.20_1
+    admin_name: Quận 8
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.21_1_Adm2:
+    GID: VNM.25.21_1
+    admin_name: Quận 9
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.22_1_Adm2:
+    GID: VNM.25.22_1
+    admin_name: Tân Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.23_1_Adm2:
+    GID: VNM.25.23_1
+    admin_name: Tân Phú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.24_1_Adm2:
+    GID: VNM.25.24_1
+    admin_name: Thủ Đức
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.3_1_Adm2:
+    GID: VNM.25.3_1
+    admin_name: Bình Thạnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.4_1_Adm2:
+    GID: VNM.25.4_1
+    admin_name: Cần Giờ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.5_1_Adm2:
+    GID: VNM.25.5_1
+    admin_name: Củ Chi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.6_1_Adm2:
+    GID: VNM.25.6_1
+    admin_name: Gò Vấp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.7_1_Adm2:
+    GID: VNM.25.7_1
+    admin_name: Hóc Môn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.8_1_Adm2:
+    GID: VNM.25.8_1
+    admin_name: Nhà Bè
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.25.9_1_Adm2:
+    GID: VNM.25.9_1
+    admin_name: Phú Nhuận
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26_1_Adm1:
+    GID: VNM.26_1
+    admin_name: Hà Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.26.1_1_Adm2:
+    GID: VNM.26.1_1
+    admin_name: Bắc Mê
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.10_1_Adm2:
+    GID: VNM.26.10_1
+    admin_name: Xín Mần
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.11_1_Adm2:
+    GID: VNM.26.11_1
+    admin_name: Yên Minh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.2_1_Adm2:
+    GID: VNM.26.2_1
+    admin_name: Bắc Quang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.3_1_Adm2:
+    GID: VNM.26.3_1
+    admin_name: Đồng Văn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.4_1_Adm2:
+    GID: VNM.26.4_1
+    admin_name: Hà Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.5_1_Adm2:
+    GID: VNM.26.5_1
+    admin_name: Hoàng Su Phì
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.6_1_Adm2:
+    GID: VNM.26.6_1
+    admin_name: Mèo Vạc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.7_1_Adm2:
+    GID: VNM.26.7_1
+    admin_name: Quản Bạ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.8_1_Adm2:
+    GID: VNM.26.8_1
+    admin_name: Quang Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.26.9_1_Adm2:
+    GID: VNM.26.9_1
+    admin_name: Vị Xuyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27_1_Adm1:
+    GID: VNM.27_1
+    admin_name: Hà Nội
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.27.1_1_Adm2:
+    GID: VNM.27.1_1
+    admin_name: Ứng Hòa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.10_1_Adm2:
+    GID: VNM.27.10_1
+    admin_name: Gia Lâm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.11_1_Adm2:
+    GID: VNM.27.11_1
+    admin_name: Hà Đông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.12_1_Adm2:
+    GID: VNM.27.12_1
+    admin_name: Hai Bà Trưng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.13_1_Adm2:
+    GID: VNM.27.13_1
+    admin_name: Hoài Đức
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.14_1_Adm2:
+    GID: VNM.27.14_1
+    admin_name: Hoàn Kiếm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.15_1_Adm2:
+    GID: VNM.27.15_1
+    admin_name: Hoàng Mai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.16_1_Adm2:
+    GID: VNM.27.16_1
+    admin_name: Long Biên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.17_1_Adm2:
+    GID: VNM.27.17_1
+    admin_name: Mỹ Đức
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.18_1_Adm2:
+    GID: VNM.27.18_1
+    admin_name: Mê Linh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.19_1_Adm2:
+    GID: VNM.27.19_1
+    admin_name: Nam Từ Liêm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.2_1_Adm2:
+    GID: VNM.27.2_1
+    admin_name: Bắc Từ Liêm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.20_1_Adm2:
+    GID: VNM.27.20_1
+    admin_name: Phú Xuyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.21_1_Adm2:
+    GID: VNM.27.21_1
+    admin_name: Phúc Thọ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.22_1_Adm2:
+    GID: VNM.27.22_1
+    admin_name: Quốc Oai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.23_1_Adm2:
+    GID: VNM.27.23_1
+    admin_name: Sóc Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.24_1_Adm2:
+    GID: VNM.27.24_1
+    admin_name: Sơn Tây
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.25_1_Adm2:
+    GID: VNM.27.25_1
+    admin_name: Tây Hồ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.26_1_Adm2:
+    GID: VNM.27.26_1
+    admin_name: Thạch Thất
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.27_1_Adm2:
+    GID: VNM.27.27_1
+    admin_name: Thanh Oai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.28_1_Adm2:
+    GID: VNM.27.28_1
+    admin_name: Thanh Trì
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.29_1_Adm2:
+    GID: VNM.27.29_1
+    admin_name: Thanh Xuân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.3_1_Adm2:
+    GID: VNM.27.3_1
+    admin_name: Ba Đình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.30_1_Adm2:
+    GID: VNM.27.30_1
+    admin_name: Thường Tín
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.4_1_Adm2:
+    GID: VNM.27.4_1
+    admin_name: Ba Vì
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.5_1_Adm2:
+    GID: VNM.27.5_1
+    admin_name: Cầu Giấy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.6_1_Adm2:
+    GID: VNM.27.6_1
+    admin_name: Chương Mỹ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.7_1_Adm2:
+    GID: VNM.27.7_1
+    admin_name: Đống Đa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.8_1_Adm2:
+    GID: VNM.27.8_1
+    admin_name: Đan Phượng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.27.9_1_Adm2:
+    GID: VNM.27.9_1
+    admin_name: Đông Anh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.28_1_Adm1:
+    GID: VNM.28_1
+    admin_name: Hà Nam
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.28.1_1_Adm2:
+    GID: VNM.28.1_1
+    admin_name: Bình Lục
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.28.2_1_Adm2:
+    GID: VNM.28.2_1
+    admin_name: Duy Tiên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.28.3_1_Adm2:
+    GID: VNM.28.3_1
+    admin_name: Kim Bảng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.28.4_1_Adm2:
+    GID: VNM.28.4_1
+    admin_name: Lý Nhân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.28.5_1_Adm2:
+    GID: VNM.28.5_1
+    admin_name: Phủ Lý
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.28.6_1_Adm2:
+    GID: VNM.28.6_1
+    admin_name: Thanh Liêm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29_1_Adm1:
+    GID: VNM.29_1
+    admin_name: Hà Tĩnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.29.1_1_Adm2:
+    GID: VNM.29.1_1
+    admin_name: Cẩm Xuyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.10_1_Adm2:
+    GID: VNM.29.10_1
+    admin_name: Lộc Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.11_1_Adm2:
+    GID: VNM.29.11_1
+    admin_name: Nghi Xuân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.12_1_Adm2:
+    GID: VNM.29.12_1
+    admin_name: Thạch Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.13_1_Adm2:
+    GID: VNM.29.13_1
+    admin_name: Vũ Quang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.2_1_Adm2:
+    GID: VNM.29.2_1
+    admin_name: Can Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.3_1_Adm2:
+    GID: VNM.29.3_1
+    admin_name: Đức Thọ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.4_1_Adm2:
+    GID: VNM.29.4_1
+    admin_name: Hồng Lĩnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.5_1_Adm2:
+    GID: VNM.29.5_1
+    admin_name: Hà Tĩnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.6_1_Adm2:
+    GID: VNM.29.6_1
+    admin_name: Hương Khê
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.7_1_Adm2:
+    GID: VNM.29.7_1
+    admin_name: Hương Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.8_1_Adm2:
+    GID: VNM.29.8_1
+    admin_name: Kỳ Anh (Thị xã)
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.29.9_1_Adm2:
+    GID: VNM.29.9_1
+    admin_name: Kỳ Anh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3_1_Adm1:
+    GID: VNM.3_1
+    admin_name: Bắc Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.3.1_1_Adm2:
+    GID: VNM.3.1_1
+    admin_name: Bắc Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.10_1_Adm2:
+    GID: VNM.3.10_1
+    admin_name: Yên Thế
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.2_1_Adm2:
+    GID: VNM.3.2_1
+    admin_name: Hiệp Hòa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.3_1_Adm2:
+    GID: VNM.3.3_1
+    admin_name: Lạng Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.4_1_Adm2:
+    GID: VNM.3.4_1
+    admin_name: Lục Nam
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.5_1_Adm2:
+    GID: VNM.3.5_1
+    admin_name: Lục Ngạn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.6_1_Adm2:
+    GID: VNM.3.6_1
+    admin_name: Sơn Động
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.7_1_Adm2:
+    GID: VNM.3.7_1
+    admin_name: Tân Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.8_1_Adm2:
+    GID: VNM.3.8_1
+    admin_name: Việt Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.3.9_1_Adm2:
+    GID: VNM.3.9_1
+    admin_name: Yên Dũng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30_1_Adm1:
+    GID: VNM.30_1
+    admin_name: Hoà Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.30.1_1_Adm2:
+    GID: VNM.30.1_1
+    admin_name: Cao Phong
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.10_1_Adm2:
+    GID: VNM.30.10_1
+    admin_name: Tân Lạc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.11_1_Adm2:
+    GID: VNM.30.11_1
+    admin_name: Yên Thủy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.2_1_Adm2:
+    GID: VNM.30.2_1
+    admin_name: Đà Bắc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.3_1_Adm2:
+    GID: VNM.30.3_1
+    admin_name: Hòa Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.4_1_Adm2:
+    GID: VNM.30.4_1
+    admin_name: Kỳ Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.5_1_Adm2:
+    GID: VNM.30.5_1
+    admin_name: Kim Bôi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.6_1_Adm2:
+    GID: VNM.30.6_1
+    admin_name: Lạc Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.7_1_Adm2:
+    GID: VNM.30.7_1
+    admin_name: Lạc Thủy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.8_1_Adm2:
+    GID: VNM.30.8_1
+    admin_name: Lương Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.30.9_1_Adm2:
+    GID: VNM.30.9_1
+    admin_name: Mai Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31_1_Adm1:
+    GID: VNM.31_1
+    admin_name: Hưng Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.31.1_1_Adm2:
+    GID: VNM.31.1_1
+    admin_name: Ân Thi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.10_1_Adm2:
+    GID: VNM.31.10_1
+    admin_name: Yên Mỹ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.2_1_Adm2:
+    GID: VNM.31.2_1
+    admin_name: Hưng Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.3_1_Adm2:
+    GID: VNM.31.3_1
+    admin_name: Khoái Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.4_1_Adm2:
+    GID: VNM.31.4_1
+    admin_name: Kim Động
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.5_1_Adm2:
+    GID: VNM.31.5_1
+    admin_name: Mỹ Hào
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.6_1_Adm2:
+    GID: VNM.31.6_1
+    admin_name: Phù Cừ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.7_1_Adm2:
+    GID: VNM.31.7_1
+    admin_name: Tiên Lữ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.8_1_Adm2:
+    GID: VNM.31.8_1
+    admin_name: Văn Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.31.9_1_Adm2:
+    GID: VNM.31.9_1
+    admin_name: Văn Lâm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.32_1_Adm1:
+    GID: VNM.32_1
+    admin_name: Khánh Hòa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.32.1_1_Adm2:
+    GID: VNM.32.1_1
+    admin_name: Cam Lâm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.32.2_1_Adm2:
+    GID: VNM.32.2_1
+    admin_name: Cam Ranh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.32.3_1_Adm2:
+    GID: VNM.32.3_1
+    admin_name: Diên Khánh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.32.4_1_Adm2:
+    GID: VNM.32.4_1
+    admin_name: Khánh Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.32.5_1_Adm2:
+    GID: VNM.32.5_1
+    admin_name: Khánh Vĩnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.32.6_1_Adm2:
+    GID: VNM.32.6_1
+    admin_name: Nha Trang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.32.7_1_Adm2:
+    GID: VNM.32.7_1
+    admin_name: Ninh Hòa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.32.8_1_Adm2:
+    GID: VNM.32.8_1
+    admin_name: Vạn Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33_1_Adm1:
+    GID: VNM.33_1
+    admin_name: Kiên Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.33.1_1_Adm2:
+    GID: VNM.33.1_1
+    admin_name: An Biên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.10_1_Adm2:
+    GID: VNM.33.10_1
+    admin_name: Kiên Lương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.11_1_Adm2:
+    GID: VNM.33.11_1
+    admin_name: Phú Quốc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.12_1_Adm2:
+    GID: VNM.33.12_1
+    admin_name: Rạch Giá
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.13_1_Adm2:
+    GID: VNM.33.13_1
+    admin_name: Tân Hiệp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.14_1_Adm2:
+    GID: VNM.33.14_1
+    admin_name: U Minh Thượng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.15_1_Adm2:
+    GID: VNM.33.15_1
+    admin_name: Vĩnh Thuận
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.2_1_Adm2:
+    GID: VNM.33.2_1
+    admin_name: An Minh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.3_1_Adm2:
+    GID: VNM.33.3_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.4_1_Adm2:
+    GID: VNM.33.4_1
+    admin_name: Giồng Riềng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.5_1_Adm2:
+    GID: VNM.33.5_1
+    admin_name: Giang Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.6_1_Adm2:
+    GID: VNM.33.6_1
+    admin_name: Gò Quao
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.7_1_Adm2:
+    GID: VNM.33.7_1
+    admin_name: Hà Tiên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.8_1_Adm2:
+    GID: VNM.33.8_1
+    admin_name: Hòn Đất
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.33.9_1_Adm2:
+    GID: VNM.33.9_1
+    admin_name: Kiên Hải
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34_1_Adm1:
+    GID: VNM.34_1
+    admin_name: Kon Tum
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.34.1_1_Adm2:
+    GID: VNM.34.1_1
+    admin_name: Đắk Glei
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.10_1_Adm2:
+    GID: VNM.34.10_1
+    admin_name: Tu Mơ Rông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.2_1_Adm2:
+    GID: VNM.34.2_1
+    admin_name: Đắk Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.3_1_Adm2:
+    GID: VNM.34.3_1
+    admin_name: Đắk Tô
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.4_1_Adm2:
+    GID: VNM.34.4_1
+    admin_name: Ia H' Drai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.5_1_Adm2:
+    GID: VNM.34.5_1
+    admin_name: Kon Plông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.6_1_Adm2:
+    GID: VNM.34.6_1
+    admin_name: Kon Rẫy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.7_1_Adm2:
+    GID: VNM.34.7_1
+    admin_name: Kon Tum
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.8_1_Adm2:
+    GID: VNM.34.8_1
+    admin_name: Ngọc Hồi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.34.9_1_Adm2:
+    GID: VNM.34.9_1
+    admin_name: Sa Thầy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35_1_Adm1:
+    GID: VNM.35_1
+    admin_name: Lạng Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.35.1_1_Adm2:
+    GID: VNM.35.1_1
+    admin_name: Bắc Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.10_1_Adm2:
+    GID: VNM.35.10_1
+    admin_name: Văn Lãng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.11_1_Adm2:
+    GID: VNM.35.11_1
+    admin_name: Văn Quan
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.2_1_Adm2:
+    GID: VNM.35.2_1
+    admin_name: Bình Gia
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.3_1_Adm2:
+    GID: VNM.35.3_1
+    admin_name: Cao Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.4_1_Adm2:
+    GID: VNM.35.4_1
+    admin_name: Chi Lăng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.5_1_Adm2:
+    GID: VNM.35.5_1
+    admin_name: Đình Lập
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.6_1_Adm2:
+    GID: VNM.35.6_1
+    admin_name: Hữu Lũng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.7_1_Adm2:
+    GID: VNM.35.7_1
+    admin_name: Lạng Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.8_1_Adm2:
+    GID: VNM.35.8_1
+    admin_name: Lộc Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.35.9_1_Adm2:
+    GID: VNM.35.9_1
+    admin_name: Tràng Định
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.36_1_Adm1:
+    GID: VNM.36_1
+    admin_name: Lai Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.36.1_1_Adm2:
+    GID: VNM.36.1_1
+    admin_name: Lai Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.36.2_1_Adm2:
+    GID: VNM.36.2_1
+    admin_name: Mường Tè
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.36.3_1_Adm2:
+    GID: VNM.36.3_1
+    admin_name: Nậm Nhùn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.36.4_1_Adm2:
+    GID: VNM.36.4_1
+    admin_name: Phong Thổ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.36.5_1_Adm2:
+    GID: VNM.36.5_1
+    admin_name: Sìn Hồ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.36.6_1_Adm2:
+    GID: VNM.36.6_1
+    admin_name: Tam Đường
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.36.7_1_Adm2:
+    GID: VNM.36.7_1
+    admin_name: Tân Uyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.36.8_1_Adm2:
+    GID: VNM.36.8_1
+    admin_name: Than Uyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37_1_Adm1:
+    GID: VNM.37_1
+    admin_name: Lâm Đồng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.37.1_1_Adm2:
+    GID: VNM.37.1_1
+    admin_name: Bảo Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.10_1_Adm2:
+    GID: VNM.37.10_1
+    admin_name: Đơn Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.11_1_Adm2:
+    GID: VNM.37.11_1
+    admin_name: Lạc Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.12_1_Adm2:
+    GID: VNM.37.12_1
+    admin_name: Lâm Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.2_1_Adm2:
+    GID: VNM.37.2_1
+    admin_name: Bảo Lâm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.3_1_Adm2:
+    GID: VNM.37.3_1
+    admin_name: Cát Tiên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.4_1_Adm2:
+    GID: VNM.37.4_1
+    admin_name: Đạ Huoai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.5_1_Adm2:
+    GID: VNM.37.5_1
+    admin_name: Đạ Tẻh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.6_1_Adm2:
+    GID: VNM.37.6_1
+    admin_name: Đức Trọng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.7_1_Adm2:
+    GID: VNM.37.7_1
+    admin_name: Đà Lạt
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.8_1_Adm2:
+    GID: VNM.37.8_1
+    admin_name: Đam Rông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.37.9_1_Adm2:
+    GID: VNM.37.9_1
+    admin_name: Di Linh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38_1_Adm1:
+    GID: VNM.38_1
+    admin_name: Lào Cai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.38.1_1_Adm2:
+    GID: VNM.38.1_1
+    admin_name: Bảo Thắng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38.2_1_Adm2:
+    GID: VNM.38.2_1
+    admin_name: Bảo Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38.3_1_Adm2:
+    GID: VNM.38.3_1
+    admin_name: Bắc Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38.4_1_Adm2:
+    GID: VNM.38.4_1
+    admin_name: Bát Xát
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38.5_1_Adm2:
+    GID: VNM.38.5_1
+    admin_name: Lào Cai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38.6_1_Adm2:
+    GID: VNM.38.6_1
+    admin_name: Mường Khương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38.7_1_Adm2:
+    GID: VNM.38.7_1
+    admin_name: Sa Pa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38.8_1_Adm2:
+    GID: VNM.38.8_1
+    admin_name: Si Ma Cai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.38.9_1_Adm2:
+    GID: VNM.38.9_1
+    admin_name: Văn Bàn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39_1_Adm1:
+    GID: VNM.39_1
+    admin_name: Long An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.39.1_1_Adm2:
+    GID: VNM.39.1_1
+    admin_name: Bến Lức
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.10_1_Adm2:
+    GID: VNM.39.10_1
+    admin_name: Tân Hưng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.11_1_Adm2:
+    GID: VNM.39.11_1
+    admin_name: Tân Thạnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.12_1_Adm2:
+    GID: VNM.39.12_1
+    admin_name: Tân Trụ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.13_1_Adm2:
+    GID: VNM.39.13_1
+    admin_name: Thạnh Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.14_1_Adm2:
+    GID: VNM.39.14_1
+    admin_name: Thủ Thừa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.15_1_Adm2:
+    GID: VNM.39.15_1
+    admin_name: Vĩnh Hưng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.2_1_Adm2:
+    GID: VNM.39.2_1
+    admin_name: Cần Đước
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.3_1_Adm2:
+    GID: VNM.39.3_1
+    admin_name: Cần Giuộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.4_1_Adm2:
+    GID: VNM.39.4_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.5_1_Adm2:
+    GID: VNM.39.5_1
+    admin_name: Đức Hòa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.6_1_Adm2:
+    GID: VNM.39.6_1
+    admin_name: Đức Huệ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.7_1_Adm2:
+    GID: VNM.39.7_1
+    admin_name: Kiến Tường
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.8_1_Adm2:
+    GID: VNM.39.8_1
+    admin_name: Mộc Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.39.9_1_Adm2:
+    GID: VNM.39.9_1
+    admin_name: Tân An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.4_1_Adm1:
+    GID: VNM.4_1
+    admin_name: Bắc Kạn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.4.1_1_Adm2:
+    GID: VNM.4.1_1
+    admin_name: Bạch Thông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.4.2_1_Adm2:
+    GID: VNM.4.2_1
+    admin_name: Ba Bể
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.4.3_1_Adm2:
+    GID: VNM.4.3_1
+    admin_name: Chợ Đồn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.4.4_1_Adm2:
+    GID: VNM.4.4_1
+    admin_name: Chợ Mới
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.4.5_1_Adm2:
+    GID: VNM.4.5_1
+    admin_name: Na Rì
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.4.6_1_Adm2:
+    GID: VNM.4.6_1
+    admin_name: Ngân Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.4.7_1_Adm2:
+    GID: VNM.4.7_1
+    admin_name: Pác Nặm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.4.8_1_Adm2:
+    GID: VNM.4.8_1
+    admin_name: Thành Phố Bắc Kạn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40_1_Adm1:
+    GID: VNM.40_1
+    admin_name: Nam Định
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.40.1_1_Adm2:
+    GID: VNM.40.1_1
+    admin_name: Giao Thủy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.10_1_Adm2:
+    GID: VNM.40.10_1
+    admin_name: Ý Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.2_1_Adm2:
+    GID: VNM.40.2_1
+    admin_name: Hải Hậu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.3_1_Adm2:
+    GID: VNM.40.3_1
+    admin_name: Mỹ Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.4_1_Adm2:
+    GID: VNM.40.4_1
+    admin_name: Nam Định
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.5_1_Adm2:
+    GID: VNM.40.5_1
+    admin_name: Nam Trực
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.6_1_Adm2:
+    GID: VNM.40.6_1
+    admin_name: Nghĩa Hưng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.7_1_Adm2:
+    GID: VNM.40.7_1
+    admin_name: Trực Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.8_1_Adm2:
+    GID: VNM.40.8_1
+    admin_name: Vụ Bản
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.40.9_1_Adm2:
+    GID: VNM.40.9_1
+    admin_name: Xuân Trường
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41_1_Adm1:
+    GID: VNM.41_1
+    admin_name: Nghệ An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.41.1_1_Adm2:
+    GID: VNM.41.1_1
+    admin_name: Anh Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.10_1_Adm2:
+    GID: VNM.41.10_1
+    admin_name: Nghi Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.11_1_Adm2:
+    GID: VNM.41.11_1
+    admin_name: Nghĩa Đàn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.12_1_Adm2:
+    GID: VNM.41.12_1
+    admin_name: Quế Phong
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.13_1_Adm2:
+    GID: VNM.41.13_1
+    admin_name: Quỳ Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.14_1_Adm2:
+    GID: VNM.41.14_1
+    admin_name: Quỳ Hợp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.15_1_Adm2:
+    GID: VNM.41.15_1
+    admin_name: Quỳnh Lưu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.16_1_Adm2:
+    GID: VNM.41.16_1
+    admin_name: Tân Kỳ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.17_1_Adm2:
+    GID: VNM.41.17_1
+    admin_name: Thái Hoà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.18_1_Adm2:
+    GID: VNM.41.18_1
+    admin_name: Thanh Chương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.19_1_Adm2:
+    GID: VNM.41.19_1
+    admin_name: Tương Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.2_1_Adm2:
+    GID: VNM.41.2_1
+    admin_name: Cửa Lò
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.20_1_Adm2:
+    GID: VNM.41.20_1
+    admin_name: Vinh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.21_1_Adm2:
+    GID: VNM.41.21_1
+    admin_name: Yên Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.3_1_Adm2:
+    GID: VNM.41.3_1
+    admin_name: Con Cuông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.4_1_Adm2:
+    GID: VNM.41.4_1
+    admin_name: Diễn Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.5_1_Adm2:
+    GID: VNM.41.5_1
+    admin_name: Đô Lương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.6_1_Adm2:
+    GID: VNM.41.6_1
+    admin_name: Hoàng Mai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.7_1_Adm2:
+    GID: VNM.41.7_1
+    admin_name: Hưng Nguyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.8_1_Adm2:
+    GID: VNM.41.8_1
+    admin_name: Kỳ Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.41.9_1_Adm2:
+    GID: VNM.41.9_1
+    admin_name: Nam Đàn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.42_1_Adm1:
+    GID: VNM.42_1
+    admin_name: Ninh Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.42.1_1_Adm2:
+    GID: VNM.42.1_1
+    admin_name: Gia Viễn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.42.2_1_Adm2:
+    GID: VNM.42.2_1
+    admin_name: Hoa Lư
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.42.3_1_Adm2:
+    GID: VNM.42.3_1
+    admin_name: Kim Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.42.4_1_Adm2:
+    GID: VNM.42.4_1
+    admin_name: Nho Quan
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.42.5_1_Adm2:
+    GID: VNM.42.5_1
+    admin_name: Ninh Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.42.6_1_Adm2:
+    GID: VNM.42.6_1
+    admin_name: Tam Điệp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.42.7_1_Adm2:
+    GID: VNM.42.7_1
+    admin_name: Yên Khánh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.42.8_1_Adm2:
+    GID: VNM.42.8_1
+    admin_name: Yên Mô
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.43_1_Adm1:
+    GID: VNM.43_1
+    admin_name: Ninh Thuận
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.43.1_1_Adm2:
+    GID: VNM.43.1_1
+    admin_name: Bác Ái
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.43.2_1_Adm2:
+    GID: VNM.43.2_1
+    admin_name: Ninh Hải
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.43.3_1_Adm2:
+    GID: VNM.43.3_1
+    admin_name: Ninh Phước
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.43.4_1_Adm2:
+    GID: VNM.43.4_1
+    admin_name: Ninh Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.43.5_1_Adm2:
+    GID: VNM.43.5_1
+    admin_name: Phan Rang-Tháp Chàm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.43.6_1_Adm2:
+    GID: VNM.43.6_1
+    admin_name: Thuận Bắc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.43.7_1_Adm2:
+    GID: VNM.43.7_1
+    admin_name: Thuận Nam
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44_1_Adm1:
+    GID: VNM.44_1
+    admin_name: Phú Thọ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.44.1_1_Adm2:
+    GID: VNM.44.1_1
+    admin_name: Cẩm Khê
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.10_1_Adm2:
+    GID: VNM.44.10_1
+    admin_name: Thanh Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.11_1_Adm2:
+    GID: VNM.44.11_1
+    admin_name: Thanh Thuỷ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.12_1_Adm2:
+    GID: VNM.44.12_1
+    admin_name: Việt Trì
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.13_1_Adm2:
+    GID: VNM.44.13_1
+    admin_name: Yên Lập
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.2_1_Adm2:
+    GID: VNM.44.2_1
+    admin_name: Đoan Hùng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.3_1_Adm2:
+    GID: VNM.44.3_1
+    admin_name: Hạ Hoà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.4_1_Adm2:
+    GID: VNM.44.4_1
+    admin_name: Lâm Thao
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.5_1_Adm2:
+    GID: VNM.44.5_1
+    admin_name: Phù Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.6_1_Adm2:
+    GID: VNM.44.6_1
+    admin_name: Phú Thọ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.7_1_Adm2:
+    GID: VNM.44.7_1
+    admin_name: Tam Nông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.8_1_Adm2:
+    GID: VNM.44.8_1
+    admin_name: Tân Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.44.9_1_Adm2:
+    GID: VNM.44.9_1
+    admin_name: Thanh Ba
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45_1_Adm1:
+    GID: VNM.45_1
+    admin_name: Phú Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.45.1_1_Adm2:
+    GID: VNM.45.1_1
+    admin_name: Đồng Xuân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45.2_1_Adm2:
+    GID: VNM.45.2_1
+    admin_name: Đông Hòa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45.3_1_Adm2:
+    GID: VNM.45.3_1
+    admin_name: Phú Hoà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45.4_1_Adm2:
+    GID: VNM.45.4_1
+    admin_name: Sơn Hòa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45.5_1_Adm2:
+    GID: VNM.45.5_1
+    admin_name: Sông Cầu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45.6_1_Adm2:
+    GID: VNM.45.6_1
+    admin_name: Sông Hinh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45.7_1_Adm2:
+    GID: VNM.45.7_1
+    admin_name: Tây Hoà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45.8_1_Adm2:
+    GID: VNM.45.8_1
+    admin_name: Tuy An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.45.9_1_Adm2:
+    GID: VNM.45.9_1
+    admin_name: Tuy Hoà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.46_1_Adm1:
+    GID: VNM.46_1
+    admin_name: Quảng Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.46.1_1_Adm2:
+    GID: VNM.46.1_1
+    admin_name: Bố Trạch
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.46.2_1_Adm2:
+    GID: VNM.46.2_1
+    admin_name: Ba Đồn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.46.3_1_Adm2:
+    GID: VNM.46.3_1
+    admin_name: Lệ Thủy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.46.4_1_Adm2:
+    GID: VNM.46.4_1
+    admin_name: Minh Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.46.5_1_Adm2:
+    GID: VNM.46.5_1
+    admin_name: Quảng Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.46.6_1_Adm2:
+    GID: VNM.46.6_1
+    admin_name: Quảng Trạch
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.46.7_1_Adm2:
+    GID: VNM.46.7_1
+    admin_name: Thành Phố Đồng Hới
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.46.8_1_Adm2:
+    GID: VNM.46.8_1
+    admin_name: Tuyên Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47_1_Adm1:
+    GID: VNM.47_1
+    admin_name: Quảng Nam
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.47.1_1_Adm2:
+    GID: VNM.47.1_1
+    admin_name: Bắc Trà My
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.10_1_Adm2:
+    GID: VNM.47.10_1
+    admin_name: Nông Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.11_1_Adm2:
+    GID: VNM.47.11_1
+    admin_name: Núi Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.12_1_Adm2:
+    GID: VNM.47.12_1
+    admin_name: Phú Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.13_1_Adm2:
+    GID: VNM.47.13_1
+    admin_name: Phước Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.14_1_Adm2:
+    GID: VNM.47.14_1
+    admin_name: Quế Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.15_1_Adm2:
+    GID: VNM.47.15_1
+    admin_name: Tam Kỳ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.16_1_Adm2:
+    GID: VNM.47.16_1
+    admin_name: Tây Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.17_1_Adm2:
+    GID: VNM.47.17_1
+    admin_name: Thăng Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.18_1_Adm2:
+    GID: VNM.47.18_1
+    admin_name: Tiên Phước
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.2_1_Adm2:
+    GID: VNM.47.2_1
+    admin_name: Đại Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.3_1_Adm2:
+    GID: VNM.47.3_1
+    admin_name: Điện Bàn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.4_1_Adm2:
+    GID: VNM.47.4_1
+    admin_name: Đông Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.5_1_Adm2:
+    GID: VNM.47.5_1
+    admin_name: Duy Xuyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.6_1_Adm2:
+    GID: VNM.47.6_1
+    admin_name: Hội An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.7_1_Adm2:
+    GID: VNM.47.7_1
+    admin_name: Hiệp Đức
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.8_1_Adm2:
+    GID: VNM.47.8_1
+    admin_name: Nam Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.47.9_1_Adm2:
+    GID: VNM.47.9_1
+    admin_name: Nam Trà My
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48_1_Adm1:
+    GID: VNM.48_1
+    admin_name: Quảng Ngãi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.48.1_1_Adm2:
+    GID: VNM.48.1_1
+    admin_name: Ba Tơ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.10_1_Adm2:
+    GID: VNM.48.10_1
+    admin_name: Sơn Tịnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.11_1_Adm2:
+    GID: VNM.48.11_1
+    admin_name: Sơn Tây
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.12_1_Adm2:
+    GID: VNM.48.12_1
+    admin_name: Tây Trà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.13_1_Adm2:
+    GID: VNM.48.13_1
+    admin_name: Trà Bồng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.14_1_Adm2:
+    GID: VNM.48.14_1
+    admin_name: Tư Nghĩa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.2_1_Adm2:
+    GID: VNM.48.2_1
+    admin_name: Bình Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.3_1_Adm2:
+    GID: VNM.48.3_1
+    admin_name: Đức Phổ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.4_1_Adm2:
+    GID: VNM.48.4_1
+    admin_name: Lý Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.5_1_Adm2:
+    GID: VNM.48.5_1
+    admin_name: Mộ Đức
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.6_1_Adm2:
+    GID: VNM.48.6_1
+    admin_name: Minh Long
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.7_1_Adm2:
+    GID: VNM.48.7_1
+    admin_name: Nghĩa Hành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.8_1_Adm2:
+    GID: VNM.48.8_1
+    admin_name: Quảng Ngãi
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.48.9_1_Adm2:
+    GID: VNM.48.9_1
+    admin_name: Sơn Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49_1_Adm1:
+    GID: VNM.49_1
+    admin_name: Quảng Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.49.1_1_Adm2:
+    GID: VNM.49.1_1
+    admin_name: Ba Chẽ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.10_1_Adm2:
+    GID: VNM.49.10_1
+    admin_name: Móng Cái
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.11_1_Adm2:
+    GID: VNM.49.11_1
+    admin_name: Quảng Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.12_1_Adm2:
+    GID: VNM.49.12_1
+    admin_name: Tiên Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.13_1_Adm2:
+    GID: VNM.49.13_1
+    admin_name: Uông Bí
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.14_1_Adm2:
+    GID: VNM.49.14_1
+    admin_name: Vân Đồn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.2_1_Adm2:
+    GID: VNM.49.2_1
+    admin_name: Bình Liêu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.3_1_Adm2:
+    GID: VNM.49.3_1
+    admin_name: Cẩm Phả
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.4_1_Adm2:
+    GID: VNM.49.4_1
+    admin_name: Cô Tô
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.5_1_Adm2:
+    GID: VNM.49.5_1
+    admin_name: Đầm Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.6_1_Adm2:
+    GID: VNM.49.6_1
+    admin_name: Đông Triều
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.7_1_Adm2:
+    GID: VNM.49.7_1
+    admin_name: Hạ Long
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.8_1_Adm2:
+    GID: VNM.49.8_1
+    admin_name: Hải Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.49.9_1_Adm2:
+    GID: VNM.49.9_1
+    admin_name: Hoành Bồ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.5_1_Adm1:
+    GID: VNM.5_1
+    admin_name: Bắc Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.5.1_1_Adm2:
+    GID: VNM.5.1_1
+    admin_name: Bắc Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.5.2_1_Adm2:
+    GID: VNM.5.2_1
+    admin_name: Gia Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.5.3_1_Adm2:
+    GID: VNM.5.3_1
+    admin_name: Lương Tài
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.5.4_1_Adm2:
+    GID: VNM.5.4_1
+    admin_name: Quế Võ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.5.5_1_Adm2:
+    GID: VNM.5.5_1
+    admin_name: Từ Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.5.6_1_Adm2:
+    GID: VNM.5.6_1
+    admin_name: Thuận Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.5.7_1_Adm2:
+    GID: VNM.5.7_1
+    admin_name: Tiên Du
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.5.8_1_Adm2:
+    GID: VNM.5.8_1
+    admin_name: Yên Phong
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50_1_Adm1:
+    GID: VNM.50_1
+    admin_name: Quảng Trị
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.50.1_1_Adm2:
+    GID: VNM.50.1_1
+    admin_name: Cồn Cỏ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.10_1_Adm2:
+    GID: VNM.50.10_1
+    admin_name: Vĩnh Linh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.2_1_Adm2:
+    GID: VNM.50.2_1
+    admin_name: Cam Lộ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.3_1_Adm2:
+    GID: VNM.50.3_1
+    admin_name: Đa Krông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.4_1_Adm2:
+    GID: VNM.50.4_1
+    admin_name: Đông Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.5_1_Adm2:
+    GID: VNM.50.5_1
+    admin_name: Gio Linh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.6_1_Adm2:
+    GID: VNM.50.6_1
+    admin_name: Hải Lăng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.7_1_Adm2:
+    GID: VNM.50.7_1
+    admin_name: Hướng Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.8_1_Adm2:
+    GID: VNM.50.8_1
+    admin_name: Quảng Trị
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.50.9_1_Adm2:
+    GID: VNM.50.9_1
+    admin_name: Triệu Phong
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51_1_Adm1:
+    GID: VNM.51_1
+    admin_name: Sóc Trăng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.51.1_1_Adm2:
+    GID: VNM.51.1_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.10_1_Adm2:
+    GID: VNM.51.10_1
+    admin_name: Trần Đề
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.11_1_Adm2:
+    GID: VNM.51.11_1
+    admin_name: Vĩnh Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.2_1_Adm2:
+    GID: VNM.51.2_1
+    admin_name: Cù Lao Dung
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.3_1_Adm2:
+    GID: VNM.51.3_1
+    admin_name: Kế Sách
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.4_1_Adm2:
+    GID: VNM.51.4_1
+    admin_name: Long Phú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.5_1_Adm2:
+    GID: VNM.51.5_1
+    admin_name: Mỹ Tú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.6_1_Adm2:
+    GID: VNM.51.6_1
+    admin_name: Mỹ Xuyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.7_1_Adm2:
+    GID: VNM.51.7_1
+    admin_name: Ngã Năm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.8_1_Adm2:
+    GID: VNM.51.8_1
+    admin_name: Sóc Trăng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.51.9_1_Adm2:
+    GID: VNM.51.9_1
+    admin_name: Thạnh Trị
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52_1_Adm1:
+    GID: VNM.52_1
+    admin_name: Sơn La
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.52.1_1_Adm2:
+    GID: VNM.52.1_1
+    admin_name: Bắc Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.10_1_Adm2:
+    GID: VNM.52.10_1
+    admin_name: Thuận Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.11_1_Adm2:
+    GID: VNM.52.11_1
+    admin_name: Vân Hồ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.12_1_Adm2:
+    GID: VNM.52.12_1
+    admin_name: Yên Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.2_1_Adm2:
+    GID: VNM.52.2_1
+    admin_name: Mộc Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.3_1_Adm2:
+    GID: VNM.52.3_1
+    admin_name: Mai Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.4_1_Adm2:
+    GID: VNM.52.4_1
+    admin_name: Mường La
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.5_1_Adm2:
+    GID: VNM.52.5_1
+    admin_name: Phù Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.6_1_Adm2:
+    GID: VNM.52.6_1
+    admin_name: Quỳnh Nhai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.7_1_Adm2:
+    GID: VNM.52.7_1
+    admin_name: Sốp Cộp
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.8_1_Adm2:
+    GID: VNM.52.8_1
+    admin_name: Sơn La
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.52.9_1_Adm2:
+    GID: VNM.52.9_1
+    admin_name: Sông Mã
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53_1_Adm1:
+    GID: VNM.53_1
+    admin_name: Tây Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.53.1_1_Adm2:
+    GID: VNM.53.1_1
+    admin_name: Bến Cầu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53.2_1_Adm2:
+    GID: VNM.53.2_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53.3_1_Adm2:
+    GID: VNM.53.3_1
+    admin_name: Dương Minh Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53.4_1_Adm2:
+    GID: VNM.53.4_1
+    admin_name: Gò Dầu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53.5_1_Adm2:
+    GID: VNM.53.5_1
+    admin_name: Hòa Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53.6_1_Adm2:
+    GID: VNM.53.6_1
+    admin_name: Tân Biên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53.7_1_Adm2:
+    GID: VNM.53.7_1
+    admin_name: Tân Châu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53.8_1_Adm2:
+    GID: VNM.53.8_1
+    admin_name: Tây Ninh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.53.9_1_Adm2:
+    GID: VNM.53.9_1
+    admin_name: Trảng Bàng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54_1_Adm1:
+    GID: VNM.54_1
+    admin_name: Thừa Thiên Huế
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.54.1_1_Adm2:
+    GID: VNM.54.1_1
+    admin_name: A Lưới
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54.2_1_Adm2:
+    GID: VNM.54.2_1
+    admin_name: Huế
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54.3_1_Adm2:
+    GID: VNM.54.3_1
+    admin_name: Hương Thủy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54.4_1_Adm2:
+    GID: VNM.54.4_1
+    admin_name: Hương Trà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54.5_1_Adm2:
+    GID: VNM.54.5_1
+    admin_name: Nam Đông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54.6_1_Adm2:
+    GID: VNM.54.6_1
+    admin_name: Phong Điền
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54.7_1_Adm2:
+    GID: VNM.54.7_1
+    admin_name: Phú Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54.8_1_Adm2:
+    GID: VNM.54.8_1
+    admin_name: Phú Vang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.54.9_1_Adm2:
+    GID: VNM.54.9_1
+    admin_name: Quảng Điền
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.55_1_Adm1:
+    GID: VNM.55_1
+    admin_name: Thái Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.55.1_1_Adm2:
+    GID: VNM.55.1_1
+    admin_name: Đông Hưng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.55.2_1_Adm2:
+    GID: VNM.55.2_1
+    admin_name: Hưng Hà
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.55.3_1_Adm2:
+    GID: VNM.55.3_1
+    admin_name: Kiến Xương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.55.4_1_Adm2:
+    GID: VNM.55.4_1
+    admin_name: Quỳnh Phụ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.55.5_1_Adm2:
+    GID: VNM.55.5_1
+    admin_name: Thái Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.55.6_1_Adm2:
+    GID: VNM.55.6_1
+    admin_name: Thái Thụy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.55.7_1_Adm2:
+    GID: VNM.55.7_1
+    admin_name: Tiền Hải
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.55.8_1_Adm2:
+    GID: VNM.55.8_1
+    admin_name: Vũ Thư
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56_1_Adm1:
+    GID: VNM.56_1
+    admin_name: Thái Nguyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.56.1_1_Adm2:
+    GID: VNM.56.1_1
+    admin_name: Đại Từ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56.2_1_Adm2:
+    GID: VNM.56.2_1
+    admin_name: Định Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56.3_1_Adm2:
+    GID: VNM.56.3_1
+    admin_name: Đồng Hỷ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56.4_1_Adm2:
+    GID: VNM.56.4_1
+    admin_name: Phổ Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56.5_1_Adm2:
+    GID: VNM.56.5_1
+    admin_name: Phú Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56.6_1_Adm2:
+    GID: VNM.56.6_1
+    admin_name: Phú Lương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56.7_1_Adm2:
+    GID: VNM.56.7_1
+    admin_name: Sông Công
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56.8_1_Adm2:
+    GID: VNM.56.8_1
+    admin_name: Thái Nguyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.56.9_1_Adm2:
+    GID: VNM.56.9_1
+    admin_name: Võ Nhai
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57_1_Adm1:
+    GID: VNM.57_1
+    admin_name: Thanh Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.57.1_1_Adm2:
+    GID: VNM.57.1_1
+    admin_name: Bỉm Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.10_1_Adm2:
+    GID: VNM.57.10_1
+    admin_name: Ngọc Lặc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.11_1_Adm2:
+    GID: VNM.57.11_1
+    admin_name: Nga Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.12_1_Adm2:
+    GID: VNM.57.12_1
+    admin_name: Như Thanh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.13_1_Adm2:
+    GID: VNM.57.13_1
+    admin_name: Như Xuân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.14_1_Adm2:
+    GID: VNM.57.14_1
+    admin_name: Nông Cống
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.15_1_Adm2:
+    GID: VNM.57.15_1
+    admin_name: Quảng Xương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.16_1_Adm2:
+    GID: VNM.57.16_1
+    admin_name: Quan Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.17_1_Adm2:
+    GID: VNM.57.17_1
+    admin_name: Quan Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.18_1_Adm2:
+    GID: VNM.57.18_1
+    admin_name: Sầm Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.19_1_Adm2:
+    GID: VNM.57.19_1
+    admin_name: Thạch Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.2_1_Adm2:
+    GID: VNM.57.2_1
+    admin_name: Bá Thước
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.20_1_Adm2:
+    GID: VNM.57.20_1
+    admin_name: Thọ Xuân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.21_1_Adm2:
+    GID: VNM.57.21_1
+    admin_name: Thanh Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.22_1_Adm2:
+    GID: VNM.57.22_1
+    admin_name: Thiệu Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.23_1_Adm2:
+    GID: VNM.57.23_1
+    admin_name: Thường Xuân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.24_1_Adm2:
+    GID: VNM.57.24_1
+    admin_name: Tĩnh Gia
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.25_1_Adm2:
+    GID: VNM.57.25_1
+    admin_name: Triệu Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.26_1_Adm2:
+    GID: VNM.57.26_1
+    admin_name: Vĩnh Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.27_1_Adm2:
+    GID: VNM.57.27_1
+    admin_name: Yên Định
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.3_1_Adm2:
+    GID: VNM.57.3_1
+    admin_name: Cẩm Thủy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.4_1_Adm2:
+    GID: VNM.57.4_1
+    admin_name: Đông Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.5_1_Adm2:
+    GID: VNM.57.5_1
+    admin_name: Hậu Lộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.6_1_Adm2:
+    GID: VNM.57.6_1
+    admin_name: Hà Trung
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.7_1_Adm2:
+    GID: VNM.57.7_1
+    admin_name: Hoằng Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.8_1_Adm2:
+    GID: VNM.57.8_1
+    admin_name: Lang Chánh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.57.9_1_Adm2:
+    GID: VNM.57.9_1
+    admin_name: Mường Lát
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58_1_Adm1:
+    GID: VNM.58_1
+    admin_name: Tiền Giang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.58.1_1_Adm2:
+    GID: VNM.58.1_1
+    admin_name: Cái Bè
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.10_1_Adm2:
+    GID: VNM.58.10_1
+    admin_name: Tân Phú Đông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.11_1_Adm2:
+    GID: VNM.58.11_1
+    admin_name: Tân Phước
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.2_1_Adm2:
+    GID: VNM.58.2_1
+    admin_name: Cai Lậy (Thị xã)
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.3_1_Adm2:
+    GID: VNM.58.3_1
+    admin_name: Cai Lậy
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.4_1_Adm2:
+    GID: VNM.58.4_1
+    admin_name: Chợ Gạo
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.5_1_Adm2:
+    GID: VNM.58.5_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.6_1_Adm2:
+    GID: VNM.58.6_1
+    admin_name: Gò Công Đông
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.7_1_Adm2:
+    GID: VNM.58.7_1
+    admin_name: Gò Công Tây
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.8_1_Adm2:
+    GID: VNM.58.8_1
+    admin_name: Gò Công
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.58.9_1_Adm2:
+    GID: VNM.58.9_1
+    admin_name: Mỹ Tho
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59_1_Adm1:
+    GID: VNM.59_1
+    admin_name: Trà Vinh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.59.1_1_Adm2:
+    GID: VNM.59.1_1
+    admin_name: Cầu Kè
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59.2_1_Adm2:
+    GID: VNM.59.2_1
+    admin_name: Cầu Ngang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59.3_1_Adm2:
+    GID: VNM.59.3_1
+    admin_name: Càng Long
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59.4_1_Adm2:
+    GID: VNM.59.4_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59.5_1_Adm2:
+    GID: VNM.59.5_1
+    admin_name: Duyên Hải (Thị xã)
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59.6_1_Adm2:
+    GID: VNM.59.6_1
+    admin_name: Duyên Hải
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59.7_1_Adm2:
+    GID: VNM.59.7_1
+    admin_name: Tiểu Cần
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59.8_1_Adm2:
+    GID: VNM.59.8_1
+    admin_name: Trà Cú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.59.9_1_Adm2:
+    GID: VNM.59.9_1
+    admin_name: Trà Vinh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6_1_Adm1:
+    GID: VNM.6_1
+    admin_name: Bến Tre
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.6.1_1_Adm2:
+    GID: VNM.6.1_1
+    admin_name: Bến Tre
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6.2_1_Adm2:
+    GID: VNM.6.2_1
+    admin_name: Ba Tri
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6.3_1_Adm2:
+    GID: VNM.6.3_1
+    admin_name: Bình Đại
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6.4_1_Adm2:
+    GID: VNM.6.4_1
+    admin_name: Chợ Lách
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6.5_1_Adm2:
+    GID: VNM.6.5_1
+    admin_name: Châu Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6.6_1_Adm2:
+    GID: VNM.6.6_1
+    admin_name: Giồng Trôm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6.7_1_Adm2:
+    GID: VNM.6.7_1
+    admin_name: Mỏ Cày Bắc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6.8_1_Adm2:
+    GID: VNM.6.8_1
+    admin_name: Mỏ Cày Nam
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.6.9_1_Adm2:
+    GID: VNM.6.9_1
+    admin_name: Thạnh Phú
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.60_1_Adm1:
+    GID: VNM.60_1
+    admin_name: Tuyên Quang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.60.1_1_Adm2:
+    GID: VNM.60.1_1
+    admin_name: Chiêm Hóa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.60.2_1_Adm2:
+    GID: VNM.60.2_1
+    admin_name: Hàm Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.60.3_1_Adm2:
+    GID: VNM.60.3_1
+    admin_name: Lâm Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.60.4_1_Adm2:
+    GID: VNM.60.4_1
+    admin_name: Nà Hang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.60.5_1_Adm2:
+    GID: VNM.60.5_1
+    admin_name: Sơn Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.60.6_1_Adm2:
+    GID: VNM.60.6_1
+    admin_name: Tuyên Quang
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.60.7_1_Adm2:
+    GID: VNM.60.7_1
+    admin_name: Yên Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.61_1_Adm1:
+    GID: VNM.61_1
+    admin_name: Vĩnh Long
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.61.1_1_Adm2:
+    GID: VNM.61.1_1
+    admin_name: Bình Minh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.61.2_1_Adm2:
+    GID: VNM.61.2_1
+    admin_name: Bình Tân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.61.3_1_Adm2:
+    GID: VNM.61.3_1
+    admin_name: Long Hồ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.61.4_1_Adm2:
+    GID: VNM.61.4_1
+    admin_name: Mang Thít
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.61.5_1_Adm2:
+    GID: VNM.61.5_1
+    admin_name: Tam Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.61.6_1_Adm2:
+    GID: VNM.61.6_1
+    admin_name: Trà Ôn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.61.7_1_Adm2:
+    GID: VNM.61.7_1
+    admin_name: Vĩnh Long
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.61.8_1_Adm2:
+    GID: VNM.61.8_1
+    admin_name: Vũng Liêm
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62_1_Adm1:
+    GID: VNM.62_1
+    admin_name: Vĩnh Phúc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.62.1_1_Adm2:
+    GID: VNM.62.1_1
+    admin_name: Bình Xuyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62.2_1_Adm2:
+    GID: VNM.62.2_1
+    admin_name: Lập Thạch
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62.3_1_Adm2:
+    GID: VNM.62.3_1
+    admin_name: Phúc Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62.4_1_Adm2:
+    GID: VNM.62.4_1
+    admin_name: Sông Lô
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62.5_1_Adm2:
+    GID: VNM.62.5_1
+    admin_name: Tam Đảo
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62.6_1_Adm2:
+    GID: VNM.62.6_1
+    admin_name: Tam Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62.7_1_Adm2:
+    GID: VNM.62.7_1
+    admin_name: Vĩnh Tường
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62.8_1_Adm2:
+    GID: VNM.62.8_1
+    admin_name: Vĩnh Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.62.9_1_Adm2:
+    GID: VNM.62.9_1
+    admin_name: Yên Lạc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63_1_Adm1:
+    GID: VNM.63_1
+    admin_name: Yên Bái
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.63.1_1_Adm2:
+    GID: VNM.63.1_1
+    admin_name: Lục Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63.2_1_Adm2:
+    GID: VNM.63.2_1
+    admin_name: Mù Căng Chải
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63.3_1_Adm2:
+    GID: VNM.63.3_1
+    admin_name: Nghĩa Lộ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63.4_1_Adm2:
+    GID: VNM.63.4_1
+    admin_name: Trạm Tấu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63.5_1_Adm2:
+    GID: VNM.63.5_1
+    admin_name: Trấn Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63.6_1_Adm2:
+    GID: VNM.63.6_1
+    admin_name: Văn Chấn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63.7_1_Adm2:
+    GID: VNM.63.7_1
+    admin_name: Văn Yên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63.8_1_Adm2:
+    GID: VNM.63.8_1
+    admin_name: Yên Bái
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.63.9_1_Adm2:
+    GID: VNM.63.9_1
+    admin_name: Yên Bình
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.7_1_Adm1:
+    GID: VNM.7_1
+    admin_name: Bà Rịa - Vũng Tàu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.7.1_1_Adm2:
+    GID: VNM.7.1_1
+    admin_name: Bà Rịa
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.7.2_1_Adm2:
+    GID: VNM.7.2_1
+    admin_name: Châu Đức
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.7.3_1_Adm2:
+    GID: VNM.7.3_1
+    admin_name: Đất Đỏ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.7.4_1_Adm2:
+    GID: VNM.7.4_1
+    admin_name: Long Điền
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.7.5_1_Adm2:
+    GID: VNM.7.5_1
+    admin_name: Tân Thành
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.7.6_1_Adm2:
+    GID: VNM.7.6_1
+    admin_name: Vũng Tàu
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.7.7_1_Adm2:
+    GID: VNM.7.7_1
+    admin_name: Xuyên Mộc
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8_1_Adm1:
+    GID: VNM.8_1
+    admin_name: Bình Định
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.8.1_1_Adm2:
+    GID: VNM.8.1_1
+    admin_name: An Lão
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.10_1_Adm2:
+    GID: VNM.8.10_1
+    admin_name: Vân Canh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.11_1_Adm2:
+    GID: VNM.8.11_1
+    admin_name: Vĩnh Thạnh
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.2_1_Adm2:
+    GID: VNM.8.2_1
+    admin_name: An Nhơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.3_1_Adm2:
+    GID: VNM.8.3_1
+    admin_name: Hoài Ân
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.4_1_Adm2:
+    GID: VNM.8.4_1
+    admin_name: Hoài Nhơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.5_1_Adm2:
+    GID: VNM.8.5_1
+    admin_name: Phù Cát
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.6_1_Adm2:
+    GID: VNM.8.6_1
+    admin_name: Phù Mỹ
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.7_1_Adm2:
+    GID: VNM.8.7_1
+    admin_name: Qui Nhơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.8_1_Adm2:
+    GID: VNM.8.8_1
+    admin_name: Tây Sơn
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.8.9_1_Adm2:
+    GID: VNM.8.9_1
+    admin_name: Tuy Phước
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9_1_Adm1:
+    GID: VNM.9_1
+    admin_name: Bình Dương
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm1
+  VNM.9.1_1_Adm2:
+    GID: VNM.9.1_1
+    admin_name: Bắc Tân Uyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9.2_1_Adm2:
+    GID: VNM.9.2_1
+    admin_name: Bến Cát
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9.3_1_Adm2:
+    GID: VNM.9.3_1
+    admin_name: Bàu Bàng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9.4_1_Adm2:
+    GID: VNM.9.4_1
+    admin_name: Dầu Tiếng
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9.5_1_Adm2:
+    GID: VNM.9.5_1
+    admin_name: Dĩ An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9.6_1_Adm2:
+    GID: VNM.9.6_1
+    admin_name: Phú Giáo
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9.7_1_Adm2:
+    GID: VNM.9.7_1
+    admin_name: Tân Uyên
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9.8_1_Adm2:
+    GID: VNM.9.8_1
+    admin_name: Thủ Dầu Một
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2
+  VNM.9.9_1_Adm2:
+    GID: VNM.9.9_1
+    admin_name: Thuận An
+    iso3c: VNM
+    country_name: Vietnam
+    admin_level: Adm2

@@ -1,0 +1,115 @@
+concepts:
+  SLE.0_Adm0:
+    GID: SLE
+    admin_name: Sierra Leone
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm0
+  SLE.1_1_Adm1:
+    GID: SLE.1_1
+    admin_name: Eastern
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm1
+  SLE.1.1_1_Adm2:
+    GID: SLE.1.1_1
+    admin_name: Kailahun
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.1.2_1_Adm2:
+    GID: SLE.1.2_1
+    admin_name: Kenema
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.1.3_1_Adm2:
+    GID: SLE.1.3_1
+    admin_name: Kono
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.2_1_Adm1:
+    GID: SLE.2_1
+    admin_name: Northern
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm1
+  SLE.2.1_1_Adm2:
+    GID: SLE.2.1_1
+    admin_name: Bombali
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.2.2_1_Adm2:
+    GID: SLE.2.2_1
+    admin_name: Kambia
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.2.3_1_Adm2:
+    GID: SLE.2.3_1
+    admin_name: Koinadugu
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.2.4_1_Adm2:
+    GID: SLE.2.4_1
+    admin_name: Port Loko
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.2.5_1_Adm2:
+    GID: SLE.2.5_1
+    admin_name: Tonkolili
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.3_1_Adm1:
+    GID: SLE.3_1
+    admin_name: Southern
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm1
+  SLE.3.1_1_Adm2:
+    GID: SLE.3.1_1
+    admin_name: Bo
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.3.2_1_Adm2:
+    GID: SLE.3.2_1
+    admin_name: Bonthe
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.3.3_1_Adm2:
+    GID: SLE.3.3_1
+    admin_name: Moyamba
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.3.4_1_Adm2:
+    GID: SLE.3.4_1
+    admin_name: Pujehun
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.4_1_Adm1:
+    GID: SLE.4_1
+    admin_name: Western
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm1
+  SLE.4.1_1_Adm2:
+    GID: SLE.4.1_1
+    admin_name: Western Rural
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2
+  SLE.4.2_1_Adm2:
+    GID: SLE.4.2_1
+    admin_name: Western Urban
+    iso3c: SLE
+    country_name: Sierra Leone
+    admin_level: Adm2

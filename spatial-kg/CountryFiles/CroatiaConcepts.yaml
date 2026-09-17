@@ -1,0 +1,3493 @@
+concepts:
+  HRV.0_Adm0:
+    GID: HRV
+    admin_name: Croatia
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm0
+  HRV.1_1_Adm1:
+    GID: HRV.1_1
+    admin_name: Bjelovarska-Bilogorska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.1.1_1_Adm2:
+    GID: HRV.1.1_1
+    admin_name: Berek
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.10_1_Adm2:
+    GID: HRV.1.10_1
+    admin_name: Ivanska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.11_1_Adm2:
+    GID: HRV.1.11_1
+    admin_name: Kapela
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.12_1_Adm2:
+    GID: HRV.1.12_1
+    admin_name: Končanica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.13_1_Adm2:
+    GID: HRV.1.13_1
+    admin_name: Nova Rača
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.14_1_Adm2:
+    GID: HRV.1.14_1
+    admin_name: Rovišće
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.15_1_Adm2:
+    GID: HRV.1.15_1
+    admin_name: Šandrovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.16_1_Adm2:
+    GID: HRV.1.16_1
+    admin_name: Severin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.17_1_Adm2:
+    GID: HRV.1.17_1
+    admin_name: Sirač
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.18_1_Adm2:
+    GID: HRV.1.18_1
+    admin_name: Štefanje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.19_1_Adm2:
+    GID: HRV.1.19_1
+    admin_name: Velika Pisanica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.2_1_Adm2:
+    GID: HRV.1.2_1
+    admin_name: Bjelovar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.20_1_Adm2:
+    GID: HRV.1.20_1
+    admin_name: Velika Trnovitica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.21_1_Adm2:
+    GID: HRV.1.21_1
+    admin_name: Veliki Grđevac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.22_1_Adm2:
+    GID: HRV.1.22_1
+    admin_name: Veliko Trojstvo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.23_1_Adm2:
+    GID: HRV.1.23_1
+    admin_name: Zrinski Topolovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.3_1_Adm2:
+    GID: HRV.1.3_1
+    admin_name: Čazma
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.4_1_Adm2:
+    GID: HRV.1.4_1
+    admin_name: Daruvar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.5_1_Adm2:
+    GID: HRV.1.5_1
+    admin_name: Dežanovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.6_1_Adm2:
+    GID: HRV.1.6_1
+    admin_name: Đulovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.7_1_Adm2:
+    GID: HRV.1.7_1
+    admin_name: Garešnica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.8_1_Adm2:
+    GID: HRV.1.8_1
+    admin_name: Grubišno Polje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.1.9_1_Adm2:
+    GID: HRV.1.9_1
+    admin_name: Hercegovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10_1_Adm1:
+    GID: HRV.10_1
+    admin_name: Medimurska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.10.1_1_Adm2:
+    GID: HRV.10.1_1
+    admin_name: Belica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.10_1_Adm2:
+    GID: HRV.10.10_1
+    admin_name: Kotoriba
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.11_1_Adm2:
+    GID: HRV.10.11_1
+    admin_name: Mala Subotica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.12_1_Adm2:
+    GID: HRV.10.12_1
+    admin_name: Mursko Središće
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.13_1_Adm2:
+    GID: HRV.10.13_1
+    admin_name: Nedelišće
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.14_1_Adm2:
+    GID: HRV.10.14_1
+    admin_name: Orehovica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.15_1_Adm2:
+    GID: HRV.10.15_1
+    admin_name: Podturen
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.16_1_Adm2:
+    GID: HRV.10.16_1
+    admin_name: Prelog
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.17_1_Adm2:
+    GID: HRV.10.17_1
+    admin_name: Pribislavec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.18_1_Adm2:
+    GID: HRV.10.18_1
+    admin_name: Selnica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.19_1_Adm2:
+    GID: HRV.10.19_1
+    admin_name: Šenkovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.2_1_Adm2:
+    GID: HRV.10.2_1
+    admin_name: Čakovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.20_1_Adm2:
+    GID: HRV.10.20_1
+    admin_name: Strahoninec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.21_1_Adm2:
+    GID: HRV.10.21_1
+    admin_name: Štrigova
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.22_1_Adm2:
+    GID: HRV.10.22_1
+    admin_name: Sveta Marija na Muri
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.23_1_Adm2:
+    GID: HRV.10.23_1
+    admin_name: Sveti Juraj na Bregu
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.24_1_Adm2:
+    GID: HRV.10.24_1
+    admin_name: Sveti Martin na Muri
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.25_1_Adm2:
+    GID: HRV.10.25_1
+    admin_name: Vratišinec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.3_1_Adm2:
+    GID: HRV.10.3_1
+    admin_name: Dekanovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.4_1_Adm2:
+    GID: HRV.10.4_1
+    admin_name: Domašinec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.5_1_Adm2:
+    GID: HRV.10.5_1
+    admin_name: Donja Dubrava
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.6_1_Adm2:
+    GID: HRV.10.6_1
+    admin_name: Donji Kraljevec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.7_1_Adm2:
+    GID: HRV.10.7_1
+    admin_name: Donji Vidovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.8_1_Adm2:
+    GID: HRV.10.8_1
+    admin_name: Goričan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.10.9_1_Adm2:
+    GID: HRV.10.9_1
+    admin_name: Gornji Mihaljevec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11_1_Adm1:
+    GID: HRV.11_1
+    admin_name: Osjecko-Baranjska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.11.1_1_Adm2:
+    GID: HRV.11.1_1
+    admin_name: Antunovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.10_1_Adm2:
+    GID: HRV.11.10_1
+    admin_name: Donja Motičina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.11_1_Adm2:
+    GID: HRV.11.11_1
+    admin_name: Donji Miholjac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.12_1_Adm2:
+    GID: HRV.11.12_1
+    admin_name: Draž
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.13_1_Adm2:
+    GID: HRV.11.13_1
+    admin_name: Drenje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.14_1_Adm2:
+    GID: HRV.11.14_1
+    admin_name: Đurđenovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.15_1_Adm2:
+    GID: HRV.11.15_1
+    admin_name: Erdut
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.16_1_Adm2:
+    GID: HRV.11.16_1
+    admin_name: Ernestinovo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.17_1_Adm2:
+    GID: HRV.11.17_1
+    admin_name: Feričanci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.18_1_Adm2:
+    GID: HRV.11.18_1
+    admin_name: Gorjani
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.19_1_Adm2:
+    GID: HRV.11.19_1
+    admin_name: Jagodnjak
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.2_1_Adm2:
+    GID: HRV.11.2_1
+    admin_name: Beli Manastir
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.20_1_Adm2:
+    GID: HRV.11.20_1
+    admin_name: Kneževi Vinogradi
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.21_1_Adm2:
+    GID: HRV.11.21_1
+    admin_name: Koška
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.22_1_Adm2:
+    GID: HRV.11.22_1
+    admin_name: Levanjska Varoš
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.23_1_Adm2:
+    GID: HRV.11.23_1
+    admin_name: Magadenovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.24_1_Adm2:
+    GID: HRV.11.24_1
+    admin_name: Marijanci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.25_1_Adm2:
+    GID: HRV.11.25_1
+    admin_name: Našice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.26_1_Adm2:
+    GID: HRV.11.26_1
+    admin_name: Osijek
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.27_1_Adm2:
+    GID: HRV.11.27_1
+    admin_name: Osjecko-Baranjska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.28_1_Adm2:
+    GID: HRV.11.28_1
+    admin_name: Petlovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.29_1_Adm2:
+    GID: HRV.11.29_1
+    admin_name: Petrijevci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.3_1_Adm2:
+    GID: HRV.11.3_1
+    admin_name: Belišće
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.30_1_Adm2:
+    GID: HRV.11.30_1
+    admin_name: Podgorač
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.31_1_Adm2:
+    GID: HRV.11.31_1
+    admin_name: Podravska Moslavina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.32_1_Adm2:
+    GID: HRV.11.32_1
+    admin_name: Popovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.33_1_Adm2:
+    GID: HRV.11.33_1
+    admin_name: Punitovci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.34_1_Adm2:
+    GID: HRV.11.34_1
+    admin_name: Satnica Đakovačka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.35_1_Adm2:
+    GID: HRV.11.35_1
+    admin_name: Semeljci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.36_1_Adm2:
+    GID: HRV.11.36_1
+    admin_name: Strizivojna
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.37_1_Adm2:
+    GID: HRV.11.37_1
+    admin_name: Trnava
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.38_1_Adm2:
+    GID: HRV.11.38_1
+    admin_name: Unknown_1
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.39_1_Adm2:
+    GID: HRV.11.39_1
+    admin_name: Unknown_2
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.4_1_Adm2:
+    GID: HRV.11.4_1
+    admin_name: Bilje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.40_1_Adm2:
+    GID: HRV.11.40_1
+    admin_name: Unknown_3
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.41_1_Adm2:
+    GID: HRV.11.41_1
+    admin_name: Valpovo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.42_1_Adm2:
+    GID: HRV.11.42_1
+    admin_name: Viljevo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.43_1_Adm2:
+    GID: HRV.11.43_1
+    admin_name: Viškovci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.44_1_Adm2:
+    GID: HRV.11.44_1
+    admin_name: Vladislavci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.45_1_Adm2:
+    GID: HRV.11.45_1
+    admin_name: Vuka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.5_1_Adm2:
+    GID: HRV.11.5_1
+    admin_name: Bizovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.6_1_Adm2:
+    GID: HRV.11.6_1
+    admin_name: Čeminac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.7_1_Adm2:
+    GID: HRV.11.7_1
+    admin_name: Čepin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.8_1_Adm2:
+    GID: HRV.11.8_1
+    admin_name: Đakovo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.11.9_1_Adm2:
+    GID: HRV.11.9_1
+    admin_name: Darda
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12_1_Adm1:
+    GID: HRV.12_1
+    admin_name: Požeško-Slavonska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.12.1_1_Adm2:
+    GID: HRV.12.1_1
+    admin_name: Brestovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.10_1_Adm2:
+    GID: HRV.12.10_1
+    admin_name: Velika
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.2_1_Adm2:
+    GID: HRV.12.2_1
+    admin_name: Čaglin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.3_1_Adm2:
+    GID: HRV.12.3_1
+    admin_name: Jakšić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.4_1_Adm2:
+    GID: HRV.12.4_1
+    admin_name: Kaptol
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.5_1_Adm2:
+    GID: HRV.12.5_1
+    admin_name: Kutjevo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.6_1_Adm2:
+    GID: HRV.12.6_1
+    admin_name: Lipik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.7_1_Adm2:
+    GID: HRV.12.7_1
+    admin_name: Pakrac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.8_1_Adm2:
+    GID: HRV.12.8_1
+    admin_name: Pleternica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.12.9_1_Adm2:
+    GID: HRV.12.9_1
+    admin_name: Požega
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13_1_Adm1:
+    GID: HRV.13_1
+    admin_name: Primorsko-Goranska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.13.1_1_Adm2:
+    GID: HRV.13.1_1
+    admin_name: Bakar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.10_1_Adm2:
+    GID: HRV.13.10_1
+    admin_name: Fužine
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.11_1_Adm2:
+    GID: HRV.13.11_1
+    admin_name: Ilovik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.12_1_Adm2:
+    GID: HRV.13.12_1
+    admin_name: Jelenje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.13_1_Adm2:
+    GID: HRV.13.13_1
+    admin_name: Kastav
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.14_1_Adm2:
+    GID: HRV.13.14_1
+    admin_name: Klana
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.15_1_Adm2:
+    GID: HRV.13.15_1
+    admin_name: Kostrena
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.16_1_Adm2:
+    GID: HRV.13.16_1
+    admin_name: Kraljevica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.17_1_Adm2:
+    GID: HRV.13.17_1
+    admin_name: Krk
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.18_1_Adm2:
+    GID: HRV.13.18_1
+    admin_name: Lokve
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.19_1_Adm2:
+    GID: HRV.13.19_1
+    admin_name: Lopar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.2_1_Adm2:
+    GID: HRV.13.2_1
+    admin_name: Baška
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.20_1_Adm2:
+    GID: HRV.13.20_1
+    admin_name: Lopar/Supetarska Draga
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.21_1_Adm2:
+    GID: HRV.13.21_1
+    admin_name: Lovran
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.22_1_Adm2:
+    GID: HRV.13.22_1
+    admin_name: Male Srakane
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.23_1_Adm2:
+    GID: HRV.13.23_1
+    admin_name: Mali Lošinj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.24_1_Adm2:
+    GID: HRV.13.24_1
+    admin_name: Malinska-Dubašnica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.25_1_Adm2:
+    GID: HRV.13.25_1
+    admin_name: Matulji
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.26_1_Adm2:
+    GID: HRV.13.26_1
+    admin_name: Mošćenička Draga
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.27_1_Adm2:
+    GID: HRV.13.27_1
+    admin_name: Mrkopalj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.28_1_Adm2:
+    GID: HRV.13.28_1
+    admin_name: Njivice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.29_1_Adm2:
+    GID: HRV.13.29_1
+    admin_name: Novi Vinodolski
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.3_1_Adm2:
+    GID: HRV.13.3_1
+    admin_name: Brod Moravice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.30_1_Adm2:
+    GID: HRV.13.30_1
+    admin_name: Omišalj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.31_1_Adm2:
+    GID: HRV.13.31_1
+    admin_name: Opatija/Veprinac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.32_1_Adm2:
+    GID: HRV.13.32_1
+    admin_name: Punat
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.33_1_Adm2:
+    GID: HRV.13.33_1
+    admin_name: Ravna Gora
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.34_1_Adm2:
+    GID: HRV.13.34_1
+    admin_name: Rijeka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.35_1_Adm2:
+    GID: HRV.13.35_1
+    admin_name: Skrad
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.36_1_Adm2:
+    GID: HRV.13.36_1
+    admin_name: Susak
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.37_1_Adm2:
+    GID: HRV.13.37_1
+    admin_name: Unije
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.38_1_Adm2:
+    GID: HRV.13.38_1
+    admin_name: Vele Srakane
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.39_1_Adm2:
+    GID: HRV.13.39_1
+    admin_name: Vinodolska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.4_1_Adm2:
+    GID: HRV.13.4_1
+    admin_name: Čabar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.40_1_Adm2:
+    GID: HRV.13.40_1
+    admin_name: Viškovo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.41_1_Adm2:
+    GID: HRV.13.41_1
+    admin_name: Vrbnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.42_1_Adm2:
+    GID: HRV.13.42_1
+    admin_name: Vrbovsko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.5_1_Adm2:
+    GID: HRV.13.5_1
+    admin_name: Čavle
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.6_1_Adm2:
+    GID: HRV.13.6_1
+    admin_name: Cres
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.7_1_Adm2:
+    GID: HRV.13.7_1
+    admin_name: Crikvenica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.8_1_Adm2:
+    GID: HRV.13.8_1
+    admin_name: Delnice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.13.9_1_Adm2:
+    GID: HRV.13.9_1
+    admin_name: Dobrinj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14_1_Adm1:
+    GID: HRV.14_1
+    admin_name: Šibensko-Kninska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.14.1_1_Adm2:
+    GID: HRV.14.1_1
+    admin_name: Bilice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.10_1_Adm2:
+    GID: HRV.14.10_1
+    admin_name: Pirovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.11_1_Adm2:
+    GID: HRV.14.11_1
+    admin_name: Primošten
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.12_1_Adm2:
+    GID: HRV.14.12_1
+    admin_name: Promina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.13_1_Adm2:
+    GID: HRV.14.13_1
+    admin_name: Rogoznica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.14_1_Adm2:
+    GID: HRV.14.14_1
+    admin_name: Ružić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.15_1_Adm2:
+    GID: HRV.14.15_1
+    admin_name: Šibenik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.16_1_Adm2:
+    GID: HRV.14.16_1
+    admin_name: Skradin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.17_1_Adm2:
+    GID: HRV.14.17_1
+    admin_name: Tisno
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.18_1_Adm2:
+    GID: HRV.14.18_1
+    admin_name: Unešić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.19_1_Adm2:
+    GID: HRV.14.19_1
+    admin_name: Vodice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.2_1_Adm2:
+    GID: HRV.14.2_1
+    admin_name: Biskupija
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.3_1_Adm2:
+    GID: HRV.14.3_1
+    admin_name: Civljane
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.4_1_Adm2:
+    GID: HRV.14.4_1
+    admin_name: Drniš
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.5_1_Adm2:
+    GID: HRV.14.5_1
+    admin_name: Ervenik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.6_1_Adm2:
+    GID: HRV.14.6_1
+    admin_name: Kijevo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.7_1_Adm2:
+    GID: HRV.14.7_1
+    admin_name: Kistanje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.8_1_Adm2:
+    GID: HRV.14.8_1
+    admin_name: Knin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.14.9_1_Adm2:
+    GID: HRV.14.9_1
+    admin_name: Murter
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15_1_Adm1:
+    GID: HRV.15_1
+    admin_name: Sisacko-Moslavacka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.15.1_1_Adm2:
+    GID: HRV.15.1_1
+    admin_name: Donji Kukuruzari
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.10_1_Adm2:
+    GID: HRV.15.10_1
+    admin_name: Lipovljani
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.11_1_Adm2:
+    GID: HRV.15.11_1
+    admin_name: Majur
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.12_1_Adm2:
+    GID: HRV.15.12_1
+    admin_name: Martinska Ves
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.13_1_Adm2:
+    GID: HRV.15.13_1
+    admin_name: Novska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.14_1_Adm2:
+    GID: HRV.15.14_1
+    admin_name: Petrinja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.15_1_Adm2:
+    GID: HRV.15.15_1
+    admin_name: Popovača
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.16_1_Adm2:
+    GID: HRV.15.16_1
+    admin_name: Sisak
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.17_1_Adm2:
+    GID: HRV.15.17_1
+    admin_name: Sunja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.18_1_Adm2:
+    GID: HRV.15.18_1
+    admin_name: Topusko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.19_1_Adm2:
+    GID: HRV.15.19_1
+    admin_name: Velika Ludina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.2_1_Adm2:
+    GID: HRV.15.2_1
+    admin_name: Dvor
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.3_1_Adm2:
+    GID: HRV.15.3_1
+    admin_name: Glina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.4_1_Adm2:
+    GID: HRV.15.4_1
+    admin_name: Gvozd
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.5_1_Adm2:
+    GID: HRV.15.5_1
+    admin_name: Hrvatska Dubica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.6_1_Adm2:
+    GID: HRV.15.6_1
+    admin_name: Hrvatska Kostajnica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.7_1_Adm2:
+    GID: HRV.15.7_1
+    admin_name: Jasenovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.8_1_Adm2:
+    GID: HRV.15.8_1
+    admin_name: Kutina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.15.9_1_Adm2:
+    GID: HRV.15.9_1
+    admin_name: Lekenik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16_1_Adm1:
+    GID: HRV.16_1
+    admin_name: Splitsko-Dalmatinska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.16.1_1_Adm2:
+    GID: HRV.16.1_1
+    admin_name: Baška Voda
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.10_1_Adm2:
+    GID: HRV.16.10_1
+    admin_name: Hrvace
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.11_1_Adm2:
+    GID: HRV.16.11_1
+    admin_name: Hvar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.12_1_Adm2:
+    GID: HRV.16.12_1
+    admin_name: Imotski
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.13_1_Adm2:
+    GID: HRV.16.13_1
+    admin_name: Jelsa
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.14_1_Adm2:
+    GID: HRV.16.14_1
+    admin_name: Kaštela
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.15_1_Adm2:
+    GID: HRV.16.15_1
+    admin_name: Klis
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.16_1_Adm2:
+    GID: HRV.16.16_1
+    admin_name: Komiža
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.17_1_Adm2:
+    GID: HRV.16.17_1
+    admin_name: Lećevica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.18_1_Adm2:
+    GID: HRV.16.18_1
+    admin_name: Lokvičići
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.19_1_Adm2:
+    GID: HRV.16.19_1
+    admin_name: Lovreć
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.2_1_Adm2:
+    GID: HRV.16.2_1
+    admin_name: Blaca
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.20_1_Adm2:
+    GID: HRV.16.20_1
+    admin_name: Makarska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.21_1_Adm2:
+    GID: HRV.16.21_1
+    admin_name: Marina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.22_1_Adm2:
+    GID: HRV.16.22_1
+    admin_name: Milna
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.23_1_Adm2:
+    GID: HRV.16.23_1
+    admin_name: Muć
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.24_1_Adm2:
+    GID: HRV.16.24_1
+    admin_name: Nerežišća
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.25_1_Adm2:
+    GID: HRV.16.25_1
+    admin_name: Okrug
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.26_1_Adm2:
+    GID: HRV.16.26_1
+    admin_name: Omiš
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.27_1_Adm2:
+    GID: HRV.16.27_1
+    admin_name: Otok
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.28_1_Adm2:
+    GID: HRV.16.28_1
+    admin_name: Podbablje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.29_1_Adm2:
+    GID: HRV.16.29_1
+    admin_name: Podgora
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.3_1_Adm2:
+    GID: HRV.16.3_1
+    admin_name: Bol
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.30_1_Adm2:
+    GID: HRV.16.30_1
+    admin_name: Podstrana
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.31_1_Adm2:
+    GID: HRV.16.31_1
+    admin_name: Postira
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.32_1_Adm2:
+    GID: HRV.16.32_1
+    admin_name: Prgomet
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.33_1_Adm2:
+    GID: HRV.16.33_1
+    admin_name: Primorski Dolac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.34_1_Adm2:
+    GID: HRV.16.34_1
+    admin_name: Proložac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.35_1_Adm2:
+    GID: HRV.16.35_1
+    admin_name: Pučišća
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.36_1_Adm2:
+    GID: HRV.16.36_1
+    admin_name: Runovići
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.37_1_Adm2:
+    GID: HRV.16.37_1
+    admin_name: Seget
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.38_1_Adm2:
+    GID: HRV.16.38_1
+    admin_name: Selca
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.39_1_Adm2:
+    GID: HRV.16.39_1
+    admin_name: Šestanovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.4_1_Adm2:
+    GID: HRV.16.4_1
+    admin_name: Brela
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.40_1_Adm2:
+    GID: HRV.16.40_1
+    admin_name: Sinj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.41_1_Adm2:
+    GID: HRV.16.41_1
+    admin_name: Solin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.42_1_Adm2:
+    GID: HRV.16.42_1
+    admin_name: Šolta
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.43_1_Adm2:
+    GID: HRV.16.43_1
+    admin_name: Split
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.44_1_Adm2:
+    GID: HRV.16.44_1
+    admin_name: Stari Grad
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.45_1_Adm2:
+    GID: HRV.16.45_1
+    admin_name: Sućuraj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.46_1_Adm2:
+    GID: HRV.16.46_1
+    admin_name: Supetar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.47_1_Adm2:
+    GID: HRV.16.47_1
+    admin_name: Sutivan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.48_1_Adm2:
+    GID: HRV.16.48_1
+    admin_name: Trilj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.49_1_Adm2:
+    GID: HRV.16.49_1
+    admin_name: Trogir
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.5_1_Adm2:
+    GID: HRV.16.5_1
+    admin_name: Cista Provo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.50_1_Adm2:
+    GID: HRV.16.50_1
+    admin_name: Tučepi
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.51_1_Adm2:
+    GID: HRV.16.51_1
+    admin_name: Vis
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.52_1_Adm2:
+    GID: HRV.16.52_1
+    admin_name: Vrgorac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.53_1_Adm2:
+    GID: HRV.16.53_1
+    admin_name: Vrlika
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.54_1_Adm2:
+    GID: HRV.16.54_1
+    admin_name: Zadvarje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.55_1_Adm2:
+    GID: HRV.16.55_1
+    admin_name: Zagvozd
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.56_1_Adm2:
+    GID: HRV.16.56_1
+    admin_name: Zmijavci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.6_1_Adm2:
+    GID: HRV.16.6_1
+    admin_name: Dicmo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.7_1_Adm2:
+    GID: HRV.16.7_1
+    admin_name: Dugi Rat
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.8_1_Adm2:
+    GID: HRV.16.8_1
+    admin_name: Dugopolje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.16.9_1_Adm2:
+    GID: HRV.16.9_1
+    admin_name: Gradac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17_1_Adm1:
+    GID: HRV.17_1
+    admin_name: Varaždinska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.17.1_1_Adm2:
+    GID: HRV.17.1_1
+    admin_name: Bednja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.10_1_Adm2:
+    GID: HRV.17.10_1
+    admin_name: Jalžabet
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.11_1_Adm2:
+    GID: HRV.17.11_1
+    admin_name: Klenovnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.12_1_Adm2:
+    GID: HRV.17.12_1
+    admin_name: Lepoglava
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.13_1_Adm2:
+    GID: HRV.17.13_1
+    admin_name: Ljubešćica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.14_1_Adm2:
+    GID: HRV.17.14_1
+    admin_name: Ludbreg
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.15_1_Adm2:
+    GID: HRV.17.15_1
+    admin_name: Mali Bukovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.16_1_Adm2:
+    GID: HRV.17.16_1
+    admin_name: Maruševec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.17_1_Adm2:
+    GID: HRV.17.17_1
+    admin_name: Novi Marof
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.18_1_Adm2:
+    GID: HRV.17.18_1
+    admin_name: Petrijanec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.19_1_Adm2:
+    GID: HRV.17.19_1
+    admin_name: Sračinec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.2_1_Adm2:
+    GID: HRV.17.2_1
+    admin_name: Beretinec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.20_1_Adm2:
+    GID: HRV.17.20_1
+    admin_name: Sveti Đurđ
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.21_1_Adm2:
+    GID: HRV.17.21_1
+    admin_name: Sveti Ilija
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.22_1_Adm2:
+    GID: HRV.17.22_1
+    admin_name: Trnovec Bartolovečki
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.23_1_Adm2:
+    GID: HRV.17.23_1
+    admin_name: Varaždin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.24_1_Adm2:
+    GID: HRV.17.24_1
+    admin_name: Varaždinske Toplice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.25_1_Adm2:
+    GID: HRV.17.25_1
+    admin_name: Veliki Bukovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.26_1_Adm2:
+    GID: HRV.17.26_1
+    admin_name: Vidovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.27_1_Adm2:
+    GID: HRV.17.27_1
+    admin_name: Vinica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.28_1_Adm2:
+    GID: HRV.17.28_1
+    admin_name: Visoko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.3_1_Adm2:
+    GID: HRV.17.3_1
+    admin_name: Breznica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.4_1_Adm2:
+    GID: HRV.17.4_1
+    admin_name: Breznički Hum
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.5_1_Adm2:
+    GID: HRV.17.5_1
+    admin_name: Cestica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.6_1_Adm2:
+    GID: HRV.17.6_1
+    admin_name: Donja Voća
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.7_1_Adm2:
+    GID: HRV.17.7_1
+    admin_name: Martijanec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.8_1_Adm2:
+    GID: HRV.17.8_1
+    admin_name: Gornji Kneginec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.17.9_1_Adm2:
+    GID: HRV.17.9_1
+    admin_name: Ivanec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18_1_Adm1:
+    GID: HRV.18_1
+    admin_name: Viroviticko-Podravska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.18.1_1_Adm2:
+    GID: HRV.18.1_1
+    admin_name: Čačinci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.10_1_Adm2:
+    GID: HRV.18.10_1
+    admin_name: Slatina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.11_1_Adm2:
+    GID: HRV.18.11_1
+    admin_name: Sopje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.12_1_Adm2:
+    GID: HRV.18.12_1
+    admin_name: Špišić Bukovica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.13_1_Adm2:
+    GID: HRV.18.13_1
+    admin_name: Suhopolje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.14_1_Adm2:
+    GID: HRV.18.14_1
+    admin_name: Virovitica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.15_1_Adm2:
+    GID: HRV.18.15_1
+    admin_name: Voćin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.16_1_Adm2:
+    GID: HRV.18.16_1
+    admin_name: Zdenci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.2_1_Adm2:
+    GID: HRV.18.2_1
+    admin_name: Čađavica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.3_1_Adm2:
+    GID: HRV.18.3_1
+    admin_name: Crnac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.4_1_Adm2:
+    GID: HRV.18.4_1
+    admin_name: Gradina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.5_1_Adm2:
+    GID: HRV.18.5_1
+    admin_name: Lukač
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.6_1_Adm2:
+    GID: HRV.18.6_1
+    admin_name: Mikleuš
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.7_1_Adm2:
+    GID: HRV.18.7_1
+    admin_name: Nova Bukovica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.8_1_Adm2:
+    GID: HRV.18.8_1
+    admin_name: Orahovica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.18.9_1_Adm2:
+    GID: HRV.18.9_1
+    admin_name: Pitomača
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19_1_Adm1:
+    GID: HRV.19_1
+    admin_name: Vukovarsko-Srijemska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.19.1_1_Adm2:
+    GID: HRV.19.1_1
+    admin_name: Andrijaševci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.10_1_Adm2:
+    GID: HRV.19.10_1
+    admin_name: Ilok
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.11_1_Adm2:
+    GID: HRV.19.11_1
+    admin_name: Ivankovo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.12_1_Adm2:
+    GID: HRV.19.12_1
+    admin_name: Jarmina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.13_1_Adm2:
+    GID: HRV.19.13_1
+    admin_name: Lovas
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.14_1_Adm2:
+    GID: HRV.19.14_1
+    admin_name: Markušica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.15_1_Adm2:
+    GID: HRV.19.15_1
+    admin_name: Negoslavci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.16_1_Adm2:
+    GID: HRV.19.16_1
+    admin_name: Nijemci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.17_1_Adm2:
+    GID: HRV.19.17_1
+    admin_name: Nuštar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.18_1_Adm2:
+    GID: HRV.19.18_1
+    admin_name: Otok
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.19_1_Adm2:
+    GID: HRV.19.19_1
+    admin_name: Privlaka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.2_1_Adm2:
+    GID: HRV.19.2_1
+    admin_name: Babina Greda
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.20_1_Adm2:
+    GID: HRV.19.20_1
+    admin_name: Stari Jankovci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.21_1_Adm2:
+    GID: HRV.19.21_1
+    admin_name: Stari Mikanovci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.22_1_Adm2:
+    GID: HRV.19.22_1
+    admin_name: Tompojevci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.23_1_Adm2:
+    GID: HRV.19.23_1
+    admin_name: Tordinci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.24_1_Adm2:
+    GID: HRV.19.24_1
+    admin_name: Tovarnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.25_1_Adm2:
+    GID: HRV.19.25_1
+    admin_name: Trpinja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.26_1_Adm2:
+    GID: HRV.19.26_1
+    admin_name: Vinkovci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.27_1_Adm2:
+    GID: HRV.19.27_1
+    admin_name: Vođinci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.28_1_Adm2:
+    GID: HRV.19.28_1
+    admin_name: Vrbanja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.29_1_Adm2:
+    GID: HRV.19.29_1
+    admin_name: Vukovar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.3_1_Adm2:
+    GID: HRV.19.3_1
+    admin_name: Bogdanovci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.30_1_Adm2:
+    GID: HRV.19.30_1
+    admin_name: Županja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.4_1_Adm2:
+    GID: HRV.19.4_1
+    admin_name: Borovo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.5_1_Adm2:
+    GID: HRV.19.5_1
+    admin_name: Bošnjaci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.6_1_Adm2:
+    GID: HRV.19.6_1
+    admin_name: Cerna
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.7_1_Adm2:
+    GID: HRV.19.7_1
+    admin_name: Drenovci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.8_1_Adm2:
+    GID: HRV.19.8_1
+    admin_name: Gradište
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.19.9_1_Adm2:
+    GID: HRV.19.9_1
+    admin_name: Gunja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2_1_Adm1:
+    GID: HRV.2_1
+    admin_name: Brodsko-Posavska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.2.1_1_Adm2:
+    GID: HRV.2.1_1
+    admin_name: Bebrina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.10_1_Adm2:
+    GID: HRV.2.10_1
+    admin_name: Gornji Bogićevci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.11_1_Adm2:
+    GID: HRV.2.11_1
+    admin_name: Gundinci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.12_1_Adm2:
+    GID: HRV.2.12_1
+    admin_name: Nova Gradiška
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.13_1_Adm2:
+    GID: HRV.2.13_1
+    admin_name: Nova Kapela
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.14_1_Adm2:
+    GID: HRV.2.14_1
+    admin_name: Okučani
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.15_1_Adm2:
+    GID: HRV.2.15_1
+    admin_name: Oprisavci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.16_1_Adm2:
+    GID: HRV.2.16_1
+    admin_name: Oriovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.17_1_Adm2:
+    GID: HRV.2.17_1
+    admin_name: Podcrkavlje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.18_1_Adm2:
+    GID: HRV.2.18_1
+    admin_name: Rešetari
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.19_1_Adm2:
+    GID: HRV.2.19_1
+    admin_name: Sibinj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.2_1_Adm2:
+    GID: HRV.2.2_1
+    admin_name: Brodski Stupnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.20_1_Adm2:
+    GID: HRV.2.20_1
+    admin_name: Sikirevci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.21_1_Adm2:
+    GID: HRV.2.21_1
+    admin_name: Slavonski Brod
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.22_1_Adm2:
+    GID: HRV.2.22_1
+    admin_name: Slavonski Šamac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.23_1_Adm2:
+    GID: HRV.2.23_1
+    admin_name: Stara Gradiška
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.24_1_Adm2:
+    GID: HRV.2.24_1
+    admin_name: Staro Petrovo Selo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.25_1_Adm2:
+    GID: HRV.2.25_1
+    admin_name: Unknown_1
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.26_1_Adm2:
+    GID: HRV.2.26_1
+    admin_name: Velika Kopanica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.27_1_Adm2:
+    GID: HRV.2.27_1
+    admin_name: Vrbje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.28_1_Adm2:
+    GID: HRV.2.28_1
+    admin_name: Vrpolje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.3_1_Adm2:
+    GID: HRV.2.3_1
+    admin_name: Bukovlje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.4_1_Adm2:
+    GID: HRV.2.4_1
+    admin_name: Cernik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.5_1_Adm2:
+    GID: HRV.2.5_1
+    admin_name: Davor
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.6_1_Adm2:
+    GID: HRV.2.6_1
+    admin_name: Donji Andrijevci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.7_1_Adm2:
+    GID: HRV.2.7_1
+    admin_name: Dragalić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.8_1_Adm2:
+    GID: HRV.2.8_1
+    admin_name: Garčin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.2.9_1_Adm2:
+    GID: HRV.2.9_1
+    admin_name: Gornja Vrba
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20_1_Adm1:
+    GID: HRV.20_1
+    admin_name: Zadarska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.20.1_1_Adm2:
+    GID: HRV.20.1_1
+    admin_name: Benkovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.10_1_Adm2:
+    GID: HRV.20.10_1
+    admin_name: Nin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.11_1_Adm2:
+    GID: HRV.20.11_1
+    admin_name: Novigrad
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.12_1_Adm2:
+    GID: HRV.20.12_1
+    admin_name: Obrovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.13_1_Adm2:
+    GID: HRV.20.13_1
+    admin_name: Pag
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.14_1_Adm2:
+    GID: HRV.20.14_1
+    admin_name: Pakoštane
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.15_1_Adm2:
+    GID: HRV.20.15_1
+    admin_name: Pašman
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.16_1_Adm2:
+    GID: HRV.20.16_1
+    admin_name: Polača
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.17_1_Adm2:
+    GID: HRV.20.17_1
+    admin_name: Poličnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.18_1_Adm2:
+    GID: HRV.20.18_1
+    admin_name: Posedarje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.19_1_Adm2:
+    GID: HRV.20.19_1
+    admin_name: Povljane
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.2_1_Adm2:
+    GID: HRV.20.2_1
+    admin_name: Bibinje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.20_1_Adm2:
+    GID: HRV.20.20_1
+    admin_name: Preko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.21_1_Adm2:
+    GID: HRV.20.21_1
+    admin_name: Privlaka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.22_1_Adm2:
+    GID: HRV.20.22_1
+    admin_name: Ražanac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.23_1_Adm2:
+    GID: HRV.20.23_1
+    admin_name: Sali
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.24_1_Adm2:
+    GID: HRV.20.24_1
+    admin_name: Škabrnja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.25_1_Adm2:
+    GID: HRV.20.25_1
+    admin_name: Stankovci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.26_1_Adm2:
+    GID: HRV.20.26_1
+    admin_name: Starigrad
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.27_1_Adm2:
+    GID: HRV.20.27_1
+    admin_name: Sukošan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.28_1_Adm2:
+    GID: HRV.20.28_1
+    admin_name: Sveti Filip i Jakov
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.29_1_Adm2:
+    GID: HRV.20.29_1
+    admin_name: Tkon
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.3_1_Adm2:
+    GID: HRV.20.3_1
+    admin_name: Biograd na Moru
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.30_1_Adm2:
+    GID: HRV.20.30_1
+    admin_name: Vir
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.31_1_Adm2:
+    GID: HRV.20.31_1
+    admin_name: Zadar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.32_1_Adm2:
+    GID: HRV.20.32_1
+    admin_name: Zemunik Donji
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.4_1_Adm2:
+    GID: HRV.20.4_1
+    admin_name: Galovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.5_1_Adm2:
+    GID: HRV.20.5_1
+    admin_name: Gračac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.6_1_Adm2:
+    GID: HRV.20.6_1
+    admin_name: Jasenice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.7_1_Adm2:
+    GID: HRV.20.7_1
+    admin_name: Kali
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.8_1_Adm2:
+    GID: HRV.20.8_1
+    admin_name: Kukljica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.20.9_1_Adm2:
+    GID: HRV.20.9_1
+    admin_name: Lišane Ostrovičke
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21_1_Adm1:
+    GID: HRV.21_1
+    admin_name: Zagrebačka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.21.1_1_Adm2:
+    GID: HRV.21.1_1
+    admin_name: Bedenica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.10_1_Adm2:
+    GID: HRV.21.10_1
+    admin_name: Jakovlje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.11_1_Adm2:
+    GID: HRV.21.11_1
+    admin_name: Jastrebarsko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.12_1_Adm2:
+    GID: HRV.21.12_1
+    admin_name: Klinča Sela
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.13_1_Adm2:
+    GID: HRV.21.13_1
+    admin_name: Kloštar Ivanić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.14_1_Adm2:
+    GID: HRV.21.14_1
+    admin_name: Krašić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.15_1_Adm2:
+    GID: HRV.21.15_1
+    admin_name: Križ
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.16_1_Adm2:
+    GID: HRV.21.16_1
+    admin_name: Luka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.17_1_Adm2:
+    GID: HRV.21.17_1
+    admin_name: Marija Gorica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.18_1_Adm2:
+    GID: HRV.21.18_1
+    admin_name: Pisarovina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.19_1_Adm2:
+    GID: HRV.21.19_1
+    admin_name: Preseka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.2_1_Adm2:
+    GID: HRV.21.2_1
+    admin_name: Brckovljani
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.20_1_Adm2:
+    GID: HRV.21.20_1
+    admin_name: Pušća
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.21_1_Adm2:
+    GID: HRV.21.21_1
+    admin_name: Rakovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.22_1_Adm2:
+    GID: HRV.21.22_1
+    admin_name: Rugvica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.23_1_Adm2:
+    GID: HRV.21.23_1
+    admin_name: Samobor
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.24_1_Adm2:
+    GID: HRV.21.24_1
+    admin_name: Sveta Nedelja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.25_1_Adm2:
+    GID: HRV.21.25_1
+    admin_name: Sveti Ivan Zelina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.26_1_Adm2:
+    GID: HRV.21.26_1
+    admin_name: Vrbovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.27_1_Adm2:
+    GID: HRV.21.27_1
+    admin_name: Zaprešić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.28_1_Adm2:
+    GID: HRV.21.28_1
+    admin_name: Žumberak
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.3_1_Adm2:
+    GID: HRV.21.3_1
+    admin_name: Brdovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.4_1_Adm2:
+    GID: HRV.21.4_1
+    admin_name: Dubrava
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.5_1_Adm2:
+    GID: HRV.21.5_1
+    admin_name: Dubravica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.6_1_Adm2:
+    GID: HRV.21.6_1
+    admin_name: Dugo Selo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.7_1_Adm2:
+    GID: HRV.21.7_1
+    admin_name: Farkaševac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.8_1_Adm2:
+    GID: HRV.21.8_1
+    admin_name: Gradec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.21.9_1_Adm2:
+    GID: HRV.21.9_1
+    admin_name: Ivanić-Grad
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3_1_Adm1:
+    GID: HRV.3_1
+    admin_name: Dubrovacko-Neretvanska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.3.1_1_Adm2:
+    GID: HRV.3.1_1
+    admin_name: Blato
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.10_1_Adm2:
+    GID: HRV.3.10_1
+    admin_name: Metković
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.11_1_Adm2:
+    GID: HRV.3.11_1
+    admin_name: Mljet
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.12_1_Adm2:
+    GID: HRV.3.12_1
+    admin_name: Opuzen
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.13_1_Adm2:
+    GID: HRV.3.13_1
+    admin_name: Orebić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.14_1_Adm2:
+    GID: HRV.3.14_1
+    admin_name: Ploče
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.15_1_Adm2:
+    GID: HRV.3.15_1
+    admin_name: Pojezerje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.16_1_Adm2:
+    GID: HRV.3.16_1
+    admin_name: Slivno
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.17_1_Adm2:
+    GID: HRV.3.17_1
+    admin_name: Smokvica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.18_1_Adm2:
+    GID: HRV.3.18_1
+    admin_name: Ston
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.19_1_Adm2:
+    GID: HRV.3.19_1
+    admin_name: Trpanj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.2_1_Adm2:
+    GID: HRV.3.2_1
+    admin_name: Dubrovačko Primorje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.20_1_Adm2:
+    GID: HRV.3.20_1
+    admin_name: Vela Luka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.21_1_Adm2:
+    GID: HRV.3.21_1
+    admin_name: Zažablje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.22_1_Adm2:
+    GID: HRV.3.22_1
+    admin_name: Župa Dubrovačka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.3_1_Adm2:
+    GID: HRV.3.3_1
+    admin_name: Dubrovnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.4_1_Adm2:
+    GID: HRV.3.4_1
+    admin_name: Janjina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.5_1_Adm2:
+    GID: HRV.3.5_1
+    admin_name: Konavle
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.6_1_Adm2:
+    GID: HRV.3.6_1
+    admin_name: Korčula
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.7_1_Adm2:
+    GID: HRV.3.7_1
+    admin_name: Kula Norinska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.8_1_Adm2:
+    GID: HRV.3.8_1
+    admin_name: Lastovo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.3.9_1_Adm2:
+    GID: HRV.3.9_1
+    admin_name: Lumbarda
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.4_1_Adm1:
+    GID: HRV.4_1
+    admin_name: Grad Zagreb
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.4.1_1_Adm2:
+    GID: HRV.4.1_1
+    admin_name: Bistra
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.4.2_1_Adm2:
+    GID: HRV.4.2_1
+    admin_name: Kravarsko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.4.3_1_Adm2:
+    GID: HRV.4.3_1
+    admin_name: Orle
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.4.4_1_Adm2:
+    GID: HRV.4.4_1
+    admin_name: Pokupsko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.4.5_1_Adm2:
+    GID: HRV.4.5_1
+    admin_name: Stupnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.4.6_1_Adm2:
+    GID: HRV.4.6_1
+    admin_name: Velika Gorica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.4.7_1_Adm2:
+    GID: HRV.4.7_1
+    admin_name: Zagreb
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5_1_Adm1:
+    GID: HRV.5_1
+    admin_name: Istarska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.5.1_1_Adm2:
+    GID: HRV.5.1_1
+    admin_name: Bale
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.10_1_Adm2:
+    GID: HRV.5.10_1
+    admin_name: Kanfanar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.11_1_Adm2:
+    GID: HRV.5.11_1
+    admin_name: Karojba
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.12_1_Adm2:
+    GID: HRV.5.12_1
+    admin_name: Kaštelir-Labinci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.13_1_Adm2:
+    GID: HRV.5.13_1
+    admin_name: Kršan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.14_1_Adm2:
+    GID: HRV.5.14_1
+    admin_name: Labin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.15_1_Adm2:
+    GID: HRV.5.15_1
+    admin_name: Lanišće
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.16_1_Adm2:
+    GID: HRV.5.16_1
+    admin_name: Ližnjan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.17_1_Adm2:
+    GID: HRV.5.17_1
+    admin_name: Lupoglav
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.18_1_Adm2:
+    GID: HRV.5.18_1
+    admin_name: Marčana
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.19_1_Adm2:
+    GID: HRV.5.19_1
+    admin_name: Medulin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.2_1_Adm2:
+    GID: HRV.5.2_1
+    admin_name: Barban
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.20_1_Adm2:
+    GID: HRV.5.20_1
+    admin_name: Motovun
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.21_1_Adm2:
+    GID: HRV.5.21_1
+    admin_name: Novigrad
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.22_1_Adm2:
+    GID: HRV.5.22_1
+    admin_name: Oprtalj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.23_1_Adm2:
+    GID: HRV.5.23_1
+    admin_name: Pazin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.24_1_Adm2:
+    GID: HRV.5.24_1
+    admin_name: Pićan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.25_1_Adm2:
+    GID: HRV.5.25_1
+    admin_name: Poreč
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.26_1_Adm2:
+    GID: HRV.5.26_1
+    admin_name: Premantura
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.27_1_Adm2:
+    GID: HRV.5.27_1
+    admin_name: Pula
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.28_1_Adm2:
+    GID: HRV.5.28_1
+    admin_name: Raša
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.29_1_Adm2:
+    GID: HRV.5.29_1
+    admin_name: Rovinj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.3_1_Adm2:
+    GID: HRV.5.3_1
+    admin_name: Brtonigla
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.30_1_Adm2:
+    GID: HRV.5.30_1
+    admin_name: Sveta Nedelja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.31_1_Adm2:
+    GID: HRV.5.31_1
+    admin_name: Sveti Lovreč
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.32_1_Adm2:
+    GID: HRV.5.32_1
+    admin_name: Sveti Petar u Šumi
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.33_1_Adm2:
+    GID: HRV.5.33_1
+    admin_name: Svetvinčenat
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.34_1_Adm2:
+    GID: HRV.5.34_1
+    admin_name: Tinjan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.35_1_Adm2:
+    GID: HRV.5.35_1
+    admin_name: Umag
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.36_1_Adm2:
+    GID: HRV.5.36_1
+    admin_name: Višnjan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.37_1_Adm2:
+    GID: HRV.5.37_1
+    admin_name: Vižinada
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.38_1_Adm2:
+    GID: HRV.5.38_1
+    admin_name: Vodnjan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.39_1_Adm2:
+    GID: HRV.5.39_1
+    admin_name: Vrsar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.4_1_Adm2:
+    GID: HRV.5.4_1
+    admin_name: Buje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.40_1_Adm2:
+    GID: HRV.5.40_1
+    admin_name: Žminj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.5_1_Adm2:
+    GID: HRV.5.5_1
+    admin_name: Buzet
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.6_1_Adm2:
+    GID: HRV.5.6_1
+    admin_name: Cerovlje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.7_1_Adm2:
+    GID: HRV.5.7_1
+    admin_name: Fažana
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.8_1_Adm2:
+    GID: HRV.5.8_1
+    admin_name: Gračišće
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.5.9_1_Adm2:
+    GID: HRV.5.9_1
+    admin_name: Grožnjan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6_1_Adm1:
+    GID: HRV.6_1
+    admin_name: Karlovacka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.6.1_1_Adm2:
+    GID: HRV.6.1_1
+    admin_name: Barilović
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.10_1_Adm2:
+    GID: HRV.6.10_1
+    admin_name: Lasinja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.11_1_Adm2:
+    GID: HRV.6.11_1
+    admin_name: Netretić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.12_1_Adm2:
+    GID: HRV.6.12_1
+    admin_name: Ogulin
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.13_1_Adm2:
+    GID: HRV.6.13_1
+    admin_name: Ozalj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.14_1_Adm2:
+    GID: HRV.6.14_1
+    admin_name: Plaški
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.15_1_Adm2:
+    GID: HRV.6.15_1
+    admin_name: Rakovica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.16_1_Adm2:
+    GID: HRV.6.16_1
+    admin_name: Ribnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.17_1_Adm2:
+    GID: HRV.6.17_1
+    admin_name: Saborsko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.18_1_Adm2:
+    GID: HRV.6.18_1
+    admin_name: Slunj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.19_1_Adm2:
+    GID: HRV.6.19_1
+    admin_name: Tounj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.2_1_Adm2:
+    GID: HRV.6.2_1
+    admin_name: Bosiljevo
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.20_1_Adm2:
+    GID: HRV.6.20_1
+    admin_name: Vojnić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.21_1_Adm2:
+    GID: HRV.6.21_1
+    admin_name: Žakanje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.3_1_Adm2:
+    GID: HRV.6.3_1
+    admin_name: Cetingrad
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.4_1_Adm2:
+    GID: HRV.6.4_1
+    admin_name: Draganić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.5_1_Adm2:
+    GID: HRV.6.5_1
+    admin_name: Duga Resa
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.6_1_Adm2:
+    GID: HRV.6.6_1
+    admin_name: Generalski Stol
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.7_1_Adm2:
+    GID: HRV.6.7_1
+    admin_name: Josipdol
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.8_1_Adm2:
+    GID: HRV.6.8_1
+    admin_name: Karlovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.6.9_1_Adm2:
+    GID: HRV.6.9_1
+    admin_name: Krnjak
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7_1_Adm1:
+    GID: HRV.7_1
+    admin_name: Koprivničko-Križevačka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.7.1_1_Adm2:
+    GID: HRV.7.1_1
+    admin_name: Đelekovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.10_1_Adm2:
+    GID: HRV.7.10_1
+    admin_name: Kloštar Podravski
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.11_1_Adm2:
+    GID: HRV.7.11_1
+    admin_name: Koprivnica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.12_1_Adm2:
+    GID: HRV.7.12_1
+    admin_name: Koprivnički Bregi
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.13_1_Adm2:
+    GID: HRV.7.13_1
+    admin_name: Koprivnički Ivanec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.14_1_Adm2:
+    GID: HRV.7.14_1
+    admin_name: Križevci
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.15_1_Adm2:
+    GID: HRV.7.15_1
+    admin_name: Legrad
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.16_1_Adm2:
+    GID: HRV.7.16_1
+    admin_name: Molve
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.17_1_Adm2:
+    GID: HRV.7.17_1
+    admin_name: Novigrad Podravski
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.18_1_Adm2:
+    GID: HRV.7.18_1
+    admin_name: Novo Virje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.19_1_Adm2:
+    GID: HRV.7.19_1
+    admin_name: Peteranec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.2_1_Adm2:
+    GID: HRV.7.2_1
+    admin_name: Drnje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.20_1_Adm2:
+    GID: HRV.7.20_1
+    admin_name: Podravske Sesvete
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.21_1_Adm2:
+    GID: HRV.7.21_1
+    admin_name: Rasinja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.22_1_Adm2:
+    GID: HRV.7.22_1
+    admin_name: Sokolovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.23_1_Adm2:
+    GID: HRV.7.23_1
+    admin_name: Sveti Ivan Žabno
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.24_1_Adm2:
+    GID: HRV.7.24_1
+    admin_name: Sveti Petar Orehovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.25_1_Adm2:
+    GID: HRV.7.25_1
+    admin_name: Virje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.3_1_Adm2:
+    GID: HRV.7.3_1
+    admin_name: Đurđevac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.4_1_Adm2:
+    GID: HRV.7.4_1
+    admin_name: Ferdinandovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.5_1_Adm2:
+    GID: HRV.7.5_1
+    admin_name: Gola
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.6_1_Adm2:
+    GID: HRV.7.6_1
+    admin_name: Gornja Rijeka
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.7_1_Adm2:
+    GID: HRV.7.7_1
+    admin_name: Hlebine
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.8_1_Adm2:
+    GID: HRV.7.8_1
+    admin_name: Kalinovac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.7.9_1_Adm2:
+    GID: HRV.7.9_1
+    admin_name: Kalnik
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8_1_Adm1:
+    GID: HRV.8_1
+    admin_name: Krapinsko-Zagorska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.8.1_1_Adm2:
+    GID: HRV.8.1_1
+    admin_name: Bedekovčina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.10_1_Adm2:
+    GID: HRV.8.10_1
+    admin_name: Klanjec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.11_1_Adm2:
+    GID: HRV.8.11_1
+    admin_name: Konjščina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.12_1_Adm2:
+    GID: HRV.8.12_1
+    admin_name: Kraljevec na Sutli
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.13_1_Adm2:
+    GID: HRV.8.13_1
+    admin_name: Krapina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.14_1_Adm2:
+    GID: HRV.8.14_1
+    admin_name: Krapinske Toplice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.15_1_Adm2:
+    GID: HRV.8.15_1
+    admin_name: Kumrovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.16_1_Adm2:
+    GID: HRV.8.16_1
+    admin_name: Lobor
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.17_1_Adm2:
+    GID: HRV.8.17_1
+    admin_name: Mače
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.18_1_Adm2:
+    GID: HRV.8.18_1
+    admin_name: Marija Bistrica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.19_1_Adm2:
+    GID: HRV.8.19_1
+    admin_name: Mihovljan
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.2_1_Adm2:
+    GID: HRV.8.2_1
+    admin_name: Budinšćina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.20_1_Adm2:
+    GID: HRV.8.20_1
+    admin_name: Novi Golubovec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.21_1_Adm2:
+    GID: HRV.8.21_1
+    admin_name: Oroslavje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.22_1_Adm2:
+    GID: HRV.8.22_1
+    admin_name: Petrovsko
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.23_1_Adm2:
+    GID: HRV.8.23_1
+    admin_name: Pregrada
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.24_1_Adm2:
+    GID: HRV.8.24_1
+    admin_name: Radoboj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.25_1_Adm2:
+    GID: HRV.8.25_1
+    admin_name: Stubičke Toplice
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.26_1_Adm2:
+    GID: HRV.8.26_1
+    admin_name: Sveti Križ Začretje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.27_1_Adm2:
+    GID: HRV.8.27_1
+    admin_name: Tuhelj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.28_1_Adm2:
+    GID: HRV.8.28_1
+    admin_name: Veliko Trgovišće
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.29_1_Adm2:
+    GID: HRV.8.29_1
+    admin_name: Zabok
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.3_1_Adm2:
+    GID: HRV.8.3_1
+    admin_name: Desinić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.30_1_Adm2:
+    GID: HRV.8.30_1
+    admin_name: Zagorska Sela
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.31_1_Adm2:
+    GID: HRV.8.31_1
+    admin_name: Zlatar
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.32_1_Adm2:
+    GID: HRV.8.32_1
+    admin_name: Zlatar Bistrica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.4_1_Adm2:
+    GID: HRV.8.4_1
+    admin_name: Donja Stubica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.5_1_Adm2:
+    GID: HRV.8.5_1
+    admin_name: Đurmanec
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.6_1_Adm2:
+    GID: HRV.8.6_1
+    admin_name: Gornja Stubica
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.7_1_Adm2:
+    GID: HRV.8.7_1
+    admin_name: Hrašćina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.8_1_Adm2:
+    GID: HRV.8.8_1
+    admin_name: Hum na Sutli
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.8.9_1_Adm2:
+    GID: HRV.8.9_1
+    admin_name: Jesenje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9_1_Adm1:
+    GID: HRV.9_1
+    admin_name: Licko-Senjska
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm1
+  HRV.9.1_1_Adm2:
+    GID: HRV.9.1_1
+    admin_name: Brinje
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.10_1_Adm2:
+    GID: HRV.9.10_1
+    admin_name: Senj
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.11_1_Adm2:
+    GID: HRV.9.11_1
+    admin_name: Udbina
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.12_1_Adm2:
+    GID: HRV.9.12_1
+    admin_name: Vrhovine
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.2_1_Adm2:
+    GID: HRV.9.2_1
+    admin_name: Donji Lapac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.3_1_Adm2:
+    GID: HRV.9.3_1
+    admin_name: Gospić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.4_1_Adm2:
+    GID: HRV.9.4_1
+    admin_name: Karlobag
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.5_1_Adm2:
+    GID: HRV.9.5_1
+    admin_name: Lovinac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.6_1_Adm2:
+    GID: HRV.9.6_1
+    admin_name: Novalja
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.7_1_Adm2:
+    GID: HRV.9.7_1
+    admin_name: Otočac
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.8_1_Adm2:
+    GID: HRV.9.8_1
+    admin_name: Perušić
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2
+  HRV.9.9_1_Adm2:
+    GID: HRV.9.9_1
+    admin_name: Plitvička Jezera
+    iso3c: HRV
+    country_name: Croatia
+    admin_level: Adm2

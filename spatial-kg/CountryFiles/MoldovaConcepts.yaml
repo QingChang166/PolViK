@@ -1,0 +1,229 @@
+concepts:
+  MDA.0_Adm0:
+    GID: MDA
+    admin_name: Moldova
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm0
+  MDA.1_1_Adm1:
+    GID: MDA.1_1
+    admin_name: Anenii Noi
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.10_1_Adm1:
+    GID: MDA.10_1
+    admin_name: Chişinău
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.11_1_Adm1:
+    GID: MDA.11_1
+    admin_name: Cimişlia
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.12_1_Adm1:
+    GID: MDA.12_1
+    admin_name: Criuleni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.13_1_Adm1:
+    GID: MDA.13_1
+    admin_name: Donduseni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.14_1_Adm1:
+    GID: MDA.14_1
+    admin_name: Drochia
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.15_1_Adm1:
+    GID: MDA.15_1
+    admin_name: Dubăsari
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.16_1_Adm1:
+    GID: MDA.16_1
+    admin_name: Edineţ
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.17_1_Adm1:
+    GID: MDA.17_1
+    admin_name: Făleşti
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.18_1_Adm1:
+    GID: MDA.18_1
+    admin_name: Floreşti
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.19_1_Adm1:
+    GID: MDA.19_1
+    admin_name: Găgăuzia
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.2_1_Adm1:
+    GID: MDA.2_1
+    admin_name: Bălţi
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.20_1_Adm1:
+    GID: MDA.20_1
+    admin_name: Glodeni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.21_1_Adm1:
+    GID: MDA.21_1
+    admin_name: Hîncesti
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.22_1_Adm1:
+    GID: MDA.22_1
+    admin_name: Ialoveni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.23_1_Adm1:
+    GID: MDA.23_1
+    admin_name: Leova
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.24_1_Adm1:
+    GID: MDA.24_1
+    admin_name: Nisporeni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.25_1_Adm1:
+    GID: MDA.25_1
+    admin_name: Ocniţa
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.26_1_Adm1:
+    GID: MDA.26_1
+    admin_name: Orhei
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.27_1_Adm1:
+    GID: MDA.27_1
+    admin_name: Rezina
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.28_1_Adm1:
+    GID: MDA.28_1
+    admin_name: Rîşcani
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.29_1_Adm1:
+    GID: MDA.29_1
+    admin_name: Sîngerei
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.3_1_Adm1:
+    GID: MDA.3_1
+    admin_name: Basarabeasca
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.30_1_Adm1:
+    GID: MDA.30_1
+    admin_name: Şoldăneşti
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.31_1_Adm1:
+    GID: MDA.31_1
+    admin_name: Soroca
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.32_1_Adm1:
+    GID: MDA.32_1
+    admin_name: Ştefan Voda
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.33_1_Adm1:
+    GID: MDA.33_1
+    admin_name: Străşeni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.34_1_Adm1:
+    GID: MDA.34_1
+    admin_name: Taraclia
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.35_1_Adm1:
+    GID: MDA.35_1
+    admin_name: Teleneşti
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.36_1_Adm1:
+    GID: MDA.36_1
+    admin_name: Transnistria
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.37_1_Adm1:
+    GID: MDA.37_1
+    admin_name: Ungheni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.4_1_Adm1:
+    GID: MDA.4_1
+    admin_name: Bender
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.5_1_Adm1:
+    GID: MDA.5_1
+    admin_name: Briceni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.6_1_Adm1:
+    GID: MDA.6_1
+    admin_name: Cahul
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.7_1_Adm1:
+    GID: MDA.7_1
+    admin_name: Calarasi
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.8_1_Adm1:
+    GID: MDA.8_1
+    admin_name: Cantemir
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1
+  MDA.9_1_Adm1:
+    GID: MDA.9_1
+    admin_name: Causeni
+    iso3c: MDA
+    country_name: Moldova
+    admin_level: Adm1

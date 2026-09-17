@@ -1,0 +1,229 @@
+concepts:
+  XKO.0_Adm0:
+    GID: XKO
+    admin_name: Kosovo
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm0
+  XKO.1_1_Adm1:
+    GID: XKO.1_1
+    admin_name: Đakovica
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm1
+  XKO.1.1_1_Adm2:
+    GID: XKO.1.1_1
+    admin_name: Đakovica
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.1.2_1_Adm2:
+    GID: XKO.1.2_1
+    admin_name: Dečani
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.1.3_1_Adm2:
+    GID: XKO.1.3_1
+    admin_name: Orahovac
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.2_1_Adm1:
+    GID: XKO.2_1
+    admin_name: Gnjilane
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm1
+  XKO.2.1_1_Adm2:
+    GID: XKO.2.1_1
+    admin_name: Gnjilane
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.2.2_1_Adm2:
+    GID: XKO.2.2_1
+    admin_name: Kosovska Kamenica
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.2.3_1_Adm2:
+    GID: XKO.2.3_1
+    admin_name: Vitina
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3_1_Adm1:
+    GID: XKO.3_1
+    admin_name: Kosovska Mitrovica
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm1
+  XKO.3.1_1_Adm2:
+    GID: XKO.3.1_1
+    admin_name: Kosovska Mitrovica
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.2_1_Adm2:
+    GID: XKO.3.2_1
+    admin_name: Leposavić
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.3_1_Adm2:
+    GID: XKO.3.3_1
+    admin_name: Srbica
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.4_1_Adm2:
+    GID: XKO.3.4_1
+    admin_name: Vucitrn
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.5_1_Adm2:
+    GID: XKO.3.5_1
+    admin_name: Zubin Potok
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.3.6_1_Adm2:
+    GID: XKO.3.6_1
+    admin_name: Zvečan
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.4_1_Adm1:
+    GID: XKO.4_1
+    admin_name: Pećki
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm1
+  XKO.4.1_1_Adm2:
+    GID: XKO.4.1_1
+    admin_name: Istok
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.4.2_1_Adm2:
+    GID: XKO.4.2_1
+    admin_name: Klina
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.4.3_1_Adm2:
+    GID: XKO.4.3_1
+    admin_name: Peć
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5_1_Adm1:
+    GID: XKO.5_1
+    admin_name: Pristina
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm1
+  XKO.5.1_1_Adm2:
+    GID: XKO.5.1_1
+    admin_name: Glogovac
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.2_1_Adm2:
+    GID: XKO.5.2_1
+    admin_name: Kosovo Polje
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.3_1_Adm2:
+    GID: XKO.5.3_1
+    admin_name: Lipljan
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.4_1_Adm2:
+    GID: XKO.5.4_1
+    admin_name: Novo Brdo
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.5_1_Adm2:
+    GID: XKO.5.5_1
+    admin_name: Obilić
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.6_1_Adm2:
+    GID: XKO.5.6_1
+    admin_name: Podujevo
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.5.7_1_Adm2:
+    GID: XKO.5.7_1
+    admin_name: Priština
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.6_1_Adm1:
+    GID: XKO.6_1
+    admin_name: Prizren
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm1
+  XKO.6.1_1_Adm2:
+    GID: XKO.6.1_1
+    admin_name: Dragaš
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.6.2_1_Adm2:
+    GID: XKO.6.2_1
+    admin_name: Mališevo
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.6.3_1_Adm2:
+    GID: XKO.6.3_1
+    admin_name: Prizren
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.6.4_1_Adm2:
+    GID: XKO.6.4_1
+    admin_name: Suva Reka
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.7_1_Adm1:
+    GID: XKO.7_1
+    admin_name: Uroševac
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm1
+  XKO.7.1_1_Adm2:
+    GID: XKO.7.1_1
+    admin_name: Kačanik
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.7.2_1_Adm2:
+    GID: XKO.7.2_1
+    admin_name: Štimlje
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.7.3_1_Adm2:
+    GID: XKO.7.3_1
+    admin_name: Štrpce
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2
+  XKO.7.4_1_Adm2:
+    GID: XKO.7.4_1
+    admin_name: Uroševac
+    iso3c: XKO
+    country_name: Kosovo
+    admin_level: Adm2

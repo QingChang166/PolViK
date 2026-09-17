@@ -1,0 +1,1975 @@
+concepts:
+  PRT.0_Adm0:
+    GID: PRT
+    admin_name: Portugal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm0
+  PRT.1_1_Adm1:
+    GID: PRT.1_1
+    admin_name: Aveiro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.1.1_1_Adm2:
+    GID: PRT.1.1_1
+    admin_name: Águeda
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.10_1_Adm2:
+    GID: PRT.1.10_1
+    admin_name: Mealhada
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.11_1_Adm2:
+    GID: PRT.1.11_1
+    admin_name: Murtosa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.12_1_Adm2:
+    GID: PRT.1.12_1
+    admin_name: Oliveira de Azeméis
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.13_1_Adm2:
+    GID: PRT.1.13_1
+    admin_name: Oliveira do Bairro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.14_1_Adm2:
+    GID: PRT.1.14_1
+    admin_name: Ovar
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.15_1_Adm2:
+    GID: PRT.1.15_1
+    admin_name: Santa Maria da Feira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.16_1_Adm2:
+    GID: PRT.1.16_1
+    admin_name: São João da Madeira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.17_1_Adm2:
+    GID: PRT.1.17_1
+    admin_name: Sever do Vouga
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.18_1_Adm2:
+    GID: PRT.1.18_1
+    admin_name: Vagos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.19_1_Adm2:
+    GID: PRT.1.19_1
+    admin_name: Vale de Cambra
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.2_1_Adm2:
+    GID: PRT.1.2_1
+    admin_name: Albergaria-a-Velha
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.3_1_Adm2:
+    GID: PRT.1.3_1
+    admin_name: Anadia
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.4_1_Adm2:
+    GID: PRT.1.4_1
+    admin_name: Arouca
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.5_1_Adm2:
+    GID: PRT.1.5_1
+    admin_name: Aveiro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.6_1_Adm2:
+    GID: PRT.1.6_1
+    admin_name: Castelo de Paiva
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.7_1_Adm2:
+    GID: PRT.1.7_1
+    admin_name: Espinho
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.8_1_Adm2:
+    GID: PRT.1.8_1
+    admin_name: Estarreja
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.1.9_1_Adm2:
+    GID: PRT.1.9_1
+    admin_name: Ílhavo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10_1_Adm1:
+    GID: PRT.10_1
+    admin_name: Guarda
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.10.1_1_Adm2:
+    GID: PRT.10.1_1
+    admin_name: Aguiar da Beira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.10_1_Adm2:
+    GID: PRT.10.10_1
+    admin_name: Pinhel
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.11_1_Adm2:
+    GID: PRT.10.11_1
+    admin_name: Sabugal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.12_1_Adm2:
+    GID: PRT.10.12_1
+    admin_name: Seia
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.13_1_Adm2:
+    GID: PRT.10.13_1
+    admin_name: Trancoso
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.14_1_Adm2:
+    GID: PRT.10.14_1
+    admin_name: Vila Nova de Foz Côa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.2_1_Adm2:
+    GID: PRT.10.2_1
+    admin_name: Almeida
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.3_1_Adm2:
+    GID: PRT.10.3_1
+    admin_name: Celorico da Beira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.4_1_Adm2:
+    GID: PRT.10.4_1
+    admin_name: Figueira de Castelo Rodrigo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.5_1_Adm2:
+    GID: PRT.10.5_1
+    admin_name: Fornos de Algodres
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.6_1_Adm2:
+    GID: PRT.10.6_1
+    admin_name: Gouveia
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.7_1_Adm2:
+    GID: PRT.10.7_1
+    admin_name: Guarda
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.8_1_Adm2:
+    GID: PRT.10.8_1
+    admin_name: Manteigas
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.10.9_1_Adm2:
+    GID: PRT.10.9_1
+    admin_name: Mêda
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11_1_Adm1:
+    GID: PRT.11_1
+    admin_name: Leiria
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.11.1_1_Adm2:
+    GID: PRT.11.1_1
+    admin_name: Alcobaça
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.10_1_Adm2:
+    GID: PRT.11.10_1
+    admin_name: Marinha Grande
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.11_1_Adm2:
+    GID: PRT.11.11_1
+    admin_name: Nazaré
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.12_1_Adm2:
+    GID: PRT.11.12_1
+    admin_name: Óbidos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.13_1_Adm2:
+    GID: PRT.11.13_1
+    admin_name: Pedrógão Grande
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.14_1_Adm2:
+    GID: PRT.11.14_1
+    admin_name: Peniche
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.15_1_Adm2:
+    GID: PRT.11.15_1
+    admin_name: Pombal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.16_1_Adm2:
+    GID: PRT.11.16_1
+    admin_name: Porto de Mós
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.2_1_Adm2:
+    GID: PRT.11.2_1
+    admin_name: Alvaiázere
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.3_1_Adm2:
+    GID: PRT.11.3_1
+    admin_name: Ansião
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.4_1_Adm2:
+    GID: PRT.11.4_1
+    admin_name: Batalha
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.5_1_Adm2:
+    GID: PRT.11.5_1
+    admin_name: Bombarral
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.6_1_Adm2:
+    GID: PRT.11.6_1
+    admin_name: Caldas da Rainha
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.7_1_Adm2:
+    GID: PRT.11.7_1
+    admin_name: Castanheira de Pêra
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.8_1_Adm2:
+    GID: PRT.11.8_1
+    admin_name: Figueiró dos Vinhos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.11.9_1_Adm2:
+    GID: PRT.11.9_1
+    admin_name: Leiria
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12_1_Adm1:
+    GID: PRT.12_1
+    admin_name: Lisboa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.12.1_1_Adm2:
+    GID: PRT.12.1_1
+    admin_name: Alenquer
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.10_1_Adm2:
+    GID: PRT.12.10_1
+    admin_name: Mafra
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.11_1_Adm2:
+    GID: PRT.12.11_1
+    admin_name: Odivelas
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.12_1_Adm2:
+    GID: PRT.12.12_1
+    admin_name: Oeiras
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.13_1_Adm2:
+    GID: PRT.12.13_1
+    admin_name: Sintra
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.14_1_Adm2:
+    GID: PRT.12.14_1
+    admin_name: Sobral de Monte Agraço
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.15_1_Adm2:
+    GID: PRT.12.15_1
+    admin_name: Torres Vedras
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.16_1_Adm2:
+    GID: PRT.12.16_1
+    admin_name: Vila Franca de Xira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.2_1_Adm2:
+    GID: PRT.12.2_1
+    admin_name: Amadora
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.3_1_Adm2:
+    GID: PRT.12.3_1
+    admin_name: Arruda dos Vinhos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.4_1_Adm2:
+    GID: PRT.12.4_1
+    admin_name: Azambuja
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.5_1_Adm2:
+    GID: PRT.12.5_1
+    admin_name: Cadaval
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.6_1_Adm2:
+    GID: PRT.12.6_1
+    admin_name: Cascais
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.7_1_Adm2:
+    GID: PRT.12.7_1
+    admin_name: Lisboa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.8_1_Adm2:
+    GID: PRT.12.8_1
+    admin_name: Loures
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.12.9_1_Adm2:
+    GID: PRT.12.9_1
+    admin_name: Lourinhã
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13_1_Adm1:
+    GID: PRT.13_1
+    admin_name: Madeira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.13.1_1_Adm2:
+    GID: PRT.13.1_1
+    admin_name: Calheta
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.10_1_Adm2:
+    GID: PRT.13.10_1
+    admin_name: Santana
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.11_1_Adm2:
+    GID: PRT.13.11_1
+    admin_name: São Vicente
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.2_1_Adm2:
+    GID: PRT.13.2_1
+    admin_name: Câmara de Lobos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.3_1_Adm2:
+    GID: PRT.13.3_1
+    admin_name: Funchal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.4_1_Adm2:
+    GID: PRT.13.4_1
+    admin_name: Machico
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.5_1_Adm2:
+    GID: PRT.13.5_1
+    admin_name: Ponta do Sol
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.6_1_Adm2:
+    GID: PRT.13.6_1
+    admin_name: Porto Moniz
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.7_1_Adm2:
+    GID: PRT.13.7_1
+    admin_name: Porto Santo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.8_1_Adm2:
+    GID: PRT.13.8_1
+    admin_name: Ribeira Brava
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.13.9_1_Adm2:
+    GID: PRT.13.9_1
+    admin_name: Santa Cruz
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14_1_Adm1:
+    GID: PRT.14_1
+    admin_name: Portalegre
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.14.1_1_Adm2:
+    GID: PRT.14.1_1
+    admin_name: Alter do Chão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.10_1_Adm2:
+    GID: PRT.14.10_1
+    admin_name: Marvão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.11_1_Adm2:
+    GID: PRT.14.11_1
+    admin_name: Monforte
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.12_1_Adm2:
+    GID: PRT.14.12_1
+    admin_name: Nisa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.13_1_Adm2:
+    GID: PRT.14.13_1
+    admin_name: Ponte de Sôr
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.14_1_Adm2:
+    GID: PRT.14.14_1
+    admin_name: Portalegre
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.15_1_Adm2:
+    GID: PRT.14.15_1
+    admin_name: Sousel
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.2_1_Adm2:
+    GID: PRT.14.2_1
+    admin_name: Arronches
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.3_1_Adm2:
+    GID: PRT.14.3_1
+    admin_name: Avis
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.4_1_Adm2:
+    GID: PRT.14.4_1
+    admin_name: Campo Maior
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.5_1_Adm2:
+    GID: PRT.14.5_1
+    admin_name: Castelo de Vide
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.6_1_Adm2:
+    GID: PRT.14.6_1
+    admin_name: Crato
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.7_1_Adm2:
+    GID: PRT.14.7_1
+    admin_name: Elvas
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.8_1_Adm2:
+    GID: PRT.14.8_1
+    admin_name: Fronteira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.14.9_1_Adm2:
+    GID: PRT.14.9_1
+    admin_name: Gavião
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15_1_Adm1:
+    GID: PRT.15_1
+    admin_name: Porto
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.15.1_1_Adm2:
+    GID: PRT.15.1_1
+    admin_name: Amarante
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.10_1_Adm2:
+    GID: PRT.15.10_1
+    admin_name: Paredes
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.11_1_Adm2:
+    GID: PRT.15.11_1
+    admin_name: Penafiel
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.12_1_Adm2:
+    GID: PRT.15.12_1
+    admin_name: Porto
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.13_1_Adm2:
+    GID: PRT.15.13_1
+    admin_name: Póvoa de Varzim
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.14_1_Adm2:
+    GID: PRT.15.14_1
+    admin_name: Santo Tirso
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.15_1_Adm2:
+    GID: PRT.15.15_1
+    admin_name: Trofa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.16_1_Adm2:
+    GID: PRT.15.16_1
+    admin_name: Valongo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.17_1_Adm2:
+    GID: PRT.15.17_1
+    admin_name: Vila do Conde
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.18_1_Adm2:
+    GID: PRT.15.18_1
+    admin_name: Vila Nova de Gaia
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.2_1_Adm2:
+    GID: PRT.15.2_1
+    admin_name: Baião
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.3_1_Adm2:
+    GID: PRT.15.3_1
+    admin_name: Felgueiras
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.4_1_Adm2:
+    GID: PRT.15.4_1
+    admin_name: Gondomar
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.5_1_Adm2:
+    GID: PRT.15.5_1
+    admin_name: Lousada
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.6_1_Adm2:
+    GID: PRT.15.6_1
+    admin_name: Maia
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.7_1_Adm2:
+    GID: PRT.15.7_1
+    admin_name: Marco de Canaveses
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.8_1_Adm2:
+    GID: PRT.15.8_1
+    admin_name: Matosinhos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.15.9_1_Adm2:
+    GID: PRT.15.9_1
+    admin_name: Paços de Ferreira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16_1_Adm1:
+    GID: PRT.16_1
+    admin_name: Santarém
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.16.1_1_Adm2:
+    GID: PRT.16.1_1
+    admin_name: Abrantes
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.10_1_Adm2:
+    GID: PRT.16.10_1
+    admin_name: Entroncamento
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.11_1_Adm2:
+    GID: PRT.16.11_1
+    admin_name: Ferreira do Zêzere
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.12_1_Adm2:
+    GID: PRT.16.12_1
+    admin_name: Golegã
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.13_1_Adm2:
+    GID: PRT.16.13_1
+    admin_name: Mação
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.14_1_Adm2:
+    GID: PRT.16.14_1
+    admin_name: Ourém
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.15_1_Adm2:
+    GID: PRT.16.15_1
+    admin_name: Rio Maior
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.16_1_Adm2:
+    GID: PRT.16.16_1
+    admin_name: Salvaterra de Magos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.17_1_Adm2:
+    GID: PRT.16.17_1
+    admin_name: Santarém
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.18_1_Adm2:
+    GID: PRT.16.18_1
+    admin_name: Sardoal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.19_1_Adm2:
+    GID: PRT.16.19_1
+    admin_name: Tomar
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.2_1_Adm2:
+    GID: PRT.16.2_1
+    admin_name: Alcanena
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.20_1_Adm2:
+    GID: PRT.16.20_1
+    admin_name: Torres Novas
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.21_1_Adm2:
+    GID: PRT.16.21_1
+    admin_name: Vila Nova da Barquinha
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.3_1_Adm2:
+    GID: PRT.16.3_1
+    admin_name: Almeirim
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.4_1_Adm2:
+    GID: PRT.16.4_1
+    admin_name: Alpiarça
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.5_1_Adm2:
+    GID: PRT.16.5_1
+    admin_name: Benavente
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.6_1_Adm2:
+    GID: PRT.16.6_1
+    admin_name: Cartaxo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.7_1_Adm2:
+    GID: PRT.16.7_1
+    admin_name: Chamusca
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.8_1_Adm2:
+    GID: PRT.16.8_1
+    admin_name: Constância
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.16.9_1_Adm2:
+    GID: PRT.16.9_1
+    admin_name: Coruche
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17_1_Adm1:
+    GID: PRT.17_1
+    admin_name: Setúbal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.17.1_1_Adm2:
+    GID: PRT.17.1_1
+    admin_name: Alcácer do Sal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.10_1_Adm2:
+    GID: PRT.17.10_1
+    admin_name: Seixal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.11_1_Adm2:
+    GID: PRT.17.11_1
+    admin_name: Sesimbra
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.12_1_Adm2:
+    GID: PRT.17.12_1
+    admin_name: Setúbal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.13_1_Adm2:
+    GID: PRT.17.13_1
+    admin_name: Sines
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.2_1_Adm2:
+    GID: PRT.17.2_1
+    admin_name: Alcochete
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.3_1_Adm2:
+    GID: PRT.17.3_1
+    admin_name: Almada
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.4_1_Adm2:
+    GID: PRT.17.4_1
+    admin_name: Barreiro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.5_1_Adm2:
+    GID: PRT.17.5_1
+    admin_name: Grândola
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.6_1_Adm2:
+    GID: PRT.17.6_1
+    admin_name: Moita
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.7_1_Adm2:
+    GID: PRT.17.7_1
+    admin_name: Montijo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.8_1_Adm2:
+    GID: PRT.17.8_1
+    admin_name: Palmela
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.17.9_1_Adm2:
+    GID: PRT.17.9_1
+    admin_name: Santiago do Cacém
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18_1_Adm1:
+    GID: PRT.18_1
+    admin_name: Viana do Castelo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.18.1_1_Adm2:
+    GID: PRT.18.1_1
+    admin_name: Arcos de Valdevez
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.10_1_Adm2:
+    GID: PRT.18.10_1
+    admin_name: Vila Nova de Cerveira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.2_1_Adm2:
+    GID: PRT.18.2_1
+    admin_name: Caminha
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.3_1_Adm2:
+    GID: PRT.18.3_1
+    admin_name: Melgaço
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.4_1_Adm2:
+    GID: PRT.18.4_1
+    admin_name: Monção
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.5_1_Adm2:
+    GID: PRT.18.5_1
+    admin_name: Paredes de Coura
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.6_1_Adm2:
+    GID: PRT.18.6_1
+    admin_name: Ponte da Barca
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.7_1_Adm2:
+    GID: PRT.18.7_1
+    admin_name: Ponte de Lima
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.8_1_Adm2:
+    GID: PRT.18.8_1
+    admin_name: Valença
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.18.9_1_Adm2:
+    GID: PRT.18.9_1
+    admin_name: Viana do Castelo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19_1_Adm1:
+    GID: PRT.19_1
+    admin_name: Vila Real
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.19.1_1_Adm2:
+    GID: PRT.19.1_1
+    admin_name: Alijó
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.10_1_Adm2:
+    GID: PRT.19.10_1
+    admin_name: Sabrosa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.11_1_Adm2:
+    GID: PRT.19.11_1
+    admin_name: Santa Marta de Penaguião
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.12_1_Adm2:
+    GID: PRT.19.12_1
+    admin_name: Valpaços
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.13_1_Adm2:
+    GID: PRT.19.13_1
+    admin_name: Vila Pouca de Aguiar
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.14_1_Adm2:
+    GID: PRT.19.14_1
+    admin_name: Vila Real
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.2_1_Adm2:
+    GID: PRT.19.2_1
+    admin_name: Boticas
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.3_1_Adm2:
+    GID: PRT.19.3_1
+    admin_name: Chaves
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.4_1_Adm2:
+    GID: PRT.19.4_1
+    admin_name: Mesão Frio
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.5_1_Adm2:
+    GID: PRT.19.5_1
+    admin_name: Mondim de Basto
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.6_1_Adm2:
+    GID: PRT.19.6_1
+    admin_name: Montalegre
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.7_1_Adm2:
+    GID: PRT.19.7_1
+    admin_name: Murça
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.8_1_Adm2:
+    GID: PRT.19.8_1
+    admin_name: Peso da Régua
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.19.9_1_Adm2:
+    GID: PRT.19.9_1
+    admin_name: Ribeira de Pena
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2_1_Adm1:
+    GID: PRT.2_1
+    admin_name: Azores
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.2.1_1_Adm2:
+    GID: PRT.2.1_1
+    admin_name: Angra do Heroísmo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.10_1_Adm2:
+    GID: PRT.2.10_1
+    admin_name: Ponta Delgada
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.11_1_Adm2:
+    GID: PRT.2.11_1
+    admin_name: Povoação
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.12_1_Adm2:
+    GID: PRT.2.12_1
+    admin_name: Praia da Vitória
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.13_1_Adm2:
+    GID: PRT.2.13_1
+    admin_name: Ribeira Grande
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.14_1_Adm2:
+    GID: PRT.2.14_1
+    admin_name: Santa Cruz da Graciosa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.15_1_Adm2:
+    GID: PRT.2.15_1
+    admin_name: Santa Cruz das Flores
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.16_1_Adm2:
+    GID: PRT.2.16_1
+    admin_name: São Roque do Pico
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.17_1_Adm2:
+    GID: PRT.2.17_1
+    admin_name: Velas
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.18_1_Adm2:
+    GID: PRT.2.18_1
+    admin_name: Vila do Porto
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.19_1_Adm2:
+    GID: PRT.2.19_1
+    admin_name: Vila Franca do Campo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.2_1_Adm2:
+    GID: PRT.2.2_1
+    admin_name: Calheta
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.3_1_Adm2:
+    GID: PRT.2.3_1
+    admin_name: Corvo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.4_1_Adm2:
+    GID: PRT.2.4_1
+    admin_name: Horta
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.5_1_Adm2:
+    GID: PRT.2.5_1
+    admin_name: Lagoa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.6_1_Adm2:
+    GID: PRT.2.6_1
+    admin_name: Lajes das Flores
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.7_1_Adm2:
+    GID: PRT.2.7_1
+    admin_name: Lajes do Pico
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.8_1_Adm2:
+    GID: PRT.2.8_1
+    admin_name: Madalena
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.2.9_1_Adm2:
+    GID: PRT.2.9_1
+    admin_name: Nordeste
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20_1_Adm1:
+    GID: PRT.20_1
+    admin_name: Viseu
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.20.1_1_Adm2:
+    GID: PRT.20.1_1
+    admin_name: Armamar
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.10_1_Adm2:
+    GID: PRT.20.10_1
+    admin_name: Oliveira de Frades
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.11_1_Adm2:
+    GID: PRT.20.11_1
+    admin_name: Penalva do Castelo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.12_1_Adm2:
+    GID: PRT.20.12_1
+    admin_name: Penedono
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.13_1_Adm2:
+    GID: PRT.20.13_1
+    admin_name: Resende
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.14_1_Adm2:
+    GID: PRT.20.14_1
+    admin_name: Santa Comba Dão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.15_1_Adm2:
+    GID: PRT.20.15_1
+    admin_name: São João da Pesqueira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.16_1_Adm2:
+    GID: PRT.20.16_1
+    admin_name: São Pedro do Sul
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.17_1_Adm2:
+    GID: PRT.20.17_1
+    admin_name: Sátão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.18_1_Adm2:
+    GID: PRT.20.18_1
+    admin_name: Sernancelhe
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.19_1_Adm2:
+    GID: PRT.20.19_1
+    admin_name: Tabuaço
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.2_1_Adm2:
+    GID: PRT.20.2_1
+    admin_name: Carregal do Sal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.20_1_Adm2:
+    GID: PRT.20.20_1
+    admin_name: Tarouca
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.21_1_Adm2:
+    GID: PRT.20.21_1
+    admin_name: Tondela
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.22_1_Adm2:
+    GID: PRT.20.22_1
+    admin_name: Vila Nova de Paiva
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.23_1_Adm2:
+    GID: PRT.20.23_1
+    admin_name: Viseu
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.24_1_Adm2:
+    GID: PRT.20.24_1
+    admin_name: Vouzela
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.3_1_Adm2:
+    GID: PRT.20.3_1
+    admin_name: Castro Daire
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.4_1_Adm2:
+    GID: PRT.20.4_1
+    admin_name: Cinfães
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.5_1_Adm2:
+    GID: PRT.20.5_1
+    admin_name: Lamego
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.6_1_Adm2:
+    GID: PRT.20.6_1
+    admin_name: Mangualde
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.7_1_Adm2:
+    GID: PRT.20.7_1
+    admin_name: Moimenta da Beira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.8_1_Adm2:
+    GID: PRT.20.8_1
+    admin_name: Mortágua
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.20.9_1_Adm2:
+    GID: PRT.20.9_1
+    admin_name: Nelas
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3_1_Adm1:
+    GID: PRT.3_1
+    admin_name: Beja
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.3.1_1_Adm2:
+    GID: PRT.3.1_1
+    admin_name: Aljustrel
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.10_1_Adm2:
+    GID: PRT.3.10_1
+    admin_name: Moura
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.11_1_Adm2:
+    GID: PRT.3.11_1
+    admin_name: Odemira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.12_1_Adm2:
+    GID: PRT.3.12_1
+    admin_name: Ourique
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.13_1_Adm2:
+    GID: PRT.3.13_1
+    admin_name: Serpa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.14_1_Adm2:
+    GID: PRT.3.14_1
+    admin_name: Vidigueira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.2_1_Adm2:
+    GID: PRT.3.2_1
+    admin_name: Almodôvar
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.3_1_Adm2:
+    GID: PRT.3.3_1
+    admin_name: Alvito
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.4_1_Adm2:
+    GID: PRT.3.4_1
+    admin_name: Barrancos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.5_1_Adm2:
+    GID: PRT.3.5_1
+    admin_name: Beja
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.6_1_Adm2:
+    GID: PRT.3.6_1
+    admin_name: Castro Verde
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.7_1_Adm2:
+    GID: PRT.3.7_1
+    admin_name: Cuba
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.8_1_Adm2:
+    GID: PRT.3.8_1
+    admin_name: Ferreira do Alentejo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.3.9_1_Adm2:
+    GID: PRT.3.9_1
+    admin_name: Mértola
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4_1_Adm1:
+    GID: PRT.4_1
+    admin_name: Braga
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.4.1_1_Adm2:
+    GID: PRT.4.1_1
+    admin_name: Amares
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.10_1_Adm2:
+    GID: PRT.4.10_1
+    admin_name: Terras de Bouro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.11_1_Adm2:
+    GID: PRT.4.11_1
+    admin_name: Vieira do Minho
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.12_1_Adm2:
+    GID: PRT.4.12_1
+    admin_name: Vila Nova de Famalicão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.13_1_Adm2:
+    GID: PRT.4.13_1
+    admin_name: Vila Verde
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.14_1_Adm2:
+    GID: PRT.4.14_1
+    admin_name: Vizela
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.2_1_Adm2:
+    GID: PRT.4.2_1
+    admin_name: Barcelos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.3_1_Adm2:
+    GID: PRT.4.3_1
+    admin_name: Braga
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.4_1_Adm2:
+    GID: PRT.4.4_1
+    admin_name: Cabeceiras de Basto
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.5_1_Adm2:
+    GID: PRT.4.5_1
+    admin_name: Celorico de Basto
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.6_1_Adm2:
+    GID: PRT.4.6_1
+    admin_name: Esposende
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.7_1_Adm2:
+    GID: PRT.4.7_1
+    admin_name: Fafe
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.8_1_Adm2:
+    GID: PRT.4.8_1
+    admin_name: Guimarães
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.4.9_1_Adm2:
+    GID: PRT.4.9_1
+    admin_name: Póvoa de Lanhoso
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5_1_Adm1:
+    GID: PRT.5_1
+    admin_name: Bragança
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.5.1_1_Adm2:
+    GID: PRT.5.1_1
+    admin_name: Alfândega da Fé
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.10_1_Adm2:
+    GID: PRT.5.10_1
+    admin_name: Vila Flor
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.11_1_Adm2:
+    GID: PRT.5.11_1
+    admin_name: Vimioso
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.12_1_Adm2:
+    GID: PRT.5.12_1
+    admin_name: Vinhais
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.2_1_Adm2:
+    GID: PRT.5.2_1
+    admin_name: Bragança
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.3_1_Adm2:
+    GID: PRT.5.3_1
+    admin_name: Carrazeda de Ansiães
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.4_1_Adm2:
+    GID: PRT.5.4_1
+    admin_name: Freixo de Espada à Cinta
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.5_1_Adm2:
+    GID: PRT.5.5_1
+    admin_name: Macedo de Cavaleiros
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.6_1_Adm2:
+    GID: PRT.5.6_1
+    admin_name: Miranda do Douro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.7_1_Adm2:
+    GID: PRT.5.7_1
+    admin_name: Mirandela
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.8_1_Adm2:
+    GID: PRT.5.8_1
+    admin_name: Mogadouro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.5.9_1_Adm2:
+    GID: PRT.5.9_1
+    admin_name: Torre de Moncorvo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6_1_Adm1:
+    GID: PRT.6_1
+    admin_name: Castelo Branco
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.6.1_1_Adm2:
+    GID: PRT.6.1_1
+    admin_name: Belmonte
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.10_1_Adm2:
+    GID: PRT.6.10_1
+    admin_name: Vila de Rei
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.11_1_Adm2:
+    GID: PRT.6.11_1
+    admin_name: Vila Velha de Ródão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.2_1_Adm2:
+    GID: PRT.6.2_1
+    admin_name: Castelo Branco
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.3_1_Adm2:
+    GID: PRT.6.3_1
+    admin_name: Covilhã
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.4_1_Adm2:
+    GID: PRT.6.4_1
+    admin_name: Fundão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.5_1_Adm2:
+    GID: PRT.6.5_1
+    admin_name: Idanha-a-Nova
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.6_1_Adm2:
+    GID: PRT.6.6_1
+    admin_name: Oleiros
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.7_1_Adm2:
+    GID: PRT.6.7_1
+    admin_name: Penamacor
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.8_1_Adm2:
+    GID: PRT.6.8_1
+    admin_name: Proença-a-Nova
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.6.9_1_Adm2:
+    GID: PRT.6.9_1
+    admin_name: Sertã
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7_1_Adm1:
+    GID: PRT.7_1
+    admin_name: Coimbra
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.7.1_1_Adm2:
+    GID: PRT.7.1_1
+    admin_name: Arganil
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.10_1_Adm2:
+    GID: PRT.7.10_1
+    admin_name: Montemor-o-Velho
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.11_1_Adm2:
+    GID: PRT.7.11_1
+    admin_name: Oliveira do Hospital
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.12_1_Adm2:
+    GID: PRT.7.12_1
+    admin_name: Pampilhosa da Serra
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.13_1_Adm2:
+    GID: PRT.7.13_1
+    admin_name: Penacova
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.14_1_Adm2:
+    GID: PRT.7.14_1
+    admin_name: Penela
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.15_1_Adm2:
+    GID: PRT.7.15_1
+    admin_name: Soure
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.16_1_Adm2:
+    GID: PRT.7.16_1
+    admin_name: Tábua
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.17_1_Adm2:
+    GID: PRT.7.17_1
+    admin_name: Vila Nova de Poiares
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.2_1_Adm2:
+    GID: PRT.7.2_1
+    admin_name: Cantanhede
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.3_1_Adm2:
+    GID: PRT.7.3_1
+    admin_name: Coimbra
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.4_1_Adm2:
+    GID: PRT.7.4_1
+    admin_name: Condeixa-a-Nova
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.5_1_Adm2:
+    GID: PRT.7.5_1
+    admin_name: Figueira da Foz
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.6_1_Adm2:
+    GID: PRT.7.6_1
+    admin_name: Góis
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.7_1_Adm2:
+    GID: PRT.7.7_1
+    admin_name: Lousã
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.8_1_Adm2:
+    GID: PRT.7.8_1
+    admin_name: Mira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.7.9_1_Adm2:
+    GID: PRT.7.9_1
+    admin_name: Miranda do Corvo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8_1_Adm1:
+    GID: PRT.8_1
+    admin_name: Évora
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.8.1_1_Adm2:
+    GID: PRT.8.1_1
+    admin_name: Alandroal
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.10_1_Adm2:
+    GID: PRT.8.10_1
+    admin_name: Redondo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.11_1_Adm2:
+    GID: PRT.8.11_1
+    admin_name: Reguengos de Monsaraz
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.12_1_Adm2:
+    GID: PRT.8.12_1
+    admin_name: Vendas Novas
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.13_1_Adm2:
+    GID: PRT.8.13_1
+    admin_name: Viana do Alentejo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.14_1_Adm2:
+    GID: PRT.8.14_1
+    admin_name: Vila Viçosa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.2_1_Adm2:
+    GID: PRT.8.2_1
+    admin_name: Arraiolos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.3_1_Adm2:
+    GID: PRT.8.3_1
+    admin_name: Borba
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.4_1_Adm2:
+    GID: PRT.8.4_1
+    admin_name: Estremoz
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.5_1_Adm2:
+    GID: PRT.8.5_1
+    admin_name: Évora
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.6_1_Adm2:
+    GID: PRT.8.6_1
+    admin_name: Montemor-o-Novo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.7_1_Adm2:
+    GID: PRT.8.7_1
+    admin_name: Mora
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.8_1_Adm2:
+    GID: PRT.8.8_1
+    admin_name: Mourão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.8.9_1_Adm2:
+    GID: PRT.8.9_1
+    admin_name: Portel
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9_1_Adm1:
+    GID: PRT.9_1
+    admin_name: Faro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm1
+  PRT.9.1_1_Adm2:
+    GID: PRT.9.1_1
+    admin_name: Albufeira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.10_1_Adm2:
+    GID: PRT.9.10_1
+    admin_name: Olhão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.11_1_Adm2:
+    GID: PRT.9.11_1
+    admin_name: Portimão
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.12_1_Adm2:
+    GID: PRT.9.12_1
+    admin_name: São Brás de Alportel
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.13_1_Adm2:
+    GID: PRT.9.13_1
+    admin_name: Silves
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.14_1_Adm2:
+    GID: PRT.9.14_1
+    admin_name: Tavira
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.15_1_Adm2:
+    GID: PRT.9.15_1
+    admin_name: Vila do Bispo
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.16_1_Adm2:
+    GID: PRT.9.16_1
+    admin_name: Vila Real de Santo António
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.2_1_Adm2:
+    GID: PRT.9.2_1
+    admin_name: Alcoutim
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.3_1_Adm2:
+    GID: PRT.9.3_1
+    admin_name: Aljezur
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.4_1_Adm2:
+    GID: PRT.9.4_1
+    admin_name: Castro Marim
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.5_1_Adm2:
+    GID: PRT.9.5_1
+    admin_name: Faro
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.6_1_Adm2:
+    GID: PRT.9.6_1
+    admin_name: Lagoa
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.7_1_Adm2:
+    GID: PRT.9.7_1
+    admin_name: Lagos
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.8_1_Adm2:
+    GID: PRT.9.8_1
+    admin_name: Loulé
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2
+  PRT.9.9_1_Adm2:
+    GID: PRT.9.9_1
+    admin_name: Monchique
+    iso3c: PRT
+    country_name: Portugal
+    admin_level: Adm2

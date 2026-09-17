@@ -1,0 +1,847 @@
+concepts:
+  MOZ.0_Adm0:
+    GID: MOZ
+    admin_name: Mozambique
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm0
+  MOZ.1_1_Adm1:
+    GID: MOZ.1_1
+    admin_name: Cabo Delgado
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.1.1_1_Adm2:
+    GID: MOZ.1.1_1
+    admin_name: Ancuabe
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.10_1_Adm2:
+    GID: MOZ.1.10_1
+    admin_name: Muidumbe
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.11_1_Adm2:
+    GID: MOZ.1.11_1
+    admin_name: Namuno
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.12_1_Adm2:
+    GID: MOZ.1.12_1
+    admin_name: Nangade
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.13_1_Adm2:
+    GID: MOZ.1.13_1
+    admin_name: Palma
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.14_1_Adm2:
+    GID: MOZ.1.14_1
+    admin_name: Pemba
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.15_1_Adm2:
+    GID: MOZ.1.15_1
+    admin_name: Quissanga
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.2_1_Adm2:
+    GID: MOZ.1.2_1
+    admin_name: Balama
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.3_1_Adm2:
+    GID: MOZ.1.3_1
+    admin_name: Chiúre
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.4_1_Adm2:
+    GID: MOZ.1.4_1
+    admin_name: Macomia
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.5_1_Adm2:
+    GID: MOZ.1.5_1
+    admin_name: Mecufi
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.6_1_Adm2:
+    GID: MOZ.1.6_1
+    admin_name: Meluco
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.7_1_Adm2:
+    GID: MOZ.1.7_1
+    admin_name: Mocimboa da Praia
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.8_1_Adm2:
+    GID: MOZ.1.8_1
+    admin_name: Montepuez
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.1.9_1_Adm2:
+    GID: MOZ.1.9_1
+    admin_name: Mueda
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10_1_Adm1:
+    GID: MOZ.10_1
+    admin_name: Tete
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.10.1_1_Adm2:
+    GID: MOZ.10.1_1
+    admin_name: Angónia
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.10_1_Adm2:
+    GID: MOZ.10.10_1
+    admin_name: Mutarara
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.11_1_Adm2:
+    GID: MOZ.10.11_1
+    admin_name: Tsangano
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.12_1_Adm2:
+    GID: MOZ.10.12_1
+    admin_name: Zumbu
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.2_1_Adm2:
+    GID: MOZ.10.2_1
+    admin_name: Cahora Bassa
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.3_1_Adm2:
+    GID: MOZ.10.3_1
+    admin_name: Changara
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.4_1_Adm2:
+    GID: MOZ.10.4_1
+    admin_name: Chifunde
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.5_1_Adm2:
+    GID: MOZ.10.5_1
+    admin_name: Chiuta
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.6_1_Adm2:
+    GID: MOZ.10.6_1
+    admin_name: Macanga
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.7_1_Adm2:
+    GID: MOZ.10.7_1
+    admin_name: Magoe
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.8_1_Adm2:
+    GID: MOZ.10.8_1
+    admin_name: Maravia
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.10.9_1_Adm2:
+    GID: MOZ.10.9_1
+    admin_name: Moatize
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11_1_Adm1:
+    GID: MOZ.11_1
+    admin_name: Zambezia
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.11.1_1_Adm2:
+    GID: MOZ.11.1_1
+    admin_name: Alto Molocue
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.10_1_Adm2:
+    GID: MOZ.11.10_1
+    admin_name: Mocuba
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.11_1_Adm2:
+    GID: MOZ.11.11_1
+    admin_name: Mopeia
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.12_1_Adm2:
+    GID: MOZ.11.12_1
+    admin_name: Morrumbala
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.13_1_Adm2:
+    GID: MOZ.11.13_1
+    admin_name: Namacurra
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.14_1_Adm2:
+    GID: MOZ.11.14_1
+    admin_name: Namarroi
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.15_1_Adm2:
+    GID: MOZ.11.15_1
+    admin_name: Nicoadala
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.16_1_Adm2:
+    GID: MOZ.11.16_1
+    admin_name: Pebane
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.2_1_Adm2:
+    GID: MOZ.11.2_1
+    admin_name: Chinde
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.3_1_Adm2:
+    GID: MOZ.11.3_1
+    admin_name: Gile
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.4_1_Adm2:
+    GID: MOZ.11.4_1
+    admin_name: Gurue
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.5_1_Adm2:
+    GID: MOZ.11.5_1
+    admin_name: Ile
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.6_1_Adm2:
+    GID: MOZ.11.6_1
+    admin_name: Inhassunge
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.7_1_Adm2:
+    GID: MOZ.11.7_1
+    admin_name: Lugela
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.8_1_Adm2:
+    GID: MOZ.11.8_1
+    admin_name: Maganja da Costa
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.11.9_1_Adm2:
+    GID: MOZ.11.9_1
+    admin_name: Milange
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2_1_Adm1:
+    GID: MOZ.2_1
+    admin_name: Gaza
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.2.1_1_Adm2:
+    GID: MOZ.2.1_1
+    admin_name: Bilene
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.10_1_Adm2:
+    GID: MOZ.2.10_1
+    admin_name: Massingir
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.11_1_Adm2:
+    GID: MOZ.2.11_1
+    admin_name: Xai-Xai
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.2_1_Adm2:
+    GID: MOZ.2.2_1
+    admin_name: Chibuto
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.3_1_Adm2:
+    GID: MOZ.2.3_1
+    admin_name: Chicualacuala
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.4_1_Adm2:
+    GID: MOZ.2.4_1
+    admin_name: Chigubo
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.5_1_Adm2:
+    GID: MOZ.2.5_1
+    admin_name: Chókwè
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.6_1_Adm2:
+    GID: MOZ.2.6_1
+    admin_name: Guijá
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.7_1_Adm2:
+    GID: MOZ.2.7_1
+    admin_name: Mabalane
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.8_1_Adm2:
+    GID: MOZ.2.8_1
+    admin_name: Mandlakazi
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.2.9_1_Adm2:
+    GID: MOZ.2.9_1
+    admin_name: Massangena
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3_1_Adm1:
+    GID: MOZ.3_1
+    admin_name: Inhambane
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.3.1_1_Adm2:
+    GID: MOZ.3.1_1
+    admin_name: Funhalouro
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.10_1_Adm2:
+    GID: MOZ.3.10_1
+    admin_name: Panda
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.11_1_Adm2:
+    GID: MOZ.3.11_1
+    admin_name: Vilanculos
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.12_1_Adm2:
+    GID: MOZ.3.12_1
+    admin_name: Zavala
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.2_1_Adm2:
+    GID: MOZ.3.2_1
+    admin_name: Govuro
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.3_1_Adm2:
+    GID: MOZ.3.3_1
+    admin_name: Homoine
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.4_1_Adm2:
+    GID: MOZ.3.4_1
+    admin_name: Inharrime
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.5_1_Adm2:
+    GID: MOZ.3.5_1
+    admin_name: Inhassoro
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.6_1_Adm2:
+    GID: MOZ.3.6_1
+    admin_name: Jangamo
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.7_1_Adm2:
+    GID: MOZ.3.7_1
+    admin_name: Mabote
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.8_1_Adm2:
+    GID: MOZ.3.8_1
+    admin_name: Massinga
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.3.9_1_Adm2:
+    GID: MOZ.3.9_1
+    admin_name: Morrumbene
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4_1_Adm1:
+    GID: MOZ.4_1
+    admin_name: Manica
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.4.1_1_Adm2:
+    GID: MOZ.4.1_1
+    admin_name: Barue
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4.2_1_Adm2:
+    GID: MOZ.4.2_1
+    admin_name: Gondola
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4.3_1_Adm2:
+    GID: MOZ.4.3_1
+    admin_name: Guro
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4.4_1_Adm2:
+    GID: MOZ.4.4_1
+    admin_name: Machaze
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4.5_1_Adm2:
+    GID: MOZ.4.5_1
+    admin_name: Macossa
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4.6_1_Adm2:
+    GID: MOZ.4.6_1
+    admin_name: Manica
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4.7_1_Adm2:
+    GID: MOZ.4.7_1
+    admin_name: Mossurize
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4.8_1_Adm2:
+    GID: MOZ.4.8_1
+    admin_name: Sussundenga
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.4.9_1_Adm2:
+    GID: MOZ.4.9_1
+    admin_name: Tambara
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.5_1_Adm1:
+    GID: MOZ.5_1
+    admin_name: Maputo City
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.5.1_1_Adm2:
+    GID: MOZ.5.1_1
+    admin_name: Boane
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.5.2_1_Adm2:
+    GID: MOZ.5.2_1
+    admin_name: Maputo
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.6_1_Adm1:
+    GID: MOZ.6_1
+    admin_name: Maputo
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.6.1_1_Adm2:
+    GID: MOZ.6.1_1
+    admin_name: Boane
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.6.2_1_Adm2:
+    GID: MOZ.6.2_1
+    admin_name: Magude
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.6.3_1_Adm2:
+    GID: MOZ.6.3_1
+    admin_name: Manhiça
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.6.4_1_Adm2:
+    GID: MOZ.6.4_1
+    admin_name: Marracuene
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.6.5_1_Adm2:
+    GID: MOZ.6.5_1
+    admin_name: Matutuíne
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.6.6_1_Adm2:
+    GID: MOZ.6.6_1
+    admin_name: Moamba
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.6.7_1_Adm2:
+    GID: MOZ.6.7_1
+    admin_name: Namaacha
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7_1_Adm1:
+    GID: MOZ.7_1
+    admin_name: Nampula
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.7.1_1_Adm2:
+    GID: MOZ.7.1_1
+    admin_name: Angoche
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.10_1_Adm2:
+    GID: MOZ.7.10_1
+    admin_name: Monapo
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.11_1_Adm2:
+    GID: MOZ.7.11_1
+    admin_name: Mongincual
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.12_1_Adm2:
+    GID: MOZ.7.12_1
+    admin_name: Mossuril
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.13_1_Adm2:
+    GID: MOZ.7.13_1
+    admin_name: Muecate
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.14_1_Adm2:
+    GID: MOZ.7.14_1
+    admin_name: Murrupula
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.15_1_Adm2:
+    GID: MOZ.7.15_1
+    admin_name: Nacala Velha
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.16_1_Adm2:
+    GID: MOZ.7.16_1
+    admin_name: Namapa
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.17_1_Adm2:
+    GID: MOZ.7.17_1
+    admin_name: Nampula
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.18_1_Adm2:
+    GID: MOZ.7.18_1
+    admin_name: Ribaue
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.2_1_Adm2:
+    GID: MOZ.7.2_1
+    admin_name: Erati
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.3_1_Adm2:
+    GID: MOZ.7.3_1
+    admin_name: Lalaua
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.4_1_Adm2:
+    GID: MOZ.7.4_1
+    admin_name: Malema
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.5_1_Adm2:
+    GID: MOZ.7.5_1
+    admin_name: Meconta
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.6_1_Adm2:
+    GID: MOZ.7.6_1
+    admin_name: Mecuburi
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.7_1_Adm2:
+    GID: MOZ.7.7_1
+    admin_name: Memba
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.8_1_Adm2:
+    GID: MOZ.7.8_1
+    admin_name: Mogovolas
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.7.9_1_Adm2:
+    GID: MOZ.7.9_1
+    admin_name: Moma
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8_1_Adm1:
+    GID: MOZ.8_1
+    admin_name: Nassa
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.8.1_1_Adm2:
+    GID: MOZ.8.1_1
+    admin_name: Cuamba
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.10_1_Adm2:
+    GID: MOZ.8.10_1
+    admin_name: Mecula
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.11_1_Adm2:
+    GID: MOZ.8.11_1
+    admin_name: Metarica
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.12_1_Adm2:
+    GID: MOZ.8.12_1
+    admin_name: Muembe
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.13_1_Adm2:
+    GID: MOZ.8.13_1
+    admin_name: N'gauma
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.14_1_Adm2:
+    GID: MOZ.8.14_1
+    admin_name: Nipepe
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.15_1_Adm2:
+    GID: MOZ.8.15_1
+    admin_name: Sanga
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.2_1_Adm2:
+    GID: MOZ.8.2_1
+    admin_name: Lago
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.3_1_Adm2:
+    GID: MOZ.8.3_1
+    admin_name: Lichinga
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.4_1_Adm2:
+    GID: MOZ.8.4_1
+    admin_name: Majune
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.5_1_Adm2:
+    GID: MOZ.8.5_1
+    admin_name: Mandimba
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.6_1_Adm2:
+    GID: MOZ.8.6_1
+    admin_name: Marrupa
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.7_1_Adm2:
+    GID: MOZ.8.7_1
+    admin_name: Maúa
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.8_1_Adm2:
+    GID: MOZ.8.8_1
+    admin_name: Mavago
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.8.9_1_Adm2:
+    GID: MOZ.8.9_1
+    admin_name: Mecanhelas
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9_1_Adm1:
+    GID: MOZ.9_1
+    admin_name: Sofala
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm1
+  MOZ.9.1_1_Adm2:
+    GID: MOZ.9.1_1
+    admin_name: Buzi
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.10_1_Adm2:
+    GID: MOZ.9.10_1
+    admin_name: Marromeu
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.11_1_Adm2:
+    GID: MOZ.9.11_1
+    admin_name: Muanza
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.12_1_Adm2:
+    GID: MOZ.9.12_1
+    admin_name: Nhamatanda
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.2_1_Adm2:
+    GID: MOZ.9.2_1
+    admin_name: Caia
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.3_1_Adm2:
+    GID: MOZ.9.3_1
+    admin_name: Chemba
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.4_1_Adm2:
+    GID: MOZ.9.4_1
+    admin_name: Cheringoma
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.5_1_Adm2:
+    GID: MOZ.9.5_1
+    admin_name: Chibabava
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.6_1_Adm2:
+    GID: MOZ.9.6_1
+    admin_name: Dondo
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.7_1_Adm2:
+    GID: MOZ.9.7_1
+    admin_name: Gorongosa
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.8_1_Adm2:
+    GID: MOZ.9.8_1
+    admin_name: Machanga
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2
+  MOZ.9.9_1_Adm2:
+    GID: MOZ.9.9_1
+    admin_name: Maringue
+    iso3c: MOZ
+    country_name: Mozambique
+    admin_level: Adm2

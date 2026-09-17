@@ -1,0 +1,6037 @@
+concepts:
+  THA.0_Adm0:
+    GID: THA
+    admin_name: Thailand
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm0
+  THA.1_1_Adm1:
+    GID: THA.1_1
+    admin_name: Amnat Charoen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.1.1_1_Adm2:
+    GID: THA.1.1_1
+    admin_name: Chanuman
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.1.2_1_Adm2:
+    GID: THA.1.2_1
+    admin_name: Hua Taphan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.1.3_1_Adm2:
+    GID: THA.1.3_1
+    admin_name: Lu Amnat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.1.4_1_Adm2:
+    GID: THA.1.4_1
+    admin_name: Muang Amnat Charoen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.1.5_1_Adm2:
+    GID: THA.1.5_1
+    admin_name: Pathum Ratwongsa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.1.6_1_Adm2:
+    GID: THA.1.6_1
+    admin_name: Phana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.1.7_1_Adm2:
+    GID: THA.1.7_1
+    admin_name: Senangkhanikhom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10_1_Adm1:
+    GID: THA.10_1
+    admin_name: Chiang Mai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.10.1_1_Adm2:
+    GID: THA.10.1_1
+    admin_name: Chai Prakarn
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.10_1_Adm2:
+    GID: THA.10.10_1
+    admin_name: K. Mae On
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.11_1_Adm2:
+    GID: THA.10.11_1
+    admin_name: Mae Ai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.12_1_Adm2:
+    GID: THA.10.12_1
+    admin_name: Mae Chaem
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.13_1_Adm2:
+    GID: THA.10.13_1
+    admin_name: Mae Rim
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.14_1_Adm2:
+    GID: THA.10.14_1
+    admin_name: Mae Taeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.15_1_Adm2:
+    GID: THA.10.15_1
+    admin_name: Mae Wang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.16_1_Adm2:
+    GID: THA.10.16_1
+    admin_name: Muang Chiang Mai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.17_1_Adm2:
+    GID: THA.10.17_1
+    admin_name: Omkoi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.18_1_Adm2:
+    GID: THA.10.18_1
+    admin_name: Phrao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.19_1_Adm2:
+    GID: THA.10.19_1
+    admin_name: Samoeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.2_1_Adm2:
+    GID: THA.10.2_1
+    admin_name: Chiang Dao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.20_1_Adm2:
+    GID: THA.10.20_1
+    admin_name: San Kamphaeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.21_1_Adm2:
+    GID: THA.10.21_1
+    admin_name: San Pa Tong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.22_1_Adm2:
+    GID: THA.10.22_1
+    admin_name: San Sai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.23_1_Adm2:
+    GID: THA.10.23_1
+    admin_name: Saraphi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.24_1_Adm2:
+    GID: THA.10.24_1
+    admin_name: Wiang Haeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.3_1_Adm2:
+    GID: THA.10.3_1
+    admin_name: Chom Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.4_1_Adm2:
+    GID: THA.10.4_1
+    admin_name: Doi Saket
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.5_1_Adm2:
+    GID: THA.10.5_1
+    admin_name: Doi Tao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.6_1_Adm2:
+    GID: THA.10.6_1
+    admin_name: Fang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.7_1_Adm2:
+    GID: THA.10.7_1
+    admin_name: Hang Dong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.8_1_Adm2:
+    GID: THA.10.8_1
+    admin_name: Hot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.10.9_1_Adm2:
+    GID: THA.10.9_1
+    admin_name: K. Doi Lo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11_1_Adm1:
+    GID: THA.11_1
+    admin_name: Chiang Rai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.11.1_1_Adm2:
+    GID: THA.11.1_1
+    admin_name: Chiang Khong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.10_1_Adm2:
+    GID: THA.11.10_1
+    admin_name: Mae Suai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.11_1_Adm2:
+    GID: THA.11.11_1
+    admin_name: Muang Chiang Rai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.12_1_Adm2:
+    GID: THA.11.12_1
+    admin_name: Pa Daet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.13_1_Adm2:
+    GID: THA.11.13_1
+    admin_name: Phan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.14_1_Adm2:
+    GID: THA.11.14_1
+    admin_name: Phaya Mengrai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.15_1_Adm2:
+    GID: THA.11.15_1
+    admin_name: Thoeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.16_1_Adm2:
+    GID: THA.11.16_1
+    admin_name: Wiang Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.17_1_Adm2:
+    GID: THA.11.17_1
+    admin_name: Wiang Pa Pao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.18_1_Adm2:
+    GID: THA.11.18_1
+    admin_name: Wieng Kaen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.2_1_Adm2:
+    GID: THA.11.2_1
+    admin_name: Chiang Saen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.3_1_Adm2:
+    GID: THA.11.3_1
+    admin_name: K. Doi Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.4_1_Adm2:
+    GID: THA.11.4_1
+    admin_name: K. Wieng Chiang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.5_1_Adm2:
+    GID: THA.11.5_1
+    admin_name: Khun Tan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.6_1_Adm2:
+    GID: THA.11.6_1
+    admin_name: Mae Chan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.7_1_Adm2:
+    GID: THA.11.7_1
+    admin_name: Mae Fa Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.8_1_Adm2:
+    GID: THA.11.8_1
+    admin_name: Mae Lao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.11.9_1_Adm2:
+    GID: THA.11.9_1
+    admin_name: Mae Sai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12_1_Adm1:
+    GID: THA.12_1
+    admin_name: Chon Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.12.1_1_Adm2:
+    GID: THA.12.1_1
+    admin_name: Ban Bung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.10_1_Adm2:
+    GID: THA.12.10_1
+    admin_name: Sattahip
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.11_1_Adm2:
+    GID: THA.12.11_1
+    admin_name: Si Racha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.2_1_Adm2:
+    GID: THA.12.2_1
+    admin_name: Bang Lamung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.3_1_Adm2:
+    GID: THA.12.3_1
+    admin_name: Bo Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.4_1_Adm2:
+    GID: THA.12.4_1
+    admin_name: K. Ko Chan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.5_1_Adm2:
+    GID: THA.12.5_1
+    admin_name: Ko Sichang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.6_1_Adm2:
+    GID: THA.12.6_1
+    admin_name: Muang Chon Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.7_1_Adm2:
+    GID: THA.12.7_1
+    admin_name: Nong Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.8_1_Adm2:
+    GID: THA.12.8_1
+    admin_name: Phan Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.12.9_1_Adm2:
+    GID: THA.12.9_1
+    admin_name: Phanat Nikhom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.13_1_Adm1:
+    GID: THA.13_1
+    admin_name: Chumphon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.13.1_1_Adm2:
+    GID: THA.13.1_1
+    admin_name: Lamae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.13.2_1_Adm2:
+    GID: THA.13.2_1
+    admin_name: Lang Suan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.13.3_1_Adm2:
+    GID: THA.13.3_1
+    admin_name: Muang Chumphon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.13.4_1_Adm2:
+    GID: THA.13.4_1
+    admin_name: Pathiu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.13.5_1_Adm2:
+    GID: THA.13.5_1
+    admin_name: Phato
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.13.6_1_Adm2:
+    GID: THA.13.6_1
+    admin_name: Sawi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.13.7_1_Adm2:
+    GID: THA.13.7_1
+    admin_name: Tha Sae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.13.8_1_Adm2:
+    GID: THA.13.8_1
+    admin_name: Thung Tako
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14_1_Adm1:
+    GID: THA.14_1
+    admin_name: Kalasin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.14.1_1_Adm2:
+    GID: THA.14.1_1
+    admin_name: Huai Mek
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.10_1_Adm2:
+    GID: THA.14.10_1
+    admin_name: Kuchinarai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.11_1_Adm2:
+    GID: THA.14.11_1
+    admin_name: Muang Kalasin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.12_1_Adm2:
+    GID: THA.14.12_1
+    admin_name: Na Mon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.13_1_Adm2:
+    GID: THA.14.13_1
+    admin_name: Nong Kung Si
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.14_1_Adm2:
+    GID: THA.14.14_1
+    admin_name: Rong Kham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.15_1_Adm2:
+    GID: THA.14.15_1
+    admin_name: Sahatsakhan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.16_1_Adm2:
+    GID: THA.14.16_1
+    admin_name: Somdet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.17_1_Adm2:
+    GID: THA.14.17_1
+    admin_name: Tha Khantho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.18_1_Adm2:
+    GID: THA.14.18_1
+    admin_name: Yang Talat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.2_1_Adm2:
+    GID: THA.14.2_1
+    admin_name: Huai Phung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.3_1_Adm2:
+    GID: THA.14.3_1
+    admin_name: K. Don Chan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.4_1_Adm2:
+    GID: THA.14.4_1
+    admin_name: K. Kong Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.5_1_Adm2:
+    GID: THA.14.5_1
+    admin_name: K. Na Du
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.6_1_Adm2:
+    GID: THA.14.6_1
+    admin_name: K. Sam Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.7_1_Adm2:
+    GID: THA.14.7_1
+    admin_name: Kamalasai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.8_1_Adm2:
+    GID: THA.14.8_1
+    admin_name: Kham Muang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.14.9_1_Adm2:
+    GID: THA.14.9_1
+    admin_name: Khao Wong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15_1_Adm1:
+    GID: THA.15_1
+    admin_name: Kamphaeng Phet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.15.1_1_Adm2:
+    GID: THA.15.1_1
+    admin_name: K. Bung Samakki
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.10_1_Adm2:
+    GID: THA.15.10_1
+    admin_name: Sai Ngam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.11_1_Adm2:
+    GID: THA.15.11_1
+    admin_name: Sai Thong Watthana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.2_1_Adm2:
+    GID: THA.15.2_1
+    admin_name: K. Ko Sam Pi Nakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.3_1_Adm2:
+    GID: THA.15.3_1
+    admin_name: Khanu Woralaksaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.4_1_Adm2:
+    GID: THA.15.4_1
+    admin_name: Klong Khlung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.5_1_Adm2:
+    GID: THA.15.5_1
+    admin_name: Klong Lan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.6_1_Adm2:
+    GID: THA.15.6_1
+    admin_name: Lan Krabu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.7_1_Adm2:
+    GID: THA.15.7_1
+    admin_name: Mueang Kamphaeng Phet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.8_1_Adm2:
+    GID: THA.15.8_1
+    admin_name: Pang Sila Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.15.9_1_Adm2:
+    GID: THA.15.9_1
+    admin_name: Phran Kratai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16_1_Adm1:
+    GID: THA.16_1
+    admin_name: Kanchanaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.16.1_1_Adm2:
+    GID: THA.16.1_1
+    admin_name: Bo Phloi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.10_1_Adm2:
+    GID: THA.16.10_1
+    admin_name: Si Sawat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.11_1_Adm2:
+    GID: THA.16.11_1
+    admin_name: Tha Maka
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.12_1_Adm2:
+    GID: THA.16.12_1
+    admin_name: Tha Muang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.13_1_Adm2:
+    GID: THA.16.13_1
+    admin_name: Thong Pha Phum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.2_1_Adm2:
+    GID: THA.16.2_1
+    admin_name: Dan Makham Tia
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.3_1_Adm2:
+    GID: THA.16.3_1
+    admin_name: Huai Kra Chao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.4_1_Adm2:
+    GID: THA.16.4_1
+    admin_name: Lao Khwan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.5_1_Adm2:
+    GID: THA.16.5_1
+    admin_name: Muang Kanchanaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.6_1_Adm2:
+    GID: THA.16.6_1
+    admin_name: Nong Prue
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.7_1_Adm2:
+    GID: THA.16.7_1
+    admin_name: Phanom Thuan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.8_1_Adm2:
+    GID: THA.16.8_1
+    admin_name: Sai Yok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.16.9_1_Adm2:
+    GID: THA.16.9_1
+    admin_name: Sangkhla Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17_1_Adm1:
+    GID: THA.17_1
+    admin_name: Khon Kaen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.17.1_1_Adm2:
+    GID: THA.17.1_1
+    admin_name: Ban Fang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.10_1_Adm2:
+    GID: THA.17.10_1
+    admin_name: Khao Suan Kwang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.11_1_Adm2:
+    GID: THA.17.11_1
+    admin_name: Kranuan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.12_1_Adm2:
+    GID: THA.17.12_1
+    admin_name: Mancha Khiri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.13_1_Adm2:
+    GID: THA.17.13_1
+    admin_name: Muang Khon Kaen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.14_1_Adm2:
+    GID: THA.17.14_1
+    admin_name: Nam Phong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.15_1_Adm2:
+    GID: THA.17.15_1
+    admin_name: Nong Rua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.16_1_Adm2:
+    GID: THA.17.16_1
+    admin_name: Nong Song Hong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.17_1_Adm2:
+    GID: THA.17.17_1
+    admin_name: Phon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.18_1_Adm2:
+    GID: THA.17.18_1
+    admin_name: Phra Yun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.19_1_Adm2:
+    GID: THA.17.19_1
+    admin_name: Phu Wiang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.2_1_Adm2:
+    GID: THA.17.2_1
+    admin_name: Ban Phai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.20_1_Adm2:
+    GID: THA.17.20_1
+    admin_name: Phupa Man
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.21_1_Adm2:
+    GID: THA.17.21_1
+    admin_name: Puai Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.22_1_Adm2:
+    GID: THA.17.22_1
+    admin_name: Si Chomphu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.23_1_Adm2:
+    GID: THA.17.23_1
+    admin_name: Ubol Ratana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.24_1_Adm2:
+    GID: THA.17.24_1
+    admin_name: Waeng Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.25_1_Adm2:
+    GID: THA.17.25_1
+    admin_name: Waeng Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.26_1_Adm2:
+    GID: THA.17.26_1
+    admin_name: Wiang Kao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.3_1_Adm2:
+    GID: THA.17.3_1
+    admin_name: Chonnabot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.4_1_Adm2:
+    GID: THA.17.4_1
+    admin_name: Chum Phae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.5_1_Adm2:
+    GID: THA.17.5_1
+    admin_name: K. Ban Haet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.6_1_Adm2:
+    GID: THA.17.6_1
+    admin_name: K. Khok Pho Cha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.7_1_Adm2:
+    GID: THA.17.7_1
+    admin_name: K. Non Sila
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.8_1_Adm2:
+    GID: THA.17.8_1
+    admin_name: K. Nong Na Kham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.17.9_1_Adm2:
+    GID: THA.17.9_1
+    admin_name: K. Sam Sung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.18_1_Adm1:
+    GID: THA.18_1
+    admin_name: Krabi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.18.1_1_Adm2:
+    GID: THA.18.1_1
+    admin_name: Ao Luk
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.18.2_1_Adm2:
+    GID: THA.18.2_1
+    admin_name: Khao Phanom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.18.3_1_Adm2:
+    GID: THA.18.3_1
+    admin_name: Khlong Thom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.18.4_1_Adm2:
+    GID: THA.18.4_1
+    admin_name: Ko Lanta
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.18.5_1_Adm2:
+    GID: THA.18.5_1
+    admin_name: Lam Thap
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.18.6_1_Adm2:
+    GID: THA.18.6_1
+    admin_name: Muang Krabi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.18.7_1_Adm2:
+    GID: THA.18.7_1
+    admin_name: Nua Khlong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.18.8_1_Adm2:
+    GID: THA.18.8_1
+    admin_name: Plai Phraya
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19_1_Adm1:
+    GID: THA.19_1
+    admin_name: Lampang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.19.1_1_Adm2:
+    GID: THA.19.1_1
+    admin_name: Chae Hom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.10_1_Adm2:
+    GID: THA.19.10_1
+    admin_name: Soem Ngam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.11_1_Adm2:
+    GID: THA.19.11_1
+    admin_name: Sop Prap
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.12_1_Adm2:
+    GID: THA.19.12_1
+    admin_name: Thoen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.13_1_Adm2:
+    GID: THA.19.13_1
+    admin_name: Wang Nua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.2_1_Adm2:
+    GID: THA.19.2_1
+    admin_name: Hang Chat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.3_1_Adm2:
+    GID: THA.19.3_1
+    admin_name: Ko Kha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.4_1_Adm2:
+    GID: THA.19.4_1
+    admin_name: Mae Mo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.5_1_Adm2:
+    GID: THA.19.5_1
+    admin_name: Mae Phrik
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.6_1_Adm2:
+    GID: THA.19.6_1
+    admin_name: Mae Tha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.7_1_Adm2:
+    GID: THA.19.7_1
+    admin_name: Muang Lampang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.8_1_Adm2:
+    GID: THA.19.8_1
+    admin_name: Mueang Pan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.19.9_1_Adm2:
+    GID: THA.19.9_1
+    admin_name: Ngao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.2_1_Adm1:
+    GID: THA.2_1
+    admin_name: Ang Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.2.1_1_Adm2:
+    GID: THA.2.1_1
+    admin_name: Chaiyo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.2.2_1_Adm2:
+    GID: THA.2.2_1
+    admin_name: Muang Ang Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.2.3_1_Adm2:
+    GID: THA.2.3_1
+    admin_name: Pa Mok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.2.4_1_Adm2:
+    GID: THA.2.4_1
+    admin_name: Pho Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.2.5_1_Adm2:
+    GID: THA.2.5_1
+    admin_name: Samko
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.2.6_1_Adm2:
+    GID: THA.2.6_1
+    admin_name: Sawaengha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.2.7_1_Adm2:
+    GID: THA.2.7_1
+    admin_name: Wiset Chai Chan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.20_1_Adm1:
+    GID: THA.20_1
+    admin_name: Lamphun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.20.1_1_Adm2:
+    GID: THA.20.1_1
+    admin_name: Ban Hong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.20.2_1_Adm2:
+    GID: THA.20.2_1
+    admin_name: Ban Thi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.20.3_1_Adm2:
+    GID: THA.20.3_1
+    admin_name: K. Wiang Nong Long
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.20.4_1_Adm2:
+    GID: THA.20.4_1
+    admin_name: Li
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.20.5_1_Adm2:
+    GID: THA.20.5_1
+    admin_name: Mae Tha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.20.6_1_Adm2:
+    GID: THA.20.6_1
+    admin_name: Muang Lamphun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.20.7_1_Adm2:
+    GID: THA.20.7_1
+    admin_name: Pa Sang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.20.8_1_Adm2:
+    GID: THA.20.8_1
+    admin_name: Thung Hua Chang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21_1_Adm1:
+    GID: THA.21_1
+    admin_name: Loei
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.21.1_1_Adm2:
+    GID: THA.21.1_1
+    admin_name: Chiang Khan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.10_1_Adm2:
+    GID: THA.21.10_1
+    admin_name: Phu Kradung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.11_1_Adm2:
+    GID: THA.21.11_1
+    admin_name: Phu Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.12_1_Adm2:
+    GID: THA.21.12_1
+    admin_name: Phu Rua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.13_1_Adm2:
+    GID: THA.21.13_1
+    admin_name: Tha Li
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.14_1_Adm2:
+    GID: THA.21.14_1
+    admin_name: Wang Saphung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.2_1_Adm2:
+    GID: THA.21.2_1
+    admin_name: Dan Sai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.3_1_Adm2:
+    GID: THA.21.3_1
+    admin_name: K. Erawan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.4_1_Adm2:
+    GID: THA.21.4_1
+    admin_name: K. Nong Hin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.5_1_Adm2:
+    GID: THA.21.5_1
+    admin_name: Muang Loei
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.6_1_Adm2:
+    GID: THA.21.6_1
+    admin_name: Na Duang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.7_1_Adm2:
+    GID: THA.21.7_1
+    admin_name: Na Haeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.8_1_Adm2:
+    GID: THA.21.8_1
+    admin_name: Pak Chom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.21.9_1_Adm2:
+    GID: THA.21.9_1
+    admin_name: Pha Khao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22_1_Adm1:
+    GID: THA.22_1
+    admin_name: Lop Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.22.1_1_Adm2:
+    GID: THA.22.1_1
+    admin_name: Ban Mi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.10_1_Adm2:
+    GID: THA.22.10_1
+    admin_name: Tha Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.11_1_Adm2:
+    GID: THA.22.11_1
+    admin_name: Tha Wung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.2_1_Adm2:
+    GID: THA.22.2_1
+    admin_name: Chai Badan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.3_1_Adm2:
+    GID: THA.22.3_1
+    admin_name: Khok Charoen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.4_1_Adm2:
+    GID: THA.22.4_1
+    admin_name: Khok Samrong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.5_1_Adm2:
+    GID: THA.22.5_1
+    admin_name: Lam Son Thi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.6_1_Adm2:
+    GID: THA.22.6_1
+    admin_name: Muang Lop Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.7_1_Adm2:
+    GID: THA.22.7_1
+    admin_name: Nong Muang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.8_1_Adm2:
+    GID: THA.22.8_1
+    admin_name: Phatthana Nikhom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.22.9_1_Adm2:
+    GID: THA.22.9_1
+    admin_name: Sra Both
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.23_1_Adm1:
+    GID: THA.23_1
+    admin_name: Mae Hong Son
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.23.1_1_Adm2:
+    GID: THA.23.1_1
+    admin_name: Khun Yuam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.23.2_1_Adm2:
+    GID: THA.23.2_1
+    admin_name: Mae La Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.23.3_1_Adm2:
+    GID: THA.23.3_1
+    admin_name: Mae Sariang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.23.4_1_Adm2:
+    GID: THA.23.4_1
+    admin_name: Muang Mae Hong Son
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.23.5_1_Adm2:
+    GID: THA.23.5_1
+    admin_name: Pai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.23.6_1_Adm2:
+    GID: THA.23.6_1
+    admin_name: Pang Ma Pha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.23.7_1_Adm2:
+    GID: THA.23.7_1
+    admin_name: Sop Moei
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24_1_Adm1:
+    GID: THA.24_1
+    admin_name: Maha Sarakham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.24.1_1_Adm2:
+    GID: THA.24.1_1
+    admin_name: Borabu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.10_1_Adm2:
+    GID: THA.24.10_1
+    admin_name: Na Dun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.11_1_Adm2:
+    GID: THA.24.11_1
+    admin_name: Phayakkhaphum Phisai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.12_1_Adm2:
+    GID: THA.24.12_1
+    admin_name: Wapi Pathum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.13_1_Adm2:
+    GID: THA.24.13_1
+    admin_name: Yang Si Surat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.2_1_Adm2:
+    GID: THA.24.2_1
+    admin_name: Chiang Yun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.3_1_Adm2:
+    GID: THA.24.3_1
+    admin_name: K. Chun Chom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.4_1_Adm2:
+    GID: THA.24.4_1
+    admin_name: K. Kut Rang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.5_1_Adm2:
+    GID: THA.24.5_1
+    admin_name: Kae Dam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.6_1_Adm2:
+    GID: THA.24.6_1
+    admin_name: Kantharawichai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.7_1_Adm2:
+    GID: THA.24.7_1
+    admin_name: Kosum Phisai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.8_1_Adm2:
+    GID: THA.24.8_1
+    admin_name: Muang Maha Sarakam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.24.9_1_Adm2:
+    GID: THA.24.9_1
+    admin_name: Na Chuak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.25_1_Adm1:
+    GID: THA.25_1
+    admin_name: Mukdahan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.25.1_1_Adm2:
+    GID: THA.25.1_1
+    admin_name: Don Tan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.25.2_1_Adm2:
+    GID: THA.25.2_1
+    admin_name: Dong Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.25.3_1_Adm2:
+    GID: THA.25.3_1
+    admin_name: Khamcha-i
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.25.4_1_Adm2:
+    GID: THA.25.4_1
+    admin_name: Muang Mukdahan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.25.5_1_Adm2:
+    GID: THA.25.5_1
+    admin_name: Nikhom Kham Soi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.25.6_1_Adm2:
+    GID: THA.25.6_1
+    admin_name: Nong Sung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.25.7_1_Adm2:
+    GID: THA.25.7_1
+    admin_name: Wan Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.26_1_Adm1:
+    GID: THA.26_1
+    admin_name: Nakhon Nayok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.26.1_1_Adm2:
+    GID: THA.26.1_1
+    admin_name: Ban Na
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.26.2_1_Adm2:
+    GID: THA.26.2_1
+    admin_name: Muang Nakhon Nayok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.26.3_1_Adm2:
+    GID: THA.26.3_1
+    admin_name: Ongkharak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.26.4_1_Adm2:
+    GID: THA.26.4_1
+    admin_name: Pak Phli
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.27_1_Adm1:
+    GID: THA.27_1
+    admin_name: Nakhon Pathom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.27.1_1_Adm2:
+    GID: THA.27.1_1
+    admin_name: Bang Len
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.27.2_1_Adm2:
+    GID: THA.27.2_1
+    admin_name: Don Tum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.27.3_1_Adm2:
+    GID: THA.27.3_1
+    admin_name: Kamphaeng Saen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.27.4_1_Adm2:
+    GID: THA.27.4_1
+    admin_name: Muang Nakhon Pathom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.27.5_1_Adm2:
+    GID: THA.27.5_1
+    admin_name: Nakhon Chaisi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.27.6_1_Adm2:
+    GID: THA.27.6_1
+    admin_name: Phuttha Mon Thon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.27.7_1_Adm2:
+    GID: THA.27.7_1
+    admin_name: Sam Phran
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28_1_Adm1:
+    GID: THA.28_1
+    admin_name: Nakhon Phanom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.28.1_1_Adm2:
+    GID: THA.28.1_1
+    admin_name: Ban Phaeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.10_1_Adm2:
+    GID: THA.28.10_1
+    admin_name: Si Songkhram
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.11_1_Adm2:
+    GID: THA.28.11_1
+    admin_name: Tha Uthen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.12_1_Adm2:
+    GID: THA.28.12_1
+    admin_name: That Phanom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.2_1_Adm2:
+    GID: THA.28.2_1
+    admin_name: K. Wang Yang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.3_1_Adm2:
+    GID: THA.28.3_1
+    admin_name: Muang Nakhon Phanom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.4_1_Adm2:
+    GID: THA.28.4_1
+    admin_name: Na Kae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.5_1_Adm2:
+    GID: THA.28.5_1
+    admin_name: Na Thom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.6_1_Adm2:
+    GID: THA.28.6_1
+    admin_name: Na Wa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.7_1_Adm2:
+    GID: THA.28.7_1
+    admin_name: Phon Sawan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.8_1_Adm2:
+    GID: THA.28.8_1
+    admin_name: Pla Pak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.28.9_1_Adm2:
+    GID: THA.28.9_1
+    admin_name: Renu Nakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29_1_Adm1:
+    GID: THA.29_1
+    admin_name: Nakhon Ratchasima
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.29.1_1_Adm2:
+    GID: THA.29.1_1
+    admin_name: Ban Luam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.10_1_Adm2:
+    GID: THA.29.10_1
+    admin_name: K. Lam Tha Men Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.11_1_Adm2:
+    GID: THA.29.11_1
+    admin_name: K. Muang Yang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.12_1_Adm2:
+    GID: THA.29.12_1
+    admin_name: K. Phra Thong Kham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.13_1_Adm2:
+    GID: THA.29.13_1
+    admin_name: K. Sida
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.14_1_Adm2:
+    GID: THA.29.14_1
+    admin_name: K. The Pha Rak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.15_1_Adm2:
+    GID: THA.29.15_1
+    admin_name: Kaeng Sanam Nang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.16_1_Adm2:
+    GID: THA.29.16_1
+    admin_name: Kham Sakae Saeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.17_1_Adm2:
+    GID: THA.29.17_1
+    admin_name: Kham Thala So
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.18_1_Adm2:
+    GID: THA.29.18_1
+    admin_name: Khon Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.19_1_Adm2:
+    GID: THA.29.19_1
+    admin_name: Khong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.2_1_Adm2:
+    GID: THA.29.2_1
+    admin_name: Bua Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.20_1_Adm2:
+    GID: THA.29.20_1
+    admin_name: Muang Nakhon Ratchasima
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.21_1_Adm2:
+    GID: THA.29.21_1
+    admin_name: Non Daeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.22_1_Adm2:
+    GID: THA.29.22_1
+    admin_name: Non Sung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.23_1_Adm2:
+    GID: THA.29.23_1
+    admin_name: Non Thai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.24_1_Adm2:
+    GID: THA.29.24_1
+    admin_name: Nong Bunnak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.25_1_Adm2:
+    GID: THA.29.25_1
+    admin_name: Pak Chong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.26_1_Adm2:
+    GID: THA.29.26_1
+    admin_name: Pak Thong Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.27_1_Adm2:
+    GID: THA.29.27_1
+    admin_name: Phimai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.28_1_Adm2:
+    GID: THA.29.28_1
+    admin_name: Pra Thai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.29_1_Adm2:
+    GID: THA.29.29_1
+    admin_name: Sikhiu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.3_1_Adm2:
+    GID: THA.29.3_1
+    admin_name: Chakkarat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.30_1_Adm2:
+    GID: THA.29.30_1
+    admin_name: Soeng Sang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.31_1_Adm2:
+    GID: THA.29.31_1
+    admin_name: Sung Noen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.32_1_Adm2:
+    GID: THA.29.32_1
+    admin_name: Wang Num Khiaw
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.4_1_Adm2:
+    GID: THA.29.4_1
+    admin_name: Chalermphrakiet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.5_1_Adm2:
+    GID: THA.29.5_1
+    admin_name: Chok Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.6_1_Adm2:
+    GID: THA.29.6_1
+    admin_name: Chum Phuang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.7_1_Adm2:
+    GID: THA.29.7_1
+    admin_name: Dan Khun Thot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.8_1_Adm2:
+    GID: THA.29.8_1
+    admin_name: Huai Thalang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.29.9_1_Adm2:
+    GID: THA.29.9_1
+    admin_name: K. Bua Lai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3_1_Adm1:
+    GID: THA.3_1
+    admin_name: Bangkok Metropolis
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.3.1_1_Adm2:
+    GID: THA.3.1_1
+    admin_name: Bang Bon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.10_1_Adm2:
+    GID: THA.3.10_1
+    admin_name: Bangkhuntien
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.11_1_Adm2:
+    GID: THA.3.11_1
+    admin_name: Bangkok Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.12_1_Adm2:
+    GID: THA.3.12_1
+    admin_name: Bangkok Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.13_1_Adm2:
+    GID: THA.3.13_1
+    admin_name: Bung Kum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.14_1_Adm2:
+    GID: THA.3.14_1
+    admin_name: Chatuchak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.15_1_Adm2:
+    GID: THA.3.15_1
+    admin_name: Chom Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.16_1_Adm2:
+    GID: THA.3.16_1
+    admin_name: Din Dang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.17_1_Adm2:
+    GID: THA.3.17_1
+    admin_name: Don Muang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.18_1_Adm2:
+    GID: THA.3.18_1
+    admin_name: Dusit
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.19_1_Adm2:
+    GID: THA.3.19_1
+    admin_name: Huai Kwang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.2_1_Adm2:
+    GID: THA.3.2_1
+    admin_name: Bang Kapi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.20_1_Adm2:
+    GID: THA.3.20_1
+    admin_name: Khan Na Yao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.21_1_Adm2:
+    GID: THA.3.21_1
+    admin_name: Khlong Sam Wa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.22_1_Adm2:
+    GID: THA.3.22_1
+    admin_name: Khlong San
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.23_1_Adm2:
+    GID: THA.3.23_1
+    admin_name: Khlong Toey
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.24_1_Adm2:
+    GID: THA.3.24_1
+    admin_name: Lak Si
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.25_1_Adm2:
+    GID: THA.3.25_1
+    admin_name: Lat Krabang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.26_1_Adm2:
+    GID: THA.3.26_1
+    admin_name: Lat Phrao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.27_1_Adm2:
+    GID: THA.3.27_1
+    admin_name: Min Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.28_1_Adm2:
+    GID: THA.3.28_1
+    admin_name: Nong Chok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.29_1_Adm2:
+    GID: THA.3.29_1
+    admin_name: Nongkheam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.3_1_Adm2:
+    GID: THA.3.3_1
+    admin_name: Bang Khae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.30_1_Adm2:
+    GID: THA.3.30_1
+    admin_name: Pathum Wan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.31_1_Adm2:
+    GID: THA.3.31_1
+    admin_name: Phasi Charoen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.32_1_Adm2:
+    GID: THA.3.32_1
+    admin_name: Phaya Thai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.33_1_Adm2:
+    GID: THA.3.33_1
+    admin_name: Phra Nakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.34_1_Adm2:
+    GID: THA.3.34_1
+    admin_name: Pom Pram Sattru
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.35_1_Adm2:
+    GID: THA.3.35_1
+    admin_name: Prakanong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.36_1_Adm2:
+    GID: THA.3.36_1
+    admin_name: Prawet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.37_1_Adm2:
+    GID: THA.3.37_1
+    admin_name: Rat Burana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.38_1_Adm2:
+    GID: THA.3.38_1
+    admin_name: Ratchathewi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.39_1_Adm2:
+    GID: THA.3.39_1
+    admin_name: Sai Mai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.4_1_Adm2:
+    GID: THA.3.4_1
+    admin_name: Bang Khen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.40_1_Adm2:
+    GID: THA.3.40_1
+    admin_name: Samphantawong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.41_1_Adm2:
+    GID: THA.3.41_1
+    admin_name: Saphan Sung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.42_1_Adm2:
+    GID: THA.3.42_1
+    admin_name: Sathorn
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.43_1_Adm2:
+    GID: THA.3.43_1
+    admin_name: Suan Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.44_1_Adm2:
+    GID: THA.3.44_1
+    admin_name: Taling Chan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.45_1_Adm2:
+    GID: THA.3.45_1
+    admin_name: Thawi Wattana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.46_1_Adm2:
+    GID: THA.3.46_1
+    admin_name: Thon Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.47_1_Adm2:
+    GID: THA.3.47_1
+    admin_name: Thungkru
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.48_1_Adm2:
+    GID: THA.3.48_1
+    admin_name: Wang Thonglang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.49_1_Adm2:
+    GID: THA.3.49_1
+    admin_name: Wattana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.5_1_Adm2:
+    GID: THA.3.5_1
+    admin_name: Bang Kho Laem
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.50_1_Adm2:
+    GID: THA.3.50_1
+    admin_name: Yannawa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.6_1_Adm2:
+    GID: THA.3.6_1
+    admin_name: Bang Na
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.7_1_Adm2:
+    GID: THA.3.7_1
+    admin_name: Bang Plad
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.8_1_Adm2:
+    GID: THA.3.8_1
+    admin_name: Bang Rak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.3.9_1_Adm2:
+    GID: THA.3.9_1
+    admin_name: Bang Su
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30_1_Adm1:
+    GID: THA.30_1
+    admin_name: Nakhon Sawan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.30.1_1_Adm2:
+    GID: THA.30.1_1
+    admin_name: Banphot Phisai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.10_1_Adm2:
+    GID: THA.30.10_1
+    admin_name: Nong Bua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.11_1_Adm2:
+    GID: THA.30.11_1
+    admin_name: Phaisali
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.12_1_Adm2:
+    GID: THA.30.12_1
+    admin_name: Phayuha Khiri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.13_1_Adm2:
+    GID: THA.30.13_1
+    admin_name: Tak Fa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.14_1_Adm2:
+    GID: THA.30.14_1
+    admin_name: Takhli
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.15_1_Adm2:
+    GID: THA.30.15_1
+    admin_name: Tha Tako
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.2_1_Adm2:
+    GID: THA.30.2_1
+    admin_name: Chumsaeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.3_1_Adm2:
+    GID: THA.30.3_1
+    admin_name: K. Chum Ta Bong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.4_1_Adm2:
+    GID: THA.30.4_1
+    admin_name: K. Mae Poen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.5_1_Adm2:
+    GID: THA.30.5_1
+    admin_name: Kao Lieo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.6_1_Adm2:
+    GID: THA.30.6_1
+    admin_name: Krok Phra
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.7_1_Adm2:
+    GID: THA.30.7_1
+    admin_name: Lat Yao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.8_1_Adm2:
+    GID: THA.30.8_1
+    admin_name: Mae Wong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.30.9_1_Adm2:
+    GID: THA.30.9_1
+    admin_name: Muang Nakhon Sawan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31_1_Adm1:
+    GID: THA.31_1
+    admin_name: Nakhon Si Thammarat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.31.1_1_Adm2:
+    GID: THA.31.1_1
+    admin_name: Bang Khan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.10_1_Adm2:
+    GID: THA.31.10_1
+    admin_name: Khanom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.11_1_Adm2:
+    GID: THA.31.11_1
+    admin_name: Lan Saka
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.12_1_Adm2:
+    GID: THA.31.12_1
+    admin_name: Muang Nakhon Si Thammarat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.13_1_Adm2:
+    GID: THA.31.13_1
+    admin_name: Na Bon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.14_1_Adm2:
+    GID: THA.31.14_1
+    admin_name: Pak Phanang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.15_1_Adm2:
+    GID: THA.31.15_1
+    admin_name: Phi Pun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.16_1_Adm2:
+    GID: THA.31.16_1
+    admin_name: Phra Phrom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.17_1_Adm2:
+    GID: THA.31.17_1
+    admin_name: Phrommakhiri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.18_1_Adm2:
+    GID: THA.31.18_1
+    admin_name: Ron Phi Pun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.19_1_Adm2:
+    GID: THA.31.19_1
+    admin_name: Sichon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.2_1_Adm2:
+    GID: THA.31.2_1
+    admin_name: Cha-uat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.20_1_Adm2:
+    GID: THA.31.20_1
+    admin_name: Tha Sala
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.21_1_Adm2:
+    GID: THA.31.21_1
+    admin_name: Tham Phannara
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.22_1_Adm2:
+    GID: THA.31.22_1
+    admin_name: Thung Song
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.23_1_Adm2:
+    GID: THA.31.23_1
+    admin_name: Thung Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.3_1_Adm2:
+    GID: THA.31.3_1
+    admin_name: Chalermphrakiet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.4_1_Adm2:
+    GID: THA.31.4_1
+    admin_name: Chawang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.5_1_Adm2:
+    GID: THA.31.5_1
+    admin_name: Chian Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.6_1_Adm2:
+    GID: THA.31.6_1
+    admin_name: Chulaphon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.7_1_Adm2:
+    GID: THA.31.7_1
+    admin_name: Hua Sai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.8_1_Adm2:
+    GID: THA.31.8_1
+    admin_name: K. Chang Klang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.31.9_1_Adm2:
+    GID: THA.31.9_1
+    admin_name: K. Nophi Tam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32_1_Adm1:
+    GID: THA.32_1
+    admin_name: Nan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.32.1_1_Adm2:
+    GID: THA.32.1_1
+    admin_name: Ban Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.10_1_Adm2:
+    GID: THA.32.10_1
+    admin_name: Pua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.11_1_Adm2:
+    GID: THA.32.11_1
+    admin_name: Santi Suk
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.12_1_Adm2:
+    GID: THA.32.12_1
+    admin_name: Song Kwae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.13_1_Adm2:
+    GID: THA.32.13_1
+    admin_name: Tha Wang Pha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.14_1_Adm2:
+    GID: THA.32.14_1
+    admin_name: Thung Chang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.15_1_Adm2:
+    GID: THA.32.15_1
+    admin_name: Wiang Sa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.2_1_Adm2:
+    GID: THA.32.2_1
+    admin_name: Bo Klue
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.3_1_Adm2:
+    GID: THA.32.3_1
+    admin_name: Chalermphrakiet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.4_1_Adm2:
+    GID: THA.32.4_1
+    admin_name: Chiang Klang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.5_1_Adm2:
+    GID: THA.32.5_1
+    admin_name: K. Phu Pieng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.6_1_Adm2:
+    GID: THA.32.6_1
+    admin_name: Mae Charim
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.7_1_Adm2:
+    GID: THA.32.7_1
+    admin_name: Muang Nan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.8_1_Adm2:
+    GID: THA.32.8_1
+    admin_name: Na Mun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.32.9_1_Adm2:
+    GID: THA.32.9_1
+    admin_name: Na Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33_1_Adm1:
+    GID: THA.33_1
+    admin_name: Narathiwat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.33.1_1_Adm2:
+    GID: THA.33.1_1
+    admin_name: Bacho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.10_1_Adm2:
+    GID: THA.33.10_1
+    admin_name: Sungai Padi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.11_1_Adm2:
+    GID: THA.33.11_1
+    admin_name: Tak Bai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.12_1_Adm2:
+    GID: THA.33.12_1
+    admin_name: Waeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.13_1_Adm2:
+    GID: THA.33.13_1
+    admin_name: Yi-ngo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.2_1_Adm2:
+    GID: THA.33.2_1
+    admin_name: Cho-I-rong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.3_1_Adm2:
+    GID: THA.33.3_1
+    admin_name: Ja-Nae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.4_1_Adm2:
+    GID: THA.33.4_1
+    admin_name: Muang Narathiwat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.5_1_Adm2:
+    GID: THA.33.5_1
+    admin_name: Rangae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.6_1_Adm2:
+    GID: THA.33.6_1
+    admin_name: Ruso
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.7_1_Adm2:
+    GID: THA.33.7_1
+    admin_name: Si Sakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.8_1_Adm2:
+    GID: THA.33.8_1
+    admin_name: Su-ngai Ko Lok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.33.9_1_Adm2:
+    GID: THA.33.9_1
+    admin_name: Sukhirin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.34_1_Adm1:
+    GID: THA.34_1
+    admin_name: Nong Bua Lam Phu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.34.1_1_Adm2:
+    GID: THA.34.1_1
+    admin_name: Muang Nong Bua Lam Phu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.34.2_1_Adm2:
+    GID: THA.34.2_1
+    admin_name: Na Klang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.34.3_1_Adm2:
+    GID: THA.34.3_1
+    admin_name: Na Wang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.34.4_1_Adm2:
+    GID: THA.34.4_1
+    admin_name: Non Sang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.34.5_1_Adm2:
+    GID: THA.34.5_1
+    admin_name: Si Bun Ruang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.34.6_1_Adm2:
+    GID: THA.34.6_1
+    admin_name: Suwan Khuha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35_1_Adm1:
+    GID: THA.35_1
+    admin_name: Nong Khai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.35.1_1_Adm2:
+    GID: THA.35.1_1
+    admin_name: K. Fao Rai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35.2_1_Adm2:
+    GID: THA.35.2_1
+    admin_name: K. Pho Tak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35.3_1_Adm2:
+    GID: THA.35.3_1
+    admin_name: K. Rattana Wapi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35.4_1_Adm2:
+    GID: THA.35.4_1
+    admin_name: K. Sa Khrai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35.5_1_Adm2:
+    GID: THA.35.5_1
+    admin_name: Muang Nong Khai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35.6_1_Adm2:
+    GID: THA.35.6_1
+    admin_name: Phon Phisai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35.7_1_Adm2:
+    GID: THA.35.7_1
+    admin_name: Sang Khom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35.8_1_Adm2:
+    GID: THA.35.8_1
+    admin_name: Si Chiang Mai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.35.9_1_Adm2:
+    GID: THA.35.9_1
+    admin_name: Tha Bo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.36_1_Adm1:
+    GID: THA.36_1
+    admin_name: Nonthaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.36.1_1_Adm2:
+    GID: THA.36.1_1
+    admin_name: Bang Bua Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.36.2_1_Adm2:
+    GID: THA.36.2_1
+    admin_name: Bang Kruai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.36.3_1_Adm2:
+    GID: THA.36.3_1
+    admin_name: Bang Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.36.4_1_Adm2:
+    GID: THA.36.4_1
+    admin_name: Muang Nonthaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.36.5_1_Adm2:
+    GID: THA.36.5_1
+    admin_name: Pak Kret
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.36.6_1_Adm2:
+    GID: THA.36.6_1
+    admin_name: Sai Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.37_1_Adm1:
+    GID: THA.37_1
+    admin_name: Pathum Thani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.37.1_1_Adm2:
+    GID: THA.37.1_1
+    admin_name: Khlong Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.37.2_1_Adm2:
+    GID: THA.37.2_1
+    admin_name: Lam Luk Ka
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.37.3_1_Adm2:
+    GID: THA.37.3_1
+    admin_name: Lat Lum Kaeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.37.4_1_Adm2:
+    GID: THA.37.4_1
+    admin_name: Muang Pathum Thani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.37.5_1_Adm2:
+    GID: THA.37.5_1
+    admin_name: Nong Sua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.37.6_1_Adm2:
+    GID: THA.37.6_1
+    admin_name: Sam Khok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.37.7_1_Adm2:
+    GID: THA.37.7_1
+    admin_name: Thanyaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38_1_Adm1:
+    GID: THA.38_1
+    admin_name: Pattani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.38.1_1_Adm2:
+    GID: THA.38.1_1
+    admin_name: Ka Pho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.10_1_Adm2:
+    GID: THA.38.10_1
+    admin_name: Thung Yang Daeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.11_1_Adm2:
+    GID: THA.38.11_1
+    admin_name: Yarang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.12_1_Adm2:
+    GID: THA.38.12_1
+    admin_name: Yaring
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.2_1_Adm2:
+    GID: THA.38.2_1
+    admin_name: Khok Pho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.3_1_Adm2:
+    GID: THA.38.3_1
+    admin_name: Mae Lan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.4_1_Adm2:
+    GID: THA.38.4_1
+    admin_name: Mai Kaen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.5_1_Adm2:
+    GID: THA.38.5_1
+    admin_name: Mayo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.6_1_Adm2:
+    GID: THA.38.6_1
+    admin_name: Muang Pattani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.7_1_Adm2:
+    GID: THA.38.7_1
+    admin_name: Nong Chik
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.8_1_Adm2:
+    GID: THA.38.8_1
+    admin_name: Panare
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.38.9_1_Adm2:
+    GID: THA.38.9_1
+    admin_name: Sai Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.39_1_Adm1:
+    GID: THA.39_1
+    admin_name: Phangnga
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.39.1_1_Adm2:
+    GID: THA.39.1_1
+    admin_name: Kapong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.39.2_1_Adm2:
+    GID: THA.39.2_1
+    admin_name: Khura Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.39.3_1_Adm2:
+    GID: THA.39.3_1
+    admin_name: Ko Yao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.39.4_1_Adm2:
+    GID: THA.39.4_1
+    admin_name: Muang Phangnga
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.39.5_1_Adm2:
+    GID: THA.39.5_1
+    admin_name: Takua Pa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.39.6_1_Adm2:
+    GID: THA.39.6_1
+    admin_name: Takua Thung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.39.7_1_Adm2:
+    GID: THA.39.7_1
+    admin_name: Thai Muang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.39.8_1_Adm2:
+    GID: THA.39.8_1
+    admin_name: Thap Put
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.4_1_Adm1:
+    GID: THA.4_1
+    admin_name: Bueng Kan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.4.1_1_Adm2:
+    GID: THA.4.1_1
+    admin_name: Bung Kan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.4.2_1_Adm2:
+    GID: THA.4.2_1
+    admin_name: Bung Khong Long
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.4.3_1_Adm2:
+    GID: THA.4.3_1
+    admin_name: K. Bung Khla
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.4.4_1_Adm2:
+    GID: THA.4.4_1
+    admin_name: Pak Khat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.4.5_1_Adm2:
+    GID: THA.4.5_1
+    admin_name: Phon Charoen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.4.6_1_Adm2:
+    GID: THA.4.6_1
+    admin_name: Seka
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.4.7_1_Adm2:
+    GID: THA.4.7_1
+    admin_name: Si Wilai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.4.8_1_Adm2:
+    GID: THA.4.8_1
+    admin_name: So Phisai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40_1_Adm1:
+    GID: THA.40_1
+    admin_name: Phatthalung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.40.1_1_Adm2:
+    GID: THA.40.1_1
+    admin_name: Bang Kaeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.10_1_Adm2:
+    GID: THA.40.10_1
+    admin_name: Si Banphot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.11_1_Adm2:
+    GID: THA.40.11_1
+    admin_name: Songkhla Lake
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.12_1_Adm2:
+    GID: THA.40.12_1
+    admin_name: Tamot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.2_1_Adm2:
+    GID: THA.40.2_1
+    admin_name: K. Sri Nakarin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.3_1_Adm2:
+    GID: THA.40.3_1
+    admin_name: Khao Chaison
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.4_1_Adm2:
+    GID: THA.40.4_1
+    admin_name: Khuan Khanun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.5_1_Adm2:
+    GID: THA.40.5_1
+    admin_name: Kong Ra
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.6_1_Adm2:
+    GID: THA.40.6_1
+    admin_name: Muang Phatthalung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.7_1_Adm2:
+    GID: THA.40.7_1
+    admin_name: Pa Bon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.8_1_Adm2:
+    GID: THA.40.8_1
+    admin_name: Pa Payom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.40.9_1_Adm2:
+    GID: THA.40.9_1
+    admin_name: Pak Phayun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41_1_Adm1:
+    GID: THA.41_1
+    admin_name: Phayao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.41.1_1_Adm2:
+    GID: THA.41.1_1
+    admin_name: Chiang Kham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41.2_1_Adm2:
+    GID: THA.41.2_1
+    admin_name: Chiang Muan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41.3_1_Adm2:
+    GID: THA.41.3_1
+    admin_name: Chun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41.4_1_Adm2:
+    GID: THA.41.4_1
+    admin_name: Dok Kham Tai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41.5_1_Adm2:
+    GID: THA.41.5_1
+    admin_name: K. Phu Kam Yao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41.6_1_Adm2:
+    GID: THA.41.6_1
+    admin_name: K. Phu Sang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41.7_1_Adm2:
+    GID: THA.41.7_1
+    admin_name: Mae Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41.8_1_Adm2:
+    GID: THA.41.8_1
+    admin_name: Muang Phayao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.41.9_1_Adm2:
+    GID: THA.41.9_1
+    admin_name: Pong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42_1_Adm1:
+    GID: THA.42_1
+    admin_name: Phetchabun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.42.1_1_Adm2:
+    GID: THA.42.1_1
+    admin_name: Buang Sam Phan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.10_1_Adm2:
+    GID: THA.42.10_1
+    admin_name: Wang Pong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.11_1_Adm2:
+    GID: THA.42.11_1
+    admin_name: Wichian Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.2_1_Adm2:
+    GID: THA.42.2_1
+    admin_name: Chon Daen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.3_1_Adm2:
+    GID: THA.42.3_1
+    admin_name: Khao Kho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.4_1_Adm2:
+    GID: THA.42.4_1
+    admin_name: Lom Kao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.5_1_Adm2:
+    GID: THA.42.5_1
+    admin_name: Lom Sak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.6_1_Adm2:
+    GID: THA.42.6_1
+    admin_name: Muang Phetchabun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.7_1_Adm2:
+    GID: THA.42.7_1
+    admin_name: Nam Nao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.8_1_Adm2:
+    GID: THA.42.8_1
+    admin_name: Nong Phai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.42.9_1_Adm2:
+    GID: THA.42.9_1
+    admin_name: Si Thep
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.43_1_Adm1:
+    GID: THA.43_1
+    admin_name: Phetchaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.43.1_1_Adm2:
+    GID: THA.43.1_1
+    admin_name: Ban Laem
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.43.2_1_Adm2:
+    GID: THA.43.2_1
+    admin_name: Ban Lat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.43.3_1_Adm2:
+    GID: THA.43.3_1
+    admin_name: Cha-Am
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.43.4_1_Adm2:
+    GID: THA.43.4_1
+    admin_name: Kaeng Krachan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.43.5_1_Adm2:
+    GID: THA.43.5_1
+    admin_name: Khao Yoi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.43.6_1_Adm2:
+    GID: THA.43.6_1
+    admin_name: Muang Phetchaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.43.7_1_Adm2:
+    GID: THA.43.7_1
+    admin_name: Nong Ya Plong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.43.8_1_Adm2:
+    GID: THA.43.8_1
+    admin_name: Tha Yang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44_1_Adm1:
+    GID: THA.44_1
+    admin_name: Phichit
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.44.1_1_Adm2:
+    GID: THA.44.1_1
+    admin_name: Bang Mun Nak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.10_1_Adm2:
+    GID: THA.44.10_1
+    admin_name: Thap Khlo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.11_1_Adm2:
+    GID: THA.44.11_1
+    admin_name: Wachira Barami
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.12_1_Adm2:
+    GID: THA.44.12_1
+    admin_name: Wang Sai Phun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.2_1_Adm2:
+    GID: THA.44.2_1
+    admin_name: K. Bung Narang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.3_1_Adm2:
+    GID: THA.44.3_1
+    admin_name: K. Dong Charoen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.4_1_Adm2:
+    GID: THA.44.4_1
+    admin_name: K. Sak Lek
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.5_1_Adm2:
+    GID: THA.44.5_1
+    admin_name: Muang Phichit
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.6_1_Adm2:
+    GID: THA.44.6_1
+    admin_name: Pho Prathap Chan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.7_1_Adm2:
+    GID: THA.44.7_1
+    admin_name: Pho Thale
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.8_1_Adm2:
+    GID: THA.44.8_1
+    admin_name: Sam Ngam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.44.9_1_Adm2:
+    GID: THA.44.9_1
+    admin_name: Taphan Hin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45_1_Adm1:
+    GID: THA.45_1
+    admin_name: Phitsanulok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.45.1_1_Adm2:
+    GID: THA.45.1_1
+    admin_name: Bang Krathum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45.2_1_Adm2:
+    GID: THA.45.2_1
+    admin_name: Bang Rakam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45.3_1_Adm2:
+    GID: THA.45.3_1
+    admin_name: Chat Trakan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45.4_1_Adm2:
+    GID: THA.45.4_1
+    admin_name: Muang Phitsanulok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45.5_1_Adm2:
+    GID: THA.45.5_1
+    admin_name: Nakhon Thai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45.6_1_Adm2:
+    GID: THA.45.6_1
+    admin_name: Noen Maprang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45.7_1_Adm2:
+    GID: THA.45.7_1
+    admin_name: Phrom Phiram
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45.8_1_Adm2:
+    GID: THA.45.8_1
+    admin_name: Wang Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.45.9_1_Adm2:
+    GID: THA.45.9_1
+    admin_name: Wat Bot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46_1_Adm1:
+    GID: THA.46_1
+    admin_name: Phra Nakhon Si Ayutthaya
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.46.1_1_Adm2:
+    GID: THA.46.1_1
+    admin_name: Ban Phraek
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.10_1_Adm2:
+    GID: THA.46.10_1
+    admin_name: Phak Hai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.11_1_Adm2:
+    GID: THA.46.11_1
+    admin_name: Phra Nakhon Si Ayutthaya
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.12_1_Adm2:
+    GID: THA.46.12_1
+    admin_name: Sena
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.13_1_Adm2:
+    GID: THA.46.13_1
+    admin_name: Tha Rua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.14_1_Adm2:
+    GID: THA.46.14_1
+    admin_name: Uthai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.15_1_Adm2:
+    GID: THA.46.15_1
+    admin_name: Wang Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.2_1_Adm2:
+    GID: THA.46.2_1
+    admin_name: Bang Ban
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.3_1_Adm2:
+    GID: THA.46.3_1
+    admin_name: Bang Pa-In
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.4_1_Adm2:
+    GID: THA.46.4_1
+    admin_name: Bang Pahan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.5_1_Adm2:
+    GID: THA.46.5_1
+    admin_name: Bang Sai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.6_1_Adm2:
+    GID: THA.46.6_1
+    admin_name: Lat Bua Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.7_1_Adm2:
+    GID: THA.46.7_1
+    admin_name: Maha Rat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.8_1_Adm2:
+    GID: THA.46.8_1
+    admin_name: Nakhon Luang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.46.9_1_Adm2:
+    GID: THA.46.9_1
+    admin_name: Phachi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.47_1_Adm1:
+    GID: THA.47_1
+    admin_name: Phrae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.47.1_1_Adm2:
+    GID: THA.47.1_1
+    admin_name: Den Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.47.2_1_Adm2:
+    GID: THA.47.2_1
+    admin_name: Long
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.47.3_1_Adm2:
+    GID: THA.47.3_1
+    admin_name: Muang Phrae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.47.4_1_Adm2:
+    GID: THA.47.4_1
+    admin_name: Nong Muang Kai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.47.5_1_Adm2:
+    GID: THA.47.5_1
+    admin_name: Rong Kwang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.47.6_1_Adm2:
+    GID: THA.47.6_1
+    admin_name: Song
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.47.7_1_Adm2:
+    GID: THA.47.7_1
+    admin_name: Sung Men
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.47.8_1_Adm2:
+    GID: THA.47.8_1
+    admin_name: Wang Chin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.48_1_Adm1:
+    GID: THA.48_1
+    admin_name: Phuket
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.48.1_1_Adm2:
+    GID: THA.48.1_1
+    admin_name: Kathu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.48.2_1_Adm2:
+    GID: THA.48.2_1
+    admin_name: Muang Phuket
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.48.3_1_Adm2:
+    GID: THA.48.3_1
+    admin_name: Thalang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.49_1_Adm1:
+    GID: THA.49_1
+    admin_name: Prachin Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.49.1_1_Adm2:
+    GID: THA.49.1_1
+    admin_name: Ban Sang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.49.2_1_Adm2:
+    GID: THA.49.2_1
+    admin_name: Kabin Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.49.3_1_Adm2:
+    GID: THA.49.3_1
+    admin_name: Muang Prachin Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.49.4_1_Adm2:
+    GID: THA.49.4_1
+    admin_name: Na Di
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.49.5_1_Adm2:
+    GID: THA.49.5_1
+    admin_name: Prachantakham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.49.6_1_Adm2:
+    GID: THA.49.6_1
+    admin_name: Si Mahosot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.49.7_1_Adm2:
+    GID: THA.49.7_1
+    admin_name: Sri Mahar Pho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5_1_Adm1:
+    GID: THA.5_1
+    admin_name: Buri Ram
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.5.1_1_Adm2:
+    GID: THA.5.1_1
+    admin_name: Ban Kruat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.10_1_Adm2:
+    GID: THA.5.10_1
+    admin_name: Lahan Sai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.11_1_Adm2:
+    GID: THA.5.11_1
+    admin_name: Lam Plai Mat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.12_1_Adm2:
+    GID: THA.5.12_1
+    admin_name: Muang Buri Ram
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.13_1_Adm2:
+    GID: THA.5.13_1
+    admin_name: Na Pho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.14_1_Adm2:
+    GID: THA.5.14_1
+    admin_name: Nang Rong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.15_1_Adm2:
+    GID: THA.5.15_1
+    admin_name: Non Din Daeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.16_1_Adm2:
+    GID: THA.5.16_1
+    admin_name: Non Suwan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.17_1_Adm2:
+    GID: THA.5.17_1
+    admin_name: Nong Hong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.18_1_Adm2:
+    GID: THA.5.18_1
+    admin_name: Nong Ki
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.19_1_Adm2:
+    GID: THA.5.19_1
+    admin_name: Pa Kham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.2_1_Adm2:
+    GID: THA.5.2_1
+    admin_name: Ban Mai Chai Pho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.20_1_Adm2:
+    GID: THA.5.20_1
+    admin_name: Phlapphlachai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.21_1_Adm2:
+    GID: THA.5.21_1
+    admin_name: Phutthaisong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.22_1_Adm2:
+    GID: THA.5.22_1
+    admin_name: Prakhon Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.23_1_Adm2:
+    GID: THA.5.23_1
+    admin_name: Satuk
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.3_1_Adm2:
+    GID: THA.5.3_1
+    admin_name: Chalermphrakiet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.4_1_Adm2:
+    GID: THA.5.4_1
+    admin_name: Cham Ni
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.5_1_Adm2:
+    GID: THA.5.5_1
+    admin_name: Huai Rat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.6_1_Adm2:
+    GID: THA.5.6_1
+    admin_name: K. Ban Dan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.7_1_Adm2:
+    GID: THA.5.7_1
+    admin_name: K. Daen Kong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.8_1_Adm2:
+    GID: THA.5.8_1
+    admin_name: Khu Muang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.5.9_1_Adm2:
+    GID: THA.5.9_1
+    admin_name: Krasang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.50_1_Adm1:
+    GID: THA.50_1
+    admin_name: Prachuap Khiri Khan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.50.1_1_Adm2:
+    GID: THA.50.1_1
+    admin_name: Bang Saphan Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.50.2_1_Adm2:
+    GID: THA.50.2_1
+    admin_name: Bang Saphan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.50.3_1_Adm2:
+    GID: THA.50.3_1
+    admin_name: Hua Hin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.50.4_1_Adm2:
+    GID: THA.50.4_1
+    admin_name: K. Sam Roi Yot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.50.5_1_Adm2:
+    GID: THA.50.5_1
+    admin_name: Kui Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.50.6_1_Adm2:
+    GID: THA.50.6_1
+    admin_name: Muang Prachuap Khiri Khan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.50.7_1_Adm2:
+    GID: THA.50.7_1
+    admin_name: Pran Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.50.8_1_Adm2:
+    GID: THA.50.8_1
+    admin_name: Thap Sakae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.51_1_Adm1:
+    GID: THA.51_1
+    admin_name: Ranong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.51.1_1_Adm2:
+    GID: THA.51.1_1
+    admin_name: K. Suk Samran
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.51.2_1_Adm2:
+    GID: THA.51.2_1
+    admin_name: Kapoe
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.51.3_1_Adm2:
+    GID: THA.51.3_1
+    admin_name: Kra Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.51.4_1_Adm2:
+    GID: THA.51.4_1
+    admin_name: La-Un
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.51.5_1_Adm2:
+    GID: THA.51.5_1
+    admin_name: Muang Ranong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52_1_Adm1:
+    GID: THA.52_1
+    admin_name: Ratchaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.52.1_1_Adm2:
+    GID: THA.52.1_1
+    admin_name: Ban Pong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.10_1_Adm2:
+    GID: THA.52.10_1
+    admin_name: Wat Phleng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.2_1_Adm2:
+    GID: THA.52.2_1
+    admin_name: Bang Phae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.3_1_Adm2:
+    GID: THA.52.3_1
+    admin_name: Chom Bung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.4_1_Adm2:
+    GID: THA.52.4_1
+    admin_name: Damnoen Saduak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.5_1_Adm2:
+    GID: THA.52.5_1
+    admin_name: K. Ban Kha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.6_1_Adm2:
+    GID: THA.52.6_1
+    admin_name: Muang Ratchaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.7_1_Adm2:
+    GID: THA.52.7_1
+    admin_name: Pak Tho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.8_1_Adm2:
+    GID: THA.52.8_1
+    admin_name: Photharam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.52.9_1_Adm2:
+    GID: THA.52.9_1
+    admin_name: Suan Phung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.53_1_Adm1:
+    GID: THA.53_1
+    admin_name: Rayong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.53.1_1_Adm2:
+    GID: THA.53.1_1
+    admin_name: Ban Chang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.53.2_1_Adm2:
+    GID: THA.53.2_1
+    admin_name: Ban Khai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.53.3_1_Adm2:
+    GID: THA.53.3_1
+    admin_name: K. Khao Chamao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.53.4_1_Adm2:
+    GID: THA.53.4_1
+    admin_name: K. Nikhom Pattan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.53.5_1_Adm2:
+    GID: THA.53.5_1
+    admin_name: Klaeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.53.6_1_Adm2:
+    GID: THA.53.6_1
+    admin_name: Muang Rayong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.53.7_1_Adm2:
+    GID: THA.53.7_1
+    admin_name: Pluak Daeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.53.8_1_Adm2:
+    GID: THA.53.8_1
+    admin_name: Wang Chan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54_1_Adm1:
+    GID: THA.54_1
+    admin_name: Roi Et
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.54.1_1_Adm2:
+    GID: THA.54.1_1
+    admin_name: At Samat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.10_1_Adm2:
+    GID: THA.54.10_1
+    admin_name: Muang Suang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.11_1_Adm2:
+    GID: THA.54.11_1
+    admin_name: Nong Phok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.12_1_Adm2:
+    GID: THA.54.12_1
+    admin_name: Panom Phrai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.13_1_Adm2:
+    GID: THA.54.13_1
+    admin_name: Pathum Rat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.14_1_Adm2:
+    GID: THA.54.14_1
+    admin_name: Pho Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.15_1_Adm2:
+    GID: THA.54.15_1
+    admin_name: Phon Sai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.16_1_Adm2:
+    GID: THA.54.16_1
+    admin_name: Phon Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.17_1_Adm2:
+    GID: THA.54.17_1
+    admin_name: Selaphum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.18_1_Adm2:
+    GID: THA.54.18_1
+    admin_name: Si Somdet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.19_1_Adm2:
+    GID: THA.54.19_1
+    admin_name: Suwannaphum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.2_1_Adm2:
+    GID: THA.54.2_1
+    admin_name: Changhan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.20_1_Adm2:
+    GID: THA.54.20_1
+    admin_name: Thawatchaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.3_1_Adm2:
+    GID: THA.54.3_1
+    admin_name: Chaturaphak Phim
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.4_1_Adm2:
+    GID: THA.54.4_1
+    admin_name: K. Chiang Kwan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.5_1_Adm2:
+    GID: THA.54.5_1
+    admin_name: K. Nong Hi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.6_1_Adm2:
+    GID: THA.54.6_1
+    admin_name: K. Thung Kao Lua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.7_1_Adm2:
+    GID: THA.54.7_1
+    admin_name: Kaset Wisai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.8_1_Adm2:
+    GID: THA.54.8_1
+    admin_name: Moei Wadi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.54.9_1_Adm2:
+    GID: THA.54.9_1
+    admin_name: Muang Roi Et
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55_1_Adm1:
+    GID: THA.55_1
+    admin_name: Sa Kaeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.55.1_1_Adm2:
+    GID: THA.55.1_1
+    admin_name: Aranyaprathet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55.2_1_Adm2:
+    GID: THA.55.2_1
+    admin_name: K. Kok Sung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55.3_1_Adm2:
+    GID: THA.55.3_1
+    admin_name: K. Wang Sombun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55.4_1_Adm2:
+    GID: THA.55.4_1
+    admin_name: Kao Cha Kan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55.5_1_Adm2:
+    GID: THA.55.5_1
+    admin_name: Khlong Hat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55.6_1_Adm2:
+    GID: THA.55.6_1
+    admin_name: Muang Sa Kaeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55.7_1_Adm2:
+    GID: THA.55.7_1
+    admin_name: Ta Phraya
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55.8_1_Adm2:
+    GID: THA.55.8_1
+    admin_name: Wang Nam Yen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.55.9_1_Adm2:
+    GID: THA.55.9_1
+    admin_name: Watthana Nakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56_1_Adm1:
+    GID: THA.56_1
+    admin_name: Sakon Nakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.56.1_1_Adm2:
+    GID: THA.56.1_1
+    admin_name: Akat Amnuai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.10_1_Adm2:
+    GID: THA.56.10_1
+    admin_name: Phang Khon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.11_1_Adm2:
+    GID: THA.56.11_1
+    admin_name: Phanna Nikhom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.12_1_Adm2:
+    GID: THA.56.12_1
+    admin_name: Phon Na Kaeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.13_1_Adm2:
+    GID: THA.56.13_1
+    admin_name: Phu Phan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.14_1_Adm2:
+    GID: THA.56.14_1
+    admin_name: Sawang Daen Din
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.15_1_Adm2:
+    GID: THA.56.15_1
+    admin_name: Song Dao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.16_1_Adm2:
+    GID: THA.56.16_1
+    admin_name: Tao Ngoi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.17_1_Adm2:
+    GID: THA.56.17_1
+    admin_name: Wanon Niwat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.18_1_Adm2:
+    GID: THA.56.18_1
+    admin_name: Waritchaphum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.2_1_Adm2:
+    GID: THA.56.2_1
+    admin_name: Ban Muang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.3_1_Adm2:
+    GID: THA.56.3_1
+    admin_name: Chareon Silp
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.4_1_Adm2:
+    GID: THA.56.4_1
+    admin_name: Kham Ta Kla
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.5_1_Adm2:
+    GID: THA.56.5_1
+    admin_name: Khok Sri Supan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.6_1_Adm2:
+    GID: THA.56.6_1
+    admin_name: Kusuman
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.7_1_Adm2:
+    GID: THA.56.7_1
+    admin_name: Kut Bak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.8_1_Adm2:
+    GID: THA.56.8_1
+    admin_name: Muang Sakon Nakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.56.9_1_Adm2:
+    GID: THA.56.9_1
+    admin_name: Nikhom Nam Un
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.57_1_Adm1:
+    GID: THA.57_1
+    admin_name: Samut Prakan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.57.1_1_Adm2:
+    GID: THA.57.1_1
+    admin_name: Bang Bo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.57.2_1_Adm2:
+    GID: THA.57.2_1
+    admin_name: Bang Plee
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.57.3_1_Adm2:
+    GID: THA.57.3_1
+    admin_name: K. Bang Sao Thon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.57.4_1_Adm2:
+    GID: THA.57.4_1
+    admin_name: Muang Samut Prakan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.57.5_1_Adm2:
+    GID: THA.57.5_1
+    admin_name: Phra Pra Daeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.57.6_1_Adm2:
+    GID: THA.57.6_1
+    admin_name: Phra Samut Jadee
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.58_1_Adm1:
+    GID: THA.58_1
+    admin_name: Samut Sakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.58.1_1_Adm2:
+    GID: THA.58.1_1
+    admin_name: Ban Phaeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.58.2_1_Adm2:
+    GID: THA.58.2_1
+    admin_name: Krathum Baen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.58.3_1_Adm2:
+    GID: THA.58.3_1
+    admin_name: Muang Samut Sakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.59_1_Adm1:
+    GID: THA.59_1
+    admin_name: Samut Songkhram
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.59.1_1_Adm2:
+    GID: THA.59.1_1
+    admin_name: Amphawa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.59.2_1_Adm2:
+    GID: THA.59.2_1
+    admin_name: Bang Khon Ti
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.59.3_1_Adm2:
+    GID: THA.59.3_1
+    admin_name: Muang Samut Songkhram
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6_1_Adm1:
+    GID: THA.6_1
+    admin_name: Chachoengsao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.6.1_1_Adm2:
+    GID: THA.6.1_1
+    admin_name: Ban Pho
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.10_1_Adm2:
+    GID: THA.6.10_1
+    admin_name: Sanam Chaikhet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.11_1_Adm2:
+    GID: THA.6.11_1
+    admin_name: Tha Ta Kieb
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.2_1_Adm2:
+    GID: THA.6.2_1
+    admin_name: Bang Khla
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.3_1_Adm2:
+    GID: THA.6.3_1
+    admin_name: Bang Nam Prieo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.4_1_Adm2:
+    GID: THA.6.4_1
+    admin_name: Bang Pakong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.5_1_Adm2:
+    GID: THA.6.5_1
+    admin_name: K. Khlong Khuan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.6_1_Adm2:
+    GID: THA.6.6_1
+    admin_name: Muang Chachoengsao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.7_1_Adm2:
+    GID: THA.6.7_1
+    admin_name: Phanom Sarakham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.8_1_Adm2:
+    GID: THA.6.8_1
+    admin_name: Plaeng Yao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.6.9_1_Adm2:
+    GID: THA.6.9_1
+    admin_name: Ratchasan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60_1_Adm1:
+    GID: THA.60_1
+    admin_name: Saraburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.60.1_1_Adm2:
+    GID: THA.60.1_1
+    admin_name: Ban Mo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.10_1_Adm2:
+    GID: THA.60.10_1
+    admin_name: Phra Phutthabat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.11_1_Adm2:
+    GID: THA.60.11_1
+    admin_name: Sao Hai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.12_1_Adm2:
+    GID: THA.60.12_1
+    admin_name: Wang Muang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.13_1_Adm2:
+    GID: THA.60.13_1
+    admin_name: Wihan Daeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.2_1_Adm2:
+    GID: THA.60.2_1
+    admin_name: Chalermphrakiet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.3_1_Adm2:
+    GID: THA.60.3_1
+    admin_name: Don Phut
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.4_1_Adm2:
+    GID: THA.60.4_1
+    admin_name: Kaeng Khoi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.5_1_Adm2:
+    GID: THA.60.5_1
+    admin_name: Muak Lek
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.6_1_Adm2:
+    GID: THA.60.6_1
+    admin_name: Muang Saraburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.7_1_Adm2:
+    GID: THA.60.7_1
+    admin_name: Nong Don
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.8_1_Adm2:
+    GID: THA.60.8_1
+    admin_name: Nong Khae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.60.9_1_Adm2:
+    GID: THA.60.9_1
+    admin_name: Nong Saeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.61_1_Adm1:
+    GID: THA.61_1
+    admin_name: Satun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.61.1_1_Adm2:
+    GID: THA.61.1_1
+    admin_name: K. Ma Nang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.61.2_1_Adm2:
+    GID: THA.61.2_1
+    admin_name: Khuan Don
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.61.3_1_Adm2:
+    GID: THA.61.3_1
+    admin_name: Khuan Ka Long
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.61.4_1_Adm2:
+    GID: THA.61.4_1
+    admin_name: Langu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.61.5_1_Adm2:
+    GID: THA.61.5_1
+    admin_name: Muang Satun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.61.6_1_Adm2:
+    GID: THA.61.6_1
+    admin_name: Tha Phae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.61.7_1_Adm2:
+    GID: THA.61.7_1
+    admin_name: Thung Wa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62_1_Adm1:
+    GID: THA.62_1
+    admin_name: Si Sa Ket
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.62.1_1_Adm2:
+    GID: THA.62.1_1
+    admin_name: Benchalak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.10_1_Adm2:
+    GID: THA.62.10_1
+    admin_name: Muang Chan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.11_1_Adm2:
+    GID: THA.62.11_1
+    admin_name: Muang Si Sa Ket
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.12_1_Adm2:
+    GID: THA.62.12_1
+    admin_name: Nam Kliang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.13_1_Adm2:
+    GID: THA.62.13_1
+    admin_name: Non Khun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.14_1_Adm2:
+    GID: THA.62.14_1
+    admin_name: Phayu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.15_1_Adm2:
+    GID: THA.62.15_1
+    admin_name: Phrai Bung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.16_1_Adm2:
+    GID: THA.62.16_1
+    admin_name: Phu Sing
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.17_1_Adm2:
+    GID: THA.62.17_1
+    admin_name: Prang Ku
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.18_1_Adm2:
+    GID: THA.62.18_1
+    admin_name: Rasi Salai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.19_1_Adm2:
+    GID: THA.62.19_1
+    admin_name: Sri Ratana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.2_1_Adm2:
+    GID: THA.62.2_1
+    admin_name: Bung Bun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.20_1_Adm2:
+    GID: THA.62.20_1
+    admin_name: Uthumphon Phisai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.21_1_Adm2:
+    GID: THA.62.21_1
+    admin_name: Wang Hin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.22_1_Adm2:
+    GID: THA.62.22_1
+    admin_name: Yang Chum Noi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.3_1_Adm2:
+    GID: THA.62.3_1
+    admin_name: Huai Thap Than
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.4_1_Adm2:
+    GID: THA.62.4_1
+    admin_name: K. Pho Si Suwan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.5_1_Adm2:
+    GID: THA.62.5_1
+    admin_name: K. Sila Lat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.6_1_Adm2:
+    GID: THA.62.6_1
+    admin_name: Kantharalak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.7_1_Adm2:
+    GID: THA.62.7_1
+    admin_name: Kanthararom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.8_1_Adm2:
+    GID: THA.62.8_1
+    admin_name: Khukhan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.62.9_1_Adm2:
+    GID: THA.62.9_1
+    admin_name: Khun Han
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.63_1_Adm1:
+    GID: THA.63_1
+    admin_name: Sing Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.63.1_1_Adm2:
+    GID: THA.63.1_1
+    admin_name: Bang Rachan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.63.2_1_Adm2:
+    GID: THA.63.2_1
+    admin_name: In Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.63.3_1_Adm2:
+    GID: THA.63.3_1
+    admin_name: Khai Bang Rachan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.63.4_1_Adm2:
+    GID: THA.63.4_1
+    admin_name: Muang Sing Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.63.5_1_Adm2:
+    GID: THA.63.5_1
+    admin_name: Phrom Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.63.6_1_Adm2:
+    GID: THA.63.6_1
+    admin_name: Tha Chang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64_1_Adm1:
+    GID: THA.64_1
+    admin_name: Songkhla
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.64.1_1_Adm2:
+    GID: THA.64.1_1
+    admin_name: Bang Klam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.10_1_Adm2:
+    GID: THA.64.10_1
+    admin_name: Ranot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.11_1_Adm2:
+    GID: THA.64.11_1
+    admin_name: Rattaphum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.12_1_Adm2:
+    GID: THA.64.12_1
+    admin_name: Saba Yoi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.13_1_Adm2:
+    GID: THA.64.13_1
+    admin_name: Sadao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.14_1_Adm2:
+    GID: THA.64.14_1
+    admin_name: Sathing Phra
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.15_1_Adm2:
+    GID: THA.64.15_1
+    admin_name: Singha Nakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.16_1_Adm2:
+    GID: THA.64.16_1
+    admin_name: Songkhla Lake
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.17_1_Adm2:
+    GID: THA.64.17_1
+    admin_name: Thepha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.2_1_Adm2:
+    GID: THA.64.2_1
+    admin_name: Chana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.3_1_Adm2:
+    GID: THA.64.3_1
+    admin_name: Hat Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.4_1_Adm2:
+    GID: THA.64.4_1
+    admin_name: Khlong Hoi Kong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.5_1_Adm2:
+    GID: THA.64.5_1
+    admin_name: Khuan Niang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.6_1_Adm2:
+    GID: THA.64.6_1
+    admin_name: Krasae Sinthu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.7_1_Adm2:
+    GID: THA.64.7_1
+    admin_name: Muang Songkhla
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.8_1_Adm2:
+    GID: THA.64.8_1
+    admin_name: Na Mom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.64.9_1_Adm2:
+    GID: THA.64.9_1
+    admin_name: Na Thawi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65_1_Adm1:
+    GID: THA.65_1
+    admin_name: Sukhothai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.65.1_1_Adm2:
+    GID: THA.65.1_1
+    admin_name: Ban Dan Lan Hoi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65.2_1_Adm2:
+    GID: THA.65.2_1
+    admin_name: Khiri Mat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65.3_1_Adm2:
+    GID: THA.65.3_1
+    admin_name: Kong Krailat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65.4_1_Adm2:
+    GID: THA.65.4_1
+    admin_name: Muang Sukhothai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65.5_1_Adm2:
+    GID: THA.65.5_1
+    admin_name: Sawankhalok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65.6_1_Adm2:
+    GID: THA.65.6_1
+    admin_name: Si Nakhon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65.7_1_Adm2:
+    GID: THA.65.7_1
+    admin_name: Si Sam Rong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65.8_1_Adm2:
+    GID: THA.65.8_1
+    admin_name: Si Satchanalai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.65.9_1_Adm2:
+    GID: THA.65.9_1
+    admin_name: Thung Saliam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66_1_Adm1:
+    GID: THA.66_1
+    admin_name: Suphan Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.66.1_1_Adm2:
+    GID: THA.66.1_1
+    admin_name: Bang Pla Ma
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.10_1_Adm2:
+    GID: THA.66.10_1
+    admin_name: U Thong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.2_1_Adm2:
+    GID: THA.66.2_1
+    admin_name: Dan Chang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.3_1_Adm2:
+    GID: THA.66.3_1
+    admin_name: Doembang Nangbua
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.4_1_Adm2:
+    GID: THA.66.4_1
+    admin_name: Don Chedi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.5_1_Adm2:
+    GID: THA.66.5_1
+    admin_name: Muang Suphanburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.6_1_Adm2:
+    GID: THA.66.6_1
+    admin_name: Nong Ya Sai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.7_1_Adm2:
+    GID: THA.66.7_1
+    admin_name: Sam Chuk
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.8_1_Adm2:
+    GID: THA.66.8_1
+    admin_name: Si Prachan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.66.9_1_Adm2:
+    GID: THA.66.9_1
+    admin_name: Song Phi Nong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67_1_Adm1:
+    GID: THA.67_1
+    admin_name: Surat Thani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.67.1_1_Adm2:
+    GID: THA.67.1_1
+    admin_name: Ban Na Doem
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.10_1_Adm2:
+    GID: THA.67.10_1
+    admin_name: Khiri Ratthanikhom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.11_1_Adm2:
+    GID: THA.67.11_1
+    admin_name: Ko Phangan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.12_1_Adm2:
+    GID: THA.67.12_1
+    admin_name: Ko Samui
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.13_1_Adm2:
+    GID: THA.67.13_1
+    admin_name: Muang Surat Thani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.14_1_Adm2:
+    GID: THA.67.14_1
+    admin_name: Phanom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.15_1_Adm2:
+    GID: THA.67.15_1
+    admin_name: Phunphin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.16_1_Adm2:
+    GID: THA.67.16_1
+    admin_name: Prasaeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.17_1_Adm2:
+    GID: THA.67.17_1
+    admin_name: Tha Chana
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.18_1_Adm2:
+    GID: THA.67.18_1
+    admin_name: Tha Chang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.19_1_Adm2:
+    GID: THA.67.19_1
+    admin_name: Wiang Sa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.2_1_Adm2:
+    GID: THA.67.2_1
+    admin_name: Ban Na San
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.3_1_Adm2:
+    GID: THA.67.3_1
+    admin_name: Ban Ta Khun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.4_1_Adm2:
+    GID: THA.67.4_1
+    admin_name: Chaiburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.5_1_Adm2:
+    GID: THA.67.5_1
+    admin_name: Chaiya
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.6_1_Adm2:
+    GID: THA.67.6_1
+    admin_name: Don Sak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.7_1_Adm2:
+    GID: THA.67.7_1
+    admin_name: K. Wipawadi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.8_1_Adm2:
+    GID: THA.67.8_1
+    admin_name: Kanchanadit
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.67.9_1_Adm2:
+    GID: THA.67.9_1
+    admin_name: Khian Sa
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68_1_Adm1:
+    GID: THA.68_1
+    admin_name: Surin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.68.1_1_Adm2:
+    GID: THA.68.1_1
+    admin_name: Bua Chet
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.10_1_Adm2:
+    GID: THA.68.10_1
+    admin_name: Muang Surin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.11_1_Adm2:
+    GID: THA.68.11_1
+    admin_name: Phrasat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.12_1_Adm2:
+    GID: THA.68.12_1
+    admin_name: Rattana Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.13_1_Adm2:
+    GID: THA.68.13_1
+    admin_name: Samrong Thap
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.14_1_Adm2:
+    GID: THA.68.14_1
+    admin_name: Sangkha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.15_1_Adm2:
+    GID: THA.68.15_1
+    admin_name: Sanom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.16_1_Adm2:
+    GID: THA.68.16_1
+    admin_name: Sikhoraphum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.17_1_Adm2:
+    GID: THA.68.17_1
+    admin_name: Tha Tum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.2_1_Adm2:
+    GID: THA.68.2_1
+    admin_name: Chom Phra
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.3_1_Adm2:
+    GID: THA.68.3_1
+    admin_name: Chumphon Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.4_1_Adm2:
+    GID: THA.68.4_1
+    admin_name: K. Kwao Si Narin
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.5_1_Adm2:
+    GID: THA.68.5_1
+    admin_name: K. Non Narai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.6_1_Adm2:
+    GID: THA.68.6_1
+    admin_name: K. Phanom Dong Rak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.7_1_Adm2:
+    GID: THA.68.7_1
+    admin_name: K. Sri Narong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.8_1_Adm2:
+    GID: THA.68.8_1
+    admin_name: Kap Choeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.68.9_1_Adm2:
+    GID: THA.68.9_1
+    admin_name: Lamduan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69_1_Adm1:
+    GID: THA.69_1
+    admin_name: Tak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.69.1_1_Adm2:
+    GID: THA.69.1_1
+    admin_name: Ban Tak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69.2_1_Adm2:
+    GID: THA.69.2_1
+    admin_name: K. Wang Chao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69.3_1_Adm2:
+    GID: THA.69.3_1
+    admin_name: Mae Ramat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69.4_1_Adm2:
+    GID: THA.69.4_1
+    admin_name: Mae Sot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69.5_1_Adm2:
+    GID: THA.69.5_1
+    admin_name: Muang Tak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69.6_1_Adm2:
+    GID: THA.69.6_1
+    admin_name: Phop Phra
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69.7_1_Adm2:
+    GID: THA.69.7_1
+    admin_name: Sam Ngao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69.8_1_Adm2:
+    GID: THA.69.8_1
+    admin_name: Tha Song Yang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.69.9_1_Adm2:
+    GID: THA.69.9_1
+    admin_name: Umphang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.7_1_Adm1:
+    GID: THA.7_1
+    admin_name: Chai Nat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.7.1_1_Adm2:
+    GID: THA.7.1_1
+    admin_name: Han Kha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.7.2_1_Adm2:
+    GID: THA.7.2_1
+    admin_name: K. Noen Kham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.7.3_1_Adm2:
+    GID: THA.7.3_1
+    admin_name: K. Nong Ma Mong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.7.4_1_Adm2:
+    GID: THA.7.4_1
+    admin_name: Manorom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.7.5_1_Adm2:
+    GID: THA.7.5_1
+    admin_name: Muang Chai Nat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.7.6_1_Adm2:
+    GID: THA.7.6_1
+    admin_name: Sankha Buri
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.7.7_1_Adm2:
+    GID: THA.7.7_1
+    admin_name: Sanphaya
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.7.8_1_Adm2:
+    GID: THA.7.8_1
+    admin_name: Wat Sing
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70_1_Adm1:
+    GID: THA.70_1
+    admin_name: Trang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.70.1_1_Adm2:
+    GID: THA.70.1_1
+    admin_name: Huai Yot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.10_1_Adm2:
+    GID: THA.70.10_1
+    admin_name: Yan Ta Khao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.2_1_Adm2:
+    GID: THA.70.2_1
+    admin_name: K. Hat Samran
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.3_1_Adm2:
+    GID: THA.70.3_1
+    admin_name: Kantrang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.4_1_Adm2:
+    GID: THA.70.4_1
+    admin_name: Muang Trang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.5_1_Adm2:
+    GID: THA.70.5_1
+    admin_name: Na Yong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.6_1_Adm2:
+    GID: THA.70.6_1
+    admin_name: Palian
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.7_1_Adm2:
+    GID: THA.70.7_1
+    admin_name: Rasada
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.8_1_Adm2:
+    GID: THA.70.8_1
+    admin_name: Sikao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.70.9_1_Adm2:
+    GID: THA.70.9_1
+    admin_name: Wang Wiset
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.71_1_Adm1:
+    GID: THA.71_1
+    admin_name: Trat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.71.1_1_Adm2:
+    GID: THA.71.1_1
+    admin_name: Bo Rai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.71.2_1_Adm2:
+    GID: THA.71.2_1
+    admin_name: K. Ko Chang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.71.3_1_Adm2:
+    GID: THA.71.3_1
+    admin_name: K. Ko Kut
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.71.4_1_Adm2:
+    GID: THA.71.4_1
+    admin_name: Khao Saming
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.71.5_1_Adm2:
+    GID: THA.71.5_1
+    admin_name: Khlong Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.71.6_1_Adm2:
+    GID: THA.71.6_1
+    admin_name: Laem Ngop
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.71.7_1_Adm2:
+    GID: THA.71.7_1
+    admin_name: Muang Trat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72_1_Adm1:
+    GID: THA.72_1
+    admin_name: Ubon Ratchathani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.72.1_1_Adm2:
+    GID: THA.72.1_1
+    admin_name: Buntharik
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.10_1_Adm2:
+    GID: THA.72.10_1
+    admin_name: Khong Chiam
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.11_1_Adm2:
+    GID: THA.72.11_1
+    admin_name: Khuang Nai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.12_1_Adm2:
+    GID: THA.72.12_1
+    admin_name: Kut Khao Pun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.13_1_Adm2:
+    GID: THA.72.13_1
+    admin_name: Muang Samsip
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.14_1_Adm2:
+    GID: THA.72.14_1
+    admin_name: Muang Ubon Ratchatani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.15_1_Adm2:
+    GID: THA.72.15_1
+    admin_name: Na Chaluai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.16_1_Adm2:
+    GID: THA.72.16_1
+    admin_name: Nam Yun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.17_1_Adm2:
+    GID: THA.72.17_1
+    admin_name: Phibun Mangsahan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.18_1_Adm2:
+    GID: THA.72.18_1
+    admin_name: Pho Si
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.19_1_Adm2:
+    GID: THA.72.19_1
+    admin_name: Samrong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.2_1_Adm2:
+    GID: THA.72.2_1
+    admin_name: Det Udom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.20_1_Adm2:
+    GID: THA.72.20_1
+    admin_name: Si Muang Mai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.21_1_Adm2:
+    GID: THA.72.21_1
+    admin_name: Si Rin Ton
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.22_1_Adm2:
+    GID: THA.72.22_1
+    admin_name: Tan Sum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.23_1_Adm2:
+    GID: THA.72.23_1
+    admin_name: Thung Si Udom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.24_1_Adm2:
+    GID: THA.72.24_1
+    admin_name: Trakan Phutphon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.25_1_Adm2:
+    GID: THA.72.25_1
+    admin_name: Warin Chamrap
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.3_1_Adm2:
+    GID: THA.72.3_1
+    admin_name: Donmotdaeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.4_1_Adm2:
+    GID: THA.72.4_1
+    admin_name: K. Lao Sua Kok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.5_1_Adm2:
+    GID: THA.72.5_1
+    admin_name: K. Na Tan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.6_1_Adm2:
+    GID: THA.72.6_1
+    admin_name: K. Na Yia
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.7_1_Adm2:
+    GID: THA.72.7_1
+    admin_name: K. Nam Khun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.8_1_Adm2:
+    GID: THA.72.8_1
+    admin_name: K. Sawang Weeraw
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.72.9_1_Adm2:
+    GID: THA.72.9_1
+    admin_name: Khemarat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73_1_Adm1:
+    GID: THA.73_1
+    admin_name: Udon Thani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.73.1_1_Adm2:
+    GID: THA.73.1_1
+    admin_name: Ban Dung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.10_1_Adm2:
+    GID: THA.73.10_1
+    admin_name: Nam Som
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.11_1_Adm2:
+    GID: THA.73.11_1
+    admin_name: Non Sa-at
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.12_1_Adm2:
+    GID: THA.73.12_1
+    admin_name: Nong Han
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.13_1_Adm2:
+    GID: THA.73.13_1
+    admin_name: Nong Saeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.14_1_Adm2:
+    GID: THA.73.14_1
+    admin_name: Nong Wua So
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.15_1_Adm2:
+    GID: THA.73.15_1
+    admin_name: Phen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.16_1_Adm2:
+    GID: THA.73.16_1
+    admin_name: Phibun Rak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.17_1_Adm2:
+    GID: THA.73.17_1
+    admin_name: Sang Khom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.18_1_Adm2:
+    GID: THA.73.18_1
+    admin_name: Si That
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.19_1_Adm2:
+    GID: THA.73.19_1
+    admin_name: Thung Fon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.2_1_Adm2:
+    GID: THA.73.2_1
+    admin_name: Ban Phu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.20_1_Adm2:
+    GID: THA.73.20_1
+    admin_name: Wang Sam Mo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.3_1_Adm2:
+    GID: THA.73.3_1
+    admin_name: Chai Wan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.4_1_Adm2:
+    GID: THA.73.4_1
+    admin_name: K. Ku Kaeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.5_1_Adm2:
+    GID: THA.73.5_1
+    admin_name: K. Prachak Silapakhom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.6_1_Adm2:
+    GID: THA.73.6_1
+    admin_name: Kumphawapi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.7_1_Adm2:
+    GID: THA.73.7_1
+    admin_name: Kut Chap
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.8_1_Adm2:
+    GID: THA.73.8_1
+    admin_name: Muang Udon Thani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.73.9_1_Adm2:
+    GID: THA.73.9_1
+    admin_name: Na Yung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.74_1_Adm1:
+    GID: THA.74_1
+    admin_name: Uthai Thani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.74.1_1_Adm2:
+    GID: THA.74.1_1
+    admin_name: Ban Rai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.74.2_1_Adm2:
+    GID: THA.74.2_1
+    admin_name: Huai Khot
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.74.3_1_Adm2:
+    GID: THA.74.3_1
+    admin_name: Lan Sak
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.74.4_1_Adm2:
+    GID: THA.74.4_1
+    admin_name: Muang Uthai Thani
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.74.5_1_Adm2:
+    GID: THA.74.5_1
+    admin_name: Nong Chang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.74.6_1_Adm2:
+    GID: THA.74.6_1
+    admin_name: Nong Khayang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.74.7_1_Adm2:
+    GID: THA.74.7_1
+    admin_name: Sawang Arom
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.74.8_1_Adm2:
+    GID: THA.74.8_1
+    admin_name: Thap Than
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75_1_Adm1:
+    GID: THA.75_1
+    admin_name: Uttaradit
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.75.1_1_Adm2:
+    GID: THA.75.1_1
+    admin_name: Ban Khok
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75.2_1_Adm2:
+    GID: THA.75.2_1
+    admin_name: Fak Tha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75.3_1_Adm2:
+    GID: THA.75.3_1
+    admin_name: Laplae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75.4_1_Adm2:
+    GID: THA.75.4_1
+    admin_name: Muang Uttaradit
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75.5_1_Adm2:
+    GID: THA.75.5_1
+    admin_name: Nam Pat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75.6_1_Adm2:
+    GID: THA.75.6_1
+    admin_name: Phichai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75.7_1_Adm2:
+    GID: THA.75.7_1
+    admin_name: Tha Pla
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75.8_1_Adm2:
+    GID: THA.75.8_1
+    admin_name: Thong Saen Khan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.75.9_1_Adm2:
+    GID: THA.75.9_1
+    admin_name: Tron
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.76_1_Adm1:
+    GID: THA.76_1
+    admin_name: Yala
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.76.1_1_Adm2:
+    GID: THA.76.1_1
+    admin_name: Bannang Star
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.76.2_1_Adm2:
+    GID: THA.76.2_1
+    admin_name: Batong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.76.3_1_Adm2:
+    GID: THA.76.3_1
+    admin_name: K. Krong Pi Nung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.76.4_1_Adm2:
+    GID: THA.76.4_1
+    admin_name: Ka Bang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.76.5_1_Adm2:
+    GID: THA.76.5_1
+    admin_name: Muang Yala
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.76.6_1_Adm2:
+    GID: THA.76.6_1
+    admin_name: Raman
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.76.7_1_Adm2:
+    GID: THA.76.7_1
+    admin_name: Than To
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.76.8_1_Adm2:
+    GID: THA.76.8_1
+    admin_name: Yaha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77_1_Adm1:
+    GID: THA.77_1
+    admin_name: Yasothon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.77.1_1_Adm2:
+    GID: THA.77.1_1
+    admin_name: Amphoe Muang Yasothon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77.2_1_Adm2:
+    GID: THA.77.2_1
+    admin_name: Amphoe Sai Mun
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77.3_1_Adm2:
+    GID: THA.77.3_1
+    admin_name: Kham Khuan Kaeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77.4_1_Adm2:
+    GID: THA.77.4_1
+    admin_name: Kho Wang
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77.5_1_Adm2:
+    GID: THA.77.5_1
+    admin_name: Kut Chum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77.6_1_Adm2:
+    GID: THA.77.6_1
+    admin_name: Loeng Nok Tha
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77.7_1_Adm2:
+    GID: THA.77.7_1
+    admin_name: Maha Chana Chai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77.8_1_Adm2:
+    GID: THA.77.8_1
+    admin_name: Pa Tiu
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.77.9_1_Adm2:
+    GID: THA.77.9_1
+    admin_name: Thai Charoen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8_1_Adm1:
+    GID: THA.8_1
+    admin_name: Chaiyaphum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.8.1_1_Adm2:
+    GID: THA.8.1_1
+    admin_name: Bamnet Narong
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.10_1_Adm2:
+    GID: THA.8.10_1
+    admin_name: Muang Chaiyaphum
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.11_1_Adm2:
+    GID: THA.8.11_1
+    admin_name: Noen Sa-Nga
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.12_1_Adm2:
+    GID: THA.8.12_1
+    admin_name: Nong Bua Daeng
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.13_1_Adm2:
+    GID: THA.8.13_1
+    admin_name: Nong Bua Rawae
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.14_1_Adm2:
+    GID: THA.8.14_1
+    admin_name: Phakdi Chumphol
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.15_1_Adm2:
+    GID: THA.8.15_1
+    admin_name: Phu Khieo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.16_1_Adm2:
+    GID: THA.8.16_1
+    admin_name: Thep Sathit
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.2_1_Adm2:
+    GID: THA.8.2_1
+    admin_name: Ban Khwao
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.3_1_Adm2:
+    GID: THA.8.3_1
+    admin_name: Ban Thaen
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.4_1_Adm2:
+    GID: THA.8.4_1
+    admin_name: Chatturat
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.5_1_Adm2:
+    GID: THA.8.5_1
+    admin_name: K. Sap Yai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.6_1_Adm2:
+    GID: THA.8.6_1
+    admin_name: Kaeng Khlo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.7_1_Adm2:
+    GID: THA.8.7_1
+    admin_name: Kaset Sombon
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.8_1_Adm2:
+    GID: THA.8.8_1
+    admin_name: Khon San
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.8.9_1_Adm2:
+    GID: THA.8.9_1
+    admin_name: Khon Sawan
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9_1_Adm1:
+    GID: THA.9_1
+    admin_name: Chanthaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm1
+  THA.9.1_1_Adm2:
+    GID: THA.9.1_1
+    admin_name: K. Kao Kichakut
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.10_1_Adm2:
+    GID: THA.9.10_1
+    admin_name: Tha Mai
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.2_1_Adm2:
+    GID: THA.9.2_1
+    admin_name: K. Na Yai Am
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.3_1_Adm2:
+    GID: THA.9.3_1
+    admin_name: Kang Hang Maeo
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.4_1_Adm2:
+    GID: THA.9.4_1
+    admin_name: Khlung
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.5_1_Adm2:
+    GID: THA.9.5_1
+    admin_name: Laem Sing
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.6_1_Adm2:
+    GID: THA.9.6_1
+    admin_name: Makham
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.7_1_Adm2:
+    GID: THA.9.7_1
+    admin_name: Muang Chanthaburi
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.8_1_Adm2:
+    GID: THA.9.8_1
+    admin_name: Pong Nam Ron
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2
+  THA.9.9_1_Adm2:
+    GID: THA.9.9_1
+    admin_name: Soydow
+    iso3c: THA
+    country_name: Thailand
+    admin_level: Adm2

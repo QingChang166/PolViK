@@ -1,0 +1,361 @@
+concepts:
+  SEN.0_Adm0:
+    GID: SEN
+    admin_name: Senegal
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm0
+  SEN.1_1_Adm1:
+    GID: SEN.1_1
+    admin_name: Dakar
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.1.1_1_Adm2:
+    GID: SEN.1.1_1
+    admin_name: Dakar
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.1.2_1_Adm2:
+    GID: SEN.1.2_1
+    admin_name: Guédiawaye
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.1.3_1_Adm2:
+    GID: SEN.1.3_1
+    admin_name: Pikine
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.1.4_1_Adm2:
+    GID: SEN.1.4_1
+    admin_name: Rufisque
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.10_1_Adm1:
+    GID: SEN.10_1
+    admin_name: Saint-Louis
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.10.1_1_Adm2:
+    GID: SEN.10.1_1
+    admin_name: Dagana
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.10.2_1_Adm2:
+    GID: SEN.10.2_1
+    admin_name: Podor
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.10.3_1_Adm2:
+    GID: SEN.10.3_1
+    admin_name: Saint-Louis
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.11_1_Adm1:
+    GID: SEN.11_1
+    admin_name: Sédhiou
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.11.1_1_Adm2:
+    GID: SEN.11.1_1
+    admin_name: Bounkiling
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.11.2_1_Adm2:
+    GID: SEN.11.2_1
+    admin_name: Goudomp
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.11.3_1_Adm2:
+    GID: SEN.11.3_1
+    admin_name: Sédhiou
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.12_1_Adm1:
+    GID: SEN.12_1
+    admin_name: Tambacounda
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.12.1_1_Adm2:
+    GID: SEN.12.1_1
+    admin_name: Bakel
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.12.2_1_Adm2:
+    GID: SEN.12.2_1
+    admin_name: Goudiry
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.12.3_1_Adm2:
+    GID: SEN.12.3_1
+    admin_name: Koupentoum
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.12.4_1_Adm2:
+    GID: SEN.12.4_1
+    admin_name: Tambacounda
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.13_1_Adm1:
+    GID: SEN.13_1
+    admin_name: Thiès
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.13.1_1_Adm2:
+    GID: SEN.13.1_1
+    admin_name: Mbour
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.13.2_1_Adm2:
+    GID: SEN.13.2_1
+    admin_name: Thiès
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.13.3_1_Adm2:
+    GID: SEN.13.3_1
+    admin_name: Tivaouane
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.14_1_Adm1:
+    GID: SEN.14_1
+    admin_name: Ziguinchor
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.14.1_1_Adm2:
+    GID: SEN.14.1_1
+    admin_name: Bignona
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.14.2_1_Adm2:
+    GID: SEN.14.2_1
+    admin_name: Oussouye
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.14.3_1_Adm2:
+    GID: SEN.14.3_1
+    admin_name: Ziguinchor
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.2_1_Adm1:
+    GID: SEN.2_1
+    admin_name: Diourbel
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.2.1_1_Adm2:
+    GID: SEN.2.1_1
+    admin_name: Bambey
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.2.2_1_Adm2:
+    GID: SEN.2.2_1
+    admin_name: Diourbel
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.2.3_1_Adm2:
+    GID: SEN.2.3_1
+    admin_name: Mbacké
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.3_1_Adm1:
+    GID: SEN.3_1
+    admin_name: Fatick
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.3.1_1_Adm2:
+    GID: SEN.3.1_1
+    admin_name: Fatick
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.3.2_1_Adm2:
+    GID: SEN.3.2_1
+    admin_name: Foundiougne
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.3.3_1_Adm2:
+    GID: SEN.3.3_1
+    admin_name: Gossas
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.4_1_Adm1:
+    GID: SEN.4_1
+    admin_name: Kaffrine
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.4.1_1_Adm2:
+    GID: SEN.4.1_1
+    admin_name: Birkilane
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.4.2_1_Adm2:
+    GID: SEN.4.2_1
+    admin_name: Kaffrine
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.4.3_1_Adm2:
+    GID: SEN.4.3_1
+    admin_name: Koungheul
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.4.4_1_Adm2:
+    GID: SEN.4.4_1
+    admin_name: Malème Hodar
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.5_1_Adm1:
+    GID: SEN.5_1
+    admin_name: Kaolack
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.5.1_1_Adm2:
+    GID: SEN.5.1_1
+    admin_name: Guinguinéo
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.5.2_1_Adm2:
+    GID: SEN.5.2_1
+    admin_name: Kaolack
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.5.3_1_Adm2:
+    GID: SEN.5.3_1
+    admin_name: Nioro du Rip
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.6_1_Adm1:
+    GID: SEN.6_1
+    admin_name: Kédougou
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.6.1_1_Adm2:
+    GID: SEN.6.1_1
+    admin_name: Kédougou
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.6.2_1_Adm2:
+    GID: SEN.6.2_1
+    admin_name: Salémata
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.6.3_1_Adm2:
+    GID: SEN.6.3_1
+    admin_name: Saraya
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.7_1_Adm1:
+    GID: SEN.7_1
+    admin_name: Kolda
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.7.1_1_Adm2:
+    GID: SEN.7.1_1
+    admin_name: Kolda
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.7.2_1_Adm2:
+    GID: SEN.7.2_1
+    admin_name: Médina Yoro Foula
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.7.3_1_Adm2:
+    GID: SEN.7.3_1
+    admin_name: Vélingara
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.8_1_Adm1:
+    GID: SEN.8_1
+    admin_name: Louga
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.8.1_1_Adm2:
+    GID: SEN.8.1_1
+    admin_name: Kébémer
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.8.2_1_Adm2:
+    GID: SEN.8.2_1
+    admin_name: Linguère
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.8.3_1_Adm2:
+    GID: SEN.8.3_1
+    admin_name: Louga
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.9_1_Adm1:
+    GID: SEN.9_1
+    admin_name: Matam
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm1
+  SEN.9.1_1_Adm2:
+    GID: SEN.9.1_1
+    admin_name: Kanel
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.9.2_1_Adm2:
+    GID: SEN.9.2_1
+    admin_name: Matam
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2
+  SEN.9.3_1_Adm2:
+    GID: SEN.9.3_1
+    admin_name: Ranérou Ferlo
+    iso3c: SEN
+    country_name: Senegal
+    admin_level: Adm2

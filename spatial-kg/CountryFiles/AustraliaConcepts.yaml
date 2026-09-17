@@ -1,0 +1,3481 @@
+concepts:
+  AUS.0_Adm0:
+    GID: AUS
+    admin_name: Australia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm0
+  AUS.1_1_Adm1:
+    GID: AUS.1_1
+    admin_name: Ashmore and Cartier Islands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.1.1_1_Adm2:
+    GID: AUS.1.1_1
+    admin_name: Ashmore and Cartier Islands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10_1_Adm1:
+    GID: AUS.10_1
+    admin_name: Victoria
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.10.1_1_Adm2:
+    GID: AUS.10.1_1
+    admin_name: Alpine
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.10_1_Adm2:
+    GID: AUS.10.10_1
+    admin_name: Brimbank
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.11_1_Adm2:
+    GID: AUS.10.11_1
+    admin_name: Buloke
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.12_1_Adm2:
+    GID: AUS.10.12_1
+    admin_name: Campaspe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.13_1_Adm2:
+    GID: AUS.10.13_1
+    admin_name: Cardinia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.14_1_Adm2:
+    GID: AUS.10.14_1
+    admin_name: Casey
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.15_1_Adm2:
+    GID: AUS.10.15_1
+    admin_name: Central Goldfields
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.16_1_Adm2:
+    GID: AUS.10.16_1
+    admin_name: Colac-Otway
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.17_1_Adm2:
+    GID: AUS.10.17_1
+    admin_name: Corangamite
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.18_1_Adm2:
+    GID: AUS.10.18_1
+    admin_name: Darebin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.19_1_Adm2:
+    GID: AUS.10.19_1
+    admin_name: East Gippsland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.2_1_Adm2:
+    GID: AUS.10.2_1
+    admin_name: Ararat
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.20_1_Adm2:
+    GID: AUS.10.20_1
+    admin_name: Frankston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.21_1_Adm2:
+    GID: AUS.10.21_1
+    admin_name: Gannawarra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.22_1_Adm2:
+    GID: AUS.10.22_1
+    admin_name: Glen Eira
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.23_1_Adm2:
+    GID: AUS.10.23_1
+    admin_name: Glenelg
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.24_1_Adm2:
+    GID: AUS.10.24_1
+    admin_name: Golden Plains
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.25_1_Adm2:
+    GID: AUS.10.25_1
+    admin_name: Greater Bendigo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.26_1_Adm2:
+    GID: AUS.10.26_1
+    admin_name: Greater Dandenong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.27_1_Adm2:
+    GID: AUS.10.27_1
+    admin_name: Greater Geelong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.28_1_Adm2:
+    GID: AUS.10.28_1
+    admin_name: Greater Shepparton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.29_1_Adm2:
+    GID: AUS.10.29_1
+    admin_name: Hepburn
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.3_1_Adm2:
+    GID: AUS.10.3_1
+    admin_name: Ballarat
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.30_1_Adm2:
+    GID: AUS.10.30_1
+    admin_name: Hindmarsh
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.31_1_Adm2:
+    GID: AUS.10.31_1
+    admin_name: Hobsons Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.32_1_Adm2:
+    GID: AUS.10.32_1
+    admin_name: Horsham
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.33_1_Adm2:
+    GID: AUS.10.33_1
+    admin_name: Hume
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.34_1_Adm2:
+    GID: AUS.10.34_1
+    admin_name: Indigo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.35_1_Adm2:
+    GID: AUS.10.35_1
+    admin_name: Kingston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.36_1_Adm2:
+    GID: AUS.10.36_1
+    admin_name: Knox
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.37_1_Adm2:
+    GID: AUS.10.37_1
+    admin_name: Latrobe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.38_1_Adm2:
+    GID: AUS.10.38_1
+    admin_name: Loddon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.39_1_Adm2:
+    GID: AUS.10.39_1
+    admin_name: Macedon Ranges
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.4_1_Adm2:
+    GID: AUS.10.4_1
+    admin_name: Banyule
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.40_1_Adm2:
+    GID: AUS.10.40_1
+    admin_name: Manningham
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.41_1_Adm2:
+    GID: AUS.10.41_1
+    admin_name: Mansfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.42_1_Adm2:
+    GID: AUS.10.42_1
+    admin_name: Maribyrnong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.43_1_Adm2:
+    GID: AUS.10.43_1
+    admin_name: Maroondah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.44_1_Adm2:
+    GID: AUS.10.44_1
+    admin_name: Melbourne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.45_1_Adm2:
+    GID: AUS.10.45_1
+    admin_name: Melton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.46_1_Adm2:
+    GID: AUS.10.46_1
+    admin_name: Mildura
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.47_1_Adm2:
+    GID: AUS.10.47_1
+    admin_name: Mitchell
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.48_1_Adm2:
+    GID: AUS.10.48_1
+    admin_name: Moira
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.49_1_Adm2:
+    GID: AUS.10.49_1
+    admin_name: Monash
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.5_1_Adm2:
+    GID: AUS.10.5_1
+    admin_name: Bass Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.50_1_Adm2:
+    GID: AUS.10.50_1
+    admin_name: Moonee Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.51_1_Adm2:
+    GID: AUS.10.51_1
+    admin_name: Moorabool
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.52_1_Adm2:
+    GID: AUS.10.52_1
+    admin_name: Moreland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.53_1_Adm2:
+    GID: AUS.10.53_1
+    admin_name: Mornington Peninsula
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.54_1_Adm2:
+    GID: AUS.10.54_1
+    admin_name: Mount Alexander
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.55_1_Adm2:
+    GID: AUS.10.55_1
+    admin_name: Moyne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.56_1_Adm2:
+    GID: AUS.10.56_1
+    admin_name: Murrindindi
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.57_1_Adm2:
+    GID: AUS.10.57_1
+    admin_name: Nillumbik
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.58_1_Adm2:
+    GID: AUS.10.58_1
+    admin_name: Northern Grampians
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.59_1_Adm2:
+    GID: AUS.10.59_1
+    admin_name: Port Phillip
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.6_1_Adm2:
+    GID: AUS.10.6_1
+    admin_name: Baw Baw
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.60_1_Adm2:
+    GID: AUS.10.60_1
+    admin_name: Pyrenees
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.61_1_Adm2:
+    GID: AUS.10.61_1
+    admin_name: Queenscliffe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.62_1_Adm2:
+    GID: AUS.10.62_1
+    admin_name: South Gippsland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.63_1_Adm2:
+    GID: AUS.10.63_1
+    admin_name: Southern Grampians
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.64_1_Adm2:
+    GID: AUS.10.64_1
+    admin_name: Stonnington
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.65_1_Adm2:
+    GID: AUS.10.65_1
+    admin_name: Strathbogie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.66_1_Adm2:
+    GID: AUS.10.66_1
+    admin_name: Surf Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.67_1_Adm2:
+    GID: AUS.10.67_1
+    admin_name: Swan Hill
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.68_1_Adm2:
+    GID: AUS.10.68_1
+    admin_name: Towong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.69_1_Adm2:
+    GID: AUS.10.69_1
+    admin_name: Unincorporated Victoria
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.7_1_Adm2:
+    GID: AUS.10.7_1
+    admin_name: Bayside
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.70_1_Adm2:
+    GID: AUS.10.70_1
+    admin_name: Wangaratta
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.71_1_Adm2:
+    GID: AUS.10.71_1
+    admin_name: Warrnambool
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.72_1_Adm2:
+    GID: AUS.10.72_1
+    admin_name: Wellington
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.73_1_Adm2:
+    GID: AUS.10.73_1
+    admin_name: West Wimmera
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.74_1_Adm2:
+    GID: AUS.10.74_1
+    admin_name: Whitehorse
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.75_1_Adm2:
+    GID: AUS.10.75_1
+    admin_name: Whittlesea
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.76_1_Adm2:
+    GID: AUS.10.76_1
+    admin_name: Wodonga
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.77_1_Adm2:
+    GID: AUS.10.77_1
+    admin_name: Wyndham
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.78_1_Adm2:
+    GID: AUS.10.78_1
+    admin_name: Yarra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.79_1_Adm2:
+    GID: AUS.10.79_1
+    admin_name: Yarra Ranges
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.8_1_Adm2:
+    GID: AUS.10.8_1
+    admin_name: Benalla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.80_1_Adm2:
+    GID: AUS.10.80_1
+    admin_name: Yarriambiack
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.10.9_1_Adm2:
+    GID: AUS.10.9_1
+    admin_name: Boroondara
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11_1_Adm1:
+    GID: AUS.11_1
+    admin_name: Western Australia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.11.1_1_Adm2:
+    GID: AUS.11.1_1
+    admin_name: Albany
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.10_1_Adm2:
+    GID: AUS.11.10_1
+    admin_name: Boyup Brook
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.100_1_Adm2:
+    GID: AUS.11.100_1
+    admin_name: Perenjori
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.101_1_Adm2:
+    GID: AUS.11.101_1
+    admin_name: Perth
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.102_1_Adm2:
+    GID: AUS.11.102_1
+    admin_name: Pingelly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.103_1_Adm2:
+    GID: AUS.11.103_1
+    admin_name: Plantagenet
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.104_1_Adm2:
+    GID: AUS.11.104_1
+    admin_name: Port Hedland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.105_1_Adm2:
+    GID: AUS.11.105_1
+    admin_name: Quairading
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.106_1_Adm2:
+    GID: AUS.11.106_1
+    admin_name: Ravensthorpe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.107_1_Adm2:
+    GID: AUS.11.107_1
+    admin_name: Rockingham
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.108_1_Adm2:
+    GID: AUS.11.108_1
+    admin_name: Roebourne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.109_1_Adm2:
+    GID: AUS.11.109_1
+    admin_name: Sandstone
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.11_1_Adm2:
+    GID: AUS.11.11_1
+    admin_name: Bridgetown-Greenbushes
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.110_1_Adm2:
+    GID: AUS.11.110_1
+    admin_name: Scott and Seringapatam Reefs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.111_1_Adm2:
+    GID: AUS.11.111_1
+    admin_name: Serpentine-Jarrahdale
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.112_1_Adm2:
+    GID: AUS.11.112_1
+    admin_name: Shark Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.113_1_Adm2:
+    GID: AUS.11.113_1
+    admin_name: South Perth
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.114_1_Adm2:
+    GID: AUS.11.114_1
+    admin_name: Stirling
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.115_1_Adm2:
+    GID: AUS.11.115_1
+    admin_name: Subiaco
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.116_1_Adm2:
+    GID: AUS.11.116_1
+    admin_name: Swan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.117_1_Adm2:
+    GID: AUS.11.117_1
+    admin_name: Tammin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.118_1_Adm2:
+    GID: AUS.11.118_1
+    admin_name: Three Springs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.119_1_Adm2:
+    GID: AUS.11.119_1
+    admin_name: Toodyay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.12_1_Adm2:
+    GID: AUS.11.12_1
+    admin_name: Brookton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.120_1_Adm2:
+    GID: AUS.11.120_1
+    admin_name: Trayning
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.121_1_Adm2:
+    GID: AUS.11.121_1
+    admin_name: Upper Gascoyne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.122_1_Adm2:
+    GID: AUS.11.122_1
+    admin_name: Victoria Park
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.123_1_Adm2:
+    GID: AUS.11.123_1
+    admin_name: Victoria Plains
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.124_1_Adm2:
+    GID: AUS.11.124_1
+    admin_name: Vincent
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.125_1_Adm2:
+    GID: AUS.11.125_1
+    admin_name: Wagin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.126_1_Adm2:
+    GID: AUS.11.126_1
+    admin_name: Wandering
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.127_1_Adm2:
+    GID: AUS.11.127_1
+    admin_name: Wanneroo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.128_1_Adm2:
+    GID: AUS.11.128_1
+    admin_name: Waroona
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.129_1_Adm2:
+    GID: AUS.11.129_1
+    admin_name: West Arthur
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.13_1_Adm2:
+    GID: AUS.11.13_1
+    admin_name: Broome
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.130_1_Adm2:
+    GID: AUS.11.130_1
+    admin_name: Westonia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.131_1_Adm2:
+    GID: AUS.11.131_1
+    admin_name: Wickepin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.132_1_Adm2:
+    GID: AUS.11.132_1
+    admin_name: Williams
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.133_1_Adm2:
+    GID: AUS.11.133_1
+    admin_name: Wiluna
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.134_1_Adm2:
+    GID: AUS.11.134_1
+    admin_name: Wongan-Ballidu
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.135_1_Adm2:
+    GID: AUS.11.135_1
+    admin_name: Woodanilling
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.136_1_Adm2:
+    GID: AUS.11.136_1
+    admin_name: Wyalkatchem
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.137_1_Adm2:
+    GID: AUS.11.137_1
+    admin_name: Wyndham-East Kimberley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.138_1_Adm2:
+    GID: AUS.11.138_1
+    admin_name: Yalgoo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.139_1_Adm2:
+    GID: AUS.11.139_1
+    admin_name: Yilgarn
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.14_1_Adm2:
+    GID: AUS.11.14_1
+    admin_name: Broomehill-Tambellup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.140_1_Adm2:
+    GID: AUS.11.140_1
+    admin_name: York
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.15_1_Adm2:
+    GID: AUS.11.15_1
+    admin_name: Bruce Rock
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.16_1_Adm2:
+    GID: AUS.11.16_1
+    admin_name: Bunbury
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.17_1_Adm2:
+    GID: AUS.11.17_1
+    admin_name: Busselton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.18_1_Adm2:
+    GID: AUS.11.18_1
+    admin_name: Cambridge
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.19_1_Adm2:
+    GID: AUS.11.19_1
+    admin_name: Canning
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.2_1_Adm2:
+    GID: AUS.11.2_1
+    admin_name: Armadale
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.20_1_Adm2:
+    GID: AUS.11.20_1
+    admin_name: Capel
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.21_1_Adm2:
+    GID: AUS.11.21_1
+    admin_name: Carnamah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.22_1_Adm2:
+    GID: AUS.11.22_1
+    admin_name: Carnarvon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.23_1_Adm2:
+    GID: AUS.11.23_1
+    admin_name: Chapman Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.24_1_Adm2:
+    GID: AUS.11.24_1
+    admin_name: Chittering
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.25_1_Adm2:
+    GID: AUS.11.25_1
+    admin_name: Claremont
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.26_1_Adm2:
+    GID: AUS.11.26_1
+    admin_name: Cockburn
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.27_1_Adm2:
+    GID: AUS.11.27_1
+    admin_name: Collie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.28_1_Adm2:
+    GID: AUS.11.28_1
+    admin_name: Coolgardie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.29_1_Adm2:
+    GID: AUS.11.29_1
+    admin_name: Coorow
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.3_1_Adm2:
+    GID: AUS.11.3_1
+    admin_name: Ashburton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.30_1_Adm2:
+    GID: AUS.11.30_1
+    admin_name: Corrigin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.31_1_Adm2:
+    GID: AUS.11.31_1
+    admin_name: Cottesloe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.32_1_Adm2:
+    GID: AUS.11.32_1
+    admin_name: Cranbrook
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.33_1_Adm2:
+    GID: AUS.11.33_1
+    admin_name: Cuballing
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.34_1_Adm2:
+    GID: AUS.11.34_1
+    admin_name: Cue
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.35_1_Adm2:
+    GID: AUS.11.35_1
+    admin_name: Cunderdin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.36_1_Adm2:
+    GID: AUS.11.36_1
+    admin_name: Dalwallinu
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.37_1_Adm2:
+    GID: AUS.11.37_1
+    admin_name: Dandaragan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.38_1_Adm2:
+    GID: AUS.11.38_1
+    admin_name: Dardanup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.39_1_Adm2:
+    GID: AUS.11.39_1
+    admin_name: Denmark
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.4_1_Adm2:
+    GID: AUS.11.4_1
+    admin_name: Augusta-Margaret River
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.40_1_Adm2:
+    GID: AUS.11.40_1
+    admin_name: Derby-West Kimberley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.41_1_Adm2:
+    GID: AUS.11.41_1
+    admin_name: Donnybrook-Balingup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.42_1_Adm2:
+    GID: AUS.11.42_1
+    admin_name: Dowerin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.43_1_Adm2:
+    GID: AUS.11.43_1
+    admin_name: Dumbleyung
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.44_1_Adm2:
+    GID: AUS.11.44_1
+    admin_name: Dundas
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.45_1_Adm2:
+    GID: AUS.11.45_1
+    admin_name: East Fremantle
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.46_1_Adm2:
+    GID: AUS.11.46_1
+    admin_name: East Pilbara
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.47_1_Adm2:
+    GID: AUS.11.47_1
+    admin_name: Esperance
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.48_1_Adm2:
+    GID: AUS.11.48_1
+    admin_name: Exmouth
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.49_1_Adm2:
+    GID: AUS.11.49_1
+    admin_name: Fremantle
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.5_1_Adm2:
+    GID: AUS.11.5_1
+    admin_name: Bassendean
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.50_1_Adm2:
+    GID: AUS.11.50_1
+    admin_name: Geraldton-Greenough
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.51_1_Adm2:
+    GID: AUS.11.51_1
+    admin_name: Gingin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.52_1_Adm2:
+    GID: AUS.11.52_1
+    admin_name: Gnowangerup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.53_1_Adm2:
+    GID: AUS.11.53_1
+    admin_name: Goomalling
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.54_1_Adm2:
+    GID: AUS.11.54_1
+    admin_name: Gosnells
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.55_1_Adm2:
+    GID: AUS.11.55_1
+    admin_name: Halls Creek
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.56_1_Adm2:
+    GID: AUS.11.56_1
+    admin_name: Harvey
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.57_1_Adm2:
+    GID: AUS.11.57_1
+    admin_name: Irwin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.58_1_Adm2:
+    GID: AUS.11.58_1
+    admin_name: Jerramungup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.59_1_Adm2:
+    GID: AUS.11.59_1
+    admin_name: Joondalup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.6_1_Adm2:
+    GID: AUS.11.6_1
+    admin_name: Bayswater
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.60_1_Adm2:
+    GID: AUS.11.60_1
+    admin_name: Kalamunda
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.61_1_Adm2:
+    GID: AUS.11.61_1
+    admin_name: Kalgoorlie/Boulder
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.62_1_Adm2:
+    GID: AUS.11.62_1
+    admin_name: Katanning
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.63_1_Adm2:
+    GID: AUS.11.63_1
+    admin_name: Kellerberrin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.64_1_Adm2:
+    GID: AUS.11.64_1
+    admin_name: Kent
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.65_1_Adm2:
+    GID: AUS.11.65_1
+    admin_name: Kojonup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.66_1_Adm2:
+    GID: AUS.11.66_1
+    admin_name: Kondinin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.67_1_Adm2:
+    GID: AUS.11.67_1
+    admin_name: Koorda
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.68_1_Adm2:
+    GID: AUS.11.68_1
+    admin_name: Kulin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.69_1_Adm2:
+    GID: AUS.11.69_1
+    admin_name: Kwinana
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.7_1_Adm2:
+    GID: AUS.11.7_1
+    admin_name: Belmont
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.70_1_Adm2:
+    GID: AUS.11.70_1
+    admin_name: Lake Grace
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.71_1_Adm2:
+    GID: AUS.11.71_1
+    admin_name: Laverton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.72_1_Adm2:
+    GID: AUS.11.72_1
+    admin_name: Leonora
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.73_1_Adm2:
+    GID: AUS.11.73_1
+    admin_name: Mandurah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.74_1_Adm2:
+    GID: AUS.11.74_1
+    admin_name: Manjimup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.75_1_Adm2:
+    GID: AUS.11.75_1
+    admin_name: Meekatharra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.76_1_Adm2:
+    GID: AUS.11.76_1
+    admin_name: Melville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.77_1_Adm2:
+    GID: AUS.11.77_1
+    admin_name: Menzies
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.78_1_Adm2:
+    GID: AUS.11.78_1
+    admin_name: Merredin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.79_1_Adm2:
+    GID: AUS.11.79_1
+    admin_name: Mingenew
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.8_1_Adm2:
+    GID: AUS.11.8_1
+    admin_name: Beverley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.80_1_Adm2:
+    GID: AUS.11.80_1
+    admin_name: Moora
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.81_1_Adm2:
+    GID: AUS.11.81_1
+    admin_name: Morawa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.82_1_Adm2:
+    GID: AUS.11.82_1
+    admin_name: Mosman Park
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.83_1_Adm2:
+    GID: AUS.11.83_1
+    admin_name: Mount Magnet
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.84_1_Adm2:
+    GID: AUS.11.84_1
+    admin_name: Mount Marshall
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.85_1_Adm2:
+    GID: AUS.11.85_1
+    admin_name: Mukinbudin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.86_1_Adm2:
+    GID: AUS.11.86_1
+    admin_name: Mullewa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.87_1_Adm2:
+    GID: AUS.11.87_1
+    admin_name: Mundaring
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.88_1_Adm2:
+    GID: AUS.11.88_1
+    admin_name: Murchison
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.89_1_Adm2:
+    GID: AUS.11.89_1
+    admin_name: Murray
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.9_1_Adm2:
+    GID: AUS.11.9_1
+    admin_name: Boddington
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.90_1_Adm2:
+    GID: AUS.11.90_1
+    admin_name: Nannup
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.91_1_Adm2:
+    GID: AUS.11.91_1
+    admin_name: Narembeen
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.92_1_Adm2:
+    GID: AUS.11.92_1
+    admin_name: Narrogin (Shire)
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.93_1_Adm2:
+    GID: AUS.11.93_1
+    admin_name: Narrogin (Town)
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.94_1_Adm2:
+    GID: AUS.11.94_1
+    admin_name: Nedlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.95_1_Adm2:
+    GID: AUS.11.95_1
+    admin_name: Ngaanyatjarraku
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.96_1_Adm2:
+    GID: AUS.11.96_1
+    admin_name: Northam
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.97_1_Adm2:
+    GID: AUS.11.97_1
+    admin_name: Northampton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.98_1_Adm2:
+    GID: AUS.11.98_1
+    admin_name: Nungarin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.11.99_1_Adm2:
+    GID: AUS.11.99_1
+    admin_name: Peppermint Grove
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.2_1_Adm1:
+    GID: AUS.2_1
+    admin_name: Australian Capital Territory
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.2.1_1_Adm2:
+    GID: AUS.2.1_1
+    admin_name: Unincorporated Australian Capita
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.3_1_Adm1:
+    GID: AUS.3_1
+    admin_name: Coral Sea Islands Territory
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.3.1_1_Adm2:
+    GID: AUS.3.1_1
+    admin_name: Coral Sea Islands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.4_1_Adm1:
+    GID: AUS.4_1
+    admin_name: Jervis Bay Territory
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.4.1_1_Adm2:
+    GID: AUS.4.1_1
+    admin_name: Jervis Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5_1_Adm1:
+    GID: AUS.5_1
+    admin_name: New South Wales
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.5.1_1_Adm2:
+    GID: AUS.5.1_1
+    admin_name: Albury
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.10_1_Adm2:
+    GID: AUS.5.10_1
+    admin_name: Bellingen
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.100_1_Adm2:
+    GID: AUS.5.100_1
+    admin_name: Newcastle
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.101_1_Adm2:
+    GID: AUS.5.101_1
+    admin_name: North Sydney
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.102_1_Adm2:
+    GID: AUS.5.102_1
+    admin_name: Oberon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.103_1_Adm2:
+    GID: AUS.5.103_1
+    admin_name: Orange
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.104_1_Adm2:
+    GID: AUS.5.104_1
+    admin_name: Palerang
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.105_1_Adm2:
+    GID: AUS.5.105_1
+    admin_name: Parkes
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.106_1_Adm2:
+    GID: AUS.5.106_1
+    admin_name: Parramatta
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.107_1_Adm2:
+    GID: AUS.5.107_1
+    admin_name: Penrith
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.108_1_Adm2:
+    GID: AUS.5.108_1
+    admin_name: Pittwater
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.109_1_Adm2:
+    GID: AUS.5.109_1
+    admin_name: Port Macquarie-Hastings
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.11_1_Adm2:
+    GID: AUS.5.11_1
+    admin_name: Berrigan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.110_1_Adm2:
+    GID: AUS.5.110_1
+    admin_name: Port Stephens
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.111_1_Adm2:
+    GID: AUS.5.111_1
+    admin_name: Queanbeyan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.112_1_Adm2:
+    GID: AUS.5.112_1
+    admin_name: Randwick
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.113_1_Adm2:
+    GID: AUS.5.113_1
+    admin_name: Richmond Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.114_1_Adm2:
+    GID: AUS.5.114_1
+    admin_name: Rockdale
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.115_1_Adm2:
+    GID: AUS.5.115_1
+    admin_name: Ryde
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.116_1_Adm2:
+    GID: AUS.5.116_1
+    admin_name: Shellharbour
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.117_1_Adm2:
+    GID: AUS.5.117_1
+    admin_name: Shoalhaven
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.118_1_Adm2:
+    GID: AUS.5.118_1
+    admin_name: Singleton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.119_1_Adm2:
+    GID: AUS.5.119_1
+    admin_name: Snowy River
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.12_1_Adm2:
+    GID: AUS.5.12_1
+    admin_name: Blacktown
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.120_1_Adm2:
+    GID: AUS.5.120_1
+    admin_name: Strathfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.121_1_Adm2:
+    GID: AUS.5.121_1
+    admin_name: Sutherland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.122_1_Adm2:
+    GID: AUS.5.122_1
+    admin_name: Sydney
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.123_1_Adm2:
+    GID: AUS.5.123_1
+    admin_name: Tamworth Regional
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.124_1_Adm2:
+    GID: AUS.5.124_1
+    admin_name: Temora
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.125_1_Adm2:
+    GID: AUS.5.125_1
+    admin_name: Tenterfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.126_1_Adm2:
+    GID: AUS.5.126_1
+    admin_name: The Hills
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.127_1_Adm2:
+    GID: AUS.5.127_1
+    admin_name: Tumbarumba
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.128_1_Adm2:
+    GID: AUS.5.128_1
+    admin_name: Tumut
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.129_1_Adm2:
+    GID: AUS.5.129_1
+    admin_name: Tweed
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.13_1_Adm2:
+    GID: AUS.5.13_1
+    admin_name: Bland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.130_1_Adm2:
+    GID: AUS.5.130_1
+    admin_name: Unincorporated New South Wales
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.131_1_Adm2:
+    GID: AUS.5.131_1
+    admin_name: Upper Hunter
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.132_1_Adm2:
+    GID: AUS.5.132_1
+    admin_name: Upper Lachlan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.133_1_Adm2:
+    GID: AUS.5.133_1
+    admin_name: Uralla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.134_1_Adm2:
+    GID: AUS.5.134_1
+    admin_name: Urana
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.135_1_Adm2:
+    GID: AUS.5.135_1
+    admin_name: Wagga Wagga
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.136_1_Adm2:
+    GID: AUS.5.136_1
+    admin_name: Wakool
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.137_1_Adm2:
+    GID: AUS.5.137_1
+    admin_name: Walcha
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.138_1_Adm2:
+    GID: AUS.5.138_1
+    admin_name: Walgett
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.139_1_Adm2:
+    GID: AUS.5.139_1
+    admin_name: Warren
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.14_1_Adm2:
+    GID: AUS.5.14_1
+    admin_name: Blayney
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.140_1_Adm2:
+    GID: AUS.5.140_1
+    admin_name: Warringah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.141_1_Adm2:
+    GID: AUS.5.141_1
+    admin_name: Warrumbungle
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.142_1_Adm2:
+    GID: AUS.5.142_1
+    admin_name: Waverley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.143_1_Adm2:
+    GID: AUS.5.143_1
+    admin_name: Weddin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.144_1_Adm2:
+    GID: AUS.5.144_1
+    admin_name: Wellington
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.145_1_Adm2:
+    GID: AUS.5.145_1
+    admin_name: Wentworth
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.146_1_Adm2:
+    GID: AUS.5.146_1
+    admin_name: Willoughby
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.147_1_Adm2:
+    GID: AUS.5.147_1
+    admin_name: Wingecarribee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.148_1_Adm2:
+    GID: AUS.5.148_1
+    admin_name: Wollondilly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.149_1_Adm2:
+    GID: AUS.5.149_1
+    admin_name: Wollongong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.15_1_Adm2:
+    GID: AUS.5.15_1
+    admin_name: Blue Mountains
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.150_1_Adm2:
+    GID: AUS.5.150_1
+    admin_name: Woollahra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.151_1_Adm2:
+    GID: AUS.5.151_1
+    admin_name: Wyong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.152_1_Adm2:
+    GID: AUS.5.152_1
+    admin_name: Yass Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.153_1_Adm2:
+    GID: AUS.5.153_1
+    admin_name: Young
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.16_1_Adm2:
+    GID: AUS.5.16_1
+    admin_name: Bogan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.17_1_Adm2:
+    GID: AUS.5.17_1
+    admin_name: Bombala
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.18_1_Adm2:
+    GID: AUS.5.18_1
+    admin_name: Boorowa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.19_1_Adm2:
+    GID: AUS.5.19_1
+    admin_name: Botany Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.2_1_Adm2:
+    GID: AUS.5.2_1
+    admin_name: Armidale Dumaresq
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.20_1_Adm2:
+    GID: AUS.5.20_1
+    admin_name: Bourke
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.21_1_Adm2:
+    GID: AUS.5.21_1
+    admin_name: Brewarrina
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.22_1_Adm2:
+    GID: AUS.5.22_1
+    admin_name: Broken Hill
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.23_1_Adm2:
+    GID: AUS.5.23_1
+    admin_name: Burwood
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.24_1_Adm2:
+    GID: AUS.5.24_1
+    admin_name: Byron
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.25_1_Adm2:
+    GID: AUS.5.25_1
+    admin_name: Cabonne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.26_1_Adm2:
+    GID: AUS.5.26_1
+    admin_name: Camden
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.27_1_Adm2:
+    GID: AUS.5.27_1
+    admin_name: Campbelltown
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.28_1_Adm2:
+    GID: AUS.5.28_1
+    admin_name: Canada Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.29_1_Adm2:
+    GID: AUS.5.29_1
+    admin_name: Canterbury
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.3_1_Adm2:
+    GID: AUS.5.3_1
+    admin_name: Ashfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.30_1_Adm2:
+    GID: AUS.5.30_1
+    admin_name: Carrathool
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.31_1_Adm2:
+    GID: AUS.5.31_1
+    admin_name: Central Darling
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.32_1_Adm2:
+    GID: AUS.5.32_1
+    admin_name: Cessnock
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.33_1_Adm2:
+    GID: AUS.5.33_1
+    admin_name: Clarence Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.34_1_Adm2:
+    GID: AUS.5.34_1
+    admin_name: Cobar
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.35_1_Adm2:
+    GID: AUS.5.35_1
+    admin_name: Coffs Harbour
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.36_1_Adm2:
+    GID: AUS.5.36_1
+    admin_name: Conargo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.37_1_Adm2:
+    GID: AUS.5.37_1
+    admin_name: Coolamon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.38_1_Adm2:
+    GID: AUS.5.38_1
+    admin_name: Cooma-Monaro
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.39_1_Adm2:
+    GID: AUS.5.39_1
+    admin_name: Coonamble
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.4_1_Adm2:
+    GID: AUS.5.4_1
+    admin_name: Auburn
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.40_1_Adm2:
+    GID: AUS.5.40_1
+    admin_name: Cootamundra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.41_1_Adm2:
+    GID: AUS.5.41_1
+    admin_name: Corowa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.42_1_Adm2:
+    GID: AUS.5.42_1
+    admin_name: Cowra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.43_1_Adm2:
+    GID: AUS.5.43_1
+    admin_name: Deniliquin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.44_1_Adm2:
+    GID: AUS.5.44_1
+    admin_name: Dubbo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.45_1_Adm2:
+    GID: AUS.5.45_1
+    admin_name: Dungog
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.46_1_Adm2:
+    GID: AUS.5.46_1
+    admin_name: Eurobodalla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.47_1_Adm2:
+    GID: AUS.5.47_1
+    admin_name: Fairfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.48_1_Adm2:
+    GID: AUS.5.48_1
+    admin_name: Forbes
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.49_1_Adm2:
+    GID: AUS.5.49_1
+    admin_name: Gilgandra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.5_1_Adm2:
+    GID: AUS.5.5_1
+    admin_name: Ballina
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.50_1_Adm2:
+    GID: AUS.5.50_1
+    admin_name: Glen Innes Severn
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.51_1_Adm2:
+    GID: AUS.5.51_1
+    admin_name: Gloucester
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.52_1_Adm2:
+    GID: AUS.5.52_1
+    admin_name: Gosford
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.53_1_Adm2:
+    GID: AUS.5.53_1
+    admin_name: Goulburn Mulwaree
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.54_1_Adm2:
+    GID: AUS.5.54_1
+    admin_name: Great Lakes
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.55_1_Adm2:
+    GID: AUS.5.55_1
+    admin_name: Greater Hume
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.56_1_Adm2:
+    GID: AUS.5.56_1
+    admin_name: Greater Taree
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.57_1_Adm2:
+    GID: AUS.5.57_1
+    admin_name: Griffith
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.58_1_Adm2:
+    GID: AUS.5.58_1
+    admin_name: Gundagai
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.59_1_Adm2:
+    GID: AUS.5.59_1
+    admin_name: Gunnedah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.6_1_Adm2:
+    GID: AUS.5.6_1
+    admin_name: Balranald
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.60_1_Adm2:
+    GID: AUS.5.60_1
+    admin_name: Guyra
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.61_1_Adm2:
+    GID: AUS.5.61_1
+    admin_name: Gwydir
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.62_1_Adm2:
+    GID: AUS.5.62_1
+    admin_name: Harden
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.63_1_Adm2:
+    GID: AUS.5.63_1
+    admin_name: Hawkesbury
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.64_1_Adm2:
+    GID: AUS.5.64_1
+    admin_name: Hay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.65_1_Adm2:
+    GID: AUS.5.65_1
+    admin_name: Holroyd
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.66_1_Adm2:
+    GID: AUS.5.66_1
+    admin_name: Hornsby
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.67_1_Adm2:
+    GID: AUS.5.67_1
+    admin_name: Hunters Hill
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.68_1_Adm2:
+    GID: AUS.5.68_1
+    admin_name: Hurstville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.69_1_Adm2:
+    GID: AUS.5.69_1
+    admin_name: Inverell
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.7_1_Adm2:
+    GID: AUS.5.7_1
+    admin_name: Bankstown
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.70_1_Adm2:
+    GID: AUS.5.70_1
+    admin_name: Jerilderie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.71_1_Adm2:
+    GID: AUS.5.71_1
+    admin_name: Junee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.72_1_Adm2:
+    GID: AUS.5.72_1
+    admin_name: Kempsey
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.73_1_Adm2:
+    GID: AUS.5.73_1
+    admin_name: Kiama
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.74_1_Adm2:
+    GID: AUS.5.74_1
+    admin_name: Kogarah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.75_1_Adm2:
+    GID: AUS.5.75_1
+    admin_name: Ku-ring-gai
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.76_1_Adm2:
+    GID: AUS.5.76_1
+    admin_name: Kyogle
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.77_1_Adm2:
+    GID: AUS.5.77_1
+    admin_name: Lachlan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.78_1_Adm2:
+    GID: AUS.5.78_1
+    admin_name: Lake Macquarie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.79_1_Adm2:
+    GID: AUS.5.79_1
+    admin_name: Lane Cove
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.8_1_Adm2:
+    GID: AUS.5.8_1
+    admin_name: Bathurst
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.80_1_Adm2:
+    GID: AUS.5.80_1
+    admin_name: Leeton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.81_1_Adm2:
+    GID: AUS.5.81_1
+    admin_name: Leichhardt
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.82_1_Adm2:
+    GID: AUS.5.82_1
+    admin_name: Lismore
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.83_1_Adm2:
+    GID: AUS.5.83_1
+    admin_name: Lithgow
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.84_1_Adm2:
+    GID: AUS.5.84_1
+    admin_name: Liverpool
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.85_1_Adm2:
+    GID: AUS.5.85_1
+    admin_name: Liverpool Plains
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.86_1_Adm2:
+    GID: AUS.5.86_1
+    admin_name: Lockhart
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.87_1_Adm2:
+    GID: AUS.5.87_1
+    admin_name: Maitland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.88_1_Adm2:
+    GID: AUS.5.88_1
+    admin_name: Manly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.89_1_Adm2:
+    GID: AUS.5.89_1
+    admin_name: Marrickville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.9_1_Adm2:
+    GID: AUS.5.9_1
+    admin_name: Bega Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.90_1_Adm2:
+    GID: AUS.5.90_1
+    admin_name: Mid-Western Regional
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.91_1_Adm2:
+    GID: AUS.5.91_1
+    admin_name: Moree Plains
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.92_1_Adm2:
+    GID: AUS.5.92_1
+    admin_name: Mosman
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.93_1_Adm2:
+    GID: AUS.5.93_1
+    admin_name: Murray
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.94_1_Adm2:
+    GID: AUS.5.94_1
+    admin_name: Murrumbidgee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.95_1_Adm2:
+    GID: AUS.5.95_1
+    admin_name: Muswellbrook
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.96_1_Adm2:
+    GID: AUS.5.96_1
+    admin_name: Nambucca
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.97_1_Adm2:
+    GID: AUS.5.97_1
+    admin_name: Narrabri
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.98_1_Adm2:
+    GID: AUS.5.98_1
+    admin_name: Narrandera
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.5.99_1_Adm2:
+    GID: AUS.5.99_1
+    admin_name: Narromine
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6_1_Adm1:
+    GID: AUS.6_1
+    admin_name: Northern Territory
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.6.1_1_Adm2:
+    GID: AUS.6.1_1
+    admin_name: Alice Springs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.10_1_Adm2:
+    GID: AUS.6.10_1
+    admin_name: MacDonnell
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.11_1_Adm2:
+    GID: AUS.6.11_1
+    admin_name: Palmerston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.12_1_Adm2:
+    GID: AUS.6.12_1
+    admin_name: Roper Gulf
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.13_1_Adm2:
+    GID: AUS.6.13_1
+    admin_name: Tiwi Islands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.14_1_Adm2:
+    GID: AUS.6.14_1
+    admin_name: Unincorporated Norther Territori
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.15_1_Adm2:
+    GID: AUS.6.15_1
+    admin_name: Victoria-Daly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.16_1_Adm2:
+    GID: AUS.6.16_1
+    admin_name: Wagait
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.17_1_Adm2:
+    GID: AUS.6.17_1
+    admin_name: West Arnhem
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.2_1_Adm2:
+    GID: AUS.6.2_1
+    admin_name: Barkly
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.3_1_Adm2:
+    GID: AUS.6.3_1
+    admin_name: Belyuen
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.4_1_Adm2:
+    GID: AUS.6.4_1
+    admin_name: Central Desert
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.5_1_Adm2:
+    GID: AUS.6.5_1
+    admin_name: Coomalie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.6_1_Adm2:
+    GID: AUS.6.6_1
+    admin_name: Darwin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.7_1_Adm2:
+    GID: AUS.6.7_1
+    admin_name: East Arnhem
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.8_1_Adm2:
+    GID: AUS.6.8_1
+    admin_name: Katherine
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.6.9_1_Adm2:
+    GID: AUS.6.9_1
+    admin_name: Litchfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7_1_Adm1:
+    GID: AUS.7_1
+    admin_name: Queensland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.7.1_1_Adm2:
+    GID: AUS.7.1_1
+    admin_name: Aurukun
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.10_1_Adm2:
+    GID: AUS.7.10_1
+    admin_name: Bundaberg
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.11_1_Adm2:
+    GID: AUS.7.11_1
+    admin_name: Burdekin
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.12_1_Adm2:
+    GID: AUS.7.12_1
+    admin_name: Burke
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.13_1_Adm2:
+    GID: AUS.7.13_1
+    admin_name: Cairns
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.14_1_Adm2:
+    GID: AUS.7.14_1
+    admin_name: Carpentaria
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.15_1_Adm2:
+    GID: AUS.7.15_1
+    admin_name: Cassowary Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.16_1_Adm2:
+    GID: AUS.7.16_1
+    admin_name: Central Highlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.17_1_Adm2:
+    GID: AUS.7.17_1
+    admin_name: Charters Towers
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.18_1_Adm2:
+    GID: AUS.7.18_1
+    admin_name: Cherbourg
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.19_1_Adm2:
+    GID: AUS.7.19_1
+    admin_name: Cloncurry
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.2_1_Adm2:
+    GID: AUS.7.2_1
+    admin_name: Balonne
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.20_1_Adm2:
+    GID: AUS.7.20_1
+    admin_name: Cook
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.21_1_Adm2:
+    GID: AUS.7.21_1
+    admin_name: Croydon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.22_1_Adm2:
+    GID: AUS.7.22_1
+    admin_name: Diamantina
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.23_1_Adm2:
+    GID: AUS.7.23_1
+    admin_name: Doomadgee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.24_1_Adm2:
+    GID: AUS.7.24_1
+    admin_name: Etheridge
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.25_1_Adm2:
+    GID: AUS.7.25_1
+    admin_name: Flinders
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.26_1_Adm2:
+    GID: AUS.7.26_1
+    admin_name: Fraser Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.27_1_Adm2:
+    GID: AUS.7.27_1
+    admin_name: Gladstone
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.28_1_Adm2:
+    GID: AUS.7.28_1
+    admin_name: Gold Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.29_1_Adm2:
+    GID: AUS.7.29_1
+    admin_name: Goondiwindi
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.3_1_Adm2:
+    GID: AUS.7.3_1
+    admin_name: Banana
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.30_1_Adm2:
+    GID: AUS.7.30_1
+    admin_name: Gympie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.31_1_Adm2:
+    GID: AUS.7.31_1
+    admin_name: Hinchinbrook
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.32_1_Adm2:
+    GID: AUS.7.32_1
+    admin_name: Hope Vale
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.33_1_Adm2:
+    GID: AUS.7.33_1
+    admin_name: Ipswich
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.34_1_Adm2:
+    GID: AUS.7.34_1
+    admin_name: Isaac
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.35_1_Adm2:
+    GID: AUS.7.35_1
+    admin_name: Kowanyama
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.36_1_Adm2:
+    GID: AUS.7.36_1
+    admin_name: Lockhart River
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.37_1_Adm2:
+    GID: AUS.7.37_1
+    admin_name: Lockyer Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.38_1_Adm2:
+    GID: AUS.7.38_1
+    admin_name: Logan
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.39_1_Adm2:
+    GID: AUS.7.39_1
+    admin_name: Longreach
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.4_1_Adm2:
+    GID: AUS.7.4_1
+    admin_name: Barcaldine
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.40_1_Adm2:
+    GID: AUS.7.40_1
+    admin_name: Mackay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.41_1_Adm2:
+    GID: AUS.7.41_1
+    admin_name: Mapoon
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.42_1_Adm2:
+    GID: AUS.7.42_1
+    admin_name: Maranoa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.43_1_Adm2:
+    GID: AUS.7.43_1
+    admin_name: McKinlay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.44_1_Adm2:
+    GID: AUS.7.44_1
+    admin_name: Moreton Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.45_1_Adm2:
+    GID: AUS.7.45_1
+    admin_name: Mornington
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.46_1_Adm2:
+    GID: AUS.7.46_1
+    admin_name: Mount Isa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.47_1_Adm2:
+    GID: AUS.7.47_1
+    admin_name: Murweh
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.48_1_Adm2:
+    GID: AUS.7.48_1
+    admin_name: Napranum
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.49_1_Adm2:
+    GID: AUS.7.49_1
+    admin_name: North Burnett
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.5_1_Adm2:
+    GID: AUS.7.5_1
+    admin_name: Barcoo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.50_1_Adm2:
+    GID: AUS.7.50_1
+    admin_name: Northern Peninsula Area
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.51_1_Adm2:
+    GID: AUS.7.51_1
+    admin_name: Palm Island
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.52_1_Adm2:
+    GID: AUS.7.52_1
+    admin_name: Paroo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.53_1_Adm2:
+    GID: AUS.7.53_1
+    admin_name: Pormpuraaw
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.54_1_Adm2:
+    GID: AUS.7.54_1
+    admin_name: Quilpie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.55_1_Adm2:
+    GID: AUS.7.55_1
+    admin_name: Redland
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.56_1_Adm2:
+    GID: AUS.7.56_1
+    admin_name: Richmond
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.57_1_Adm2:
+    GID: AUS.7.57_1
+    admin_name: Rockhampton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.58_1_Adm2:
+    GID: AUS.7.58_1
+    admin_name: Scenic Rim
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.59_1_Adm2:
+    GID: AUS.7.59_1
+    admin_name: Somerset
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.6_1_Adm2:
+    GID: AUS.7.6_1
+    admin_name: Blackall Tambo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.60_1_Adm2:
+    GID: AUS.7.60_1
+    admin_name: South Burnett
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.61_1_Adm2:
+    GID: AUS.7.61_1
+    admin_name: Southern Downs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.62_1_Adm2:
+    GID: AUS.7.62_1
+    admin_name: Sunshine Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.63_1_Adm2:
+    GID: AUS.7.63_1
+    admin_name: Tablelands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.64_1_Adm2:
+    GID: AUS.7.64_1
+    admin_name: Toowoomba
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.66_1_Adm2:
+    GID: AUS.7.66_1
+    admin_name: Torres Strait Islands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.67_1_Adm2:
+    GID: AUS.7.67_1
+    admin_name: Townsville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.68_1_Adm2:
+    GID: AUS.7.68_1
+    admin_name: Weipa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.69_1_Adm2:
+    GID: AUS.7.69_1
+    admin_name: Western Downs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.7_1_Adm2:
+    GID: AUS.7.7_1
+    admin_name: Boulia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.70_1_Adm2:
+    GID: AUS.7.70_1
+    admin_name: Whitsunday
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.71_1_Adm2:
+    GID: AUS.7.71_1
+    admin_name: Winton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.72_1_Adm2:
+    GID: AUS.7.72_1
+    admin_name: Woorabinda
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.73_1_Adm2:
+    GID: AUS.7.73_1
+    admin_name: Wujal Wujal
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.74_1_Adm2:
+    GID: AUS.7.74_1
+    admin_name: Yarrabah
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.8_1_Adm2:
+    GID: AUS.7.8_1
+    admin_name: Brisbane
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.7.9_1_Adm2:
+    GID: AUS.7.9_1
+    admin_name: Bulloo
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8_1_Adm1:
+    GID: AUS.8_1
+    admin_name: South Australia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.8.1_1_Adm2:
+    GID: AUS.8.1_1
+    admin_name: Adelaide
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.10_1_Adm2:
+    GID: AUS.8.10_1
+    admin_name: Ceduna
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.11_1_Adm2:
+    GID: AUS.8.11_1
+    admin_name: Charles Sturt
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.12_1_Adm2:
+    GID: AUS.8.12_1
+    admin_name: Clare and Gilbert Valleys
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.13_1_Adm2:
+    GID: AUS.8.13_1
+    admin_name: Cleve
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.14_1_Adm2:
+    GID: AUS.8.14_1
+    admin_name: Coober Pedy
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.15_1_Adm2:
+    GID: AUS.8.15_1
+    admin_name: Copper Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.16_1_Adm2:
+    GID: AUS.8.16_1
+    admin_name: Elliston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.17_1_Adm2:
+    GID: AUS.8.17_1
+    admin_name: Flinders Ranges
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.18_1_Adm2:
+    GID: AUS.8.18_1
+    admin_name: Franklin Harbour
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.19_1_Adm2:
+    GID: AUS.8.19_1
+    admin_name: Gawler
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.2_1_Adm2:
+    GID: AUS.8.2_1
+    admin_name: Adelaide Hills
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.20_1_Adm2:
+    GID: AUS.8.20_1
+    admin_name: Goyder
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.21_1_Adm2:
+    GID: AUS.8.21_1
+    admin_name: Grant
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.22_1_Adm2:
+    GID: AUS.8.22_1
+    admin_name: Holdfast Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.23_1_Adm2:
+    GID: AUS.8.23_1
+    admin_name: Kangaroo Island
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.24_1_Adm2:
+    GID: AUS.8.24_1
+    admin_name: Karoonda East Murray
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.25_1_Adm2:
+    GID: AUS.8.25_1
+    admin_name: Kimba
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.26_1_Adm2:
+    GID: AUS.8.26_1
+    admin_name: Kingston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.27_1_Adm2:
+    GID: AUS.8.27_1
+    admin_name: Light
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.28_1_Adm2:
+    GID: AUS.8.28_1
+    admin_name: Lower Eyre Peninsula
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.29_1_Adm2:
+    GID: AUS.8.29_1
+    admin_name: Loxton Waikerie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.3_1_Adm2:
+    GID: AUS.8.3_1
+    admin_name: Alexandrina
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.30_1_Adm2:
+    GID: AUS.8.30_1
+    admin_name: Mallala
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.31_1_Adm2:
+    GID: AUS.8.31_1
+    admin_name: Maralinga Tjarutja
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.32_1_Adm2:
+    GID: AUS.8.32_1
+    admin_name: Marion
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.33_1_Adm2:
+    GID: AUS.8.33_1
+    admin_name: Mid Murray
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.34_1_Adm2:
+    GID: AUS.8.34_1
+    admin_name: Mitcham
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.35_1_Adm2:
+    GID: AUS.8.35_1
+    admin_name: Mount Barker
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.36_1_Adm2:
+    GID: AUS.8.36_1
+    admin_name: Mount Gambier
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.37_1_Adm2:
+    GID: AUS.8.37_1
+    admin_name: Mount Remarkable
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.38_1_Adm2:
+    GID: AUS.8.38_1
+    admin_name: Murray Bridge
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.39_1_Adm2:
+    GID: AUS.8.39_1
+    admin_name: Naracoorte and Lucindale
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.4_1_Adm2:
+    GID: AUS.8.4_1
+    admin_name: Anangu Pitjantjatjara
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.40_1_Adm2:
+    GID: AUS.8.40_1
+    admin_name: Northern Areas
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.41_1_Adm2:
+    GID: AUS.8.41_1
+    admin_name: Norwood Payneham St Peters
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.42_1_Adm2:
+    GID: AUS.8.42_1
+    admin_name: Onkaparinga
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.43_1_Adm2:
+    GID: AUS.8.43_1
+    admin_name: Orroroo/Carrieton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.44_1_Adm2:
+    GID: AUS.8.44_1
+    admin_name: Peterborough
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.45_1_Adm2:
+    GID: AUS.8.45_1
+    admin_name: Playford
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.46_1_Adm2:
+    GID: AUS.8.46_1
+    admin_name: Port Adelaide Enfield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.47_1_Adm2:
+    GID: AUS.8.47_1
+    admin_name: Port Augusta
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.48_1_Adm2:
+    GID: AUS.8.48_1
+    admin_name: Port Lincoln
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.49_1_Adm2:
+    GID: AUS.8.49_1
+    admin_name: Port Pirie City and Dists
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.5_1_Adm2:
+    GID: AUS.8.5_1
+    admin_name: Barossa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.50_1_Adm2:
+    GID: AUS.8.50_1
+    admin_name: Prospect
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.51_1_Adm2:
+    GID: AUS.8.51_1
+    admin_name: Renmark Paringa
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.52_1_Adm2:
+    GID: AUS.8.52_1
+    admin_name: Robe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.53_1_Adm2:
+    GID: AUS.8.53_1
+    admin_name: Roxby Downs
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.54_1_Adm2:
+    GID: AUS.8.54_1
+    admin_name: Salisbury
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.55_1_Adm2:
+    GID: AUS.8.55_1
+    admin_name: Southern Mallee
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.56_1_Adm2:
+    GID: AUS.8.56_1
+    admin_name: Streaky Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.57_1_Adm2:
+    GID: AUS.8.57_1
+    admin_name: Tatiara
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.58_1_Adm2:
+    GID: AUS.8.58_1
+    admin_name: Tea Tree Gully
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.59_1_Adm2:
+    GID: AUS.8.59_1
+    admin_name: The Coorong
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.6_1_Adm2:
+    GID: AUS.8.6_1
+    admin_name: Barunga West
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.60_1_Adm2:
+    GID: AUS.8.60_1
+    admin_name: Tumby Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.61_1_Adm2:
+    GID: AUS.8.61_1
+    admin_name: Unincorporated South Australia
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.62_1_Adm2:
+    GID: AUS.8.62_1
+    admin_name: Unley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.63_1_Adm2:
+    GID: AUS.8.63_1
+    admin_name: Victor Harbor
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.64_1_Adm2:
+    GID: AUS.8.64_1
+    admin_name: Wakefield
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.65_1_Adm2:
+    GID: AUS.8.65_1
+    admin_name: Walkerville
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.66_1_Adm2:
+    GID: AUS.8.66_1
+    admin_name: Wattle Range
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.67_1_Adm2:
+    GID: AUS.8.67_1
+    admin_name: West Torrens
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.68_1_Adm2:
+    GID: AUS.8.68_1
+    admin_name: Whyalla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.69_1_Adm2:
+    GID: AUS.8.69_1
+    admin_name: Wudinna
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.7_1_Adm2:
+    GID: AUS.8.7_1
+    admin_name: Berri and Barmera
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.70_1_Adm2:
+    GID: AUS.8.70_1
+    admin_name: Yankalilla
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.71_1_Adm2:
+    GID: AUS.8.71_1
+    admin_name: Yorke Peninsula
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.8_1_Adm2:
+    GID: AUS.8.8_1
+    admin_name: Burnside
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.8.9_1_Adm2:
+    GID: AUS.8.9_1
+    admin_name: Campbelltown
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9_1_Adm1:
+    GID: AUS.9_1
+    admin_name: Tasmania
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm1
+  AUS.9.1_1_Adm2:
+    GID: AUS.9.1_1
+    admin_name: Break O'Day
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.10_1_Adm2:
+    GID: AUS.9.10_1
+    admin_name: Dorset
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.11_1_Adm2:
+    GID: AUS.9.11_1
+    admin_name: Flinders
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.12_1_Adm2:
+    GID: AUS.9.12_1
+    admin_name: George Town
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.13_1_Adm2:
+    GID: AUS.9.13_1
+    admin_name: Glamorgan/Spring Bay
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.14_1_Adm2:
+    GID: AUS.9.14_1
+    admin_name: Glenorchy
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.15_1_Adm2:
+    GID: AUS.9.15_1
+    admin_name: Hobart
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.16_1_Adm2:
+    GID: AUS.9.16_1
+    admin_name: Huon Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.17_1_Adm2:
+    GID: AUS.9.17_1
+    admin_name: Kentish
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.18_1_Adm2:
+    GID: AUS.9.18_1
+    admin_name: King Island
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.19_1_Adm2:
+    GID: AUS.9.19_1
+    admin_name: Kingborough
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.2_1_Adm2:
+    GID: AUS.9.2_1
+    admin_name: Brighton
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.20_1_Adm2:
+    GID: AUS.9.20_1
+    admin_name: Latrobe
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.21_1_Adm2:
+    GID: AUS.9.21_1
+    admin_name: Launceston
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.22_1_Adm2:
+    GID: AUS.9.22_1
+    admin_name: Macquarie Island
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.23_1_Adm2:
+    GID: AUS.9.23_1
+    admin_name: Meander Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.24_1_Adm2:
+    GID: AUS.9.24_1
+    admin_name: Northern Midlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.25_1_Adm2:
+    GID: AUS.9.25_1
+    admin_name: Sorell
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.26_1_Adm2:
+    GID: AUS.9.26_1
+    admin_name: Southern Midlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.27_1_Adm2:
+    GID: AUS.9.27_1
+    admin_name: Tasman
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.28_1_Adm2:
+    GID: AUS.9.28_1
+    admin_name: Waratah/Wynyard
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.29_1_Adm2:
+    GID: AUS.9.29_1
+    admin_name: West Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.3_1_Adm2:
+    GID: AUS.9.3_1
+    admin_name: Burnie
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.30_1_Adm2:
+    GID: AUS.9.30_1
+    admin_name: West Tamar
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.4_1_Adm2:
+    GID: AUS.9.4_1
+    admin_name: Central Coast
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.5_1_Adm2:
+    GID: AUS.9.5_1
+    admin_name: Central Highlands
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.6_1_Adm2:
+    GID: AUS.9.6_1
+    admin_name: Circular Head
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.7_1_Adm2:
+    GID: AUS.9.7_1
+    admin_name: Clarence
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.8_1_Adm2:
+    GID: AUS.9.8_1
+    admin_name: Derwent Valley
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2
+  AUS.9.9_1_Adm2:
+    GID: AUS.9.9_1
+    admin_name: Devonport
+    iso3c: AUS
+    country_name: Australia
+    admin_level: Adm2

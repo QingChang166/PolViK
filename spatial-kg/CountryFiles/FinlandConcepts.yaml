@@ -1,0 +1,163 @@
+concepts:
+  FIN.0_Adm0:
+    GID: FIN
+    admin_name: Finland
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm0
+  FIN.1_1_Adm1:
+    GID: FIN.1_1
+    admin_name: Eastern Finland
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm1
+  FIN.1.1_1_Adm2:
+    GID: FIN.1.1_1
+    admin_name: North Karelia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.1.2_1_Adm2:
+    GID: FIN.1.2_1
+    admin_name: North Savonia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.1.3_1_Adm2:
+    GID: FIN.1.3_1
+    admin_name: Päijänne Tavastia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.1.4_1_Adm2:
+    GID: FIN.1.4_1
+    admin_name: Southern Savonia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.2_1_Adm1:
+    GID: FIN.2_1
+    admin_name: Lapland
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm1
+  FIN.2.1_1_Adm2:
+    GID: FIN.2.1_1
+    admin_name: Lapland
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.3_1_Adm1:
+    GID: FIN.3_1
+    admin_name: Oulu
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm1
+  FIN.3.1_1_Adm2:
+    GID: FIN.3.1_1
+    admin_name: Kainuu
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.3.2_1_Adm2:
+    GID: FIN.3.2_1
+    admin_name: Northern Ostrobothnia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.4_1_Adm1:
+    GID: FIN.4_1
+    admin_name: Southern Finland
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm1
+  FIN.4.1_1_Adm2:
+    GID: FIN.4.1_1
+    admin_name: Eastern Uusimaa
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.4.2_1_Adm2:
+    GID: FIN.4.2_1
+    admin_name: Kymenlaakso
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.4.3_1_Adm2:
+    GID: FIN.4.3_1
+    admin_name: Päijänne Tavastia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.4.4_1_Adm2:
+    GID: FIN.4.4_1
+    admin_name: South Karelia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.4.5_1_Adm2:
+    GID: FIN.4.5_1
+    admin_name: Uusimaa
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5_1_Adm1:
+    GID: FIN.5_1
+    admin_name: Western Finland
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm1
+  FIN.5.1_1_Adm2:
+    GID: FIN.5.1_1
+    admin_name: Central Finland
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5.2_1_Adm2:
+    GID: FIN.5.2_1
+    admin_name: Central Ostrobothnia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5.3_1_Adm2:
+    GID: FIN.5.3_1
+    admin_name: Finland Proper
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5.4_1_Adm2:
+    GID: FIN.5.4_1
+    admin_name: Ostrobothnia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5.5_1_Adm2:
+    GID: FIN.5.5_1
+    admin_name: Päijänne Tavastia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5.6_1_Adm2:
+    GID: FIN.5.6_1
+    admin_name: Pirkanmaa
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5.7_1_Adm2:
+    GID: FIN.5.7_1
+    admin_name: Satakunta
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5.8_1_Adm2:
+    GID: FIN.5.8_1
+    admin_name: Southern Ostrobothnia
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2
+  FIN.5.9_1_Adm2:
+    GID: FIN.5.9_1
+    admin_name: Tavastia Proper
+    iso3c: FIN
+    country_name: Finland
+    admin_level: Adm2

@@ -1,0 +1,199 @@
+concepts:
+  BHS.0_Adm0:
+    GID: BHS
+    admin_name: Bahamas
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm0
+  BHS.1_1_Adm1:
+    GID: BHS.1_1
+    admin_name: Acklins
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.10_1_Adm1:
+    GID: BHS.10_1
+    admin_name: Crooked Island
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.11_1_Adm1:
+    GID: BHS.11_1
+    admin_name: East Grand Bahama
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.12_1_Adm1:
+    GID: BHS.12_1
+    admin_name: Exuma
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.13_1_Adm1:
+    GID: BHS.13_1
+    admin_name: Grand Cay
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.14_1_Adm1:
+    GID: BHS.14_1
+    admin_name: Harbour Island
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.15_1_Adm1:
+    GID: BHS.15_1
+    admin_name: Hope Town
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.16_1_Adm1:
+    GID: BHS.16_1
+    admin_name: Inagua
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.17_1_Adm1:
+    GID: BHS.17_1
+    admin_name: Long Island
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.18_1_Adm1:
+    GID: BHS.18_1
+    admin_name: Mangrove Cay
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.19_1_Adm1:
+    GID: BHS.19_1
+    admin_name: Mayaguana
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.2_1_Adm1:
+    GID: BHS.2_1
+    admin_name: Berry Islands
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.20_1_Adm1:
+    GID: BHS.20_1
+    admin_name: Moore's Island
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.21_1_Adm1:
+    GID: BHS.21_1
+    admin_name: New Providence
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.22_1_Adm1:
+    GID: BHS.22_1
+    admin_name: North Abaco
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.23_1_Adm1:
+    GID: BHS.23_1
+    admin_name: North Andros
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.24_1_Adm1:
+    GID: BHS.24_1
+    admin_name: North Eleuthera
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.25_1_Adm1:
+    GID: BHS.25_1
+    admin_name: Ragged Island
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.26_1_Adm1:
+    GID: BHS.26_1
+    admin_name: Rum Cay
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.27_1_Adm1:
+    GID: BHS.27_1
+    admin_name: San Salvador
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.28_1_Adm1:
+    GID: BHS.28_1
+    admin_name: South Abaco
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.29_1_Adm1:
+    GID: BHS.29_1
+    admin_name: South Andros
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.3_1_Adm1:
+    GID: BHS.3_1
+    admin_name: Biminis
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.30_1_Adm1:
+    GID: BHS.30_1
+    admin_name: South Eleuthera
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.31_1_Adm1:
+    GID: BHS.31_1
+    admin_name: Spanish Wells
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.32_1_Adm1:
+    GID: BHS.32_1
+    admin_name: West Grand Bahama
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.4_1_Adm1:
+    GID: BHS.4_1
+    admin_name: Black Point
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.5_1_Adm1:
+    GID: BHS.5_1
+    admin_name: Cat Island
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.6_1_Adm1:
+    GID: BHS.6_1
+    admin_name: Central Abaco
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.7_1_Adm1:
+    GID: BHS.7_1
+    admin_name: Central Andros
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.8_1_Adm1:
+    GID: BHS.8_1
+    admin_name: Central Eleuthera
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1
+  BHS.9_1_Adm1:
+    GID: BHS.9_1
+    admin_name: City of Freeport
+    iso3c: BHS
+    country_name: Bahamas
+    admin_level: Adm1

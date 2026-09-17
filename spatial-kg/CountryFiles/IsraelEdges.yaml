@@ -1,0 +1,8 @@
+relations:
+    - (ISR.0_Adm0, ISR.1_1_Adm1)
+    - (ISR.0_Adm0, ISR.2_1_Adm1)
+    - (ISR.0_Adm0, ISR.3_1_Adm1)
+    - (ISR.0_Adm0, ISR.4_1_Adm1)
+    - (ISR.0_Adm0, ISR.5_1_Adm1)
+    - (ISR.0_Adm0, ISR.6_1_Adm1)
+    - (ISR.0_Adm0, ISR.7_1_Adm1)

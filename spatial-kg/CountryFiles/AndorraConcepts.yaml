@@ -1,0 +1,49 @@
+concepts:
+  AND.0_Adm0:
+    GID: AND
+    admin_name: Andorra
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm0
+  AND.1_1_Adm1:
+    GID: AND.1_1
+    admin_name: Andorra la Vella
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1
+  AND.2_1_Adm1:
+    GID: AND.2_1
+    admin_name: Canillo
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1
+  AND.3_1_Adm1:
+    GID: AND.3_1
+    admin_name: Encamp
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1
+  AND.4_1_Adm1:
+    GID: AND.4_1
+    admin_name: Escaldes-Engordany
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1
+  AND.5_1_Adm1:
+    GID: AND.5_1
+    admin_name: La Massana
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1
+  AND.6_1_Adm1:
+    GID: AND.6_1
+    admin_name: Ordino
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1
+  AND.7_1_Adm1:
+    GID: AND.7_1
+    admin_name: Sant Julià de Lòria
+    iso3c: AND
+    country_name: Andorra
+    admin_level: Adm1

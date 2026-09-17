@@ -1,0 +1,6919 @@
+concepts:
+  COL.0_Adm0:
+    GID: COL
+    admin_name: Colombia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm0
+  COL.1_2_Adm1:
+    GID: COL.1_2
+    admin_name: Amazonas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.1.1_2_Adm2:
+    GID: COL.1.1_2
+    admin_name: El Encanto
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.10_2_Adm2:
+    GID: COL.1.10_2
+    admin_name: Puerto Santander
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.11_2_Adm2:
+    GID: COL.1.11_2
+    admin_name: Tarapacá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.2_2_Adm2:
+    GID: COL.1.2_2
+    admin_name: La Chorrera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.3_2_Adm2:
+    GID: COL.1.3_2
+    admin_name: La Pedrera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.4_2_Adm2:
+    GID: COL.1.4_2
+    admin_name: La Victoria
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.5_2_Adm2:
+    GID: COL.1.5_2
+    admin_name: Leticia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.6_2_Adm2:
+    GID: COL.1.6_2
+    admin_name: Mirití-Paraná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.7_2_Adm2:
+    GID: COL.1.7_2
+    admin_name: Puerto Alegria
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.8_2_Adm2:
+    GID: COL.1.8_2
+    admin_name: Puerto Arica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.1.9_2_Adm2:
+    GID: COL.1.9_2
+    admin_name: Puerto Nariño
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10_2_Adm1:
+    GID: COL.10_2
+    admin_name: Casanare
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.10.1_2_Adm2:
+    GID: COL.10.1_2
+    admin_name: Aguazul
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.10_2_Adm2:
+    GID: COL.10.10_2
+    admin_name: Pore
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.11_2_Adm2:
+    GID: COL.10.11_2
+    admin_name: Recetor
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.12_2_Adm2:
+    GID: COL.10.12_2
+    admin_name: Sabanalarga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.13_2_Adm2:
+    GID: COL.10.13_2
+    admin_name: Sácama
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.14_2_Adm2:
+    GID: COL.10.14_2
+    admin_name: San Luis de Palenque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.15_2_Adm2:
+    GID: COL.10.15_2
+    admin_name: Támara
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.16_2_Adm2:
+    GID: COL.10.16_2
+    admin_name: Tauramena
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.17_2_Adm2:
+    GID: COL.10.17_2
+    admin_name: Trinidad
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.18_2_Adm2:
+    GID: COL.10.18_2
+    admin_name: Villanueva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.19_2_Adm2:
+    GID: COL.10.19_2
+    admin_name: Yopal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.2_2_Adm2:
+    GID: COL.10.2_2
+    admin_name: Chámeza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.3_2_Adm2:
+    GID: COL.10.3_2
+    admin_name: Hato Corozal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.4_2_Adm2:
+    GID: COL.10.4_2
+    admin_name: La Salina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.5_2_Adm2:
+    GID: COL.10.5_2
+    admin_name: Maní
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.6_2_Adm2:
+    GID: COL.10.6_2
+    admin_name: Monterrey
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.7_2_Adm2:
+    GID: COL.10.7_2
+    admin_name: Nunchía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.8_2_Adm2:
+    GID: COL.10.8_2
+    admin_name: Orocué
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.10.9_2_Adm2:
+    GID: COL.10.9_2
+    admin_name: Paz de Ariporo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11_2_Adm1:
+    GID: COL.11_2
+    admin_name: Cauca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.11.1_2_Adm2:
+    GID: COL.11.1_2
+    admin_name: Almaguer
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.10_2_Adm2:
+    GID: COL.11.10_2
+    admin_name: El Tambo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.11_2_Adm2:
+    GID: COL.11.11_2
+    admin_name: Florencia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.12_2_Adm2:
+    GID: COL.11.12_2
+    admin_name: Guapí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.13_2_Adm2:
+    GID: COL.11.13_2
+    admin_name: Inzá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.14_2_Adm2:
+    GID: COL.11.14_2
+    admin_name: Jambaló
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.15_2_Adm2:
+    GID: COL.11.15_2
+    admin_name: La Sierra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.16_2_Adm2:
+    GID: COL.11.16_2
+    admin_name: La Vega
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.17_2_Adm2:
+    GID: COL.11.17_2
+    admin_name: López de Micay
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.18_2_Adm2:
+    GID: COL.11.18_2
+    admin_name: Mercaderes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.19_2_Adm2:
+    GID: COL.11.19_2
+    admin_name: Miranda
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.2_2_Adm2:
+    GID: COL.11.2_2
+    admin_name: Argelia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.20_2_Adm2:
+    GID: COL.11.20_2
+    admin_name: Morales
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.21_2_Adm2:
+    GID: COL.11.21_2
+    admin_name: Padilla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.22_2_Adm2:
+    GID: COL.11.22_2
+    admin_name: Páez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.23_2_Adm2:
+    GID: COL.11.23_2
+    admin_name: Patía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.24_2_Adm2:
+    GID: COL.11.24_2
+    admin_name: Piamonte
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.25_2_Adm2:
+    GID: COL.11.25_2
+    admin_name: Piendamó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.26_2_Adm2:
+    GID: COL.11.26_2
+    admin_name: Popayán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.27_2_Adm2:
+    GID: COL.11.27_2
+    admin_name: Puerto Tejada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.28_2_Adm2:
+    GID: COL.11.28_2
+    admin_name: Puracé
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.29_2_Adm2:
+    GID: COL.11.29_2
+    admin_name: Rosas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.3_2_Adm2:
+    GID: COL.11.3_2
+    admin_name: Balboa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.30_2_Adm2:
+    GID: COL.11.30_2
+    admin_name: San Sebastián
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.31_2_Adm2:
+    GID: COL.11.31_2
+    admin_name: Santa Rosa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.32_2_Adm2:
+    GID: COL.11.32_2
+    admin_name: Santander de Quilichao
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.33_2_Adm2:
+    GID: COL.11.33_2
+    admin_name: Silvia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.34_2_Adm2:
+    GID: COL.11.34_2
+    admin_name: Sotará
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.35_2_Adm2:
+    GID: COL.11.35_2
+    admin_name: Suárez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.36_2_Adm2:
+    GID: COL.11.36_2
+    admin_name: Sucre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.37_2_Adm2:
+    GID: COL.11.37_2
+    admin_name: Timbío
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.38_2_Adm2:
+    GID: COL.11.38_2
+    admin_name: Timbiquí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.39_2_Adm2:
+    GID: COL.11.39_2
+    admin_name: Toribío
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.4_2_Adm2:
+    GID: COL.11.4_2
+    admin_name: Bolívar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.40_2_Adm2:
+    GID: COL.11.40_2
+    admin_name: Totoró
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.41_2_Adm2:
+    GID: COL.11.41_2
+    admin_name: Villa Rica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.5_2_Adm2:
+    GID: COL.11.5_2
+    admin_name: Buenos Aires
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.6_2_Adm2:
+    GID: COL.11.6_2
+    admin_name: Cajibío
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.7_2_Adm2:
+    GID: COL.11.7_2
+    admin_name: Caldonó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.8_2_Adm2:
+    GID: COL.11.8_2
+    admin_name: Caloto
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.11.9_2_Adm2:
+    GID: COL.11.9_2
+    admin_name: Corinto
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12_2_Adm1:
+    GID: COL.12_2
+    admin_name: Cesar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.12.1_2_Adm2:
+    GID: COL.12.1_2
+    admin_name: Aguachica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.10_2_Adm2:
+    GID: COL.12.10_2
+    admin_name: El Paso
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.11_2_Adm2:
+    GID: COL.12.11_2
+    admin_name: Gamarra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.12_2_Adm2:
+    GID: COL.12.12_2
+    admin_name: González
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.13_2_Adm2:
+    GID: COL.12.13_2
+    admin_name: La Gloria
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.14_2_Adm2:
+    GID: COL.12.14_2
+    admin_name: La Jagua de Ibirico
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.15_2_Adm2:
+    GID: COL.12.15_2
+    admin_name: La Paz
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.16_2_Adm2:
+    GID: COL.12.16_2
+    admin_name: Manaure
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.17_2_Adm2:
+    GID: COL.12.17_2
+    admin_name: Pailitas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.18_2_Adm2:
+    GID: COL.12.18_2
+    admin_name: Pelaya
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.19_2_Adm2:
+    GID: COL.12.19_2
+    admin_name: Pueblo Bello
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.2_2_Adm2:
+    GID: COL.12.2_2
+    admin_name: Agustín Codazzi
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.20_2_Adm2:
+    GID: COL.12.20_2
+    admin_name: Río de Oro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.21_2_Adm2:
+    GID: COL.12.21_2
+    admin_name: San Alberto
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.22_2_Adm2:
+    GID: COL.12.22_2
+    admin_name: San Diego
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.23_2_Adm2:
+    GID: COL.12.23_2
+    admin_name: San Martín
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.24_2_Adm2:
+    GID: COL.12.24_2
+    admin_name: Tamalameque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.25_2_Adm2:
+    GID: COL.12.25_2
+    admin_name: Valledupar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.3_2_Adm2:
+    GID: COL.12.3_2
+    admin_name: Astrea
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.4_2_Adm2:
+    GID: COL.12.4_2
+    admin_name: Becerríl
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.5_2_Adm2:
+    GID: COL.12.5_2
+    admin_name: Bosconia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.6_2_Adm2:
+    GID: COL.12.6_2
+    admin_name: Chimichagua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.7_2_Adm2:
+    GID: COL.12.7_2
+    admin_name: Chiriguaná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.8_2_Adm2:
+    GID: COL.12.8_2
+    admin_name: Curumaní
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.12.9_2_Adm2:
+    GID: COL.12.9_2
+    admin_name: El Copey
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13_2_Adm1:
+    GID: COL.13_2
+    admin_name: Chocó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.13.1_2_Adm2:
+    GID: COL.13.1_2
+    admin_name: Acandí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.10_2_Adm2:
+    GID: COL.13.10_2
+    admin_name: Condotó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.11_2_Adm2:
+    GID: COL.13.11_2
+    admin_name: El Cantón del San Pablo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.12_2_Adm2:
+    GID: COL.13.12_2
+    admin_name: El Carmen de Atrato
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.13_2_Adm2:
+    GID: COL.13.13_2
+    admin_name: El Carmen del Darién
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.14_2_Adm2:
+    GID: COL.13.14_2
+    admin_name: El Litoral del San Juan
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.15_2_Adm2:
+    GID: COL.13.15_2
+    admin_name: Istmina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.16_2_Adm2:
+    GID: COL.13.16_2
+    admin_name: Juradó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.17_2_Adm2:
+    GID: COL.13.17_2
+    admin_name: Lloró
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.18_2_Adm2:
+    GID: COL.13.18_2
+    admin_name: Medio Atrato
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.19_2_Adm2:
+    GID: COL.13.19_2
+    admin_name: Medio Baudó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.2_2_Adm2:
+    GID: COL.13.2_2
+    admin_name: Alto Baudó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.20_2_Adm2:
+    GID: COL.13.20_2
+    admin_name: Medio San Juan
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.21_2_Adm2:
+    GID: COL.13.21_2
+    admin_name: Nóvita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.22_2_Adm2:
+    GID: COL.13.22_2
+    admin_name: Nuquí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.23_2_Adm2:
+    GID: COL.13.23_2
+    admin_name: Quibdó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.24_2_Adm2:
+    GID: COL.13.24_2
+    admin_name: Río Iro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.25_2_Adm2:
+    GID: COL.13.25_2
+    admin_name: Río Quito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.26_2_Adm2:
+    GID: COL.13.26_2
+    admin_name: Riosucio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.27_2_Adm2:
+    GID: COL.13.27_2
+    admin_name: San José del Palmar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.28_2_Adm2:
+    GID: COL.13.28_2
+    admin_name: Sipí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.29_2_Adm2:
+    GID: COL.13.29_2
+    admin_name: Tadó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.3_2_Adm2:
+    GID: COL.13.3_2
+    admin_name: Atrato
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.30_2_Adm2:
+    GID: COL.13.30_2
+    admin_name: Unguía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.31_2_Adm2:
+    GID: COL.13.31_2
+    admin_name: Unión Panamericana
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.4_2_Adm2:
+    GID: COL.13.4_2
+    admin_name: Bagadó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.5_2_Adm2:
+    GID: COL.13.5_2
+    admin_name: Bahía Solano
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.6_2_Adm2:
+    GID: COL.13.6_2
+    admin_name: Bajo Baudó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.7_2_Adm2:
+    GID: COL.13.7_2
+    admin_name: Belén de Bajirá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.8_2_Adm2:
+    GID: COL.13.8_2
+    admin_name: Bojayá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.13.9_2_Adm2:
+    GID: COL.13.9_2
+    admin_name: Cértegui
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14_2_Adm1:
+    GID: COL.14_2
+    admin_name: Córdoba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.14.1_2_Adm2:
+    GID: COL.14.1_2
+    admin_name: Ayapel
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.10_2_Adm2:
+    GID: COL.14.10_2
+    admin_name: Los Córdobas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.11_2_Adm2:
+    GID: COL.14.11_2
+    admin_name: Momil
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.12_2_Adm2:
+    GID: COL.14.12_2
+    admin_name: Moñitos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.13_2_Adm2:
+    GID: COL.14.13_2
+    admin_name: Montelíbano
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.14_2_Adm2:
+    GID: COL.14.14_2
+    admin_name: Montería
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.15_2_Adm2:
+    GID: COL.14.15_2
+    admin_name: Planeta Rica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.16_2_Adm2:
+    GID: COL.14.16_2
+    admin_name: Pueblo Nuevo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.17_2_Adm2:
+    GID: COL.14.17_2
+    admin_name: Puerto Escondido
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.18_2_Adm2:
+    GID: COL.14.18_2
+    admin_name: Puerto Libertador
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.19_2_Adm2:
+    GID: COL.14.19_2
+    admin_name: Purísima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.2_2_Adm2:
+    GID: COL.14.2_2
+    admin_name: Buenavista
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.20_2_Adm2:
+    GID: COL.14.20_2
+    admin_name: San Andrés de Sotavento
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.21_2_Adm2:
+    GID: COL.14.21_2
+    admin_name: San Antero
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.22_2_Adm2:
+    GID: COL.14.22_2
+    admin_name: San Bernardino de Sahagún
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.23_2_Adm2:
+    GID: COL.14.23_2
+    admin_name: San Bernardo del Viento
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.24_2_Adm2:
+    GID: COL.14.24_2
+    admin_name: San Carlos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.25_2_Adm2:
+    GID: COL.14.25_2
+    admin_name: San Pelayo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.26_2_Adm2:
+    GID: COL.14.26_2
+    admin_name: Santa Cruz de Lorica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.27_2_Adm2:
+    GID: COL.14.27_2
+    admin_name: Tierralta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.28_2_Adm2:
+    GID: COL.14.28_2
+    admin_name: Valencia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.3_2_Adm2:
+    GID: COL.14.3_2
+    admin_name: Canalete
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.4_2_Adm2:
+    GID: COL.14.4_2
+    admin_name: Cereté
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.5_2_Adm2:
+    GID: COL.14.5_2
+    admin_name: Chimá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.6_2_Adm2:
+    GID: COL.14.6_2
+    admin_name: Chinú
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.7_2_Adm2:
+    GID: COL.14.7_2
+    admin_name: Ciénaga de Oro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.8_2_Adm2:
+    GID: COL.14.8_2
+    admin_name: Cotorra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.14.9_2_Adm2:
+    GID: COL.14.9_2
+    admin_name: La Apartada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15_2_Adm1:
+    GID: COL.15_2
+    admin_name: Cundinamarca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.15.1_2_Adm2:
+    GID: COL.15.1_2
+    admin_name: Agua de Díos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.10_2_Adm2:
+    GID: COL.15.10_2
+    admin_name: Cachipay
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.100_2_Adm2:
+    GID: COL.15.100_2
+    admin_name: Tocancipá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.101_2_Adm2:
+    GID: COL.15.101_2
+    admin_name: Topaipí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.102_2_Adm2:
+    GID: COL.15.102_2
+    admin_name: Ubalá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.103_2_Adm2:
+    GID: COL.15.103_2
+    admin_name: Ubaqué
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.104_2_Adm2:
+    GID: COL.15.104_2
+    admin_name: Une
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.105_2_Adm2:
+    GID: COL.15.105_2
+    admin_name: Útica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.106_2_Adm2:
+    GID: COL.15.106_2
+    admin_name: Venecia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.107_2_Adm2:
+    GID: COL.15.107_2
+    admin_name: Vergara
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.108_2_Adm2:
+    GID: COL.15.108_2
+    admin_name: Vianí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.109_2_Adm2:
+    GID: COL.15.109_2
+    admin_name: Villa de San Diego de Ubaté
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.11_2_Adm2:
+    GID: COL.15.11_2
+    admin_name: Cajicá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.110_2_Adm2:
+    GID: COL.15.110_2
+    admin_name: Villagómez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.111_2_Adm2:
+    GID: COL.15.111_2
+    admin_name: Villapinzón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.112_2_Adm2:
+    GID: COL.15.112_2
+    admin_name: Villeta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.113_2_Adm2:
+    GID: COL.15.113_2
+    admin_name: Viotá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.114_2_Adm2:
+    GID: COL.15.114_2
+    admin_name: Yacopí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.115_2_Adm2:
+    GID: COL.15.115_2
+    admin_name: Zipacón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.116_2_Adm2:
+    GID: COL.15.116_2
+    admin_name: Zipaquirá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.12_2_Adm2:
+    GID: COL.15.12_2
+    admin_name: Caparrapí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.13_2_Adm2:
+    GID: COL.15.13_2
+    admin_name: Cáqueza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.14_2_Adm2:
+    GID: COL.15.14_2
+    admin_name: Carmen de Carupa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.15_2_Adm2:
+    GID: COL.15.15_2
+    admin_name: Chaguaní
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.16_2_Adm2:
+    GID: COL.15.16_2
+    admin_name: Chía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.17_2_Adm2:
+    GID: COL.15.17_2
+    admin_name: Chipaque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.18_2_Adm2:
+    GID: COL.15.18_2
+    admin_name: Choachí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.19_2_Adm2:
+    GID: COL.15.19_2
+    admin_name: Chocontá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.2_2_Adm2:
+    GID: COL.15.2_2
+    admin_name: Albán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.20_2_Adm2:
+    GID: COL.15.20_2
+    admin_name: Cogua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.21_2_Adm2:
+    GID: COL.15.21_2
+    admin_name: Cota
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.22_2_Adm2:
+    GID: COL.15.22_2
+    admin_name: Cucunubá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.23_2_Adm2:
+    GID: COL.15.23_2
+    admin_name: El Colegio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.24_2_Adm2:
+    GID: COL.15.24_2
+    admin_name: El Peñon
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.25_2_Adm2:
+    GID: COL.15.25_2
+    admin_name: El Rosal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.26_2_Adm2:
+    GID: COL.15.26_2
+    admin_name: Facatativá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.27_2_Adm2:
+    GID: COL.15.27_2
+    admin_name: Fómeque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.28_2_Adm2:
+    GID: COL.15.28_2
+    admin_name: Fosca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.29_2_Adm2:
+    GID: COL.15.29_2
+    admin_name: Funza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.3_2_Adm2:
+    GID: COL.15.3_2
+    admin_name: Anapoima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.30_2_Adm2:
+    GID: COL.15.30_2
+    admin_name: Fúquene
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.31_2_Adm2:
+    GID: COL.15.31_2
+    admin_name: Fusagasugá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.32_2_Adm2:
+    GID: COL.15.32_2
+    admin_name: Gachalá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.33_2_Adm2:
+    GID: COL.15.33_2
+    admin_name: Gachancipá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.34_2_Adm2:
+    GID: COL.15.34_2
+    admin_name: Gachetá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.35_2_Adm2:
+    GID: COL.15.35_2
+    admin_name: Gama
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.36_2_Adm2:
+    GID: COL.15.36_2
+    admin_name: Girardot
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.37_2_Adm2:
+    GID: COL.15.37_2
+    admin_name: Granada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.38_2_Adm2:
+    GID: COL.15.38_2
+    admin_name: Guachetá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.39_2_Adm2:
+    GID: COL.15.39_2
+    admin_name: Guaduas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.4_2_Adm2:
+    GID: COL.15.4_2
+    admin_name: Anolaima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.40_2_Adm2:
+    GID: COL.15.40_2
+    admin_name: Guasca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.41_2_Adm2:
+    GID: COL.15.41_2
+    admin_name: Guataquí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.42_2_Adm2:
+    GID: COL.15.42_2
+    admin_name: Guatavita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.43_2_Adm2:
+    GID: COL.15.43_2
+    admin_name: Guayabal de Síquima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.44_2_Adm2:
+    GID: COL.15.44_2
+    admin_name: Guayabetal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.45_2_Adm2:
+    GID: COL.15.45_2
+    admin_name: Gutiérrez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.46_2_Adm2:
+    GID: COL.15.46_2
+    admin_name: Jerusalén
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.47_2_Adm2:
+    GID: COL.15.47_2
+    admin_name: Junín
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.48_2_Adm2:
+    GID: COL.15.48_2
+    admin_name: La Calera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.49_2_Adm2:
+    GID: COL.15.49_2
+    admin_name: La Mesa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.5_2_Adm2:
+    GID: COL.15.5_2
+    admin_name: Arbeláez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.50_2_Adm2:
+    GID: COL.15.50_2
+    admin_name: La Palma
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.51_2_Adm2:
+    GID: COL.15.51_2
+    admin_name: La Peña
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.52_2_Adm2:
+    GID: COL.15.52_2
+    admin_name: La Vega
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.53_2_Adm2:
+    GID: COL.15.53_2
+    admin_name: Lenguazaque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.54_2_Adm2:
+    GID: COL.15.54_2
+    admin_name: Machetá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.55_2_Adm2:
+    GID: COL.15.55_2
+    admin_name: Madrid
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.56_2_Adm2:
+    GID: COL.15.56_2
+    admin_name: Manta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.57_2_Adm2:
+    GID: COL.15.57_2
+    admin_name: Medina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.58_2_Adm2:
+    GID: COL.15.58_2
+    admin_name: Mosquera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.59_2_Adm2:
+    GID: COL.15.59_2
+    admin_name: Nariño
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.6_2_Adm2:
+    GID: COL.15.6_2
+    admin_name: Beltrán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.60_2_Adm2:
+    GID: COL.15.60_2
+    admin_name: Nemocón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.61_2_Adm2:
+    GID: COL.15.61_2
+    admin_name: Nilo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.62_2_Adm2:
+    GID: COL.15.62_2
+    admin_name: Nimaima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.63_2_Adm2:
+    GID: COL.15.63_2
+    admin_name: Nocaima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.64_2_Adm2:
+    GID: COL.15.64_2
+    admin_name: Pacho
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.65_2_Adm2:
+    GID: COL.15.65_2
+    admin_name: Paime
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.66_2_Adm2:
+    GID: COL.15.66_2
+    admin_name: Pandi
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.67_2_Adm2:
+    GID: COL.15.67_2
+    admin_name: Paratebueno
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.68_2_Adm2:
+    GID: COL.15.68_2
+    admin_name: Pasca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.69_2_Adm2:
+    GID: COL.15.69_2
+    admin_name: Puerto Salgar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.7_2_Adm2:
+    GID: COL.15.7_2
+    admin_name: Bituima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.70_2_Adm2:
+    GID: COL.15.70_2
+    admin_name: Pulí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.71_2_Adm2:
+    GID: COL.15.71_2
+    admin_name: Quebradanegra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.72_2_Adm2:
+    GID: COL.15.72_2
+    admin_name: Quetame
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.73_2_Adm2:
+    GID: COL.15.73_2
+    admin_name: Quipile
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.74_2_Adm2:
+    GID: COL.15.74_2
+    admin_name: Rafael Reyes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.75_2_Adm2:
+    GID: COL.15.75_2
+    admin_name: Ricaurte
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.76_2_Adm2:
+    GID: COL.15.76_2
+    admin_name: San Antonio del Tequendama
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.77_2_Adm2:
+    GID: COL.15.77_2
+    admin_name: San Bernardo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.78_2_Adm2:
+    GID: COL.15.78_2
+    admin_name: San Cayetano
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.79_2_Adm2:
+    GID: COL.15.79_2
+    admin_name: San Francisco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.8_2_Adm2:
+    GID: COL.15.8_2
+    admin_name: Bojacá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.80_2_Adm2:
+    GID: COL.15.80_2
+    admin_name: San Juan de Río Seco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.81_2_Adm2:
+    GID: COL.15.81_2
+    admin_name: Sasaima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.82_2_Adm2:
+    GID: COL.15.82_2
+    admin_name: Sesquilé
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.83_2_Adm2:
+    GID: COL.15.83_2
+    admin_name: Sibaté
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.84_2_Adm2:
+    GID: COL.15.84_2
+    admin_name: Silvania
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.85_2_Adm2:
+    GID: COL.15.85_2
+    admin_name: Simijaca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.86_2_Adm2:
+    GID: COL.15.86_2
+    admin_name: Soacha
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.87_2_Adm2:
+    GID: COL.15.87_2
+    admin_name: Sopó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.88_2_Adm2:
+    GID: COL.15.88_2
+    admin_name: Subachoque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.89_2_Adm2:
+    GID: COL.15.89_2
+    admin_name: Suesca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.9_2_Adm2:
+    GID: COL.15.9_2
+    admin_name: Cabrera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.90_2_Adm2:
+    GID: COL.15.90_2
+    admin_name: Supatá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.91_2_Adm2:
+    GID: COL.15.91_2
+    admin_name: Susa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.92_2_Adm2:
+    GID: COL.15.92_2
+    admin_name: Sutatausa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.93_2_Adm2:
+    GID: COL.15.93_2
+    admin_name: Tabio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.94_2_Adm2:
+    GID: COL.15.94_2
+    admin_name: Tausa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.95_2_Adm2:
+    GID: COL.15.95_2
+    admin_name: Tena
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.96_2_Adm2:
+    GID: COL.15.96_2
+    admin_name: Tenjo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.97_2_Adm2:
+    GID: COL.15.97_2
+    admin_name: Tibacuy
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.98_2_Adm2:
+    GID: COL.15.98_2
+    admin_name: Tibirita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.15.99_2_Adm2:
+    GID: COL.15.99_2
+    admin_name: Tocaíma
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16_2_Adm1:
+    GID: COL.16_2
+    admin_name: Guainía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.16.1_2_Adm2:
+    GID: COL.16.1_2
+    admin_name: Barranco Minas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16.2_2_Adm2:
+    GID: COL.16.2_2
+    admin_name: Cacahual
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16.3_2_Adm2:
+    GID: COL.16.3_2
+    admin_name: La Guadalupe
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16.4_2_Adm2:
+    GID: COL.16.4_2
+    admin_name: Mapiripana
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16.5_2_Adm2:
+    GID: COL.16.5_2
+    admin_name: Morichal Nuevo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16.6_2_Adm2:
+    GID: COL.16.6_2
+    admin_name: Pana Pana
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16.7_2_Adm2:
+    GID: COL.16.7_2
+    admin_name: Puerto Colombia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16.8_2_Adm2:
+    GID: COL.16.8_2
+    admin_name: Puerto Inírida
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.16.9_2_Adm2:
+    GID: COL.16.9_2
+    admin_name: San Felipe
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.17_2_Adm1:
+    GID: COL.17_2
+    admin_name: Guaviare
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.17.1_2_Adm2:
+    GID: COL.17.1_2
+    admin_name: Calamar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.17.2_2_Adm2:
+    GID: COL.17.2_2
+    admin_name: El Retorno
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.17.3_2_Adm2:
+    GID: COL.17.3_2
+    admin_name: Miraflores
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.17.4_2_Adm2:
+    GID: COL.17.4_2
+    admin_name: San José del Guaviare
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18_2_Adm1:
+    GID: COL.18_2
+    admin_name: Huila
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.18.1_2_Adm2:
+    GID: COL.18.1_2
+    admin_name: Acevedo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.10_2_Adm2:
+    GID: COL.18.10_2
+    admin_name: Garzón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.11_2_Adm2:
+    GID: COL.18.11_2
+    admin_name: Gigante
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.12_2_Adm2:
+    GID: COL.18.12_2
+    admin_name: Guadalupe
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.13_2_Adm2:
+    GID: COL.18.13_2
+    admin_name: Hobo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.14_2_Adm2:
+    GID: COL.18.14_2
+    admin_name: Iquira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.15_2_Adm2:
+    GID: COL.18.15_2
+    admin_name: Isnos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.16_2_Adm2:
+    GID: COL.18.16_2
+    admin_name: La Argentina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.17_2_Adm2:
+    GID: COL.18.17_2
+    admin_name: La Plata
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.18_2_Adm2:
+    GID: COL.18.18_2
+    admin_name: Nátaga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.19_2_Adm2:
+    GID: COL.18.19_2
+    admin_name: Neiva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.2_2_Adm2:
+    GID: COL.18.2_2
+    admin_name: Agrado
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.20_2_Adm2:
+    GID: COL.18.20_2
+    admin_name: Oporapa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.21_2_Adm2:
+    GID: COL.18.21_2
+    admin_name: Paicol
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.22_2_Adm2:
+    GID: COL.18.22_2
+    admin_name: Palermo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.23_2_Adm2:
+    GID: COL.18.23_2
+    admin_name: Palestina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.24_2_Adm2:
+    GID: COL.18.24_2
+    admin_name: Pital
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.25_2_Adm2:
+    GID: COL.18.25_2
+    admin_name: Pitalito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.26_2_Adm2:
+    GID: COL.18.26_2
+    admin_name: Rivera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.27_2_Adm2:
+    GID: COL.18.27_2
+    admin_name: Saladoblanco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.28_2_Adm2:
+    GID: COL.18.28_2
+    admin_name: San Agustín
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.29_2_Adm2:
+    GID: COL.18.29_2
+    admin_name: Santa María
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.3_2_Adm2:
+    GID: COL.18.3_2
+    admin_name: Aipe
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.30_2_Adm2:
+    GID: COL.18.30_2
+    admin_name: Suazá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.31_2_Adm2:
+    GID: COL.18.31_2
+    admin_name: Tarquí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.32_2_Adm2:
+    GID: COL.18.32_2
+    admin_name: Tello
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.33_2_Adm2:
+    GID: COL.18.33_2
+    admin_name: Teruel
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.34_2_Adm2:
+    GID: COL.18.34_2
+    admin_name: Tesalia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.35_2_Adm2:
+    GID: COL.18.35_2
+    admin_name: Timaná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.36_2_Adm2:
+    GID: COL.18.36_2
+    admin_name: Villavieja
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.37_2_Adm2:
+    GID: COL.18.37_2
+    admin_name: Yaguará
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.4_2_Adm2:
+    GID: COL.18.4_2
+    admin_name: Algeciras
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.5_2_Adm2:
+    GID: COL.18.5_2
+    admin_name: Altamira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.6_2_Adm2:
+    GID: COL.18.6_2
+    admin_name: Baraya
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.7_2_Adm2:
+    GID: COL.18.7_2
+    admin_name: Campoalegre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.8_2_Adm2:
+    GID: COL.18.8_2
+    admin_name: Colombia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.18.9_2_Adm2:
+    GID: COL.18.9_2
+    admin_name: Elías
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19_2_Adm1:
+    GID: COL.19_2
+    admin_name: La Guajira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.19.1_2_Adm2:
+    GID: COL.19.1_2
+    admin_name: Barrancas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.10_2_Adm2:
+    GID: COL.19.10_2
+    admin_name: Riohacha
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.11_2_Adm2:
+    GID: COL.19.11_2
+    admin_name: San Juan del Cesar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.12_2_Adm2:
+    GID: COL.19.12_2
+    admin_name: Uribía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.13_2_Adm2:
+    GID: COL.19.13_2
+    admin_name: Urumita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.14_2_Adm2:
+    GID: COL.19.14_2
+    admin_name: Villanueva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.2_2_Adm2:
+    GID: COL.19.2_2
+    admin_name: Dibulla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.3_2_Adm2:
+    GID: COL.19.3_2
+    admin_name: Distracción
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.4_2_Adm2:
+    GID: COL.19.4_2
+    admin_name: El Molino
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.5_2_Adm2:
+    GID: COL.19.5_2
+    admin_name: Fonseca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.6_2_Adm2:
+    GID: COL.19.6_2
+    admin_name: Hatonuevo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.7_2_Adm2:
+    GID: COL.19.7_2
+    admin_name: La Jagua del Pilar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.8_2_Adm2:
+    GID: COL.19.8_2
+    admin_name: Maicao
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.19.9_2_Adm2:
+    GID: COL.19.9_2
+    admin_name: Manaure
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2_2_Adm1:
+    GID: COL.2_2
+    admin_name: Antioquia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.2.1_2_Adm2:
+    GID: COL.2.1_2
+    admin_name: Abejorral
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.10_2_Adm2:
+    GID: COL.2.10_2
+    admin_name: Anzá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.100_2_Adm2:
+    GID: COL.2.100_2
+    admin_name: San Vicente
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.101_2_Adm2:
+    GID: COL.2.101_2
+    admin_name: Santa Bárbara
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.102_2_Adm2:
+    GID: COL.2.102_2
+    admin_name: Santa Rosa de Osos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.103_2_Adm2:
+    GID: COL.2.103_2
+    admin_name: Santafé de Antioquia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.104_2_Adm2:
+    GID: COL.2.104_2
+    admin_name: Santo Domingo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.105_2_Adm2:
+    GID: COL.2.105_2
+    admin_name: Santuario
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.106_2_Adm2:
+    GID: COL.2.106_2
+    admin_name: Segovia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.107_2_Adm2:
+    GID: COL.2.107_2
+    admin_name: Sonsón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.108_2_Adm2:
+    GID: COL.2.108_2
+    admin_name: Támesis
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.109_2_Adm2:
+    GID: COL.2.109_2
+    admin_name: Tarazá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.11_2_Adm2:
+    GID: COL.2.11_2
+    admin_name: Apartadó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.110_2_Adm2:
+    GID: COL.2.110_2
+    admin_name: Tarso
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.111_2_Adm2:
+    GID: COL.2.111_2
+    admin_name: Titiribí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.112_2_Adm2:
+    GID: COL.2.112_2
+    admin_name: Toledo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.113_2_Adm2:
+    GID: COL.2.113_2
+    admin_name: Turbo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.114_2_Adm2:
+    GID: COL.2.114_2
+    admin_name: Uramita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.115_2_Adm2:
+    GID: COL.2.115_2
+    admin_name: Urrao
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.116_2_Adm2:
+    GID: COL.2.116_2
+    admin_name: Valdivia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.117_2_Adm2:
+    GID: COL.2.117_2
+    admin_name: Valparaíso
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.118_2_Adm2:
+    GID: COL.2.118_2
+    admin_name: Vegachí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.119_2_Adm2:
+    GID: COL.2.119_2
+    admin_name: Venecia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.12_2_Adm2:
+    GID: COL.2.12_2
+    admin_name: Arboletes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.120_2_Adm2:
+    GID: COL.2.120_2
+    admin_name: Vigía del Fuerte
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.121_2_Adm2:
+    GID: COL.2.121_2
+    admin_name: Yalí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.122_2_Adm2:
+    GID: COL.2.122_2
+    admin_name: Yarumal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.123_2_Adm2:
+    GID: COL.2.123_2
+    admin_name: Yolombó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.124_2_Adm2:
+    GID: COL.2.124_2
+    admin_name: Yondó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.125_2_Adm2:
+    GID: COL.2.125_2
+    admin_name: Zaragoza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.13_2_Adm2:
+    GID: COL.2.13_2
+    admin_name: Argelia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.14_2_Adm2:
+    GID: COL.2.14_2
+    admin_name: Armenia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.15_2_Adm2:
+    GID: COL.2.15_2
+    admin_name: Barbosa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.16_2_Adm2:
+    GID: COL.2.16_2
+    admin_name: Bello
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.17_2_Adm2:
+    GID: COL.2.17_2
+    admin_name: Belmira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.18_2_Adm2:
+    GID: COL.2.18_2
+    admin_name: Betania
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.19_2_Adm2:
+    GID: COL.2.19_2
+    admin_name: Betulia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.2_2_Adm2:
+    GID: COL.2.2_2
+    admin_name: Abriaquí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.20_2_Adm2:
+    GID: COL.2.20_2
+    admin_name: Briceño
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.21_2_Adm2:
+    GID: COL.2.21_2
+    admin_name: Buriticá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.22_2_Adm2:
+    GID: COL.2.22_2
+    admin_name: Cáceres
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.23_2_Adm2:
+    GID: COL.2.23_2
+    admin_name: Caicedo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.24_2_Adm2:
+    GID: COL.2.24_2
+    admin_name: Caldas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.25_2_Adm2:
+    GID: COL.2.25_2
+    admin_name: Campamento
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.26_2_Adm2:
+    GID: COL.2.26_2
+    admin_name: Cañasgordas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.27_2_Adm2:
+    GID: COL.2.27_2
+    admin_name: Caracolí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.28_2_Adm2:
+    GID: COL.2.28_2
+    admin_name: Caramanta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.29_2_Adm2:
+    GID: COL.2.29_2
+    admin_name: Carepa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.3_2_Adm2:
+    GID: COL.2.3_2
+    admin_name: Alejandría
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.30_2_Adm2:
+    GID: COL.2.30_2
+    admin_name: Carolina del Principe
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.31_2_Adm2:
+    GID: COL.2.31_2
+    admin_name: Caucasia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.32_2_Adm2:
+    GID: COL.2.32_2
+    admin_name: Chigorodó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.33_2_Adm2:
+    GID: COL.2.33_2
+    admin_name: Cisneros
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.34_2_Adm2:
+    GID: COL.2.34_2
+    admin_name: Ciudad Bolívar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.35_2_Adm2:
+    GID: COL.2.35_2
+    admin_name: Cocorná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.36_2_Adm2:
+    GID: COL.2.36_2
+    admin_name: Concepción
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.37_2_Adm2:
+    GID: COL.2.37_2
+    admin_name: Concordia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.38_2_Adm2:
+    GID: COL.2.38_2
+    admin_name: Copacabana
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.39_2_Adm2:
+    GID: COL.2.39_2
+    admin_name: Dabeiba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.4_2_Adm2:
+    GID: COL.2.4_2
+    admin_name: Amagá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.40_2_Adm2:
+    GID: COL.2.40_2
+    admin_name: Don Matías
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.41_2_Adm2:
+    GID: COL.2.41_2
+    admin_name: Ebéjico
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.42_2_Adm2:
+    GID: COL.2.42_2
+    admin_name: El Bagre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.43_2_Adm2:
+    GID: COL.2.43_2
+    admin_name: El Carmen de Viboral
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.44_2_Adm2:
+    GID: COL.2.44_2
+    admin_name: El Sopetrán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.45_2_Adm2:
+    GID: COL.2.45_2
+    admin_name: Entrerríos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.46_2_Adm2:
+    GID: COL.2.46_2
+    admin_name: Envigado
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.47_2_Adm2:
+    GID: COL.2.47_2
+    admin_name: Fredonia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.48_2_Adm2:
+    GID: COL.2.48_2
+    admin_name: Frontino
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.49_2_Adm2:
+    GID: COL.2.49_2
+    admin_name: Giraldo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.5_2_Adm2:
+    GID: COL.2.5_2
+    admin_name: Amalfi
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.50_2_Adm2:
+    GID: COL.2.50_2
+    admin_name: Girardota
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.51_2_Adm2:
+    GID: COL.2.51_2
+    admin_name: Gómez Plata
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.52_2_Adm2:
+    GID: COL.2.52_2
+    admin_name: Granada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.53_2_Adm2:
+    GID: COL.2.53_2
+    admin_name: Guadalupe
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.54_2_Adm2:
+    GID: COL.2.54_2
+    admin_name: Guarné
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.55_2_Adm2:
+    GID: COL.2.55_2
+    admin_name: Guatapé
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.56_2_Adm2:
+    GID: COL.2.56_2
+    admin_name: Heliconia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.57_2_Adm2:
+    GID: COL.2.57_2
+    admin_name: Hispania
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.58_2_Adm2:
+    GID: COL.2.58_2
+    admin_name: Itagüí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.59_2_Adm2:
+    GID: COL.2.59_2
+    admin_name: Ituango
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.6_2_Adm2:
+    GID: COL.2.6_2
+    admin_name: Andes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.60_2_Adm2:
+    GID: COL.2.60_2
+    admin_name: Jardín
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.61_2_Adm2:
+    GID: COL.2.61_2
+    admin_name: Jericó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.62_2_Adm2:
+    GID: COL.2.62_2
+    admin_name: La Ceja
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.63_2_Adm2:
+    GID: COL.2.63_2
+    admin_name: La Estrella
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.64_2_Adm2:
+    GID: COL.2.64_2
+    admin_name: La Pintada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.65_2_Adm2:
+    GID: COL.2.65_2
+    admin_name: La Unión
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.66_2_Adm2:
+    GID: COL.2.66_2
+    admin_name: Liborina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.67_2_Adm2:
+    GID: COL.2.67_2
+    admin_name: Maceo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.68_2_Adm2:
+    GID: COL.2.68_2
+    admin_name: Marinilla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.69_2_Adm2:
+    GID: COL.2.69_2
+    admin_name: Medellín
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.7_2_Adm2:
+    GID: COL.2.7_2
+    admin_name: Angelópolis
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.70_2_Adm2:
+    GID: COL.2.70_2
+    admin_name: Montebello
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.71_2_Adm2:
+    GID: COL.2.71_2
+    admin_name: Murindó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.72_2_Adm2:
+    GID: COL.2.72_2
+    admin_name: Mutatá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.73_2_Adm2:
+    GID: COL.2.73_2
+    admin_name: Nariño
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.74_2_Adm2:
+    GID: COL.2.74_2
+    admin_name: Nechí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.75_2_Adm2:
+    GID: COL.2.75_2
+    admin_name: Necoclí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.76_2_Adm2:
+    GID: COL.2.76_2
+    admin_name: Olaya
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.77_2_Adm2:
+    GID: COL.2.77_2
+    admin_name: Peñol
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.78_2_Adm2:
+    GID: COL.2.78_2
+    admin_name: Pequé
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.79_2_Adm2:
+    GID: COL.2.79_2
+    admin_name: Pueblorrico
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.8_2_Adm2:
+    GID: COL.2.8_2
+    admin_name: Angostura
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.80_2_Adm2:
+    GID: COL.2.80_2
+    admin_name: Puerto Berrío
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.81_2_Adm2:
+    GID: COL.2.81_2
+    admin_name: Puerto Nare
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.82_2_Adm2:
+    GID: COL.2.82_2
+    admin_name: Puerto Triunfo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.83_2_Adm2:
+    GID: COL.2.83_2
+    admin_name: Remedios
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.84_2_Adm2:
+    GID: COL.2.84_2
+    admin_name: Retiro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.85_2_Adm2:
+    GID: COL.2.85_2
+    admin_name: Rionegro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.86_2_Adm2:
+    GID: COL.2.86_2
+    admin_name: Sabanalarga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.87_2_Adm2:
+    GID: COL.2.87_2
+    admin_name: Sabaneta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.88_2_Adm2:
+    GID: COL.2.88_2
+    admin_name: Salgar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.89_2_Adm2:
+    GID: COL.2.89_2
+    admin_name: San Andrés de Cuerquia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.9_2_Adm2:
+    GID: COL.2.9_2
+    admin_name: Anorí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.90_2_Adm2:
+    GID: COL.2.90_2
+    admin_name: San Carlos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.91_2_Adm2:
+    GID: COL.2.91_2
+    admin_name: San Francisco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.92_2_Adm2:
+    GID: COL.2.92_2
+    admin_name: San Jerónimo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.93_2_Adm2:
+    GID: COL.2.93_2
+    admin_name: San José de la Montaña
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.94_2_Adm2:
+    GID: COL.2.94_2
+    admin_name: San Juan de Urabá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.95_2_Adm2:
+    GID: COL.2.95_2
+    admin_name: San Luís
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.96_2_Adm2:
+    GID: COL.2.96_2
+    admin_name: San Pedro de los Milagros
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.97_2_Adm2:
+    GID: COL.2.97_2
+    admin_name: San Pedro de Urabá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.98_2_Adm2:
+    GID: COL.2.98_2
+    admin_name: San Rafael
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.2.99_2_Adm2:
+    GID: COL.2.99_2
+    admin_name: San Roque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20_2_Adm1:
+    GID: COL.20_2
+    admin_name: Magdalena
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.20.1_2_Adm2:
+    GID: COL.20.1_2
+    admin_name: Algarrobo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.10_2_Adm2:
+    GID: COL.20.10_2
+    admin_name: El Retén
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.11_2_Adm2:
+    GID: COL.20.11_2
+    admin_name: Fundación
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.12_2_Adm2:
+    GID: COL.20.12_2
+    admin_name: Guamal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.13_2_Adm2:
+    GID: COL.20.13_2
+    admin_name: Nueva Granada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.14_2_Adm2:
+    GID: COL.20.14_2
+    admin_name: Pedraza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.15_2_Adm2:
+    GID: COL.20.15_2
+    admin_name: Pijiño del Carmen
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.16_2_Adm2:
+    GID: COL.20.16_2
+    admin_name: Pivijay
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.17_2_Adm2:
+    GID: COL.20.17_2
+    admin_name: Plato
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.18_2_Adm2:
+    GID: COL.20.18_2
+    admin_name: Pueblo Viejo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.19_2_Adm2:
+    GID: COL.20.19_2
+    admin_name: Remolino
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.2_2_Adm2:
+    GID: COL.20.2_2
+    admin_name: Aracataca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.20_2_Adm2:
+    GID: COL.20.20_2
+    admin_name: Sabanas de San Angel
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.21_2_Adm2:
+    GID: COL.20.21_2
+    admin_name: Salamina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.22_2_Adm2:
+    GID: COL.20.22_2
+    admin_name: San Sebastián de Buenavista
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.23_2_Adm2:
+    GID: COL.20.23_2
+    admin_name: San Zenón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.24_2_Adm2:
+    GID: COL.20.24_2
+    admin_name: Santa Ana
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.25_2_Adm2:
+    GID: COL.20.25_2
+    admin_name: Santa Bárbara de Pinto
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.26_2_Adm2:
+    GID: COL.20.26_2
+    admin_name: Santa Marta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.27_2_Adm2:
+    GID: COL.20.27_2
+    admin_name: Sitionuevo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.28_2_Adm2:
+    GID: COL.20.28_2
+    admin_name: Tenerife
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.29_2_Adm2:
+    GID: COL.20.29_2
+    admin_name: Zapayán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.3_2_Adm2:
+    GID: COL.20.3_2
+    admin_name: Ariguaní
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.30_2_Adm2:
+    GID: COL.20.30_2
+    admin_name: Zona Bananera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.4_2_Adm2:
+    GID: COL.20.4_2
+    admin_name: Cerro de San Antonio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.5_2_Adm2:
+    GID: COL.20.5_2
+    admin_name: Chivolo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.6_2_Adm2:
+    GID: COL.20.6_2
+    admin_name: Ciénaga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.7_2_Adm2:
+    GID: COL.20.7_2
+    admin_name: Concordia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.8_2_Adm2:
+    GID: COL.20.8_2
+    admin_name: El Banco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.20.9_2_Adm2:
+    GID: COL.20.9_2
+    admin_name: El Piñón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21_2_Adm1:
+    GID: COL.21_2
+    admin_name: Meta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.21.1_2_Adm2:
+    GID: COL.21.1_2
+    admin_name: Acacías
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.10_2_Adm2:
+    GID: COL.21.10_2
+    admin_name: Granada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.11_2_Adm2:
+    GID: COL.21.11_2
+    admin_name: Guamal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.12_2_Adm2:
+    GID: COL.21.12_2
+    admin_name: La Macarena
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.13_2_Adm2:
+    GID: COL.21.13_2
+    admin_name: La Uribe
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.14_2_Adm2:
+    GID: COL.21.14_2
+    admin_name: Lejanías
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.15_2_Adm2:
+    GID: COL.21.15_2
+    admin_name: Mapiripán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.16_2_Adm2:
+    GID: COL.21.16_2
+    admin_name: Mesetas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.17_2_Adm2:
+    GID: COL.21.17_2
+    admin_name: Puerto Concordia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.18_2_Adm2:
+    GID: COL.21.18_2
+    admin_name: Puerto Gaitán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.19_2_Adm2:
+    GID: COL.21.19_2
+    admin_name: Puerto Lleras
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.2_2_Adm2:
+    GID: COL.21.2_2
+    admin_name: Barranca de Upía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.20_2_Adm2:
+    GID: COL.21.20_2
+    admin_name: Puerto López
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.21_2_Adm2:
+    GID: COL.21.21_2
+    admin_name: Puerto Rico
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.22_2_Adm2:
+    GID: COL.21.22_2
+    admin_name: Restrepo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.23_2_Adm2:
+    GID: COL.21.23_2
+    admin_name: San Carlos de Guaroa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.24_2_Adm2:
+    GID: COL.21.24_2
+    admin_name: San Juan de Arama
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.25_2_Adm2:
+    GID: COL.21.25_2
+    admin_name: San Juanito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.26_2_Adm2:
+    GID: COL.21.26_2
+    admin_name: San Luis de Cubarral
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.27_2_Adm2:
+    GID: COL.21.27_2
+    admin_name: San Martín
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.28_2_Adm2:
+    GID: COL.21.28_2
+    admin_name: Villavicencio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.29_2_Adm2:
+    GID: COL.21.29_2
+    admin_name: Vista Hermosa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.3_2_Adm2:
+    GID: COL.21.3_2
+    admin_name: Cabuyaro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.4_2_Adm2:
+    GID: COL.21.4_2
+    admin_name: Castilla la Nueva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.5_2_Adm2:
+    GID: COL.21.5_2
+    admin_name: Cumaral
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.6_2_Adm2:
+    GID: COL.21.6_2
+    admin_name: El Calvario
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.7_2_Adm2:
+    GID: COL.21.7_2
+    admin_name: El Castillo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.8_2_Adm2:
+    GID: COL.21.8_2
+    admin_name: El Dorado
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.21.9_2_Adm2:
+    GID: COL.21.9_2
+    admin_name: Fuente de Oro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22_2_Adm1:
+    GID: COL.22_2
+    admin_name: Nariño
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.22.1_2_Adm2:
+    GID: COL.22.1_2
+    admin_name: Albán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.10_2_Adm2:
+    GID: COL.22.10_2
+    admin_name: Consacá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.11_2_Adm2:
+    GID: COL.22.11_2
+    admin_name: Contadero
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.12_2_Adm2:
+    GID: COL.22.12_2
+    admin_name: Córdoba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.13_2_Adm2:
+    GID: COL.22.13_2
+    admin_name: Cuaspud
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.14_2_Adm2:
+    GID: COL.22.14_2
+    admin_name: Cumbal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.15_2_Adm2:
+    GID: COL.22.15_2
+    admin_name: Cumbitara
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.16_2_Adm2:
+    GID: COL.22.16_2
+    admin_name: El Charco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.17_2_Adm2:
+    GID: COL.22.17_2
+    admin_name: El Peñol
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.18_2_Adm2:
+    GID: COL.22.18_2
+    admin_name: El Rosario
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.19_2_Adm2:
+    GID: COL.22.19_2
+    admin_name: El Tablón de Gomez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.2_2_Adm2:
+    GID: COL.22.2_2
+    admin_name: Aldana
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.20_2_Adm2:
+    GID: COL.22.20_2
+    admin_name: El Tambo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.21_2_Adm2:
+    GID: COL.22.21_2
+    admin_name: Francisco Pizarro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.22_2_Adm2:
+    GID: COL.22.22_2
+    admin_name: Funes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.23_2_Adm2:
+    GID: COL.22.23_2
+    admin_name: Guachucal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.24_2_Adm2:
+    GID: COL.22.24_2
+    admin_name: Guaitarilla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.25_2_Adm2:
+    GID: COL.22.25_2
+    admin_name: Gualmatán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.26_2_Adm2:
+    GID: COL.22.26_2
+    admin_name: Iles
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.27_2_Adm2:
+    GID: COL.22.27_2
+    admin_name: Imués
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.28_2_Adm2:
+    GID: COL.22.28_2
+    admin_name: Ipiales
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.29_2_Adm2:
+    GID: COL.22.29_2
+    admin_name: La Cruz
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.3_2_Adm2:
+    GID: COL.22.3_2
+    admin_name: Ancuyá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.30_2_Adm2:
+    GID: COL.22.30_2
+    admin_name: La Florida
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.31_2_Adm2:
+    GID: COL.22.31_2
+    admin_name: La Llanada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.32_2_Adm2:
+    GID: COL.22.32_2
+    admin_name: La Tola
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.33_2_Adm2:
+    GID: COL.22.33_2
+    admin_name: La Unión
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.34_2_Adm2:
+    GID: COL.22.34_2
+    admin_name: Leiva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.35_2_Adm2:
+    GID: COL.22.35_2
+    admin_name: Linares
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.36_2_Adm2:
+    GID: COL.22.36_2
+    admin_name: Los Andes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.37_2_Adm2:
+    GID: COL.22.37_2
+    admin_name: Magüí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.38_2_Adm2:
+    GID: COL.22.38_2
+    admin_name: Mallama
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.39_2_Adm2:
+    GID: COL.22.39_2
+    admin_name: Mosquera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.4_2_Adm2:
+    GID: COL.22.4_2
+    admin_name: Arboleda
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.40_2_Adm2:
+    GID: COL.22.40_2
+    admin_name: Nariño
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.41_2_Adm2:
+    GID: COL.22.41_2
+    admin_name: Olaya Herrera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.42_2_Adm2:
+    GID: COL.22.42_2
+    admin_name: Ospina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.43_2_Adm2:
+    GID: COL.22.43_2
+    admin_name: Policarpa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.44_2_Adm2:
+    GID: COL.22.44_2
+    admin_name: Potosí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.45_2_Adm2:
+    GID: COL.22.45_2
+    admin_name: Providencia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.46_2_Adm2:
+    GID: COL.22.46_2
+    admin_name: Puerres
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.47_2_Adm2:
+    GID: COL.22.47_2
+    admin_name: Pupiales
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.48_2_Adm2:
+    GID: COL.22.48_2
+    admin_name: Ricaurte
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.49_2_Adm2:
+    GID: COL.22.49_2
+    admin_name: Roberto Payán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.5_2_Adm2:
+    GID: COL.22.5_2
+    admin_name: Barbacoas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.50_2_Adm2:
+    GID: COL.22.50_2
+    admin_name: Samaniego
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.51_2_Adm2:
+    GID: COL.22.51_2
+    admin_name: San Bernardo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.52_2_Adm2:
+    GID: COL.22.52_2
+    admin_name: San Juan de Pasto
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.53_2_Adm2:
+    GID: COL.22.53_2
+    admin_name: San Lorenzo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.54_2_Adm2:
+    GID: COL.22.54_2
+    admin_name: San Pablo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.55_2_Adm2:
+    GID: COL.22.55_2
+    admin_name: San Pedro de Cartago
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.56_2_Adm2:
+    GID: COL.22.56_2
+    admin_name: Sandoná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.57_2_Adm2:
+    GID: COL.22.57_2
+    admin_name: Santa Bárbara
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.58_2_Adm2:
+    GID: COL.22.58_2
+    admin_name: Santa Cruz
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.59_2_Adm2:
+    GID: COL.22.59_2
+    admin_name: Sapuyes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.6_2_Adm2:
+    GID: COL.22.6_2
+    admin_name: Belén
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.60_2_Adm2:
+    GID: COL.22.60_2
+    admin_name: Taminango
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.61_2_Adm2:
+    GID: COL.22.61_2
+    admin_name: Tangua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.62_2_Adm2:
+    GID: COL.22.62_2
+    admin_name: Tumaco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.63_2_Adm2:
+    GID: COL.22.63_2
+    admin_name: Túquerres
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.64_2_Adm2:
+    GID: COL.22.64_2
+    admin_name: Yacuanquér
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.7_2_Adm2:
+    GID: COL.22.7_2
+    admin_name: Buesaco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.8_2_Adm2:
+    GID: COL.22.8_2
+    admin_name: Chachagüí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.22.9_2_Adm2:
+    GID: COL.22.9_2
+    admin_name: Colón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23_2_Adm1:
+    GID: COL.23_2
+    admin_name: Norte de Santander
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.23.1_2_Adm2:
+    GID: COL.23.1_2
+    admin_name: Abrego
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.10_2_Adm2:
+    GID: COL.23.10_2
+    admin_name: Cucutilla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.11_2_Adm2:
+    GID: COL.23.11_2
+    admin_name: Durania
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.12_2_Adm2:
+    GID: COL.23.12_2
+    admin_name: El Carmen
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.13_2_Adm2:
+    GID: COL.23.13_2
+    admin_name: El Tarra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.14_2_Adm2:
+    GID: COL.23.14_2
+    admin_name: El Zulía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.15_2_Adm2:
+    GID: COL.23.15_2
+    admin_name: Gramalote
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.16_2_Adm2:
+    GID: COL.23.16_2
+    admin_name: Hacarí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.17_2_Adm2:
+    GID: COL.23.17_2
+    admin_name: Herrán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.18_2_Adm2:
+    GID: COL.23.18_2
+    admin_name: La Esperanza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.19_2_Adm2:
+    GID: COL.23.19_2
+    admin_name: La Playa de Belén
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.2_2_Adm2:
+    GID: COL.23.2_2
+    admin_name: Arboledas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.20_2_Adm2:
+    GID: COL.23.20_2
+    admin_name: Labateca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.21_2_Adm2:
+    GID: COL.23.21_2
+    admin_name: Los Patios
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.22_2_Adm2:
+    GID: COL.23.22_2
+    admin_name: Lourdes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.23_2_Adm2:
+    GID: COL.23.23_2
+    admin_name: Mutiscua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.24_2_Adm2:
+    GID: COL.23.24_2
+    admin_name: Ocaña
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.25_2_Adm2:
+    GID: COL.23.25_2
+    admin_name: Pamplona
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.26_2_Adm2:
+    GID: COL.23.26_2
+    admin_name: Pamplonita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.27_2_Adm2:
+    GID: COL.23.27_2
+    admin_name: Puerto Santander
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.28_2_Adm2:
+    GID: COL.23.28_2
+    admin_name: Ragonvalía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.29_2_Adm2:
+    GID: COL.23.29_2
+    admin_name: Salazar de las Palmas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.3_2_Adm2:
+    GID: COL.23.3_2
+    admin_name: Bochalema
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.30_2_Adm2:
+    GID: COL.23.30_2
+    admin_name: San Calixto
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.31_2_Adm2:
+    GID: COL.23.31_2
+    admin_name: San Cayetano
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.32_2_Adm2:
+    GID: COL.23.32_2
+    admin_name: San José de Cúcuta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.33_2_Adm2:
+    GID: COL.23.33_2
+    admin_name: Santiago
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.34_2_Adm2:
+    GID: COL.23.34_2
+    admin_name: Santo Domingo de Silos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.35_2_Adm2:
+    GID: COL.23.35_2
+    admin_name: Sardinata
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.36_2_Adm2:
+    GID: COL.23.36_2
+    admin_name: Teorama
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.37_2_Adm2:
+    GID: COL.23.37_2
+    admin_name: Tibú
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.38_2_Adm2:
+    GID: COL.23.38_2
+    admin_name: Toledo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.39_2_Adm2:
+    GID: COL.23.39_2
+    admin_name: Villa Caro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.4_2_Adm2:
+    GID: COL.23.4_2
+    admin_name: Bucarasica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.40_2_Adm2:
+    GID: COL.23.40_2
+    admin_name: Villa del Rosario
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.5_2_Adm2:
+    GID: COL.23.5_2
+    admin_name: Cáchira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.6_2_Adm2:
+    GID: COL.23.6_2
+    admin_name: Cácota
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.7_2_Adm2:
+    GID: COL.23.7_2
+    admin_name: Chinácota
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.8_2_Adm2:
+    GID: COL.23.8_2
+    admin_name: Chitagá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.23.9_2_Adm2:
+    GID: COL.23.9_2
+    admin_name: Convención
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24_2_Adm1:
+    GID: COL.24_2
+    admin_name: Putumayo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.24.1_2_Adm2:
+    GID: COL.24.1_2
+    admin_name: Colón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.10_2_Adm2:
+    GID: COL.24.10_2
+    admin_name: Santiago
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.11_2_Adm2:
+    GID: COL.24.11_2
+    admin_name: Sibundoy
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.12_2_Adm2:
+    GID: COL.24.12_2
+    admin_name: Valle del Guamuéz
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.13_2_Adm2:
+    GID: COL.24.13_2
+    admin_name: Villagarzón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.2_2_Adm2:
+    GID: COL.24.2_2
+    admin_name: Orito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.3_2_Adm2:
+    GID: COL.24.3_2
+    admin_name: Puerto Asís
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.4_2_Adm2:
+    GID: COL.24.4_2
+    admin_name: Puerto Caicedo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.5_2_Adm2:
+    GID: COL.24.5_2
+    admin_name: Puerto Guzmán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.6_2_Adm2:
+    GID: COL.24.6_2
+    admin_name: Puerto Leguízamo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.7_2_Adm2:
+    GID: COL.24.7_2
+    admin_name: San Francisco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.8_2_Adm2:
+    GID: COL.24.8_2
+    admin_name: San Miguel
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.24.9_2_Adm2:
+    GID: COL.24.9_2
+    admin_name: San Miguel de Mocoa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25_2_Adm1:
+    GID: COL.25_2
+    admin_name: Quindío
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.25.1_2_Adm2:
+    GID: COL.25.1_2
+    admin_name: Armenia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.10_2_Adm2:
+    GID: COL.25.10_2
+    admin_name: Pijao
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.11_2_Adm2:
+    GID: COL.25.11_2
+    admin_name: Quimbaya
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.12_2_Adm2:
+    GID: COL.25.12_2
+    admin_name: Salento
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.2_2_Adm2:
+    GID: COL.25.2_2
+    admin_name: Buenavista
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.3_2_Adm2:
+    GID: COL.25.3_2
+    admin_name: Calarcá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.4_2_Adm2:
+    GID: COL.25.4_2
+    admin_name: Circasia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.5_2_Adm2:
+    GID: COL.25.5_2
+    admin_name: Córdoba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.6_2_Adm2:
+    GID: COL.25.6_2
+    admin_name: Filandia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.7_2_Adm2:
+    GID: COL.25.7_2
+    admin_name: Génova
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.8_2_Adm2:
+    GID: COL.25.8_2
+    admin_name: La Tebaida
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.25.9_2_Adm2:
+    GID: COL.25.9_2
+    admin_name: Montenegro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26_2_Adm1:
+    GID: COL.26_2
+    admin_name: Risaralda
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.26.1_2_Adm2:
+    GID: COL.26.1_2
+    admin_name: Apía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.10_2_Adm2:
+    GID: COL.26.10_2
+    admin_name: Pereira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.11_2_Adm2:
+    GID: COL.26.11_2
+    admin_name: Pueblo Rico
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.12_2_Adm2:
+    GID: COL.26.12_2
+    admin_name: Quinchía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.13_2_Adm2:
+    GID: COL.26.13_2
+    admin_name: Santa Rosa de Cabal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.14_2_Adm2:
+    GID: COL.26.14_2
+    admin_name: Santuario
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.2_2_Adm2:
+    GID: COL.26.2_2
+    admin_name: Balboa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.3_2_Adm2:
+    GID: COL.26.3_2
+    admin_name: Belén de Umbría
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.4_2_Adm2:
+    GID: COL.26.4_2
+    admin_name: Dosquebradas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.5_2_Adm2:
+    GID: COL.26.5_2
+    admin_name: Guática
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.6_2_Adm2:
+    GID: COL.26.6_2
+    admin_name: La Celia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.7_2_Adm2:
+    GID: COL.26.7_2
+    admin_name: La Virginia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.8_2_Adm2:
+    GID: COL.26.8_2
+    admin_name: Marsella
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.26.9_2_Adm2:
+    GID: COL.26.9_2
+    admin_name: Mistrató
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.27_1_Adm1:
+    GID: COL.27_1
+    admin_name: San Andrés y Providencia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.27.1_2_Adm2:
+    GID: COL.27.1_2
+    admin_name: Islas Serranilla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.27.2_2_Adm2:
+    GID: COL.27.2_2
+    admin_name: Providencia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.27.3_2_Adm2:
+    GID: COL.27.3_2
+    admin_name: San Andrés
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28_2_Adm1:
+    GID: COL.28_2
+    admin_name: Santander
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.28.1_2_Adm2:
+    GID: COL.28.1_2
+    admin_name: Aguada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.10_2_Adm2:
+    GID: COL.28.10_2
+    admin_name: Cabrera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.11_2_Adm2:
+    GID: COL.28.11_2
+    admin_name: California
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.12_2_Adm2:
+    GID: COL.28.12_2
+    admin_name: Capitanejo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.13_2_Adm2:
+    GID: COL.28.13_2
+    admin_name: Carcasí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.14_2_Adm2:
+    GID: COL.28.14_2
+    admin_name: Cepitá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.15_2_Adm2:
+    GID: COL.28.15_2
+    admin_name: Cerrito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.16_2_Adm2:
+    GID: COL.28.16_2
+    admin_name: Charalá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.17_2_Adm2:
+    GID: COL.28.17_2
+    admin_name: Charta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.18_2_Adm2:
+    GID: COL.28.18_2
+    admin_name: Chimá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.19_2_Adm2:
+    GID: COL.28.19_2
+    admin_name: Chipatá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.2_2_Adm2:
+    GID: COL.28.2_2
+    admin_name: Albania
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.20_2_Adm2:
+    GID: COL.28.20_2
+    admin_name: Cimitarra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.21_2_Adm2:
+    GID: COL.28.21_2
+    admin_name: Concepción
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.22_2_Adm2:
+    GID: COL.28.22_2
+    admin_name: Confines
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.23_2_Adm2:
+    GID: COL.28.23_2
+    admin_name: Contratación
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.24_2_Adm2:
+    GID: COL.28.24_2
+    admin_name: Coromoro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.25_2_Adm2:
+    GID: COL.28.25_2
+    admin_name: Curití
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.26_2_Adm2:
+    GID: COL.28.26_2
+    admin_name: El Carmen de Chucurí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.27_2_Adm2:
+    GID: COL.28.27_2
+    admin_name: El Guacamayo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.28_2_Adm2:
+    GID: COL.28.28_2
+    admin_name: El Peñon
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.29_2_Adm2:
+    GID: COL.28.29_2
+    admin_name: El Playón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.3_2_Adm2:
+    GID: COL.28.3_2
+    admin_name: Aratoca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.30_2_Adm2:
+    GID: COL.28.30_2
+    admin_name: Encino
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.31_2_Adm2:
+    GID: COL.28.31_2
+    admin_name: Enciso
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.32_2_Adm2:
+    GID: COL.28.32_2
+    admin_name: Florián
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.33_2_Adm2:
+    GID: COL.28.33_2
+    admin_name: Floridablanca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.34_2_Adm2:
+    GID: COL.28.34_2
+    admin_name: Galán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.35_2_Adm2:
+    GID: COL.28.35_2
+    admin_name: Gámbita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.36_2_Adm2:
+    GID: COL.28.36_2
+    admin_name: Girón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.37_2_Adm2:
+    GID: COL.28.37_2
+    admin_name: Guaca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.38_2_Adm2:
+    GID: COL.28.38_2
+    admin_name: Guadalupe
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.39_2_Adm2:
+    GID: COL.28.39_2
+    admin_name: Guapotá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.4_2_Adm2:
+    GID: COL.28.4_2
+    admin_name: Barbosa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.40_2_Adm2:
+    GID: COL.28.40_2
+    admin_name: Guavatá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.41_2_Adm2:
+    GID: COL.28.41_2
+    admin_name: Güepsa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.42_2_Adm2:
+    GID: COL.28.42_2
+    admin_name: Hato
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.43_2_Adm2:
+    GID: COL.28.43_2
+    admin_name: Jesús María
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.44_2_Adm2:
+    GID: COL.28.44_2
+    admin_name: Jordán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.45_2_Adm2:
+    GID: COL.28.45_2
+    admin_name: La Belleza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.46_2_Adm2:
+    GID: COL.28.46_2
+    admin_name: La Paz
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.47_2_Adm2:
+    GID: COL.28.47_2
+    admin_name: Landázuri
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.48_2_Adm2:
+    GID: COL.28.48_2
+    admin_name: Lebríja
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.49_2_Adm2:
+    GID: COL.28.49_2
+    admin_name: Los Santos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.5_2_Adm2:
+    GID: COL.28.5_2
+    admin_name: Barichara
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.50_2_Adm2:
+    GID: COL.28.50_2
+    admin_name: Macaravita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.51_2_Adm2:
+    GID: COL.28.51_2
+    admin_name: Málaga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.52_2_Adm2:
+    GID: COL.28.52_2
+    admin_name: Matanza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.53_2_Adm2:
+    GID: COL.28.53_2
+    admin_name: Mogotes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.54_2_Adm2:
+    GID: COL.28.54_2
+    admin_name: Molagavita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.55_2_Adm2:
+    GID: COL.28.55_2
+    admin_name: Ocamonte
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.56_2_Adm2:
+    GID: COL.28.56_2
+    admin_name: Oiba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.57_2_Adm2:
+    GID: COL.28.57_2
+    admin_name: Onzaga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.58_2_Adm2:
+    GID: COL.28.58_2
+    admin_name: Palmar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.59_2_Adm2:
+    GID: COL.28.59_2
+    admin_name: Palmas del Socorro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.6_2_Adm2:
+    GID: COL.28.6_2
+    admin_name: Barrancabermeja
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.60_2_Adm2:
+    GID: COL.28.60_2
+    admin_name: Páramo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.61_2_Adm2:
+    GID: COL.28.61_2
+    admin_name: Piedecuesta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.62_2_Adm2:
+    GID: COL.28.62_2
+    admin_name: Pinchote
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.63_2_Adm2:
+    GID: COL.28.63_2
+    admin_name: Puente Nacional
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.64_2_Adm2:
+    GID: COL.28.64_2
+    admin_name: Puerto Parra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.65_2_Adm2:
+    GID: COL.28.65_2
+    admin_name: Puerto Wilches
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.66_2_Adm2:
+    GID: COL.28.66_2
+    admin_name: Rionegro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.67_2_Adm2:
+    GID: COL.28.67_2
+    admin_name: Sabana de Torres
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.68_2_Adm2:
+    GID: COL.28.68_2
+    admin_name: San Andrés de Cuerquia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.69_2_Adm2:
+    GID: COL.28.69_2
+    admin_name: San Benito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.7_2_Adm2:
+    GID: COL.28.7_2
+    admin_name: Betulia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.70_2_Adm2:
+    GID: COL.28.70_2
+    admin_name: San Gil
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.71_2_Adm2:
+    GID: COL.28.71_2
+    admin_name: San Joaquín
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.72_2_Adm2:
+    GID: COL.28.72_2
+    admin_name: San José de Miranda
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.73_2_Adm2:
+    GID: COL.28.73_2
+    admin_name: San Miguel
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.74_2_Adm2:
+    GID: COL.28.74_2
+    admin_name: San Vicente de Chucurí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.75_2_Adm2:
+    GID: COL.28.75_2
+    admin_name: Santa Bárbara
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.76_2_Adm2:
+    GID: COL.28.76_2
+    admin_name: Santa Helena del Opón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.77_2_Adm2:
+    GID: COL.28.77_2
+    admin_name: Simacota
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.78_2_Adm2:
+    GID: COL.28.78_2
+    admin_name: Socorro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.79_2_Adm2:
+    GID: COL.28.79_2
+    admin_name: Suaita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.8_2_Adm2:
+    GID: COL.28.8_2
+    admin_name: Bolívar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.80_2_Adm2:
+    GID: COL.28.80_2
+    admin_name: Sucre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.81_2_Adm2:
+    GID: COL.28.81_2
+    admin_name: Suratá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.82_2_Adm2:
+    GID: COL.28.82_2
+    admin_name: Tona
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.83_2_Adm2:
+    GID: COL.28.83_2
+    admin_name: Valle de San José
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.84_2_Adm2:
+    GID: COL.28.84_2
+    admin_name: Vélez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.85_2_Adm2:
+    GID: COL.28.85_2
+    admin_name: Vetas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.86_2_Adm2:
+    GID: COL.28.86_2
+    admin_name: Villanueva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.87_2_Adm2:
+    GID: COL.28.87_2
+    admin_name: Zapatoca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.28.9_2_Adm2:
+    GID: COL.28.9_2
+    admin_name: Bucaramanga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29_2_Adm1:
+    GID: COL.29_2
+    admin_name: Sucre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.29.1_2_Adm2:
+    GID: COL.29.1_2
+    admin_name: Buenavista
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.10_2_Adm2:
+    GID: COL.29.10_2
+    admin_name: La Unión de Sucre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.11_2_Adm2:
+    GID: COL.29.11_2
+    admin_name: Los Palmitos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.12_2_Adm2:
+    GID: COL.29.12_2
+    admin_name: Majagual
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.13_2_Adm2:
+    GID: COL.29.13_2
+    admin_name: Morroa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.14_2_Adm2:
+    GID: COL.29.14_2
+    admin_name: Ovejas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.15_2_Adm2:
+    GID: COL.29.15_2
+    admin_name: Sampués
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.16_2_Adm2:
+    GID: COL.29.16_2
+    admin_name: San Antonio de Palmito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.17_2_Adm2:
+    GID: COL.29.17_2
+    admin_name: San Benito Abad
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.18_2_Adm2:
+    GID: COL.29.18_2
+    admin_name: San Juan de Betulia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.19_2_Adm2:
+    GID: COL.29.19_2
+    admin_name: San Marcos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.2_2_Adm2:
+    GID: COL.29.2_2
+    admin_name: Caimito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.20_2_Adm2:
+    GID: COL.29.20_2
+    admin_name: San Onofre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.21_2_Adm2:
+    GID: COL.29.21_2
+    admin_name: San Pedro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.22_2_Adm2:
+    GID: COL.29.22_2
+    admin_name: Sincé
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.23_2_Adm2:
+    GID: COL.29.23_2
+    admin_name: Sincelejo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.24_2_Adm2:
+    GID: COL.29.24_2
+    admin_name: Sucre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.25_2_Adm2:
+    GID: COL.29.25_2
+    admin_name: Tolú
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.26_2_Adm2:
+    GID: COL.29.26_2
+    admin_name: Toluviejo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.3_2_Adm2:
+    GID: COL.29.3_2
+    admin_name: Chalán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.4_2_Adm2:
+    GID: COL.29.4_2
+    admin_name: Colosó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.5_2_Adm2:
+    GID: COL.29.5_2
+    admin_name: Corozal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.6_2_Adm2:
+    GID: COL.29.6_2
+    admin_name: Coveñas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.7_2_Adm2:
+    GID: COL.29.7_2
+    admin_name: El Roble
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.8_2_Adm2:
+    GID: COL.29.8_2
+    admin_name: Galeras
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.29.9_2_Adm2:
+    GID: COL.29.9_2
+    admin_name: Guarandá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.3_2_Adm1:
+    GID: COL.3_2
+    admin_name: Arauca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.3.1_2_Adm2:
+    GID: COL.3.1_2
+    admin_name: Arauca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.3.2_2_Adm2:
+    GID: COL.3.2_2
+    admin_name: Arauquita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.3.3_2_Adm2:
+    GID: COL.3.3_2
+    admin_name: Cravo Norte
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.3.4_2_Adm2:
+    GID: COL.3.4_2
+    admin_name: Fortul
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.3.5_2_Adm2:
+    GID: COL.3.5_2
+    admin_name: Puerto Rondón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.3.6_2_Adm2:
+    GID: COL.3.6_2
+    admin_name: Saravena
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.3.7_2_Adm2:
+    GID: COL.3.7_2
+    admin_name: Tame
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30_2_Adm1:
+    GID: COL.30_2
+    admin_name: Tolima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.30.1_2_Adm2:
+    GID: COL.30.1_2
+    admin_name: Alpujarra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.10_2_Adm2:
+    GID: COL.30.10_2
+    admin_name: Chaparral
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.11_2_Adm2:
+    GID: COL.30.11_2
+    admin_name: Coello
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.12_2_Adm2:
+    GID: COL.30.12_2
+    admin_name: Coyaima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.13_2_Adm2:
+    GID: COL.30.13_2
+    admin_name: Cunday
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.14_2_Adm2:
+    GID: COL.30.14_2
+    admin_name: Dolores
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.15_2_Adm2:
+    GID: COL.30.15_2
+    admin_name: Espinal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.16_2_Adm2:
+    GID: COL.30.16_2
+    admin_name: Falán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.17_2_Adm2:
+    GID: COL.30.17_2
+    admin_name: Flandes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.18_2_Adm2:
+    GID: COL.30.18_2
+    admin_name: Fresno
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.19_2_Adm2:
+    GID: COL.30.19_2
+    admin_name: Guamo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.2_2_Adm2:
+    GID: COL.30.2_2
+    admin_name: Alvarado
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.20_2_Adm2:
+    GID: COL.30.20_2
+    admin_name: Herveo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.21_2_Adm2:
+    GID: COL.30.21_2
+    admin_name: Honda
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.22_2_Adm2:
+    GID: COL.30.22_2
+    admin_name: Ibagué
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.23_2_Adm2:
+    GID: COL.30.23_2
+    admin_name: Icononzo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.24_2_Adm2:
+    GID: COL.30.24_2
+    admin_name: Lérida
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.25_2_Adm2:
+    GID: COL.30.25_2
+    admin_name: Líbano
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.26_2_Adm2:
+    GID: COL.30.26_2
+    admin_name: Melgar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.27_2_Adm2:
+    GID: COL.30.27_2
+    admin_name: Murillo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.28_2_Adm2:
+    GID: COL.30.28_2
+    admin_name: Natagaima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.29_2_Adm2:
+    GID: COL.30.29_2
+    admin_name: Ortega
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.3_2_Adm2:
+    GID: COL.30.3_2
+    admin_name: Ambalema
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.30_2_Adm2:
+    GID: COL.30.30_2
+    admin_name: Palo Cabildo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.31_2_Adm2:
+    GID: COL.30.31_2
+    admin_name: Piedras
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.32_2_Adm2:
+    GID: COL.30.32_2
+    admin_name: Planadas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.33_2_Adm2:
+    GID: COL.30.33_2
+    admin_name: Prado
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.34_2_Adm2:
+    GID: COL.30.34_2
+    admin_name: Purificación
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.35_2_Adm2:
+    GID: COL.30.35_2
+    admin_name: Rioblanco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.36_2_Adm2:
+    GID: COL.30.36_2
+    admin_name: Roncesvalles
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.37_2_Adm2:
+    GID: COL.30.37_2
+    admin_name: Rovira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.38_2_Adm2:
+    GID: COL.30.38_2
+    admin_name: Saldaña
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.39_2_Adm2:
+    GID: COL.30.39_2
+    admin_name: San Antonio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.4_2_Adm2:
+    GID: COL.30.4_2
+    admin_name: Anzoátegui
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.40_2_Adm2:
+    GID: COL.30.40_2
+    admin_name: San Luís
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.41_2_Adm2:
+    GID: COL.30.41_2
+    admin_name: San Sebastian de Mariquita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.42_2_Adm2:
+    GID: COL.30.42_2
+    admin_name: Santa Isabel
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.43_2_Adm2:
+    GID: COL.30.43_2
+    admin_name: Suárez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.44_2_Adm2:
+    GID: COL.30.44_2
+    admin_name: Valle de San Juan
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.45_2_Adm2:
+    GID: COL.30.45_2
+    admin_name: Venadillo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.46_2_Adm2:
+    GID: COL.30.46_2
+    admin_name: Villahermosa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.47_2_Adm2:
+    GID: COL.30.47_2
+    admin_name: Villarrica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.5_2_Adm2:
+    GID: COL.30.5_2
+    admin_name: Armero
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.6_2_Adm2:
+    GID: COL.30.6_2
+    admin_name: Ataco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.7_2_Adm2:
+    GID: COL.30.7_2
+    admin_name: Cajamarca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.8_2_Adm2:
+    GID: COL.30.8_2
+    admin_name: Carmen de Apicalá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.30.9_2_Adm2:
+    GID: COL.30.9_2
+    admin_name: Casabianca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31_2_Adm1:
+    GID: COL.31_2
+    admin_name: Valle del Cauca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.31.1_2_Adm2:
+    GID: COL.31.1_2
+    admin_name: Alcalá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.10_2_Adm2:
+    GID: COL.31.10_2
+    admin_name: Candelaria
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.11_2_Adm2:
+    GID: COL.31.11_2
+    admin_name: Cartago
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.12_2_Adm2:
+    GID: COL.31.12_2
+    admin_name: Dagua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.13_2_Adm2:
+    GID: COL.31.13_2
+    admin_name: El Águila
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.14_2_Adm2:
+    GID: COL.31.14_2
+    admin_name: El Cairo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.15_2_Adm2:
+    GID: COL.31.15_2
+    admin_name: El Cerrito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.16_2_Adm2:
+    GID: COL.31.16_2
+    admin_name: El Dovio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.17_2_Adm2:
+    GID: COL.31.17_2
+    admin_name: Florida
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.18_2_Adm2:
+    GID: COL.31.18_2
+    admin_name: Ginebra
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.19_2_Adm2:
+    GID: COL.31.19_2
+    admin_name: Guacarí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.2_2_Adm2:
+    GID: COL.31.2_2
+    admin_name: Andalucía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.20_2_Adm2:
+    GID: COL.31.20_2
+    admin_name: Guadalajara de Buga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.21_2_Adm2:
+    GID: COL.31.21_2
+    admin_name: Jamundí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.22_2_Adm2:
+    GID: COL.31.22_2
+    admin_name: La Cumbre
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.23_2_Adm2:
+    GID: COL.31.23_2
+    admin_name: La Unión
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.24_2_Adm2:
+    GID: COL.31.24_2
+    admin_name: La Victoria
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.25_2_Adm2:
+    GID: COL.31.25_2
+    admin_name: Obando
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.26_2_Adm2:
+    GID: COL.31.26_2
+    admin_name: Palmira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.27_2_Adm2:
+    GID: COL.31.27_2
+    admin_name: Pradera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.28_2_Adm2:
+    GID: COL.31.28_2
+    admin_name: Restrepo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.29_2_Adm2:
+    GID: COL.31.29_2
+    admin_name: Riofrío
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.3_2_Adm2:
+    GID: COL.31.3_2
+    admin_name: Ansermanuevo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.30_2_Adm2:
+    GID: COL.31.30_2
+    admin_name: Roldanillo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.31_2_Adm2:
+    GID: COL.31.31_2
+    admin_name: San Pedro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.32_2_Adm2:
+    GID: COL.31.32_2
+    admin_name: Santiago de Cali
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.33_2_Adm2:
+    GID: COL.31.33_2
+    admin_name: Sevilla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.34_2_Adm2:
+    GID: COL.31.34_2
+    admin_name: Toro
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.35_2_Adm2:
+    GID: COL.31.35_2
+    admin_name: Trujillo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.36_2_Adm2:
+    GID: COL.31.36_2
+    admin_name: Tuluá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.37_2_Adm2:
+    GID: COL.31.37_2
+    admin_name: Ulloa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.38_2_Adm2:
+    GID: COL.31.38_2
+    admin_name: Versalles
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.39_2_Adm2:
+    GID: COL.31.39_2
+    admin_name: Vijes
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.4_2_Adm2:
+    GID: COL.31.4_2
+    admin_name: Argelia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.40_2_Adm2:
+    GID: COL.31.40_2
+    admin_name: Yotoco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.41_2_Adm2:
+    GID: COL.31.41_2
+    admin_name: Yumbo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.42_2_Adm2:
+    GID: COL.31.42_2
+    admin_name: Zarzal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.5_2_Adm2:
+    GID: COL.31.5_2
+    admin_name: Bolívar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.6_2_Adm2:
+    GID: COL.31.6_2
+    admin_name: Buenaventura
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.7_2_Adm2:
+    GID: COL.31.7_2
+    admin_name: Bugalagrande
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.8_2_Adm2:
+    GID: COL.31.8_2
+    admin_name: Caicedonia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.31.9_2_Adm2:
+    GID: COL.31.9_2
+    admin_name: Calima
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.32_2_Adm1:
+    GID: COL.32_2
+    admin_name: Vaupés
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.32.1_2_Adm2:
+    GID: COL.32.1_2
+    admin_name: Carurú
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.32.2_2_Adm2:
+    GID: COL.32.2_2
+    admin_name: Mitú
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.32.3_2_Adm2:
+    GID: COL.32.3_2
+    admin_name: Pacoa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.32.4_2_Adm2:
+    GID: COL.32.4_2
+    admin_name: Papunahua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.32.5_2_Adm2:
+    GID: COL.32.5_2
+    admin_name: Taraira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.32.6_2_Adm2:
+    GID: COL.32.6_2
+    admin_name: Yavaraté
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.33_2_Adm1:
+    GID: COL.33_2
+    admin_name: Vichada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.33.1_2_Adm2:
+    GID: COL.33.1_2
+    admin_name: Cumaribo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.33.2_2_Adm2:
+    GID: COL.33.2_2
+    admin_name: La Primavera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.33.3_2_Adm2:
+    GID: COL.33.3_2
+    admin_name: Puerto Carreño
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.33.4_2_Adm2:
+    GID: COL.33.4_2
+    admin_name: Santa Rosalía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4_2_Adm1:
+    GID: COL.4_2
+    admin_name: Atlántico
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.4.1_2_Adm2:
+    GID: COL.4.1_2
+    admin_name: Baranoa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.10_2_Adm2:
+    GID: COL.4.10_2
+    admin_name: Palmar de Varela
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.11_2_Adm2:
+    GID: COL.4.11_2
+    admin_name: Piojó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.12_2_Adm2:
+    GID: COL.4.12_2
+    admin_name: Polonuevo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.13_2_Adm2:
+    GID: COL.4.13_2
+    admin_name: Ponedera
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.14_2_Adm2:
+    GID: COL.4.14_2
+    admin_name: Puerto Colombia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.15_2_Adm2:
+    GID: COL.4.15_2
+    admin_name: Repelón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.16_2_Adm2:
+    GID: COL.4.16_2
+    admin_name: Sabanagrande
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.17_2_Adm2:
+    GID: COL.4.17_2
+    admin_name: Sabanalarga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.18_2_Adm2:
+    GID: COL.4.18_2
+    admin_name: Santa Lucía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.19_2_Adm2:
+    GID: COL.4.19_2
+    admin_name: Santo Tomás
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.2_2_Adm2:
+    GID: COL.4.2_2
+    admin_name: Barranquilla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.20_2_Adm2:
+    GID: COL.4.20_2
+    admin_name: Soledad
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.21_2_Adm2:
+    GID: COL.4.21_2
+    admin_name: Suan
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.22_2_Adm2:
+    GID: COL.4.22_2
+    admin_name: Tubará
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.23_2_Adm2:
+    GID: COL.4.23_2
+    admin_name: Usiacurí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.3_2_Adm2:
+    GID: COL.4.3_2
+    admin_name: Campo de la Cruz
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.4_2_Adm2:
+    GID: COL.4.4_2
+    admin_name: Candelaria
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.5_2_Adm2:
+    GID: COL.4.5_2
+    admin_name: Galapa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.6_2_Adm2:
+    GID: COL.4.6_2
+    admin_name: Juan de Acosta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.7_2_Adm2:
+    GID: COL.4.7_2
+    admin_name: Luruaco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.8_2_Adm2:
+    GID: COL.4.8_2
+    admin_name: Malambo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.4.9_2_Adm2:
+    GID: COL.4.9_2
+    admin_name: Manatí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.5_2_Adm1:
+    GID: COL.5_2
+    admin_name: Bogotá D.C.
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.5.1_2_Adm2:
+    GID: COL.5.1_2
+    admin_name: Bogotá D.C.
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6_2_Adm1:
+    GID: COL.6_2
+    admin_name: Bolívar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.6.1_2_Adm2:
+    GID: COL.6.1_2
+    admin_name: Achí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.10_2_Adm2:
+    GID: COL.6.10_2
+    admin_name: Cicuco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.11_2_Adm2:
+    GID: COL.6.11_2
+    admin_name: Clemencia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.12_2_Adm2:
+    GID: COL.6.12_2
+    admin_name: Córdoba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.13_2_Adm2:
+    GID: COL.6.13_2
+    admin_name: El Carmen de Bolívar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.14_2_Adm2:
+    GID: COL.6.14_2
+    admin_name: El Guamo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.15_2_Adm2:
+    GID: COL.6.15_2
+    admin_name: El Peñon
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.16_2_Adm2:
+    GID: COL.6.16_2
+    admin_name: Hatillo de Loba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.17_2_Adm2:
+    GID: COL.6.17_2
+    admin_name: Magangué
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.18_2_Adm2:
+    GID: COL.6.18_2
+    admin_name: Mahates
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.19_2_Adm2:
+    GID: COL.6.19_2
+    admin_name: Margarita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.2_2_Adm2:
+    GID: COL.6.2_2
+    admin_name: Altos del Rosario
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.20_2_Adm2:
+    GID: COL.6.20_2
+    admin_name: María la Baja
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.21_2_Adm2:
+    GID: COL.6.21_2
+    admin_name: Mompós
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.22_2_Adm2:
+    GID: COL.6.22_2
+    admin_name: Montecristo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.23_2_Adm2:
+    GID: COL.6.23_2
+    admin_name: Morales
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.24_2_Adm2:
+    GID: COL.6.24_2
+    admin_name: Pinillos
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.25_2_Adm2:
+    GID: COL.6.25_2
+    admin_name: Regidor
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.26_2_Adm2:
+    GID: COL.6.26_2
+    admin_name: Río Viejo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.27_2_Adm2:
+    GID: COL.6.27_2
+    admin_name: San Cristobal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.28_2_Adm2:
+    GID: COL.6.28_2
+    admin_name: San Estanislao de Kostka
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.29_2_Adm2:
+    GID: COL.6.29_2
+    admin_name: San Fernando
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.3_2_Adm2:
+    GID: COL.6.3_2
+    admin_name: Arenal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.30_2_Adm2:
+    GID: COL.6.30_2
+    admin_name: San Jacinto
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.31_2_Adm2:
+    GID: COL.6.31_2
+    admin_name: San Jacinto del Cauca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.32_2_Adm2:
+    GID: COL.6.32_2
+    admin_name: San Juan Nepomuceno
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.33_2_Adm2:
+    GID: COL.6.33_2
+    admin_name: San Martín de Loba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.34_2_Adm2:
+    GID: COL.6.34_2
+    admin_name: San Pablo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.35_2_Adm2:
+    GID: COL.6.35_2
+    admin_name: Santa Catalina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.36_2_Adm2:
+    GID: COL.6.36_2
+    admin_name: Santa Rosa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.37_2_Adm2:
+    GID: COL.6.37_2
+    admin_name: Santa Rosa del Sur
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.38_2_Adm2:
+    GID: COL.6.38_2
+    admin_name: Simití
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.39_2_Adm2:
+    GID: COL.6.39_2
+    admin_name: Soplaviento
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.4_2_Adm2:
+    GID: COL.6.4_2
+    admin_name: Arjona
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.40_2_Adm2:
+    GID: COL.6.40_2
+    admin_name: Talaigua Nuevo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.41_2_Adm2:
+    GID: COL.6.41_2
+    admin_name: Tiquisio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.42_2_Adm2:
+    GID: COL.6.42_2
+    admin_name: Turbaco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.43_2_Adm2:
+    GID: COL.6.43_2
+    admin_name: Turbaná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.44_2_Adm2:
+    GID: COL.6.44_2
+    admin_name: Villanueva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.45_2_Adm2:
+    GID: COL.6.45_2
+    admin_name: Zambrano
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.5_2_Adm2:
+    GID: COL.6.5_2
+    admin_name: Arroyohondo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.6_2_Adm2:
+    GID: COL.6.6_2
+    admin_name: Barranco de Loba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.7_2_Adm2:
+    GID: COL.6.7_2
+    admin_name: Calamar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.8_2_Adm2:
+    GID: COL.6.8_2
+    admin_name: Cantagallo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.6.9_2_Adm2:
+    GID: COL.6.9_2
+    admin_name: Cartagena de Indias
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7_2_Adm1:
+    GID: COL.7_2
+    admin_name: Boyacá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.7.1_2_Adm2:
+    GID: COL.7.1_2
+    admin_name: Almeida
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.10_2_Adm2:
+    GID: COL.7.10_2
+    admin_name: Buenavista
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.100_2_Adm2:
+    GID: COL.7.100_2
+    admin_name: Sotaquirá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.101_2_Adm2:
+    GID: COL.7.101_2
+    admin_name: Susacón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.102_2_Adm2:
+    GID: COL.7.102_2
+    admin_name: Sutamarchán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.103_2_Adm2:
+    GID: COL.7.103_2
+    admin_name: Sutatenza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.104_2_Adm2:
+    GID: COL.7.104_2
+    admin_name: Tasco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.105_2_Adm2:
+    GID: COL.7.105_2
+    admin_name: Tenza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.106_2_Adm2:
+    GID: COL.7.106_2
+    admin_name: Tibaná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.107_2_Adm2:
+    GID: COL.7.107_2
+    admin_name: Tibasosa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.108_2_Adm2:
+    GID: COL.7.108_2
+    admin_name: Tinjacá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.109_2_Adm2:
+    GID: COL.7.109_2
+    admin_name: Tipacoque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.11_2_Adm2:
+    GID: COL.7.11_2
+    admin_name: Busbanza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.110_2_Adm2:
+    GID: COL.7.110_2
+    admin_name: Toca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.111_2_Adm2:
+    GID: COL.7.111_2
+    admin_name: Toguí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.112_2_Adm2:
+    GID: COL.7.112_2
+    admin_name: Topagá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.113_2_Adm2:
+    GID: COL.7.113_2
+    admin_name: Tota
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.114_2_Adm2:
+    GID: COL.7.114_2
+    admin_name: Tunja
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.115_2_Adm2:
+    GID: COL.7.115_2
+    admin_name: Tunungua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.116_2_Adm2:
+    GID: COL.7.116_2
+    admin_name: Turmequé
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.117_2_Adm2:
+    GID: COL.7.117_2
+    admin_name: Tuta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.118_2_Adm2:
+    GID: COL.7.118_2
+    admin_name: Tutazá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.119_2_Adm2:
+    GID: COL.7.119_2
+    admin_name: Umbita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.12_2_Adm2:
+    GID: COL.7.12_2
+    admin_name: Caldas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.120_2_Adm2:
+    GID: COL.7.120_2
+    admin_name: Ventaquemada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.121_2_Adm2:
+    GID: COL.7.121_2
+    admin_name: Villa de Leyva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.122_2_Adm2:
+    GID: COL.7.122_2
+    admin_name: Viracachá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.123_2_Adm2:
+    GID: COL.7.123_2
+    admin_name: Zetaquirá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.13_2_Adm2:
+    GID: COL.7.13_2
+    admin_name: Campohermoso
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.14_2_Adm2:
+    GID: COL.7.14_2
+    admin_name: Cerinza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.15_2_Adm2:
+    GID: COL.7.15_2
+    admin_name: Chinavita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.16_2_Adm2:
+    GID: COL.7.16_2
+    admin_name: Chiquinquirá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.17_2_Adm2:
+    GID: COL.7.17_2
+    admin_name: Chíquiza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.18_2_Adm2:
+    GID: COL.7.18_2
+    admin_name: Chiscas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.19_2_Adm2:
+    GID: COL.7.19_2
+    admin_name: Chita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.2_2_Adm2:
+    GID: COL.7.2_2
+    admin_name: Aquitania
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.20_2_Adm2:
+    GID: COL.7.20_2
+    admin_name: Chitaraque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.21_2_Adm2:
+    GID: COL.7.21_2
+    admin_name: Chivatá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.22_2_Adm2:
+    GID: COL.7.22_2
+    admin_name: Chivor
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.23_2_Adm2:
+    GID: COL.7.23_2
+    admin_name: Ciénaga
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.24_2_Adm2:
+    GID: COL.7.24_2
+    admin_name: Cómbita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.25_2_Adm2:
+    GID: COL.7.25_2
+    admin_name: Coper
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.26_2_Adm2:
+    GID: COL.7.26_2
+    admin_name: Corrales
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.27_2_Adm2:
+    GID: COL.7.27_2
+    admin_name: Covarachía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.28_2_Adm2:
+    GID: COL.7.28_2
+    admin_name: Cubará
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.29_2_Adm2:
+    GID: COL.7.29_2
+    admin_name: Cucaita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.3_2_Adm2:
+    GID: COL.7.3_2
+    admin_name: Arcabuco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.30_2_Adm2:
+    GID: COL.7.30_2
+    admin_name: Cuítiva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.31_2_Adm2:
+    GID: COL.7.31_2
+    admin_name: Duitama
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.32_2_Adm2:
+    GID: COL.7.32_2
+    admin_name: El Cocuy
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.33_2_Adm2:
+    GID: COL.7.33_2
+    admin_name: El Espino
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.34_2_Adm2:
+    GID: COL.7.34_2
+    admin_name: Firavitoba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.35_2_Adm2:
+    GID: COL.7.35_2
+    admin_name: Floresta
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.36_2_Adm2:
+    GID: COL.7.36_2
+    admin_name: Gachantivá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.37_2_Adm2:
+    GID: COL.7.37_2
+    admin_name: Gámeza
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.38_2_Adm2:
+    GID: COL.7.38_2
+    admin_name: Garagoa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.39_2_Adm2:
+    GID: COL.7.39_2
+    admin_name: Guacamayas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.4_2_Adm2:
+    GID: COL.7.4_2
+    admin_name: Belén
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.40_2_Adm2:
+    GID: COL.7.40_2
+    admin_name: Guateque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.41_2_Adm2:
+    GID: COL.7.41_2
+    admin_name: Guayatá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.42_2_Adm2:
+    GID: COL.7.42_2
+    admin_name: Güicán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.43_2_Adm2:
+    GID: COL.7.43_2
+    admin_name: Izá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.44_2_Adm2:
+    GID: COL.7.44_2
+    admin_name: Jenesano
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.45_2_Adm2:
+    GID: COL.7.45_2
+    admin_name: Jericó
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.46_2_Adm2:
+    GID: COL.7.46_2
+    admin_name: La Capilla
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.47_2_Adm2:
+    GID: COL.7.47_2
+    admin_name: La Uvita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.48_2_Adm2:
+    GID: COL.7.48_2
+    admin_name: La Victoria
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.49_2_Adm2:
+    GID: COL.7.49_2
+    admin_name: Labranzagrande
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.5_2_Adm2:
+    GID: COL.7.5_2
+    admin_name: Berbeo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.50_2_Adm2:
+    GID: COL.7.50_2
+    admin_name: Macanal
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.51_2_Adm2:
+    GID: COL.7.51_2
+    admin_name: Maripí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.52_2_Adm2:
+    GID: COL.7.52_2
+    admin_name: Miraflores
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.53_2_Adm2:
+    GID: COL.7.53_2
+    admin_name: Mongua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.54_2_Adm2:
+    GID: COL.7.54_2
+    admin_name: Monguí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.55_2_Adm2:
+    GID: COL.7.55_2
+    admin_name: Moniquirá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.56_2_Adm2:
+    GID: COL.7.56_2
+    admin_name: Motavita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.57_2_Adm2:
+    GID: COL.7.57_2
+    admin_name: Muzo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.58_2_Adm2:
+    GID: COL.7.58_2
+    admin_name: Nobsa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.59_2_Adm2:
+    GID: COL.7.59_2
+    admin_name: Nuevo Colón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.6_2_Adm2:
+    GID: COL.7.6_2
+    admin_name: Beteitiva
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.60_2_Adm2:
+    GID: COL.7.60_2
+    admin_name: Oicatá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.61_2_Adm2:
+    GID: COL.7.61_2
+    admin_name: Otanche
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.62_2_Adm2:
+    GID: COL.7.62_2
+    admin_name: Pachavita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.63_2_Adm2:
+    GID: COL.7.63_2
+    admin_name: Páez
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.64_2_Adm2:
+    GID: COL.7.64_2
+    admin_name: Paipa
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.65_2_Adm2:
+    GID: COL.7.65_2
+    admin_name: Pajarito
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.66_2_Adm2:
+    GID: COL.7.66_2
+    admin_name: Panqueba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.67_2_Adm2:
+    GID: COL.7.67_2
+    admin_name: Pauna
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.68_2_Adm2:
+    GID: COL.7.68_2
+    admin_name: Paya
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.69_2_Adm2:
+    GID: COL.7.69_2
+    admin_name: Paz de Río
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.7_2_Adm2:
+    GID: COL.7.7_2
+    admin_name: Boavita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.70_2_Adm2:
+    GID: COL.7.70_2
+    admin_name: Pesca
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.71_2_Adm2:
+    GID: COL.7.71_2
+    admin_name: Pisba
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.72_2_Adm2:
+    GID: COL.7.72_2
+    admin_name: Puerto Boyacá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.73_2_Adm2:
+    GID: COL.7.73_2
+    admin_name: Quípama
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.74_2_Adm2:
+    GID: COL.7.74_2
+    admin_name: Ramiriquí
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.75_2_Adm2:
+    GID: COL.7.75_2
+    admin_name: Ráquira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.76_2_Adm2:
+    GID: COL.7.76_2
+    admin_name: Rondón
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.77_2_Adm2:
+    GID: COL.7.77_2
+    admin_name: Saboyá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.78_2_Adm2:
+    GID: COL.7.78_2
+    admin_name: Sáchica
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.79_2_Adm2:
+    GID: COL.7.79_2
+    admin_name: Samacá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.8_2_Adm2:
+    GID: COL.7.8_2
+    admin_name: Boyacá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.80_2_Adm2:
+    GID: COL.7.80_2
+    admin_name: San Eduardo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.81_2_Adm2:
+    GID: COL.7.81_2
+    admin_name: San José de Pare
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.82_2_Adm2:
+    GID: COL.7.82_2
+    admin_name: San Luis de Gaceno
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.83_2_Adm2:
+    GID: COL.7.83_2
+    admin_name: San Mateo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.84_2_Adm2:
+    GID: COL.7.84_2
+    admin_name: San Miguel de Sema
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.85_2_Adm2:
+    GID: COL.7.85_2
+    admin_name: San Pablo de Borbur
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.86_2_Adm2:
+    GID: COL.7.86_2
+    admin_name: Santa María
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.87_2_Adm2:
+    GID: COL.7.87_2
+    admin_name: Santa Rosa de Viterbo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.88_2_Adm2:
+    GID: COL.7.88_2
+    admin_name: Santa Sofía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.89_2_Adm2:
+    GID: COL.7.89_2
+    admin_name: Santana
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.9_2_Adm2:
+    GID: COL.7.9_2
+    admin_name: Briceño
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.90_2_Adm2:
+    GID: COL.7.90_2
+    admin_name: Sativanorte
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.91_2_Adm2:
+    GID: COL.7.91_2
+    admin_name: Sativasur
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.92_2_Adm2:
+    GID: COL.7.92_2
+    admin_name: Siachoque
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.93_2_Adm2:
+    GID: COL.7.93_2
+    admin_name: Soatá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.94_2_Adm2:
+    GID: COL.7.94_2
+    admin_name: Socha
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.95_2_Adm2:
+    GID: COL.7.95_2
+    admin_name: Socotá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.96_2_Adm2:
+    GID: COL.7.96_2
+    admin_name: Sogamoso
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.97_2_Adm2:
+    GID: COL.7.97_2
+    admin_name: Somondoco
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.98_2_Adm2:
+    GID: COL.7.98_2
+    admin_name: Sora
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.7.99_2_Adm2:
+    GID: COL.7.99_2
+    admin_name: Soracá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8_2_Adm1:
+    GID: COL.8_2
+    admin_name: Caldas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.8.1_2_Adm2:
+    GID: COL.8.1_2
+    admin_name: Aguadas
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.10_2_Adm2:
+    GID: COL.8.10_2
+    admin_name: Manzanares
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.11_2_Adm2:
+    GID: COL.8.11_2
+    admin_name: Marmato
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.12_2_Adm2:
+    GID: COL.8.12_2
+    admin_name: Marquetalia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.13_2_Adm2:
+    GID: COL.8.13_2
+    admin_name: Marulanda
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.14_2_Adm2:
+    GID: COL.8.14_2
+    admin_name: Neira
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.15_2_Adm2:
+    GID: COL.8.15_2
+    admin_name: Norcasia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.16_2_Adm2:
+    GID: COL.8.16_2
+    admin_name: Pácora
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.17_2_Adm2:
+    GID: COL.8.17_2
+    admin_name: Palestina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.18_2_Adm2:
+    GID: COL.8.18_2
+    admin_name: Pensilvania
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.19_2_Adm2:
+    GID: COL.8.19_2
+    admin_name: Riosucio
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.2_2_Adm2:
+    GID: COL.8.2_2
+    admin_name: Anserma
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.20_2_Adm2:
+    GID: COL.8.20_2
+    admin_name: Risaralda
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.21_2_Adm2:
+    GID: COL.8.21_2
+    admin_name: Salamina
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.22_2_Adm2:
+    GID: COL.8.22_2
+    admin_name: Samaná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.23_2_Adm2:
+    GID: COL.8.23_2
+    admin_name: San José
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.24_2_Adm2:
+    GID: COL.8.24_2
+    admin_name: Supía
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.25_2_Adm2:
+    GID: COL.8.25_2
+    admin_name: Victoria
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.26_2_Adm2:
+    GID: COL.8.26_2
+    admin_name: Villamaría
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.27_2_Adm2:
+    GID: COL.8.27_2
+    admin_name: Viterbo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.3_2_Adm2:
+    GID: COL.8.3_2
+    admin_name: Aranzazú
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.4_2_Adm2:
+    GID: COL.8.4_2
+    admin_name: Belalcázar
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.5_2_Adm2:
+    GID: COL.8.5_2
+    admin_name: Chinchiná
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.6_2_Adm2:
+    GID: COL.8.6_2
+    admin_name: Filadelfia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.7_2_Adm2:
+    GID: COL.8.7_2
+    admin_name: La Dorada
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.8_2_Adm2:
+    GID: COL.8.8_2
+    admin_name: La Merced
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.8.9_2_Adm2:
+    GID: COL.8.9_2
+    admin_name: Manizales
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9_2_Adm1:
+    GID: COL.9_2
+    admin_name: Caquetá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm1
+  COL.9.1_2_Adm2:
+    GID: COL.9.1_2
+    admin_name: Albania
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.10_2_Adm2:
+    GID: COL.9.10_2
+    admin_name: Morelia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.11_2_Adm2:
+    GID: COL.9.11_2
+    admin_name: Puerto Rico
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.12_2_Adm2:
+    GID: COL.9.12_2
+    admin_name: San José del Fragua
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.13_2_Adm2:
+    GID: COL.9.13_2
+    admin_name: San Vicente del Caguán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.14_2_Adm2:
+    GID: COL.9.14_2
+    admin_name: Solano
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.15_2_Adm2:
+    GID: COL.9.15_2
+    admin_name: Solita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.16_2_Adm2:
+    GID: COL.9.16_2
+    admin_name: Valparaíso
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.2_2_Adm2:
+    GID: COL.9.2_2
+    admin_name: Belén de los Andaquies
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.3_2_Adm2:
+    GID: COL.9.3_2
+    admin_name: Cartagena del Chairá
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.4_2_Adm2:
+    GID: COL.9.4_2
+    admin_name: Curillo
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.5_2_Adm2:
+    GID: COL.9.5_2
+    admin_name: El Doncello
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.6_2_Adm2:
+    GID: COL.9.6_2
+    admin_name: El Paujíl
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.7_2_Adm2:
+    GID: COL.9.7_2
+    admin_name: Florencia
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.8_2_Adm2:
+    GID: COL.9.8_2
+    admin_name: La Montañita
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2
+  COL.9.9_2_Adm2:
+    GID: COL.9.9_2
+    admin_name: Milán
+    iso3c: COL
+    country_name: Colombia
+    admin_level: Adm2

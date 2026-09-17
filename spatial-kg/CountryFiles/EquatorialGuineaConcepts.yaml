@@ -1,0 +1,241 @@
+concepts:
+  GNQ.0_Adm0:
+    GID: GNQ
+    admin_name: Equatorial Guinea
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm0
+  GNQ.1_1_Adm1:
+    GID: GNQ.1_1
+    admin_name: Annobón
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm1
+  GNQ.1.1_1_Adm2:
+    GID: GNQ.1.1_1
+    admin_name: Mabana
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.1.2_1_Adm2:
+    GID: GNQ.1.2_1
+    admin_name: San Antonio de Palé
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.2_1_Adm1:
+    GID: GNQ.2_1
+    admin_name: Bioko Norte
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm1
+  GNQ.2.1_1_Adm2:
+    GID: GNQ.2.1_1
+    admin_name: Baney
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.2.2_1_Adm2:
+    GID: GNQ.2.2_1
+    admin_name: Malabo
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.2.3_1_Adm2:
+    GID: GNQ.2.3_1
+    admin_name: Rebola
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.3_1_Adm1:
+    GID: GNQ.3_1
+    admin_name: Bioko Sur
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm1
+  GNQ.3.1_1_Adm2:
+    GID: GNQ.3.1_1
+    admin_name: Luba
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.3.2_1_Adm2:
+    GID: GNQ.3.2_1
+    admin_name: Riaba
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.4_1_Adm1:
+    GID: GNQ.4_1
+    admin_name: Centro Sur
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm1
+  GNQ.4.1_1_Adm2:
+    GID: GNQ.4.1_1
+    admin_name: Acurenam
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.4.2_1_Adm2:
+    GID: GNQ.4.2_1
+    admin_name: Bicurga
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.4.3_1_Adm2:
+    GID: GNQ.4.3_1
+    admin_name: Evinayong
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.4.4_1_Adm2:
+    GID: GNQ.4.4_1
+    admin_name: Niefang
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.4.5_1_Adm2:
+    GID: GNQ.4.5_1
+    admin_name: Nkimi
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.5_1_Adm1:
+    GID: GNQ.5_1
+    admin_name: Kié-Ntem
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm1
+  GNQ.5.1_1_Adm2:
+    GID: GNQ.5.1_1
+    admin_name: Bidjabidjan
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.5.2_1_Adm2:
+    GID: GNQ.5.2_1
+    admin_name: Ebebiyin
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.5.3_1_Adm2:
+    GID: GNQ.5.3_1
+    admin_name: Micomeseng
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.5.4_1_Adm2:
+    GID: GNQ.5.4_1
+    admin_name: Nasng
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.5.5_1_Adm2:
+    GID: GNQ.5.5_1
+    admin_name: Nkue
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.5.6_1_Adm2:
+    GID: GNQ.5.6_1
+    admin_name: Nsok-Nsomo
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.6_1_Adm1:
+    GID: GNQ.6_1
+    admin_name: Litoral
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm1
+  GNQ.6.1_1_Adm2:
+    GID: GNQ.6.1_1
+    admin_name: Bata
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.6.2_1_Adm2:
+    GID: GNQ.6.2_1
+    admin_name: Bitica
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.6.3_1_Adm2:
+    GID: GNQ.6.3_1
+    admin_name: Cogo
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.6.4_1_Adm2:
+    GID: GNQ.6.4_1
+    admin_name: Corisco
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.6.5_1_Adm2:
+    GID: GNQ.6.5_1
+    admin_name: Machinda
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.6.6_1_Adm2:
+    GID: GNQ.6.6_1
+    admin_name: Mbini
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.6.7_1_Adm2:
+    GID: GNQ.6.7_1
+    admin_name: Rio Campo
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.7_1_Adm1:
+    GID: GNQ.7_1
+    admin_name: Wele-Nzas
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm1
+  GNQ.7.1_1_Adm2:
+    GID: GNQ.7.1_1
+    admin_name: Aconibe
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.7.2_1_Adm2:
+    GID: GNQ.7.2_1
+    admin_name: Añisok
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.7.3_1_Adm2:
+    GID: GNQ.7.3_1
+    admin_name: Ayene
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.7.4_1_Adm2:
+    GID: GNQ.7.4_1
+    admin_name: Ciudad Nueva Oyala
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.7.5_1_Adm2:
+    GID: GNQ.7.5_1
+    admin_name: Mongomeyen
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.7.6_1_Adm2:
+    GID: GNQ.7.6_1
+    admin_name: Mongomo
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2
+  GNQ.7.7_1_Adm2:
+    GID: GNQ.7.7_1
+    admin_name: Nsork
+    iso3c: GNQ
+    country_name: Equatorial Guinea
+    admin_level: Adm2

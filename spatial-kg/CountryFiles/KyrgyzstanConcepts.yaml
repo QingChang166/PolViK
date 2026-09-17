@@ -1,0 +1,325 @@
+concepts:
+  KGZ.0_Adm0:
+    GID: KGZ
+    admin_name: Kyrgyzstan
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm0
+  KGZ.1_1_Adm1:
+    GID: KGZ.1_1
+    admin_name: Batken
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.1.1_1_Adm2:
+    GID: KGZ.1.1_1
+    admin_name: Batken
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.1.2_1_Adm2:
+    GID: KGZ.1.2_1
+    admin_name: Kadamjai
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.1.3_1_Adm2:
+    GID: KGZ.1.3_1
+    admin_name: Lailak
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.2_1_Adm1:
+    GID: KGZ.2_1
+    admin_name: Biškek
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.2.1_1_Adm2:
+    GID: KGZ.2.1_1
+    admin_name: Biškek
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.3_1_Adm1:
+    GID: KGZ.3_1
+    admin_name: Chüy
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.3.1_1_Adm2:
+    GID: KGZ.3.1_1
+    admin_name: Alamüdün
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.3.2_1_Adm2:
+    GID: KGZ.3.2_1
+    admin_name: Chui
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.3.3_1_Adm2:
+    GID: KGZ.3.3_1
+    admin_name: Jaiyl
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.3.4_1_Adm2:
+    GID: KGZ.3.4_1
+    admin_name: Kemin
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.3.5_1_Adm2:
+    GID: KGZ.3.5_1
+    admin_name: Moskovsky
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.3.6_1_Adm2:
+    GID: KGZ.3.6_1
+    admin_name: Panfilov
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.3.7_1_Adm2:
+    GID: KGZ.3.7_1
+    admin_name: Sokuluk
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.3.8_1_Adm2:
+    GID: KGZ.3.8_1
+    admin_name: Ysyk-Ata
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.4_1_Adm1:
+    GID: KGZ.4_1
+    admin_name: Jalal-Abad
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.4.1_1_Adm2:
+    GID: KGZ.4.1_1
+    admin_name: Aksyi
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.4.2_1_Adm2:
+    GID: KGZ.4.2_1
+    admin_name: Ala-Buka
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.4.3_1_Adm2:
+    GID: KGZ.4.3_1
+    admin_name: Bazar-Korgon
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.4.4_1_Adm2:
+    GID: KGZ.4.4_1
+    admin_name: Chatkal
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.4.5_1_Adm2:
+    GID: KGZ.4.5_1
+    admin_name: Nooken
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.4.6_1_Adm2:
+    GID: KGZ.4.6_1
+    admin_name: Suzak
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.4.7_1_Adm2:
+    GID: KGZ.4.7_1
+    admin_name: Togus-Toro
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.4.8_1_Adm2:
+    GID: KGZ.4.8_1
+    admin_name: Toktogul
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.5_1_Adm1:
+    GID: KGZ.5_1
+    admin_name: Naryn
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.5.1_1_Adm2:
+    GID: KGZ.5.1_1
+    admin_name: Ak-Talaa
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.5.2_1_Adm2:
+    GID: KGZ.5.2_1
+    admin_name: At-Bashi
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.5.3_1_Adm2:
+    GID: KGZ.5.3_1
+    admin_name: Jumgal
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.5.4_1_Adm2:
+    GID: KGZ.5.4_1
+    admin_name: Kochkor
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.5.5_1_Adm2:
+    GID: KGZ.5.5_1
+    admin_name: Naryn
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.5.6_1_Adm2:
+    GID: KGZ.5.6_1
+    admin_name: Song-Kol
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.6_1_Adm1:
+    GID: KGZ.6_1
+    admin_name: Osh (city)
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.6.1_1_Adm2:
+    GID: KGZ.6.1_1
+    admin_name: Osh
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.7_1_Adm1:
+    GID: KGZ.7_1
+    admin_name: Osh
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.7.1_1_Adm2:
+    GID: KGZ.7.1_1
+    admin_name: Alai
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.7.2_1_Adm2:
+    GID: KGZ.7.2_1
+    admin_name: Aravan
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.7.3_1_Adm2:
+    GID: KGZ.7.3_1
+    admin_name: Chong-Alay
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.7.4_1_Adm2:
+    GID: KGZ.7.4_1
+    admin_name: Kara-Kuldja
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.7.5_1_Adm2:
+    GID: KGZ.7.5_1
+    admin_name: Kara-Suu
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.7.6_1_Adm2:
+    GID: KGZ.7.6_1
+    admin_name: Nookat
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.7.7_1_Adm2:
+    GID: KGZ.7.7_1
+    admin_name: Uzgen
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.8_1_Adm1:
+    GID: KGZ.8_1
+    admin_name: Talas
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.8.1_1_Adm2:
+    GID: KGZ.8.1_1
+    admin_name: Bakai-Ata
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.8.2_1_Adm2:
+    GID: KGZ.8.2_1
+    admin_name: Kara-Buura
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.8.3_1_Adm2:
+    GID: KGZ.8.3_1
+    admin_name: Manas
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.8.4_1_Adm2:
+    GID: KGZ.8.4_1
+    admin_name: Talas
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.9_1_Adm1:
+    GID: KGZ.9_1
+    admin_name: Ysyk-Köl
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm1
+  KGZ.9.1_1_Adm2:
+    GID: KGZ.9.1_1
+    admin_name: Ak-Suu
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.9.2_1_Adm2:
+    GID: KGZ.9.2_1
+    admin_name: Djety-Oguz
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.9.3_1_Adm2:
+    GID: KGZ.9.3_1
+    admin_name: Ton
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.9.4_1_Adm2:
+    GID: KGZ.9.4_1
+    admin_name: Tüp
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.9.5_1_Adm2:
+    GID: KGZ.9.5_1
+    admin_name: Ysyk-Köl
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2
+  KGZ.9.6_1_Adm2:
+    GID: KGZ.9.6_1
+    admin_name: Ysyk-Köl (lake)
+    iso3c: KGZ
+    country_name: Kyrgyzstan
+    admin_level: Adm2

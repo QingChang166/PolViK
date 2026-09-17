@@ -1,0 +1,277 @@
+concepts:
+  TGO.0_Adm0:
+    GID: TGO
+    admin_name: Togo
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm0
+  TGO.1_1_Adm1:
+    GID: TGO.1_1
+    admin_name: Centre
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm1
+  TGO.1.1_2_Adm2:
+    GID: TGO.1.1_2
+    admin_name: Blitta
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.1.2_2_Adm2:
+    GID: TGO.1.2_2
+    admin_name: Mô
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.1.3_2_Adm2:
+    GID: TGO.1.3_2
+    admin_name: Sotouboua
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.1.4_2_Adm2:
+    GID: TGO.1.4_2
+    admin_name: Tchamba
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.1.5_2_Adm2:
+    GID: TGO.1.5_2
+    admin_name: Tchaudjo
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.2_1_Adm1:
+    GID: TGO.2_1
+    admin_name: Kara
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm1
+  TGO.2.1_1_Adm2:
+    GID: TGO.2.1_1
+    admin_name: Assoli
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.2.2_1_Adm2:
+    GID: TGO.2.2_1
+    admin_name: Bassar
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.2.3_1_Adm2:
+    GID: TGO.2.3_1
+    admin_name: Bimah
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.2.4_1_Adm2:
+    GID: TGO.2.4_1
+    admin_name: Doufelgou
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.2.5_1_Adm2:
+    GID: TGO.2.5_1
+    admin_name: Kéran
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.2.6_1_Adm2:
+    GID: TGO.2.6_1
+    admin_name: Kozah
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.2.7_1_Adm2:
+    GID: TGO.2.7_1
+    admin_name: Dankpen
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3_1_Adm1:
+    GID: TGO.3_1
+    admin_name: Maritime
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm1
+  TGO.3.1_2_Adm2:
+    GID: TGO.3.1_2
+    admin_name: Agoe-Nyive
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3.2_2_Adm2:
+    GID: TGO.3.2_2
+    admin_name: Avé
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3.3_2_Adm2:
+    GID: TGO.3.3_2
+    admin_name: Bas-Mono
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3.4_2_Adm2:
+    GID: TGO.3.4_2
+    admin_name: Golfe
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3.5_2_Adm2:
+    GID: TGO.3.5_2
+    admin_name: Lacs
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3.6_2_Adm2:
+    GID: TGO.3.6_2
+    admin_name: Lomé
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3.7_2_Adm2:
+    GID: TGO.3.7_2
+    admin_name: Vo
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3.8_2_Adm2:
+    GID: TGO.3.8_2
+    admin_name: Yoto
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.3.9_2_Adm2:
+    GID: TGO.3.9_2
+    admin_name: Zio
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4_1_Adm1:
+    GID: TGO.4_1
+    admin_name: Plateaux
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm1
+  TGO.4.1_2_Adm2:
+    GID: TGO.4.1_2
+    admin_name: Agou
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.10_2_Adm2:
+    GID: TGO.4.10_2
+    admin_name: Moyen-Mono
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.11_2_Adm2:
+    GID: TGO.4.11_2
+    admin_name: Ogou
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.12_2_Adm2:
+    GID: TGO.4.12_2
+    admin_name: Wawa
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.2_2_Adm2:
+    GID: TGO.4.2_2
+    admin_name: Akébou
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.3_2_Adm2:
+    GID: TGO.4.3_2
+    admin_name: Amou
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.4_2_Adm2:
+    GID: TGO.4.4_2
+    admin_name: Anié
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.5_2_Adm2:
+    GID: TGO.4.5_2
+    admin_name: Danyi
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.6_2_Adm2:
+    GID: TGO.4.6_2
+    admin_name: Est-Mono
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.7_2_Adm2:
+    GID: TGO.4.7_2
+    admin_name: Haho
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.8_2_Adm2:
+    GID: TGO.4.8_2
+    admin_name: Kloto
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.4.9_2_Adm2:
+    GID: TGO.4.9_2
+    admin_name: Kpélé
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.5_1_Adm1:
+    GID: TGO.5_1
+    admin_name: Savanes
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm1
+  TGO.5.1_2_Adm2:
+    GID: TGO.5.1_2
+    admin_name: Cinkassé
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.5.2_2_Adm2:
+    GID: TGO.5.2_2
+    admin_name: Kpendjal
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.5.3_2_Adm2:
+    GID: TGO.5.3_2
+    admin_name: Naki-Ouest
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.5.4_2_Adm2:
+    GID: TGO.5.4_2
+    admin_name: Oti
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.5.5_2_Adm2:
+    GID: TGO.5.5_2
+    admin_name: Oti-Sud
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.5.6_2_Adm2:
+    GID: TGO.5.6_2
+    admin_name: Tandjouaré
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2
+  TGO.5.7_2_Adm2:
+    GID: TGO.5.7_2
+    admin_name: Tône
+    iso3c: TGO
+    country_name: Togo
+    admin_level: Adm2

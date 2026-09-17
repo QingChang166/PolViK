@@ -1,0 +1,967 @@
+concepts:
+  URY.0_Adm0:
+    GID: URY
+    admin_name: Uruguay
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm0
+  URY.1_2_Adm1:
+    GID: URY.1_2
+    admin_name: Artigas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.1.1_2_Adm2:
+    GID: URY.1.1_2
+    admin_name: Tomas Gomensoro
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.1.2_2_Adm2:
+    GID: URY.1.2_2
+    admin_name: Baltasar Brum
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.1.3_2_Adm2:
+    GID: URY.1.3_2
+    admin_name: Bella Unión
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.1.4_2_Adm2:
+    GID: URY.1.4_2
+    admin_name: Tomás Gomensoro
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.10_2_Adm1:
+    GID: URY.10_2
+    admin_name: Montevideo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.10.1_2_Adm2:
+    GID: URY.10.1_2
+    admin_name: Municipio A
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.10.2_2_Adm2:
+    GID: URY.10.2_2
+    admin_name: Municipio B
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.10.3_2_Adm2:
+    GID: URY.10.3_2
+    admin_name: Municipio C
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.10.4_2_Adm2:
+    GID: URY.10.4_2
+    admin_name: Municipio CH
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.10.5_2_Adm2:
+    GID: URY.10.5_2
+    admin_name: Municipio D
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.10.6_2_Adm2:
+    GID: URY.10.6_2
+    admin_name: Municipio E
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.10.7_2_Adm2:
+    GID: URY.10.7_2
+    admin_name: Municipio F
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.10.8_2_Adm2:
+    GID: URY.10.8_2
+    admin_name: Municipio G
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.11_2_Adm1:
+    GID: URY.11_2
+    admin_name: Paysandú
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.11.1_2_Adm2:
+    GID: URY.11.1_2
+    admin_name: Piedras Coloradas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.11.2_2_Adm2:
+    GID: URY.11.2_2
+    admin_name: Chapicuy
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.11.3_2_Adm2:
+    GID: URY.11.3_2
+    admin_name: Guichón
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.11.4_2_Adm2:
+    GID: URY.11.4_2
+    admin_name: Lorenzo Geyres
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.11.5_2_Adm2:
+    GID: URY.11.5_2
+    admin_name: Piedras Coloradas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.11.6_2_Adm2:
+    GID: URY.11.6_2
+    admin_name: Porvenir
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.11.7_2_Adm2:
+    GID: URY.11.7_2
+    admin_name: Quebracho
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.11.8_2_Adm2:
+    GID: URY.11.8_2
+    admin_name: Tambores
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.12_2_Adm1:
+    GID: URY.12_2
+    admin_name: Río Negro
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.12.1_2_Adm2:
+    GID: URY.12.1_2
+    admin_name: Young
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.12.2_2_Adm2:
+    GID: URY.12.2_2
+    admin_name: Nuevo Berlín
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.12.3_2_Adm2:
+    GID: URY.12.3_2
+    admin_name: San Javier
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.12.4_2_Adm2:
+    GID: URY.12.4_2
+    admin_name: Young
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.13_2_Adm1:
+    GID: URY.13_2
+    admin_name: Rivera
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.13.1_2_Adm2:
+    GID: URY.13.1_2
+    admin_name: Minas De Corrales
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.13.2_2_Adm2:
+    GID: URY.13.2_2
+    admin_name: Minas de Corrales
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.13.3_2_Adm2:
+    GID: URY.13.3_2
+    admin_name: Tranqueras
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.13.4_2_Adm2:
+    GID: URY.13.4_2
+    admin_name: Vichadero
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.14_2_Adm1:
+    GID: URY.14_2
+    admin_name: Rocha
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.14.1_2_Adm2:
+    GID: URY.14.1_2
+    admin_name: Castillos
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.14.2_2_Adm2:
+    GID: URY.14.2_2
+    admin_name: Castillos
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.14.3_2_Adm2:
+    GID: URY.14.3_2
+    admin_name: Chuy
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.14.4_2_Adm2:
+    GID: URY.14.4_2
+    admin_name: La Paloma
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.14.5_2_Adm2:
+    GID: URY.14.5_2
+    admin_name: Lascano
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.15_2_Adm1:
+    GID: URY.15_2
+    admin_name: Salto
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.15.1_2_Adm2:
+    GID: URY.15.1_2
+    admin_name: Rincon De Valentin
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.15.2_2_Adm2:
+    GID: URY.15.2_2
+    admin_name: Belén
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.15.3_2_Adm2:
+    GID: URY.15.3_2
+    admin_name: Colonia Lavalleja
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.15.4_2_Adm2:
+    GID: URY.15.4_2
+    admin_name: Mataojo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.15.5_2_Adm2:
+    GID: URY.15.5_2
+    admin_name: San Antonio
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.15.6_2_Adm2:
+    GID: URY.15.6_2
+    admin_name: Valentín
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.15.7_2_Adm2:
+    GID: URY.15.7_2
+    admin_name: Villa Constitución
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.16_2_Adm1:
+    GID: URY.16_2
+    admin_name: San José
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.16.1_2_Adm2:
+    GID: URY.16.1_2
+    admin_name: Rodriguez
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.16.2_2_Adm2:
+    GID: URY.16.2_2
+    admin_name: Ciudad del Plata
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.16.3_2_Adm2:
+    GID: URY.16.3_2
+    admin_name: Ecilda Paullier
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.16.4_2_Adm2:
+    GID: URY.16.4_2
+    admin_name: Libertad
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.16.5_2_Adm2:
+    GID: URY.16.5_2
+    admin_name: Rodríguez
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.17_2_Adm1:
+    GID: URY.17_2
+    admin_name: Soriano
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.17.1_2_Adm2:
+    GID: URY.17.1_2
+    admin_name: Palmitas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.17.2_2_Adm2:
+    GID: URY.17.2_2
+    admin_name: Cardona
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.17.3_2_Adm2:
+    GID: URY.17.3_2
+    admin_name: Dolores
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.17.4_2_Adm2:
+    GID: URY.17.4_2
+    admin_name: José Enrique Rodó
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.17.5_2_Adm2:
+    GID: URY.17.5_2
+    admin_name: Palmitas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.18_2_Adm1:
+    GID: URY.18_2
+    admin_name: Tacuarembó
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.18.1_2_Adm2:
+    GID: URY.18.1_2
+    admin_name: Ansina
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.18.2_2_Adm2:
+    GID: URY.18.2_2
+    admin_name: Ansina
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.18.3_2_Adm2:
+    GID: URY.18.3_2
+    admin_name: Paso de los Toros
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.18.4_2_Adm2:
+    GID: URY.18.4_2
+    admin_name: San Gregorio de Polanco
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.19_2_Adm1:
+    GID: URY.19_2
+    admin_name: Treinta y Tres
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.19.1_2_Adm2:
+    GID: URY.19.1_2
+    admin_name: Municipio de Vergara
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.19.2_2_Adm2:
+    GID: URY.19.2_2
+    admin_name: Cerro Chato
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.19.3_2_Adm2:
+    GID: URY.19.3_2
+    admin_name: Enrique Martínez
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.19.4_2_Adm2:
+    GID: URY.19.4_2
+    admin_name: Rincón
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.19.5_2_Adm2:
+    GID: URY.19.5_2
+    admin_name: Santa Clara de Olimar
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.19.6_2_Adm2:
+    GID: URY.19.6_2
+    admin_name: Vergara
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.19.7_2_Adm2:
+    GID: URY.19.7_2
+    admin_name: Villa Sara
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2_2_Adm1:
+    GID: URY.2_2
+    admin_name: Canelones
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.2.1_2_Adm2:
+    GID: URY.2.1_2
+    admin_name: 18 de Mayo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.10_2_Adm2:
+    GID: URY.2.10_2
+    admin_name: Las Piedras
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.11_2_Adm2:
+    GID: URY.2.11_2
+    admin_name: Los Cerrillos
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.12_2_Adm2:
+    GID: URY.2.12_2
+    admin_name: Migues
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.13_2_Adm2:
+    GID: URY.2.13_2
+    admin_name: Montes
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.14_2_Adm2:
+    GID: URY.2.14_2
+    admin_name: Colonia Nicolich
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.15_2_Adm2:
+    GID: URY.2.15_2
+    admin_name: Pando
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.16_2_Adm2:
+    GID: URY.2.16_2
+    admin_name: Parque del Plata
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.17_2_Adm2:
+    GID: URY.2.17_2
+    admin_name: Paso Carrasco
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.18_2_Adm2:
+    GID: URY.2.18_2
+    admin_name: Progreso
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.19_2_Adm2:
+    GID: URY.2.19_2
+    admin_name: Salinas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.2_2_Adm2:
+    GID: URY.2.2_2
+    admin_name: Aguas Corrientes
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.20_2_Adm2:
+    GID: URY.2.20_2
+    admin_name: San Antonio
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.21_2_Adm2:
+    GID: URY.2.21_2
+    admin_name: San Bautista
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.22_2_Adm2:
+    GID: URY.2.22_2
+    admin_name: San Jacinto
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.23_2_Adm2:
+    GID: URY.2.23_2
+    admin_name: San Ramón
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.24_2_Adm2:
+    GID: URY.2.24_2
+    admin_name: Santa Lucía
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.25_2_Adm2:
+    GID: URY.2.25_2
+    admin_name: Santa Rosa
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.26_2_Adm2:
+    GID: URY.2.26_2
+    admin_name: Sauce
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.27_2_Adm2:
+    GID: URY.2.27_2
+    admin_name: Soca
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.28_2_Adm2:
+    GID: URY.2.28_2
+    admin_name: Suárez
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.29_2_Adm2:
+    GID: URY.2.29_2
+    admin_name: Tala
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.3_2_Adm2:
+    GID: URY.2.3_2
+    admin_name: Atlántida
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.30_2_Adm2:
+    GID: URY.2.30_2
+    admin_name: Toledo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.4_2_Adm2:
+    GID: URY.2.4_2
+    admin_name: Barros Blancos
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.5_2_Adm2:
+    GID: URY.2.5_2
+    admin_name: Canelones
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.6_2_Adm2:
+    GID: URY.2.6_2
+    admin_name: Ciudad de la Costa
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.7_2_Adm2:
+    GID: URY.2.7_2
+    admin_name: Empalme Olmos
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.8_2_Adm2:
+    GID: URY.2.8_2
+    admin_name: La Floresta
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.2.9_2_Adm2:
+    GID: URY.2.9_2
+    admin_name: La Paz
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3_2_Adm1:
+    GID: URY.3_2
+    admin_name: Cerro Largo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.3.1_2_Adm2:
+    GID: URY.3.1_2
+    admin_name: Arbolito
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.10_2_Adm2:
+    GID: URY.3.10_2
+    admin_name: Las Cañas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.11_2_Adm2:
+    GID: URY.3.11_2
+    admin_name: Plácido Rosas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.12_2_Adm2:
+    GID: URY.3.12_2
+    admin_name: Quebracho
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.13_2_Adm2:
+    GID: URY.3.13_2
+    admin_name: Ramón Trigo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.14_2_Adm2:
+    GID: URY.3.14_2
+    admin_name: Río Branco
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.15_2_Adm2:
+    GID: URY.3.15_2
+    admin_name: Tres Islas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.16_2_Adm2:
+    GID: URY.3.16_2
+    admin_name: Tupambaé
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.2_2_Adm2:
+    GID: URY.3.2_2
+    admin_name: Aceguá
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.3_2_Adm2:
+    GID: URY.3.3_2
+    admin_name: Arbolito
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.4_2_Adm2:
+    GID: URY.3.4_2
+    admin_name: Arévalo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.5_2_Adm2:
+    GID: URY.3.5_2
+    admin_name: Bañado de Medina
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.6_2_Adm2:
+    GID: URY.3.6_2
+    admin_name: Centurión
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.7_2_Adm2:
+    GID: URY.3.7_2
+    admin_name: Cerro de las Cuentas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.8_2_Adm2:
+    GID: URY.3.8_2
+    admin_name: Fraile Muerto
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.3.9_2_Adm2:
+    GID: URY.3.9_2
+    admin_name: Isidoro Noblía
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4_2_Adm1:
+    GID: URY.4_2
+    admin_name: Colonia
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.4.1_2_Adm2:
+    GID: URY.4.1_2
+    admin_name: Tarariras
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.10_2_Adm2:
+    GID: URY.4.10_2
+    admin_name: Ombúes de Lavalle
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.11_2_Adm2:
+    GID: URY.4.11_2
+    admin_name: Rosario
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.12_2_Adm2:
+    GID: URY.4.12_2
+    admin_name: Tarariras
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.2_2_Adm2:
+    GID: URY.4.2_2
+    admin_name: Carmelo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.3_2_Adm2:
+    GID: URY.4.3_2
+    admin_name: Colonia Valdense
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.4_2_Adm2:
+    GID: URY.4.4_2
+    admin_name: Florencio Sánchez
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.5_2_Adm2:
+    GID: URY.4.5_2
+    admin_name: Juan L. Lacaze
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.6_2_Adm2:
+    GID: URY.4.6_2
+    admin_name: La Paz
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.7_2_Adm2:
+    GID: URY.4.7_2
+    admin_name: Miguelete
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.8_2_Adm2:
+    GID: URY.4.8_2
+    admin_name: Nueva Helvecia
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.4.9_2_Adm2:
+    GID: URY.4.9_2
+    admin_name: Nueva Palmira
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.5_2_Adm1:
+    GID: URY.5_2
+    admin_name: Durazno
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.5.1_2_Adm2:
+    GID: URY.5.1_2
+    admin_name: Villa Carmen
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.5.2_2_Adm2:
+    GID: URY.5.2_2
+    admin_name: Sarandí del Yí
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.5.3_2_Adm2:
+    GID: URY.5.3_2
+    admin_name: Villa del Carmen
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.6_2_Adm1:
+    GID: URY.6_2
+    admin_name: Flores
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.6.1_2_Adm2:
+    GID: URY.6.1_2
+    admin_name: Cardona
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.6.2_2_Adm2:
+    GID: URY.6.2_2
+    admin_name: Ismael Cortinas
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.7_2_Adm1:
+    GID: URY.7_2
+    admin_name: Florida
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.7.0_2_Adm2:
+    GID: URY.7.0_2
+    admin_name: Fray Marcos
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.7.1_2_Adm2:
+    GID: URY.7.1_2
+    admin_name: Casupá
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.7.2_2_Adm2:
+    GID: URY.7.2_2
+    admin_name: Fray Marcos
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.7.3_2_Adm2:
+    GID: URY.7.3_2
+    admin_name: Sarandí Grande
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.8_2_Adm1:
+    GID: URY.8_2
+    admin_name: Lavalleja
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.8.1_2_Adm2:
+    GID: URY.8.1_2
+    admin_name: Aiguá
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.8.2_2_Adm2:
+    GID: URY.8.2_2
+    admin_name: José Batlle y Ordóñez
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.8.3_2_Adm2:
+    GID: URY.8.3_2
+    admin_name: José Pedro Varela
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.8.4_2_Adm2:
+    GID: URY.8.4_2
+    admin_name: Mariscala
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.8.5_2_Adm2:
+    GID: URY.8.5_2
+    admin_name: Solís de Mataojo
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.9_2_Adm1:
+    GID: URY.9_2
+    admin_name: Maldonado
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm1
+  URY.9.1_2_Adm2:
+    GID: URY.9.1_2
+    admin_name: Aiguá
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.9.2_2_Adm2:
+    GID: URY.9.2_2
+    admin_name: Garzon
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.9.3_2_Adm2:
+    GID: URY.9.3_2
+    admin_name: Maldonado
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.9.4_2_Adm2:
+    GID: URY.9.4_2
+    admin_name: Pan de Azúcar
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.9.5_2_Adm2:
+    GID: URY.9.5_2
+    admin_name: Piriápolis
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.9.6_2_Adm2:
+    GID: URY.9.6_2
+    admin_name: Punta del Este
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.9.7_2_Adm2:
+    GID: URY.9.7_2
+    admin_name: San Carlos
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2
+  URY.9.8_2_Adm2:
+    GID: URY.9.8_2
+    admin_name: Solís Grande
+    iso3c: URY
+    country_name: Uruguay
+    admin_level: Adm2

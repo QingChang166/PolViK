@@ -1,0 +1,6 @@
+relations:
+    - (GRL.0_Adm0, GRL.1_1_Adm1)
+    - (GRL.0_Adm0, GRL.2_1_Adm1)
+    - (GRL.0_Adm0, GRL.3_1_Adm1)
+    - (GRL.0_Adm0, GRL.4_1_Adm1)
+    - (GRL.0_Adm0, GRL.5_1_Adm1)

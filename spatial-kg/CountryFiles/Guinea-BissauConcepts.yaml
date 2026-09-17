@@ -1,0 +1,283 @@
+concepts:
+  GNB.0_Adm0:
+    GID: GNB
+    admin_name: Guinea-Bissau
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm0
+  GNB.1_1_Adm1:
+    GID: GNB.1_1
+    admin_name: Bafatá
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.1.1_1_Adm2:
+    GID: GNB.1.1_1
+    admin_name: Bafata
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.1.2_1_Adm2:
+    GID: GNB.1.2_1
+    admin_name: Bambadinca
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.1.3_1_Adm2:
+    GID: GNB.1.3_1
+    admin_name: Contuboel
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.1.4_1_Adm2:
+    GID: GNB.1.4_1
+    admin_name: Galomaro
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.1.5_1_Adm2:
+    GID: GNB.1.5_1
+    admin_name: Gamamundo
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.1.6_1_Adm2:
+    GID: GNB.1.6_1
+    admin_name: Xitole
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.2_1_Adm1:
+    GID: GNB.2_1
+    admin_name: Biombo
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.2.1_1_Adm2:
+    GID: GNB.2.1_1
+    admin_name: Prabis
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.2.2_1_Adm2:
+    GID: GNB.2.2_1
+    admin_name: Quinhamel
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.2.3_1_Adm2:
+    GID: GNB.2.3_1
+    admin_name: Safim
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.3_1_Adm1:
+    GID: GNB.3_1
+    admin_name: Bissau
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.3.1_1_Adm2:
+    GID: GNB.3.1_1
+    admin_name: Bissau
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.4_1_Adm1:
+    GID: GNB.4_1
+    admin_name: Bolama
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.4.1_1_Adm2:
+    GID: GNB.4.1_1
+    admin_name: Bolama
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.4.2_1_Adm2:
+    GID: GNB.4.2_1
+    admin_name: Bubaque
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.4.3_1_Adm2:
+    GID: GNB.4.3_1
+    admin_name: Caravela
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.5_1_Adm1:
+    GID: GNB.5_1
+    admin_name: Cacheu
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.5.1_1_Adm2:
+    GID: GNB.5.1_1
+    admin_name: Bigene
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.5.2_1_Adm2:
+    GID: GNB.5.2_1
+    admin_name: Bula
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.5.3_1_Adm2:
+    GID: GNB.5.3_1
+    admin_name: Cacheu
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.5.4_1_Adm2:
+    GID: GNB.5.4_1
+    admin_name: Caio
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.5.5_1_Adm2:
+    GID: GNB.5.5_1
+    admin_name: Canghungo
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.5.6_1_Adm2:
+    GID: GNB.5.6_1
+    admin_name: Sao Domingos
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.6_1_Adm1:
+    GID: GNB.6_1
+    admin_name: Gabú
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.6.1_1_Adm2:
+    GID: GNB.6.1_1
+    admin_name: Boe
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.6.2_1_Adm2:
+    GID: GNB.6.2_1
+    admin_name: Gabu
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.6.3_1_Adm2:
+    GID: GNB.6.3_1
+    admin_name: Piche
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.6.4_1_Adm2:
+    GID: GNB.6.4_1
+    admin_name: Pirada
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.6.5_1_Adm2:
+    GID: GNB.6.5_1
+    admin_name: Sonaco
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.7_1_Adm1:
+    GID: GNB.7_1
+    admin_name: Oio
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.7.1_1_Adm2:
+    GID: GNB.7.1_1
+    admin_name: Bissora
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.7.2_1_Adm2:
+    GID: GNB.7.2_1
+    admin_name: Farim
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.7.3_1_Adm2:
+    GID: GNB.7.3_1
+    admin_name: Mansaba
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.7.4_1_Adm2:
+    GID: GNB.7.4_1
+    admin_name: Mansoa
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.7.5_1_Adm2:
+    GID: GNB.7.5_1
+    admin_name: Nhacra
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.8_1_Adm1:
+    GID: GNB.8_1
+    admin_name: Quinara
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.8.1_1_Adm2:
+    GID: GNB.8.1_1
+    admin_name: Buba
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.8.2_1_Adm2:
+    GID: GNB.8.2_1
+    admin_name: Empada
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.8.3_1_Adm2:
+    GID: GNB.8.3_1
+    admin_name: Fulacunda
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.8.4_1_Adm2:
+    GID: GNB.8.4_1
+    admin_name: Tite
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.9_1_Adm1:
+    GID: GNB.9_1
+    admin_name: Tombali
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm1
+  GNB.9.1_1_Adm2:
+    GID: GNB.9.1_1
+    admin_name: Bedanda
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.9.2_1_Adm2:
+    GID: GNB.9.2_1
+    admin_name: Cacine
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.9.3_1_Adm2:
+    GID: GNB.9.3_1
+    admin_name: Catio
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2
+  GNB.9.4_1_Adm2:
+    GID: GNB.9.4_1
+    admin_name: Quebo
+    iso3c: GNB
+    country_name: Guinea-Bissau
+    admin_level: Adm2

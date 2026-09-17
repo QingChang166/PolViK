@@ -1,0 +1,2101 @@
+concepts:
+  MNG.0_Adm0:
+    GID: MNG
+    admin_name: Mongolia
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm0
+  MNG.1_1_Adm1:
+    GID: MNG.1_1
+    admin_name: Arhangay
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.1.1_1_Adm2:
+    GID: MNG.1.1_1
+    admin_name: Battsengel
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.10_1_Adm2:
+    GID: MNG.1.10_1
+    admin_name: Khashaat
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.11_1_Adm2:
+    GID: MNG.1.11_1
+    admin_name: Khotont
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.12_1_Adm2:
+    GID: MNG.1.12_1
+    admin_name: Ögii nuur
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.13_1_Adm2:
+    GID: MNG.1.13_1
+    admin_name: Ölziit
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.14_1_Adm2:
+    GID: MNG.1.14_1
+    admin_name: Öndör-Ulaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.15_1_Adm2:
+    GID: MNG.1.15_1
+    admin_name: Tariat
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.16_1_Adm2:
+    GID: MNG.1.16_1
+    admin_name: Tsakhir
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.17_1_Adm2:
+    GID: MNG.1.17_1
+    admin_name: Tsenkher
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.18_1_Adm2:
+    GID: MNG.1.18_1
+    admin_name: Tsetserleg
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.19_1_Adm2:
+    GID: MNG.1.19_1
+    admin_name: Tüvshrüülekh
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.2_1_Adm2:
+    GID: MNG.1.2_1
+    admin_name: Bulgan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.3_1_Adm2:
+    GID: MNG.1.3_1
+    admin_name: Chuluut
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.4_1_Adm2:
+    GID: MNG.1.4_1
+    admin_name: Erdenebulgan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.5_1_Adm2:
+    GID: MNG.1.5_1
+    admin_name: Erdenemandal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.6_1_Adm2:
+    GID: MNG.1.6_1
+    admin_name: Ikh-Tamir
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.7_1_Adm2:
+    GID: MNG.1.7_1
+    admin_name: Jargalant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.8_1_Adm2:
+    GID: MNG.1.8_1
+    admin_name: Khairkhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.1.9_1_Adm2:
+    GID: MNG.1.9_1
+    admin_name: Khangai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10_1_Adm1:
+    GID: MNG.10_1
+    admin_name: Govi-Altay
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.10.1_1_Adm2:
+    GID: MNG.10.1_1
+    admin_name: Altai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.10_1_Adm2:
+    GID: MNG.10.10_1
+    admin_name: Khaliun
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.11_1_Adm2:
+    GID: MNG.10.11_1
+    admin_name: Khökh morit
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.12_1_Adm2:
+    GID: MNG.10.12_1
+    admin_name: Sharga
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.13_1_Adm2:
+    GID: MNG.10.13_1
+    admin_name: Taishir
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.14_1_Adm2:
+    GID: MNG.10.14_1
+    admin_name: Tögrög
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.15_1_Adm2:
+    GID: MNG.10.15_1
+    admin_name: Tonkhil
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.16_1_Adm2:
+    GID: MNG.10.16_1
+    admin_name: Tseel
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.17_1_Adm2:
+    GID: MNG.10.17_1
+    admin_name: Tsogt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.18_1_Adm2:
+    GID: MNG.10.18_1
+    admin_name: 'Yesönbulag'
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.2_1_Adm2:
+    GID: MNG.10.2_1
+    admin_name: Bayan-Uul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.3_1_Adm2:
+    GID: MNG.10.3_1
+    admin_name: Biger
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.4_1_Adm2:
+    GID: MNG.10.4_1
+    admin_name: Bugat
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.5_1_Adm2:
+    GID: MNG.10.5_1
+    admin_name: Chandmani
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.6_1_Adm2:
+    GID: MNG.10.6_1
+    admin_name: Darvi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.7_1_Adm2:
+    GID: MNG.10.7_1
+    admin_name: Delger
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.8_1_Adm2:
+    GID: MNG.10.8_1
+    admin_name: Erdene
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.10.9_1_Adm2:
+    GID: MNG.10.9_1
+    admin_name: Jargalan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.11_1_Adm1:
+    GID: MNG.11_1
+    admin_name: Govisümber
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.11.1_1_Adm2:
+    GID: MNG.11.1_1
+    admin_name: Bayantal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.11.2_1_Adm2:
+    GID: MNG.11.2_1
+    admin_name: Shiveegovi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.11.3_1_Adm2:
+    GID: MNG.11.3_1
+    admin_name: Sümber
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12_1_Adm1:
+    GID: MNG.12_1
+    admin_name: Hentiy
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.12.1_1_Adm2:
+    GID: MNG.12.1_1
+    admin_name: Batnorov
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.10_1_Adm2:
+    GID: MNG.12.10_1
+    admin_name: Delgerkhaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.11_1_Adm2:
+    GID: MNG.12.11_1
+    admin_name: Galshar
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.12_1_Adm2:
+    GID: MNG.12.12_1
+    admin_name: Jargaltkhaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.13_1_Adm2:
+    GID: MNG.12.13_1
+    admin_name: Kherlen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.14_1_Adm2:
+    GID: MNG.12.14_1
+    admin_name: Mörön
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.15_1_Adm2:
+    GID: MNG.12.15_1
+    admin_name: Norovlin
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.16_1_Adm2:
+    GID: MNG.12.16_1
+    admin_name: Ömnödelger
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.17_1_Adm2:
+    GID: MNG.12.17_1
+    admin_name: Tsenkhermandal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.2_1_Adm2:
+    GID: MNG.12.2_1
+    admin_name: Batshireet
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.3_1_Adm2:
+    GID: MNG.12.3_1
+    admin_name: Bayan-Adarga
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.4_1_Adm2:
+    GID: MNG.12.4_1
+    admin_name: Bayan-Ovoo
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.5_1_Adm2:
+    GID: MNG.12.5_1
+    admin_name: Bayankhutag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.6_1_Adm2:
+    GID: MNG.12.6_1
+    admin_name: Bayanmönkh
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.7_1_Adm2:
+    GID: MNG.12.7_1
+    admin_name: Binder
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.8_1_Adm2:
+    GID: MNG.12.8_1
+    admin_name: Dadal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.12.9_1_Adm2:
+    GID: MNG.12.9_1
+    admin_name: Darkhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13_1_Adm1:
+    GID: MNG.13_1
+    admin_name: Hovd
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.13.1_1_Adm2:
+    GID: MNG.13.1_1
+    admin_name: Altai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.10_1_Adm2:
+    GID: MNG.13.10_1
+    admin_name: Khovd
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.11_1_Adm2:
+    GID: MNG.13.11_1
+    admin_name: Mankhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.12_1_Adm2:
+    GID: MNG.13.12_1
+    admin_name: Mönkhkhairkhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.13_1_Adm2:
+    GID: MNG.13.13_1
+    admin_name: Möst
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.14_1_Adm2:
+    GID: MNG.13.14_1
+    admin_name: Myangad
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.15_1_Adm2:
+    GID: MNG.13.15_1
+    admin_name: Tsetseg
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.16_1_Adm2:
+    GID: MNG.13.16_1
+    admin_name: Üyench
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.17_1_Adm2:
+    GID: MNG.13.17_1
+    admin_name: Zereg
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.2_1_Adm2:
+    GID: MNG.13.2_1
+    admin_name: Bulgan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.3_1_Adm2:
+    GID: MNG.13.3_1
+    admin_name: Buyant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.4_1_Adm2:
+    GID: MNG.13.4_1
+    admin_name: Chandmani
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.5_1_Adm2:
+    GID: MNG.13.5_1
+    admin_name: Darvi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.6_1_Adm2:
+    GID: MNG.13.6_1
+    admin_name: Dörgön
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.7_1_Adm2:
+    GID: MNG.13.7_1
+    admin_name: Duut
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.8_1_Adm2:
+    GID: MNG.13.8_1
+    admin_name: Erdenebüren
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.13.9_1_Adm2:
+    GID: MNG.13.9_1
+    admin_name: Jargalant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14_1_Adm1:
+    GID: MNG.14_1
+    admin_name: Hövsgöl
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.14.1_1_Adm2:
+    GID: MNG.14.1_1
+    admin_name: Alag-Erdene
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.10_1_Adm2:
+    GID: MNG.14.10_1
+    admin_name: Khankh
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.11_1_Adm2:
+    GID: MNG.14.11_1
+    admin_name: Khatgal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.12_1_Adm2:
+    GID: MNG.14.12_1
+    admin_name: Mörön
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.13_1_Adm2:
+    GID: MNG.14.13_1
+    admin_name: Rashaant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.14_1_Adm2:
+    GID: MNG.14.14_1
+    admin_name: Renchinlkhümbe
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.15_1_Adm2:
+    GID: MNG.14.15_1
+    admin_name: Shine-Ider
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.16_1_Adm2:
+    GID: MNG.14.16_1
+    admin_name: Tarialan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.17_1_Adm2:
+    GID: MNG.14.17_1
+    admin_name: Tömörbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.18_1_Adm2:
+    GID: MNG.14.18_1
+    admin_name: Tosontsengel
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.19_1_Adm2:
+    GID: MNG.14.19_1
+    admin_name: Tsagaan-Uul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.2_1_Adm2:
+    GID: MNG.14.2_1
+    admin_name: Arbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.20_1_Adm2:
+    GID: MNG.14.20_1
+    admin_name: Tsagaan-Üür
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.21_1_Adm2:
+    GID: MNG.14.21_1
+    admin_name: Tsagaannuur
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.22_1_Adm2:
+    GID: MNG.14.22_1
+    admin_name: Tsetserleg
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.23_1_Adm2:
+    GID: MNG.14.23_1
+    admin_name: Tünel
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.24_1_Adm2:
+    GID: MNG.14.24_1
+    admin_name: Ulaan-Uul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.3_1_Adm2:
+    GID: MNG.14.3_1
+    admin_name: Bayanzürkh
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.4_1_Adm2:
+    GID: MNG.14.4_1
+    admin_name: Bürentogtokh
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.5_1_Adm2:
+    GID: MNG.14.5_1
+    admin_name: Chandmani-Öndör
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.6_1_Adm2:
+    GID: MNG.14.6_1
+    admin_name: Erdenebulgan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.7_1_Adm2:
+    GID: MNG.14.7_1
+    admin_name: Galt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.8_1_Adm2:
+    GID: MNG.14.8_1
+    admin_name: Ikh-Uul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.14.9_1_Adm2:
+    GID: MNG.14.9_1
+    admin_name: Jargalant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15_1_Adm1:
+    GID: MNG.15_1
+    admin_name: Ömnögovi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.15.1_1_Adm2:
+    GID: MNG.15.1_1
+    admin_name: Bayan-Ovoo
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.10_1_Adm2:
+    GID: MNG.15.10_1
+    admin_name: Manlai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.11_1_Adm2:
+    GID: MNG.15.11_1
+    admin_name: Nomgon
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.12_1_Adm2:
+    GID: MNG.15.12_1
+    admin_name: Noyon
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.13_1_Adm2:
+    GID: MNG.15.13_1
+    admin_name: Sevrei
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.14_1_Adm2:
+    GID: MNG.15.14_1
+    admin_name: Tsogt-Ovoo
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.15_1_Adm2:
+    GID: MNG.15.15_1
+    admin_name: Tsogttsetsii
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.2_1_Adm2:
+    GID: MNG.15.2_1
+    admin_name: Bayandalai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.3_1_Adm2:
+    GID: MNG.15.3_1
+    admin_name: Bulgan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.4_1_Adm2:
+    GID: MNG.15.4_1
+    admin_name: Dalanzadgad
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.5_1_Adm2:
+    GID: MNG.15.5_1
+    admin_name: Gurvan tes
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.6_1_Adm2:
+    GID: MNG.15.6_1
+    admin_name: Khan khongor
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.7_1_Adm2:
+    GID: MNG.15.7_1
+    admin_name: Khanbogd
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.8_1_Adm2:
+    GID: MNG.15.8_1
+    admin_name: Khürmen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.15.9_1_Adm2:
+    GID: MNG.15.9_1
+    admin_name: Mandal-Ovoo
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.16_1_Adm1:
+    GID: MNG.16_1
+    admin_name: Orhon
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.16.1_1_Adm2:
+    GID: MNG.16.1_1
+    admin_name: Bayan-Öndör
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.16.2_1_Adm2:
+    GID: MNG.16.2_1
+    admin_name: Jargalant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17_1_Adm1:
+    GID: MNG.17_1
+    admin_name: Övörhangay
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.17.1_1_Adm2:
+    GID: MNG.17.1_1
+    admin_name: Arvaikheer
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.10_1_Adm2:
+    GID: MNG.17.10_1
+    admin_name: Kharkhorin
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.11_1_Adm2:
+    GID: MNG.17.11_1
+    admin_name: Khujirt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.12_1_Adm2:
+    GID: MNG.17.12_1
+    admin_name: Nariinteel
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.13_1_Adm2:
+    GID: MNG.17.13_1
+    admin_name: Ölziit
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.14_1_Adm2:
+    GID: MNG.17.14_1
+    admin_name: Sant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.15_1_Adm2:
+    GID: MNG.17.15_1
+    admin_name: Taragt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.16_1_Adm2:
+    GID: MNG.17.16_1
+    admin_name: Tögrög
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.17_1_Adm2:
+    GID: MNG.17.17_1
+    admin_name: Uyanga
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.18_1_Adm2:
+    GID: MNG.17.18_1
+    admin_name: 'Yesönzüil'
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.19_1_Adm2:
+    GID: MNG.17.19_1
+    admin_name: Züünbayan-Ulaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.2_1_Adm2:
+    GID: MNG.17.2_1
+    admin_name: Baruun Bayan-Ulaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.3_1_Adm2:
+    GID: MNG.17.3_1
+    admin_name: Bat-Ölzii
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.4_1_Adm2:
+    GID: MNG.17.4_1
+    admin_name: Bayan-Öndör
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.5_1_Adm2:
+    GID: MNG.17.5_1
+    admin_name: Bayangol
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.6_1_Adm2:
+    GID: MNG.17.6_1
+    admin_name: Bogd
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.7_1_Adm2:
+    GID: MNG.17.7_1
+    admin_name: Bürd
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.8_1_Adm2:
+    GID: MNG.17.8_1
+    admin_name: Guchin-Us
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.17.9_1_Adm2:
+    GID: MNG.17.9_1
+    admin_name: Khairkhandulaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18_1_Adm1:
+    GID: MNG.18_1
+    admin_name: Selenge
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.18.1_1_Adm2:
+    GID: MNG.18.1_1
+    admin_name: Altanbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.10_1_Adm2:
+    GID: MNG.18.10_1
+    admin_name: Sant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.11_1_Adm2:
+    GID: MNG.18.11_1
+    admin_name: Saykhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.12_1_Adm2:
+    GID: MNG.18.12_1
+    admin_name: Shaamar
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.13_1_Adm2:
+    GID: MNG.18.13_1
+    admin_name: Tsagaannuur
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.14_1_Adm2:
+    GID: MNG.18.14_1
+    admin_name: Tüshig
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.15_1_Adm2:
+    GID: MNG.18.15_1
+    admin_name: Yeröö
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.16_1_Adm2:
+    GID: MNG.18.16_1
+    admin_name: Züünbüren
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.2_1_Adm2:
+    GID: MNG.18.2_1
+    admin_name: Baruunbüren
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.3_1_Adm2:
+    GID: MNG.18.3_1
+    admin_name: Bayangol
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.4_1_Adm2:
+    GID: MNG.18.4_1
+    admin_name: Javkhlant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.5_1_Adm2:
+    GID: MNG.18.5_1
+    admin_name: Khüder
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.6_1_Adm2:
+    GID: MNG.18.6_1
+    admin_name: Khushaat
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.7_1_Adm2:
+    GID: MNG.18.7_1
+    admin_name: Mandal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.8_1_Adm2:
+    GID: MNG.18.8_1
+    admin_name: Orkhon
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.18.9_1_Adm2:
+    GID: MNG.18.9_1
+    admin_name: Orkhontuul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19_1_Adm1:
+    GID: MNG.19_1
+    admin_name: Sühbaatar
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.19.1_1_Adm2:
+    GID: MNG.19.1_1
+    admin_name: Airag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.10_1_Adm2:
+    GID: MNG.19.10_1
+    admin_name: Tümentsogt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.11_1_Adm2:
+    GID: MNG.19.11_1
+    admin_name: Tüvshinshiree
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.12_1_Adm2:
+    GID: MNG.19.12_1
+    admin_name: Uulbayan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.2_1_Adm2:
+    GID: MNG.19.2_1
+    admin_name: Asgat
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.3_1_Adm2:
+    GID: MNG.19.3_1
+    admin_name: Bayandelger
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.4_1_Adm2:
+    GID: MNG.19.4_1
+    admin_name: Dariganga
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.5_1_Adm2:
+    GID: MNG.19.5_1
+    admin_name: Erdenetsagaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.6_1_Adm2:
+    GID: MNG.19.6_1
+    admin_name: Khalzan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.7_1_Adm2:
+    GID: MNG.19.7_1
+    admin_name: Naran
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.8_1_Adm2:
+    GID: MNG.19.8_1
+    admin_name: Ongon
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.19.9_1_Adm2:
+    GID: MNG.19.9_1
+    admin_name: Sükhbaatar
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2_1_Adm1:
+    GID: MNG.2_1
+    admin_name: Bayan-Ölgiy
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.2.1_1_Adm2:
+    GID: MNG.2.1_1
+    admin_name: Altai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.10_1_Adm2:
+    GID: MNG.2.10_1
+    admin_name: Sagsai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.11_1_Adm2:
+    GID: MNG.2.11_1
+    admin_name: Tolbo
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.12_1_Adm2:
+    GID: MNG.2.12_1
+    admin_name: Tsagaannuur
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.13_1_Adm2:
+    GID: MNG.2.13_1
+    admin_name: Tsengel
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.14_1_Adm2:
+    GID: MNG.2.14_1
+    admin_name: Ulaankhus
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.2_1_Adm2:
+    GID: MNG.2.2_1
+    admin_name: Altantsögts
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.3_1_Adm2:
+    GID: MNG.2.3_1
+    admin_name: Bayannuur
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.4_1_Adm2:
+    GID: MNG.2.4_1
+    admin_name: Bugat
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.5_1_Adm2:
+    GID: MNG.2.5_1
+    admin_name: Bulgan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.6_1_Adm2:
+    GID: MNG.2.6_1
+    admin_name: Buyant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.7_1_Adm2:
+    GID: MNG.2.7_1
+    admin_name: Delüün
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.8_1_Adm2:
+    GID: MNG.2.8_1
+    admin_name: Nogoonnuur
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.2.9_1_Adm2:
+    GID: MNG.2.9_1
+    admin_name: Ölgii (city)
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20_1_Adm1:
+    GID: MNG.20_1
+    admin_name: Töv
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.20.1_1_Adm2:
+    GID: MNG.20.1_1
+    admin_name: Altanbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.10_1_Adm2:
+    GID: MNG.20.10_1
+    admin_name: Bayankhangai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.11_1_Adm2:
+    GID: MNG.20.11_1
+    admin_name: Bayantsagaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.12_1_Adm2:
+    GID: MNG.20.12_1
+    admin_name: Bayantsogt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.13_1_Adm2:
+    GID: MNG.20.13_1
+    admin_name: Bornuur
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.14_1_Adm2:
+    GID: MNG.20.14_1
+    admin_name: Büren
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.15_1_Adm2:
+    GID: MNG.20.15_1
+    admin_name: Delgerkhaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.16_1_Adm2:
+    GID: MNG.20.16_1
+    admin_name: Erdene
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.17_1_Adm2:
+    GID: MNG.20.17_1
+    admin_name: Erdenesant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.18_1_Adm2:
+    GID: MNG.20.18_1
+    admin_name: Jargalant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.19_1_Adm2:
+    GID: MNG.20.19_1
+    admin_name: Lün
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.2_1_Adm2:
+    GID: MNG.20.2_1
+    admin_name: Argalant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.20_1_Adm2:
+    GID: MNG.20.20_1
+    admin_name: Möngönmorit
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.21_1_Adm2:
+    GID: MNG.20.21_1
+    admin_name: Öndörshireet
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.22_1_Adm2:
+    GID: MNG.20.22_1
+    admin_name: Sergelen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.23_1_Adm2:
+    GID: MNG.20.23_1
+    admin_name: Sümber
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.24_1_Adm2:
+    GID: MNG.20.24_1
+    admin_name: Tseel
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.25_1_Adm2:
+    GID: MNG.20.25_1
+    admin_name: Ugtaal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.26_1_Adm2:
+    GID: MNG.20.26_1
+    admin_name: Zaamar
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.3_1_Adm2:
+    GID: MNG.20.3_1
+    admin_name: Arkhust
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.4_1_Adm2:
+    GID: MNG.20.4_1
+    admin_name: Batsümber
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.5_1_Adm2:
+    GID: MNG.20.5_1
+    admin_name: Bayan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.6_1_Adm2:
+    GID: MNG.20.6_1
+    admin_name: Bayan-Önjüül
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.7_1_Adm2:
+    GID: MNG.20.7_1
+    admin_name: Bayanchandmani
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.8_1_Adm2:
+    GID: MNG.20.8_1
+    admin_name: Bayandelger
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.20.9_1_Adm2:
+    GID: MNG.20.9_1
+    admin_name: Bayanjargalan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.21_1_Adm1:
+    GID: MNG.21_1
+    admin_name: Ulaanbaatar
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.21.1_1_Adm2:
+    GID: MNG.21.1_1
+    admin_name: Ulan Bator
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22_1_Adm1:
+    GID: MNG.22_1
+    admin_name: Uvs
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.22.1_1_Adm2:
+    GID: MNG.22.1_1
+    admin_name: Baruuntutuun
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.10_1_Adm2:
+    GID: MNG.22.10_1
+    admin_name: Öndörkhangai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.11_1_Adm2:
+    GID: MNG.22.11_1
+    admin_name: Sagil
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.12_1_Adm2:
+    GID: MNG.22.12_1
+    admin_name: Tarialan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.13_1_Adm2:
+    GID: MNG.22.13_1
+    admin_name: Tes
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.14_1_Adm2:
+    GID: MNG.22.14_1
+    admin_name: Tsagaanhairhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.15_1_Adm2:
+    GID: MNG.22.15_1
+    admin_name: Türgen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.16_1_Adm2:
+    GID: MNG.22.16_1
+    admin_name: Ulaangom
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.17_1_Adm2:
+    GID: MNG.22.17_1
+    admin_name: Zavkhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.18_1_Adm2:
+    GID: MNG.22.18_1
+    admin_name: Züüngovi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.19_1_Adm2:
+    GID: MNG.22.19_1
+    admin_name: Züünkhangai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.2_1_Adm2:
+    GID: MNG.22.2_1
+    admin_name: Bökhmörön
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.3_1_Adm2:
+    GID: MNG.22.3_1
+    admin_name: Davst
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.4_1_Adm2:
+    GID: MNG.22.4_1
+    admin_name: Khovd
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.5_1_Adm2:
+    GID: MNG.22.5_1
+    admin_name: Khyargas
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.6_1_Adm2:
+    GID: MNG.22.6_1
+    admin_name: Malchin
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.7_1_Adm2:
+    GID: MNG.22.7_1
+    admin_name: Naranbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.8_1_Adm2:
+    GID: MNG.22.8_1
+    admin_name: Ölgii
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.22.9_1_Adm2:
+    GID: MNG.22.9_1
+    admin_name: Ömnögovi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3_1_Adm1:
+    GID: MNG.3_1
+    admin_name: Bayanhongor
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.3.1_1_Adm2:
+    GID: MNG.3.1_1
+    admin_name: Baatsagaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.10_1_Adm2:
+    GID: MNG.3.10_1
+    admin_name: Bömbögör
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.11_1_Adm2:
+    GID: MNG.3.11_1
+    admin_name: Buutsagaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.12_1_Adm2:
+    GID: MNG.3.12_1
+    admin_name: Erdenetsogt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.13_1_Adm2:
+    GID: MNG.3.13_1
+    admin_name: Galuut
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.14_1_Adm2:
+    GID: MNG.3.14_1
+    admin_name: Gurvanbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.15_1_Adm2:
+    GID: MNG.3.15_1
+    admin_name: Jargalant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.16_1_Adm2:
+    GID: MNG.3.16_1
+    admin_name: Jinst
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.17_1_Adm2:
+    GID: MNG.3.17_1
+    admin_name: Khüreemaral
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.18_1_Adm2:
+    GID: MNG.3.18_1
+    admin_name: Ölziit
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.19_1_Adm2:
+    GID: MNG.3.19_1
+    admin_name: Shinejinst
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.2_1_Adm2:
+    GID: MNG.3.2_1
+    admin_name: Bayan-Öndör
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.20_1_Adm2:
+    GID: MNG.3.20_1
+    admin_name: Zag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.3_1_Adm2:
+    GID: MNG.3.3_1
+    admin_name: Bayan-Ovoo
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.4_1_Adm2:
+    GID: MNG.3.4_1
+    admin_name: Bayanbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.5_1_Adm2:
+    GID: MNG.3.5_1
+    admin_name: Bayangovi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.6_1_Adm2:
+    GID: MNG.3.6_1
+    admin_name: Bayankhongor
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.7_1_Adm2:
+    GID: MNG.3.7_1
+    admin_name: Bayanlig
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.8_1_Adm2:
+    GID: MNG.3.8_1
+    admin_name: Bayantsagaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.3.9_1_Adm2:
+    GID: MNG.3.9_1
+    admin_name: Bogd
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4_1_Adm1:
+    GID: MNG.4_1
+    admin_name: Bulgan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.4.1_1_Adm2:
+    GID: MNG.4.1_1
+    admin_name: Bayan-Agt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.10_1_Adm2:
+    GID: MNG.4.10_1
+    admin_name: Mogod
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.11_1_Adm2:
+    GID: MNG.4.11_1
+    admin_name: Orkhon
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.12_1_Adm2:
+    GID: MNG.4.12_1
+    admin_name: Rashaant
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.13_1_Adm2:
+    GID: MNG.4.13_1
+    admin_name: Saikhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.14_1_Adm2:
+    GID: MNG.4.14_1
+    admin_name: Selenge
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.15_1_Adm2:
+    GID: MNG.4.15_1
+    admin_name: Teshig
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.2_1_Adm2:
+    GID: MNG.4.2_1
+    admin_name: Bayannuur
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.3_1_Adm2:
+    GID: MNG.4.3_1
+    admin_name: Bugat
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.4_1_Adm2:
+    GID: MNG.4.4_1
+    admin_name: Büregkhangai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.5_1_Adm2:
+    GID: MNG.4.5_1
+    admin_name: Dashinchilen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.6_1_Adm2:
+    GID: MNG.4.6_1
+    admin_name: Gurvanbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.7_1_Adm2:
+    GID: MNG.4.7_1
+    admin_name: Khangal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.8_1_Adm2:
+    GID: MNG.4.8_1
+    admin_name: Khishig-Öndör
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.4.9_1_Adm2:
+    GID: MNG.4.9_1
+    admin_name: Khutag-Öndör
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.5_1_Adm1:
+    GID: MNG.5_1
+    admin_name: Darhan-Uul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.5.1_1_Adm2:
+    GID: MNG.5.1_1
+    admin_name: Darkhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.5.2_1_Adm2:
+    GID: MNG.5.2_1
+    admin_name: Khongor
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.5.3_1_Adm2:
+    GID: MNG.5.3_1
+    admin_name: Orkhon
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.5.4_1_Adm2:
+    GID: MNG.5.4_1
+    admin_name: Sharyngol
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6_1_Adm1:
+    GID: MNG.6_1
+    admin_name: Dornod
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.6.1_1_Adm2:
+    GID: MNG.6.1_1
+    admin_name: Bayan-Uul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.10_1_Adm2:
+    GID: MNG.6.10_1
+    admin_name: Kherlen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.11_1_Adm2:
+    GID: MNG.6.11_1
+    admin_name: Khölönbuir
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.12_1_Adm2:
+    GID: MNG.6.12_1
+    admin_name: Matad
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.13_1_Adm2:
+    GID: MNG.6.13_1
+    admin_name: Sergelen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.14_1_Adm2:
+    GID: MNG.6.14_1
+    admin_name: Tsagaan-Ovoo
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.2_1_Adm2:
+    GID: MNG.6.2_1
+    admin_name: Bayandun
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.3_1_Adm2:
+    GID: MNG.6.3_1
+    admin_name: Bayantümen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.4_1_Adm2:
+    GID: MNG.6.4_1
+    admin_name: Bulgan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.5_1_Adm2:
+    GID: MNG.6.5_1
+    admin_name: Choibalsan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.6_1_Adm2:
+    GID: MNG.6.6_1
+    admin_name: Chuluunkhoroot
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.7_1_Adm2:
+    GID: MNG.6.7_1
+    admin_name: Dashbalbar
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.8_1_Adm2:
+    GID: MNG.6.8_1
+    admin_name: Gurvanzagal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.6.9_1_Adm2:
+    GID: MNG.6.9_1
+    admin_name: Khalkhgol
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7_1_Adm1:
+    GID: MNG.7_1
+    admin_name: Dornogovi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.7.1_1_Adm2:
+    GID: MNG.7.1_1
+    admin_name: Airag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.10_1_Adm2:
+    GID: MNG.7.10_1
+    admin_name: Örgön
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.11_1_Adm2:
+    GID: MNG.7.11_1
+    admin_name: Saikhandulaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.12_1_Adm2:
+    GID: MNG.7.12_1
+    admin_name: Sainshand
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.13_1_Adm2:
+    GID: MNG.7.13_1
+    admin_name: Ulaanbadrakh
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.14_1_Adm2:
+    GID: MNG.7.14_1
+    admin_name: Zamyn-Üüd
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.2_1_Adm2:
+    GID: MNG.7.2_1
+    admin_name: Altanshiree
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.3_1_Adm2:
+    GID: MNG.7.3_1
+    admin_name: Dalanjargalan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.4_1_Adm2:
+    GID: MNG.7.4_1
+    admin_name: Delgerekh
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.5_1_Adm2:
+    GID: MNG.7.5_1
+    admin_name: Erdene
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.6_1_Adm2:
+    GID: MNG.7.6_1
+    admin_name: Ikhkhet
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.7_1_Adm2:
+    GID: MNG.7.7_1
+    admin_name: Khatanbulag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.8_1_Adm2:
+    GID: MNG.7.8_1
+    admin_name: Khövsgöl
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.7.9_1_Adm2:
+    GID: MNG.7.9_1
+    admin_name: Mandakh
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8_1_Adm1:
+    GID: MNG.8_1
+    admin_name: Dundgovi
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.8.1_1_Adm2:
+    GID: MNG.8.1_1
+    admin_name: Adaatsag
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.10_1_Adm2:
+    GID: MNG.8.10_1
+    admin_name: Luus
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.11_1_Adm2:
+    GID: MNG.8.11_1
+    admin_name: Ölziit
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.12_1_Adm2:
+    GID: MNG.8.12_1
+    admin_name: Öndörshil
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.13_1_Adm2:
+    GID: MNG.8.13_1
+    admin_name: Saikhan-Ovoo
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.14_1_Adm2:
+    GID: MNG.8.14_1
+    admin_name: Saintsagaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.15_1_Adm2:
+    GID: MNG.8.15_1
+    admin_name: Tsagaandelger
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.2_1_Adm2:
+    GID: MNG.8.2_1
+    admin_name: Bayanjargalan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.3_1_Adm2:
+    GID: MNG.8.3_1
+    admin_name: Delgerkhangai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.4_1_Adm2:
+    GID: MNG.8.4_1
+    admin_name: Delgertsogt
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.5_1_Adm2:
+    GID: MNG.8.5_1
+    admin_name: Deren
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.6_1_Adm2:
+    GID: MNG.8.6_1
+    admin_name: Erdenedalai
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.7_1_Adm2:
+    GID: MNG.8.7_1
+    admin_name: Govi-Ugtaal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.8_1_Adm2:
+    GID: MNG.8.8_1
+    admin_name: Gurvansaikhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.8.9_1_Adm2:
+    GID: MNG.8.9_1
+    admin_name: Khuld
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9_1_Adm1:
+    GID: MNG.9_1
+    admin_name: Dzavhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm1
+  MNG.9.1_1_Adm2:
+    GID: MNG.9.1_1
+    admin_name: Aldarkhaan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.10_1_Adm2:
+    GID: MNG.9.10_1
+    admin_name: Otgon
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.11_1_Adm2:
+    GID: MNG.9.11_1
+    admin_name: Santmargats
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.12_1_Adm2:
+    GID: MNG.9.12_1
+    admin_name: Shilüüstei
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.13_1_Adm2:
+    GID: MNG.9.13_1
+    admin_name: Songino
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.14_1_Adm2:
+    GID: MNG.9.14_1
+    admin_name: Telmen
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.15_1_Adm2:
+    GID: MNG.9.15_1
+    admin_name: Tes
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.16_1_Adm2:
+    GID: MNG.9.16_1
+    admin_name: Tosontsengel
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.17_1_Adm2:
+    GID: MNG.9.17_1
+    admin_name: Tsagaanchuluut
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.18_1_Adm2:
+    GID: MNG.9.18_1
+    admin_name: Tsagaankhairkhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.19_1_Adm2:
+    GID: MNG.9.19_1
+    admin_name: Tsetsen-Uul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.2_1_Adm2:
+    GID: MNG.9.2_1
+    admin_name: Asgat
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.20_1_Adm2:
+    GID: MNG.9.20_1
+    admin_name: Tüdevtei
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.21_1_Adm2:
+    GID: MNG.9.21_1
+    admin_name: Urgamal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.22_1_Adm2:
+    GID: MNG.9.22_1
+    admin_name: Yaruu
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.23_1_Adm2:
+    GID: MNG.9.23_1
+    admin_name: Zavkhanmandal
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.3_1_Adm2:
+    GID: MNG.9.3_1
+    admin_name: Bayankhairkhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.4_1_Adm2:
+    GID: MNG.9.4_1
+    admin_name: Bayantes
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.5_1_Adm2:
+    GID: MNG.9.5_1
+    admin_name: Dörvöljin
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.6_1_Adm2:
+    GID: MNG.9.6_1
+    admin_name: Erdenekhairkhan
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.7_1_Adm2:
+    GID: MNG.9.7_1
+    admin_name: Ider
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.8_1_Adm2:
+    GID: MNG.9.8_1
+    admin_name: Ikh-Uul
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2
+  MNG.9.9_1_Adm2:
+    GID: MNG.9.9_1
+    admin_name: Nömrög
+    iso3c: MNG
+    country_name: Mongolia
+    admin_level: Adm2

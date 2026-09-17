@@ -1,0 +1,49 @@
+concepts:
+  ISR.0_Adm0:
+    GID: ISR
+    admin_name: Israel
+    iso3c: ISR
+    country_name: Israel
+    admin_level: Adm0
+  ISR.1_1_Adm1:
+    GID: ISR.1_1
+    admin_name: Golan
+    iso3c: ISR
+    country_name: Israel
+    admin_level: Adm1
+  ISR.2_1_Adm1:
+    GID: ISR.2_1
+    admin_name: HaDarom
+    iso3c: ISR
+    country_name: Israel
+    admin_level: Adm1
+  ISR.3_1_Adm1:
+    GID: ISR.3_1
+    admin_name: Haifa
+    iso3c: ISR
+    country_name: Israel
+    admin_level: Adm1
+  ISR.4_1_Adm1:
+    GID: ISR.4_1
+    admin_name: HaMerkaz
+    iso3c: ISR
+    country_name: Israel
+    admin_level: Adm1
+  ISR.5_1_Adm1:
+    GID: ISR.5_1
+    admin_name: HaZafon
+    iso3c: ISR
+    country_name: Israel
+    admin_level: Adm1
+  ISR.6_1_Adm1:
+    GID: ISR.6_1
+    admin_name: Jerusalem
+    iso3c: ISR
+    country_name: Israel
+    admin_level: Adm1
+  ISR.7_1_Adm1:
+    GID: ISR.7_1
+    admin_name: Tel Aviv
+    iso3c: ISR
+    country_name: Israel
+    admin_level: Adm1

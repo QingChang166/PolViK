@@ -1,0 +1,1129 @@
+concepts:
+  DOM.0_Adm0:
+    GID: DOM
+    admin_name: Dominican Republic
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm0
+  DOM.1_1_Adm1:
+    GID: DOM.1_1
+    admin_name: Azua
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.1.1_1_Adm2:
+    GID: DOM.1.1_1
+    admin_name: Azua de Compostela
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.10_1_Adm2:
+    GID: DOM.1.10_1
+    admin_name: Villa Tabara Arriba
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.2_1_Adm2:
+    GID: DOM.1.2_1
+    admin_name: Estebania
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.3_1_Adm2:
+    GID: DOM.1.3_1
+    admin_name: Guayabal
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.4_1_Adm2:
+    GID: DOM.1.4_1
+    admin_name: Las Charcas
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.5_1_Adm2:
+    GID: DOM.1.5_1
+    admin_name: Las Yayas de Viajama
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.6_1_Adm2:
+    GID: DOM.1.6_1
+    admin_name: Padre Las Casas
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.7_1_Adm2:
+    GID: DOM.1.7_1
+    admin_name: Peralta
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.8_1_Adm2:
+    GID: DOM.1.8_1
+    admin_name: Pueblo Viejo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.1.9_1_Adm2:
+    GID: DOM.1.9_1
+    admin_name: Sabana Yegua
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.10_1_Adm1:
+    GID: DOM.10_1
+    admin_name: Independencia
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.10.1_1_Adm2:
+    GID: DOM.10.1_1
+    admin_name: Cristobal
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.10.2_1_Adm2:
+    GID: DOM.10.2_1
+    admin_name: Duvergé
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.10.3_1_Adm2:
+    GID: DOM.10.3_1
+    admin_name: Jimaní
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.10.4_1_Adm2:
+    GID: DOM.10.4_1
+    admin_name: La Descubierta
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.10.5_1_Adm2:
+    GID: DOM.10.5_1
+    admin_name: Mella
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.10.6_1_Adm2:
+    GID: DOM.10.6_1
+    admin_name: Postrer Rio
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.11_1_Adm1:
+    GID: DOM.11_1
+    admin_name: La Altagracia
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.11.1_1_Adm2:
+    GID: DOM.11.1_1
+    admin_name: La Laguna de Nisibón
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.11.2_1_Adm2:
+    GID: DOM.11.2_1
+    admin_name: Salvaleón de Higüey
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.11.3_1_Adm2:
+    GID: DOM.11.3_1
+    admin_name: San Rafael del Yuma
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.12_1_Adm1:
+    GID: DOM.12_1
+    admin_name: La Estrelleta
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.12.1_1_Adm2:
+    GID: DOM.12.1_1
+    admin_name: Banica
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.12.2_1_Adm2:
+    GID: DOM.12.2_1
+    admin_name: Comendador
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.12.3_1_Adm2:
+    GID: DOM.12.3_1
+    admin_name: El Llano
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.12.4_1_Adm2:
+    GID: DOM.12.4_1
+    admin_name: Hondo Valle
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.12.5_1_Adm2:
+    GID: DOM.12.5_1
+    admin_name: Juan Santiago
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.12.6_1_Adm2:
+    GID: DOM.12.6_1
+    admin_name: Pedro Santana
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.13_1_Adm1:
+    GID: DOM.13_1
+    admin_name: La Romana
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.13.1_1_Adm2:
+    GID: DOM.13.1_1
+    admin_name: Guaymate
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.13.2_1_Adm2:
+    GID: DOM.13.2_1
+    admin_name: La Romana
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.13.3_1_Adm2:
+    GID: DOM.13.3_1
+    admin_name: Villa Hermosa
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.14_1_Adm1:
+    GID: DOM.14_1
+    admin_name: La Vega
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.14.1_1_Adm2:
+    GID: DOM.14.1_1
+    admin_name: Concepción de la Vega
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.14.2_1_Adm2:
+    GID: DOM.14.2_1
+    admin_name: Constanza
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.14.3_1_Adm2:
+    GID: DOM.14.3_1
+    admin_name: Jarabacoa
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.14.4_1_Adm2:
+    GID: DOM.14.4_1
+    admin_name: Jima Abajo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.15_1_Adm1:
+    GID: DOM.15_1
+    admin_name: María Trinidad Sánchez
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.15.1_1_Adm2:
+    GID: DOM.15.1_1
+    admin_name: Cabrera
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.15.2_1_Adm2:
+    GID: DOM.15.2_1
+    admin_name: El Factor
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.15.3_1_Adm2:
+    GID: DOM.15.3_1
+    admin_name: Nagua
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.15.4_1_Adm2:
+    GID: DOM.15.4_1
+    admin_name: Rio San Juan
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.16_1_Adm1:
+    GID: DOM.16_1
+    admin_name: Monseñor Nouel
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.16.1_1_Adm2:
+    GID: DOM.16.1_1
+    admin_name: Bonao
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.16.2_1_Adm2:
+    GID: DOM.16.2_1
+    admin_name: Maimón
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.16.3_1_Adm2:
+    GID: DOM.16.3_1
+    admin_name: Piedra Blanca
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.17_1_Adm1:
+    GID: DOM.17_1
+    admin_name: Monte Cristi
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.17.1_1_Adm2:
+    GID: DOM.17.1_1
+    admin_name: Castañuela
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.17.2_1_Adm2:
+    GID: DOM.17.2_1
+    admin_name: Guayubín
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.17.3_1_Adm2:
+    GID: DOM.17.3_1
+    admin_name: Las Matas de Santa Cruz
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.17.4_1_Adm2:
+    GID: DOM.17.4_1
+    admin_name: Pepillo Salcedo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.17.5_1_Adm2:
+    GID: DOM.17.5_1
+    admin_name: San Fernando de Monte Cristi
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.17.6_1_Adm2:
+    GID: DOM.17.6_1
+    admin_name: Villa Vázquez
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.18_1_Adm1:
+    GID: DOM.18_1
+    admin_name: Monte Plata
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.18.1_1_Adm2:
+    GID: DOM.18.1_1
+    admin_name: Bayaguana
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.18.2_1_Adm2:
+    GID: DOM.18.2_1
+    admin_name: Esperalvillo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.18.3_1_Adm2:
+    GID: DOM.18.3_1
+    admin_name: Monte Plata
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.18.4_1_Adm2:
+    GID: DOM.18.4_1
+    admin_name: Sabana Grande de Boyá
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.18.5_1_Adm2:
+    GID: DOM.18.5_1
+    admin_name: Yamasá
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.19_1_Adm1:
+    GID: DOM.19_1
+    admin_name: Pedernales
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.19.1_1_Adm2:
+    GID: DOM.19.1_1
+    admin_name: Pedernales
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.2_1_Adm1:
+    GID: DOM.2_1
+    admin_name: Bahoruco
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.2.1_1_Adm2:
+    GID: DOM.2.1_1
+    admin_name: Galvan
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.2.2_1_Adm2:
+    GID: DOM.2.2_1
+    admin_name: Los Rios
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.2.3_1_Adm2:
+    GID: DOM.2.3_1
+    admin_name: Neyba
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.2.4_1_Adm2:
+    GID: DOM.2.4_1
+    admin_name: Tamayo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.2.5_1_Adm2:
+    GID: DOM.2.5_1
+    admin_name: Villa Jaragua
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.20_1_Adm1:
+    GID: DOM.20_1
+    admin_name: Peravia
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.20.1_1_Adm2:
+    GID: DOM.20.1_1
+    admin_name: Baní
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.20.2_1_Adm2:
+    GID: DOM.20.2_1
+    admin_name: Nizao
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21_1_Adm1:
+    GID: DOM.21_1
+    admin_name: Puerto Plata
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.21.1_1_Adm2:
+    GID: DOM.21.1_1
+    admin_name: Altamira
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21.2_1_Adm2:
+    GID: DOM.21.2_1
+    admin_name: Guananico
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21.3_1_Adm2:
+    GID: DOM.21.3_1
+    admin_name: Imbert
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21.4_1_Adm2:
+    GID: DOM.21.4_1
+    admin_name: La Isabela
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21.5_1_Adm2:
+    GID: DOM.21.5_1
+    admin_name: Los Hidalgos
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21.6_1_Adm2:
+    GID: DOM.21.6_1
+    admin_name: Luperon
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21.7_1_Adm2:
+    GID: DOM.21.7_1
+    admin_name: Montellano
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21.8_1_Adm2:
+    GID: DOM.21.8_1
+    admin_name: San Felipe de Puerto Plata
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.21.9_1_Adm2:
+    GID: DOM.21.9_1
+    admin_name: Sosua
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.22_1_Adm1:
+    GID: DOM.22_1
+    admin_name: Salcedo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.22.1_1_Adm2:
+    GID: DOM.22.1_1
+    admin_name: Salcedo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.22.2_1_Adm2:
+    GID: DOM.22.2_1
+    admin_name: Tenares
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.22.3_1_Adm2:
+    GID: DOM.22.3_1
+    admin_name: Villa Tapia
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.23_1_Adm1:
+    GID: DOM.23_1
+    admin_name: Samaná
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.23.1_1_Adm2:
+    GID: DOM.23.1_1
+    admin_name: Las Terrenas
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.23.2_1_Adm2:
+    GID: DOM.23.2_1
+    admin_name: Sánchez
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.23.3_1_Adm2:
+    GID: DOM.23.3_1
+    admin_name: Santa Bárbara de Samaná
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.24_1_Adm1:
+    GID: DOM.24_1
+    admin_name: San Cristóbal
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.24.1_1_Adm2:
+    GID: DOM.24.1_1
+    admin_name: Bajos de Haina
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.24.2_1_Adm2:
+    GID: DOM.24.2_1
+    admin_name: Cambita Garabito
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.24.3_1_Adm2:
+    GID: DOM.24.3_1
+    admin_name: Los Cacaos
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.24.4_1_Adm2:
+    GID: DOM.24.4_1
+    admin_name: Nigua
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.24.5_1_Adm2:
+    GID: DOM.24.5_1
+    admin_name: Sabana Grande de Palenque
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.24.6_1_Adm2:
+    GID: DOM.24.6_1
+    admin_name: San Cristóbal
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.24.7_1_Adm2:
+    GID: DOM.24.7_1
+    admin_name: San Gregorio de Yaguate
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.24.8_1_Adm2:
+    GID: DOM.24.8_1
+    admin_name: Villa Altagracia
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.25_1_Adm1:
+    GID: DOM.25_1
+    admin_name: San José de Ocoa
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.25.1_1_Adm2:
+    GID: DOM.25.1_1
+    admin_name: Rancho Arriba
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.25.2_1_Adm2:
+    GID: DOM.25.2_1
+    admin_name: Sabana Larga
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.25.3_1_Adm2:
+    GID: DOM.25.3_1
+    admin_name: San José de Ocoa
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.26_1_Adm1:
+    GID: DOM.26_1
+    admin_name: San Juan
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.26.1_1_Adm2:
+    GID: DOM.26.1_1
+    admin_name: Bohechio
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.26.2_1_Adm2:
+    GID: DOM.26.2_1
+    admin_name: El Cercado
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.26.3_1_Adm2:
+    GID: DOM.26.3_1
+    admin_name: Juan de Herrera
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.26.4_1_Adm2:
+    GID: DOM.26.4_1
+    admin_name: Las Matas de Farfan
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.26.5_1_Adm2:
+    GID: DOM.26.5_1
+    admin_name: San Juan de la Maguana
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.26.6_1_Adm2:
+    GID: DOM.26.6_1
+    admin_name: Vallejuelo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.27_1_Adm1:
+    GID: DOM.27_1
+    admin_name: San Pedro de Macorís
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.27.1_1_Adm2:
+    GID: DOM.27.1_1
+    admin_name: Consuelo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.27.2_1_Adm2:
+    GID: DOM.27.2_1
+    admin_name: Guayacanes
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.27.3_1_Adm2:
+    GID: DOM.27.3_1
+    admin_name: Los Llanos
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.27.4_1_Adm2:
+    GID: DOM.27.4_1
+    admin_name: Quisquella
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.27.5_1_Adm2:
+    GID: DOM.27.5_1
+    admin_name: Ramón Santana
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.27.6_1_Adm2:
+    GID: DOM.27.6_1
+    admin_name: San Pedro de Macorís
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.28_1_Adm1:
+    GID: DOM.28_1
+    admin_name: Sánchez Ramírez
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.28.1_1_Adm2:
+    GID: DOM.28.1_1
+    admin_name: Cevicos
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.28.2_1_Adm2:
+    GID: DOM.28.2_1
+    admin_name: Cotuí
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.28.3_1_Adm2:
+    GID: DOM.28.3_1
+    admin_name: Fantino
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.28.4_1_Adm2:
+    GID: DOM.28.4_1
+    admin_name: La Mata
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.29_1_Adm1:
+    GID: DOM.29_1
+    admin_name: Santiago Rodríguez
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.29.1_1_Adm2:
+    GID: DOM.29.1_1
+    admin_name: Los Almácigos
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.29.2_1_Adm2:
+    GID: DOM.29.2_1
+    admin_name: Monción
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.29.3_1_Adm2:
+    GID: DOM.29.3_1
+    admin_name: San Ignacio de Sabaneta
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3_1_Adm1:
+    GID: DOM.3_1
+    admin_name: Barahona
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.3.1_1_Adm2:
+    GID: DOM.3.1_1
+    admin_name: Cabral
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.10_1_Adm2:
+    GID: DOM.3.10_1
+    admin_name: Santa Cruz de Barahona
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.11_1_Adm2:
+    GID: DOM.3.11_1
+    admin_name: Vicente Noble
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.2_1_Adm2:
+    GID: DOM.3.2_1
+    admin_name: El Peñón
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.3_1_Adm2:
+    GID: DOM.3.3_1
+    admin_name: Enriquillo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.4_1_Adm2:
+    GID: DOM.3.4_1
+    admin_name: Fundación
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.5_1_Adm2:
+    GID: DOM.3.5_1
+    admin_name: Jaquimeyes
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.6_1_Adm2:
+    GID: DOM.3.6_1
+    admin_name: La Cienaga
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.7_1_Adm2:
+    GID: DOM.3.7_1
+    admin_name: Las Salinas
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.8_1_Adm2:
+    GID: DOM.3.8_1
+    admin_name: Paraiso
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.3.9_1_Adm2:
+    GID: DOM.3.9_1
+    admin_name: Polo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30_1_Adm1:
+    GID: DOM.30_1
+    admin_name: Santiago
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.30.1_1_Adm2:
+    GID: DOM.30.1_1
+    admin_name: Janico
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30.2_1_Adm2:
+    GID: DOM.30.2_1
+    admin_name: Licey al Medio
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30.3_1_Adm2:
+    GID: DOM.30.3_1
+    admin_name: Puñal
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30.4_1_Adm2:
+    GID: DOM.30.4_1
+    admin_name: Sabana Iglesia
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30.5_1_Adm2:
+    GID: DOM.30.5_1
+    admin_name: San José de Las Matas
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30.6_1_Adm2:
+    GID: DOM.30.6_1
+    admin_name: Santiago de los Caballeros
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30.7_1_Adm2:
+    GID: DOM.30.7_1
+    admin_name: Tamboril
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30.8_1_Adm2:
+    GID: DOM.30.8_1
+    admin_name: Villa Bisonó
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.30.9_1_Adm2:
+    GID: DOM.30.9_1
+    admin_name: Villa Gonzalez
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.31_1_Adm1:
+    GID: DOM.31_1
+    admin_name: Santo Domingo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.31.1_1_Adm2:
+    GID: DOM.31.1_1
+    admin_name: Boca Chica
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.31.2_1_Adm2:
+    GID: DOM.31.2_1
+    admin_name: Guerra
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.31.3_1_Adm2:
+    GID: DOM.31.3_1
+    admin_name: Los Alcarrizos
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.31.4_1_Adm2:
+    GID: DOM.31.4_1
+    admin_name: Pedro Brand
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.31.5_1_Adm2:
+    GID: DOM.31.5_1
+    admin_name: Santo Domingo Este
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.31.6_1_Adm2:
+    GID: DOM.31.6_1
+    admin_name: Santo Domingo Norte
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.31.7_1_Adm2:
+    GID: DOM.31.7_1
+    admin_name: Santo Domingo Oeste
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.32_1_Adm1:
+    GID: DOM.32_1
+    admin_name: Valverde
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.32.1_1_Adm2:
+    GID: DOM.32.1_1
+    admin_name: Esperanza
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.32.2_1_Adm2:
+    GID: DOM.32.2_1
+    admin_name: Laguna Salada
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.32.3_1_Adm2:
+    GID: DOM.32.3_1
+    admin_name: Mao
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.4_1_Adm1:
+    GID: DOM.4_1
+    admin_name: Dajabón
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.4.1_1_Adm2:
+    GID: DOM.4.1_1
+    admin_name: Dajabón
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.4.2_1_Adm2:
+    GID: DOM.4.2_1
+    admin_name: El Pino
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.4.3_1_Adm2:
+    GID: DOM.4.3_1
+    admin_name: Loma de Cabrera
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.4.4_1_Adm2:
+    GID: DOM.4.4_1
+    admin_name: Partido
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.4.5_1_Adm2:
+    GID: DOM.4.5_1
+    admin_name: Restauración
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.5_1_Adm1:
+    GID: DOM.5_1
+    admin_name: Distrito Nacional
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.5.1_1_Adm2:
+    GID: DOM.5.1_1
+    admin_name: Distrito Nacional
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.6_1_Adm1:
+    GID: DOM.6_1
+    admin_name: Duarte
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.6.1_1_Adm2:
+    GID: DOM.6.1_1
+    admin_name: Arenoso
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.6.2_1_Adm2:
+    GID: DOM.6.2_1
+    admin_name: Castillo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.6.3_1_Adm2:
+    GID: DOM.6.3_1
+    admin_name: Hostos
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.6.4_1_Adm2:
+    GID: DOM.6.4_1
+    admin_name: Las Guaranas
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.6.5_1_Adm2:
+    GID: DOM.6.5_1
+    admin_name: Pimentel
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.6.6_1_Adm2:
+    GID: DOM.6.6_1
+    admin_name: San Francisco de Macorís
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.6.7_1_Adm2:
+    GID: DOM.6.7_1
+    admin_name: Villa Rivas
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.7_1_Adm1:
+    GID: DOM.7_1
+    admin_name: El Seybo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.7.1_1_Adm2:
+    GID: DOM.7.1_1
+    admin_name: Miches
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.7.2_1_Adm2:
+    GID: DOM.7.2_1
+    admin_name: Santa Cruz del Seybo
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.8_1_Adm1:
+    GID: DOM.8_1
+    admin_name: Espaillat
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.8.1_1_Adm2:
+    GID: DOM.8.1_1
+    admin_name: Cayetano Germosén
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.8.2_1_Adm2:
+    GID: DOM.8.2_1
+    admin_name: Gaspar Hernández
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.8.3_1_Adm2:
+    GID: DOM.8.3_1
+    admin_name: Jamao al Norte
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.8.4_1_Adm2:
+    GID: DOM.8.4_1
+    admin_name: Moca
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.9_1_Adm1:
+    GID: DOM.9_1
+    admin_name: Hato Mayor
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm1
+  DOM.9.1_1_Adm2:
+    GID: DOM.9.1_1
+    admin_name: El Valle
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.9.2_1_Adm2:
+    GID: DOM.9.2_1
+    admin_name: Hato Mayor del Rey
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2
+  DOM.9.3_1_Adm2:
+    GID: DOM.9.3_1
+    admin_name: Sabana de la Mar
+    iso3c: DOM
+    country_name: Dominican Republic
+    admin_level: Adm2

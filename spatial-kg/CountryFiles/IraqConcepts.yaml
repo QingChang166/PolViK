@@ -1,0 +1,727 @@
+concepts:
+  IRQ.0_Adm0:
+    GID: IRQ
+    admin_name: Iraq
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm0
+  IRQ.1_1_Adm1:
+    GID: IRQ.1_1
+    admin_name: Al-Anbar
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.1.1_1_Adm2:
+    GID: IRQ.1.1_1
+    admin_name: Abu Ghraib
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.1.2_1_Adm2:
+    GID: IRQ.1.2_1
+    admin_name: Al Fallujah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.1.3_1_Adm2:
+    GID: IRQ.1.3_1
+    admin_name: Al Haditha
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.1.4_1_Adm2:
+    GID: IRQ.1.4_1
+    admin_name: Al Qa'im
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.1.5_1_Adm2:
+    GID: IRQ.1.5_1
+    admin_name: Anah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.1.6_1_Adm2:
+    GID: IRQ.1.6_1
+    admin_name: Ar Ramadi
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.1.7_1_Adm2:
+    GID: IRQ.1.7_1
+    admin_name: Ar Rutbah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.1.8_1_Adm2:
+    GID: IRQ.1.8_1
+    admin_name: Hit
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.1.9_1_Adm2:
+    GID: IRQ.1.9_1
+    admin_name: Kadhimiya
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.10_1_Adm1:
+    GID: IRQ.10_1
+    admin_name: Baghdad
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.10.1_1_Adm2:
+    GID: IRQ.10.1_1
+    admin_name: Adhamiya
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.11_1_Adm1:
+    GID: IRQ.11_1
+    admin_name: Dhi-Qar
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.11.1_1_Adm2:
+    GID: IRQ.11.1_1
+    admin_name: An Nasiriyah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.11.2_1_Adm2:
+    GID: IRQ.11.2_1
+    admin_name: Chibayish
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.11.3_1_Adm2:
+    GID: IRQ.11.3_1
+    admin_name: Refai
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.11.4_1_Adm2:
+    GID: IRQ.11.4_1
+    admin_name: Shatrah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.11.5_1_Adm2:
+    GID: IRQ.11.5_1
+    admin_name: Suq ash Shuyukh
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.12_1_Adm1:
+    GID: IRQ.12_1
+    admin_name: Dihok
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.12.1_1_Adm2:
+    GID: IRQ.12.1_1
+    admin_name: Amedi
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.12.2_1_Adm2:
+    GID: IRQ.12.2_1
+    admin_name: Dahuk
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.12.3_1_Adm2:
+    GID: IRQ.12.3_1
+    admin_name: Simele
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.12.4_1_Adm2:
+    GID: IRQ.12.4_1
+    admin_name: Zakho
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.13_1_Adm1:
+    GID: IRQ.13_1
+    admin_name: Diyala
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.13.1_1_Adm2:
+    GID: IRQ.13.1_1
+    admin_name: Al Khalis
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.13.2_1_Adm2:
+    GID: IRQ.13.2_1
+    admin_name: Al Miqdadiyah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.13.3_1_Adm2:
+    GID: IRQ.13.3_1
+    admin_name: Ba`qubah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.13.4_1_Adm2:
+    GID: IRQ.13.4_1
+    admin_name: Balad Ruz
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.13.5_1_Adm2:
+    GID: IRQ.13.5_1
+    admin_name: Khanaqin
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.13.6_1_Adm2:
+    GID: IRQ.13.6_1
+    admin_name: Kifri
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.14_1_Adm1:
+    GID: IRQ.14_1
+    admin_name: Karbala'
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.14.1_1_Adm2:
+    GID: IRQ.14.1_1
+    admin_name: Ain Al Tamur
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.14.2_1_Adm2:
+    GID: IRQ.14.2_1
+    admin_name: Al Jadwal al Gharbi
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.14.3_1_Adm2:
+    GID: IRQ.14.3_1
+    admin_name: Karbala
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.15_1_Adm1:
+    GID: IRQ.15_1
+    admin_name: Maysan
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.15.1_1_Adm2:
+    GID: IRQ.15.1_1
+    admin_name: Al Amarah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.15.2_1_Adm2:
+    GID: IRQ.15.2_1
+    admin_name: Al Kahla
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.15.3_1_Adm2:
+    GID: IRQ.15.3_1
+    admin_name: Al Miamona
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.15.4_1_Adm2:
+    GID: IRQ.15.4_1
+    admin_name: Al Mijar al Kabir
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.15.5_1_Adm2:
+    GID: IRQ.15.5_1
+    admin_name: Ali al Gharbi
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.15.6_1_Adm2:
+    GID: IRQ.15.6_1
+    admin_name: Qal`at Salih
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16_1_Adm1:
+    GID: IRQ.16_1
+    admin_name: Ninawa
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.16.1_1_Adm2:
+    GID: IRQ.16.1_1
+    admin_name: Akre
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.10_1_Adm2:
+    GID: IRQ.16.10_1
+    admin_name: Tilkef
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.2_1_Adm2:
+    GID: IRQ.16.2_1
+    admin_name: Al Ba'aj
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.3_1_Adm2:
+    GID: IRQ.16.3_1
+    admin_name: Al Hamdaniyah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.4_1_Adm2:
+    GID: IRQ.16.4_1
+    admin_name: Al Shikhan
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.5_1_Adm2:
+    GID: IRQ.16.5_1
+    admin_name: Hatra
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.6_1_Adm2:
+    GID: IRQ.16.6_1
+    admin_name: Mosul
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.7_1_Adm2:
+    GID: IRQ.16.7_1
+    admin_name: Shekhan
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.8_1_Adm2:
+    GID: IRQ.16.8_1
+    admin_name: Sinjar
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.16.9_1_Adm2:
+    GID: IRQ.16.9_1
+    admin_name: Talafar
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.17_1_Adm1:
+    GID: IRQ.17_1
+    admin_name: Sala ad-Din
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.17.1_1_Adm2:
+    GID: IRQ.17.1_1
+    admin_name: Al-Faris
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.17.2_1_Adm2:
+    GID: IRQ.17.2_1
+    admin_name: Al Door
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.17.3_1_Adm2:
+    GID: IRQ.17.3_1
+    admin_name: Al Shirkat
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.17.4_1_Adm2:
+    GID: IRQ.17.4_1
+    admin_name: Balad
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.17.5_1_Adm2:
+    GID: IRQ.17.5_1
+    admin_name: Bayji
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.17.6_1_Adm2:
+    GID: IRQ.17.6_1
+    admin_name: Samarra
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.17.7_1_Adm2:
+    GID: IRQ.17.7_1
+    admin_name: Tikrit
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.17.8_1_Adm2:
+    GID: IRQ.17.8_1
+    admin_name: Touz Hourmato
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.18_1_Adm1:
+    GID: IRQ.18_1
+    admin_name: Wasit
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.18.1_1_Adm2:
+    GID: IRQ.18.1_1
+    admin_name: Al Hayy
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.18.2_1_Adm2:
+    GID: IRQ.18.2_1
+    admin_name: Al Kut
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.18.3_1_Adm2:
+    GID: IRQ.18.3_1
+    admin_name: Al Noamania
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.18.4_1_Adm2:
+    GID: IRQ.18.4_1
+    admin_name: As Suwayrah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.18.5_1_Adm2:
+    GID: IRQ.18.5_1
+    admin_name: Badrah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.2_1_Adm1:
+    GID: IRQ.2_1
+    admin_name: Al-Basrah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.2.1_1_Adm2:
+    GID: IRQ.2.1_1
+    admin_name: Abu al Khasib
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.2.2_1_Adm2:
+    GID: IRQ.2.2_1
+    admin_name: Al Faw
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.2.3_1_Adm2:
+    GID: IRQ.2.3_1
+    admin_name: Al Madiana
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.2.4_1_Adm2:
+    GID: IRQ.2.4_1
+    admin_name: Al Qurnah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.2.5_1_Adm2:
+    GID: IRQ.2.5_1
+    admin_name: Al Zubair
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.2.6_1_Adm2:
+    GID: IRQ.2.6_1
+    admin_name: Basrah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.2.7_1_Adm2:
+    GID: IRQ.2.7_1
+    admin_name: Shatt Al Arab
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.3_1_Adm1:
+    GID: IRQ.3_1
+    admin_name: Al-Muthannia
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.3.1_1_Adm2:
+    GID: IRQ.3.1_1
+    admin_name: Al Khithir
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.3.2_1_Adm2:
+    GID: IRQ.3.2_1
+    admin_name: As Salman
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.3.3_1_Adm2:
+    GID: IRQ.3.3_1
+    admin_name: As Samawah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.3.4_1_Adm2:
+    GID: IRQ.3.4_1
+    admin_name: Rumaitha
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.4_1_Adm1:
+    GID: IRQ.4_1
+    admin_name: Al-Qadisiyah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.4.1_1_Adm2:
+    GID: IRQ.4.1_1
+    admin_name: Ad Diwaniyah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.4.2_1_Adm2:
+    GID: IRQ.4.2_1
+    admin_name: Afak
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.4.3_1_Adm2:
+    GID: IRQ.4.3_1
+    admin_name: Al Hamza
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.4.4_1_Adm2:
+    GID: IRQ.4.4_1
+    admin_name: Shamiya
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.5_1_Adm1:
+    GID: IRQ.5_1
+    admin_name: An-Najaf
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.5.1_1_Adm2:
+    GID: IRQ.5.1_1
+    admin_name: Al Kufa
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.5.2_1_Adm2:
+    GID: IRQ.5.2_1
+    admin_name: Al Manathera
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.5.3_1_Adm2:
+    GID: IRQ.5.3_1
+    admin_name: Najaf
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.6_1_Adm1:
+    GID: IRQ.6_1
+    admin_name: Arbil
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.6.1_1_Adm2:
+    GID: IRQ.6.1_1
+    admin_name: Arbil
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.6.2_1_Adm2:
+    GID: IRQ.6.2_1
+    admin_name: Choman
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.6.3_1_Adm2:
+    GID: IRQ.6.3_1
+    admin_name: Koisnjaq
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.6.4_1_Adm2:
+    GID: IRQ.6.4_1
+    admin_name: Makhmur
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.6.5_1_Adm2:
+    GID: IRQ.6.5_1
+    admin_name: Mergasur
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.6.6_1_Adm2:
+    GID: IRQ.6.6_1
+    admin_name: Shaqlawa
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.6.7_1_Adm2:
+    GID: IRQ.6.7_1
+    admin_name: Soran
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7_1_Adm1:
+    GID: IRQ.7_1
+    admin_name: As-Sulaymaniyah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.7.1_1_Adm2:
+    GID: IRQ.7.1_1
+    admin_name: Chamchamal
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.10_1_Adm2:
+    GID: IRQ.7.10_1
+    admin_name: Sulaymaniya
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.2_1_Adm2:
+    GID: IRQ.7.2_1
+    admin_name: Darbandokeh
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.3_1_Adm2:
+    GID: IRQ.7.3_1
+    admin_name: Dukan
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.4_1_Adm2:
+    GID: IRQ.7.4_1
+    admin_name: Halabja
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.5_1_Adm2:
+    GID: IRQ.7.5_1
+    admin_name: Kalar
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.6_1_Adm2:
+    GID: IRQ.7.6_1
+    admin_name: Penjwin
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.7_1_Adm2:
+    GID: IRQ.7.7_1
+    admin_name: Pshdar
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.8_1_Adm2:
+    GID: IRQ.7.8_1
+    admin_name: Rania
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.7.9_1_Adm2:
+    GID: IRQ.7.9_1
+    admin_name: Sharbazher
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.8_1_Adm1:
+    GID: IRQ.8_1
+    admin_name: At-Ta'mim
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.8.1_1_Adm2:
+    GID: IRQ.8.1_1
+    admin_name: Daquq
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.8.2_1_Adm2:
+    GID: IRQ.8.2_1
+    admin_name: Dibis
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.8.3_1_Adm2:
+    GID: IRQ.8.3_1
+    admin_name: Haweeja
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.8.4_1_Adm2:
+    GID: IRQ.8.4_1
+    admin_name: Kirkuk
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.9_1_Adm1:
+    GID: IRQ.9_1
+    admin_name: Babil
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm1
+  IRQ.9.1_1_Adm2:
+    GID: IRQ.9.1_1
+    admin_name: Al-Mada'in
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.9.2_1_Adm2:
+    GID: IRQ.9.2_1
+    admin_name: Al Hashimiyah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.9.3_1_Adm2:
+    GID: IRQ.9.3_1
+    admin_name: Al Hillah
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.9.4_1_Adm2:
+    GID: IRQ.9.4_1
+    admin_name: Al Mahawil
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.9.5_1_Adm2:
+    GID: IRQ.9.5_1
+    admin_name: Al Misiab
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2
+  IRQ.9.6_1_Adm2:
+    GID: IRQ.9.6_1
+    admin_name: Mahmudiya
+    iso3c: IRQ
+    country_name: Iraq
+    admin_level: Adm2

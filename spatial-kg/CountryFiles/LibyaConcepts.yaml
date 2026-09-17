@@ -1,0 +1,139 @@
+concepts:
+  LBY.0_Adm0:
+    GID: LBY
+    admin_name: Libya
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm0
+  LBY.1_1_Adm1:
+    GID: LBY.1_1
+    admin_name: Al Butnan
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.10_1_Adm1:
+    GID: LBY.10_1
+    admin_name: An Nuqat al Khams
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.11_1_Adm1:
+    GID: LBY.11_1
+    admin_name: Az Zawiyah
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.12_1_Adm1:
+    GID: LBY.12_1
+    admin_name: Benghazi
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.13_1_Adm1:
+    GID: LBY.13_1
+    admin_name: Darnah
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.14_1_Adm1:
+    GID: LBY.14_1
+    admin_name: Ghat
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.15_1_Adm1:
+    GID: LBY.15_1
+    admin_name: Misratah
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.16_1_Adm1:
+    GID: LBY.16_1
+    admin_name: Murzuq
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.17_1_Adm1:
+    GID: LBY.17_1
+    admin_name: Nalut
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.18_1_Adm1:
+    GID: LBY.18_1
+    admin_name: Sabha
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.19_1_Adm1:
+    GID: LBY.19_1
+    admin_name: Surt
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.2_1_Adm1:
+    GID: LBY.2_1
+    admin_name: Al Jabal al Akhdar
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.20_1_Adm1:
+    GID: LBY.20_1
+    admin_name: Tripoli
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.21_1_Adm1:
+    GID: LBY.21_1
+    admin_name: Wadi al Hayat
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.22_1_Adm1:
+    GID: LBY.22_1
+    admin_name: Wadi ash Shati'
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.3_1_Adm1:
+    GID: LBY.3_1
+    admin_name: Al Jabal al Gharbi
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.4_1_Adm1:
+    GID: LBY.4_1
+    admin_name: Al Jifarah
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.5_1_Adm1:
+    GID: LBY.5_1
+    admin_name: Al Jufrah
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.6_1_Adm1:
+    GID: LBY.6_1
+    admin_name: Al Kufrah
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.7_1_Adm1:
+    GID: LBY.7_1
+    admin_name: Al Marj
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.8_1_Adm1:
+    GID: LBY.8_1
+    admin_name: Al Marqab
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1
+  LBY.9_1_Adm1:
+    GID: LBY.9_1
+    admin_name: Al Wahat
+    iso3c: LBY
+    country_name: Libya
+    admin_level: Adm1

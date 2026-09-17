@@ -1,0 +1,1369 @@
+concepts:
+  KHM.0_Adm0:
+    GID: KHM
+    admin_name: Cambodia
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm0
+  KHM.1_1_Adm1:
+    GID: KHM.1_1
+    admin_name: Bântéay Méanchey
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.1.1_2_Adm2:
+    GID: KHM.1.1_2
+    admin_name: Malai
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.1.2_2_Adm2:
+    GID: KHM.1.2_2
+    admin_name: Mongkol Borei
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.1.3_2_Adm2:
+    GID: KHM.1.3_2
+    admin_name: Ou Chrov
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.1.4_2_Adm2:
+    GID: KHM.1.4_2
+    admin_name: Paoy Paet
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.1.5_2_Adm2:
+    GID: KHM.1.5_2
+    admin_name: Phnum Srok
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.1.6_2_Adm2:
+    GID: KHM.1.6_2
+    admin_name: Preah Netr Preah
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.1.7_2_Adm2:
+    GID: KHM.1.7_2
+    admin_name: Serei Saophoan
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.1.8_2_Adm2:
+    GID: KHM.1.8_2
+    admin_name: Svay Chek
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.1.9_2_Adm2:
+    GID: KHM.1.9_2
+    admin_name: Thma Puok
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.10_1_Adm1:
+    GID: KHM.10_1
+    admin_name: Kep
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.10.1_2_Adm2:
+    GID: KHM.10.1_2
+    admin_name: Damnak Chang'aeur
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.10.2_2_Adm2:
+    GID: KHM.10.2_2
+    admin_name: Kaeb
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.11_1_Adm1:
+    GID: KHM.11_1
+    admin_name: Krâchéh
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.11.1_2_Adm2:
+    GID: KHM.11.1_2
+    admin_name: Chetr Borei
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.11.2_2_Adm2:
+    GID: KHM.11.2_2
+    admin_name: Chhloung
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.11.3_2_Adm2:
+    GID: KHM.11.3_2
+    admin_name: Kracheh
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.11.4_2_Adm2:
+    GID: KHM.11.4_2
+    admin_name: Prek Prasab
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.11.5_2_Adm2:
+    GID: KHM.11.5_2
+    admin_name: Sambour
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.11.6_2_Adm2:
+    GID: KHM.11.6_2
+    admin_name: Snuol
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.12_1_Adm1:
+    GID: KHM.12_1
+    admin_name: Krong Pailin
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.12.1_2_Adm2:
+    GID: KHM.12.1_2
+    admin_name: Pailin
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.12.2_2_Adm2:
+    GID: KHM.12.2_2
+    admin_name: Sala Krau
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.13_1_Adm1:
+    GID: KHM.13_1
+    admin_name: Krong Preah Sihanouk
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.13.1_2_Adm2:
+    GID: KHM.13.1_2
+    admin_name: Kampong Seila
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.13.2_2_Adm2:
+    GID: KHM.13.2_2
+    admin_name: Preah Sihanouk
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.13.3_2_Adm2:
+    GID: KHM.13.3_2
+    admin_name: Prey Nob
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.13.4_2_Adm2:
+    GID: KHM.13.4_2
+    admin_name: Stueng Hav
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.14_1_Adm1:
+    GID: KHM.14_1
+    admin_name: Môndól Kiri
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.14.1_2_Adm2:
+    GID: KHM.14.1_2
+    admin_name: Kaev Seima
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.14.2_2_Adm2:
+    GID: KHM.14.2_2
+    admin_name: Kaoh Nheaek
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.14.3_2_Adm2:
+    GID: KHM.14.3_2
+    admin_name: Ou Reang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.14.4_2_Adm2:
+    GID: KHM.14.4_2
+    admin_name: Pech Chreada
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.14.5_2_Adm2:
+    GID: KHM.14.5_2
+    admin_name: Saen Monourom
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.15_1_Adm1:
+    GID: KHM.15_1
+    admin_name: Otdar Mean Chey
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.15.1_2_Adm2:
+    GID: KHM.15.1_2
+    admin_name: Anlong Veaeng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.15.2_2_Adm2:
+    GID: KHM.15.2_2
+    admin_name: Banteay Ampil
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.15.3_2_Adm2:
+    GID: KHM.15.3_2
+    admin_name: Chong Kal
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.15.4_2_Adm2:
+    GID: KHM.15.4_2
+    admin_name: Samraong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.15.5_2_Adm2:
+    GID: KHM.15.5_2
+    admin_name: Trapeang Prasat
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16_1_Adm1:
+    GID: KHM.16_1
+    admin_name: Phnom Penh
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.16.1_2_Adm2:
+    GID: KHM.16.1_2
+    admin_name: Chamkar Mon
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.10_2_Adm2:
+    GID: KHM.16.10_2
+    admin_name: Russey Keo
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.11_2_Adm2:
+    GID: KHM.16.11_2
+    admin_name: Saensokh
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.12_2_Adm2:
+    GID: KHM.16.12_2
+    admin_name: Tuol Kouk
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.2_2_Adm2:
+    GID: KHM.16.2_2
+    admin_name: Chbar Ampov
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.3_2_Adm2:
+    GID: KHM.16.3_2
+    admin_name: Chraoy Chongvar
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.4_2_Adm2:
+    GID: KHM.16.4_2
+    admin_name: Dangkao
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.5_2_Adm2:
+    GID: KHM.16.5_2
+    admin_name: Doun Penh
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.6_2_Adm2:
+    GID: KHM.16.6_2
+    admin_name: Mean Chey
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.7_2_Adm2:
+    GID: KHM.16.7_2
+    admin_name: Praek Pnov
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.8_2_Adm2:
+    GID: KHM.16.8_2
+    admin_name: Prampir Meakkakra
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.16.9_2_Adm2:
+    GID: KHM.16.9_2
+    admin_name: Pur SenChey
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.17_1_Adm1:
+    GID: KHM.17_1
+    admin_name: Pouthisat
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.17.1_2_Adm2:
+    GID: KHM.17.1_2
+    admin_name: Bakan
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.17.2_2_Adm2:
+    GID: KHM.17.2_2
+    admin_name: Kandieng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.17.3_2_Adm2:
+    GID: KHM.17.3_2
+    admin_name: Krakor
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.17.4_2_Adm2:
+    GID: KHM.17.4_2
+    admin_name: Phnum Kravanh
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.17.5_2_Adm2:
+    GID: KHM.17.5_2
+    admin_name: Pursat
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.17.6_2_Adm2:
+    GID: KHM.17.6_2
+    admin_name: Tonlé Sap
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.17.7_2_Adm2:
+    GID: KHM.17.7_2
+    admin_name: Veal Veaeng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.18_1_Adm1:
+    GID: KHM.18_1
+    admin_name: Preah Vihéar
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.18.1_2_Adm2:
+    GID: KHM.18.1_2
+    admin_name: Chey Saen
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.18.2_2_Adm2:
+    GID: KHM.18.2_2
+    admin_name: Chhaeb
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.18.3_2_Adm2:
+    GID: KHM.18.3_2
+    admin_name: Choam Ksant
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.18.4_2_Adm2:
+    GID: KHM.18.4_2
+    admin_name: Kuleaen
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.18.5_2_Adm2:
+    GID: KHM.18.5_2
+    admin_name: Preah Vihear
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.18.6_2_Adm2:
+    GID: KHM.18.6_2
+    admin_name: Rovieng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.18.7_2_Adm2:
+    GID: KHM.18.7_2
+    admin_name: Sangkum Thmei
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.18.8_2_Adm2:
+    GID: KHM.18.8_2
+    admin_name: Tbaeng Mean Chey
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19_1_Adm1:
+    GID: KHM.19_1
+    admin_name: Prey Vêng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.19.1_2_Adm2:
+    GID: KHM.19.1_2
+    admin_name: Ba Phnum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.10_2_Adm2:
+    GID: KHM.19.10_2
+    admin_name: Prey Veng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.11_2_Adm2:
+    GID: KHM.19.11_2
+    admin_name: Pur Rieng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.12_2_Adm2:
+    GID: KHM.19.12_2
+    admin_name: Sithor Kandal
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.13_2_Adm2:
+    GID: KHM.19.13_2
+    admin_name: Svay Antor
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.2_2_Adm2:
+    GID: KHM.19.2_2
+    admin_name: Kamchay Mear
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.3_2_Adm2:
+    GID: KHM.19.3_2
+    admin_name: Kampong Trabaek
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.4_2_Adm2:
+    GID: KHM.19.4_2
+    admin_name: Kanhchriech
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.5_2_Adm2:
+    GID: KHM.19.5_2
+    admin_name: Me Sang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.6_2_Adm2:
+    GID: KHM.19.6_2
+    admin_name: Pea Reang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.7_2_Adm2:
+    GID: KHM.19.7_2
+    admin_name: Peam Chor
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.8_2_Adm2:
+    GID: KHM.19.8_2
+    admin_name: Peam Ro
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.19.9_2_Adm2:
+    GID: KHM.19.9_2
+    admin_name: Preah Sdach
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2_1_Adm1:
+    GID: KHM.2_1
+    admin_name: Batdâmbâng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.2.1_2_Adm2:
+    GID: KHM.2.1_2
+    admin_name: Aek Phnum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.10_2_Adm2:
+    GID: KHM.2.10_2
+    admin_name: Rukh Kiri
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.11_2_Adm2:
+    GID: KHM.2.11_2
+    admin_name: Samlout
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.12_2_Adm2:
+    GID: KHM.2.12_2
+    admin_name: Sampov Lun
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.13_2_Adm2:
+    GID: KHM.2.13_2
+    admin_name: Sangkae
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.14_2_Adm2:
+    GID: KHM.2.14_2
+    admin_name: Thma Koul
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.15_2_Adm2:
+    GID: KHM.2.15_2
+    admin_name: Tonlé Sap
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.2_2_Adm2:
+    GID: KHM.2.2_2
+    admin_name: Banan
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.3_2_Adm2:
+    GID: KHM.2.3_2
+    admin_name: Battambang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.4_2_Adm2:
+    GID: KHM.2.4_2
+    admin_name: Bavel
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.5_2_Adm2:
+    GID: KHM.2.5_2
+    admin_name: Kamrieng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.6_2_Adm2:
+    GID: KHM.2.6_2
+    admin_name: Koas Krala
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.7_2_Adm2:
+    GID: KHM.2.7_2
+    admin_name: Moung Ruessei
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.8_2_Adm2:
+    GID: KHM.2.8_2
+    admin_name: Phnum Proek
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.2.9_2_Adm2:
+    GID: KHM.2.9_2
+    admin_name: Rotonak Mondol
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20_1_Adm1:
+    GID: KHM.20_1
+    admin_name: Rôtânôkiri
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.20.1_2_Adm2:
+    GID: KHM.20.1_2
+    admin_name: Andoung Meas
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20.2_2_Adm2:
+    GID: KHM.20.2_2
+    admin_name: Ban Lung
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20.3_2_Adm2:
+    GID: KHM.20.3_2
+    admin_name: Bar Kaev
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20.4_2_Adm2:
+    GID: KHM.20.4_2
+    admin_name: Koun Mom
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20.5_2_Adm2:
+    GID: KHM.20.5_2
+    admin_name: Lumphat
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20.6_2_Adm2:
+    GID: KHM.20.6_2
+    admin_name: Ou Chum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20.7_2_Adm2:
+    GID: KHM.20.7_2
+    admin_name: Ou Ya Dav
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20.8_2_Adm2:
+    GID: KHM.20.8_2
+    admin_name: Ta Veaeng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.20.9_2_Adm2:
+    GID: KHM.20.9_2
+    admin_name: Veun Sai
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21_1_Adm1:
+    GID: KHM.21_1
+    admin_name: Siemréab
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.21.1_2_Adm2:
+    GID: KHM.21.1_2
+    admin_name: Angkor Chum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.10_2_Adm2:
+    GID: KHM.21.10_2
+    admin_name: Srei Snam
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.11_2_Adm2:
+    GID: KHM.21.11_2
+    admin_name: Svay Leu
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.12_2_Adm2:
+    GID: KHM.21.12_2
+    admin_name: Tonlé Sap
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.13_2_Adm2:
+    GID: KHM.21.13_2
+    admin_name: Varin
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.2_2_Adm2:
+    GID: KHM.21.2_2
+    admin_name: Angkor Thum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.3_2_Adm2:
+    GID: KHM.21.3_2
+    admin_name: Banteay Srei
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.4_2_Adm2:
+    GID: KHM.21.4_2
+    admin_name: Chi Kraeng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.5_2_Adm2:
+    GID: KHM.21.5_2
+    admin_name: Kralanh
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.6_2_Adm2:
+    GID: KHM.21.6_2
+    admin_name: Prasat Bakong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.7_2_Adm2:
+    GID: KHM.21.7_2
+    admin_name: Puok
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.8_2_Adm2:
+    GID: KHM.21.8_2
+    admin_name: Siem Reap
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.21.9_2_Adm2:
+    GID: KHM.21.9_2
+    admin_name: Soutr Nikom
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.22_1_Adm1:
+    GID: KHM.22_1
+    admin_name: Stœng Trêng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.22.1_2_Adm2:
+    GID: KHM.22.1_2
+    admin_name: Sesan
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.22.2_2_Adm2:
+    GID: KHM.22.2_2
+    admin_name: Siem Bouk
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.22.3_2_Adm2:
+    GID: KHM.22.3_2
+    admin_name: Siem Pang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.22.4_2_Adm2:
+    GID: KHM.22.4_2
+    admin_name: Stueng Traeng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.22.5_2_Adm2:
+    GID: KHM.22.5_2
+    admin_name: Thala Barivat
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.23_1_Adm1:
+    GID: KHM.23_1
+    admin_name: Svay Rieng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.23.1_2_Adm2:
+    GID: KHM.23.1_2
+    admin_name: Bavet
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.23.2_2_Adm2:
+    GID: KHM.23.2_2
+    admin_name: Chantrea
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.23.3_2_Adm2:
+    GID: KHM.23.3_2
+    admin_name: Kampong Rou
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.23.4_2_Adm2:
+    GID: KHM.23.4_2
+    admin_name: Romeas Haek
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.23.5_2_Adm2:
+    GID: KHM.23.5_2
+    admin_name: Rumduol
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.23.6_2_Adm2:
+    GID: KHM.23.6_2
+    admin_name: Svay Chrum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.23.7_2_Adm2:
+    GID: KHM.23.7_2
+    admin_name: Svay Rieng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.23.8_2_Adm2:
+    GID: KHM.23.8_2
+    admin_name: Svay Teab
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24_1_Adm1:
+    GID: KHM.24_1
+    admin_name: Takêv
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.24.1_2_Adm2:
+    GID: KHM.24.1_2
+    admin_name: Angkor Borei
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.10_2_Adm2:
+    GID: KHM.24.10_2
+    admin_name: Treang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.2_2_Adm2:
+    GID: KHM.24.2_2
+    admin_name: Bati
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.3_2_Adm2:
+    GID: KHM.24.3_2
+    admin_name: Borei Cholsar
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.4_2_Adm2:
+    GID: KHM.24.4_2
+    admin_name: Doun Kaev
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.5_2_Adm2:
+    GID: KHM.24.5_2
+    admin_name: Kaoh Andaet
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.6_2_Adm2:
+    GID: KHM.24.6_2
+    admin_name: Kiri Vong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.7_2_Adm2:
+    GID: KHM.24.7_2
+    admin_name: Prey Kabbas
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.8_2_Adm2:
+    GID: KHM.24.8_2
+    admin_name: Samraong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.24.9_2_Adm2:
+    GID: KHM.24.9_2
+    admin_name: Tram Kak
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.25_1_Adm1:
+    GID: KHM.25_1
+    admin_name: Tbong Khmum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.25.1_2_Adm2:
+    GID: KHM.25.1_2
+    admin_name: Dambae
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.25.2_2_Adm2:
+    GID: KHM.25.2_2
+    admin_name: Krouch Chhmar
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.25.3_2_Adm2:
+    GID: KHM.25.3_2
+    admin_name: Memot
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.25.4_2_Adm2:
+    GID: KHM.25.4_2
+    admin_name: Ou Reang Ov
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.25.5_2_Adm2:
+    GID: KHM.25.5_2
+    admin_name: Ponhea Kraek
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.25.6_2_Adm2:
+    GID: KHM.25.6_2
+    admin_name: Suong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.25.7_2_Adm2:
+    GID: KHM.25.7_2
+    admin_name: Tboung Khmum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3_1_Adm1:
+    GID: KHM.3_1
+    admin_name: Kâmpóng Cham
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.3.1_2_Adm2:
+    GID: KHM.3.1_2
+    admin_name: Batheay
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.10_2_Adm2:
+    GID: KHM.3.10_2
+    admin_name: Stueng Trang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.2_2_Adm2:
+    GID: KHM.3.2_2
+    admin_name: Chamkar Leu
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.3_2_Adm2:
+    GID: KHM.3.3_2
+    admin_name: Cheung Prey
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.4_2_Adm2:
+    GID: KHM.3.4_2
+    admin_name: Kampong Cham
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.5_2_Adm2:
+    GID: KHM.3.5_2
+    admin_name: Kampong Siem
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.6_2_Adm2:
+    GID: KHM.3.6_2
+    admin_name: Kang Meas
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.7_2_Adm2:
+    GID: KHM.3.7_2
+    admin_name: Kaoh Soutin
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.8_2_Adm2:
+    GID: KHM.3.8_2
+    admin_name: Prey Chhor
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.3.9_2_Adm2:
+    GID: KHM.3.9_2
+    admin_name: Srei Santhor
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4_1_Adm1:
+    GID: KHM.4_1
+    admin_name: Kâmpóng Chhnang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.4.1_2_Adm2:
+    GID: KHM.4.1_2
+    admin_name: Baribour
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4.2_2_Adm2:
+    GID: KHM.4.2_2
+    admin_name: Chol Kiri
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4.3_2_Adm2:
+    GID: KHM.4.3_2
+    admin_name: Kampong Chhnang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4.4_2_Adm2:
+    GID: KHM.4.4_2
+    admin_name: Kampong Leaeng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4.5_2_Adm2:
+    GID: KHM.4.5_2
+    admin_name: Kampong Tralach
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4.6_2_Adm2:
+    GID: KHM.4.6_2
+    admin_name: Rolea B'ier
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4.7_2_Adm2:
+    GID: KHM.4.7_2
+    admin_name: Sameakki Mean Chey
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4.8_2_Adm2:
+    GID: KHM.4.8_2
+    admin_name: Tonlé Sap
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.4.9_2_Adm2:
+    GID: KHM.4.9_2
+    admin_name: Tuek Phos
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.5_1_Adm1:
+    GID: KHM.5_1
+    admin_name: Kâmpóng Spœ
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.5.1_2_Adm2:
+    GID: KHM.5.1_2
+    admin_name: Aoral
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.5.2_2_Adm2:
+    GID: KHM.5.2_2
+    admin_name: Basedth
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.5.3_2_Adm2:
+    GID: KHM.5.3_2
+    admin_name: Chbar Mon
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.5.4_2_Adm2:
+    GID: KHM.5.4_2
+    admin_name: Kong Pisei
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.5.5_2_Adm2:
+    GID: KHM.5.5_2
+    admin_name: Odongk
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.5.6_2_Adm2:
+    GID: KHM.5.6_2
+    admin_name: Phnum Sruoch
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.5.7_2_Adm2:
+    GID: KHM.5.7_2
+    admin_name: Samraong Tong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.5.8_2_Adm2:
+    GID: KHM.5.8_2
+    admin_name: Thpong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6_1_Adm1:
+    GID: KHM.6_1
+    admin_name: Kâmpóng Thum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.6.1_2_Adm2:
+    GID: KHM.6.1_2
+    admin_name: Baray
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6.2_2_Adm2:
+    GID: KHM.6.2_2
+    admin_name: Kampong Svay
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6.3_2_Adm2:
+    GID: KHM.6.3_2
+    admin_name: Prasat Ballangk
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6.4_2_Adm2:
+    GID: KHM.6.4_2
+    admin_name: Prasat Sambour
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6.5_2_Adm2:
+    GID: KHM.6.5_2
+    admin_name: Sandan
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6.6_2_Adm2:
+    GID: KHM.6.6_2
+    admin_name: Santuk
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6.7_2_Adm2:
+    GID: KHM.6.7_2
+    admin_name: Stoung
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6.8_2_Adm2:
+    GID: KHM.6.8_2
+    admin_name: Stueng Saen
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.6.9_2_Adm2:
+    GID: KHM.6.9_2
+    admin_name: Tonlé Sap
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.7_1_Adm1:
+    GID: KHM.7_1
+    admin_name: Kâmpôt
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.7.1_2_Adm2:
+    GID: KHM.7.1_2
+    admin_name: Angkor Chey
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.7.2_2_Adm2:
+    GID: KHM.7.2_2
+    admin_name: Banteay Meas
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.7.3_2_Adm2:
+    GID: KHM.7.3_2
+    admin_name: Chhuk
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.7.4_2_Adm2:
+    GID: KHM.7.4_2
+    admin_name: Chum Kiri
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.7.5_2_Adm2:
+    GID: KHM.7.5_2
+    admin_name: Dang Tong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.7.6_2_Adm2:
+    GID: KHM.7.6_2
+    admin_name: Kampong Trach
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.7.7_2_Adm2:
+    GID: KHM.7.7_2
+    admin_name: Kampot
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.7.8_2_Adm2:
+    GID: KHM.7.8_2
+    admin_name: Tuek Chhou
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8_1_Adm1:
+    GID: KHM.8_1
+    admin_name: Kândal
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.8.1_2_Adm2:
+    GID: KHM.8.1_2
+    admin_name: Angk Snuol
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.10_2_Adm2:
+    GID: KHM.8.10_2
+    admin_name: S'ang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.11_2_Adm2:
+    GID: KHM.8.11_2
+    admin_name: Ta Khmau
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.2_2_Adm2:
+    GID: KHM.8.2_2
+    admin_name: Kandal Stueng
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.3_2_Adm2:
+    GID: KHM.8.3_2
+    admin_name: Kaoh Thum
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.4_2_Adm2:
+    GID: KHM.8.4_2
+    admin_name: Khsach Kandal
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.5_2_Adm2:
+    GID: KHM.8.5_2
+    admin_name: Kien Svay
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.6_2_Adm2:
+    GID: KHM.8.6_2
+    admin_name: Leuk Daek
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.7_2_Adm2:
+    GID: KHM.8.7_2
+    admin_name: Lvea Aem
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.8_2_Adm2:
+    GID: KHM.8.8_2
+    admin_name: Mukh Kampul
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.8.9_2_Adm2:
+    GID: KHM.8.9_2
+    admin_name: Ponhea Lueu
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.9_1_Adm1:
+    GID: KHM.9_1
+    admin_name: Kaôh Kong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm1
+  KHM.9.1_2_Adm2:
+    GID: KHM.9.1_2
+    admin_name: Botum Sakor
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.9.2_2_Adm2:
+    GID: KHM.9.2_2
+    admin_name: Kaoh Kong
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.9.3_2_Adm2:
+    GID: KHM.9.3_2
+    admin_name: Khemara Phoumin
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.9.4_2_Adm2:
+    GID: KHM.9.4_2
+    admin_name: Kiri Sakor
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.9.5_2_Adm2:
+    GID: KHM.9.5_2
+    admin_name: Mondol Seima
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.9.6_2_Adm2:
+    GID: KHM.9.6_2
+    admin_name: Srae Ambel
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2
+  KHM.9.7_2_Adm2:
+    GID: KHM.9.7_2
+    admin_name: Thma Bang
+    iso3c: KHM
+    country_name: Cambodia
+    admin_level: Adm2

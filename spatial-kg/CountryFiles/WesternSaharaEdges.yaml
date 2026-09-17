@@ -1,0 +1,5 @@
+relations:
+    - (ESH.0_Adm0, ESH.1_1_Adm1)
+    - (ESH.0_Adm0, ESH.2_1_Adm1)
+    - (ESH.0_Adm0, ESH.3_1_Adm1)
+    - (ESH.0_Adm0, ESH.4_1_Adm1)

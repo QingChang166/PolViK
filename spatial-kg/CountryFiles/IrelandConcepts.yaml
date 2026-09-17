@@ -1,0 +1,799 @@
+concepts:
+  IRL.0_Adm0:
+    GID: IRL
+    admin_name: Ireland
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm0
+  IRL.1_1_Adm1:
+    GID: IRL.1_1
+    admin_name: Carlow
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.1.1_1_Adm2:
+    GID: IRL.1.1_1
+    admin_name: Carlow
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.1.2_1_Adm2:
+    GID: IRL.1.2_1
+    admin_name: Muinebeag
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.1.3_1_Adm2:
+    GID: IRL.1.3_1
+    admin_name: Tullow
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.10_1_Adm1:
+    GID: IRL.10_1
+    admin_name: Kilkenny
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.10.1_1_Adm2:
+    GID: IRL.10.1_1
+    admin_name: Callan-Thomastown
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.10.2_1_Adm2:
+    GID: IRL.10.2_1
+    admin_name: Castlecomer
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.10.3_1_Adm2:
+    GID: IRL.10.3_1
+    admin_name: Kilkenny City
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.10.4_1_Adm2:
+    GID: IRL.10.4_1
+    admin_name: Piltown
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.11_1_Adm1:
+    GID: IRL.11_1
+    admin_name: Laois
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.11.1_1_Adm2:
+    GID: IRL.11.1_1
+    admin_name: Borris-in-Ossory-Mountmellick
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.11.2_1_Adm2:
+    GID: IRL.11.2_1
+    admin_name: Graiguecullen-Portarlington
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.11.3_1_Adm2:
+    GID: IRL.11.3_1
+    admin_name: Portlaoise
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.12_1_Adm1:
+    GID: IRL.12_1
+    admin_name: Leitrim
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.12.1_1_Adm2:
+    GID: IRL.12.1_1
+    admin_name: Ballinamore
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.12.2_1_Adm2:
+    GID: IRL.12.2_1
+    admin_name: Carrick-on-Shannon
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.12.3_1_Adm2:
+    GID: IRL.12.3_1
+    admin_name: Manorhamilton
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.13_1_Adm1:
+    GID: IRL.13_1
+    admin_name: Limerick
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.13.1_1_Adm2:
+    GID: IRL.13.1_1
+    admin_name: Adare-Rathkeale
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.13.2_1_Adm2:
+    GID: IRL.13.2_1
+    admin_name: Cappamore-Kilmallock
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.13.3_1_Adm2:
+    GID: IRL.13.3_1
+    admin_name: Limerick City
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.13.4_1_Adm2:
+    GID: IRL.13.4_1
+    admin_name: Newcastle West
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.14_1_Adm1:
+    GID: IRL.14_1
+    admin_name: Longford
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.14.1_1_Adm2:
+    GID: IRL.14.1_1
+    admin_name: Ballymahon
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.14.2_1_Adm2:
+    GID: IRL.14.2_1
+    admin_name: Granard
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.14.3_1_Adm2:
+    GID: IRL.14.3_1
+    admin_name: Longford
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.15_1_Adm1:
+    GID: IRL.15_1
+    admin_name: Louth
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.15.1_1_Adm2:
+    GID: IRL.15.1_1
+    admin_name: Ardee
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.15.2_1_Adm2:
+    GID: IRL.15.2_1
+    admin_name: Drogheda
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.15.3_1_Adm2:
+    GID: IRL.15.3_1
+    admin_name: Dundalk
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.16_1_Adm1:
+    GID: IRL.16_1
+    admin_name: Mayo
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.16.1_1_Adm2:
+    GID: IRL.16.1_1
+    admin_name: Ballina
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.16.2_1_Adm2:
+    GID: IRL.16.2_1
+    admin_name: Castlebar
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.16.3_1_Adm2:
+    GID: IRL.16.3_1
+    admin_name: Claremorris - Swinford
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.16.4_1_Adm2:
+    GID: IRL.16.4_1
+    admin_name: Westport - Belmullet
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.17_1_Adm1:
+    GID: IRL.17_1
+    admin_name: Meath
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.17.1_1_Adm2:
+    GID: IRL.17.1_1
+    admin_name: Ashbourne
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.17.2_1_Adm2:
+    GID: IRL.17.2_1
+    admin_name: Kells
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.17.3_1_Adm2:
+    GID: IRL.17.3_1
+    admin_name: Laytown - Bettystown
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.17.4_1_Adm2:
+    GID: IRL.17.4_1
+    admin_name: Navan
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.17.5_1_Adm2:
+    GID: IRL.17.5_1
+    admin_name: Ratoath
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.17.6_1_Adm2:
+    GID: IRL.17.6_1
+    admin_name: Trim
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.18_1_Adm1:
+    GID: IRL.18_1
+    admin_name: Monaghan
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.18.1_1_Adm2:
+    GID: IRL.18.1_1
+    admin_name: Ballybay - Clones
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.18.2_1_Adm2:
+    GID: IRL.18.2_1
+    admin_name: Carrickmacross - Castleblayney
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.18.3_1_Adm2:
+    GID: IRL.18.3_1
+    admin_name: Monaghan
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.19_1_Adm1:
+    GID: IRL.19_1
+    admin_name: Offaly
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.19.1_1_Adm2:
+    GID: IRL.19.1_1
+    admin_name: Birr
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.19.2_1_Adm2:
+    GID: IRL.19.2_1
+    admin_name: Edenderry
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.19.3_1_Adm2:
+    GID: IRL.19.3_1
+    admin_name: Tullamore
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.2_1_Adm1:
+    GID: IRL.2_1
+    admin_name: Cavan
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.2.1_1_Adm2:
+    GID: IRL.2.1_1
+    admin_name: Bailieborough-Cootehill
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.2.2_1_Adm2:
+    GID: IRL.2.2_1
+    admin_name: Ballyjamesduff
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.2.3_1_Adm2:
+    GID: IRL.2.3_1
+    admin_name: Cavan-Belturbet
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.20_1_Adm1:
+    GID: IRL.20_1
+    admin_name: Roscommon
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.20.1_1_Adm2:
+    GID: IRL.20.1_1
+    admin_name: Athlone
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.20.2_1_Adm2:
+    GID: IRL.20.2_1
+    admin_name: Boyle
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.20.3_1_Adm2:
+    GID: IRL.20.3_1
+    admin_name: Roscommon
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.21_1_Adm1:
+    GID: IRL.21_1
+    admin_name: Sligo
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.21.1_1_Adm2:
+    GID: IRL.21.1_1
+    admin_name: Ballymote-Tobercurry
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.21.2_1_Adm2:
+    GID: IRL.21.2_1
+    admin_name: Sligo
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.21.3_1_Adm2:
+    GID: IRL.21.3_1
+    admin_name: Sligo-Drumcliff
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.22_1_Adm1:
+    GID: IRL.22_1
+    admin_name: Tipperary
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.22.1_1_Adm2:
+    GID: IRL.22.1_1
+    admin_name: Carrick-on-Suir
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.22.2_1_Adm2:
+    GID: IRL.22.2_1
+    admin_name: Clonmel
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.22.3_1_Adm2:
+    GID: IRL.22.3_1
+    admin_name: Nenagh
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.22.4_1_Adm2:
+    GID: IRL.22.4_1
+    admin_name: Thurles
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.22.5_1_Adm2:
+    GID: IRL.22.5_1
+    admin_name: Tipperary-Cahir-Cashel
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.23_1_Adm1:
+    GID: IRL.23_1
+    admin_name: Waterford
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.23.1_1_Adm2:
+    GID: IRL.23.1_1
+    admin_name: Comeragh
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.23.2_1_Adm2:
+    GID: IRL.23.2_1
+    admin_name: Dungarvan-Lismore
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.23.3_1_Adm2:
+    GID: IRL.23.3_1
+    admin_name: Waterford City
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.24_1_Adm1:
+    GID: IRL.24_1
+    admin_name: Westmeath
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.24.1_1_Adm2:
+    GID: IRL.24.1_1
+    admin_name: Athlone - Moate
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.24.2_1_Adm2:
+    GID: IRL.24.2_1
+    admin_name: Mullingar - Kinnegad
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.25_1_Adm1:
+    GID: IRL.25_1
+    admin_name: Wexford
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.25.1_1_Adm2:
+    GID: IRL.25.1_1
+    admin_name: Enniscorthy
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.25.2_1_Adm2:
+    GID: IRL.25.2_1
+    admin_name: Gorey-Kilmuckridge
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.25.3_1_Adm2:
+    GID: IRL.25.3_1
+    admin_name: New Ross
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.25.4_1_Adm2:
+    GID: IRL.25.4_1
+    admin_name: Rosslare
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.25.5_1_Adm2:
+    GID: IRL.25.5_1
+    admin_name: Wexford
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.26_1_Adm1:
+    GID: IRL.26_1
+    admin_name: Wicklow
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.26.1_1_Adm2:
+    GID: IRL.26.1_1
+    admin_name: Arklow
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.26.2_1_Adm2:
+    GID: IRL.26.2_1
+    admin_name: Baltinglass
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.26.3_1_Adm2:
+    GID: IRL.26.3_1
+    admin_name: Bray
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.26.4_1_Adm2:
+    GID: IRL.26.4_1
+    admin_name: Greystones
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.26.5_1_Adm2:
+    GID: IRL.26.5_1
+    admin_name: Wicklow
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.3_1_Adm1:
+    GID: IRL.3_1
+    admin_name: Clare
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.3.1_1_Adm2:
+    GID: IRL.3.1_1
+    admin_name: Ennis
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.3.2_1_Adm2:
+    GID: IRL.3.2_1
+    admin_name: Killaloe
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.3.3_1_Adm2:
+    GID: IRL.3.3_1
+    admin_name: Shannon
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.3.4_1_Adm2:
+    GID: IRL.3.4_1
+    admin_name: West Clare
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4_1_Adm1:
+    GID: IRL.4_1
+    admin_name: Munster
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.4.1_1_Adm2:
+    GID: IRL.4.1_1
+    admin_name: Bandon - Kinsale
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4.2_1_Adm2:
+    GID: IRL.4.2_1
+    admin_name: Carrigaline
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4.3_1_Adm2:
+    GID: IRL.4.3_1
+    admin_name: Cobh
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4.4_1_Adm2:
+    GID: IRL.4.4_1
+    admin_name: Cork City
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4.5_1_Adm2:
+    GID: IRL.4.5_1
+    admin_name: East Cork
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4.6_1_Adm2:
+    GID: IRL.4.6_1
+    admin_name: Fermoy
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4.7_1_Adm2:
+    GID: IRL.4.7_1
+    admin_name: Kanturk - Mallow
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4.8_1_Adm2:
+    GID: IRL.4.8_1
+    admin_name: Macroom
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.4.9_1_Adm2:
+    GID: IRL.4.9_1
+    admin_name: West Cork
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.5_1_Adm1:
+    GID: IRL.5_1
+    admin_name: Donegal
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.5.1_1_Adm2:
+    GID: IRL.5.1_1
+    admin_name: Donegal
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.5.2_1_Adm2:
+    GID: IRL.5.2_1
+    admin_name: Glenties
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.5.3_1_Adm2:
+    GID: IRL.5.3_1
+    admin_name: Inishowen
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.5.4_1_Adm2:
+    GID: IRL.5.4_1
+    admin_name: Letterkenny - Milford
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.5.5_1_Adm2:
+    GID: IRL.5.5_1
+    admin_name: Lifford - Stranorlar
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.6_1_Adm1:
+    GID: IRL.6_1
+    admin_name: Dublin
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.6.1_1_Adm2:
+    GID: IRL.6.1_1
+    admin_name: Dublin City
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.6.2_1_Adm2:
+    GID: IRL.6.2_1
+    admin_name: Dún Laoghaire-Rathdown
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.6.3_1_Adm2:
+    GID: IRL.6.3_1
+    admin_name: Fingal
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.6.4_1_Adm2:
+    GID: IRL.6.4_1
+    admin_name: South Dublin
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.7_1_Adm1:
+    GID: IRL.7_1
+    admin_name: Galway
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.7.1_1_Adm2:
+    GID: IRL.7.1_1
+    admin_name: Athenry
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.7.2_1_Adm2:
+    GID: IRL.7.2_1
+    admin_name: Ballinasloe
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.7.3_1_Adm2:
+    GID: IRL.7.3_1
+    admin_name: Conamara
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.7.4_1_Adm2:
+    GID: IRL.7.4_1
+    admin_name: Galway City
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.7.5_1_Adm2:
+    GID: IRL.7.5_1
+    admin_name: Loughrea
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.7.6_1_Adm2:
+    GID: IRL.7.6_1
+    admin_name: Tuam
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.8_1_Adm1:
+    GID: IRL.8_1
+    admin_name: Kerry
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.8.1_1_Adm2:
+    GID: IRL.8.1_1
+    admin_name: Castleisland-Corca Dhuibhne
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.8.2_1_Adm2:
+    GID: IRL.8.2_1
+    admin_name: Kenmare
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.8.3_1_Adm2:
+    GID: IRL.8.3_1
+    admin_name: Killarney
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.8.4_1_Adm2:
+    GID: IRL.8.4_1
+    admin_name: Listowel
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.8.5_1_Adm2:
+    GID: IRL.8.5_1
+    admin_name: Tralee
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.9_1_Adm1:
+    GID: IRL.9_1
+    admin_name: Kildare
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm1
+  IRL.9.1_1_Adm2:
+    GID: IRL.9.1_1
+    admin_name: Athy
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.9.2_1_Adm2:
+    GID: IRL.9.2_1
+    admin_name: Celbridge-Leixlip
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.9.3_1_Adm2:
+    GID: IRL.9.3_1
+    admin_name: Clane-Maynooth
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.9.4_1_Adm2:
+    GID: IRL.9.4_1
+    admin_name: Kildare-Newbridge
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2
+  IRL.9.5_1_Adm2:
+    GID: IRL.9.5_1
+    admin_name: Naas
+    iso3c: IRL
+    country_name: Ireland
+    admin_level: Adm2

@@ -1,0 +1,79 @@
+concepts:
+  MUS.0_Adm0:
+    GID: MUS
+    admin_name: Mauritius
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm0
+  MUS.1_1_Adm1:
+    GID: MUS.1_1
+    admin_name: Agalega Islands
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.10_1_Adm1:
+    GID: MUS.10_1
+    admin_name: Rodriguez
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.11_1_Adm1:
+    GID: MUS.11_1
+    admin_name: Saint Brandon
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.12_1_Adm1:
+    GID: MUS.12_1
+    admin_name: Savanne
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.2_1_Adm1:
+    GID: MUS.2_1
+    admin_name: Black River
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.3_1_Adm1:
+    GID: MUS.3_1
+    admin_name: Flacq
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.4_1_Adm1:
+    GID: MUS.4_1
+    admin_name: Grand Port
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.5_1_Adm1:
+    GID: MUS.5_1
+    admin_name: Moka
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.6_1_Adm1:
+    GID: MUS.6_1
+    admin_name: Pamplemousses
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.7_1_Adm1:
+    GID: MUS.7_1
+    admin_name: Plaines Wilhems
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.8_1_Adm1:
+    GID: MUS.8_1
+    admin_name: Port Louis
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1
+  MUS.9_1_Adm1:
+    GID: MUS.9_1
+    admin_name: Rivière du Rempart
+    iso3c: MUS
+    country_name: Mauritius
+    admin_level: Adm1

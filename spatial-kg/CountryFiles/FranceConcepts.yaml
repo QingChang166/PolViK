@@ -1,0 +1,661 @@
+concepts:
+  FRA.0_Adm0:
+    GID: FRA
+    admin_name: France
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm0
+  FRA.1_1_Adm1:
+    GID: FRA.1_1
+    admin_name: Auvergne-Rhône-Alpes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.1.1_1_Adm2:
+    GID: FRA.1.1_1
+    admin_name: Ain
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.10_1_Adm2:
+    GID: FRA.1.10_1
+    admin_name: Puy-de-Dôme
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.11_1_Adm2:
+    GID: FRA.1.11_1
+    admin_name: Rhône
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.12_1_Adm2:
+    GID: FRA.1.12_1
+    admin_name: Savoie
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.2_1_Adm2:
+    GID: FRA.1.2_1
+    admin_name: Allier
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.3_1_Adm2:
+    GID: FRA.1.3_1
+    admin_name: Ardèche
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.4_1_Adm2:
+    GID: FRA.1.4_1
+    admin_name: Cantal
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.5_1_Adm2:
+    GID: FRA.1.5_1
+    admin_name: Drôme
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.6_1_Adm2:
+    GID: FRA.1.6_1
+    admin_name: Haute-Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.7_1_Adm2:
+    GID: FRA.1.7_1
+    admin_name: Haute-Savoie
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.8_1_Adm2:
+    GID: FRA.1.8_1
+    admin_name: Isère
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.1.9_1_Adm2:
+    GID: FRA.1.9_1
+    admin_name: Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10_1_Adm1:
+    GID: FRA.10_1
+    admin_name: Nouvelle-Aquitaine
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.10.1_1_Adm2:
+    GID: FRA.10.1_1
+    admin_name: Charente-Maritime
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.10_1_Adm2:
+    GID: FRA.10.10_1
+    admin_name: Lot-et-Garonne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.11_1_Adm2:
+    GID: FRA.10.11_1
+    admin_name: Pyrénées-Atlantiques
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.12_1_Adm2:
+    GID: FRA.10.12_1
+    admin_name: Vienne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.2_1_Adm2:
+    GID: FRA.10.2_1
+    admin_name: Charente
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.3_1_Adm2:
+    GID: FRA.10.3_1
+    admin_name: Corrèze
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.4_1_Adm2:
+    GID: FRA.10.4_1
+    admin_name: Creuse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.5_1_Adm2:
+    GID: FRA.10.5_1
+    admin_name: Deux-Sèvres
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.6_1_Adm2:
+    GID: FRA.10.6_1
+    admin_name: Dordogne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.7_1_Adm2:
+    GID: FRA.10.7_1
+    admin_name: Gironde
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.8_1_Adm2:
+    GID: FRA.10.8_1
+    admin_name: Haute-Vienne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.10.9_1_Adm2:
+    GID: FRA.10.9_1
+    admin_name: Landes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11_1_Adm1:
+    GID: FRA.11_1
+    admin_name: Occitanie
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.11.1_1_Adm2:
+    GID: FRA.11.1_1
+    admin_name: Ariège
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.10_1_Adm2:
+    GID: FRA.11.10_1
+    admin_name: Lozère
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.11_1_Adm2:
+    GID: FRA.11.11_1
+    admin_name: Pyrénées-Orientales
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.12_1_Adm2:
+    GID: FRA.11.12_1
+    admin_name: Tarn-et-Garonne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.13_1_Adm2:
+    GID: FRA.11.13_1
+    admin_name: Tarn
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.2_1_Adm2:
+    GID: FRA.11.2_1
+    admin_name: Aude
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.3_1_Adm2:
+    GID: FRA.11.3_1
+    admin_name: Aveyron
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.4_1_Adm2:
+    GID: FRA.11.4_1
+    admin_name: Gard
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.5_1_Adm2:
+    GID: FRA.11.5_1
+    admin_name: Gers
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.6_1_Adm2:
+    GID: FRA.11.6_1
+    admin_name: Haute-Garonne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.7_1_Adm2:
+    GID: FRA.11.7_1
+    admin_name: Hautes-Pyrénées
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.8_1_Adm2:
+    GID: FRA.11.8_1
+    admin_name: Hérault
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.11.9_1_Adm2:
+    GID: FRA.11.9_1
+    admin_name: Lot
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12_1_Adm1:
+    GID: FRA.12_1
+    admin_name: Pays de la Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.12.1_1_Adm2:
+    GID: FRA.12.1_1
+    admin_name: Loire-Atlantique
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12.2_1_Adm2:
+    GID: FRA.12.2_1
+    admin_name: Maine-et-Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12.3_1_Adm2:
+    GID: FRA.12.3_1
+    admin_name: Mayenne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12.4_1_Adm2:
+    GID: FRA.12.4_1
+    admin_name: Sarthe
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.12.5_1_Adm2:
+    GID: FRA.12.5_1
+    admin_name: Vendée
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13_1_Adm1:
+    GID: FRA.13_1
+    admin_name: Provence-Alpes-Côte d'Azur
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.13.1_1_Adm2:
+    GID: FRA.13.1_1
+    admin_name: Alpes-de-Haute-Provence
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.2_1_Adm2:
+    GID: FRA.13.2_1
+    admin_name: Alpes-Maritimes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.3_1_Adm2:
+    GID: FRA.13.3_1
+    admin_name: Bouches-du-Rhône
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.4_1_Adm2:
+    GID: FRA.13.4_1
+    admin_name: Hautes-Alpes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.5_1_Adm2:
+    GID: FRA.13.5_1
+    admin_name: Var
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.13.6_1_Adm2:
+    GID: FRA.13.6_1
+    admin_name: Vaucluse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2_1_Adm1:
+    GID: FRA.2_1
+    admin_name: Bourgogne-Franche-Comté
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.2.1_1_Adm2:
+    GID: FRA.2.1_1
+    admin_name: Côte-d'Or
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.2_1_Adm2:
+    GID: FRA.2.2_1
+    admin_name: Doubs
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.3_1_Adm2:
+    GID: FRA.2.3_1
+    admin_name: Haute-Saône
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.4_1_Adm2:
+    GID: FRA.2.4_1
+    admin_name: Jura
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.5_1_Adm2:
+    GID: FRA.2.5_1
+    admin_name: Nièvre
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.6_1_Adm2:
+    GID: FRA.2.6_1
+    admin_name: Saône-et-Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.7_1_Adm2:
+    GID: FRA.2.7_1
+    admin_name: Territoire de Belfort
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.2.8_1_Adm2:
+    GID: FRA.2.8_1
+    admin_name: Yonne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.3_1_Adm1:
+    GID: FRA.3_1
+    admin_name: Bretagne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.3.1_1_Adm2:
+    GID: FRA.3.1_1
+    admin_name: Côtes-d'Armor
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.3.2_1_Adm2:
+    GID: FRA.3.2_1
+    admin_name: Finistère
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.3.3_1_Adm2:
+    GID: FRA.3.3_1
+    admin_name: Ille-et-Vilaine
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.3.4_1_Adm2:
+    GID: FRA.3.4_1
+    admin_name: Morbihan
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4_1_Adm1:
+    GID: FRA.4_1
+    admin_name: Centre-Val de Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.4.1_1_Adm2:
+    GID: FRA.4.1_1
+    admin_name: Cher
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.2_1_Adm2:
+    GID: FRA.4.2_1
+    admin_name: Eure-et-Loir
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.3_1_Adm2:
+    GID: FRA.4.3_1
+    admin_name: Indre-et-Loire
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.4_1_Adm2:
+    GID: FRA.4.4_1
+    admin_name: Indre
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.5_1_Adm2:
+    GID: FRA.4.5_1
+    admin_name: Loir-et-Cher
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.4.6_1_Adm2:
+    GID: FRA.4.6_1
+    admin_name: Loiret
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.5_1_Adm1:
+    GID: FRA.5_1
+    admin_name: Corse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.5.1_1_Adm2:
+    GID: FRA.5.1_1
+    admin_name: Corse-du-Sud
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.5.2_1_Adm2:
+    GID: FRA.5.2_1
+    admin_name: Haute-Corse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6_1_Adm1:
+    GID: FRA.6_1
+    admin_name: Grand Est
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.6.1_1_Adm2:
+    GID: FRA.6.1_1
+    admin_name: Ardennes
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.10_1_Adm2:
+    GID: FRA.6.10_1
+    admin_name: Vosges
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.2_1_Adm2:
+    GID: FRA.6.2_1
+    admin_name: Aube
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.3_1_Adm2:
+    GID: FRA.6.3_1
+    admin_name: Bas-Rhin
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.4_1_Adm2:
+    GID: FRA.6.4_1
+    admin_name: Haut-Rhin
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.5_1_Adm2:
+    GID: FRA.6.5_1
+    admin_name: Haute-Marne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.6_1_Adm2:
+    GID: FRA.6.6_1
+    admin_name: Marne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.7_1_Adm2:
+    GID: FRA.6.7_1
+    admin_name: Meurthe-et-Moselle
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.8_1_Adm2:
+    GID: FRA.6.8_1
+    admin_name: Meuse
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.6.9_1_Adm2:
+    GID: FRA.6.9_1
+    admin_name: Moselle
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7_1_Adm1:
+    GID: FRA.7_1
+    admin_name: Hauts-de-France
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.7.1_1_Adm2:
+    GID: FRA.7.1_1
+    admin_name: Aisne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7.2_1_Adm2:
+    GID: FRA.7.2_1
+    admin_name: Nord
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7.3_1_Adm2:
+    GID: FRA.7.3_1
+    admin_name: Oise
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7.4_1_Adm2:
+    GID: FRA.7.4_1
+    admin_name: Pas-de-Calais
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.7.5_1_Adm2:
+    GID: FRA.7.5_1
+    admin_name: Somme
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8_1_Adm1:
+    GID: FRA.8_1
+    admin_name: Île-de-France
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.8.1_1_Adm2:
+    GID: FRA.8.1_1
+    admin_name: Essonne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.2_1_Adm2:
+    GID: FRA.8.2_1
+    admin_name: Hauts-de-Seine
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.3_1_Adm2:
+    GID: FRA.8.3_1
+    admin_name: Paris
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.4_1_Adm2:
+    GID: FRA.8.4_1
+    admin_name: Seine-et-Marne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.5_1_Adm2:
+    GID: FRA.8.5_1
+    admin_name: Seine-Saint-Denis
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.6_1_Adm2:
+    GID: FRA.8.6_1
+    admin_name: Val-d'Oise
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.7_1_Adm2:
+    GID: FRA.8.7_1
+    admin_name: Val-de-Marne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.8.8_1_Adm2:
+    GID: FRA.8.8_1
+    admin_name: Yvelines
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9_1_Adm1:
+    GID: FRA.9_1
+    admin_name: Normandie
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm1
+  FRA.9.1_1_Adm2:
+    GID: FRA.9.1_1
+    admin_name: Calvados
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9.2_1_Adm2:
+    GID: FRA.9.2_1
+    admin_name: Eure
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9.3_1_Adm2:
+    GID: FRA.9.3_1
+    admin_name: Manche
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9.4_1_Adm2:
+    GID: FRA.9.4_1
+    admin_name: Orne
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2
+  FRA.9.5_1_Adm2:
+    GID: FRA.9.5_1
+    admin_name: Seine-Maritime
+    iso3c: FRA
+    country_name: France
+    admin_level: Adm2

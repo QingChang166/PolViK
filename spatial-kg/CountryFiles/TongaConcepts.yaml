@@ -1,0 +1,103 @@
+concepts:
+  TON.0_Adm0:
+    GID: TON
+    admin_name: Tonga
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm0
+  TON.1_1_Adm1:
+    GID: TON.1_1
+    admin_name: '''Eua'
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm1
+  TON.1.0_1_Adm2:
+    GID: TON.1.0_1
+    admin_name: n.a.
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.2_1_Adm1:
+    GID: TON.2_1
+    admin_name: Ha'apai
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm1
+  TON.2.0_1_Adm2:
+    GID: TON.2.0_1
+    admin_name: n.a.
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.3_1_Adm1:
+    GID: TON.3_1
+    admin_name: Niuas
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm1
+  TON.3.0_1_Adm2:
+    GID: TON.3.0_1
+    admin_name: n.a.
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.4_1_Adm1:
+    GID: TON.4_1
+    admin_name: Tongatapu
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm1
+  TON.4.0_1_Adm2:
+    GID: TON.4.0_1
+    admin_name: n.a.
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.4.1_1_Adm2:
+    GID: TON.4.1_1
+    admin_name: Kolofo'ou
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.4.2_1_Adm2:
+    GID: TON.4.2_1
+    admin_name: Kolomotu'a
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.4.3_1_Adm2:
+    GID: TON.4.3_1
+    admin_name: Kolovai
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.4.4_1_Adm2:
+    GID: TON.4.4_1
+    admin_name: Lapaha
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.4.5_1_Adm2:
+    GID: TON.4.5_1
+    admin_name: Nukunuku
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.4.6_1_Adm2:
+    GID: TON.4.6_1
+    admin_name: Tatakamotonga
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.4.7_1_Adm2:
+    GID: TON.4.7_1
+    admin_name: Vaini
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm2
+  TON.5_1_Adm1:
+    GID: TON.5_1
+    admin_name: Vava'u
+    iso3c: TON
+    country_name: Tonga
+    admin_level: Adm1

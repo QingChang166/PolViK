@@ -1,0 +1,3943 @@
+concepts:
+  ?_Adm2:
+    GID: '?'
+    admin_name: Darnytskyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.0_Adm0:
+    GID: UKR
+    admin_name: Ukraine
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm0
+  UKR.1_1_Adm1:
+    GID: UKR.1_1
+    admin_name: Cherkasy
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.1.1_1_Adm2:
+    GID: UKR.1.1_1
+    admin_name: Cherkas'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.10_1_Adm2:
+    GID: UKR.1.10_1
+    admin_name: Katerynopil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.11_1_Adm2:
+    GID: UKR.1.11_1
+    admin_name: Khrystynivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.12_1_Adm2:
+    GID: UKR.1.12_1
+    admin_name: Korsun'-Shevchenkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.13_1_Adm2:
+    GID: UKR.1.13_1
+    admin_name: Lysians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.14_1_Adm2:
+    GID: UKR.1.14_1
+    admin_name: Man'kivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.15_1_Adm2:
+    GID: UKR.1.15_1
+    admin_name: Monastyryshchens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.16_1_Adm2:
+    GID: UKR.1.16_1
+    admin_name: Shpolians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.17_1_Adm2:
+    GID: UKR.1.17_1
+    admin_name: Smilians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.18_1_Adm2:
+    GID: UKR.1.18_1
+    admin_name: Tal'nivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.19_1_Adm2:
+    GID: UKR.1.19_1
+    admin_name: Umans'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.2_1_Adm2:
+    GID: UKR.1.2_1
+    admin_name: Cherkas'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.20_1_Adm2:
+    GID: UKR.1.20_1
+    admin_name: Umans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.21_1_Adm2:
+    GID: UKR.1.21_1
+    admin_name: Zhashkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.22_1_Adm2:
+    GID: UKR.1.22_1
+    admin_name: Zolotonis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.23_1_Adm2:
+    GID: UKR.1.23_1
+    admin_name: Zvenyhorods'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.3_1_Adm2:
+    GID: UKR.1.3_1
+    admin_name: Chornobaivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.4_1_Adm2:
+    GID: UKR.1.4_1
+    admin_name: Chyhyryns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.5_1_Adm2:
+    GID: UKR.1.5_1
+    admin_name: Drabivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.6_1_Adm2:
+    GID: UKR.1.6_1
+    admin_name: Horodyshchens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.7_1_Adm2:
+    GID: UKR.1.7_1
+    admin_name: Kamians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.8_1_Adm2:
+    GID: UKR.1.8_1
+    admin_name: Kanivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.1.9_1_Adm2:
+    GID: UKR.1.9_1
+    admin_name: Kanivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10_1_Adm1:
+    GID: UKR.10_1
+    admin_name: Khmel'nyts'kyy
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.10.1_1_Adm2:
+    GID: UKR.10.1_1
+    admin_name: Bilohirs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.10_1_Adm2:
+    GID: UKR.10.10_1
+    admin_name: Khmel'nyts'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.11_1_Adm2:
+    GID: UKR.10.11_1
+    admin_name: Khmel'nyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.12_1_Adm2:
+    GID: UKR.10.12_1
+    admin_name: Krasylivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.13_1_Adm2:
+    GID: UKR.10.13_1
+    admin_name: Letychivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.14_1_Adm2:
+    GID: UKR.10.14_1
+    admin_name: Novoushyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.15_1_Adm2:
+    GID: UKR.10.15_1
+    admin_name: Polons'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.16_1_Adm2:
+    GID: UKR.10.16_1
+    admin_name: Shepetivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.17_1_Adm2:
+    GID: UKR.10.17_1
+    admin_name: Shepetivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.18_1_Adm2:
+    GID: UKR.10.18_1
+    admin_name: Slavuts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.19_1_Adm2:
+    GID: UKR.10.19_1
+    admin_name: Starokostiantynivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.2_1_Adm2:
+    GID: UKR.10.2_1
+    admin_name: Chemerovets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.20_1_Adm2:
+    GID: UKR.10.20_1
+    admin_name: Starosyniavs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.21_1_Adm2:
+    GID: UKR.10.21_1
+    admin_name: Teofipol's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.22_1_Adm2:
+    GID: UKR.10.22_1
+    admin_name: Vin'kovets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.23_1_Adm2:
+    GID: UKR.10.23_1
+    admin_name: Volochys'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.3_1_Adm2:
+    GID: UKR.10.3_1
+    admin_name: Derazhnians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.4_1_Adm2:
+    GID: UKR.10.4_1
+    admin_name: Dunaievets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.5_1_Adm2:
+    GID: UKR.10.5_1
+    admin_name: Horodots'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.6_1_Adm2:
+    GID: UKR.10.6_1
+    admin_name: Iarmolynets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.7_1_Adm2:
+    GID: UKR.10.7_1
+    admin_name: Iziaslavs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.8_1_Adm2:
+    GID: UKR.10.8_1
+    admin_name: Kamianets'-Podil's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.10.9_1_Adm2:
+    GID: UKR.10.9_1
+    admin_name: Kamianets'-Podil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11_1_Adm1:
+    GID: UKR.11_1
+    admin_name: Kiev City
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.11.10_1_Adm2:
+    GID: UKR.11.10_1
+    admin_name: Sviatoshyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11.2_1_Adm2:
+    GID: UKR.11.2_1
+    admin_name: Desnians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11.3_1_Adm2:
+    GID: UKR.11.3_1
+    admin_name: Dniprovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11.4_1_Adm2:
+    GID: UKR.11.4_1
+    admin_name: Holosiïvs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11.5_1_Adm2:
+    GID: UKR.11.5_1
+    admin_name: Obolons'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11.6_1_Adm2:
+    GID: UKR.11.6_1
+    admin_name: Pechers'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11.7_1_Adm2:
+    GID: UKR.11.7_1
+    admin_name: Podil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11.8_1_Adm2:
+    GID: UKR.11.8_1
+    admin_name: Shevchenkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.11.9_1_Adm2:
+    GID: UKR.11.9_1
+    admin_name: Solomians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12_1_Adm1:
+    GID: UKR.12_1
+    admin_name: Kiev
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.12.1_1_Adm2:
+    GID: UKR.12.1_1
+    admin_name: Baryshivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.10_1_Adm2:
+    GID: UKR.12.10_1
+    admin_name: Fastivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.11_1_Adm2:
+    GID: UKR.12.11_1
+    admin_name: Iahotyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.12_1_Adm2:
+    GID: UKR.12.12_1
+    admin_name: Irpins'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.13_1_Adm2:
+    GID: UKR.12.13_1
+    admin_name: Ivankivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.14_1_Adm2:
+    GID: UKR.12.14_1
+    admin_name: Kaharlyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.15_1_Adm2:
+    GID: UKR.12.15_1
+    admin_name: Kyievo-Sviatoshyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.16_1_Adm2:
+    GID: UKR.12.16_1
+    admin_name: Makarivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.17_1_Adm2:
+    GID: UKR.12.17_1
+    admin_name: Myronivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.18_1_Adm2:
+    GID: UKR.12.18_1
+    admin_name: Obukhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.19_1_Adm2:
+    GID: UKR.12.19_1
+    admin_name: Pereiaslav-Khmel'nyts'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.2_1_Adm2:
+    GID: UKR.12.2_1
+    admin_name: Bilotserkivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.20_1_Adm2:
+    GID: UKR.12.20_1
+    admin_name: Pereiaslav-Khmel'nyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.21_1_Adm2:
+    GID: UKR.12.21_1
+    admin_name: Polis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.22_1_Adm2:
+    GID: UKR.12.22_1
+    admin_name: Rokytnians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.23_1_Adm2:
+    GID: UKR.12.23_1
+    admin_name: Skvyrs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.24_1_Adm2:
+    GID: UKR.12.24_1
+    admin_name: Stavyshchens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.25_1_Adm2:
+    GID: UKR.12.25_1
+    admin_name: Tarashchans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.26_1_Adm2:
+    GID: UKR.12.26_1
+    admin_name: Tetiïvs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.27_1_Adm2:
+    GID: UKR.12.27_1
+    admin_name: Vasyl'kivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.28_1_Adm2:
+    GID: UKR.12.28_1
+    admin_name: Volodars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.29_1_Adm2:
+    GID: UKR.12.29_1
+    admin_name: Vyshhorods'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.3_1_Adm2:
+    GID: UKR.12.3_1
+    admin_name: Bilotserkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.30_1_Adm2:
+    GID: UKR.12.30_1
+    admin_name: Zgurivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.4_1_Adm2:
+    GID: UKR.12.4_1
+    admin_name: Bohuslavs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.5_1_Adm2:
+    GID: UKR.12.5_1
+    admin_name: Borodians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.6_1_Adm2:
+    GID: UKR.12.6_1
+    admin_name: Boryspil's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.7_1_Adm2:
+    GID: UKR.12.7_1
+    admin_name: Brovars'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.8_1_Adm2:
+    GID: UKR.12.8_1
+    admin_name: Brovars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.12.9_1_Adm2:
+    GID: UKR.12.9_1
+    admin_name: Fastivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13_1_Adm1:
+    GID: UKR.13_1
+    admin_name: Kirovohrad
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.13.1_1_Adm2:
+    GID: UKR.13.1_1
+    admin_name: Bobrynets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.10_1_Adm2:
+    GID: UKR.13.10_1
+    admin_name: Novoarkhanhel's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.11_1_Adm2:
+    GID: UKR.13.11_1
+    admin_name: Novomyrhorods'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.12_1_Adm2:
+    GID: UKR.13.12_1
+    admin_name: Novoukra‹ns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.13_1_Adm2:
+    GID: UKR.13.13_1
+    admin_name: Oleksandriis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.14_1_Adm2:
+    GID: UKR.13.14_1
+    admin_name: Oleksandrivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.15_1_Adm2:
+    GID: UKR.13.15_1
+    admin_name: Onufri‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.16_1_Adm2:
+    GID: UKR.13.16_1
+    admin_name: Petrivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.17_1_Adm2:
+    GID: UKR.13.17_1
+    admin_name: Svitlovods'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.18_1_Adm2:
+    GID: UKR.13.18_1
+    admin_name: Ul'ianovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.19_1_Adm2:
+    GID: UKR.13.19_1
+    admin_name: Ustynivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.2_1_Adm2:
+    GID: UKR.13.2_1
+    admin_name: Dobrovelychkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.20_1_Adm2:
+    GID: UKR.13.20_1
+    admin_name: Vil'shans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.21_1_Adm2:
+    GID: UKR.13.21_1
+    admin_name: Znamians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.3_1_Adm2:
+    GID: UKR.13.3_1
+    admin_name: Dolyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.4_1_Adm2:
+    GID: UKR.13.4_1
+    admin_name: Haivorons'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.5_1_Adm2:
+    GID: UKR.13.5_1
+    admin_name: Holovanivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.6_1_Adm2:
+    GID: UKR.13.6_1
+    admin_name: Kirovohrads'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.7_1_Adm2:
+    GID: UKR.13.7_1
+    admin_name: Kompani‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.8_1_Adm2:
+    GID: UKR.13.8_1
+    admin_name: Malovyskivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.13.9_1_Adm2:
+    GID: UKR.13.9_1
+    admin_name: Novhorodkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14_1_Adm1:
+    GID: UKR.14_1
+    admin_name: L'viv
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.14.1_1_Adm2:
+    GID: UKR.14.1_1
+    admin_name: Brodivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.10_1_Adm2:
+    GID: UKR.14.10_1
+    admin_name: Mostys'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.11_1_Adm2:
+    GID: UKR.14.11_1
+    admin_name: Mykola‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.12_1_Adm2:
+    GID: UKR.14.12_1
+    admin_name: Peremyshlians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.13_1_Adm2:
+    GID: UKR.14.13_1
+    admin_name: Pustomytivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.14_1_Adm2:
+    GID: UKR.14.14_1
+    admin_name: Radekhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.15_1_Adm2:
+    GID: UKR.14.15_1
+    admin_name: Sambirs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.16_1_Adm2:
+    GID: UKR.14.16_1
+    admin_name: Sambirs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.17_1_Adm2:
+    GID: UKR.14.17_1
+    admin_name: Skolivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.18_1_Adm2:
+    GID: UKR.14.18_1
+    admin_name: Sokal's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.19_1_Adm2:
+    GID: UKR.14.19_1
+    admin_name: Starosambirs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.2_1_Adm2:
+    GID: UKR.14.2_1
+    admin_name: Bus'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.20_1_Adm2:
+    GID: UKR.14.20_1
+    admin_name: Stryis'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.21_1_Adm2:
+    GID: UKR.14.21_1
+    admin_name: Stryis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.22_1_Adm2:
+    GID: UKR.14.22_1
+    admin_name: Turkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.23_1_Adm2:
+    GID: UKR.14.23_1
+    admin_name: Zhovkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.24_1_Adm2:
+    GID: UKR.14.24_1
+    admin_name: Zhydachivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.25_1_Adm2:
+    GID: UKR.14.25_1
+    admin_name: Zolochivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.3_1_Adm2:
+    GID: UKR.14.3_1
+    admin_name: Chervonohrads'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.4_1_Adm2:
+    GID: UKR.14.4_1
+    admin_name: Drohobyts'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.5_1_Adm2:
+    GID: UKR.14.5_1
+    admin_name: Drohobyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.6_1_Adm2:
+    GID: UKR.14.6_1
+    admin_name: Horodots'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.7_1_Adm2:
+    GID: UKR.14.7_1
+    admin_name: Iavorivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.8_1_Adm2:
+    GID: UKR.14.8_1
+    admin_name: Kamianka-Buz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.14.9_1_Adm2:
+    GID: UKR.14.9_1
+    admin_name: L'vivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15_1_Adm1:
+    GID: UKR.15_1
+    admin_name: Luhans'k
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.15.1_1_Adm2:
+    GID: UKR.15.1_1
+    admin_name: Alchevs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.10_1_Adm2:
+    GID: UKR.15.10_1
+    admin_name: Krasnoluts'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.11_1_Adm2:
+    GID: UKR.15.11_1
+    admin_name: Kremins'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.12_1_Adm2:
+    GID: UKR.15.12_1
+    admin_name: Luhans'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.13_1_Adm2:
+    GID: UKR.15.13_1
+    admin_name: Lutuhyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.14_1_Adm2:
+    GID: UKR.15.14_1
+    admin_name: Lysychans'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.15_1_Adm2:
+    GID: UKR.15.15_1
+    admin_name: Markivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.16_1_Adm2:
+    GID: UKR.15.16_1
+    admin_name: Milovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.17_1_Adm2:
+    GID: UKR.15.17_1
+    admin_name: n.a. ( 182)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.18_1_Adm2:
+    GID: UKR.15.18_1
+    admin_name: Novoaidars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.19_1_Adm2:
+    GID: UKR.15.19_1
+    admin_name: Novopskovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.2_1_Adm2:
+    GID: UKR.15.2_1
+    admin_name: Antratsitivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.20_1_Adm2:
+    GID: UKR.15.20_1
+    admin_name: Pereval's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.21_1_Adm2:
+    GID: UKR.15.21_1
+    admin_name: Popasnians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.22_1_Adm2:
+    GID: UKR.15.22_1
+    admin_name: Roven'kivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.23_1_Adm2:
+    GID: UKR.15.23_1
+    admin_name: Rubezhans'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.24_1_Adm2:
+    GID: UKR.15.24_1
+    admin_name: Sieverodonets'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.25_1_Adm2:
+    GID: UKR.15.25_1
+    admin_name: Slovianoserbs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.26_1_Adm2:
+    GID: UKR.15.26_1
+    admin_name: Stakhanivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.27_1_Adm2:
+    GID: UKR.15.27_1
+    admin_name: Stanychno-Luhans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.28_1_Adm2:
+    GID: UKR.15.28_1
+    admin_name: Starobil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.29_1_Adm2:
+    GID: UKR.15.29_1
+    admin_name: Svativs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.3_1_Adm2:
+    GID: UKR.15.3_1
+    admin_name: Antratsytivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.30_1_Adm2:
+    GID: UKR.15.30_1
+    admin_name: Sverdlovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.31_1_Adm2:
+    GID: UKR.15.31_1
+    admin_name: Sverdlovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.32_1_Adm2:
+    GID: UKR.15.32_1
+    admin_name: Tro‹ts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.4_1_Adm2:
+    GID: UKR.15.4_1
+    admin_name: Bilokurakyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.5_1_Adm2:
+    GID: UKR.15.5_1
+    admin_name: Bilovods'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.6_1_Adm2:
+    GID: UKR.15.6_1
+    admin_name: Briankivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.7_1_Adm2:
+    GID: UKR.15.7_1
+    admin_name: Kirovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.8_1_Adm2:
+    GID: UKR.15.8_1
+    admin_name: Krasnodons'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.15.9_1_Adm2:
+    GID: UKR.15.9_1
+    admin_name: Krasnodons'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16_1_Adm1:
+    GID: UKR.16_1
+    admin_name: Mykolayiv
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.16.1_1_Adm2:
+    GID: UKR.16.1_1
+    admin_name: Arbuzyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.10_1_Adm2:
+    GID: UKR.16.10_1
+    admin_name: Mykola‹vs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.11_1_Adm2:
+    GID: UKR.16.11_1
+    admin_name: Mykola‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.12_1_Adm2:
+    GID: UKR.16.12_1
+    admin_name: Novobuz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.13_1_Adm2:
+    GID: UKR.16.13_1
+    admin_name: Novoodes'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.14_1_Adm2:
+    GID: UKR.16.14_1
+    admin_name: Ochakivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.15_1_Adm2:
+    GID: UKR.16.15_1
+    admin_name: Pervomais'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.16_1_Adm2:
+    GID: UKR.16.16_1
+    admin_name: Pervomais'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.17_1_Adm2:
+    GID: UKR.16.17_1
+    admin_name: Snihurivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.18_1_Adm2:
+    GID: UKR.16.18_1
+    admin_name: Veselynivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.19_1_Adm2:
+    GID: UKR.16.19_1
+    admin_name: Voznesens'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.2_1_Adm2:
+    GID: UKR.16.2_1
+    admin_name: Bashtans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.20_1_Adm2:
+    GID: UKR.16.20_1
+    admin_name: Voznesens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.21_1_Adm2:
+    GID: UKR.16.21_1
+    admin_name: Vradi‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.22_1_Adm2:
+    GID: UKR.16.22_1
+    admin_name: Zhovtnevyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.3_1_Adm2:
+    GID: UKR.16.3_1
+    admin_name: Berezans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.4_1_Adm2:
+    GID: UKR.16.4_1
+    admin_name: Bereznehuvats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.5_1_Adm2:
+    GID: UKR.16.5_1
+    admin_name: Brats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.6_1_Adm2:
+    GID: UKR.16.6_1
+    admin_name: Domanivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.7_1_Adm2:
+    GID: UKR.16.7_1
+    admin_name: Ielanets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.8_1_Adm2:
+    GID: UKR.16.8_1
+    admin_name: Kazanetskyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.16.9_1_Adm2:
+    GID: UKR.16.9_1
+    admin_name: Kryvoozers'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17_1_Adm1:
+    GID: UKR.17_1
+    admin_name: Odessa
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.17.1_1_Adm2:
+    GID: UKR.17.1_1
+    admin_name: Anan'‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.10_1_Adm2:
+    GID: UKR.17.10_1
+    admin_name: Ivanivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.11_1_Adm2:
+    GID: UKR.17.11_1
+    admin_name: Izma‹l's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.12_1_Adm2:
+    GID: UKR.17.12_1
+    admin_name: Kiliis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.13_1_Adm2:
+    GID: UKR.17.13_1
+    admin_name: Kodyms'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.14_1_Adm2:
+    GID: UKR.17.14_1
+    admin_name: Kominternivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.15_1_Adm2:
+    GID: UKR.17.15_1
+    admin_name: Kotovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.16_1_Adm2:
+    GID: UKR.17.16_1
+    admin_name: Kotovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.17_1_Adm2:
+    GID: UKR.17.17_1
+    admin_name: Krasnooknians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.18_1_Adm2:
+    GID: UKR.17.18_1
+    admin_name: Liubashivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.19_1_Adm2:
+    GID: UKR.17.19_1
+    admin_name: Mykola‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.2_1_Adm2:
+    GID: UKR.17.2_1
+    admin_name: Artsyz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.20_1_Adm2:
+    GID: UKR.17.20_1
+    admin_name: Odes'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.21_1_Adm2:
+    GID: UKR.17.21_1
+    admin_name: Ovidiopol's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.22_1_Adm2:
+    GID: UKR.17.22_1
+    admin_name: Reniis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.23_1_Adm2:
+    GID: UKR.17.23_1
+    admin_name: Rozdil'nias'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.24_1_Adm2:
+    GID: UKR.17.24_1
+    admin_name: Sarats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.25_1_Adm2:
+    GID: UKR.17.25_1
+    admin_name: Savrans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.26_1_Adm2:
+    GID: UKR.17.26_1
+    admin_name: Shyria‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.27_1_Adm2:
+    GID: UKR.17.27_1
+    admin_name: Tarutyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.28_1_Adm2:
+    GID: UKR.17.28_1
+    admin_name: Tatarbunars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.29_1_Adm2:
+    GID: UKR.17.29_1
+    admin_name: Velykomykhailivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.3_1_Adm2:
+    GID: UKR.17.3_1
+    admin_name: Balts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.4_1_Adm2:
+    GID: UKR.17.4_1
+    admin_name: Berezivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.5_1_Adm2:
+    GID: UKR.17.5_1
+    admin_name: Bilhorod-Dnistrovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.6_1_Adm2:
+    GID: UKR.17.6_1
+    admin_name: Bilhorod-Dnistrovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.7_1_Adm2:
+    GID: UKR.17.7_1
+    admin_name: Bilia‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.8_1_Adm2:
+    GID: UKR.17.8_1
+    admin_name: Bolhrads'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.17.9_1_Adm2:
+    GID: UKR.17.9_1
+    admin_name: Frunzivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18_1_Adm1:
+    GID: UKR.18_1
+    admin_name: Poltava
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.18.1_1_Adm2:
+    GID: UKR.18.1_1
+    admin_name: Chornukhyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.10_1_Adm2:
+    GID: UKR.18.10_1
+    admin_name: Komsomol's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.11_1_Adm2:
+    GID: UKR.18.11_1
+    admin_name: Kotelevs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.12_1_Adm2:
+    GID: UKR.18.12_1
+    admin_name: Kozel'shchyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.13_1_Adm2:
+    GID: UKR.18.13_1
+    admin_name: Kremenchuts'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.14_1_Adm2:
+    GID: UKR.18.14_1
+    admin_name: Kremenchuts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.15_1_Adm2:
+    GID: UKR.18.15_1
+    admin_name: Lokhvyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.16_1_Adm2:
+    GID: UKR.18.16_1
+    admin_name: Lubens'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.17_1_Adm2:
+    GID: UKR.18.17_1
+    admin_name: Lubens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.18_1_Adm2:
+    GID: UKR.18.18_1
+    admin_name: Mashivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.19_1_Adm2:
+    GID: UKR.18.19_1
+    admin_name: Myrhorods'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.2_1_Adm2:
+    GID: UKR.18.2_1
+    admin_name: Chutivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.20_1_Adm2:
+    GID: UKR.18.20_1
+    admin_name: Novosanzhars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.21_1_Adm2:
+    GID: UKR.18.21_1
+    admin_name: Orzhyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.22_1_Adm2:
+    GID: UKR.18.22_1
+    admin_name: Poltavs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.23_1_Adm2:
+    GID: UKR.18.23_1
+    admin_name: Poltavs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.24_1_Adm2:
+    GID: UKR.18.24_1
+    admin_name: Pyriatyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.25_1_Adm2:
+    GID: UKR.18.25_1
+    admin_name: Reshetylivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.26_1_Adm2:
+    GID: UKR.18.26_1
+    admin_name: Semenivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.27_1_Adm2:
+    GID: UKR.18.27_1
+    admin_name: Shyshats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.28_1_Adm2:
+    GID: UKR.18.28_1
+    admin_name: Velykobahachans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.29_1_Adm2:
+    GID: UKR.18.29_1
+    admin_name: Zin'kivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.3_1_Adm2:
+    GID: UKR.18.3_1
+    admin_name: Dykans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.4_1_Adm2:
+    GID: UKR.18.4_1
+    admin_name: Hadiats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.5_1_Adm2:
+    GID: UKR.18.5_1
+    admin_name: Hlobyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.6_1_Adm2:
+    GID: UKR.18.6_1
+    admin_name: Hrebinkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.7_1_Adm2:
+    GID: UKR.18.7_1
+    admin_name: Karlivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.8_1_Adm2:
+    GID: UKR.18.8_1
+    admin_name: Khorol's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.18.9_1_Adm2:
+    GID: UKR.18.9_1
+    admin_name: Kobeliats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19_1_Adm1:
+    GID: UKR.19_1
+    admin_name: Rivne
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.19.1_1_Adm2:
+    GID: UKR.19.1_1
+    admin_name: Bereznivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.10_1_Adm2:
+    GID: UKR.19.10_1
+    admin_name: Ostroz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.11_1_Adm2:
+    GID: UKR.19.11_1
+    admin_name: Radyvylivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.12_1_Adm2:
+    GID: UKR.19.12_1
+    admin_name: Rivnens'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.13_1_Adm2:
+    GID: UKR.19.13_1
+    admin_name: Rivnens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.14_1_Adm2:
+    GID: UKR.19.14_1
+    admin_name: Rokytnivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.15_1_Adm2:
+    GID: UKR.19.15_1
+    admin_name: Sarnens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.16_1_Adm2:
+    GID: UKR.19.16_1
+    admin_name: Volodymyrets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.17_1_Adm2:
+    GID: UKR.19.17_1
+    admin_name: Zarichnens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.18_1_Adm2:
+    GID: UKR.19.18_1
+    admin_name: Zdolbunivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.2_1_Adm2:
+    GID: UKR.19.2_1
+    admin_name: Demydiv's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.3_1_Adm2:
+    GID: UKR.19.3_1
+    admin_name: Dubens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.4_1_Adm2:
+    GID: UKR.19.4_1
+    admin_name: Dubnivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.5_1_Adm2:
+    GID: UKR.19.5_1
+    admin_name: Dubrovyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.6_1_Adm2:
+    GID: UKR.19.6_1
+    admin_name: Hoshchans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.7_1_Adm2:
+    GID: UKR.19.7_1
+    admin_name: Korets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.8_1_Adm2:
+    GID: UKR.19.8_1
+    admin_name: Kostopil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.19.9_1_Adm2:
+    GID: UKR.19.9_1
+    admin_name: Mlynivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2_1_Adm1:
+    GID: UKR.2_1
+    admin_name: Chernihiv
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.2.1_1_Adm2:
+    GID: UKR.2.1_1
+    admin_name: Bakhmats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.10_1_Adm2:
+    GID: UKR.2.10_1
+    admin_name: Kozelets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.11_1_Adm2:
+    GID: UKR.2.11_1
+    admin_name: Kulykivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.12_1_Adm2:
+    GID: UKR.2.12_1
+    admin_name: Mens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.13_1_Adm2:
+    GID: UKR.2.13_1
+    admin_name: Nizhyns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.14_1_Adm2:
+    GID: UKR.2.14_1
+    admin_name: Nizhyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.15_1_Adm2:
+    GID: UKR.2.15_1
+    admin_name: Nosivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.16_1_Adm2:
+    GID: UKR.2.16_1
+    admin_name: Novhorod-Sivers'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.17_1_Adm2:
+    GID: UKR.2.17_1
+    admin_name: Pryluts'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.18_1_Adm2:
+    GID: UKR.2.18_1
+    admin_name: Pryluts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.19_1_Adm2:
+    GID: UKR.2.19_1
+    admin_name: Ripkyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.2_1_Adm2:
+    GID: UKR.2.2_1
+    admin_name: Bobrovyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.20_1_Adm2:
+    GID: UKR.2.20_1
+    admin_name: Semenivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.21_1_Adm2:
+    GID: UKR.2.21_1
+    admin_name: Shchors'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.22_1_Adm2:
+    GID: UKR.2.22_1
+    admin_name: Sosnyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.23_1_Adm2:
+    GID: UKR.2.23_1
+    admin_name: Sribnians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.24_1_Adm2:
+    GID: UKR.2.24_1
+    admin_name: Talala‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.25_1_Adm2:
+    GID: UKR.2.25_1
+    admin_name: Varvyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.3_1_Adm2:
+    GID: UKR.2.3_1
+    admin_name: Borznians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.4_1_Adm2:
+    GID: UKR.2.4_1
+    admin_name: Chernihivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.5_1_Adm2:
+    GID: UKR.2.5_1
+    admin_name: Chernihivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.6_1_Adm2:
+    GID: UKR.2.6_1
+    admin_name: Horodnians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.7_1_Adm2:
+    GID: UKR.2.7_1
+    admin_name: Ichnians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.8_1_Adm2:
+    GID: UKR.2.8_1
+    admin_name: Koriukivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.2.9_1_Adm2:
+    GID: UKR.2.9_1
+    admin_name: Korops'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.20_1_Adm1:
+    GID: UKR.20_1
+    admin_name: Sevastopol'
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.20.1_1_Adm2:
+    GID: UKR.20.1_1
+    admin_name: Balaklavs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.20.2_1_Adm2:
+    GID: UKR.20.2_1
+    admin_name: Haharins'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.20.3_1_Adm2:
+    GID: UKR.20.3_1
+    admin_name: Lenins'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.20.4_1_Adm2:
+    GID: UKR.20.4_1
+    admin_name: Nakhimovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21_1_Adm1:
+    GID: UKR.21_1
+    admin_name: Sumy
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.21.1_1_Adm2:
+    GID: UKR.21.1_1
+    admin_name: Bilopils'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.10_1_Adm2:
+    GID: UKR.21.10_1
+    admin_name: Lypovodolyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.11_1_Adm2:
+    GID: UKR.21.11_1
+    admin_name: Nedryhailivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.12_1_Adm2:
+    GID: UKR.21.12_1
+    admin_name: Okhtyrs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.13_1_Adm2:
+    GID: UKR.21.13_1
+    admin_name: Okhtyrs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.14_1_Adm2:
+    GID: UKR.21.14_1
+    admin_name: Putyvl's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.15_1_Adm2:
+    GID: UKR.21.15_1
+    admin_name: Romens'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.16_1_Adm2:
+    GID: UKR.21.16_1
+    admin_name: Romens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.17_1_Adm2:
+    GID: UKR.21.17_1
+    admin_name: Seredyno-Buds'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.18_1_Adm2:
+    GID: UKR.21.18_1
+    admin_name: Shostkins'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.19_1_Adm2:
+    GID: UKR.21.19_1
+    admin_name: Shostkins'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.2_1_Adm2:
+    GID: UKR.21.2_1
+    admin_name: Buryns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.20_1_Adm2:
+    GID: UKR.21.20_1
+    admin_name: Sums'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.21_1_Adm2:
+    GID: UKR.21.21_1
+    admin_name: Sums'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.22_1_Adm2:
+    GID: UKR.21.22_1
+    admin_name: Trostianets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.23_1_Adm2:
+    GID: UKR.21.23_1
+    admin_name: Velykopysarivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.3_1_Adm2:
+    GID: UKR.21.3_1
+    admin_name: Hlukhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.4_1_Adm2:
+    GID: UKR.21.4_1
+    admin_name: Iampil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.5_1_Adm2:
+    GID: UKR.21.5_1
+    admin_name: Konotops'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.6_1_Adm2:
+    GID: UKR.21.6_1
+    admin_name: Konotops'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.7_1_Adm2:
+    GID: UKR.21.7_1
+    admin_name: Krasnopil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.8_1_Adm2:
+    GID: UKR.21.8_1
+    admin_name: Krolevets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.21.9_1_Adm2:
+    GID: UKR.21.9_1
+    admin_name: Lebedyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22_1_Adm1:
+    GID: UKR.22_1
+    admin_name: Ternopil'
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.22.1_1_Adm2:
+    GID: UKR.22.1_1
+    admin_name: Berezhans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.10_1_Adm2:
+    GID: UKR.22.10_1
+    admin_name: Pidhaiets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.11_1_Adm2:
+    GID: UKR.22.11_1
+    admin_name: Pidvolochys'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.12_1_Adm2:
+    GID: UKR.22.12_1
+    admin_name: Shums'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.13_1_Adm2:
+    GID: UKR.22.13_1
+    admin_name: Terebovlians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.14_1_Adm2:
+    GID: UKR.22.14_1
+    admin_name: Ternopil's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.15_1_Adm2:
+    GID: UKR.22.15_1
+    admin_name: Ternopil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.16_1_Adm2:
+    GID: UKR.22.16_1
+    admin_name: Zalishchyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.17_1_Adm2:
+    GID: UKR.22.17_1
+    admin_name: Zbaraz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.18_1_Adm2:
+    GID: UKR.22.18_1
+    admin_name: Zborivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.2_1_Adm2:
+    GID: UKR.22.2_1
+    admin_name: Borshchivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.3_1_Adm2:
+    GID: UKR.22.3_1
+    admin_name: Buchats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.4_1_Adm2:
+    GID: UKR.22.4_1
+    admin_name: Chortkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.5_1_Adm2:
+    GID: UKR.22.5_1
+    admin_name: Husiatyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.6_1_Adm2:
+    GID: UKR.22.6_1
+    admin_name: Kozivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.7_1_Adm2:
+    GID: UKR.22.7_1
+    admin_name: Kremenets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.8_1_Adm2:
+    GID: UKR.22.8_1
+    admin_name: Lanovets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.22.9_1_Adm2:
+    GID: UKR.22.9_1
+    admin_name: Monastyrys'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23_1_Adm1:
+    GID: UKR.23_1
+    admin_name: Zakarpattia
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.23.1_1_Adm2:
+    GID: UKR.23.1_1
+    admin_name: Berehivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.10_1_Adm2:
+    GID: UKR.23.10_1
+    admin_name: Tiachivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.11_1_Adm2:
+    GID: UKR.23.11_1
+    admin_name: Uzhhorods'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.12_1_Adm2:
+    GID: UKR.23.12_1
+    admin_name: Uzhhorods'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.13_1_Adm2:
+    GID: UKR.23.13_1
+    admin_name: Velykobereznians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.14_1_Adm2:
+    GID: UKR.23.14_1
+    admin_name: Volovets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.15_1_Adm2:
+    GID: UKR.23.15_1
+    admin_name: Vynohradivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.2_1_Adm2:
+    GID: UKR.23.2_1
+    admin_name: Irshavs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.3_1_Adm2:
+    GID: UKR.23.3_1
+    admin_name: Khusts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.4_1_Adm2:
+    GID: UKR.23.4_1
+    admin_name: Mizhhirs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.5_1_Adm2:
+    GID: UKR.23.5_1
+    admin_name: Mukachivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.6_1_Adm2:
+    GID: UKR.23.6_1
+    admin_name: Mukachivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.7_1_Adm2:
+    GID: UKR.23.7_1
+    admin_name: Perechyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.8_1_Adm2:
+    GID: UKR.23.8_1
+    admin_name: Rakhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.23.9_1_Adm2:
+    GID: UKR.23.9_1
+    admin_name: Svaliavs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24_1_Adm1:
+    GID: UKR.24_1
+    admin_name: Vinnytsya
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.24.1_1_Adm2:
+    GID: UKR.24.1_1
+    admin_name: Bars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.10_1_Adm2:
+    GID: UKR.24.10_1
+    admin_name: Ladyzhyns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.11_1_Adm2:
+    GID: UKR.24.11_1
+    admin_name: Lityns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.12_1_Adm2:
+    GID: UKR.24.12_1
+    admin_name: Lypovets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.13_1_Adm2:
+    GID: UKR.24.13_1
+    admin_name: Mohyliv-Podil's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.14_1_Adm2:
+    GID: UKR.24.14_1
+    admin_name: Mohyliv-Podil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.15_1_Adm2:
+    GID: UKR.24.15_1
+    admin_name: Murovano-Kurylovets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.16_1_Adm2:
+    GID: UKR.24.16_1
+    admin_name: Nemyrivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.17_1_Adm2:
+    GID: UKR.24.17_1
+    admin_name: Orativs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.18_1_Adm2:
+    GID: UKR.24.18_1
+    admin_name: Pishchans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.19_1_Adm2:
+    GID: UKR.24.19_1
+    admin_name: Pohrebyshchens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.2_1_Adm2:
+    GID: UKR.24.2_1
+    admin_name: Bershads'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.20_1_Adm2:
+    GID: UKR.24.20_1
+    admin_name: Sharhorods'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.21_1_Adm2:
+    GID: UKR.24.21_1
+    admin_name: Teplyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.22_1_Adm2:
+    GID: UKR.24.22_1
+    admin_name: Tomashpil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.23_1_Adm2:
+    GID: UKR.24.23_1
+    admin_name: Trostianets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.24_1_Adm2:
+    GID: UKR.24.24_1
+    admin_name: Tul'chyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.25_1_Adm2:
+    GID: UKR.24.25_1
+    admin_name: Tyvrivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.26_1_Adm2:
+    GID: UKR.24.26_1
+    admin_name: Vinnyts'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.27_1_Adm2:
+    GID: UKR.24.27_1
+    admin_name: Vinnyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.28_1_Adm2:
+    GID: UKR.24.28_1
+    admin_name: Zhmeryns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.29_1_Adm2:
+    GID: UKR.24.29_1
+    admin_name: Zhmeryns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.3_1_Adm2:
+    GID: UKR.24.3_1
+    admin_name: Chechel'nyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.4_1_Adm2:
+    GID: UKR.24.4_1
+    admin_name: Iampil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.5_1_Adm2:
+    GID: UKR.24.5_1
+    admin_name: Illinets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.6_1_Adm2:
+    GID: UKR.24.6_1
+    admin_name: Kalynivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.7_1_Adm2:
+    GID: UKR.24.7_1
+    admin_name: Khmil'nyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.8_1_Adm2:
+    GID: UKR.24.8_1
+    admin_name: Koziatyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.24.9_1_Adm2:
+    GID: UKR.24.9_1
+    admin_name: Kryzhopil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25_1_Adm1:
+    GID: UKR.25_1
+    admin_name: Volyn
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.25.1_1_Adm2:
+    GID: UKR.25.1_1
+    admin_name: Horokhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.10_1_Adm2:
+    GID: UKR.25.10_1
+    admin_name: Luts'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.11_1_Adm2:
+    GID: UKR.25.11_1
+    admin_name: Luts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.12_1_Adm2:
+    GID: UKR.25.12_1
+    admin_name: Manevyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.13_1_Adm2:
+    GID: UKR.25.13_1
+    admin_name: Novovolyns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.14_1_Adm2:
+    GID: UKR.25.14_1
+    admin_name: Ratnivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.15_1_Adm2:
+    GID: UKR.25.15_1
+    admin_name: Rozhyshchens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.16_1_Adm2:
+    GID: UKR.25.16_1
+    admin_name: Shats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.17_1_Adm2:
+    GID: UKR.25.17_1
+    admin_name: Starovyzhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.18_1_Adm2:
+    GID: UKR.25.18_1
+    admin_name: Turiis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.19_1_Adm2:
+    GID: UKR.25.19_1
+    admin_name: Volodymyr-Volyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.2_1_Adm2:
+    GID: UKR.25.2_1
+    admin_name: Ivanychivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.3_1_Adm2:
+    GID: UKR.25.3_1
+    admin_name: Kamin'-Kashyrs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.4_1_Adm2:
+    GID: UKR.25.4_1
+    admin_name: Kivertsivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.5_1_Adm2:
+    GID: UKR.25.5_1
+    admin_name: Kovel's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.6_1_Adm2:
+    GID: UKR.25.6_1
+    admin_name: Kovel's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.7_1_Adm2:
+    GID: UKR.25.7_1
+    admin_name: Liubeshivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.8_1_Adm2:
+    GID: UKR.25.8_1
+    admin_name: Liuboml's'ky
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.25.9_1_Adm2:
+    GID: UKR.25.9_1
+    admin_name: Lokachyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26_1_Adm1:
+    GID: UKR.26_1
+    admin_name: Zaporizhia
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.26.1_1_Adm2:
+    GID: UKR.26.1_1
+    admin_name: Berdians'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.10_1_Adm2:
+    GID: UKR.26.10_1
+    admin_name: Melitopol's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.11_1_Adm2:
+    GID: UKR.26.11_1
+    admin_name: Mykhailivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.12_1_Adm2:
+    GID: UKR.26.12_1
+    admin_name: Novomykola‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.13_1_Adm2:
+    GID: UKR.26.13_1
+    admin_name: Orikhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.14_1_Adm2:
+    GID: UKR.26.14_1
+    admin_name: Polohivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.15_1_Adm2:
+    GID: UKR.26.15_1
+    admin_name: Pryazovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.16_1_Adm2:
+    GID: UKR.26.16_1
+    admin_name: Prymors'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.17_1_Adm2:
+    GID: UKR.26.17_1
+    admin_name: Rozivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.18_1_Adm2:
+    GID: UKR.26.18_1
+    admin_name: Tokmats'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.19_1_Adm2:
+    GID: UKR.26.19_1
+    admin_name: Tokmats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.2_1_Adm2:
+    GID: UKR.26.2_1
+    admin_name: Berdians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.20_1_Adm2:
+    GID: UKR.26.20_1
+    admin_name: Vasylivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.21_1_Adm2:
+    GID: UKR.26.21_1
+    admin_name: Velykobilozers'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.22_1_Adm2:
+    GID: UKR.26.22_1
+    admin_name: Veselivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.23_1_Adm2:
+    GID: UKR.26.23_1
+    admin_name: Vil'nians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.24_1_Adm2:
+    GID: UKR.26.24_1
+    admin_name: Zaporiz'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.25_1_Adm2:
+    GID: UKR.26.25_1
+    admin_name: Zaporiz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.3_1_Adm2:
+    GID: UKR.26.3_1
+    admin_name: Chernihivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.4_1_Adm2:
+    GID: UKR.26.4_1
+    admin_name: Enerhodars'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.5_1_Adm2:
+    GID: UKR.26.5_1
+    admin_name: Huliaipil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.6_1_Adm2:
+    GID: UKR.26.6_1
+    admin_name: Iakymivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.7_1_Adm2:
+    GID: UKR.26.7_1
+    admin_name: Kamians'ko-Dniprovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.8_1_Adm2:
+    GID: UKR.26.8_1
+    admin_name: Kuibyshevs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.26.9_1_Adm2:
+    GID: UKR.26.9_1
+    admin_name: Melitopol's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27_1_Adm1:
+    GID: UKR.27_1
+    admin_name: Zhytomyr
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.27.1_1_Adm2:
+    GID: UKR.27.1_1
+    admin_name: Andrushivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.10_1_Adm2:
+    GID: UKR.27.10_1
+    admin_name: Korostens'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.11_1_Adm2:
+    GID: UKR.27.11_1
+    admin_name: Korostens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.12_1_Adm2:
+    GID: UKR.27.12_1
+    admin_name: Korostyshivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.13_1_Adm2:
+    GID: UKR.27.13_1
+    admin_name: Liubars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.14_1_Adm2:
+    GID: UKR.27.14_1
+    admin_name: Luhyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.15_1_Adm2:
+    GID: UKR.27.15_1
+    admin_name: Korosten Raion
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.16_1_Adm2:
+    GID: UKR.27.16_1
+    admin_name: Narodyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.17_1_Adm2:
+    GID: UKR.27.17_1
+    admin_name: Novohrad-Volyns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.18_1_Adm2:
+    GID: UKR.27.18_1
+    admin_name: Novohrad-Volyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.19_1_Adm2:
+    GID: UKR.27.19_1
+    admin_name: Olevs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.2_1_Adm2:
+    GID: UKR.27.2_1
+    admin_name: Baranivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.20_1_Adm2:
+    GID: UKR.27.20_1
+    admin_name: Ovruts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.21_1_Adm2:
+    GID: UKR.27.21_1
+    admin_name: Popil'nians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.22_1_Adm2:
+    GID: UKR.27.22_1
+    admin_name: Radomyshl's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.23_1_Adm2:
+    GID: UKR.27.23_1
+    admin_name: Romanivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.24_1_Adm2:
+    GID: UKR.27.24_1
+    admin_name: Ruzhyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.25_1_Adm2:
+    GID: UKR.27.25_1
+    admin_name: Volodars'ko-Volyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.26_1_Adm2:
+    GID: UKR.27.26_1
+    admin_name: Zhytomyrs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.27_1_Adm2:
+    GID: UKR.27.27_1
+    admin_name: Zhytomyrs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.3_1_Adm2:
+    GID: UKR.27.3_1
+    admin_name: Berdychivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.4_1_Adm2:
+    GID: UKR.27.4_1
+    admin_name: Berdychivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.5_1_Adm2:
+    GID: UKR.27.5_1
+    admin_name: Brusylivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.6_1_Adm2:
+    GID: UKR.27.6_1
+    admin_name: Cherniakhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.7_1_Adm2:
+    GID: UKR.27.7_1
+    admin_name: Chervonoarmiis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.8_1_Adm2:
+    GID: UKR.27.8_1
+    admin_name: Chudnivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.27.9_1_Adm2:
+    GID: UKR.27.9_1
+    admin_name: Iemil'chyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3_1_Adm1:
+    GID: UKR.3_1
+    admin_name: Chernivtsi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.3.1_1_Adm2:
+    GID: UKR.3.1_1
+    admin_name: Chernivets'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.10_1_Adm2:
+    GID: UKR.3.10_1
+    admin_name: Vyzhnyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.11_1_Adm2:
+    GID: UKR.3.11_1
+    admin_name: Zastavnets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.2_1_Adm2:
+    GID: UKR.3.2_1
+    admin_name: Hlybots'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.3_1_Adm2:
+    GID: UKR.3.3_1
+    admin_name: Kel'menets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.4_1_Adm2:
+    GID: UKR.3.4_1
+    admin_name: Khotyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.5_1_Adm2:
+    GID: UKR.3.5_1
+    admin_name: Kitsmans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.6_1_Adm2:
+    GID: UKR.3.6_1
+    admin_name: Novoselits'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.7_1_Adm2:
+    GID: UKR.3.7_1
+    admin_name: Putyl's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.8_1_Adm2:
+    GID: UKR.3.8_1
+    admin_name: Sokyrians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.3.9_1_Adm2:
+    GID: UKR.3.9_1
+    admin_name: Storozhynets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4_1_Adm1:
+    GID: UKR.4_1
+    admin_name: Crimea
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.4.1_1_Adm2:
+    GID: UKR.4.1_1
+    admin_name: Alushtyns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.10_1_Adm2:
+    GID: UKR.4.10_1
+    admin_name: Kerchens'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.11_1_Adm2:
+    GID: UKR.4.11_1
+    admin_name: Kirovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.12_1_Adm2:
+    GID: UKR.4.12_1
+    admin_name: Krasnohvardiis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.13_1_Adm2:
+    GID: UKR.4.13_1
+    admin_name: Krasnoperekops'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.14_1_Adm2:
+    GID: UKR.4.14_1
+    admin_name: Lenins'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.15_1_Adm2:
+    GID: UKR.4.15_1
+    admin_name: Nyzhn'ohirs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.16_1_Adm2:
+    GID: UKR.4.16_1
+    admin_name: Pervomais'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.17_1_Adm2:
+    GID: UKR.4.17_1
+    admin_name: Rozdol'nens'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.18_1_Adm2:
+    GID: UKR.4.18_1
+    admin_name: Saks'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.19_1_Adm2:
+    GID: UKR.4.19_1
+    admin_name: Saks'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.2_1_Adm2:
+    GID: UKR.4.2_1
+    admin_name: Bakhchysarais'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.20_1_Adm2:
+    GID: UKR.4.20_1
+    admin_name: Simferopol's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.21_1_Adm2:
+    GID: UKR.4.21_1
+    admin_name: Simferopol's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.22_1_Adm2:
+    GID: UKR.4.22_1
+    admin_name: Soviets'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.23_1_Adm2:
+    GID: UKR.4.23_1
+    admin_name: Sudats'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.3_1_Adm2:
+    GID: UKR.4.3_1
+    admin_name: Bilohirs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.4_1_Adm2:
+    GID: UKR.4.4_1
+    admin_name: Chornomors'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.5_1_Adm2:
+    GID: UKR.4.5_1
+    admin_name: Dzhankois'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.6_1_Adm2:
+    GID: UKR.4.6_1
+    admin_name: Dzhankois'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.7_1_Adm2:
+    GID: UKR.4.7_1
+    admin_name: Feodosiis'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.8_1_Adm2:
+    GID: UKR.4.8_1
+    admin_name: Ialtyns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.4.9_1_Adm2:
+    GID: UKR.4.9_1
+    admin_name: Ievpatoriis'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5_1_Adm1:
+    GID: UKR.5_1
+    admin_name: Dnipropetrovs'k
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.5.1_1_Adm2:
+    GID: UKR.5.1_1
+    admin_name: Apostolivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.10_1_Adm2:
+    GID: UKR.5.10_1
+    admin_name: Marhanets'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.11_1_Adm2:
+    GID: UKR.5.11_1
+    admin_name: Mezhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.12_1_Adm2:
+    GID: UKR.5.12_1
+    admin_name: Nikopol's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.13_1_Adm2:
+    GID: UKR.5.13_1
+    admin_name: Nikopol's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.14_1_Adm2:
+    GID: UKR.5.14_1
+    admin_name: Novomoskovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.15_1_Adm2:
+    GID: UKR.5.15_1
+    admin_name: Novomoskovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.16_1_Adm2:
+    GID: UKR.5.16_1
+    admin_name: Ordzhonikidzevs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.17_1_Adm2:
+    GID: UKR.5.17_1
+    admin_name: Pavlograd
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.18_1_Adm2:
+    GID: UKR.5.18_1
+    admin_name: Pavlohrads'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.19_1_Adm2:
+    GID: UKR.5.19_1
+    admin_name: Petropavlivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.2_1_Adm2:
+    GID: UKR.5.2_1
+    admin_name: Dniprodzerzhyns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.20_1_Adm2:
+    GID: UKR.5.20_1
+    admin_name: Petrykivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.21_1_Adm2:
+    GID: UKR.5.21_1
+    admin_name: Piatykhats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.22_1_Adm2:
+    GID: UKR.5.22_1
+    admin_name: Pokrovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.23_1_Adm2:
+    GID: UKR.5.23_1
+    admin_name: Shyrokivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.24_1_Adm2:
+    GID: UKR.5.24_1
+    admin_name: Sofi‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.25_1_Adm2:
+    GID: UKR.5.25_1
+    admin_name: Solonians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.26_1_Adm2:
+    GID: UKR.5.26_1
+    admin_name: Synel'nykivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.27_1_Adm2:
+    GID: UKR.5.27_1
+    admin_name: Synel'nykivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.28_1_Adm2:
+    GID: UKR.5.28_1
+    admin_name: Tomakivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.29_1_Adm2:
+    GID: UKR.5.29_1
+    admin_name: Tsarychans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.3_1_Adm2:
+    GID: UKR.5.3_1
+    admin_name: Dnipropetrovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.30_1_Adm2:
+    GID: UKR.5.30_1
+    admin_name: Vasyl'kivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.31_1_Adm2:
+    GID: UKR.5.31_1
+    admin_name: Verkhn'odniprovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.32_1_Adm2:
+    GID: UKR.5.32_1
+    admin_name: Zhovtovods'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.4_1_Adm2:
+    GID: UKR.5.4_1
+    admin_name: Dnipropetrovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.5_1_Adm2:
+    GID: UKR.5.5_1
+    admin_name: Iurïvs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.6_1_Adm2:
+    GID: UKR.5.6_1
+    admin_name: Krynychans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.7_1_Adm2:
+    GID: UKR.5.7_1
+    admin_name: Kryvoriz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.8_1_Adm2:
+    GID: UKR.5.8_1
+    admin_name: KryvyiRig
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.5.9_1_Adm2:
+    GID: UKR.5.9_1
+    admin_name: Mahdalynivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6_1_Adm1:
+    GID: UKR.6_1
+    admin_name: Donets'k
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.6.1_1_Adm2:
+    GID: UKR.6.1_1
+    admin_name: Amvrosi‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.10_1_Adm2:
+    GID: UKR.6.10_1
+    admin_name: Iasynuvats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.11_1_Adm2:
+    GID: UKR.6.11_1
+    admin_name: Ienakiievs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.12_1_Adm2:
+    GID: UKR.6.12_1
+    admin_name: Khartsyz'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.13_1_Adm2:
+    GID: UKR.6.13_1
+    admin_name: Kirovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.14_1_Adm2:
+    GID: UKR.6.14_1
+    admin_name: Kostiantynivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.15_1_Adm2:
+    GID: UKR.6.15_1
+    admin_name: Kostiantynivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.16_1_Adm2:
+    GID: UKR.6.16_1
+    admin_name: Kramators'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.17_1_Adm2:
+    GID: UKR.6.17_1
+    admin_name: Krasnoarmiis'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.18_1_Adm2:
+    GID: UKR.6.18_1
+    admin_name: Krasnoarmiis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.19_1_Adm2:
+    GID: UKR.6.19_1
+    admin_name: Krasnolymans'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.2_1_Adm2:
+    GID: UKR.6.2_1
+    admin_name: Artemivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.20_1_Adm2:
+    GID: UKR.6.20_1
+    admin_name: Krasnolymans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.21_1_Adm2:
+    GID: UKR.6.21_1
+    admin_name: Maki‹vs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.22_1_Adm2:
+    GID: UKR.6.22_1
+    admin_name: Mar‹ns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.23_1_Adm2:
+    GID: UKR.6.23_1
+    admin_name: Mariupol's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.24_1_Adm2:
+    GID: UKR.6.24_1
+    admin_name: n.a. ( 181)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.25_1_Adm2:
+    GID: UKR.6.25_1
+    admin_name: n.a. ( 319)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.26_1_Adm2:
+    GID: UKR.6.26_1
+    admin_name: n.a. ( 384)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.27_1_Adm2:
+    GID: UKR.6.27_1
+    admin_name: n.a. ( 394)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.28_1_Adm2:
+    GID: UKR.6.28_1
+    admin_name: n.a. ( 488)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.29_1_Adm2:
+    GID: UKR.6.29_1
+    admin_name: n.a. ( 493)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.3_1_Adm2:
+    GID: UKR.6.3_1
+    admin_name: Artemivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.30_1_Adm2:
+    GID: UKR.6.30_1
+    admin_name: n.a. ( 511)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.31_1_Adm2:
+    GID: UKR.6.31_1
+    admin_name: Novoazovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.32_1_Adm2:
+    GID: UKR.6.32_1
+    admin_name: Novohrodivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.33_1_Adm2:
+    GID: UKR.6.33_1
+    admin_name: Oleksandrivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.34_1_Adm2:
+    GID: UKR.6.34_1
+    admin_name: Pershotravnevyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.35_1_Adm2:
+    GID: UKR.6.35_1
+    admin_name: Selydovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.36_1_Adm2:
+    GID: UKR.6.36_1
+    admin_name: Shakhtars'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.37_1_Adm2:
+    GID: UKR.6.37_1
+    admin_name: Shakhtars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.38_1_Adm2:
+    GID: UKR.6.38_1
+    admin_name: Slovians'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.39_1_Adm2:
+    GID: UKR.6.39_1
+    admin_name: Slovians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.4_1_Adm2:
+    GID: UKR.6.4_1
+    admin_name: Dobropil's'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.40_1_Adm2:
+    GID: UKR.6.40_1
+    admin_name: Snizhnens'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.41_1_Adm2:
+    GID: UKR.6.41_1
+    admin_name: Starobeshivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.42_1_Adm2:
+    GID: UKR.6.42_1
+    admin_name: Tel'manivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.43_1_Adm2:
+    GID: UKR.6.43_1
+    admin_name: Torez'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.44_1_Adm2:
+    GID: UKR.6.44_1
+    admin_name: Velykonovosilkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.45_1_Adm2:
+    GID: UKR.6.45_1
+    admin_name: Volnovas'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.46_1_Adm2:
+    GID: UKR.6.46_1
+    admin_name: Volodars'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.47_1_Adm2:
+    GID: UKR.6.47_1
+    admin_name: Vuhledars'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.48_1_Adm2:
+    GID: UKR.6.48_1
+    admin_name: Zhdanivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.5_1_Adm2:
+    GID: UKR.6.5_1
+    admin_name: Dobropil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.6_1_Adm2:
+    GID: UKR.6.6_1
+    admin_name: Donets'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.7_1_Adm2:
+    GID: UKR.6.7_1
+    admin_name: Dzerzhyns'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.8_1_Adm2:
+    GID: UKR.6.8_1
+    admin_name: Horlivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.6.9_1_Adm2:
+    GID: UKR.6.9_1
+    admin_name: Iasynuvats'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7_1_Adm1:
+    GID: UKR.7_1
+    admin_name: Ivano-Frankivs'k
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.7.1_1_Adm2:
+    GID: UKR.7.1_1
+    admin_name: Bohorodchans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.10_1_Adm2:
+    GID: UKR.7.10_1
+    admin_name: Nadvirnians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.11_1_Adm2:
+    GID: UKR.7.11_1
+    admin_name: Rohatyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.12_1_Adm2:
+    GID: UKR.7.12_1
+    admin_name: Rozhniativs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.13_1_Adm2:
+    GID: UKR.7.13_1
+    admin_name: Sniatyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.14_1_Adm2:
+    GID: UKR.7.14_1
+    admin_name: Tlumats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.15_1_Adm2:
+    GID: UKR.7.15_1
+    admin_name: Tysmenyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.16_1_Adm2:
+    GID: UKR.7.16_1
+    admin_name: Verkhovyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.2_1_Adm2:
+    GID: UKR.7.2_1
+    admin_name: Dolyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.3_1_Adm2:
+    GID: UKR.7.3_1
+    admin_name: Halyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.4_1_Adm2:
+    GID: UKR.7.4_1
+    admin_name: Horodenkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.5_1_Adm2:
+    GID: UKR.7.5_1
+    admin_name: Iaremchans'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.6_1_Adm2:
+    GID: UKR.7.6_1
+    admin_name: Ivano-Frankivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.7_1_Adm2:
+    GID: UKR.7.7_1
+    admin_name: Kalus'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.8_1_Adm2:
+    GID: UKR.7.8_1
+    admin_name: Kolomyis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.7.9_1_Adm2:
+    GID: UKR.7.9_1
+    admin_name: Kosivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8_1_Adm1:
+    GID: UKR.8_1
+    admin_name: Kharkiv
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.8.1_1_Adm2:
+    GID: UKR.8.1_1
+    admin_name: Balakliis'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.10_1_Adm2:
+    GID: UKR.8.10_1
+    admin_name: Iziums'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.11_1_Adm2:
+    GID: UKR.8.11_1
+    admin_name: Iziums'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.12_1_Adm2:
+    GID: UKR.8.12_1
+    admin_name: Kehychivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.13_1_Adm2:
+    GID: UKR.8.13_1
+    admin_name: Kharkivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.14_1_Adm2:
+    GID: UKR.8.14_1
+    admin_name: Kharkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.15_1_Adm2:
+    GID: UKR.8.15_1
+    admin_name: Krasnohrads'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.16_1_Adm2:
+    GID: UKR.8.16_1
+    admin_name: Krasnokuts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.17_1_Adm2:
+    GID: UKR.8.17_1
+    admin_name: Kupians'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.18_1_Adm2:
+    GID: UKR.8.18_1
+    admin_name: Kupians'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.19_1_Adm2:
+    GID: UKR.8.19_1
+    admin_name: Lozivs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.2_1_Adm2:
+    GID: UKR.8.2_1
+    admin_name: Barvinkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.20_1_Adm2:
+    GID: UKR.8.20_1
+    admin_name: Lozivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.21_1_Adm2:
+    GID: UKR.8.21_1
+    admin_name: n.a. ( 180)
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.22_1_Adm2:
+    GID: UKR.8.22_1
+    admin_name: Novovodolaz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.23_1_Adm2:
+    GID: UKR.8.23_1
+    admin_name: Pecheniz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.24_1_Adm2:
+    GID: UKR.8.24_1
+    admin_name: Pervomais'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.25_1_Adm2:
+    GID: UKR.8.25_1
+    admin_name: Sakhnovshchyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.26_1_Adm2:
+    GID: UKR.8.26_1
+    admin_name: Shevchenkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.27_1_Adm2:
+    GID: UKR.8.27_1
+    admin_name: Valkivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.28_1_Adm2:
+    GID: UKR.8.28_1
+    admin_name: Velykoburluts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.29_1_Adm2:
+    GID: UKR.8.29_1
+    admin_name: Vovchans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.3_1_Adm2:
+    GID: UKR.8.3_1
+    admin_name: Blyzniukivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.30_1_Adm2:
+    GID: UKR.8.30_1
+    admin_name: Zachepylivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.31_1_Adm2:
+    GID: UKR.8.31_1
+    admin_name: Zmiïvs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.32_1_Adm2:
+    GID: UKR.8.32_1
+    admin_name: Zolochivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.4_1_Adm2:
+    GID: UKR.8.4_1
+    admin_name: Bohodukhivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.5_1_Adm2:
+    GID: UKR.8.5_1
+    admin_name: Borivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.6_1_Adm2:
+    GID: UKR.8.6_1
+    admin_name: Chuhu‹vs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.7_1_Adm2:
+    GID: UKR.8.7_1
+    admin_name: Chuhu‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.8_1_Adm2:
+    GID: UKR.8.8_1
+    admin_name: Derhachivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.8.9_1_Adm2:
+    GID: UKR.8.9_1
+    admin_name: Dvorichans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9_1_Adm1:
+    GID: UKR.9_1
+    admin_name: Kherson
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm1
+  UKR.9.1_1_Adm2:
+    GID: UKR.9.1_1
+    admin_name: Beryslavs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.10_1_Adm2:
+    GID: UKR.9.10_1
+    admin_name: Khersons'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.11_1_Adm2:
+    GID: UKR.9.11_1
+    admin_name: Novokahovs'ka
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.12_1_Adm2:
+    GID: UKR.9.12_1
+    admin_name: Novotro‹ts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.13_1_Adm2:
+    GID: UKR.9.13_1
+    admin_name: Novovorontsovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.14_1_Adm2:
+    GID: UKR.9.14_1
+    admin_name: Nyzhn'osirohoz'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.15_1_Adm2:
+    GID: UKR.9.15_1
+    admin_name: Skadovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.16_1_Adm2:
+    GID: UKR.9.16_1
+    admin_name: Tsiurupyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.17_1_Adm2:
+    GID: UKR.9.17_1
+    admin_name: Velykolepetys'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.18_1_Adm2:
+    GID: UKR.9.18_1
+    admin_name: Velykooleksandrivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.19_1_Adm2:
+    GID: UKR.9.19_1
+    admin_name: Verkhn'orohachyts'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.2_1_Adm2:
+    GID: UKR.9.2_1
+    admin_name: Bilozers'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.20_1_Adm2:
+    GID: UKR.9.20_1
+    admin_name: Vysokopil's'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.3_1_Adm2:
+    GID: UKR.9.3_1
+    admin_name: Chaplyns'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.4_1_Adm2:
+    GID: UKR.9.4_1
+    admin_name: Heniches'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.5_1_Adm2:
+    GID: UKR.9.5_1
+    admin_name: Holoprystans'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.6_1_Adm2:
+    GID: UKR.9.6_1
+    admin_name: Hornosta‹vs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.7_1_Adm2:
+    GID: UKR.9.7_1
+    admin_name: Ivanivs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.8_1_Adm2:
+    GID: UKR.9.8_1
+    admin_name: Kakhovs'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2
+  UKR.9.9_1_Adm2:
+    GID: UKR.9.9_1
+    admin_name: Kalanchats'kyi
+    iso3c: UKR
+    country_name: Ukraine
+    admin_level: Adm2

@@ -1,0 +1,2383 @@
+concepts:
+  POL.0_Adm0:
+    GID: POL
+    admin_name: Poland
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm0
+  POL.1_1_Adm1:
+    GID: POL.1_1
+    admin_name: Dolnośląskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.1.1_1_Adm2:
+    GID: POL.1.1_1
+    admin_name: Bolesławiec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.10_1_Adm2:
+    GID: POL.1.10_1
+    admin_name: Legnica (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.11_1_Adm2:
+    GID: POL.1.11_1
+    admin_name: Legnica
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.12_1_Adm2:
+    GID: POL.1.12_1
+    admin_name: Lubań
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.13_1_Adm2:
+    GID: POL.1.13_1
+    admin_name: Lubiń
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.14_1_Adm2:
+    GID: POL.1.14_1
+    admin_name: Lwówek Śląski
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.15_1_Adm2:
+    GID: POL.1.15_1
+    admin_name: Milicz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.16_1_Adm2:
+    GID: POL.1.16_1
+    admin_name: Oława
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.17_1_Adm2:
+    GID: POL.1.17_1
+    admin_name: Oleśnica
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.18_1_Adm2:
+    GID: POL.1.18_1
+    admin_name: Polkowice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.19_1_Adm2:
+    GID: POL.1.19_1
+    admin_name: Środa Śląska
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.2_1_Adm2:
+    GID: POL.1.2_1
+    admin_name: Dzierżoniów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.20_1_Adm2:
+    GID: POL.1.20_1
+    admin_name: Strzelin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.21_1_Adm2:
+    GID: POL.1.21_1
+    admin_name: Świdnica
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.22_1_Adm2:
+    GID: POL.1.22_1
+    admin_name: Trzebnica
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.23_1_Adm2:
+    GID: POL.1.23_1
+    admin_name: Wałbrzych
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.24_1_Adm2:
+    GID: POL.1.24_1
+    admin_name: Wołów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.25_1_Adm2:
+    GID: POL.1.25_1
+    admin_name: Wrocław (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.26_1_Adm2:
+    GID: POL.1.26_1
+    admin_name: Wrocław
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.27_1_Adm2:
+    GID: POL.1.27_1
+    admin_name: Ząbkowice Śląskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.28_1_Adm2:
+    GID: POL.1.28_1
+    admin_name: Zgorzelec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.29_1_Adm2:
+    GID: POL.1.29_1
+    admin_name: Złotoryja
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.3_1_Adm2:
+    GID: POL.1.3_1
+    admin_name: Głogów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.4_1_Adm2:
+    GID: POL.1.4_1
+    admin_name: Góra
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.5_1_Adm2:
+    GID: POL.1.5_1
+    admin_name: Jawor
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.6_1_Adm2:
+    GID: POL.1.6_1
+    admin_name: Jelenia Góra (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.7_1_Adm2:
+    GID: POL.1.7_1
+    admin_name: Jelenia Góra
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.8_1_Adm2:
+    GID: POL.1.8_1
+    admin_name: Kamienna Góra
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.1.9_1_Adm2:
+    GID: POL.1.9_1
+    admin_name: Kłodzko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10_1_Adm1:
+    GID: POL.10_1
+    admin_name: Podlaskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.10.1_1_Adm2:
+    GID: POL.10.1_1
+    admin_name: Augustów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.10_1_Adm2:
+    GID: POL.10.10_1
+    admin_name: Mońki
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.11_1_Adm2:
+    GID: POL.10.11_1
+    admin_name: Sejny
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.12_1_Adm2:
+    GID: POL.10.12_1
+    admin_name: Siemiatycze
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.13_1_Adm2:
+    GID: POL.10.13_1
+    admin_name: Sokółka
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.14_1_Adm2:
+    GID: POL.10.14_1
+    admin_name: Suwałki (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.15_1_Adm2:
+    GID: POL.10.15_1
+    admin_name: Suwałki
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.16_1_Adm2:
+    GID: POL.10.16_1
+    admin_name: Wysokie Mazowieckie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.17_1_Adm2:
+    GID: POL.10.17_1
+    admin_name: Zambrów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.2_1_Adm2:
+    GID: POL.10.2_1
+    admin_name: Białystok (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.3_1_Adm2:
+    GID: POL.10.3_1
+    admin_name: Białystok
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.4_1_Adm2:
+    GID: POL.10.4_1
+    admin_name: Bielsk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.5_1_Adm2:
+    GID: POL.10.5_1
+    admin_name: Grajewo
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.6_1_Adm2:
+    GID: POL.10.6_1
+    admin_name: Hajnówka
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.7_1_Adm2:
+    GID: POL.10.7_1
+    admin_name: Kolno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.8_1_Adm2:
+    GID: POL.10.8_1
+    admin_name: Łomża (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.10.9_1_Adm2:
+    GID: POL.10.9_1
+    admin_name: Łomża
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11_1_Adm1:
+    GID: POL.11_1
+    admin_name: Pomorskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.11.1_1_Adm2:
+    GID: POL.11.1_1
+    admin_name: Bytów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.10_1_Adm2:
+    GID: POL.11.10_1
+    admin_name: Lębork
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.11_1_Adm2:
+    GID: POL.11.11_1
+    admin_name: Malbork
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.12_1_Adm2:
+    GID: POL.11.12_1
+    admin_name: Nowy Dwór Gdański
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.13_1_Adm2:
+    GID: POL.11.13_1
+    admin_name: Puck
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.14_1_Adm2:
+    GID: POL.11.14_1
+    admin_name: Słupsk (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.15_1_Adm2:
+    GID: POL.11.15_1
+    admin_name: Słupsk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.16_1_Adm2:
+    GID: POL.11.16_1
+    admin_name: Sopot
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.17_1_Adm2:
+    GID: POL.11.17_1
+    admin_name: Starogard
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.18_1_Adm2:
+    GID: POL.11.18_1
+    admin_name: Sztum
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.19_1_Adm2:
+    GID: POL.11.19_1
+    admin_name: Tczew
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.2_1_Adm2:
+    GID: POL.11.2_1
+    admin_name: Chojnice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.20_1_Adm2:
+    GID: POL.11.20_1
+    admin_name: Wejherowo
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.3_1_Adm2:
+    GID: POL.11.3_1
+    admin_name: Człuchów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.4_1_Adm2:
+    GID: POL.11.4_1
+    admin_name: Gdańsk (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.5_1_Adm2:
+    GID: POL.11.5_1
+    admin_name: Gdańsk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.6_1_Adm2:
+    GID: POL.11.6_1
+    admin_name: Gdynia
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.7_1_Adm2:
+    GID: POL.11.7_1
+    admin_name: Kartuzy
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.8_1_Adm2:
+    GID: POL.11.8_1
+    admin_name: Kościerzyna
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.11.9_1_Adm2:
+    GID: POL.11.9_1
+    admin_name: Kwidzyn
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12_1_Adm1:
+    GID: POL.12_1
+    admin_name: Śląskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.12.1_1_Adm2:
+    GID: POL.12.1_1
+    admin_name: Będzin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.10_1_Adm2:
+    GID: POL.12.10_1
+    admin_name: Dąbrowa Górnicza
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.11_1_Adm2:
+    GID: POL.12.11_1
+    admin_name: Gliwice (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.12_1_Adm2:
+    GID: POL.12.12_1
+    admin_name: Gliwice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.13_1_Adm2:
+    GID: POL.12.13_1
+    admin_name: Jastrzębie-Zdrój
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.14_1_Adm2:
+    GID: POL.12.14_1
+    admin_name: Jaworzno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.15_1_Adm2:
+    GID: POL.12.15_1
+    admin_name: Katowice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.16_1_Adm2:
+    GID: POL.12.16_1
+    admin_name: Kłobuck
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.17_1_Adm2:
+    GID: POL.12.17_1
+    admin_name: Lubliniec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.18_1_Adm2:
+    GID: POL.12.18_1
+    admin_name: Mikołów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.19_1_Adm2:
+    GID: POL.12.19_1
+    admin_name: Mysłowice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.2_1_Adm2:
+    GID: POL.12.2_1
+    admin_name: Bielsko-Biała
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.20_1_Adm2:
+    GID: POL.12.20_1
+    admin_name: Myszków
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.21_1_Adm2:
+    GID: POL.12.21_1
+    admin_name: Piekary Śląskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.22_1_Adm2:
+    GID: POL.12.22_1
+    admin_name: Pszczyna
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.23_1_Adm2:
+    GID: POL.12.23_1
+    admin_name: Racibórz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.24_1_Adm2:
+    GID: POL.12.24_1
+    admin_name: Ruda Śląska
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.25_1_Adm2:
+    GID: POL.12.25_1
+    admin_name: Rybnik (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.26_1_Adm2:
+    GID: POL.12.26_1
+    admin_name: Rybnik
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.27_1_Adm2:
+    GID: POL.12.27_1
+    admin_name: Siemianowice Śląskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.28_1_Adm2:
+    GID: POL.12.28_1
+    admin_name: Sosnowiec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.29_1_Adm2:
+    GID: POL.12.29_1
+    admin_name: Świętochłowice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.3_1_Adm2:
+    GID: POL.12.3_1
+    admin_name: Bielsko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.30_1_Adm2:
+    GID: POL.12.30_1
+    admin_name: Tarnowskie Góry
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.31_1_Adm2:
+    GID: POL.12.31_1
+    admin_name: Tychy
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.32_1_Adm2:
+    GID: POL.12.32_1
+    admin_name: Wodzisław
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.33_1_Adm2:
+    GID: POL.12.33_1
+    admin_name: Zabrze
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.34_1_Adm2:
+    GID: POL.12.34_1
+    admin_name: Zawiercie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.35_1_Adm2:
+    GID: POL.12.35_1
+    admin_name: Żory
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.36_1_Adm2:
+    GID: POL.12.36_1
+    admin_name: Żywiec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.4_1_Adm2:
+    GID: POL.12.4_1
+    admin_name: Bieruń-Lędziny
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.5_1_Adm2:
+    GID: POL.12.5_1
+    admin_name: Bytom
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.6_1_Adm2:
+    GID: POL.12.6_1
+    admin_name: Chorzów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.7_1_Adm2:
+    GID: POL.12.7_1
+    admin_name: Cieszyn
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.8_1_Adm2:
+    GID: POL.12.8_1
+    admin_name: Częstochowa (CIty)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.12.9_1_Adm2:
+    GID: POL.12.9_1
+    admin_name: Częstochowa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13_1_Adm1:
+    GID: POL.13_1
+    admin_name: Świętokrzyskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.13.1_1_Adm2:
+    GID: POL.13.1_1
+    admin_name: Busko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.10_1_Adm2:
+    GID: POL.13.10_1
+    admin_name: Sandomierz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.11_1_Adm2:
+    GID: POL.13.11_1
+    admin_name: Skarżysko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.12_1_Adm2:
+    GID: POL.13.12_1
+    admin_name: Starachowice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.13_1_Adm2:
+    GID: POL.13.13_1
+    admin_name: Staszów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.14_1_Adm2:
+    GID: POL.13.14_1
+    admin_name: Włoszczowa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.2_1_Adm2:
+    GID: POL.13.2_1
+    admin_name: Jędrzejów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.3_1_Adm2:
+    GID: POL.13.3_1
+    admin_name: Kazimierza
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.4_1_Adm2:
+    GID: POL.13.4_1
+    admin_name: Kielce (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.5_1_Adm2:
+    GID: POL.13.5_1
+    admin_name: Kielce
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.6_1_Adm2:
+    GID: POL.13.6_1
+    admin_name: Końskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.7_1_Adm2:
+    GID: POL.13.7_1
+    admin_name: Opatów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.8_1_Adm2:
+    GID: POL.13.8_1
+    admin_name: Ostrowiec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.13.9_1_Adm2:
+    GID: POL.13.9_1
+    admin_name: Pińczów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14_1_Adm1:
+    GID: POL.14_1
+    admin_name: Warmińsko-Mazurskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.14.1_1_Adm2:
+    GID: POL.14.1_1
+    admin_name: Bartoszyce
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.10_1_Adm2:
+    GID: POL.14.10_1
+    admin_name: Kętrzyn
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.11_1_Adm2:
+    GID: POL.14.11_1
+    admin_name: Lidzbark
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.12_1_Adm2:
+    GID: POL.14.12_1
+    admin_name: Mrągowo
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.13_1_Adm2:
+    GID: POL.14.13_1
+    admin_name: Nidzica
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.14_1_Adm2:
+    GID: POL.14.14_1
+    admin_name: Nowe Miasto
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.15_1_Adm2:
+    GID: POL.14.15_1
+    admin_name: Olecko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.16_1_Adm2:
+    GID: POL.14.16_1
+    admin_name: Olsztyn (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.17_1_Adm2:
+    GID: POL.14.17_1
+    admin_name: Olsztyn
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.18_1_Adm2:
+    GID: POL.14.18_1
+    admin_name: Ostróda
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.19_1_Adm2:
+    GID: POL.14.19_1
+    admin_name: Pisz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.2_1_Adm2:
+    GID: POL.14.2_1
+    admin_name: Braniewo
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.20_1_Adm2:
+    GID: POL.14.20_1
+    admin_name: Szczytno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.21_1_Adm2:
+    GID: POL.14.21_1
+    admin_name: Węgorzewo
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.3_1_Adm2:
+    GID: POL.14.3_1
+    admin_name: Działdowo
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.4_1_Adm2:
+    GID: POL.14.4_1
+    admin_name: Elbląg (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.5_1_Adm2:
+    GID: POL.14.5_1
+    admin_name: Elbląg
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.6_1_Adm2:
+    GID: POL.14.6_1
+    admin_name: Ełk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.7_1_Adm2:
+    GID: POL.14.7_1
+    admin_name: Giżycko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.8_1_Adm2:
+    GID: POL.14.8_1
+    admin_name: Gołdap
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.14.9_1_Adm2:
+    GID: POL.14.9_1
+    admin_name: Iława
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15_1_Adm1:
+    GID: POL.15_1
+    admin_name: Wielkopolskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.15.1_1_Adm2:
+    GID: POL.15.1_1
+    admin_name: Chodzież
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.10_1_Adm2:
+    GID: POL.15.10_1
+    admin_name: Koło
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.11_1_Adm2:
+    GID: POL.15.11_1
+    admin_name: Konin (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.12_1_Adm2:
+    GID: POL.15.12_1
+    admin_name: Konin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.13_1_Adm2:
+    GID: POL.15.13_1
+    admin_name: Kościan
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.14_1_Adm2:
+    GID: POL.15.14_1
+    admin_name: Krotoszyn
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.15_1_Adm2:
+    GID: POL.15.15_1
+    admin_name: Leszno (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.16_1_Adm2:
+    GID: POL.15.16_1
+    admin_name: Leszno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.17_1_Adm2:
+    GID: POL.15.17_1
+    admin_name: Międzychód
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.18_1_Adm2:
+    GID: POL.15.18_1
+    admin_name: Nowy Tomyśl
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.19_1_Adm2:
+    GID: POL.15.19_1
+    admin_name: Oborniki
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.2_1_Adm2:
+    GID: POL.15.2_1
+    admin_name: Czarnków-Trzcianka
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.20_1_Adm2:
+    GID: POL.15.20_1
+    admin_name: Ostrów Wielkopolski
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.21_1_Adm2:
+    GID: POL.15.21_1
+    admin_name: Ostrzeszów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.22_1_Adm2:
+    GID: POL.15.22_1
+    admin_name: Piła
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.23_1_Adm2:
+    GID: POL.15.23_1
+    admin_name: Pleszew
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.24_1_Adm2:
+    GID: POL.15.24_1
+    admin_name: Poznań (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.25_1_Adm2:
+    GID: POL.15.25_1
+    admin_name: Poznań
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.26_1_Adm2:
+    GID: POL.15.26_1
+    admin_name: Rawicz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.27_1_Adm2:
+    GID: POL.15.27_1
+    admin_name: Słupca
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.28_1_Adm2:
+    GID: POL.15.28_1
+    admin_name: Śrem
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.29_1_Adm2:
+    GID: POL.15.29_1
+    admin_name: Środa Wielkopolska
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.3_1_Adm2:
+    GID: POL.15.3_1
+    admin_name: Gniezno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.30_1_Adm2:
+    GID: POL.15.30_1
+    admin_name: Szamotuły
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.31_1_Adm2:
+    GID: POL.15.31_1
+    admin_name: Turek
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.32_1_Adm2:
+    GID: POL.15.32_1
+    admin_name: Wągrowiec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.33_1_Adm2:
+    GID: POL.15.33_1
+    admin_name: Wolsztyn
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.34_1_Adm2:
+    GID: POL.15.34_1
+    admin_name: Września
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.35_1_Adm2:
+    GID: POL.15.35_1
+    admin_name: Złotów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.4_1_Adm2:
+    GID: POL.15.4_1
+    admin_name: Gostyń
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.5_1_Adm2:
+    GID: POL.15.5_1
+    admin_name: Grodzisk Wielkopolski
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.6_1_Adm2:
+    GID: POL.15.6_1
+    admin_name: Jarocin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.7_1_Adm2:
+    GID: POL.15.7_1
+    admin_name: Kalisz (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.8_1_Adm2:
+    GID: POL.15.8_1
+    admin_name: Kalisz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.15.9_1_Adm2:
+    GID: POL.15.9_1
+    admin_name: Kępno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16_1_Adm1:
+    GID: POL.16_1
+    admin_name: Zachodniopomorskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.16.1_1_Adm2:
+    GID: POL.16.1_1
+    admin_name: Białogard
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.10_1_Adm2:
+    GID: POL.16.10_1
+    admin_name: Koszalin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.11_1_Adm2:
+    GID: POL.16.11_1
+    admin_name: Łobez
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.12_1_Adm2:
+    GID: POL.16.12_1
+    admin_name: Myślibórz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.13_1_Adm2:
+    GID: POL.16.13_1
+    admin_name: Police
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.14_1_Adm2:
+    GID: POL.16.14_1
+    admin_name: Pyrzyce
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.15_1_Adm2:
+    GID: POL.16.15_1
+    admin_name: Sławno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.16_1_Adm2:
+    GID: POL.16.16_1
+    admin_name: Stargard
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.17_1_Adm2:
+    GID: POL.16.17_1
+    admin_name: Świdwin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.18_1_Adm2:
+    GID: POL.16.18_1
+    admin_name: Świnoujście
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.19_1_Adm2:
+    GID: POL.16.19_1
+    admin_name: Szczecinek
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.2_1_Adm2:
+    GID: POL.16.2_1
+    admin_name: Choszczno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.20_1_Adm2:
+    GID: POL.16.20_1
+    admin_name: Szczecin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.21_1_Adm2:
+    GID: POL.16.21_1
+    admin_name: Wałcz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.22_1_Adm2:
+    GID: POL.16.22_1
+    admin_name: Zalew Szczeciński
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.3_1_Adm2:
+    GID: POL.16.3_1
+    admin_name: Drawsko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.4_1_Adm2:
+    GID: POL.16.4_1
+    admin_name: Goleniów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.5_1_Adm2:
+    GID: POL.16.5_1
+    admin_name: Gryfice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.6_1_Adm2:
+    GID: POL.16.6_1
+    admin_name: Gryfino
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.7_1_Adm2:
+    GID: POL.16.7_1
+    admin_name: Kamień
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.8_1_Adm2:
+    GID: POL.16.8_1
+    admin_name: Kołobrzeg
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.16.9_1_Adm2:
+    GID: POL.16.9_1
+    admin_name: Koszalin (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2_1_Adm1:
+    GID: POL.2_1
+    admin_name: Kujawsko-Pomorskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.2.1_1_Adm2:
+    GID: POL.2.1_1
+    admin_name: Aleksandrów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.10_1_Adm2:
+    GID: POL.2.10_1
+    admin_name: Lipno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.11_1_Adm2:
+    GID: POL.2.11_1
+    admin_name: Mogilno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.12_1_Adm2:
+    GID: POL.2.12_1
+    admin_name: Nakło
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.13_1_Adm2:
+    GID: POL.2.13_1
+    admin_name: Radziejów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.14_1_Adm2:
+    GID: POL.2.14_1
+    admin_name: Rypin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.15_1_Adm2:
+    GID: POL.2.15_1
+    admin_name: Sępólno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.16_1_Adm2:
+    GID: POL.2.16_1
+    admin_name: Świecie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.17_1_Adm2:
+    GID: POL.2.17_1
+    admin_name: Toruń (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.18_1_Adm2:
+    GID: POL.2.18_1
+    admin_name: Toruń
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.19_1_Adm2:
+    GID: POL.2.19_1
+    admin_name: Tuchola
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.2_1_Adm2:
+    GID: POL.2.2_1
+    admin_name: Brodnica
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.20_1_Adm2:
+    GID: POL.2.20_1
+    admin_name: Wąbrzeźno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.21_1_Adm2:
+    GID: POL.2.21_1
+    admin_name: Włocławek (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.22_1_Adm2:
+    GID: POL.2.22_1
+    admin_name: Włocławek
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.23_1_Adm2:
+    GID: POL.2.23_1
+    admin_name: Żnin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.3_1_Adm2:
+    GID: POL.2.3_1
+    admin_name: Bydgoszcz (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.4_1_Adm2:
+    GID: POL.2.4_1
+    admin_name: Bydgoszcz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.5_1_Adm2:
+    GID: POL.2.5_1
+    admin_name: Chełmno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.6_1_Adm2:
+    GID: POL.2.6_1
+    admin_name: Golub-Dobrzyń
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.7_1_Adm2:
+    GID: POL.2.7_1
+    admin_name: Grudziądz (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.8_1_Adm2:
+    GID: POL.2.8_1
+    admin_name: Grudziądz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.2.9_1_Adm2:
+    GID: POL.2.9_1
+    admin_name: Inowrocław
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3_1_Adm1:
+    GID: POL.3_1
+    admin_name: Łódzkie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.3.1_1_Adm2:
+    GID: POL.3.1_1
+    admin_name: Bełchatów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.10_1_Adm2:
+    GID: POL.3.10_1
+    admin_name: Pabianice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.11_1_Adm2:
+    GID: POL.3.11_1
+    admin_name: Pajęczno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.12_1_Adm2:
+    GID: POL.3.12_1
+    admin_name: Piotrków Trybunalski
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.13_1_Adm2:
+    GID: POL.3.13_1
+    admin_name: Piotrków
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.14_1_Adm2:
+    GID: POL.3.14_1
+    admin_name: Poddębice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.15_1_Adm2:
+    GID: POL.3.15_1
+    admin_name: Radomsko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.16_1_Adm2:
+    GID: POL.3.16_1
+    admin_name: Rawa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.17_1_Adm2:
+    GID: POL.3.17_1
+    admin_name: Sieradz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.18_1_Adm2:
+    GID: POL.3.18_1
+    admin_name: Skierniewice (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.19_1_Adm2:
+    GID: POL.3.19_1
+    admin_name: Skierniewice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.2_1_Adm2:
+    GID: POL.3.2_1
+    admin_name: Brzeziny
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.20_1_Adm2:
+    GID: POL.3.20_1
+    admin_name: Tomaszów Mazowiecki
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.21_1_Adm2:
+    GID: POL.3.21_1
+    admin_name: Wieluń
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.22_1_Adm2:
+    GID: POL.3.22_1
+    admin_name: Wieruszów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.23_1_Adm2:
+    GID: POL.3.23_1
+    admin_name: Zduńska Wola
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.24_1_Adm2:
+    GID: POL.3.24_1
+    admin_name: Zgierz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.3_1_Adm2:
+    GID: POL.3.3_1
+    admin_name: Kutno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.4_1_Adm2:
+    GID: POL.3.4_1
+    admin_name: Łask
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.5_1_Adm2:
+    GID: POL.3.5_1
+    admin_name: Łęczyca
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.6_1_Adm2:
+    GID: POL.3.6_1
+    admin_name: Łódzki Wschodni
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.7_1_Adm2:
+    GID: POL.3.7_1
+    admin_name: Łódź
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.8_1_Adm2:
+    GID: POL.3.8_1
+    admin_name: Łowicz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.3.9_1_Adm2:
+    GID: POL.3.9_1
+    admin_name: Opoczno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4_1_Adm1:
+    GID: POL.4_1
+    admin_name: Lubelskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.4.1_1_Adm2:
+    GID: POL.4.1_1
+    admin_name: Biała Podlaska (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.10_1_Adm2:
+    GID: POL.4.10_1
+    admin_name: Łęczna
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.11_1_Adm2:
+    GID: POL.4.11_1
+    admin_name: Lubartów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.12_1_Adm2:
+    GID: POL.4.12_1
+    admin_name: Lublin (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.13_1_Adm2:
+    GID: POL.4.13_1
+    admin_name: Lublin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.14_1_Adm2:
+    GID: POL.4.14_1
+    admin_name: Łuków
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.15_1_Adm2:
+    GID: POL.4.15_1
+    admin_name: Opole Lubelskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.16_1_Adm2:
+    GID: POL.4.16_1
+    admin_name: Parczew
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.17_1_Adm2:
+    GID: POL.4.17_1
+    admin_name: Puławy
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.18_1_Adm2:
+    GID: POL.4.18_1
+    admin_name: Radzyń Podlaski
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.19_1_Adm2:
+    GID: POL.4.19_1
+    admin_name: Ryki
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.2_1_Adm2:
+    GID: POL.4.2_1
+    admin_name: Biała Podlaska
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.20_1_Adm2:
+    GID: POL.4.20_1
+    admin_name: Świdnik
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.21_1_Adm2:
+    GID: POL.4.21_1
+    admin_name: Tomaszów Lubelski
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.22_1_Adm2:
+    GID: POL.4.22_1
+    admin_name: Włodawa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.23_1_Adm2:
+    GID: POL.4.23_1
+    admin_name: Zamość (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.24_1_Adm2:
+    GID: POL.4.24_1
+    admin_name: Zamość
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.3_1_Adm2:
+    GID: POL.4.3_1
+    admin_name: Biłgoraj
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.4_1_Adm2:
+    GID: POL.4.4_1
+    admin_name: Chełm (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.5_1_Adm2:
+    GID: POL.4.5_1
+    admin_name: Chełm
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.6_1_Adm2:
+    GID: POL.4.6_1
+    admin_name: Hrubieszów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.7_1_Adm2:
+    GID: POL.4.7_1
+    admin_name: Janów Lubelski
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.8_1_Adm2:
+    GID: POL.4.8_1
+    admin_name: Kraśnik
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.4.9_1_Adm2:
+    GID: POL.4.9_1
+    admin_name: Krasnystaw
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5_1_Adm1:
+    GID: POL.5_1
+    admin_name: Lubuskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.5.1_1_Adm2:
+    GID: POL.5.1_1
+    admin_name: Gorzów Wielkopolski
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.10_1_Adm2:
+    GID: POL.5.10_1
+    admin_name: Wschowa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.11_1_Adm2:
+    GID: POL.5.11_1
+    admin_name: Żagań
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.12_1_Adm2:
+    GID: POL.5.12_1
+    admin_name: Żary
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.13_1_Adm2:
+    GID: POL.5.13_1
+    admin_name: Zielona Góra (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.14_1_Adm2:
+    GID: POL.5.14_1
+    admin_name: Zielona Góra
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.2_1_Adm2:
+    GID: POL.5.2_1
+    admin_name: Gorzów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.3_1_Adm2:
+    GID: POL.5.3_1
+    admin_name: Krosno Odrzańskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.4_1_Adm2:
+    GID: POL.5.4_1
+    admin_name: Międzyrzecz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.5_1_Adm2:
+    GID: POL.5.5_1
+    admin_name: Nowa Sól
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.6_1_Adm2:
+    GID: POL.5.6_1
+    admin_name: Słubice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.7_1_Adm2:
+    GID: POL.5.7_1
+    admin_name: Strzelce-Drezdenko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.8_1_Adm2:
+    GID: POL.5.8_1
+    admin_name: Sulęcin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.5.9_1_Adm2:
+    GID: POL.5.9_1
+    admin_name: Świebodzin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6_1_Adm1:
+    GID: POL.6_1
+    admin_name: Małopolskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.6.1_1_Adm2:
+    GID: POL.6.1_1
+    admin_name: Bochnia
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.10_1_Adm2:
+    GID: POL.6.10_1
+    admin_name: Myślenice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.11_1_Adm2:
+    GID: POL.6.11_1
+    admin_name: Nowy Sącz (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.12_1_Adm2:
+    GID: POL.6.12_1
+    admin_name: Nowy Sącz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.13_1_Adm2:
+    GID: POL.6.13_1
+    admin_name: Nowy Targ
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.14_1_Adm2:
+    GID: POL.6.14_1
+    admin_name: Olkusz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.15_1_Adm2:
+    GID: POL.6.15_1
+    admin_name: Oświęcim
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.16_1_Adm2:
+    GID: POL.6.16_1
+    admin_name: Proszowice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.17_1_Adm2:
+    GID: POL.6.17_1
+    admin_name: Sucha
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.18_1_Adm2:
+    GID: POL.6.18_1
+    admin_name: Tarnów (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.19_1_Adm2:
+    GID: POL.6.19_1
+    admin_name: Tarnów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.2_1_Adm2:
+    GID: POL.6.2_1
+    admin_name: Brzesko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.20_1_Adm2:
+    GID: POL.6.20_1
+    admin_name: Tatra
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.21_1_Adm2:
+    GID: POL.6.21_1
+    admin_name: Wadowice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.22_1_Adm2:
+    GID: POL.6.22_1
+    admin_name: Wieliczka
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.3_1_Adm2:
+    GID: POL.6.3_1
+    admin_name: Chrzanów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.4_1_Adm2:
+    GID: POL.6.4_1
+    admin_name: Dąbrowa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.5_1_Adm2:
+    GID: POL.6.5_1
+    admin_name: Gorlice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.6_1_Adm2:
+    GID: POL.6.6_1
+    admin_name: Kraków (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.7_1_Adm2:
+    GID: POL.6.7_1
+    admin_name: Kraków
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.8_1_Adm2:
+    GID: POL.6.8_1
+    admin_name: Limanowa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.6.9_1_Adm2:
+    GID: POL.6.9_1
+    admin_name: Miechów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7_1_Adm1:
+    GID: POL.7_1
+    admin_name: Mazowieckie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.7.1_1_Adm2:
+    GID: POL.7.1_1
+    admin_name: Białobrzegi
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.10_1_Adm2:
+    GID: POL.7.10_1
+    admin_name: Łosice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.11_1_Adm2:
+    GID: POL.7.11_1
+    admin_name: Maków
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.12_1_Adm2:
+    GID: POL.7.12_1
+    admin_name: Mińsk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.13_1_Adm2:
+    GID: POL.7.13_1
+    admin_name: Mława
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.14_1_Adm2:
+    GID: POL.7.14_1
+    admin_name: Nowy Dwór Mazowiecki
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.15_1_Adm2:
+    GID: POL.7.15_1
+    admin_name: Ostrołęka (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.16_1_Adm2:
+    GID: POL.7.16_1
+    admin_name: Ostrołęka
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.17_1_Adm2:
+    GID: POL.7.17_1
+    admin_name: Ostrów Mazowiecka
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.18_1_Adm2:
+    GID: POL.7.18_1
+    admin_name: Otwock
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.19_1_Adm2:
+    GID: POL.7.19_1
+    admin_name: Piaseczno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.2_1_Adm2:
+    GID: POL.7.2_1
+    admin_name: Ciechanów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.20_1_Adm2:
+    GID: POL.7.20_1
+    admin_name: Płock (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.21_1_Adm2:
+    GID: POL.7.21_1
+    admin_name: Płock
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.22_1_Adm2:
+    GID: POL.7.22_1
+    admin_name: Płońsk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.23_1_Adm2:
+    GID: POL.7.23_1
+    admin_name: Pruszków
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.24_1_Adm2:
+    GID: POL.7.24_1
+    admin_name: Przasnysz
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.25_1_Adm2:
+    GID: POL.7.25_1
+    admin_name: Przysucha
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.26_1_Adm2:
+    GID: POL.7.26_1
+    admin_name: Pułtusk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.27_1_Adm2:
+    GID: POL.7.27_1
+    admin_name: Radom (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.28_1_Adm2:
+    GID: POL.7.28_1
+    admin_name: Radom
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.29_1_Adm2:
+    GID: POL.7.29_1
+    admin_name: Siedlce (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.3_1_Adm2:
+    GID: POL.7.3_1
+    admin_name: Garwolin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.30_1_Adm2:
+    GID: POL.7.30_1
+    admin_name: Siedlce
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.31_1_Adm2:
+    GID: POL.7.31_1
+    admin_name: Sierpc
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.32_1_Adm2:
+    GID: POL.7.32_1
+    admin_name: Sochaczew
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.33_1_Adm2:
+    GID: POL.7.33_1
+    admin_name: Sokołów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.34_1_Adm2:
+    GID: POL.7.34_1
+    admin_name: Szydłowiec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.35_1_Adm2:
+    GID: POL.7.35_1
+    admin_name: Warszaw Zachodni
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.36_1_Adm2:
+    GID: POL.7.36_1
+    admin_name: Warszawa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.37_1_Adm2:
+    GID: POL.7.37_1
+    admin_name: Węgrów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.38_1_Adm2:
+    GID: POL.7.38_1
+    admin_name: Wołomin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.39_1_Adm2:
+    GID: POL.7.39_1
+    admin_name: Wyszków
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.4_1_Adm2:
+    GID: POL.7.4_1
+    admin_name: Gostynin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.40_1_Adm2:
+    GID: POL.7.40_1
+    admin_name: Żuromin
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.41_1_Adm2:
+    GID: POL.7.41_1
+    admin_name: Zwoleń
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.42_1_Adm2:
+    GID: POL.7.42_1
+    admin_name: Żyrardów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.5_1_Adm2:
+    GID: POL.7.5_1
+    admin_name: Grodzisk Mazowiecki
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.6_1_Adm2:
+    GID: POL.7.6_1
+    admin_name: Grójec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.7_1_Adm2:
+    GID: POL.7.7_1
+    admin_name: Kozienice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.8_1_Adm2:
+    GID: POL.7.8_1
+    admin_name: Legionowo
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.7.9_1_Adm2:
+    GID: POL.7.9_1
+    admin_name: Lipsko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8_1_Adm1:
+    GID: POL.8_1
+    admin_name: Opolskie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.8.1_1_Adm2:
+    GID: POL.8.1_1
+    admin_name: Brzeg
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.10_1_Adm2:
+    GID: POL.8.10_1
+    admin_name: Opole
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.11_1_Adm2:
+    GID: POL.8.11_1
+    admin_name: Prudnik
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.12_1_Adm2:
+    GID: POL.8.12_1
+    admin_name: Strzelce
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.2_1_Adm2:
+    GID: POL.8.2_1
+    admin_name: Głubczyce
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.3_1_Adm2:
+    GID: POL.8.3_1
+    admin_name: Kędzierzyn-Koźle
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.4_1_Adm2:
+    GID: POL.8.4_1
+    admin_name: Kluczbork
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.5_1_Adm2:
+    GID: POL.8.5_1
+    admin_name: Krapkowice
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.6_1_Adm2:
+    GID: POL.8.6_1
+    admin_name: Namysłów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.7_1_Adm2:
+    GID: POL.8.7_1
+    admin_name: Nysa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.8_1_Adm2:
+    GID: POL.8.8_1
+    admin_name: Olesno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.8.9_1_Adm2:
+    GID: POL.8.9_1
+    admin_name: Opole (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9_1_Adm1:
+    GID: POL.9_1
+    admin_name: Podkarpackie
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm1
+  POL.9.1_1_Adm2:
+    GID: POL.9.1_1
+    admin_name: Bieszczady
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.10_1_Adm2:
+    GID: POL.9.10_1
+    admin_name: Lesko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.11_1_Adm2:
+    GID: POL.9.11_1
+    admin_name: Leżajsk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.12_1_Adm2:
+    GID: POL.9.12_1
+    admin_name: Lubaczów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.13_1_Adm2:
+    GID: POL.9.13_1
+    admin_name: Mielec
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.14_1_Adm2:
+    GID: POL.9.14_1
+    admin_name: Nisko
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.15_1_Adm2:
+    GID: POL.9.15_1
+    admin_name: Przemyśl (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.16_1_Adm2:
+    GID: POL.9.16_1
+    admin_name: Przemyśl
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.17_1_Adm2:
+    GID: POL.9.17_1
+    admin_name: Przeworsk
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.18_1_Adm2:
+    GID: POL.9.18_1
+    admin_name: Ropczyce-Sędziszów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.19_1_Adm2:
+    GID: POL.9.19_1
+    admin_name: Rzeszów (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.2_1_Adm2:
+    GID: POL.9.2_1
+    admin_name: Brzozów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.20_1_Adm2:
+    GID: POL.9.20_1
+    admin_name: Rzeszów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.21_1_Adm2:
+    GID: POL.9.21_1
+    admin_name: Sanok
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.22_1_Adm2:
+    GID: POL.9.22_1
+    admin_name: Stalowa Wola
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.23_1_Adm2:
+    GID: POL.9.23_1
+    admin_name: Strzyżów
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.24_1_Adm2:
+    GID: POL.9.24_1
+    admin_name: Tarnobrzeg (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.25_1_Adm2:
+    GID: POL.9.25_1
+    admin_name: Tarnobrzeg
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.3_1_Adm2:
+    GID: POL.9.3_1
+    admin_name: Dębica
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.4_1_Adm2:
+    GID: POL.9.4_1
+    admin_name: Jarosław
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.5_1_Adm2:
+    GID: POL.9.5_1
+    admin_name: Jasło
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.6_1_Adm2:
+    GID: POL.9.6_1
+    admin_name: Kolbuszowa
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.7_1_Adm2:
+    GID: POL.9.7_1
+    admin_name: Krosno (City)
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.8_1_Adm2:
+    GID: POL.9.8_1
+    admin_name: Krosno
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2
+  POL.9.9_1_Adm2:
+    GID: POL.9.9_1
+    admin_name: Łańcut
+    iso3c: POL
+    country_name: Poland
+    admin_level: Adm2

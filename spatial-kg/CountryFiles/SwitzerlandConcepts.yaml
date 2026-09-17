@@ -1,0 +1,1177 @@
+concepts:
+  CHE.0_Adm0:
+    GID: CHE
+    admin_name: Switzerland
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm0
+  CHE.1_1_Adm1:
+    GID: CHE.1_1
+    admin_name: Aargau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.1.1_1_Adm2:
+    GID: CHE.1.1_1
+    admin_name: Aarau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.10_1_Adm2:
+    GID: CHE.1.10_1
+    admin_name: Zofingen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.11_1_Adm2:
+    GID: CHE.1.11_1
+    admin_name: Zurzach
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.2_1_Adm2:
+    GID: CHE.1.2_1
+    admin_name: Baden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.3_1_Adm2:
+    GID: CHE.1.3_1
+    admin_name: Bremgarten
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.4_1_Adm2:
+    GID: CHE.1.4_1
+    admin_name: Brugg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.5_1_Adm2:
+    GID: CHE.1.5_1
+    admin_name: Kulm
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.6_1_Adm2:
+    GID: CHE.1.6_1
+    admin_name: Laufenburg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.7_1_Adm2:
+    GID: CHE.1.7_1
+    admin_name: Lenzburg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.8_1_Adm2:
+    GID: CHE.1.8_1
+    admin_name: Muri
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.1.9_1_Adm2:
+    GID: CHE.1.9_1
+    admin_name: Rheinfelden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10_1_Adm1:
+    GID: CHE.10_1
+    admin_name: Graubünden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.10.1_1_Adm2:
+    GID: CHE.10.1_1
+    admin_name: Albula
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.10_1_Adm2:
+    GID: CHE.10.10_1
+    admin_name: Prättigau/Davos
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.11_1_Adm2:
+    GID: CHE.10.11_1
+    admin_name: Surselva
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.2_1_Adm2:
+    GID: CHE.10.2_1
+    admin_name: Bernina
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.3_1_Adm2:
+    GID: CHE.10.3_1
+    admin_name: Hinterrhein
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.4_1_Adm2:
+    GID: CHE.10.4_1
+    admin_name: Imboden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.5_1_Adm2:
+    GID: CHE.10.5_1
+    admin_name: Inn
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.6_1_Adm2:
+    GID: CHE.10.6_1
+    admin_name: Landquart
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.7_1_Adm2:
+    GID: CHE.10.7_1
+    admin_name: Maloja
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.8_1_Adm2:
+    GID: CHE.10.8_1
+    admin_name: Moësa
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.10.9_1_Adm2:
+    GID: CHE.10.9_1
+    admin_name: Plessur
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.11_1_Adm1:
+    GID: CHE.11_1
+    admin_name: Jura
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.11.1_1_Adm2:
+    GID: CHE.11.1_1
+    admin_name: Delémont
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.11.2_1_Adm2:
+    GID: CHE.11.2_1
+    admin_name: Les Franches-Montagnes
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.11.3_1_Adm2:
+    GID: CHE.11.3_1
+    admin_name: Porrentruy
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.12_1_Adm1:
+    GID: CHE.12_1
+    admin_name: Lucerne
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.12.1_1_Adm2:
+    GID: CHE.12.1_1
+    admin_name: Entlebuch
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.12.2_1_Adm2:
+    GID: CHE.12.2_1
+    admin_name: Hochdorf
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.12.3_1_Adm2:
+    GID: CHE.12.3_1
+    admin_name: Luzern
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.12.4_1_Adm2:
+    GID: CHE.12.4_1
+    admin_name: Sursee
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.12.5_1_Adm2:
+    GID: CHE.12.5_1
+    admin_name: Willisau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.13_1_Adm1:
+    GID: CHE.13_1
+    admin_name: Neuchâtel
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.13.1_1_Adm2:
+    GID: CHE.13.1_1
+    admin_name: Boudry
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.13.2_1_Adm2:
+    GID: CHE.13.2_1
+    admin_name: La Chaux-de-Fonds
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.13.3_1_Adm2:
+    GID: CHE.13.3_1
+    admin_name: Le Locle
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.13.4_1_Adm2:
+    GID: CHE.13.4_1
+    admin_name: Neuchâtel
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.13.5_1_Adm2:
+    GID: CHE.13.5_1
+    admin_name: Val-de-Ruz
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.13.6_1_Adm2:
+    GID: CHE.13.6_1
+    admin_name: Val-de-Travers
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.14_1_Adm1:
+    GID: CHE.14_1
+    admin_name: Nidwalden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.14.1_1_Adm2:
+    GID: CHE.14.1_1
+    admin_name: Nidwalden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.15_1_Adm1:
+    GID: CHE.15_1
+    admin_name: Obwalden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.15.1_1_Adm2:
+    GID: CHE.15.1_1
+    admin_name: Obwalden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.16_1_Adm1:
+    GID: CHE.16_1
+    admin_name: Sankt Gallen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.16.1_1_Adm2:
+    GID: CHE.16.1_1
+    admin_name: Rheintal
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.16.2_1_Adm2:
+    GID: CHE.16.2_1
+    admin_name: Rorschach
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.16.3_1_Adm2:
+    GID: CHE.16.3_1
+    admin_name: Sankt Gallen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.16.4_1_Adm2:
+    GID: CHE.16.4_1
+    admin_name: Sarganserland
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.16.5_1_Adm2:
+    GID: CHE.16.5_1
+    admin_name: See-Gaster
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.16.6_1_Adm2:
+    GID: CHE.16.6_1
+    admin_name: Toggenburg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.16.7_1_Adm2:
+    GID: CHE.16.7_1
+    admin_name: Werdenberg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.16.8_1_Adm2:
+    GID: CHE.16.8_1
+    admin_name: Wil
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.17_1_Adm1:
+    GID: CHE.17_1
+    admin_name: Schaffhausen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.17.1_1_Adm2:
+    GID: CHE.17.1_1
+    admin_name: Oberklettgau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.17.2_1_Adm2:
+    GID: CHE.17.2_1
+    admin_name: Reiat
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.17.3_1_Adm2:
+    GID: CHE.17.3_1
+    admin_name: Schaffhausen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.17.4_1_Adm2:
+    GID: CHE.17.4_1
+    admin_name: Schleitheim
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.17.5_1_Adm2:
+    GID: CHE.17.5_1
+    admin_name: Stein
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.17.6_1_Adm2:
+    GID: CHE.17.6_1
+    admin_name: Unterklettgau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.18_1_Adm1:
+    GID: CHE.18_1
+    admin_name: Schwyz
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.18.1_1_Adm2:
+    GID: CHE.18.1_1
+    admin_name: Einsiedeln
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.18.2_1_Adm2:
+    GID: CHE.18.2_1
+    admin_name: Gersau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.18.3_1_Adm2:
+    GID: CHE.18.3_1
+    admin_name: Höfe
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.18.4_1_Adm2:
+    GID: CHE.18.4_1
+    admin_name: Küssnacht
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.18.5_1_Adm2:
+    GID: CHE.18.5_1
+    admin_name: March
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.18.6_1_Adm2:
+    GID: CHE.18.6_1
+    admin_name: Schwyz
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19_1_Adm1:
+    GID: CHE.19_1
+    admin_name: Solothurn
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.19.1_1_Adm2:
+    GID: CHE.19.1_1
+    admin_name: Bucheggberg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.10_1_Adm2:
+    GID: CHE.19.10_1
+    admin_name: Wasseramt
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.2_1_Adm2:
+    GID: CHE.19.2_1
+    admin_name: Dorneck
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.3_1_Adm2:
+    GID: CHE.19.3_1
+    admin_name: Gäu
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.4_1_Adm2:
+    GID: CHE.19.4_1
+    admin_name: Gösgen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.5_1_Adm2:
+    GID: CHE.19.5_1
+    admin_name: Lebern
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.6_1_Adm2:
+    GID: CHE.19.6_1
+    admin_name: Olten
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.7_1_Adm2:
+    GID: CHE.19.7_1
+    admin_name: Solothurn
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.8_1_Adm2:
+    GID: CHE.19.8_1
+    admin_name: Thal
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.19.9_1_Adm2:
+    GID: CHE.19.9_1
+    admin_name: Thierstein
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.2_1_Adm1:
+    GID: CHE.2_1
+    admin_name: Appenzell Ausserrhoden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.2.1_1_Adm2:
+    GID: CHE.2.1_1
+    admin_name: Appenzell Ausserrhoden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20_1_Adm1:
+    GID: CHE.20_1
+    admin_name: Thurgau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.20.1_1_Adm2:
+    GID: CHE.20.1_1
+    admin_name: Arbon
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20.2_1_Adm2:
+    GID: CHE.20.2_1
+    admin_name: Bischofszell
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20.3_1_Adm2:
+    GID: CHE.20.3_1
+    admin_name: Bodensee
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20.4_1_Adm2:
+    GID: CHE.20.4_1
+    admin_name: Diessenhofen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20.5_1_Adm2:
+    GID: CHE.20.5_1
+    admin_name: Frauenfeld
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20.6_1_Adm2:
+    GID: CHE.20.6_1
+    admin_name: Kreuzlingen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20.7_1_Adm2:
+    GID: CHE.20.7_1
+    admin_name: Münchwilen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20.8_1_Adm2:
+    GID: CHE.20.8_1
+    admin_name: Steckborn
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.20.9_1_Adm2:
+    GID: CHE.20.9_1
+    admin_name: Weinfelden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.21_1_Adm1:
+    GID: CHE.21_1
+    admin_name: Ticino
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.21.1_1_Adm2:
+    GID: CHE.21.1_1
+    admin_name: Bellinzona
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.21.2_1_Adm2:
+    GID: CHE.21.2_1
+    admin_name: Blenio
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.21.3_1_Adm2:
+    GID: CHE.21.3_1
+    admin_name: Leventina
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.21.4_1_Adm2:
+    GID: CHE.21.4_1
+    admin_name: Locarno
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.21.5_1_Adm2:
+    GID: CHE.21.5_1
+    admin_name: Lugano
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.21.6_1_Adm2:
+    GID: CHE.21.6_1
+    admin_name: Mendrisio
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.21.7_1_Adm2:
+    GID: CHE.21.7_1
+    admin_name: Riviera
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.21.8_1_Adm2:
+    GID: CHE.21.8_1
+    admin_name: Vallemaggia
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.22_1_Adm1:
+    GID: CHE.22_1
+    admin_name: Uri
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.22.1_1_Adm2:
+    GID: CHE.22.1_1
+    admin_name: Uri
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23_1_Adm1:
+    GID: CHE.23_1
+    admin_name: Valais
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.23.1_1_Adm2:
+    GID: CHE.23.1_1
+    admin_name: Brig
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.10_1_Adm2:
+    GID: CHE.23.10_1
+    admin_name: Saint-Maurice
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.11_1_Adm2:
+    GID: CHE.23.11_1
+    admin_name: Sierre
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.12_1_Adm2:
+    GID: CHE.23.12_1
+    admin_name: Sion
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.13_1_Adm2:
+    GID: CHE.23.13_1
+    admin_name: Visp
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.14_1_Adm2:
+    GID: CHE.23.14_1
+    admin_name: West Raron
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.2_1_Adm2:
+    GID: CHE.23.2_1
+    admin_name: Conthey
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.3_1_Adm2:
+    GID: CHE.23.3_1
+    admin_name: Entremont
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.4_1_Adm2:
+    GID: CHE.23.4_1
+    admin_name: Goms
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.5_1_Adm2:
+    GID: CHE.23.5_1
+    admin_name: Hérens
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.6_1_Adm2:
+    GID: CHE.23.6_1
+    admin_name: Leuk
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.7_1_Adm2:
+    GID: CHE.23.7_1
+    admin_name: Martigny
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.8_1_Adm2:
+    GID: CHE.23.8_1
+    admin_name: Monthey
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.23.9_1_Adm2:
+    GID: CHE.23.9_1
+    admin_name: Raron
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24_1_Adm1:
+    GID: CHE.24_1
+    admin_name: Vaud
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.24.1_1_Adm2:
+    GID: CHE.24.1_1
+    admin_name: Aigle
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.10_1_Adm2:
+    GID: CHE.24.10_1
+    admin_name: Pays-d'Enhaut
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.2_1_Adm2:
+    GID: CHE.24.2_1
+    admin_name: Broye-Vully
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.3_1_Adm2:
+    GID: CHE.24.3_1
+    admin_name: Gros-de-Vaud
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.4_1_Adm2:
+    GID: CHE.24.4_1
+    admin_name: Jura-North Vaudois
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.5_1_Adm2:
+    GID: CHE.24.5_1
+    admin_name: Lausanne
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.6_1_Adm2:
+    GID: CHE.24.6_1
+    admin_name: Lavaux-Oron
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.7_1_Adm2:
+    GID: CHE.24.7_1
+    admin_name: Morges
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.8_1_Adm2:
+    GID: CHE.24.8_1
+    admin_name: Nyon
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.24.9_1_Adm2:
+    GID: CHE.24.9_1
+    admin_name: Ouest lausannois
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.25_1_Adm1:
+    GID: CHE.25_1
+    admin_name: Zug
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.25.1_1_Adm2:
+    GID: CHE.25.1_1
+    admin_name: Zug
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26_1_Adm1:
+    GID: CHE.26_1
+    admin_name: Zürich
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.26.1_1_Adm2:
+    GID: CHE.26.1_1
+    admin_name: Affoltern
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.10_1_Adm2:
+    GID: CHE.26.10_1
+    admin_name: Schaffhausen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.11_1_Adm2:
+    GID: CHE.26.11_1
+    admin_name: Uster
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.12_1_Adm2:
+    GID: CHE.26.12_1
+    admin_name: Winterthur
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.13_1_Adm2:
+    GID: CHE.26.13_1
+    admin_name: Zürich
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.2_1_Adm2:
+    GID: CHE.26.2_1
+    admin_name: Andelfingen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.3_1_Adm2:
+    GID: CHE.26.3_1
+    admin_name: Bülach
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.4_1_Adm2:
+    GID: CHE.26.4_1
+    admin_name: Dielsdorf
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.5_1_Adm2:
+    GID: CHE.26.5_1
+    admin_name: Dietikon
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.6_1_Adm2:
+    GID: CHE.26.6_1
+    admin_name: Hinwil
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.7_1_Adm2:
+    GID: CHE.26.7_1
+    admin_name: Horgen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.8_1_Adm2:
+    GID: CHE.26.8_1
+    admin_name: Meilen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.26.9_1_Adm2:
+    GID: CHE.26.9_1
+    admin_name: Pfäffikon
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.3_1_Adm1:
+    GID: CHE.3_1
+    admin_name: Appenzell Innerrhoden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.3.1_1_Adm2:
+    GID: CHE.3.1_1
+    admin_name: Appenzell Innerrhoden
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.4_1_Adm1:
+    GID: CHE.4_1
+    admin_name: Basel-Landschaft
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.4.1_1_Adm2:
+    GID: CHE.4.1_1
+    admin_name: Arlesheim
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.4.2_1_Adm2:
+    GID: CHE.4.2_1
+    admin_name: Laufen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.4.3_1_Adm2:
+    GID: CHE.4.3_1
+    admin_name: Liestal
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.4.4_1_Adm2:
+    GID: CHE.4.4_1
+    admin_name: Sissach
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.4.5_1_Adm2:
+    GID: CHE.4.5_1
+    admin_name: Waldenburg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.5_1_Adm1:
+    GID: CHE.5_1
+    admin_name: Basel-Stadt
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.5.1_1_Adm2:
+    GID: CHE.5.1_1
+    admin_name: Basel
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.5.2_1_Adm2:
+    GID: CHE.5.2_1
+    admin_name: Bettingen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.5.3_1_Adm2:
+    GID: CHE.5.3_1
+    admin_name: Riehen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6_1_Adm1:
+    GID: CHE.6_1
+    admin_name: Bern
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.6.1_1_Adm2:
+    GID: CHE.6.1_1
+    admin_name: Aarberg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.10_1_Adm2:
+    GID: CHE.6.10_1
+    admin_name: Frutigen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.11_1_Adm2:
+    GID: CHE.6.11_1
+    admin_name: Interlaken
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.12_1_Adm2:
+    GID: CHE.6.12_1
+    admin_name: Konolfingen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.13_1_Adm2:
+    GID: CHE.6.13_1
+    admin_name: La Neuveville
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.14_1_Adm2:
+    GID: CHE.6.14_1
+    admin_name: Laupen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.15_1_Adm2:
+    GID: CHE.6.15_1
+    admin_name: Moutier
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.16_1_Adm2:
+    GID: CHE.6.16_1
+    admin_name: Nidau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.17_1_Adm2:
+    GID: CHE.6.17_1
+    admin_name: Niedersimmental
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.18_1_Adm2:
+    GID: CHE.6.18_1
+    admin_name: Oberhasli
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.19_1_Adm2:
+    GID: CHE.6.19_1
+    admin_name: Obersimmental
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.2_1_Adm2:
+    GID: CHE.6.2_1
+    admin_name: Aarwangen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.20_1_Adm2:
+    GID: CHE.6.20_1
+    admin_name: Saanen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.21_1_Adm2:
+    GID: CHE.6.21_1
+    admin_name: Schwarzenburg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.22_1_Adm2:
+    GID: CHE.6.22_1
+    admin_name: Seftigen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.23_1_Adm2:
+    GID: CHE.6.23_1
+    admin_name: Signau
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.24_1_Adm2:
+    GID: CHE.6.24_1
+    admin_name: Thun
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.25_1_Adm2:
+    GID: CHE.6.25_1
+    admin_name: Trachselwald
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.26_1_Adm2:
+    GID: CHE.6.26_1
+    admin_name: Wangen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.3_1_Adm2:
+    GID: CHE.6.3_1
+    admin_name: Bern
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.4_1_Adm2:
+    GID: CHE.6.4_1
+    admin_name: Biel
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.5_1_Adm2:
+    GID: CHE.6.5_1
+    admin_name: Büren
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.6_1_Adm2:
+    GID: CHE.6.6_1
+    admin_name: Burgdorf
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.7_1_Adm2:
+    GID: CHE.6.7_1
+    admin_name: Courtelary
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.8_1_Adm2:
+    GID: CHE.6.8_1
+    admin_name: Erlach
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.6.9_1_Adm2:
+    GID: CHE.6.9_1
+    admin_name: Fraubrunnen
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.7_1_Adm1:
+    GID: CHE.7_1
+    admin_name: Fribourg
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.7.1_1_Adm2:
+    GID: CHE.7.1_1
+    admin_name: La Broye
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.7.2_1_Adm2:
+    GID: CHE.7.2_1
+    admin_name: La Glâne
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.7.3_1_Adm2:
+    GID: CHE.7.3_1
+    admin_name: La Gruyère
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.7.4_1_Adm2:
+    GID: CHE.7.4_1
+    admin_name: La Sarine
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.7.5_1_Adm2:
+    GID: CHE.7.5_1
+    admin_name: La Veveyse
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.7.6_1_Adm2:
+    GID: CHE.7.6_1
+    admin_name: Lac
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.7.7_1_Adm2:
+    GID: CHE.7.7_1
+    admin_name: Sense
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.8_1_Adm1:
+    GID: CHE.8_1
+    admin_name: Genève
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.8.1_1_Adm2:
+    GID: CHE.8.1_1
+    admin_name: Genève
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2
+  CHE.9_1_Adm1:
+    GID: CHE.9_1
+    admin_name: Glarus
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm1
+  CHE.9.1_1_Adm2:
+    GID: CHE.9.1_1
+    admin_name: Glarus
+    iso3c: CHE
+    country_name: Switzerland
+    admin_level: Adm2

@@ -1,0 +1,967 @@
+concepts:
+  LAO.0_Adm0:
+    GID: LAO
+    admin_name: Laos
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm0
+  LAO.1_1_Adm1:
+    GID: LAO.1_1
+    admin_name: Attapu
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.1.1_1_Adm2:
+    GID: LAO.1.1_1
+    admin_name: Phouvong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.1.2_1_Adm2:
+    GID: LAO.1.2_1
+    admin_name: Samakkhixay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.1.3_1_Adm2:
+    GID: LAO.1.3_1
+    admin_name: Sanamxay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.1.4_1_Adm2:
+    GID: LAO.1.4_1
+    admin_name: Sanxay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.1.5_1_Adm2:
+    GID: LAO.1.5_1
+    admin_name: Xaysetha
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.10_1_Adm1:
+    GID: LAO.10_1
+    admin_name: Phôngsali
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.10.1_1_Adm2:
+    GID: LAO.10.1_1
+    admin_name: Boon Neua
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.10.2_1_Adm2:
+    GID: LAO.10.2_1
+    admin_name: Boontai
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.10.3_1_Adm2:
+    GID: LAO.10.3_1
+    admin_name: Khua
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.10.4_1_Adm2:
+    GID: LAO.10.4_1
+    admin_name: May
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.10.5_1_Adm2:
+    GID: LAO.10.5_1
+    admin_name: Nhot Ou
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.10.6_1_Adm2:
+    GID: LAO.10.6_1
+    admin_name: Phongsaly
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.10.7_1_Adm2:
+    GID: LAO.10.7_1
+    admin_name: Samphanh
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.11_1_Adm1:
+    GID: LAO.11_1
+    admin_name: Saravan
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.11.1_1_Adm2:
+    GID: LAO.11.1_1
+    admin_name: Khongxedone
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.11.2_1_Adm2:
+    GID: LAO.11.2_1
+    admin_name: Lakhonepheng
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.11.3_1_Adm2:
+    GID: LAO.11.3_1
+    admin_name: Lao Ngarm
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.11.4_1_Adm2:
+    GID: LAO.11.4_1
+    admin_name: Samuoi
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.11.5_1_Adm2:
+    GID: LAO.11.5_1
+    admin_name: Saravane
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.11.6_1_Adm2:
+    GID: LAO.11.6_1
+    admin_name: Ta Oi
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.11.7_1_Adm2:
+    GID: LAO.11.7_1
+    admin_name: Toomlarn
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.11.8_1_Adm2:
+    GID: LAO.11.8_1
+    admin_name: Vapy
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12_1_Adm1:
+    GID: LAO.12_1
+    admin_name: Savannakhét
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.12.1_1_Adm2:
+    GID: LAO.12.1_1
+    admin_name: Atsaphangthong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.10_1_Adm2:
+    GID: LAO.12.10_1
+    admin_name: Thapangthong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.11_1_Adm2:
+    GID: LAO.12.11_1
+    admin_name: Thaphalanxay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.12_1_Adm2:
+    GID: LAO.12.12_1
+    admin_name: Vilabuly
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.13_1_Adm2:
+    GID: LAO.12.13_1
+    admin_name: Xaybuly
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.14_1_Adm2:
+    GID: LAO.12.14_1
+    admin_name: Xayphoothong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.15_1_Adm2:
+    GID: LAO.12.15_1
+    admin_name: Xonbuly
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.2_1_Adm2:
+    GID: LAO.12.2_1
+    admin_name: Atsaphone
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.3_1_Adm2:
+    GID: LAO.12.3_1
+    admin_name: Champhone
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.4_1_Adm2:
+    GID: LAO.12.4_1
+    admin_name: Khanthabouly
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.5_1_Adm2:
+    GID: LAO.12.5_1
+    admin_name: Nong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.6_1_Adm2:
+    GID: LAO.12.6_1
+    admin_name: Outhoomphone
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.7_1_Adm2:
+    GID: LAO.12.7_1
+    admin_name: Phine
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.8_1_Adm2:
+    GID: LAO.12.8_1
+    admin_name: Sepone
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.12.9_1_Adm2:
+    GID: LAO.12.9_1
+    admin_name: Songkhone
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13_1_Adm1:
+    GID: LAO.13_1
+    admin_name: Vientiane [prefecture]
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.13.1_1_Adm2:
+    GID: LAO.13.1_1
+    admin_name: Chanthabuly
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13.2_1_Adm2:
+    GID: LAO.13.2_1
+    admin_name: Hadxaifong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13.3_1_Adm2:
+    GID: LAO.13.3_1
+    admin_name: Mayparkngum
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13.4_1_Adm2:
+    GID: LAO.13.4_1
+    admin_name: Naxaithong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13.5_1_Adm2:
+    GID: LAO.13.5_1
+    admin_name: Sangthong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13.6_1_Adm2:
+    GID: LAO.13.6_1
+    admin_name: Sikhottabong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13.7_1_Adm2:
+    GID: LAO.13.7_1
+    admin_name: Sisattanak
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13.8_1_Adm2:
+    GID: LAO.13.8_1
+    admin_name: Xaysetha
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.13.9_1_Adm2:
+    GID: LAO.13.9_1
+    admin_name: Xaythany
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14_1_Adm1:
+    GID: LAO.14_1
+    admin_name: Vientiane
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.14.1_1_Adm2:
+    GID: LAO.14.1_1
+    admin_name: Feuang
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.10_1_Adm2:
+    GID: LAO.14.10_1
+    admin_name: Xanakharm
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.2_1_Adm2:
+    GID: LAO.14.2_1
+    admin_name: Hinhurp
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.3_1_Adm2:
+    GID: LAO.14.3_1
+    admin_name: Kasy
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.4_1_Adm2:
+    GID: LAO.14.4_1
+    admin_name: Keo Oudom
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.5_1_Adm2:
+    GID: LAO.14.5_1
+    admin_name: Mad
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.6_1_Adm2:
+    GID: LAO.14.6_1
+    admin_name: Phonhong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.7_1_Adm2:
+    GID: LAO.14.7_1
+    admin_name: Thoulakhom
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.8_1_Adm2:
+    GID: LAO.14.8_1
+    admin_name: Vangvieng
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.14.9_1_Adm2:
+    GID: LAO.14.9_1
+    admin_name: Viengkham
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15_1_Adm1:
+    GID: LAO.15_1
+    admin_name: Xaignabouri
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.15.1_1_Adm2:
+    GID: LAO.15.1_1
+    admin_name: Botene
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.10_1_Adm2:
+    GID: LAO.15.10_1
+    admin_name: Xienghone
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.2_1_Adm2:
+    GID: LAO.15.2_1
+    admin_name: Hongsa
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.3_1_Adm2:
+    GID: LAO.15.3_1
+    admin_name: Kenethao
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.4_1_Adm2:
+    GID: LAO.15.4_1
+    admin_name: Khop
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.5_1_Adm2:
+    GID: LAO.15.5_1
+    admin_name: Ngeun
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.6_1_Adm2:
+    GID: LAO.15.6_1
+    admin_name: Parklai
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.7_1_Adm2:
+    GID: LAO.15.7_1
+    admin_name: Phiang
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.8_1_Adm2:
+    GID: LAO.15.8_1
+    admin_name: Thongmyxay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.15.9_1_Adm2:
+    GID: LAO.15.9_1
+    admin_name: Xayabury
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.16_1_Adm1:
+    GID: LAO.16_1
+    admin_name: Xaisômboun
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.16.1_1_Adm2:
+    GID: LAO.16.1_1
+    admin_name: Hom
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.16.2_1_Adm2:
+    GID: LAO.16.2_1
+    admin_name: Longsane
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.16.3_1_Adm2:
+    GID: LAO.16.3_1
+    admin_name: Phun
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.16.4_1_Adm2:
+    GID: LAO.16.4_1
+    admin_name: Thathom
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.16.5_1_Adm2:
+    GID: LAO.16.5_1
+    admin_name: Xaysomboun
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.17_1_Adm1:
+    GID: LAO.17_1
+    admin_name: Xékong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.17.1_1_Adm2:
+    GID: LAO.17.1_1
+    admin_name: Dakcheung
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.17.2_1_Adm2:
+    GID: LAO.17.2_1
+    admin_name: Kaleum
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.17.3_1_Adm2:
+    GID: LAO.17.3_1
+    admin_name: Lamarm
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.17.4_1_Adm2:
+    GID: LAO.17.4_1
+    admin_name: Thateng
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.18_1_Adm1:
+    GID: LAO.18_1
+    admin_name: Xiangkhoang
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.18.1_1_Adm2:
+    GID: LAO.18.1_1
+    admin_name: Kham
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.18.2_1_Adm2:
+    GID: LAO.18.2_1
+    admin_name: Khoune
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.18.3_1_Adm2:
+    GID: LAO.18.3_1
+    admin_name: Morkmay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.18.4_1_Adm2:
+    GID: LAO.18.4_1
+    admin_name: Nonghed
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.18.5_1_Adm2:
+    GID: LAO.18.5_1
+    admin_name: Pek
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.18.6_1_Adm2:
+    GID: LAO.18.6_1
+    admin_name: Phaxay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.18.7_1_Adm2:
+    GID: LAO.18.7_1
+    admin_name: Phookood
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.2_1_Adm1:
+    GID: LAO.2_1
+    admin_name: Bokeo
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.2.1_1_Adm2:
+    GID: LAO.2.1_1
+    admin_name: Houixai
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.2.2_1_Adm2:
+    GID: LAO.2.2_1
+    admin_name: Meung
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.2.3_1_Adm2:
+    GID: LAO.2.3_1
+    admin_name: Nam You
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.2.4_1_Adm2:
+    GID: LAO.2.4_1
+    admin_name: Paktha
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.2.5_1_Adm2:
+    GID: LAO.2.5_1
+    admin_name: Pha Oudom
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.2.6_1_Adm2:
+    GID: LAO.2.6_1
+    admin_name: Tonpheung
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.3_1_Adm1:
+    GID: LAO.3_1
+    admin_name: Bolikhamxai
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.3.1_1_Adm2:
+    GID: LAO.3.1_1
+    admin_name: Bolikhanh
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.3.2_1_Adm2:
+    GID: LAO.3.2_1
+    admin_name: Khamkheuth
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.3.3_1_Adm2:
+    GID: LAO.3.3_1
+    admin_name: Pakkading
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.3.4_1_Adm2:
+    GID: LAO.3.4_1
+    admin_name: Paksane
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.3.5_1_Adm2:
+    GID: LAO.3.5_1
+    admin_name: Thaphabath
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.3.6_1_Adm2:
+    GID: LAO.3.6_1
+    admin_name: Viengthong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4_1_Adm1:
+    GID: LAO.4_1
+    admin_name: Champasak
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.4.1_1_Adm2:
+    GID: LAO.4.1_1
+    admin_name: Bachiangchaleunsook
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.10_1_Adm2:
+    GID: LAO.4.10_1
+    admin_name: Sukhuma
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.2_1_Adm2:
+    GID: LAO.4.2_1
+    admin_name: Champassack
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.3_1_Adm2:
+    GID: LAO.4.3_1
+    admin_name: Khong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.4_1_Adm2:
+    GID: LAO.4.4_1
+    admin_name: Moonlapamok
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.5_1_Adm2:
+    GID: LAO.4.5_1
+    admin_name: Paksong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.6_1_Adm2:
+    GID: LAO.4.6_1
+    admin_name: Pakxe
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.7_1_Adm2:
+    GID: LAO.4.7_1
+    admin_name: Pathoomphone
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.8_1_Adm2:
+    GID: LAO.4.8_1
+    admin_name: Phonthong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.4.9_1_Adm2:
+    GID: LAO.4.9_1
+    admin_name: Sanasomboon
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.5_1_Adm1:
+    GID: LAO.5_1
+    admin_name: Houaphan
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.5.1_1_Adm2:
+    GID: LAO.5.1_1
+    admin_name: Huameuang
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.5.2_1_Adm2:
+    GID: LAO.5.2_1
+    admin_name: Muang Et
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.5.3_1_Adm2:
+    GID: LAO.5.3_1
+    admin_name: Sopbao
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.5.4_1_Adm2:
+    GID: LAO.5.4_1
+    admin_name: Viengthong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.5.5_1_Adm2:
+    GID: LAO.5.5_1
+    admin_name: Viengxay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.5.6_1_Adm2:
+    GID: LAO.5.6_1
+    admin_name: Xamneua
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.5.7_1_Adm2:
+    GID: LAO.5.7_1
+    admin_name: Xamtay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.5.8_1_Adm2:
+    GID: LAO.5.8_1
+    admin_name: Xiengkhor
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6_1_Adm1:
+    GID: LAO.6_1
+    admin_name: Khammouan
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.6.1_1_Adm2:
+    GID: LAO.6.1_1
+    admin_name: Bualapha
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6.2_1_Adm2:
+    GID: LAO.6.2_1
+    admin_name: Hinboon
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6.3_1_Adm2:
+    GID: LAO.6.3_1
+    admin_name: Mahaxay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6.4_1_Adm2:
+    GID: LAO.6.4_1
+    admin_name: Nakai
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6.5_1_Adm2:
+    GID: LAO.6.5_1
+    admin_name: Nhommalath
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6.6_1_Adm2:
+    GID: LAO.6.6_1
+    admin_name: Nongbok
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6.7_1_Adm2:
+    GID: LAO.6.7_1
+    admin_name: Thakhek
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6.8_1_Adm2:
+    GID: LAO.6.8_1
+    admin_name: Xaybuathong
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.6.9_1_Adm2:
+    GID: LAO.6.9_1
+    admin_name: Xebangfay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.7_1_Adm1:
+    GID: LAO.7_1
+    admin_name: Louang Namtha
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.7.1_1_Adm2:
+    GID: LAO.7.1_1
+    admin_name: Long
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.7.2_1_Adm2:
+    GID: LAO.7.2_1
+    admin_name: Nalae
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.7.3_1_Adm2:
+    GID: LAO.7.3_1
+    admin_name: Namtha
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.7.4_1_Adm2:
+    GID: LAO.7.4_1
+    admin_name: Sing
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.7.5_1_Adm2:
+    GID: LAO.7.5_1
+    admin_name: Viengphoukha
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8_1_Adm1:
+    GID: LAO.8_1
+    admin_name: Louangphrabang
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.8.1_1_Adm2:
+    GID: LAO.8.1_1
+    admin_name: Chomphet
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.10_1_Adm2:
+    GID: LAO.8.10_1
+    admin_name: Viengkham
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.11_1_Adm2:
+    GID: LAO.8.11_1
+    admin_name: Xieng Ngeun
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.2_1_Adm2:
+    GID: LAO.8.2_1
+    admin_name: Louangphrabang
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.3_1_Adm2:
+    GID: LAO.8.3_1
+    admin_name: Nambak
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.4_1_Adm2:
+    GID: LAO.8.4_1
+    admin_name: Nan
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.5_1_Adm2:
+    GID: LAO.8.5_1
+    admin_name: Ngoi
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.6_1_Adm2:
+    GID: LAO.8.6_1
+    admin_name: Pak Xeng
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.7_1_Adm2:
+    GID: LAO.8.7_1
+    admin_name: Park Ou
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.8_1_Adm2:
+    GID: LAO.8.8_1
+    admin_name: Phonxay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.8.9_1_Adm2:
+    GID: LAO.8.9_1
+    admin_name: Phoukhoune
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.9_1_Adm1:
+    GID: LAO.9_1
+    admin_name: Oudômxai
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm1
+  LAO.9.1_1_Adm2:
+    GID: LAO.9.1_1
+    admin_name: Beng
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.9.2_1_Adm2:
+    GID: LAO.9.2_1
+    admin_name: Hoon
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.9.3_1_Adm2:
+    GID: LAO.9.3_1
+    admin_name: La
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.9.4_1_Adm2:
+    GID: LAO.9.4_1
+    admin_name: Namor
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.9.5_1_Adm2:
+    GID: LAO.9.5_1
+    admin_name: Nga
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.9.6_1_Adm2:
+    GID: LAO.9.6_1
+    admin_name: Pakbeng
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2
+  LAO.9.7_1_Adm2:
+    GID: LAO.9.7_1
+    admin_name: Xay
+    iso3c: LAO
+    country_name: Laos
+    admin_level: Adm2

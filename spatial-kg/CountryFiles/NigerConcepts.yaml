@@ -1,0 +1,271 @@
+concepts:
+  NER.0_Adm0:
+    GID: NER
+    admin_name: Niger
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm0
+  NER.1_1_Adm1:
+    GID: NER.1_1
+    admin_name: Agadez
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm1
+  NER.1.1_1_Adm2:
+    GID: NER.1.1_1
+    admin_name: Arlit
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.1.2_1_Adm2:
+    GID: NER.1.2_1
+    admin_name: Bilma
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.1.3_1_Adm2:
+    GID: NER.1.3_1
+    admin_name: Tchighozerine
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.2_1_Adm1:
+    GID: NER.2_1
+    admin_name: Diffa
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm1
+  NER.2.1_1_Adm2:
+    GID: NER.2.1_1
+    admin_name: Diffa
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.2.2_1_Adm2:
+    GID: NER.2.2_1
+    admin_name: Maïné-Soroa
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.2.3_1_Adm2:
+    GID: NER.2.3_1
+    admin_name: N'Guigmi
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.3_1_Adm1:
+    GID: NER.3_1
+    admin_name: Dosso
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm1
+  NER.3.1_1_Adm2:
+    GID: NER.3.1_1
+    admin_name: Boboye
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.3.2_1_Adm2:
+    GID: NER.3.2_1
+    admin_name: Dogon-Doutchi
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.3.3_1_Adm2:
+    GID: NER.3.3_1
+    admin_name: Dosso
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.3.4_1_Adm2:
+    GID: NER.3.4_1
+    admin_name: Gaya
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.3.5_1_Adm2:
+    GID: NER.3.5_1
+    admin_name: Loga
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.4_1_Adm1:
+    GID: NER.4_1
+    admin_name: Maradi
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm1
+  NER.4.1_1_Adm2:
+    GID: NER.4.1_1
+    admin_name: Aguié
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.4.2_1_Adm2:
+    GID: NER.4.2_1
+    admin_name: Dakoro
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.4.3_1_Adm2:
+    GID: NER.4.3_1
+    admin_name: Groumdji
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.4.4_1_Adm2:
+    GID: NER.4.4_1
+    admin_name: Madarounfa
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.4.5_1_Adm2:
+    GID: NER.4.5_1
+    admin_name: Mayahi
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.4.6_1_Adm2:
+    GID: NER.4.6_1
+    admin_name: Tessaoua
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.5_1_Adm1:
+    GID: NER.5_1
+    admin_name: Niamey
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm1
+  NER.5.1_1_Adm2:
+    GID: NER.5.1_1
+    admin_name: Niamey
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.6_1_Adm1:
+    GID: NER.6_1
+    admin_name: Tahoua
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm1
+  NER.6.1_1_Adm2:
+    GID: NER.6.1_1
+    admin_name: Bkonni
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.6.2_1_Adm2:
+    GID: NER.6.2_1
+    admin_name: Bouza
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.6.3_1_Adm2:
+    GID: NER.6.3_1
+    admin_name: Illéla
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.6.4_1_Adm2:
+    GID: NER.6.4_1
+    admin_name: Keita
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.6.5_1_Adm2:
+    GID: NER.6.5_1
+    admin_name: Madaoua
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.6.6_1_Adm2:
+    GID: NER.6.6_1
+    admin_name: Tahoua
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.6.7_1_Adm2:
+    GID: NER.6.7_1
+    admin_name: Tchin-Tabarade
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.7_1_Adm1:
+    GID: NER.7_1
+    admin_name: Tillabéry
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm1
+  NER.7.1_1_Adm2:
+    GID: NER.7.1_1
+    admin_name: Filingué
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.7.2_1_Adm2:
+    GID: NER.7.2_1
+    admin_name: Kollo
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.7.3_1_Adm2:
+    GID: NER.7.3_1
+    admin_name: Ouallam
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.7.4_1_Adm2:
+    GID: NER.7.4_1
+    admin_name: Say
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.7.5_1_Adm2:
+    GID: NER.7.5_1
+    admin_name: Téra
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.7.6_1_Adm2:
+    GID: NER.7.6_1
+    admin_name: Tillabéry
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.8_1_Adm1:
+    GID: NER.8_1
+    admin_name: Zinder
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm1
+  NER.8.1_1_Adm2:
+    GID: NER.8.1_1
+    admin_name: Gouré
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.8.2_1_Adm2:
+    GID: NER.8.2_1
+    admin_name: Magaria
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.8.3_1_Adm2:
+    GID: NER.8.3_1
+    admin_name: Matameye
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.8.4_1_Adm2:
+    GID: NER.8.4_1
+    admin_name: Mirriah
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2
+  NER.8.5_1_Adm2:
+    GID: NER.8.5_1
+    admin_name: Tanout
+    iso3c: NER
+    country_name: Niger
+    admin_level: Adm2

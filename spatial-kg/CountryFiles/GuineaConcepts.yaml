@@ -1,0 +1,259 @@
+concepts:
+  GIN.0_Adm0:
+    GID: GIN
+    admin_name: Guinea
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm0
+  GIN.1_1_Adm1:
+    GID: GIN.1_1
+    admin_name: Boké
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm1
+  GIN.1.1_1_Adm2:
+    GID: GIN.1.1_1
+    admin_name: Boffa
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.1.2_1_Adm2:
+    GID: GIN.1.2_1
+    admin_name: Boké
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.1.3_1_Adm2:
+    GID: GIN.1.3_1
+    admin_name: Fria
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.1.4_1_Adm2:
+    GID: GIN.1.4_1
+    admin_name: Gaoual
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.1.5_1_Adm2:
+    GID: GIN.1.5_1
+    admin_name: Koundara
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.2_1_Adm1:
+    GID: GIN.2_1
+    admin_name: Conakry
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm1
+  GIN.2.1_1_Adm2:
+    GID: GIN.2.1_1
+    admin_name: Conakry
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.3_1_Adm1:
+    GID: GIN.3_1
+    admin_name: Faranah
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm1
+  GIN.3.1_1_Adm2:
+    GID: GIN.3.1_1
+    admin_name: Dabola
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.3.2_1_Adm2:
+    GID: GIN.3.2_1
+    admin_name: Dinguiraye
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.3.3_1_Adm2:
+    GID: GIN.3.3_1
+    admin_name: Faranah
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.3.4_1_Adm2:
+    GID: GIN.3.4_1
+    admin_name: Kissidougou
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.4_1_Adm1:
+    GID: GIN.4_1
+    admin_name: Kankan
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm1
+  GIN.4.1_1_Adm2:
+    GID: GIN.4.1_1
+    admin_name: Kankan
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.4.2_1_Adm2:
+    GID: GIN.4.2_1
+    admin_name: Kérouané
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.4.3_1_Adm2:
+    GID: GIN.4.3_1
+    admin_name: Kouroussa
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.4.4_1_Adm2:
+    GID: GIN.4.4_1
+    admin_name: Mandiana
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.4.5_1_Adm2:
+    GID: GIN.4.5_1
+    admin_name: Siguiri
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.5_1_Adm1:
+    GID: GIN.5_1
+    admin_name: Kindia
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm1
+  GIN.5.1_1_Adm2:
+    GID: GIN.5.1_1
+    admin_name: Coyah
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.5.2_1_Adm2:
+    GID: GIN.5.2_1
+    admin_name: Dubréka
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.5.3_1_Adm2:
+    GID: GIN.5.3_1
+    admin_name: Forécariah
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.5.4_1_Adm2:
+    GID: GIN.5.4_1
+    admin_name: Kindia
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.5.5_1_Adm2:
+    GID: GIN.5.5_1
+    admin_name: Télimélé
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.6_1_Adm1:
+    GID: GIN.6_1
+    admin_name: Labé
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm1
+  GIN.6.1_1_Adm2:
+    GID: GIN.6.1_1
+    admin_name: Koubia
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.6.2_1_Adm2:
+    GID: GIN.6.2_1
+    admin_name: Labé
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.6.3_1_Adm2:
+    GID: GIN.6.3_1
+    admin_name: Lélouma
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.6.4_1_Adm2:
+    GID: GIN.6.4_1
+    admin_name: Mali
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.6.5_1_Adm2:
+    GID: GIN.6.5_1
+    admin_name: Tougué
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.7_1_Adm1:
+    GID: GIN.7_1
+    admin_name: Mamou
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm1
+  GIN.7.1_1_Adm2:
+    GID: GIN.7.1_1
+    admin_name: Dalaba
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.7.2_1_Adm2:
+    GID: GIN.7.2_1
+    admin_name: Mamou
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.7.3_1_Adm2:
+    GID: GIN.7.3_1
+    admin_name: Pita
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.8_1_Adm1:
+    GID: GIN.8_1
+    admin_name: Nzérékoré
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm1
+  GIN.8.1_1_Adm2:
+    GID: GIN.8.1_1
+    admin_name: Beyla
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.8.2_1_Adm2:
+    GID: GIN.8.2_1
+    admin_name: Guéckédou
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.8.3_1_Adm2:
+    GID: GIN.8.3_1
+    admin_name: Lola
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.8.4_1_Adm2:
+    GID: GIN.8.4_1
+    admin_name: Macenta
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.8.5_1_Adm2:
+    GID: GIN.8.5_1
+    admin_name: Nzérékoré
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2
+  GIN.8.6_1_Adm2:
+    GID: GIN.8.6_1
+    admin_name: Yamou
+    iso3c: GIN
+    country_name: Guinea
+    admin_level: Adm2

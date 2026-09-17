@@ -1,0 +1,6 @@
+relations:
+    - (SGP.0_Adm0, SGP.1_1_Adm1)
+    - (SGP.0_Adm0, SGP.2_1_Adm1)
+    - (SGP.0_Adm0, SGP.3_1_Adm1)
+    - (SGP.0_Adm0, SGP.4_1_Adm1)
+    - (SGP.0_Adm0, SGP.5_1_Adm1)

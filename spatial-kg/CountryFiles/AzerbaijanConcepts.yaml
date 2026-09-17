@@ -1,0 +1,541 @@
+concepts:
+  AZE.0_Adm0:
+    GID: AZE
+    admin_name: Azerbaijan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm0
+  AZE.1_1_Adm1:
+    GID: AZE.1_1
+    admin_name: Absheron
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.1.1_1_Adm2:
+    GID: AZE.1.1_1
+    admin_name: Abşeron
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.1.2_1_Adm2:
+    GID: AZE.1.2_1
+    admin_name: Bakı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.1.3_1_Adm2:
+    GID: AZE.1.3_1
+    admin_name: Sumqayıt
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.1.4_1_Adm2:
+    GID: AZE.1.4_1
+    admin_name: Xizı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10_1_Adm1:
+    GID: AZE.10_1
+    admin_name: Yukhari-Karabakh
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.10.1_1_Adm2:
+    GID: AZE.10.1_1
+    admin_name: Ağdam
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.10_1_Adm2:
+    GID: AZE.10.10_1
+    admin_name: Xocavənd (Nagorno-Karabakh)
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.2_1_Adm2:
+    GID: AZE.10.2_1
+    admin_name: Cəbrayıl
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.3_1_Adm2:
+    GID: AZE.10.3_1
+    admin_name: Füzuli
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.4_1_Adm2:
+    GID: AZE.10.4_1
+    admin_name: Khankendi (Nagorno-Karabakh)
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.5_1_Adm2:
+    GID: AZE.10.5_1
+    admin_name: Şuşa (CIty) (Nagorno-Karabakh)
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.6_1_Adm2:
+    GID: AZE.10.6_1
+    admin_name: Şuşa (Rayon) (Nagorno-Karabakh)
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.7_1_Adm2:
+    GID: AZE.10.7_1
+    admin_name: Tərtər
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.8_1_Adm2:
+    GID: AZE.10.8_1
+    admin_name: Tərtər (Nagorno-Karabakh)
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.10.9_1_Adm2:
+    GID: AZE.10.9_1
+    admin_name: Xocalı (Nagorno-Karabakh)
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2_1_Adm1:
+    GID: AZE.2_1
+    admin_name: Aran
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.2.1_1_Adm2:
+    GID: AZE.2.1_1
+    admin_name: Əli Bayramlı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.10_1_Adm2:
+    GID: AZE.2.10_1
+    admin_name: Kürdəmir
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.11_1_Adm2:
+    GID: AZE.2.11_1
+    admin_name: Mingəçevir
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.12_1_Adm2:
+    GID: AZE.2.12_1
+    admin_name: Neftçala
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.13_1_Adm2:
+    GID: AZE.2.13_1
+    admin_name: Saatlı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.14_1_Adm2:
+    GID: AZE.2.14_1
+    admin_name: Sabirabad
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.15_1_Adm2:
+    GID: AZE.2.15_1
+    admin_name: Salyan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.16_1_Adm2:
+    GID: AZE.2.16_1
+    admin_name: Ucar
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.17_1_Adm2:
+    GID: AZE.2.17_1
+    admin_name: Yevlax
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.18_1_Adm2:
+    GID: AZE.2.18_1
+    admin_name: Yevlax City
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.19_1_Adm2:
+    GID: AZE.2.19_1
+    admin_name: Zərdab
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.2_1_Adm2:
+    GID: AZE.2.2_1
+    admin_name: Ağcabədi
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.3_1_Adm2:
+    GID: AZE.2.3_1
+    admin_name: Ağdaş
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.4_1_Adm2:
+    GID: AZE.2.4_1
+    admin_name: Bərdə
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.5_1_Adm2:
+    GID: AZE.2.5_1
+    admin_name: Beyləqan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.6_1_Adm2:
+    GID: AZE.2.6_1
+    admin_name: Biləsuvar
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.7_1_Adm2:
+    GID: AZE.2.7_1
+    admin_name: Göyçay
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.8_1_Adm2:
+    GID: AZE.2.8_1
+    admin_name: Hacıqabul
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.2.9_1_Adm2:
+    GID: AZE.2.9_1
+    admin_name: İmişli
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.3_1_Adm1:
+    GID: AZE.3_1
+    admin_name: Daglig-Shirvan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.3.1_1_Adm2:
+    GID: AZE.3.1_1
+    admin_name: Ağsu
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.3.2_1_Adm2:
+    GID: AZE.3.2_1
+    admin_name: İsmayıllı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.3.3_1_Adm2:
+    GID: AZE.3.3_1
+    admin_name: Qobustan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.3.4_1_Adm2:
+    GID: AZE.3.4_1
+    admin_name: Şamaxı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4_1_Adm1:
+    GID: AZE.4_1
+    admin_name: Ganja-Qazakh
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.4.1_1_Adm2:
+    GID: AZE.4.1_1
+    admin_name: Ağstafa
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.10_1_Adm2:
+    GID: AZE.4.10_1
+    admin_name: Tovuz
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.11_1_Adm2:
+    GID: AZE.4.11_1
+    admin_name: Xanlar
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.2_1_Adm2:
+    GID: AZE.4.2_1
+    admin_name: Daşkəsən
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.3_1_Adm2:
+    GID: AZE.4.3_1
+    admin_name: Gədəbəy
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.4_1_Adm2:
+    GID: AZE.4.4_1
+    admin_name: Gəncə
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.5_1_Adm2:
+    GID: AZE.4.5_1
+    admin_name: Goranboy
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.6_1_Adm2:
+    GID: AZE.4.6_1
+    admin_name: Naftalan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.7_1_Adm2:
+    GID: AZE.4.7_1
+    admin_name: Qazax
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.8_1_Adm2:
+    GID: AZE.4.8_1
+    admin_name: Şəmkir
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.4.9_1_Adm2:
+    GID: AZE.4.9_1
+    admin_name: Samux
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.5_1_Adm1:
+    GID: AZE.5_1
+    admin_name: Kalbajar-Lachin
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.5.1_1_Adm2:
+    GID: AZE.5.1_1
+    admin_name: Kəlbəcər
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.5.2_1_Adm2:
+    GID: AZE.5.2_1
+    admin_name: Kəlbəcər (Nagorno-Karabakh)
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.5.3_1_Adm2:
+    GID: AZE.5.3_1
+    admin_name: Lachin
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.5.4_1_Adm2:
+    GID: AZE.5.4_1
+    admin_name: Qubadli
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.5.5_1_Adm2:
+    GID: AZE.5.5_1
+    admin_name: Zəngilan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.6_1_Adm1:
+    GID: AZE.6_1
+    admin_name: Lankaran
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.6.1_1_Adm2:
+    GID: AZE.6.1_1
+    admin_name: Astara
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.6.2_1_Adm2:
+    GID: AZE.6.2_1
+    admin_name: Cəlilabad
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.6.3_1_Adm2:
+    GID: AZE.6.3_1
+    admin_name: Lənkəran
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.6.4_1_Adm2:
+    GID: AZE.6.4_1
+    admin_name: Lənkəran City
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.6.5_1_Adm2:
+    GID: AZE.6.5_1
+    admin_name: Lerik
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.6.6_1_Adm2:
+    GID: AZE.6.6_1
+    admin_name: Masallı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.6.7_1_Adm2:
+    GID: AZE.6.7_1
+    admin_name: Yardımlı
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.7_1_Adm1:
+    GID: AZE.7_1
+    admin_name: Nakhchivan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.7.1_1_Adm2:
+    GID: AZE.7.1_1
+    admin_name: Babək
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.7.2_1_Adm2:
+    GID: AZE.7.2_1
+    admin_name: Culfa
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.7.3_1_Adm2:
+    GID: AZE.7.3_1
+    admin_name: Naxçıvan
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.7.4_1_Adm2:
+    GID: AZE.7.4_1
+    admin_name: Ordubad
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.7.5_1_Adm2:
+    GID: AZE.7.5_1
+    admin_name: Sədərək
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.7.6_1_Adm2:
+    GID: AZE.7.6_1
+    admin_name: Şərur
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.7.7_1_Adm2:
+    GID: AZE.7.7_1
+    admin_name: Şahbuz
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.8_1_Adm1:
+    GID: AZE.8_1
+    admin_name: Quba-Khachmaz
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.8.1_1_Adm2:
+    GID: AZE.8.1_1
+    admin_name: Dəvəçi
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.8.2_1_Adm2:
+    GID: AZE.8.2_1
+    admin_name: Quba
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.8.3_1_Adm2:
+    GID: AZE.8.3_1
+    admin_name: Qusar
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.8.4_1_Adm2:
+    GID: AZE.8.4_1
+    admin_name: Siyəzən
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.8.5_1_Adm2:
+    GID: AZE.8.5_1
+    admin_name: Xaçmaz
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.9_1_Adm1:
+    GID: AZE.9_1
+    admin_name: Shaki-Zaqatala
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm1
+  AZE.9.1_1_Adm2:
+    GID: AZE.9.1_1
+    admin_name: Balakən
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.9.2_1_Adm2:
+    GID: AZE.9.2_1
+    admin_name: Oğuz
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.9.3_1_Adm2:
+    GID: AZE.9.3_1
+    admin_name: Qəbələ
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.9.4_1_Adm2:
+    GID: AZE.9.4_1
+    admin_name: Qax
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.9.5_1_Adm2:
+    GID: AZE.9.5_1
+    admin_name: Şəki
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.9.6_1_Adm2:
+    GID: AZE.9.6_1
+    admin_name: Şəki City
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2
+  AZE.9.7_1_Adm2:
+    GID: AZE.9.7_1
+    admin_name: Zaqatala
+    iso3c: AZE
+    country_name: Azerbaijan
+    admin_level: Adm2

@@ -1,0 +1,2185 @@
+concepts:
+  VEN.0_Adm0:
+    GID: VEN
+    admin_name: Venezuela
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm0
+  VEN.1_1_Adm1:
+    GID: VEN.1_1
+    admin_name: Amazonas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.1.1_1_Adm2:
+    GID: VEN.1.1_1
+    admin_name: Alto Orinoco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.1.2_1_Adm2:
+    GID: VEN.1.2_1
+    admin_name: Atabapo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.1.3_1_Adm2:
+    GID: VEN.1.3_1
+    admin_name: Atures
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.1.4_1_Adm2:
+    GID: VEN.1.4_1
+    admin_name: Autana
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.1.5_1_Adm2:
+    GID: VEN.1.5_1
+    admin_name: Manapiare
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.1.6_1_Adm2:
+    GID: VEN.1.6_1
+    admin_name: Maroa
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.1.7_1_Adm2:
+    GID: VEN.1.7_1
+    admin_name: Río Negro
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.10_1_Adm1:
+    GID: VEN.10_1
+    admin_name: Dependencias Federales
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.10.1_1_Adm2:
+    GID: VEN.10.1_1
+    admin_name: Dependencias Federales
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.11_1_Adm1:
+    GID: VEN.11_1
+    admin_name: Distrito Capital
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.11.1_1_Adm2:
+    GID: VEN.11.1_1
+    admin_name: Libertador
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12_1_Adm1:
+    GID: VEN.12_1
+    admin_name: Falcón
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.12.1_1_Adm2:
+    GID: VEN.12.1_1
+    admin_name: Acosta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.10_1_Adm2:
+    GID: VEN.12.10_1
+    admin_name: Federación
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.11_1_Adm2:
+    GID: VEN.12.11_1
+    admin_name: Jacura
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.12_1_Adm2:
+    GID: VEN.12.12_1
+    admin_name: Los Tanques
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.13_1_Adm2:
+    GID: VEN.12.13_1
+    admin_name: Mauroa
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.14_1_Adm2:
+    GID: VEN.12.14_1
+    admin_name: Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.15_1_Adm2:
+    GID: VEN.12.15_1
+    admin_name: Monseñor Iturriza
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.16_1_Adm2:
+    GID: VEN.12.16_1
+    admin_name: Palma Sola
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.17_1_Adm2:
+    GID: VEN.12.17_1
+    admin_name: Petit
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.18_1_Adm2:
+    GID: VEN.12.18_1
+    admin_name: Píritu
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.19_1_Adm2:
+    GID: VEN.12.19_1
+    admin_name: San Francisco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.2_1_Adm2:
+    GID: VEN.12.2_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.20_1_Adm2:
+    GID: VEN.12.20_1
+    admin_name: Silva
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.21_1_Adm2:
+    GID: VEN.12.21_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.22_1_Adm2:
+    GID: VEN.12.22_1
+    admin_name: Tocópero
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.23_1_Adm2:
+    GID: VEN.12.23_1
+    admin_name: Unión
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.24_1_Adm2:
+    GID: VEN.12.24_1
+    admin_name: Urumaco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.25_1_Adm2:
+    GID: VEN.12.25_1
+    admin_name: Zamora
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.3_1_Adm2:
+    GID: VEN.12.3_1
+    admin_name: Buchivacoa
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.4_1_Adm2:
+    GID: VEN.12.4_1
+    admin_name: Cacique Manaure
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.5_1_Adm2:
+    GID: VEN.12.5_1
+    admin_name: Carirubana
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.6_1_Adm2:
+    GID: VEN.12.6_1
+    admin_name: Colina
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.7_1_Adm2:
+    GID: VEN.12.7_1
+    admin_name: Dabajuro
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.8_1_Adm2:
+    GID: VEN.12.8_1
+    admin_name: Democracia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.12.9_1_Adm2:
+    GID: VEN.12.9_1
+    admin_name: Falcón
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13_1_Adm1:
+    GID: VEN.13_1
+    admin_name: Guárico
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.13.1_1_Adm2:
+    GID: VEN.13.1_1
+    admin_name: Camaguán
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.10_1_Adm2:
+    GID: VEN.13.10_1
+    admin_name: Ribas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.11_1_Adm2:
+    GID: VEN.13.11_1
+    admin_name: Roscio
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.12_1_Adm2:
+    GID: VEN.13.12_1
+    admin_name: San Gerónimo de Guayabal
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.13_1_Adm2:
+    GID: VEN.13.13_1
+    admin_name: San José de Guaribe
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.14_1_Adm2:
+    GID: VEN.13.14_1
+    admin_name: Santa María de Ipire
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.15_1_Adm2:
+    GID: VEN.13.15_1
+    admin_name: Zaraza
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.2_1_Adm2:
+    GID: VEN.13.2_1
+    admin_name: Chaguaramas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.3_1_Adm2:
+    GID: VEN.13.3_1
+    admin_name: El Socorro
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.4_1_Adm2:
+    GID: VEN.13.4_1
+    admin_name: Infante
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.5_1_Adm2:
+    GID: VEN.13.5_1
+    admin_name: Las Mercedes
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.6_1_Adm2:
+    GID: VEN.13.6_1
+    admin_name: Mellado
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.7_1_Adm2:
+    GID: VEN.13.7_1
+    admin_name: Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.8_1_Adm2:
+    GID: VEN.13.8_1
+    admin_name: Monagas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.13.9_1_Adm2:
+    GID: VEN.13.9_1
+    admin_name: Ortíz
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14_1_Adm1:
+    GID: VEN.14_1
+    admin_name: Lara
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.14.1_1_Adm2:
+    GID: VEN.14.1_1
+    admin_name: Andrés Eloy Blanco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14.2_1_Adm2:
+    GID: VEN.14.2_1
+    admin_name: Crespo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14.3_1_Adm2:
+    GID: VEN.14.3_1
+    admin_name: Iribarren
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14.4_1_Adm2:
+    GID: VEN.14.4_1
+    admin_name: Jiménez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14.5_1_Adm2:
+    GID: VEN.14.5_1
+    admin_name: Morán
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14.6_1_Adm2:
+    GID: VEN.14.6_1
+    admin_name: Palavecino
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14.7_1_Adm2:
+    GID: VEN.14.7_1
+    admin_name: Simón Planas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14.8_1_Adm2:
+    GID: VEN.14.8_1
+    admin_name: Torres
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.14.9_1_Adm2:
+    GID: VEN.14.9_1
+    admin_name: Urdaneta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15_1_Adm1:
+    GID: VEN.15_1
+    admin_name: Mérida
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.15.1_1_Adm2:
+    GID: VEN.15.1_1
+    admin_name: Alberto Adriani
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.10_1_Adm2:
+    GID: VEN.15.10_1
+    admin_name: Julio César Salas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.11_1_Adm2:
+    GID: VEN.15.11_1
+    admin_name: Justo Briceño
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.12_1_Adm2:
+    GID: VEN.15.12_1
+    admin_name: Libertador
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.13_1_Adm2:
+    GID: VEN.15.13_1
+    admin_name: Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.14_1_Adm2:
+    GID: VEN.15.14_1
+    admin_name: Obispo Ramos de Lora
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.15_1_Adm2:
+    GID: VEN.15.15_1
+    admin_name: Padre Noguera
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.16_1_Adm2:
+    GID: VEN.15.16_1
+    admin_name: Pueblo Llano
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.17_1_Adm2:
+    GID: VEN.15.17_1
+    admin_name: Rangel
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.18_1_Adm2:
+    GID: VEN.15.18_1
+    admin_name: Rivas Davila
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.19_1_Adm2:
+    GID: VEN.15.19_1
+    admin_name: Santos Marquina
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.2_1_Adm2:
+    GID: VEN.15.2_1
+    admin_name: Andrés Bello
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.20_1_Adm2:
+    GID: VEN.15.20_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.21_1_Adm2:
+    GID: VEN.15.21_1
+    admin_name: Tovar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.22_1_Adm2:
+    GID: VEN.15.22_1
+    admin_name: Tulio Febres Cordero
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.23_1_Adm2:
+    GID: VEN.15.23_1
+    admin_name: Zea
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.3_1_Adm2:
+    GID: VEN.15.3_1
+    admin_name: Antonio Pinto Salinas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.4_1_Adm2:
+    GID: VEN.15.4_1
+    admin_name: Aricagua
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.5_1_Adm2:
+    GID: VEN.15.5_1
+    admin_name: Arzobispo Chacón
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.6_1_Adm2:
+    GID: VEN.15.6_1
+    admin_name: Campo Elías
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.7_1_Adm2:
+    GID: VEN.15.7_1
+    admin_name: Caracciolo Parra Olmedo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.8_1_Adm2:
+    GID: VEN.15.8_1
+    admin_name: Cardenal Quintero
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.15.9_1_Adm2:
+    GID: VEN.15.9_1
+    admin_name: Guaraque
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16_1_Adm1:
+    GID: VEN.16_1
+    admin_name: Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.16.1_1_Adm2:
+    GID: VEN.16.1_1
+    admin_name: Acevedo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.10_1_Adm2:
+    GID: VEN.16.10_1
+    admin_name: Guaicaipuro
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.11_1_Adm2:
+    GID: VEN.16.11_1
+    admin_name: Independencia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.12_1_Adm2:
+    GID: VEN.16.12_1
+    admin_name: Lander
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.13_1_Adm2:
+    GID: VEN.16.13_1
+    admin_name: Los Salias
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.14_1_Adm2:
+    GID: VEN.16.14_1
+    admin_name: Páez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.15_1_Adm2:
+    GID: VEN.16.15_1
+    admin_name: Paz Castillo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.16_1_Adm2:
+    GID: VEN.16.16_1
+    admin_name: Pedro Gual
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.17_1_Adm2:
+    GID: VEN.16.17_1
+    admin_name: Plaza
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.18_1_Adm2:
+    GID: VEN.16.18_1
+    admin_name: Simón Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.19_1_Adm2:
+    GID: VEN.16.19_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.2_1_Adm2:
+    GID: VEN.16.2_1
+    admin_name: Andrés Bello
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.20_1_Adm2:
+    GID: VEN.16.20_1
+    admin_name: Urdaneta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.21_1_Adm2:
+    GID: VEN.16.21_1
+    admin_name: Zamora
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.3_1_Adm2:
+    GID: VEN.16.3_1
+    admin_name: Baruta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.4_1_Adm2:
+    GID: VEN.16.4_1
+    admin_name: Brión
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.5_1_Adm2:
+    GID: VEN.16.5_1
+    admin_name: Buroz
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.6_1_Adm2:
+    GID: VEN.16.6_1
+    admin_name: Carrizal
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.7_1_Adm2:
+    GID: VEN.16.7_1
+    admin_name: Chacao
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.8_1_Adm2:
+    GID: VEN.16.8_1
+    admin_name: Cristóbal Rojas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.16.9_1_Adm2:
+    GID: VEN.16.9_1
+    admin_name: El Hatillo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17_1_Adm1:
+    GID: VEN.17_1
+    admin_name: Monagas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.17.1_1_Adm2:
+    GID: VEN.17.1_1
+    admin_name: Acosta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.10_1_Adm2:
+    GID: VEN.17.10_1
+    admin_name: Punceres
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.11_1_Adm2:
+    GID: VEN.17.11_1
+    admin_name: Santa Barbara
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.12_1_Adm2:
+    GID: VEN.17.12_1
+    admin_name: Sotillo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.13_1_Adm2:
+    GID: VEN.17.13_1
+    admin_name: Uracoa
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.2_1_Adm2:
+    GID: VEN.17.2_1
+    admin_name: Aguasay
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.3_1_Adm2:
+    GID: VEN.17.3_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.4_1_Adm2:
+    GID: VEN.17.4_1
+    admin_name: Caripe
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.5_1_Adm2:
+    GID: VEN.17.5_1
+    admin_name: Cedeño
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.6_1_Adm2:
+    GID: VEN.17.6_1
+    admin_name: Ezequiel Zamora
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.7_1_Adm2:
+    GID: VEN.17.7_1
+    admin_name: Libertador
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.8_1_Adm2:
+    GID: VEN.17.8_1
+    admin_name: Maturín
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.17.9_1_Adm2:
+    GID: VEN.17.9_1
+    admin_name: Piar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18_1_Adm1:
+    GID: VEN.18_1
+    admin_name: Nueva Esparta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.18.1_1_Adm2:
+    GID: VEN.18.1_1
+    admin_name: Antolín del Campo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.10_1_Adm2:
+    GID: VEN.18.10_1
+    admin_name: Peninsula de Macanao
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.11_1_Adm2:
+    GID: VEN.18.11_1
+    admin_name: Tubores
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.2_1_Adm2:
+    GID: VEN.18.2_1
+    admin_name: Arismendi
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.3_1_Adm2:
+    GID: VEN.18.3_1
+    admin_name: Díaz
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.4_1_Adm2:
+    GID: VEN.18.4_1
+    admin_name: García
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.5_1_Adm2:
+    GID: VEN.18.5_1
+    admin_name: Gómez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.6_1_Adm2:
+    GID: VEN.18.6_1
+    admin_name: Isla de Coche
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.7_1_Adm2:
+    GID: VEN.18.7_1
+    admin_name: Maneiro
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.8_1_Adm2:
+    GID: VEN.18.8_1
+    admin_name: Marcano
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.18.9_1_Adm2:
+    GID: VEN.18.9_1
+    admin_name: Mariño
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19_1_Adm1:
+    GID: VEN.19_1
+    admin_name: Portuguesa
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.19.1_1_Adm2:
+    GID: VEN.19.1_1
+    admin_name: Agua Blanca
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.10_1_Adm2:
+    GID: VEN.19.10_1
+    admin_name: San Genaro de Boconoito
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.11_1_Adm2:
+    GID: VEN.19.11_1
+    admin_name: San Rafael de Onoto
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.12_1_Adm2:
+    GID: VEN.19.12_1
+    admin_name: Santa Rosalía
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.13_1_Adm2:
+    GID: VEN.19.13_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.14_1_Adm2:
+    GID: VEN.19.14_1
+    admin_name: Turén
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.2_1_Adm2:
+    GID: VEN.19.2_1
+    admin_name: Araure
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.3_1_Adm2:
+    GID: VEN.19.3_1
+    admin_name: Esteller
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.4_1_Adm2:
+    GID: VEN.19.4_1
+    admin_name: Guanare
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.5_1_Adm2:
+    GID: VEN.19.5_1
+    admin_name: Guanarito
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.6_1_Adm2:
+    GID: VEN.19.6_1
+    admin_name: Monseñor José Vicente de Unda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.7_1_Adm2:
+    GID: VEN.19.7_1
+    admin_name: Ospino
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.8_1_Adm2:
+    GID: VEN.19.8_1
+    admin_name: Páez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.19.9_1_Adm2:
+    GID: VEN.19.9_1
+    admin_name: Papelón
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2_1_Adm1:
+    GID: VEN.2_1
+    admin_name: Anzoátegui
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.2.1_1_Adm2:
+    GID: VEN.2.1_1
+    admin_name: Anaco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.10_1_Adm2:
+    GID: VEN.2.10_1
+    admin_name: Guanipa
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.11_1_Adm2:
+    GID: VEN.2.11_1
+    admin_name: Guanta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.12_1_Adm2:
+    GID: VEN.2.12_1
+    admin_name: Independencia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.13_1_Adm2:
+    GID: VEN.2.13_1
+    admin_name: Isla
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.14_1_Adm2:
+    GID: VEN.2.14_1
+    admin_name: Libertad
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.15_1_Adm2:
+    GID: VEN.2.15_1
+    admin_name: Lic. Diego Bautista Urban
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.16_1_Adm2:
+    GID: VEN.2.16_1
+    admin_name: Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.17_1_Adm2:
+    GID: VEN.2.17_1
+    admin_name: Monagas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.18_1_Adm2:
+    GID: VEN.2.18_1
+    admin_name: Píritu
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.19_1_Adm2:
+    GID: VEN.2.19_1
+    admin_name: San Juan de Capistrano
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.2_1_Adm2:
+    GID: VEN.2.2_1
+    admin_name: Aragua
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.20_1_Adm2:
+    GID: VEN.2.20_1
+    admin_name: Santa Ana
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.21_1_Adm2:
+    GID: VEN.2.21_1
+    admin_name: Simón Rodríguez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.22_1_Adm2:
+    GID: VEN.2.22_1
+    admin_name: Sotillo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.3_1_Adm2:
+    GID: VEN.2.3_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.4_1_Adm2:
+    GID: VEN.2.4_1
+    admin_name: Bruzual
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.5_1_Adm2:
+    GID: VEN.2.5_1
+    admin_name: Cajigal
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.6_1_Adm2:
+    GID: VEN.2.6_1
+    admin_name: Carvajal
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.7_1_Adm2:
+    GID: VEN.2.7_1
+    admin_name: Fernando de Peñalver
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.8_1_Adm2:
+    GID: VEN.2.8_1
+    admin_name: Freites
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.2.9_1_Adm2:
+    GID: VEN.2.9_1
+    admin_name: General Sir Arthur McGregor
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20_1_Adm1:
+    GID: VEN.20_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.20.1_1_Adm2:
+    GID: VEN.20.1_1
+    admin_name: Andrés Eloy Blanco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.10_1_Adm2:
+    GID: VEN.20.10_1
+    admin_name: Mariño
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.11_1_Adm2:
+    GID: VEN.20.11_1
+    admin_name: Mejía
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.12_1_Adm2:
+    GID: VEN.20.12_1
+    admin_name: Montes
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.13_1_Adm2:
+    GID: VEN.20.13_1
+    admin_name: Ribero
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.14_1_Adm2:
+    GID: VEN.20.14_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.15_1_Adm2:
+    GID: VEN.20.15_1
+    admin_name: Valdez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.2_1_Adm2:
+    GID: VEN.20.2_1
+    admin_name: Andrés Mata
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.3_1_Adm2:
+    GID: VEN.20.3_1
+    admin_name: Arismendi
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.4_1_Adm2:
+    GID: VEN.20.4_1
+    admin_name: Benítez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.5_1_Adm2:
+    GID: VEN.20.5_1
+    admin_name: Bermúdez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.6_1_Adm2:
+    GID: VEN.20.6_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.7_1_Adm2:
+    GID: VEN.20.7_1
+    admin_name: Cajigal
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.8_1_Adm2:
+    GID: VEN.20.8_1
+    admin_name: Cruz Salmerón Acosta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.20.9_1_Adm2:
+    GID: VEN.20.9_1
+    admin_name: Libertador
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21_1_Adm1:
+    GID: VEN.21_1
+    admin_name: Táchira
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.21.1_1_Adm2:
+    GID: VEN.21.1_1
+    admin_name: Andrés Bello
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.10_1_Adm2:
+    GID: VEN.21.10_1
+    admin_name: Guasimos
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.11_1_Adm2:
+    GID: VEN.21.11_1
+    admin_name: Independencia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.12_1_Adm2:
+    GID: VEN.21.12_1
+    admin_name: Jauregui
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.13_1_Adm2:
+    GID: VEN.21.13_1
+    admin_name: José María Vargas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.14_1_Adm2:
+    GID: VEN.21.14_1
+    admin_name: Junín
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.15_1_Adm2:
+    GID: VEN.21.15_1
+    admin_name: Libertad
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.16_1_Adm2:
+    GID: VEN.21.16_1
+    admin_name: Libertador
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.17_1_Adm2:
+    GID: VEN.21.17_1
+    admin_name: Lobatera
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.18_1_Adm2:
+    GID: VEN.21.18_1
+    admin_name: Michelena
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.19_1_Adm2:
+    GID: VEN.21.19_1
+    admin_name: Panamericano
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.2_1_Adm2:
+    GID: VEN.21.2_1
+    admin_name: Antonio Rómulo Costa
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.20_1_Adm2:
+    GID: VEN.21.20_1
+    admin_name: Pedro María Ureña
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.21_1_Adm2:
+    GID: VEN.21.21_1
+    admin_name: Rafael Urdaneta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.22_1_Adm2:
+    GID: VEN.21.22_1
+    admin_name: Samuel Dario Maldonado
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.23_1_Adm2:
+    GID: VEN.21.23_1
+    admin_name: San Cristóbal
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.24_1_Adm2:
+    GID: VEN.21.24_1
+    admin_name: San Judas Tadeo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.25_1_Adm2:
+    GID: VEN.21.25_1
+    admin_name: Seboruco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.26_1_Adm2:
+    GID: VEN.21.26_1
+    admin_name: Simón Rodriguez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.27_1_Adm2:
+    GID: VEN.21.27_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.28_1_Adm2:
+    GID: VEN.21.28_1
+    admin_name: Torbes
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.29_1_Adm2:
+    GID: VEN.21.29_1
+    admin_name: Uribante
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.3_1_Adm2:
+    GID: VEN.21.3_1
+    admin_name: Ayacucho
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.4_1_Adm2:
+    GID: VEN.21.4_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.5_1_Adm2:
+    GID: VEN.21.5_1
+    admin_name: Cárdenas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.6_1_Adm2:
+    GID: VEN.21.6_1
+    admin_name: Córdoba
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.7_1_Adm2:
+    GID: VEN.21.7_1
+    admin_name: Fernández Feo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.8_1_Adm2:
+    GID: VEN.21.8_1
+    admin_name: Francisco de Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.21.9_1_Adm2:
+    GID: VEN.21.9_1
+    admin_name: García de Hevia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22_1_Adm1:
+    GID: VEN.22_1
+    admin_name: Trujillo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.22.1_1_Adm2:
+    GID: VEN.22.1_1
+    admin_name: Andrés Bello
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.10_1_Adm2:
+    GID: VEN.22.10_1
+    admin_name: Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.11_1_Adm2:
+    GID: VEN.22.11_1
+    admin_name: Monte Carmelo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.12_1_Adm2:
+    GID: VEN.22.12_1
+    admin_name: Motatán
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.13_1_Adm2:
+    GID: VEN.22.13_1
+    admin_name: Pampán
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.14_1_Adm2:
+    GID: VEN.22.14_1
+    admin_name: Pampanito
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.15_1_Adm2:
+    GID: VEN.22.15_1
+    admin_name: Rafael Rangel
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.16_1_Adm2:
+    GID: VEN.22.16_1
+    admin_name: San Rafael de Carvajal
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.17_1_Adm2:
+    GID: VEN.22.17_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.18_1_Adm2:
+    GID: VEN.22.18_1
+    admin_name: Trujillo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.19_1_Adm2:
+    GID: VEN.22.19_1
+    admin_name: Urdaneta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.2_1_Adm2:
+    GID: VEN.22.2_1
+    admin_name: Boconó
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.20_1_Adm2:
+    GID: VEN.22.20_1
+    admin_name: Valera
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.3_1_Adm2:
+    GID: VEN.22.3_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.4_1_Adm2:
+    GID: VEN.22.4_1
+    admin_name: Candelaria
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.5_1_Adm2:
+    GID: VEN.22.5_1
+    admin_name: Carache
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.6_1_Adm2:
+    GID: VEN.22.6_1
+    admin_name: Escuque
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.7_1_Adm2:
+    GID: VEN.22.7_1
+    admin_name: José Felipe Márquez Cañizalez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.8_1_Adm2:
+    GID: VEN.22.8_1
+    admin_name: Juan Vicente Campos Elías
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.22.9_1_Adm2:
+    GID: VEN.22.9_1
+    admin_name: La Ceiba
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.23_1_Adm1:
+    GID: VEN.23_1
+    admin_name: Vargas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.23.1_1_Adm2:
+    GID: VEN.23.1_1
+    admin_name: Vargas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24_1_Adm1:
+    GID: VEN.24_1
+    admin_name: Yaracuy
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.24.1_1_Adm2:
+    GID: VEN.24.1_1
+    admin_name: Arístides Bastidas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.10_1_Adm2:
+    GID: VEN.24.10_1
+    admin_name: Peña
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.11_1_Adm2:
+    GID: VEN.24.11_1
+    admin_name: San Felipe
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.12_1_Adm2:
+    GID: VEN.24.12_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.13_1_Adm2:
+    GID: VEN.24.13_1
+    admin_name: Urachiche
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.14_1_Adm2:
+    GID: VEN.24.14_1
+    admin_name: Veroes
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.2_1_Adm2:
+    GID: VEN.24.2_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.3_1_Adm2:
+    GID: VEN.24.3_1
+    admin_name: Bruzual
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.4_1_Adm2:
+    GID: VEN.24.4_1
+    admin_name: Cocorote
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.5_1_Adm2:
+    GID: VEN.24.5_1
+    admin_name: Independencia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.6_1_Adm2:
+    GID: VEN.24.6_1
+    admin_name: José Antonio Páez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.7_1_Adm2:
+    GID: VEN.24.7_1
+    admin_name: La Trinidad
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.8_1_Adm2:
+    GID: VEN.24.8_1
+    admin_name: Manuel Monge
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.24.9_1_Adm2:
+    GID: VEN.24.9_1
+    admin_name: Nirgua
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25_1_Adm1:
+    GID: VEN.25_1
+    admin_name: Zulia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.25.1_1_Adm2:
+    GID: VEN.25.1_1
+    admin_name: Almirante Padilla
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.10_1_Adm2:
+    GID: VEN.25.10_1
+    admin_name: La Cañada de Urdaneta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.11_1_Adm2:
+    GID: VEN.25.11_1
+    admin_name: Lagunillas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.12_1_Adm2:
+    GID: VEN.25.12_1
+    admin_name: Machiques de Perijá
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.13_1_Adm2:
+    GID: VEN.25.13_1
+    admin_name: Mara
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.14_1_Adm2:
+    GID: VEN.25.14_1
+    admin_name: Maracaibo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.15_1_Adm2:
+    GID: VEN.25.15_1
+    admin_name: Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.16_1_Adm2:
+    GID: VEN.25.16_1
+    admin_name: Rosario de Perijá
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.17_1_Adm2:
+    GID: VEN.25.17_1
+    admin_name: San Francisco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.18_1_Adm2:
+    GID: VEN.25.18_1
+    admin_name: Santa Rita
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.19_1_Adm2:
+    GID: VEN.25.19_1
+    admin_name: Simón Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.2_1_Adm2:
+    GID: VEN.25.2_1
+    admin_name: Baralt
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.20_1_Adm2:
+    GID: VEN.25.20_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.21_1_Adm2:
+    GID: VEN.25.21_1
+    admin_name: Valmore Rodríguez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.3_1_Adm2:
+    GID: VEN.25.3_1
+    admin_name: Cabimas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.4_1_Adm2:
+    GID: VEN.25.4_1
+    admin_name: Catatumbo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.5_1_Adm2:
+    GID: VEN.25.5_1
+    admin_name: Colón
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.6_1_Adm2:
+    GID: VEN.25.6_1
+    admin_name: Francisco Javier Pulgar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.7_1_Adm2:
+    GID: VEN.25.7_1
+    admin_name: Guajira
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.8_1_Adm2:
+    GID: VEN.25.8_1
+    admin_name: Jesús Enrique Lossada
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.25.9_1_Adm2:
+    GID: VEN.25.9_1
+    admin_name: Jesús María Semprún
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.3_1_Adm1:
+    GID: VEN.3_1
+    admin_name: Apure
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.3.1_1_Adm2:
+    GID: VEN.3.1_1
+    admin_name: Achaguas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.3.2_1_Adm2:
+    GID: VEN.3.2_1
+    admin_name: Biruaca
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.3.3_1_Adm2:
+    GID: VEN.3.3_1
+    admin_name: Muñoz
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.3.4_1_Adm2:
+    GID: VEN.3.4_1
+    admin_name: Páez
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.3.5_1_Adm2:
+    GID: VEN.3.5_1
+    admin_name: Pedro Camejo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.3.6_1_Adm2:
+    GID: VEN.3.6_1
+    admin_name: Rómulo Gallegos
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.3.7_1_Adm2:
+    GID: VEN.3.7_1
+    admin_name: San Fernando
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4_1_Adm1:
+    GID: VEN.4_1
+    admin_name: Aragua
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.4.1_1_Adm2:
+    GID: VEN.4.1_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.10_1_Adm2:
+    GID: VEN.4.10_1
+    admin_name: Ocumare de la Costa de Oro
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.11_1_Adm2:
+    GID: VEN.4.11_1
+    admin_name: San Casimiro
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.12_1_Adm2:
+    GID: VEN.4.12_1
+    admin_name: San Sebastián
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.13_1_Adm2:
+    GID: VEN.4.13_1
+    admin_name: Santiago Mariño
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.14_1_Adm2:
+    GID: VEN.4.14_1
+    admin_name: Santos Michelena
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.15_1_Adm2:
+    GID: VEN.4.15_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.16_1_Adm2:
+    GID: VEN.4.16_1
+    admin_name: Tovar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.17_1_Adm2:
+    GID: VEN.4.17_1
+    admin_name: Urdaneta
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.18_1_Adm2:
+    GID: VEN.4.18_1
+    admin_name: Zamora
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.2_1_Adm2:
+    GID: VEN.4.2_1
+    admin_name: Camatagua
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.3_1_Adm2:
+    GID: VEN.4.3_1
+    admin_name: Francisco Linares
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.4_1_Adm2:
+    GID: VEN.4.4_1
+    admin_name: Girardot
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.5_1_Adm2:
+    GID: VEN.4.5_1
+    admin_name: José Angel Lamas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.6_1_Adm2:
+    GID: VEN.4.6_1
+    admin_name: José Félix Ribas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.7_1_Adm2:
+    GID: VEN.4.7_1
+    admin_name: José R Revenga
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.8_1_Adm2:
+    GID: VEN.4.8_1
+    admin_name: Libertador
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.4.9_1_Adm2:
+    GID: VEN.4.9_1
+    admin_name: Mario Briceño Iragorry
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5_1_Adm1:
+    GID: VEN.5_1
+    admin_name: Barinas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.5.1_1_Adm2:
+    GID: VEN.5.1_1
+    admin_name: Alberto Arvelo Torrealba
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.10_1_Adm2:
+    GID: VEN.5.10_1
+    admin_name: Pedraza
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.11_1_Adm2:
+    GID: VEN.5.11_1
+    admin_name: Rojas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.12_1_Adm2:
+    GID: VEN.5.12_1
+    admin_name: Sosa
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.2_1_Adm2:
+    GID: VEN.5.2_1
+    admin_name: Andres Eloy Blanco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.3_1_Adm2:
+    GID: VEN.5.3_1
+    admin_name: Antonio José de Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.4_1_Adm2:
+    GID: VEN.5.4_1
+    admin_name: Arismendi
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.5_1_Adm2:
+    GID: VEN.5.5_1
+    admin_name: Barinas
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.6_1_Adm2:
+    GID: VEN.5.6_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.7_1_Adm2:
+    GID: VEN.5.7_1
+    admin_name: Cruz Paredes
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.8_1_Adm2:
+    GID: VEN.5.8_1
+    admin_name: Ezequiel Zamora
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.5.9_1_Adm2:
+    GID: VEN.5.9_1
+    admin_name: Obispos
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6_1_Adm1:
+    GID: VEN.6_1
+    admin_name: Bolívar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.6.1_1_Adm2:
+    GID: VEN.6.1_1
+    admin_name: Angostura
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.10_1_Adm2:
+    GID: VEN.6.10_1
+    admin_name: Sifontes
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.11_1_Adm2:
+    GID: VEN.6.11_1
+    admin_name: Sucre
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.2_1_Adm2:
+    GID: VEN.6.2_1
+    admin_name: Caroní
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.3_1_Adm2:
+    GID: VEN.6.3_1
+    admin_name: Cedeño
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.4_1_Adm2:
+    GID: VEN.6.4_1
+    admin_name: El Callao
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.5_1_Adm2:
+    GID: VEN.6.5_1
+    admin_name: Gran Sabana
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.6_1_Adm2:
+    GID: VEN.6.6_1
+    admin_name: Heres
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.7_1_Adm2:
+    GID: VEN.6.7_1
+    admin_name: Padre Pedro Chien
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.8_1_Adm2:
+    GID: VEN.6.8_1
+    admin_name: Piar
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.6.9_1_Adm2:
+    GID: VEN.6.9_1
+    admin_name: Roscio
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7_1_Adm1:
+    GID: VEN.7_1
+    admin_name: Carabobo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.7.1_1_Adm2:
+    GID: VEN.7.1_1
+    admin_name: Bejuma
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.10_1_Adm2:
+    GID: VEN.7.10_1
+    admin_name: Montalbán
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.11_1_Adm2:
+    GID: VEN.7.11_1
+    admin_name: Naguanagua
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.12_1_Adm2:
+    GID: VEN.7.12_1
+    admin_name: Puerto Cabello
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.13_1_Adm2:
+    GID: VEN.7.13_1
+    admin_name: San Diego
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.14_1_Adm2:
+    GID: VEN.7.14_1
+    admin_name: San Joaquín
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.15_1_Adm2:
+    GID: VEN.7.15_1
+    admin_name: Valencia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.2_1_Adm2:
+    GID: VEN.7.2_1
+    admin_name: Carlos Arevalo
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.3_1_Adm2:
+    GID: VEN.7.3_1
+    admin_name: Diego Ibarra
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.4_1_Adm2:
+    GID: VEN.7.4_1
+    admin_name: Guacara
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.5_1_Adm2:
+    GID: VEN.7.5_1
+    admin_name: Juan José Mora
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.6_1_Adm2:
+    GID: VEN.7.6_1
+    admin_name: Lago Valencia
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.7_1_Adm2:
+    GID: VEN.7.7_1
+    admin_name: Libertador
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.8_1_Adm2:
+    GID: VEN.7.8_1
+    admin_name: Los Guayos
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.7.9_1_Adm2:
+    GID: VEN.7.9_1
+    admin_name: Miranda
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8_1_Adm1:
+    GID: VEN.8_1
+    admin_name: Cojedes
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.8.1_1_Adm2:
+    GID: VEN.8.1_1
+    admin_name: Anzoátegui
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8.2_1_Adm2:
+    GID: VEN.8.2_1
+    admin_name: Ezequiel Zomora
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8.3_1_Adm2:
+    GID: VEN.8.3_1
+    admin_name: Falcón
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8.4_1_Adm2:
+    GID: VEN.8.4_1
+    admin_name: Girardot
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8.5_1_Adm2:
+    GID: VEN.8.5_1
+    admin_name: Lima Blanco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8.6_1_Adm2:
+    GID: VEN.8.6_1
+    admin_name: Pao de San Juan Bautista
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8.7_1_Adm2:
+    GID: VEN.8.7_1
+    admin_name: Ricaurte
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8.8_1_Adm2:
+    GID: VEN.8.8_1
+    admin_name: Romulo Gallegos
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.8.9_1_Adm2:
+    GID: VEN.8.9_1
+    admin_name: Tinaco
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.9_1_Adm1:
+    GID: VEN.9_1
+    admin_name: Delta Amacuro
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm1
+  VEN.9.1_1_Adm2:
+    GID: VEN.9.1_1
+    admin_name: Antonio Diaz
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.9.2_1_Adm2:
+    GID: VEN.9.2_1
+    admin_name: Casacoima
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.9.3_1_Adm2:
+    GID: VEN.9.3_1
+    admin_name: Pedernales
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2
+  VEN.9.4_1_Adm2:
+    GID: VEN.9.4_1
+    admin_name: Tucupita
+    iso3c: VEN
+    country_name: Venezuela
+    admin_level: Adm2

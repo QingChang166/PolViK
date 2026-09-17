@@ -1,0 +1,1483 @@
+concepts:
+  KOR.0_Adm0:
+    GID: KOR
+    admin_name: South Korea
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm0
+  KOR.1_1_Adm1:
+    GID: KOR.1_1
+    admin_name: Busan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.1.1_2_Adm2:
+    GID: KOR.1.1_2
+    admin_name: Buk
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.10_2_Adm2:
+    GID: KOR.1.10_2
+    admin_name: Nam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.11_2_Adm2:
+    GID: KOR.1.11_2
+    admin_name: Saha
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.12_2_Adm2:
+    GID: KOR.1.12_2
+    admin_name: Sasang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.13_2_Adm2:
+    GID: KOR.1.13_2
+    admin_name: Seo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.14_2_Adm2:
+    GID: KOR.1.14_2
+    admin_name: Suyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.15_2_Adm2:
+    GID: KOR.1.15_2
+    admin_name: Yeongdo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.16_2_Adm2:
+    GID: KOR.1.16_2
+    admin_name: Yeonje
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.2_2_Adm2:
+    GID: KOR.1.2_2
+    admin_name: Busanjin
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.3_2_Adm2:
+    GID: KOR.1.3_2
+    admin_name: Dong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.4_2_Adm2:
+    GID: KOR.1.4_2
+    admin_name: Dongnae
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.5_2_Adm2:
+    GID: KOR.1.5_2
+    admin_name: Gangseo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.6_2_Adm2:
+    GID: KOR.1.6_2
+    admin_name: Geumjeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.7_2_Adm2:
+    GID: KOR.1.7_2
+    admin_name: Gijang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.8_2_Adm2:
+    GID: KOR.1.8_2
+    admin_name: Haeundae
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.1.9_2_Adm2:
+    GID: KOR.1.9_2
+    admin_name: Jung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10_1_Adm1:
+    GID: KOR.10_1
+    admin_name: Gyeongsangnam-do
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.10.1_2_Adm2:
+    GID: KOR.10.1_2
+    admin_name: Changnyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.10_2_Adm2:
+    GID: KOR.10.10_2
+    admin_name: Hapcheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.11_2_Adm2:
+    GID: KOR.10.11_2
+    admin_name: Jinju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.12_2_Adm2:
+    GID: KOR.10.12_2
+    admin_name: Miryang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.13_2_Adm2:
+    GID: KOR.10.13_2
+    admin_name: Namhae
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.14_2_Adm2:
+    GID: KOR.10.14_2
+    admin_name: Sacheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.15_2_Adm2:
+    GID: KOR.10.15_2
+    admin_name: Sancheong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.16_2_Adm2:
+    GID: KOR.10.16_2
+    admin_name: Tongyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.17_2_Adm2:
+    GID: KOR.10.17_2
+    admin_name: Uiryeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.18_2_Adm2:
+    GID: KOR.10.18_2
+    admin_name: Yangsan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.2_2_Adm2:
+    GID: KOR.10.2_2
+    admin_name: Changwon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.3_2_Adm2:
+    GID: KOR.10.3_2
+    admin_name: Geochang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.4_2_Adm2:
+    GID: KOR.10.4_2
+    admin_name: Geoje
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.5_2_Adm2:
+    GID: KOR.10.5_2
+    admin_name: Gimhae
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.6_2_Adm2:
+    GID: KOR.10.6_2
+    admin_name: Goseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.7_2_Adm2:
+    GID: KOR.10.7_2
+    admin_name: Hadong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.8_2_Adm2:
+    GID: KOR.10.8_2
+    admin_name: Haman
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.10.9_2_Adm2:
+    GID: KOR.10.9_2
+    admin_name: Hamyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11_1_Adm1:
+    GID: KOR.11_1
+    admin_name: Incheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.11.1_2_Adm2:
+    GID: KOR.11.1_2
+    admin_name: Bupyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.10_2_Adm2:
+    GID: KOR.11.10_2
+    admin_name: Yeonsu
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.2_2_Adm2:
+    GID: KOR.11.2_2
+    admin_name: Dong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.3_2_Adm2:
+    GID: KOR.11.3_2
+    admin_name: Ganghwa
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.4_2_Adm2:
+    GID: KOR.11.4_2
+    admin_name: Gyeyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.5_2_Adm2:
+    GID: KOR.11.5_2
+    admin_name: Jung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.6_2_Adm2:
+    GID: KOR.11.6_2
+    admin_name: Michuhol
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.7_2_Adm2:
+    GID: KOR.11.7_2
+    admin_name: Namdong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.8_2_Adm2:
+    GID: KOR.11.8_2
+    admin_name: Ongjin
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.11.9_2_Adm2:
+    GID: KOR.11.9_2
+    admin_name: Seo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.12_1_Adm1:
+    GID: KOR.12_1
+    admin_name: Jeju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.12.1_2_Adm2:
+    GID: KOR.12.1_2
+    admin_name: Jeju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.12.2_2_Adm2:
+    GID: KOR.12.2_2
+    admin_name: Seogwipo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13_1_Adm1:
+    GID: KOR.13_1
+    admin_name: Jeollabuk-do
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.13.1_2_Adm2:
+    GID: KOR.13.1_2
+    admin_name: Buan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.10_2_Adm2:
+    GID: KOR.13.10_2
+    admin_name: Jinan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.11_2_Adm2:
+    GID: KOR.13.11_2
+    admin_name: Muju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.12_2_Adm2:
+    GID: KOR.13.12_2
+    admin_name: Namwon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.13_2_Adm2:
+    GID: KOR.13.13_2
+    admin_name: Sunchang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.14_2_Adm2:
+    GID: KOR.13.14_2
+    admin_name: Wanju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.2_2_Adm2:
+    GID: KOR.13.2_2
+    admin_name: Gimje
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.3_2_Adm2:
+    GID: KOR.13.3_2
+    admin_name: Gochang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.4_2_Adm2:
+    GID: KOR.13.4_2
+    admin_name: Gunsan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.5_2_Adm2:
+    GID: KOR.13.5_2
+    admin_name: Iksan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.6_2_Adm2:
+    GID: KOR.13.6_2
+    admin_name: Imsil
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.7_2_Adm2:
+    GID: KOR.13.7_2
+    admin_name: Jangsu
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.8_2_Adm2:
+    GID: KOR.13.8_2
+    admin_name: Jeongeup
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.13.9_2_Adm2:
+    GID: KOR.13.9_2
+    admin_name: Jeonju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14_1_Adm1:
+    GID: KOR.14_1
+    admin_name: Jeollanam-do
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.14.1_2_Adm2:
+    GID: KOR.14.1_2
+    admin_name: Boseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.10_2_Adm2:
+    GID: KOR.14.10_2
+    admin_name: Hwasun
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.11_2_Adm2:
+    GID: KOR.14.11_2
+    admin_name: Jangheung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.12_2_Adm2:
+    GID: KOR.14.12_2
+    admin_name: Jangseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.13_2_Adm2:
+    GID: KOR.14.13_2
+    admin_name: Jindo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.14_2_Adm2:
+    GID: KOR.14.14_2
+    admin_name: Mokpo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.15_2_Adm2:
+    GID: KOR.14.15_2
+    admin_name: Muan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.16_2_Adm2:
+    GID: KOR.14.16_2
+    admin_name: Naju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.17_2_Adm2:
+    GID: KOR.14.17_2
+    admin_name: Sinan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.18_2_Adm2:
+    GID: KOR.14.18_2
+    admin_name: Suncheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.19_2_Adm2:
+    GID: KOR.14.19_2
+    admin_name: Wando
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.2_2_Adm2:
+    GID: KOR.14.2_2
+    admin_name: Damyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.20_2_Adm2:
+    GID: KOR.14.20_2
+    admin_name: Yeongam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.21_2_Adm2:
+    GID: KOR.14.21_2
+    admin_name: Yeonggwang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.22_2_Adm2:
+    GID: KOR.14.22_2
+    admin_name: Yeosu
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.3_2_Adm2:
+    GID: KOR.14.3_2
+    admin_name: Gangjin
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.4_2_Adm2:
+    GID: KOR.14.4_2
+    admin_name: Goheung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.5_2_Adm2:
+    GID: KOR.14.5_2
+    admin_name: Gokseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.6_2_Adm2:
+    GID: KOR.14.6_2
+    admin_name: Gurye
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.7_2_Adm2:
+    GID: KOR.14.7_2
+    admin_name: Gwangyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.8_2_Adm2:
+    GID: KOR.14.8_2
+    admin_name: Haenam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.14.9_2_Adm2:
+    GID: KOR.14.9_2
+    admin_name: Hampyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.15_1_Adm1:
+    GID: KOR.15_1
+    admin_name: Sejong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.15.1_2_Adm2:
+    GID: KOR.15.1_2
+    admin_name: Sejong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16_1_Adm1:
+    GID: KOR.16_1
+    admin_name: Seoul
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.16.1_2_Adm2:
+    GID: KOR.16.1_2
+    admin_name: Dobong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.10_2_Adm2:
+    GID: KOR.16.10_2
+    admin_name: Guro
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.11_2_Adm2:
+    GID: KOR.16.11_2
+    admin_name: Gwanak
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.12_2_Adm2:
+    GID: KOR.16.12_2
+    admin_name: Gwangjin
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.13_2_Adm2:
+    GID: KOR.16.13_2
+    admin_name: Jongno
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.14_2_Adm2:
+    GID: KOR.16.14_2
+    admin_name: Jung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.15_2_Adm2:
+    GID: KOR.16.15_2
+    admin_name: Jungnang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.16_2_Adm2:
+    GID: KOR.16.16_2
+    admin_name: Mapo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.17_2_Adm2:
+    GID: KOR.16.17_2
+    admin_name: Nowon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.18_2_Adm2:
+    GID: KOR.16.18_2
+    admin_name: Seocho
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.19_2_Adm2:
+    GID: KOR.16.19_2
+    admin_name: Seodaemun
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.2_2_Adm2:
+    GID: KOR.16.2_2
+    admin_name: Dongdaemun
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.20_2_Adm2:
+    GID: KOR.16.20_2
+    admin_name: Seongbuk
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.21_2_Adm2:
+    GID: KOR.16.21_2
+    admin_name: Seongdong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.22_2_Adm2:
+    GID: KOR.16.22_2
+    admin_name: Songpa
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.23_2_Adm2:
+    GID: KOR.16.23_2
+    admin_name: Yangcheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.24_2_Adm2:
+    GID: KOR.16.24_2
+    admin_name: Yeongdeungpo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.25_2_Adm2:
+    GID: KOR.16.25_2
+    admin_name: Yongsan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.3_2_Adm2:
+    GID: KOR.16.3_2
+    admin_name: Dongjak
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.4_2_Adm2:
+    GID: KOR.16.4_2
+    admin_name: Eunpyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.5_2_Adm2:
+    GID: KOR.16.5_2
+    admin_name: Gangbuk
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.6_2_Adm2:
+    GID: KOR.16.6_2
+    admin_name: Gangdong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.7_2_Adm2:
+    GID: KOR.16.7_2
+    admin_name: Gangnam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.8_2_Adm2:
+    GID: KOR.16.8_2
+    admin_name: Gangseo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.16.9_2_Adm2:
+    GID: KOR.16.9_2
+    admin_name: Geumcheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.17_1_Adm1:
+    GID: KOR.17_1
+    admin_name: Ulsan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.17.1_2_Adm2:
+    GID: KOR.17.1_2
+    admin_name: Buk
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.17.2_2_Adm2:
+    GID: KOR.17.2_2
+    admin_name: Dong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.17.3_2_Adm2:
+    GID: KOR.17.3_2
+    admin_name: Jung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.17.4_2_Adm2:
+    GID: KOR.17.4_2
+    admin_name: Nam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.17.5_2_Adm2:
+    GID: KOR.17.5_2
+    admin_name: Ulju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2_1_Adm1:
+    GID: KOR.2_1
+    admin_name: Chungcheongbuk-do
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.2.1_2_Adm2:
+    GID: KOR.2.1_2
+    admin_name: Boeun
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.10_2_Adm2:
+    GID: KOR.2.10_2
+    admin_name: Okcheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.11_2_Adm2:
+    GID: KOR.2.11_2
+    admin_name: Yeongdong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.2_2_Adm2:
+    GID: KOR.2.2_2
+    admin_name: Cheongju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.3_2_Adm2:
+    GID: KOR.2.3_2
+    admin_name: Chungju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.4_2_Adm2:
+    GID: KOR.2.4_2
+    admin_name: Danyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.5_2_Adm2:
+    GID: KOR.2.5_2
+    admin_name: Eumseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.6_2_Adm2:
+    GID: KOR.2.6_2
+    admin_name: Goesan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.7_2_Adm2:
+    GID: KOR.2.7_2
+    admin_name: Jecheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.8_2_Adm2:
+    GID: KOR.2.8_2
+    admin_name: Jeungpyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.2.9_2_Adm2:
+    GID: KOR.2.9_2
+    admin_name: Jincheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3_1_Adm1:
+    GID: KOR.3_1
+    admin_name: Chungcheongnam-do
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.3.1_2_Adm2:
+    GID: KOR.3.1_2
+    admin_name: Asan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.10_2_Adm2:
+    GID: KOR.3.10_2
+    admin_name: Hongseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.11_2_Adm2:
+    GID: KOR.3.11_2
+    admin_name: Nonsan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.12_2_Adm2:
+    GID: KOR.3.12_2
+    admin_name: Seocheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.13_2_Adm2:
+    GID: KOR.3.13_2
+    admin_name: Seosan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.14_2_Adm2:
+    GID: KOR.3.14_2
+    admin_name: Taean
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.15_2_Adm2:
+    GID: KOR.3.15_2
+    admin_name: Yesan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.2_2_Adm2:
+    GID: KOR.3.2_2
+    admin_name: Boryeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.3_2_Adm2:
+    GID: KOR.3.3_2
+    admin_name: Buyeo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.4_2_Adm2:
+    GID: KOR.3.4_2
+    admin_name: Cheonan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.5_2_Adm2:
+    GID: KOR.3.5_2
+    admin_name: Cheongyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.6_2_Adm2:
+    GID: KOR.3.6_2
+    admin_name: Dangjin
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.7_2_Adm2:
+    GID: KOR.3.7_2
+    admin_name: Geumsan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.8_2_Adm2:
+    GID: KOR.3.8_2
+    admin_name: Gongju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.3.9_2_Adm2:
+    GID: KOR.3.9_2
+    admin_name: Gyeryong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.4_1_Adm1:
+    GID: KOR.4_1
+    admin_name: Daegu
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.4.1_2_Adm2:
+    GID: KOR.4.1_2
+    admin_name: Buk
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.4.2_2_Adm2:
+    GID: KOR.4.2_2
+    admin_name: Dalseo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.4.3_2_Adm2:
+    GID: KOR.4.3_2
+    admin_name: Dalseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.4.4_2_Adm2:
+    GID: KOR.4.4_2
+    admin_name: Dong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.4.5_2_Adm2:
+    GID: KOR.4.5_2
+    admin_name: Jung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.4.6_2_Adm2:
+    GID: KOR.4.6_2
+    admin_name: Nam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.4.7_2_Adm2:
+    GID: KOR.4.7_2
+    admin_name: Seo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.4.8_2_Adm2:
+    GID: KOR.4.8_2
+    admin_name: Suseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.5_1_Adm1:
+    GID: KOR.5_1
+    admin_name: Daejeon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.5.1_2_Adm2:
+    GID: KOR.5.1_2
+    admin_name: Daedeok
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.5.2_2_Adm2:
+    GID: KOR.5.2_2
+    admin_name: Dong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.5.3_2_Adm2:
+    GID: KOR.5.3_2
+    admin_name: Jung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.5.4_2_Adm2:
+    GID: KOR.5.4_2
+    admin_name: Seo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.5.5_2_Adm2:
+    GID: KOR.5.5_2
+    admin_name: Yuseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6_1_Adm1:
+    GID: KOR.6_1
+    admin_name: Gangwon-do
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.6.1_2_Adm2:
+    GID: KOR.6.1_2
+    admin_name: Cheorwon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.10_2_Adm2:
+    GID: KOR.6.10_2
+    admin_name: Jeongseon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.11_2_Adm2:
+    GID: KOR.6.11_2
+    admin_name: Pyeongchang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.12_2_Adm2:
+    GID: KOR.6.12_2
+    admin_name: Samcheok
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.13_2_Adm2:
+    GID: KOR.6.13_2
+    admin_name: Sokcho
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.14_2_Adm2:
+    GID: KOR.6.14_2
+    admin_name: Taebaek
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.15_2_Adm2:
+    GID: KOR.6.15_2
+    admin_name: Wonju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.16_2_Adm2:
+    GID: KOR.6.16_2
+    admin_name: Yanggu
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.17_2_Adm2:
+    GID: KOR.6.17_2
+    admin_name: Yangyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.18_2_Adm2:
+    GID: KOR.6.18_2
+    admin_name: Yeongwol
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.2_2_Adm2:
+    GID: KOR.6.2_2
+    admin_name: Chuncheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.3_2_Adm2:
+    GID: KOR.6.3_2
+    admin_name: Donghae
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.4_2_Adm2:
+    GID: KOR.6.4_2
+    admin_name: Gangneung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.5_2_Adm2:
+    GID: KOR.6.5_2
+    admin_name: Goseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.6_2_Adm2:
+    GID: KOR.6.6_2
+    admin_name: Hoengseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.7_2_Adm2:
+    GID: KOR.6.7_2
+    admin_name: Hongcheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.8_2_Adm2:
+    GID: KOR.6.8_2
+    admin_name: Hwacheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.6.9_2_Adm2:
+    GID: KOR.6.9_2
+    admin_name: Inje
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.7_1_Adm1:
+    GID: KOR.7_1
+    admin_name: Gwangju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.7.1_2_Adm2:
+    GID: KOR.7.1_2
+    admin_name: Buk
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.7.2_2_Adm2:
+    GID: KOR.7.2_2
+    admin_name: Dong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.7.3_2_Adm2:
+    GID: KOR.7.3_2
+    admin_name: Gwangsan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.7.4_2_Adm2:
+    GID: KOR.7.4_2
+    admin_name: Nam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.7.5_2_Adm2:
+    GID: KOR.7.5_2
+    admin_name: Seo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8_1_Adm1:
+    GID: KOR.8_1
+    admin_name: Gyeonggi-do
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.8.1_2_Adm2:
+    GID: KOR.8.1_2
+    admin_name: Ansan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.10_2_Adm2:
+    GID: KOR.8.10_2
+    admin_name: Guri
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.11_2_Adm2:
+    GID: KOR.8.11_2
+    admin_name: Gwacheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.12_2_Adm2:
+    GID: KOR.8.12_2
+    admin_name: Gwangju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.13_2_Adm2:
+    GID: KOR.8.13_2
+    admin_name: Gwangmyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.14_2_Adm2:
+    GID: KOR.8.14_2
+    admin_name: Hanam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.15_2_Adm2:
+    GID: KOR.8.15_2
+    admin_name: Hwaseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.16_2_Adm2:
+    GID: KOR.8.16_2
+    admin_name: Icheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.17_2_Adm2:
+    GID: KOR.8.17_2
+    admin_name: Namyangju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.18_2_Adm2:
+    GID: KOR.8.18_2
+    admin_name: Osan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.19_2_Adm2:
+    GID: KOR.8.19_2
+    admin_name: Paju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.2_2_Adm2:
+    GID: KOR.8.2_2
+    admin_name: Anseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.20_2_Adm2:
+    GID: KOR.8.20_2
+    admin_name: Pocheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.21_2_Adm2:
+    GID: KOR.8.21_2
+    admin_name: Pyeongtaek
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.22_2_Adm2:
+    GID: KOR.8.22_2
+    admin_name: Seongnam
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.23_2_Adm2:
+    GID: KOR.8.23_2
+    admin_name: Siheung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.24_2_Adm2:
+    GID: KOR.8.24_2
+    admin_name: Suwon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.25_2_Adm2:
+    GID: KOR.8.25_2
+    admin_name: Uijeongbu
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.26_2_Adm2:
+    GID: KOR.8.26_2
+    admin_name: Uiwang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.27_2_Adm2:
+    GID: KOR.8.27_2
+    admin_name: Yangju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.28_2_Adm2:
+    GID: KOR.8.28_2
+    admin_name: Yangpyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.29_2_Adm2:
+    GID: KOR.8.29_2
+    admin_name: Yeoju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.3_2_Adm2:
+    GID: KOR.8.3_2
+    admin_name: Anyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.30_2_Adm2:
+    GID: KOR.8.30_2
+    admin_name: Yeoncheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.31_2_Adm2:
+    GID: KOR.8.31_2
+    admin_name: Yongin
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.4_2_Adm2:
+    GID: KOR.8.4_2
+    admin_name: Bucheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.5_2_Adm2:
+    GID: KOR.8.5_2
+    admin_name: Dongducheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.6_2_Adm2:
+    GID: KOR.8.6_2
+    admin_name: Gapyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.7_2_Adm2:
+    GID: KOR.8.7_2
+    admin_name: Gimpo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.8_2_Adm2:
+    GID: KOR.8.8_2
+    admin_name: Goyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.8.9_2_Adm2:
+    GID: KOR.8.9_2
+    admin_name: Gunpo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9_1_Adm1:
+    GID: KOR.9_1
+    admin_name: Gyeongsangbuk-do
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm1
+  KOR.9.1_2_Adm2:
+    GID: KOR.9.1_2
+    admin_name: Andong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.10_2_Adm2:
+    GID: KOR.9.10_2
+    admin_name: Gyeongju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.11_2_Adm2:
+    GID: KOR.9.11_2
+    admin_name: Gyeongsan
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.12_2_Adm2:
+    GID: KOR.9.12_2
+    admin_name: Mungyeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.13_2_Adm2:
+    GID: KOR.9.13_2
+    admin_name: Pohang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.14_2_Adm2:
+    GID: KOR.9.14_2
+    admin_name: Sangju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.15_2_Adm2:
+    GID: KOR.9.15_2
+    admin_name: Seongju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.16_2_Adm2:
+    GID: KOR.9.16_2
+    admin_name: Uiseong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.17_2_Adm2:
+    GID: KOR.9.17_2
+    admin_name: Uljin
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.18_2_Adm2:
+    GID: KOR.9.18_2
+    admin_name: Ulleung
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.19_2_Adm2:
+    GID: KOR.9.19_2
+    admin_name: Yecheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.2_2_Adm2:
+    GID: KOR.9.2_2
+    admin_name: Bonghwa
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.20_2_Adm2:
+    GID: KOR.9.20_2
+    admin_name: Yeongcheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.21_2_Adm2:
+    GID: KOR.9.21_2
+    admin_name: Yeongdeok
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.22_2_Adm2:
+    GID: KOR.9.22_2
+    admin_name: Yeongju
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.23_2_Adm2:
+    GID: KOR.9.23_2
+    admin_name: Yeongyang
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.3_2_Adm2:
+    GID: KOR.9.3_2
+    admin_name: Cheongdo
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.4_2_Adm2:
+    GID: KOR.9.4_2
+    admin_name: Cheongsong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.5_2_Adm2:
+    GID: KOR.9.5_2
+    admin_name: Chilgok
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.6_2_Adm2:
+    GID: KOR.9.6_2
+    admin_name: Gimcheon
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.7_2_Adm2:
+    GID: KOR.9.7_2
+    admin_name: Goryeong
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.8_2_Adm2:
+    GID: KOR.9.8_2
+    admin_name: Gumi
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2
+  KOR.9.9_2_Adm2:
+    GID: KOR.9.9_2
+    admin_name: Gunwi
+    iso3c: KOR
+    country_name: South Korea
+    admin_level: Adm2

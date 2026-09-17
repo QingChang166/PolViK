@@ -1,0 +1,11 @@
+relations:
+    - (LSO.0_Adm0, LSO.1_1_Adm1)
+    - (LSO.0_Adm0, LSO.2_1_Adm1)
+    - (LSO.0_Adm0, LSO.3_1_Adm1)
+    - (LSO.0_Adm0, LSO.4_1_Adm1)
+    - (LSO.0_Adm0, LSO.5_1_Adm1)
+    - (LSO.0_Adm0, LSO.6_1_Adm1)
+    - (LSO.0_Adm0, LSO.7_1_Adm1)
+    - (LSO.0_Adm0, LSO.8_1_Adm1)
+    - (LSO.0_Adm0, LSO.9_1_Adm1)
+    - (LSO.0_Adm0, LSO.10_1_Adm1)

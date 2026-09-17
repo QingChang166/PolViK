@@ -1,0 +1,493 @@
+concepts:
+  GEO.0_Adm0:
+    GID: GEO
+    admin_name: Georgia
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm0
+  GEO.1_1_Adm1:
+    GID: GEO.1_1
+    admin_name: Abkhazia
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.1.1_1_Adm2:
+    GID: GEO.1.1_1
+    admin_name: Gagra
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.1.2_1_Adm2:
+    GID: GEO.1.2_1
+    admin_name: Gali
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.1.3_1_Adm2:
+    GID: GEO.1.3_1
+    admin_name: Gudauta
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.1.4_1_Adm2:
+    GID: GEO.1.4_1
+    admin_name: Gulripshi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.1.5_1_Adm2:
+    GID: GEO.1.5_1
+    admin_name: Ochamchire
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.1.6_1_Adm2:
+    GID: GEO.1.6_1
+    admin_name: Sokhumi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.10_1_Adm1:
+    GID: GEO.10_1
+    admin_name: Samtskhe-Javakheti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.10.1_1_Adm2:
+    GID: GEO.10.1_1
+    admin_name: Adigeni
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.10.2_1_Adm2:
+    GID: GEO.10.2_1
+    admin_name: Akhalkalaki
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.10.3_1_Adm2:
+    GID: GEO.10.3_1
+    admin_name: Akhaltsikhe
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.10.4_1_Adm2:
+    GID: GEO.10.4_1
+    admin_name: Aspindza
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.10.5_1_Adm2:
+    GID: GEO.10.5_1
+    admin_name: Borjomi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.10.6_1_Adm2:
+    GID: GEO.10.6_1
+    admin_name: Ninotsminda
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.11_1_Adm1:
+    GID: GEO.11_1
+    admin_name: Shida Kartli
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.11.1_1_Adm2:
+    GID: GEO.11.1_1
+    admin_name: Gori
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.11.2_1_Adm2:
+    GID: GEO.11.2_1
+    admin_name: Java
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.11.3_1_Adm2:
+    GID: GEO.11.3_1
+    admin_name: Kareli
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.11.4_1_Adm2:
+    GID: GEO.11.4_1
+    admin_name: Kaspi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.11.5_1_Adm2:
+    GID: GEO.11.5_1
+    admin_name: Khashuri
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.12_1_Adm1:
+    GID: GEO.12_1
+    admin_name: Tbilisi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.12.1_1_Adm2:
+    GID: GEO.12.1_1
+    admin_name: Tbilisi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.2_1_Adm1:
+    GID: GEO.2_1
+    admin_name: Ajaria
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.2.1_1_Adm2:
+    GID: GEO.2.1_1
+    admin_name: Batumi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.2.2_1_Adm2:
+    GID: GEO.2.2_1
+    admin_name: Keda
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.2.3_1_Adm2:
+    GID: GEO.2.3_1
+    admin_name: Khulo
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.2.4_1_Adm2:
+    GID: GEO.2.4_1
+    admin_name: Kobuleti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.2.5_1_Adm2:
+    GID: GEO.2.5_1
+    admin_name: Shuakhevi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.3_1_Adm1:
+    GID: GEO.3_1
+    admin_name: Guria
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.3.1_1_Adm2:
+    GID: GEO.3.1_1
+    admin_name: Chokhatauri
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.3.2_1_Adm2:
+    GID: GEO.3.2_1
+    admin_name: Lanchkhuti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.3.3_1_Adm2:
+    GID: GEO.3.3_1
+    admin_name: Ozurgeti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4_1_Adm1:
+    GID: GEO.4_1
+    admin_name: Imereti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.4.1_1_Adm2:
+    GID: GEO.4.1_1
+    admin_name: Bagdati
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.10_1_Adm2:
+    GID: GEO.4.10_1
+    admin_name: Tskaltubo
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.11_1_Adm2:
+    GID: GEO.4.11_1
+    admin_name: Vani
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.12_1_Adm2:
+    GID: GEO.4.12_1
+    admin_name: Zestaponi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.2_1_Adm2:
+    GID: GEO.4.2_1
+    admin_name: Chiatura
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.3_1_Adm2:
+    GID: GEO.4.3_1
+    admin_name: Kharagauli
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.4_1_Adm2:
+    GID: GEO.4.4_1
+    admin_name: Khoni
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.5_1_Adm2:
+    GID: GEO.4.5_1
+    admin_name: Kutaisi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.6_1_Adm2:
+    GID: GEO.4.6_1
+    admin_name: Sachkhere
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.7_1_Adm2:
+    GID: GEO.4.7_1
+    admin_name: Samtredia
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.8_1_Adm2:
+    GID: GEO.4.8_1
+    admin_name: Terjola
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.4.9_1_Adm2:
+    GID: GEO.4.9_1
+    admin_name: Tkibuli
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.5_1_Adm1:
+    GID: GEO.5_1
+    admin_name: Kakheti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.5.1_1_Adm2:
+    GID: GEO.5.1_1
+    admin_name: Akhmeta
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.5.2_1_Adm2:
+    GID: GEO.5.2_1
+    admin_name: Dedoplis Tskaro
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.5.3_1_Adm2:
+    GID: GEO.5.3_1
+    admin_name: Gurjaani
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.5.4_1_Adm2:
+    GID: GEO.5.4_1
+    admin_name: Kvareli
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.5.5_1_Adm2:
+    GID: GEO.5.5_1
+    admin_name: Lagodekhi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.5.6_1_Adm2:
+    GID: GEO.5.6_1
+    admin_name: Sagarejo
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.5.7_1_Adm2:
+    GID: GEO.5.7_1
+    admin_name: Signagi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.5.8_1_Adm2:
+    GID: GEO.5.8_1
+    admin_name: Telavi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.6_1_Adm1:
+    GID: GEO.6_1
+    admin_name: Kvemo Kartli
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.6.1_1_Adm2:
+    GID: GEO.6.1_1
+    admin_name: Bolnisi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.6.2_1_Adm2:
+    GID: GEO.6.2_1
+    admin_name: Dmanisi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.6.3_1_Adm2:
+    GID: GEO.6.3_1
+    admin_name: Gardabani
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.6.4_1_Adm2:
+    GID: GEO.6.4_1
+    admin_name: Marneuli
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.6.5_1_Adm2:
+    GID: GEO.6.5_1
+    admin_name: Tetri Tskaro
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.6.6_1_Adm2:
+    GID: GEO.6.6_1
+    admin_name: Tsalka
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.7_1_Adm1:
+    GID: GEO.7_1
+    admin_name: Mtskheta-Mtianeti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.7.1_1_Adm2:
+    GID: GEO.7.1_1
+    admin_name: Akhalgori
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.7.2_1_Adm2:
+    GID: GEO.7.2_1
+    admin_name: Dusheti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.7.3_1_Adm2:
+    GID: GEO.7.3_1
+    admin_name: Kazbegi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.7.4_1_Adm2:
+    GID: GEO.7.4_1
+    admin_name: Mtskheta
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.7.5_1_Adm2:
+    GID: GEO.7.5_1
+    admin_name: Tianeti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.8_1_Adm1:
+    GID: GEO.8_1
+    admin_name: Racha-Lechkhumi-Kvemo Svaneti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.8.1_1_Adm2:
+    GID: GEO.8.1_1
+    admin_name: Ambrolauri
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.8.2_1_Adm2:
+    GID: GEO.8.2_1
+    admin_name: Lentekhi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.8.3_1_Adm2:
+    GID: GEO.8.3_1
+    admin_name: Oni
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.8.4_1_Adm2:
+    GID: GEO.8.4_1
+    admin_name: Tsageri
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.9_1_Adm1:
+    GID: GEO.9_1
+    admin_name: Samegrelo-Zemo Svaneti
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm1
+  GEO.9.1_1_Adm2:
+    GID: GEO.9.1_1
+    admin_name: Abasha
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.9.2_1_Adm2:
+    GID: GEO.9.2_1
+    admin_name: Chkhorotsku
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.9.3_1_Adm2:
+    GID: GEO.9.3_1
+    admin_name: Khobi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.9.4_1_Adm2:
+    GID: GEO.9.4_1
+    admin_name: Martvili
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.9.5_1_Adm2:
+    GID: GEO.9.5_1
+    admin_name: Mestia
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.9.6_1_Adm2:
+    GID: GEO.9.6_1
+    admin_name: Senaki
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.9.7_1_Adm2:
+    GID: GEO.9.7_1
+    admin_name: Tsalenjikha
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2
+  GEO.9.8_1_Adm2:
+    GID: GEO.9.8_1
+    admin_name: Zugdidi
+    iso3c: GEO
+    country_name: Georgia
+    admin_level: Adm2

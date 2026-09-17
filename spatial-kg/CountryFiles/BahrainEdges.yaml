@@ -1,0 +1,5 @@
+relations:
+    - (BHR.0_Adm0, BHR.1_1_Adm1)
+    - (BHR.0_Adm0, BHR.3_1_Adm1)
+    - (BHR.0_Adm0, BHR.4_1_Adm1)
+    - (BHR.0_Adm0, BHR.5_1_Adm1)

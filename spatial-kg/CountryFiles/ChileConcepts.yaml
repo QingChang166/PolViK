@@ -1,0 +1,433 @@
+concepts:
+  CHL.0_Adm0:
+    GID: CHL
+    admin_name: Chile
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm0
+  CHL.1_1_Adm1:
+    GID: CHL.1_1
+    admin_name: Aysén del General Ibañez del Cam
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.1.1_1_Adm2:
+    GID: CHL.1.1_1
+    admin_name: Aysén
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.1.2_1_Adm2:
+    GID: CHL.1.2_1
+    admin_name: Capitán Prat
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.1.3_1_Adm2:
+    GID: CHL.1.3_1
+    admin_name: Coyhaique
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.1.4_1_Adm2:
+    GID: CHL.1.4_1
+    admin_name: General Carrera
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.10_1_Adm1:
+    GID: CHL.10_1
+    admin_name: Los Ríos
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.10.1_1_Adm2:
+    GID: CHL.10.1_1
+    admin_name: Ranco
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.10.2_1_Adm2:
+    GID: CHL.10.2_1
+    admin_name: Valdivia
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.11_1_Adm1:
+    GID: CHL.11_1
+    admin_name: Magallanes y Antártica Chilena
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.11.1_1_Adm2:
+    GID: CHL.11.1_1
+    admin_name: Antártica Chilena
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.11.2_1_Adm2:
+    GID: CHL.11.2_1
+    admin_name: Magallanes
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.11.3_1_Adm2:
+    GID: CHL.11.3_1
+    admin_name: Tierra del Fuego
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.11.4_1_Adm2:
+    GID: CHL.11.4_1
+    admin_name: Última Esperanza
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.12_1_Adm1:
+    GID: CHL.12_1
+    admin_name: Maule
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.12.1_1_Adm2:
+    GID: CHL.12.1_1
+    admin_name: Cauquenes
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.12.2_1_Adm2:
+    GID: CHL.12.2_1
+    admin_name: Curicó
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.12.3_1_Adm2:
+    GID: CHL.12.3_1
+    admin_name: Linares
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.12.4_1_Adm2:
+    GID: CHL.12.4_1
+    admin_name: Talca
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.13_1_Adm1:
+    GID: CHL.13_1
+    admin_name: Ñuble
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.13.1_1_Adm2:
+    GID: CHL.13.1_1
+    admin_name: Diguillín
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.13.2_1_Adm2:
+    GID: CHL.13.2_1
+    admin_name: Itata
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.13.3_1_Adm2:
+    GID: CHL.13.3_1
+    admin_name: Punilla
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.14_1_Adm1:
+    GID: CHL.14_1
+    admin_name: Santiago Metropolitan
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.14.1_1_Adm2:
+    GID: CHL.14.1_1
+    admin_name: Chacabuco
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.14.2_1_Adm2:
+    GID: CHL.14.2_1
+    admin_name: Cordillera
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.14.3_1_Adm2:
+    GID: CHL.14.3_1
+    admin_name: Maipo
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.14.4_1_Adm2:
+    GID: CHL.14.4_1
+    admin_name: Melipilla
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.14.5_1_Adm2:
+    GID: CHL.14.5_1
+    admin_name: Santiago
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.14.6_1_Adm2:
+    GID: CHL.14.6_1
+    admin_name: Talagante
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.15_1_Adm1:
+    GID: CHL.15_1
+    admin_name: Tarapacá
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.15.1_1_Adm2:
+    GID: CHL.15.1_1
+    admin_name: Provincia del Tamarugal
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.16_1_Adm1:
+    GID: CHL.16_1
+    admin_name: Valparaíso
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.16.1_1_Adm2:
+    GID: CHL.16.1_1
+    admin_name: Isla de Pascua
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.16.2_1_Adm2:
+    GID: CHL.16.2_1
+    admin_name: Los Andes
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.16.3_1_Adm2:
+    GID: CHL.16.3_1
+    admin_name: Petorca
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.16.4_1_Adm2:
+    GID: CHL.16.4_1
+    admin_name: Quillota
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.16.5_1_Adm2:
+    GID: CHL.16.5_1
+    admin_name: San Antonio
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.16.6_1_Adm2:
+    GID: CHL.16.6_1
+    admin_name: San Felipe
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.16.7_1_Adm2:
+    GID: CHL.16.7_1
+    admin_name: Valparaíso
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.16.8_1_Adm2:
+    GID: CHL.16.8_1
+    admin_name: Marga Marga
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.2_1_Adm1:
+    GID: CHL.2_1
+    admin_name: Antofagasta
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.2.1_1_Adm2:
+    GID: CHL.2.1_1
+    admin_name: Antofagasta
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.2.2_1_Adm2:
+    GID: CHL.2.2_1
+    admin_name: El Loa
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.2.3_1_Adm2:
+    GID: CHL.2.3_1
+    admin_name: Tocopilla
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.3_1_Adm1:
+    GID: CHL.3_1
+    admin_name: Araucanía
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.3.1_1_Adm2:
+    GID: CHL.3.1_1
+    admin_name: Cautín
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.3.2_1_Adm2:
+    GID: CHL.3.2_1
+    admin_name: Malleco
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.4_1_Adm1:
+    GID: CHL.4_1
+    admin_name: Arica y Parinacota
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.4.1_1_Adm2:
+    GID: CHL.4.1_1
+    admin_name: Arica
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.4.2_1_Adm2:
+    GID: CHL.4.2_1
+    admin_name: Parinacota
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.5_1_Adm1:
+    GID: CHL.5_1
+    admin_name: Atacama
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.5.1_1_Adm2:
+    GID: CHL.5.1_1
+    admin_name: Chañaral
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.5.2_1_Adm2:
+    GID: CHL.5.2_1
+    admin_name: Copiapó
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.5.3_1_Adm2:
+    GID: CHL.5.3_1
+    admin_name: Huasco
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.6_1_Adm1:
+    GID: CHL.6_1
+    admin_name: Bío-Bío
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.6.1_1_Adm2:
+    GID: CHL.6.1_1
+    admin_name: Arauco
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.6.2_1_Adm2:
+    GID: CHL.6.2_1
+    admin_name: Bío-Bío
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.6.3_1_Adm2:
+    GID: CHL.6.3_1
+    admin_name: Concepción
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.7_1_Adm1:
+    GID: CHL.7_1
+    admin_name: Coquimbo
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.7.1_1_Adm2:
+    GID: CHL.7.1_1
+    admin_name: Choapa
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.7.2_1_Adm2:
+    GID: CHL.7.2_1
+    admin_name: Elqui
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.7.3_1_Adm2:
+    GID: CHL.7.3_1
+    admin_name: Limarí
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.8_1_Adm1:
+    GID: CHL.8_1
+    admin_name: Libertador General Bernardo O'Hi
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.8.1_1_Adm2:
+    GID: CHL.8.1_1
+    admin_name: Cachapoal
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.8.2_1_Adm2:
+    GID: CHL.8.2_1
+    admin_name: Cardenal Caro
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.8.3_1_Adm2:
+    GID: CHL.8.3_1
+    admin_name: Colchagua
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.9_1_Adm1:
+    GID: CHL.9_1
+    admin_name: Los Lagos
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm1
+  CHL.9.1_1_Adm2:
+    GID: CHL.9.1_1
+    admin_name: Chiloé
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.9.2_1_Adm2:
+    GID: CHL.9.2_1
+    admin_name: Llanquihue
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.9.3_1_Adm2:
+    GID: CHL.9.3_1
+    admin_name: Osorno
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2
+  CHL.9.4_1_Adm2:
+    GID: CHL.9.4_1
+    admin_name: Palena
+    iso3c: CHL
+    country_name: Chile
+    admin_level: Adm2

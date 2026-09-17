@@ -1,0 +1,1687 @@
+concepts:
+  SLV.0_Adm0:
+    GID: SLV
+    admin_name: El Salvador
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm0
+  SLV.1_1_Adm1:
+    GID: SLV.1_1
+    admin_name: Ahuachapán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.1.1_1_Adm2:
+    GID: SLV.1.1_1
+    admin_name: Ahuachapán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.10_1_Adm2:
+    GID: SLV.1.10_1
+    admin_name: San Pedro Puxtla
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.11_1_Adm2:
+    GID: SLV.1.11_1
+    admin_name: Tacuba
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.12_1_Adm2:
+    GID: SLV.1.12_1
+    admin_name: Turín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.2_1_Adm2:
+    GID: SLV.1.2_1
+    admin_name: Apaneca
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.3_1_Adm2:
+    GID: SLV.1.3_1
+    admin_name: Atiquizaya
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.4_1_Adm2:
+    GID: SLV.1.4_1
+    admin_name: Concepción de Ataco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.5_1_Adm2:
+    GID: SLV.1.5_1
+    admin_name: El Refugio
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.6_1_Adm2:
+    GID: SLV.1.6_1
+    admin_name: Guaymango
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.7_1_Adm2:
+    GID: SLV.1.7_1
+    admin_name: Jujutla
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.8_1_Adm2:
+    GID: SLV.1.8_1
+    admin_name: San Francisco Menéndez
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.1.9_1_Adm2:
+    GID: SLV.1.9_1
+    admin_name: San Lorenzo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10_1_Adm1:
+    GID: SLV.10_1
+    admin_name: San Salvador
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.10.1_1_Adm2:
+    GID: SLV.10.1_1
+    admin_name: Aguilares
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.10_1_Adm2:
+    GID: SLV.10.10_1
+    admin_name: Mejicanos
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.11_1_Adm2:
+    GID: SLV.10.11_1
+    admin_name: Nejapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.12_1_Adm2:
+    GID: SLV.10.12_1
+    admin_name: Panchimalco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.13_1_Adm2:
+    GID: SLV.10.13_1
+    admin_name: Rosario de Mora
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.14_1_Adm2:
+    GID: SLV.10.14_1
+    admin_name: San Marcos
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.15_1_Adm2:
+    GID: SLV.10.15_1
+    admin_name: San Martín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.16_1_Adm2:
+    GID: SLV.10.16_1
+    admin_name: San Salvador
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.17_1_Adm2:
+    GID: SLV.10.17_1
+    admin_name: Santiago Texacuangos
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.18_1_Adm2:
+    GID: SLV.10.18_1
+    admin_name: Santo Tomás
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.19_1_Adm2:
+    GID: SLV.10.19_1
+    admin_name: Soyapango
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.2_1_Adm2:
+    GID: SLV.10.2_1
+    admin_name: Apopa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.20_1_Adm2:
+    GID: SLV.10.20_1
+    admin_name: Tonacatepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.3_1_Adm2:
+    GID: SLV.10.3_1
+    admin_name: Ayutuxtepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.4_1_Adm2:
+    GID: SLV.10.4_1
+    admin_name: Cuscatancingo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.5_1_Adm2:
+    GID: SLV.10.5_1
+    admin_name: Delgado
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.6_1_Adm2:
+    GID: SLV.10.6_1
+    admin_name: El Paisnal
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.7_1_Adm2:
+    GID: SLV.10.7_1
+    admin_name: Guazapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.8_1_Adm2:
+    GID: SLV.10.8_1
+    admin_name: Ilopango
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.10.9_1_Adm2:
+    GID: SLV.10.9_1
+    admin_name: Lago de Llopango
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11_1_Adm1:
+    GID: SLV.11_1
+    admin_name: San Vicente
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.11.1_1_Adm2:
+    GID: SLV.11.1_1
+    admin_name: Apastepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.10_1_Adm2:
+    GID: SLV.11.10_1
+    admin_name: Santo Domingo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.11_1_Adm2:
+    GID: SLV.11.11_1
+    admin_name: Tecoluca
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.12_1_Adm2:
+    GID: SLV.11.12_1
+    admin_name: Tepetitán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.13_1_Adm2:
+    GID: SLV.11.13_1
+    admin_name: Verapaz
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.2_1_Adm2:
+    GID: SLV.11.2_1
+    admin_name: Guadalupe
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.3_1_Adm2:
+    GID: SLV.11.3_1
+    admin_name: San Cayetano Istepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.4_1_Adm2:
+    GID: SLV.11.4_1
+    admin_name: San Esteban Catarina
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.5_1_Adm2:
+    GID: SLV.11.5_1
+    admin_name: San Ildefonso
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.6_1_Adm2:
+    GID: SLV.11.6_1
+    admin_name: San Lorenzo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.7_1_Adm2:
+    GID: SLV.11.7_1
+    admin_name: San Sebastián
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.8_1_Adm2:
+    GID: SLV.11.8_1
+    admin_name: San Vicente
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.11.9_1_Adm2:
+    GID: SLV.11.9_1
+    admin_name: Santa Clara
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12_1_Adm1:
+    GID: SLV.12_1
+    admin_name: Santa Ana
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.12.1_1_Adm2:
+    GID: SLV.12.1_1
+    admin_name: Candelaria de la Frontera
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.10_1_Adm2:
+    GID: SLV.12.10_1
+    admin_name: San Antonio Pajonal
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.11_1_Adm2:
+    GID: SLV.12.11_1
+    admin_name: San Sebastián Salitrillo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.12_1_Adm2:
+    GID: SLV.12.12_1
+    admin_name: Santa Ana
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.13_1_Adm2:
+    GID: SLV.12.13_1
+    admin_name: Santa Rosa Guachipilín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.14_1_Adm2:
+    GID: SLV.12.14_1
+    admin_name: Santiago de la Frontera
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.15_1_Adm2:
+    GID: SLV.12.15_1
+    admin_name: Texistepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.2_1_Adm2:
+    GID: SLV.12.2_1
+    admin_name: Chalchuapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.3_1_Adm2:
+    GID: SLV.12.3_1
+    admin_name: Coatepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.4_1_Adm2:
+    GID: SLV.12.4_1
+    admin_name: El Congo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.5_1_Adm2:
+    GID: SLV.12.5_1
+    admin_name: El Porvenir
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.6_1_Adm2:
+    GID: SLV.12.6_1
+    admin_name: Lago de Coatepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.7_1_Adm2:
+    GID: SLV.12.7_1
+    admin_name: Lago de Guija
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.8_1_Adm2:
+    GID: SLV.12.8_1
+    admin_name: Masahuat
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.12.9_1_Adm2:
+    GID: SLV.12.9_1
+    admin_name: Metapán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13_1_Adm1:
+    GID: SLV.13_1
+    admin_name: Sonsonate
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.13.1_1_Adm2:
+    GID: SLV.13.1_1
+    admin_name: Acajutla
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.10_1_Adm2:
+    GID: SLV.13.10_1
+    admin_name: San Antonio del Monte
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.11_1_Adm2:
+    GID: SLV.13.11_1
+    admin_name: San Julián
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.12_1_Adm2:
+    GID: SLV.13.12_1
+    admin_name: Santa Catarina Masahuat
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.13_1_Adm2:
+    GID: SLV.13.13_1
+    admin_name: Santa Isabel Ishuatán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.14_1_Adm2:
+    GID: SLV.13.14_1
+    admin_name: Santo Domingo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.15_1_Adm2:
+    GID: SLV.13.15_1
+    admin_name: Sonsonate
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.16_1_Adm2:
+    GID: SLV.13.16_1
+    admin_name: Sonzacate
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.2_1_Adm2:
+    GID: SLV.13.2_1
+    admin_name: Armenia
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.3_1_Adm2:
+    GID: SLV.13.3_1
+    admin_name: Caluco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.4_1_Adm2:
+    GID: SLV.13.4_1
+    admin_name: Cuisnahuat
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.5_1_Adm2:
+    GID: SLV.13.5_1
+    admin_name: Izalco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.6_1_Adm2:
+    GID: SLV.13.6_1
+    admin_name: Juayúa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.7_1_Adm2:
+    GID: SLV.13.7_1
+    admin_name: Nahuizalco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.8_1_Adm2:
+    GID: SLV.13.8_1
+    admin_name: Nahulingo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.13.9_1_Adm2:
+    GID: SLV.13.9_1
+    admin_name: Salcoatitán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14_1_Adm1:
+    GID: SLV.14_1
+    admin_name: Usulután
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.14.1_1_Adm2:
+    GID: SLV.14.1_1
+    admin_name: Alegría
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.10_1_Adm2:
+    GID: SLV.14.10_1
+    admin_name: Jucuarán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.11_1_Adm2:
+    GID: SLV.14.11_1
+    admin_name: Mercedes Umaña
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.12_1_Adm2:
+    GID: SLV.14.12_1
+    admin_name: Nueva Granada
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.13_1_Adm2:
+    GID: SLV.14.13_1
+    admin_name: Ozatlán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.14_1_Adm2:
+    GID: SLV.14.14_1
+    admin_name: Puerto El Triunfo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.15_1_Adm2:
+    GID: SLV.14.15_1
+    admin_name: San Agustín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.16_1_Adm2:
+    GID: SLV.14.16_1
+    admin_name: San Buenaventura
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.17_1_Adm2:
+    GID: SLV.14.17_1
+    admin_name: San Dionisio
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.18_1_Adm2:
+    GID: SLV.14.18_1
+    admin_name: San Francisco Javier
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.19_1_Adm2:
+    GID: SLV.14.19_1
+    admin_name: Santa Elena
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.2_1_Adm2:
+    GID: SLV.14.2_1
+    admin_name: Berlín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.20_1_Adm2:
+    GID: SLV.14.20_1
+    admin_name: Santa María
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.21_1_Adm2:
+    GID: SLV.14.21_1
+    admin_name: Santiago de María
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.22_1_Adm2:
+    GID: SLV.14.22_1
+    admin_name: Tecapán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.23_1_Adm2:
+    GID: SLV.14.23_1
+    admin_name: Usulután
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.3_1_Adm2:
+    GID: SLV.14.3_1
+    admin_name: California
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.4_1_Adm2:
+    GID: SLV.14.4_1
+    admin_name: Concepción Batres
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.5_1_Adm2:
+    GID: SLV.14.5_1
+    admin_name: El Triunfo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.6_1_Adm2:
+    GID: SLV.14.6_1
+    admin_name: Ereguayquín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.7_1_Adm2:
+    GID: SLV.14.7_1
+    admin_name: Estanzuelas
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.8_1_Adm2:
+    GID: SLV.14.8_1
+    admin_name: Jiquilisco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.14.9_1_Adm2:
+    GID: SLV.14.9_1
+    admin_name: Jucuapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2_1_Adm1:
+    GID: SLV.2_1
+    admin_name: Cabañas
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.2.1_1_Adm2:
+    GID: SLV.2.1_1
+    admin_name: Cinquera
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2.2_1_Adm2:
+    GID: SLV.2.2_1
+    admin_name: Dolores
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2.3_1_Adm2:
+    GID: SLV.2.3_1
+    admin_name: Guacotecti
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2.4_1_Adm2:
+    GID: SLV.2.4_1
+    admin_name: Ilobasco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2.5_1_Adm2:
+    GID: SLV.2.5_1
+    admin_name: Jutiapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2.6_1_Adm2:
+    GID: SLV.2.6_1
+    admin_name: San Isidro
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2.7_1_Adm2:
+    GID: SLV.2.7_1
+    admin_name: Sensuntepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2.8_1_Adm2:
+    GID: SLV.2.8_1
+    admin_name: Tejutepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.2.9_1_Adm2:
+    GID: SLV.2.9_1
+    admin_name: Victoria
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3_1_Adm1:
+    GID: SLV.3_1
+    admin_name: Chalatenango
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.3.1_1_Adm2:
+    GID: SLV.3.1_1
+    admin_name: Agua Caliente
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.10_1_Adm2:
+    GID: SLV.3.10_1
+    admin_name: El Paraíso
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.11_1_Adm2:
+    GID: SLV.3.11_1
+    admin_name: Embalse Cerron Grande
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.12_1_Adm2:
+    GID: SLV.3.12_1
+    admin_name: La Laguna
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.13_1_Adm2:
+    GID: SLV.3.13_1
+    admin_name: La Palma
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.14_1_Adm2:
+    GID: SLV.3.14_1
+    admin_name: La Reina
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.15_1_Adm2:
+    GID: SLV.3.15_1
+    admin_name: Las Vueltas
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.16_1_Adm2:
+    GID: SLV.3.16_1
+    admin_name: Nombre de Jesús
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.17_1_Adm2:
+    GID: SLV.3.17_1
+    admin_name: Nueva Concepción
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.18_1_Adm2:
+    GID: SLV.3.18_1
+    admin_name: Nueva Trinidad
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.19_1_Adm2:
+    GID: SLV.3.19_1
+    admin_name: Ojos de Agua
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.2_1_Adm2:
+    GID: SLV.3.2_1
+    admin_name: Arcatao
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.20_1_Adm2:
+    GID: SLV.3.20_1
+    admin_name: Potonico
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.21_1_Adm2:
+    GID: SLV.3.21_1
+    admin_name: San Antonio de la Cruz
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.22_1_Adm2:
+    GID: SLV.3.22_1
+    admin_name: San Antonio Los Ranchos
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.23_1_Adm2:
+    GID: SLV.3.23_1
+    admin_name: San Fernando
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.24_1_Adm2:
+    GID: SLV.3.24_1
+    admin_name: San Francisco Lempa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.25_1_Adm2:
+    GID: SLV.3.25_1
+    admin_name: San Francisco Morazán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.26_1_Adm2:
+    GID: SLV.3.26_1
+    admin_name: San Ignacio
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.27_1_Adm2:
+    GID: SLV.3.27_1
+    admin_name: San Isidro Labrador
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.28_1_Adm2:
+    GID: SLV.3.28_1
+    admin_name: San José Cancasque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.29_1_Adm2:
+    GID: SLV.3.29_1
+    admin_name: San José Las Flores
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.3_1_Adm2:
+    GID: SLV.3.3_1
+    admin_name: Azacualpa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.30_1_Adm2:
+    GID: SLV.3.30_1
+    admin_name: San Luis del Carmen
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.31_1_Adm2:
+    GID: SLV.3.31_1
+    admin_name: San Miguel de Mercedes
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.32_1_Adm2:
+    GID: SLV.3.32_1
+    admin_name: San Rafael
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.33_1_Adm2:
+    GID: SLV.3.33_1
+    admin_name: Santa Rita
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.34_1_Adm2:
+    GID: SLV.3.34_1
+    admin_name: Tejutla
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.4_1_Adm2:
+    GID: SLV.3.4_1
+    admin_name: Chalatenango
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.5_1_Adm2:
+    GID: SLV.3.5_1
+    admin_name: Citalá
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.6_1_Adm2:
+    GID: SLV.3.6_1
+    admin_name: Comalapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.7_1_Adm2:
+    GID: SLV.3.7_1
+    admin_name: Concepción Quezaltepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.8_1_Adm2:
+    GID: SLV.3.8_1
+    admin_name: Dulce Nombre de María
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.3.9_1_Adm2:
+    GID: SLV.3.9_1
+    admin_name: El Carrizal
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4_1_Adm1:
+    GID: SLV.4_1
+    admin_name: Cuscatlán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.4.1_1_Adm2:
+    GID: SLV.4.1_1
+    admin_name: Candelaria
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.10_1_Adm2:
+    GID: SLV.4.10_1
+    admin_name: San Pedro Perulapán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.11_1_Adm2:
+    GID: SLV.4.11_1
+    admin_name: San Rafael Cedros
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.12_1_Adm2:
+    GID: SLV.4.12_1
+    admin_name: San Ramón
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.13_1_Adm2:
+    GID: SLV.4.13_1
+    admin_name: Santa Cruz Analquito
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.14_1_Adm2:
+    GID: SLV.4.14_1
+    admin_name: Santa Cruz Michapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.15_1_Adm2:
+    GID: SLV.4.15_1
+    admin_name: Suchitoto
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.16_1_Adm2:
+    GID: SLV.4.16_1
+    admin_name: Tenancingo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.2_1_Adm2:
+    GID: SLV.4.2_1
+    admin_name: Cojutepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.3_1_Adm2:
+    GID: SLV.4.3_1
+    admin_name: El Carmen
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.4_1_Adm2:
+    GID: SLV.4.4_1
+    admin_name: El Rosario
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.5_1_Adm2:
+    GID: SLV.4.5_1
+    admin_name: Monte San Juan
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.6_1_Adm2:
+    GID: SLV.4.6_1
+    admin_name: Oratorio de Concepción
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.7_1_Adm2:
+    GID: SLV.4.7_1
+    admin_name: San Bartolomé Perulapía
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.8_1_Adm2:
+    GID: SLV.4.8_1
+    admin_name: San Cristóbal
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.4.9_1_Adm2:
+    GID: SLV.4.9_1
+    admin_name: San José Guayabal
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5_1_Adm1:
+    GID: SLV.5_1
+    admin_name: La Libertad
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.5.1_1_Adm2:
+    GID: SLV.5.1_1
+    admin_name: Antiguo Cuscatlán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.10_1_Adm2:
+    GID: SLV.5.10_1
+    admin_name: Nueva San Salvador
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.11_1_Adm2:
+    GID: SLV.5.11_1
+    admin_name: Nuevo Cuscatlán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.12_1_Adm2:
+    GID: SLV.5.12_1
+    admin_name: Opico
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.13_1_Adm2:
+    GID: SLV.5.13_1
+    admin_name: Quezaltepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.14_1_Adm2:
+    GID: SLV.5.14_1
+    admin_name: Sacacoyo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.15_1_Adm2:
+    GID: SLV.5.15_1
+    admin_name: San José Villanueva
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.16_1_Adm2:
+    GID: SLV.5.16_1
+    admin_name: San Matías
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.17_1_Adm2:
+    GID: SLV.5.17_1
+    admin_name: San Pablo Tacachico
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.18_1_Adm2:
+    GID: SLV.5.18_1
+    admin_name: Talnique
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.19_1_Adm2:
+    GID: SLV.5.19_1
+    admin_name: Tamanique
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.2_1_Adm2:
+    GID: SLV.5.2_1
+    admin_name: Chiltiupán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.20_1_Adm2:
+    GID: SLV.5.20_1
+    admin_name: Teotepeque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.21_1_Adm2:
+    GID: SLV.5.21_1
+    admin_name: Tepecoyo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.22_1_Adm2:
+    GID: SLV.5.22_1
+    admin_name: Zaragoza
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.3_1_Adm2:
+    GID: SLV.5.3_1
+    admin_name: Ciudad Arce
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.4_1_Adm2:
+    GID: SLV.5.4_1
+    admin_name: Colón
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.5_1_Adm2:
+    GID: SLV.5.5_1
+    admin_name: Comasagua
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.6_1_Adm2:
+    GID: SLV.5.6_1
+    admin_name: Huizúcar
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.7_1_Adm2:
+    GID: SLV.5.7_1
+    admin_name: Jayaque
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.8_1_Adm2:
+    GID: SLV.5.8_1
+    admin_name: Jicalapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.5.9_1_Adm2:
+    GID: SLV.5.9_1
+    admin_name: La Libertad
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6_1_Adm1:
+    GID: SLV.6_1
+    admin_name: La Paz
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.6.1_1_Adm2:
+    GID: SLV.6.1_1
+    admin_name: Cuyultitán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.10_1_Adm2:
+    GID: SLV.6.10_1
+    admin_name: San Juan Nonualco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.11_1_Adm2:
+    GID: SLV.6.11_1
+    admin_name: San Juan Talpa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.12_1_Adm2:
+    GID: SLV.6.12_1
+    admin_name: San Juan Tepezontes
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.13_1_Adm2:
+    GID: SLV.6.13_1
+    admin_name: San Luis La Herradura
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.14_1_Adm2:
+    GID: SLV.6.14_1
+    admin_name: San Luis Talpa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.15_1_Adm2:
+    GID: SLV.6.15_1
+    admin_name: San Miguel Tepezontes
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.16_1_Adm2:
+    GID: SLV.6.16_1
+    admin_name: San Pedro Masahuat
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.17_1_Adm2:
+    GID: SLV.6.17_1
+    admin_name: San Pedro Nonualco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.18_1_Adm2:
+    GID: SLV.6.18_1
+    admin_name: San Rafael Obrajuelo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.19_1_Adm2:
+    GID: SLV.6.19_1
+    admin_name: Santa María Ostuma
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.2_1_Adm2:
+    GID: SLV.6.2_1
+    admin_name: El Rosario
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.20_1_Adm2:
+    GID: SLV.6.20_1
+    admin_name: Santiago Nonualco
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.21_1_Adm2:
+    GID: SLV.6.21_1
+    admin_name: Tapalhuaca
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.22_1_Adm2:
+    GID: SLV.6.22_1
+    admin_name: Zacatecoluca
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.3_1_Adm2:
+    GID: SLV.6.3_1
+    admin_name: Jerusalén
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.4_1_Adm2:
+    GID: SLV.6.4_1
+    admin_name: Mercedes La Ceiba
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.5_1_Adm2:
+    GID: SLV.6.5_1
+    admin_name: Olocuilta
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.6_1_Adm2:
+    GID: SLV.6.6_1
+    admin_name: Paraíso de Osorio
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.7_1_Adm2:
+    GID: SLV.6.7_1
+    admin_name: San Antonio Masahuat
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.8_1_Adm2:
+    GID: SLV.6.8_1
+    admin_name: San Emigdio
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.6.9_1_Adm2:
+    GID: SLV.6.9_1
+    admin_name: San Francisco Chinameca
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7_1_Adm1:
+    GID: SLV.7_1
+    admin_name: La Unión
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.7.1_1_Adm2:
+    GID: SLV.7.1_1
+    admin_name: Anamorós
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.10_1_Adm2:
+    GID: SLV.7.10_1
+    admin_name: Meanguera del Golfo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.11_1_Adm2:
+    GID: SLV.7.11_1
+    admin_name: Nueva Esparta
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.12_1_Adm2:
+    GID: SLV.7.12_1
+    admin_name: Pasaquina
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.13_1_Adm2:
+    GID: SLV.7.13_1
+    admin_name: Polorós
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.14_1_Adm2:
+    GID: SLV.7.14_1
+    admin_name: San Alejo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.15_1_Adm2:
+    GID: SLV.7.15_1
+    admin_name: San José
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.16_1_Adm2:
+    GID: SLV.7.16_1
+    admin_name: Santa Rosa de Lima
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.17_1_Adm2:
+    GID: SLV.7.17_1
+    admin_name: Yayantique
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.18_1_Adm2:
+    GID: SLV.7.18_1
+    admin_name: Yucuaiquín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.2_1_Adm2:
+    GID: SLV.7.2_1
+    admin_name: Bolívar
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.3_1_Adm2:
+    GID: SLV.7.3_1
+    admin_name: Concepción de Oriente
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.4_1_Adm2:
+    GID: SLV.7.4_1
+    admin_name: Conchagua
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.5_1_Adm2:
+    GID: SLV.7.5_1
+    admin_name: El Carmen
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.6_1_Adm2:
+    GID: SLV.7.6_1
+    admin_name: El Sauce
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.7_1_Adm2:
+    GID: SLV.7.7_1
+    admin_name: Intipucá
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.8_1_Adm2:
+    GID: SLV.7.8_1
+    admin_name: La Unión
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.7.9_1_Adm2:
+    GID: SLV.7.9_1
+    admin_name: Lislique
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8_1_Adm1:
+    GID: SLV.8_1
+    admin_name: Morazán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.8.1_1_Adm2:
+    GID: SLV.8.1_1
+    admin_name: Arambala
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.10_1_Adm2:
+    GID: SLV.8.10_1
+    admin_name: Joateca
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.11_1_Adm2:
+    GID: SLV.8.11_1
+    admin_name: Jocoaitique
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.12_1_Adm2:
+    GID: SLV.8.12_1
+    admin_name: Jocoro
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.13_1_Adm2:
+    GID: SLV.8.13_1
+    admin_name: Lolotiquillo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.14_1_Adm2:
+    GID: SLV.8.14_1
+    admin_name: Meanguera
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.15_1_Adm2:
+    GID: SLV.8.15_1
+    admin_name: Osicala
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.16_1_Adm2:
+    GID: SLV.8.16_1
+    admin_name: Perquín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.17_1_Adm2:
+    GID: SLV.8.17_1
+    admin_name: San Carlos
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.18_1_Adm2:
+    GID: SLV.8.18_1
+    admin_name: San Fernando
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.19_1_Adm2:
+    GID: SLV.8.19_1
+    admin_name: San Francisco Gotera
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.2_1_Adm2:
+    GID: SLV.8.2_1
+    admin_name: Cacaopera
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.20_1_Adm2:
+    GID: SLV.8.20_1
+    admin_name: San Isidro
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.21_1_Adm2:
+    GID: SLV.8.21_1
+    admin_name: San Simón
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.22_1_Adm2:
+    GID: SLV.8.22_1
+    admin_name: Sensembra
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.23_1_Adm2:
+    GID: SLV.8.23_1
+    admin_name: Sociedad
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.24_1_Adm2:
+    GID: SLV.8.24_1
+    admin_name: Torola
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.25_1_Adm2:
+    GID: SLV.8.25_1
+    admin_name: Yamabal
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.26_1_Adm2:
+    GID: SLV.8.26_1
+    admin_name: Yoloaiquín
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.3_1_Adm2:
+    GID: SLV.8.3_1
+    admin_name: Chilanga
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.4_1_Adm2:
+    GID: SLV.8.4_1
+    admin_name: Corinto
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.5_1_Adm2:
+    GID: SLV.8.5_1
+    admin_name: Delicias de Concepción
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.6_1_Adm2:
+    GID: SLV.8.6_1
+    admin_name: El Divisadero
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.7_1_Adm2:
+    GID: SLV.8.7_1
+    admin_name: El Rosario
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.8_1_Adm2:
+    GID: SLV.8.8_1
+    admin_name: Gualococti
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.8.9_1_Adm2:
+    GID: SLV.8.9_1
+    admin_name: Guatajiagua
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9_1_Adm1:
+    GID: SLV.9_1
+    admin_name: San Miguel
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm1
+  SLV.9.1_1_Adm2:
+    GID: SLV.9.1_1
+    admin_name: Carolina
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.10_1_Adm2:
+    GID: SLV.9.10_1
+    admin_name: Nueva Guadalupe
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.11_1_Adm2:
+    GID: SLV.9.11_1
+    admin_name: Nuevo Edén de San Juan
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.12_1_Adm2:
+    GID: SLV.9.12_1
+    admin_name: Quelepa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.13_1_Adm2:
+    GID: SLV.9.13_1
+    admin_name: San Antonio
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.14_1_Adm2:
+    GID: SLV.9.14_1
+    admin_name: San Gerardo
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.15_1_Adm2:
+    GID: SLV.9.15_1
+    admin_name: San Jorge
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.16_1_Adm2:
+    GID: SLV.9.16_1
+    admin_name: San Luis de la Reina
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.17_1_Adm2:
+    GID: SLV.9.17_1
+    admin_name: San Miguel
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.18_1_Adm2:
+    GID: SLV.9.18_1
+    admin_name: San Rafael
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.19_1_Adm2:
+    GID: SLV.9.19_1
+    admin_name: Sesori
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.2_1_Adm2:
+    GID: SLV.9.2_1
+    admin_name: Chapeltique
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.20_1_Adm2:
+    GID: SLV.9.20_1
+    admin_name: Uluazapa
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.3_1_Adm2:
+    GID: SLV.9.3_1
+    admin_name: Chinameca
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.4_1_Adm2:
+    GID: SLV.9.4_1
+    admin_name: Chirilagua
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.5_1_Adm2:
+    GID: SLV.9.5_1
+    admin_name: Ciudad Barrios
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.6_1_Adm2:
+    GID: SLV.9.6_1
+    admin_name: Comacarán
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.7_1_Adm2:
+    GID: SLV.9.7_1
+    admin_name: El Tránsito
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.8_1_Adm2:
+    GID: SLV.9.8_1
+    admin_name: Lolotique
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2
+  SLV.9.9_1_Adm2:
+    GID: SLV.9.9_1
+    admin_name: Moncagua
+    iso3c: SLV
+    country_name: El Salvador
+    admin_level: Adm2

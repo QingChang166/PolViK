@@ -1,0 +1,361 @@
+concepts:
+  SWZ.0_Adm0:
+    GID: SWZ
+    admin_name: Swaziland
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm0
+  SWZ.1_1_Adm1:
+    GID: SWZ.1_1
+    admin_name: Hhohho
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm1
+  SWZ.1.1_1_Adm2:
+    GID: SWZ.1.1_1
+    admin_name: Hhukwini
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.10_1_Adm2:
+    GID: SWZ.1.10_1
+    admin_name: Ndzingeni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.11_1_Adm2:
+    GID: SWZ.1.11_1
+    admin_name: Nkhaba
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.12_1_Adm2:
+    GID: SWZ.1.12_1
+    admin_name: Ntfonjeni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.13_1_Adm2:
+    GID: SWZ.1.13_1
+    admin_name: Pigg's Peak
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.14_1_Adm2:
+    GID: SWZ.1.14_1
+    admin_name: Timpisini
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.2_1_Adm2:
+    GID: SWZ.1.2_1
+    admin_name: Lobamba
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.3_1_Adm2:
+    GID: SWZ.1.3_1
+    admin_name: Madlangempisi
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.4_1_Adm2:
+    GID: SWZ.1.4_1
+    admin_name: Mayiwane
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.5_1_Adm2:
+    GID: SWZ.1.5_1
+    admin_name: Mbabane East
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.6_1_Adm2:
+    GID: SWZ.1.6_1
+    admin_name: Mbabane West
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.7_1_Adm2:
+    GID: SWZ.1.7_1
+    admin_name: Mhlangatane
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.8_1_Adm2:
+    GID: SWZ.1.8_1
+    admin_name: Motjane
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.1.9_1_Adm2:
+    GID: SWZ.1.9_1
+    admin_name: Mphalaleni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2_1_Adm1:
+    GID: SWZ.2_1
+    admin_name: Lubombo
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm1
+  SWZ.2.1_1_Adm2:
+    GID: SWZ.2.1_1
+    admin_name: Dvokodvweni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.10_1_Adm2:
+    GID: SWZ.2.10_1
+    admin_name: Siphofaneni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.11_1_Adm2:
+    GID: SWZ.2.11_1
+    admin_name: Sithobela
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.2_1_Adm2:
+    GID: SWZ.2.2_1
+    admin_name: Hlane
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.3_1_Adm2:
+    GID: SWZ.2.3_1
+    admin_name: Lomahasha
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.4_1_Adm2:
+    GID: SWZ.2.4_1
+    admin_name: Lubuli
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.5_1_Adm2:
+    GID: SWZ.2.5_1
+    admin_name: Lugongolweni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.6_1_Adm2:
+    GID: SWZ.2.6_1
+    admin_name: Matsanjeni North
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.7_1_Adm2:
+    GID: SWZ.2.7_1
+    admin_name: Mhlume
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.8_1_Adm2:
+    GID: SWZ.2.8_1
+    admin_name: Mpholonjeni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.2.9_1_Adm2:
+    GID: SWZ.2.9_1
+    admin_name: Nkilongo
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3_1_Adm1:
+    GID: SWZ.3_1
+    admin_name: Manzini
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm1
+  SWZ.3.1_1_Adm2:
+    GID: SWZ.3.1_1
+    admin_name: Ekukhanyeni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.10_1_Adm2:
+    GID: SWZ.3.10_1
+    admin_name: Manzini South
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.11_1_Adm2:
+    GID: SWZ.3.11_1
+    admin_name: Mhlambanyatsi
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.12_1_Adm2:
+    GID: SWZ.3.12_1
+    admin_name: Mkhiweni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.13_1_Adm2:
+    GID: SWZ.3.13_1
+    admin_name: Mthongwaneni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.14_1_Adm2:
+    GID: SWZ.3.14_1
+    admin_name: Ngwenpisi
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.15_1_Adm2:
+    GID: SWZ.3.15_1
+    admin_name: Nhlambeni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.16_1_Adm2:
+    GID: SWZ.3.16_1
+    admin_name: Ntondozi
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.2_1_Adm2:
+    GID: SWZ.3.2_1
+    admin_name: Kwaluseni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.3_1_Adm2:
+    GID: SWZ.3.3_1
+    admin_name: Lamgabhi
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.4_1_Adm2:
+    GID: SWZ.3.4_1
+    admin_name: Lobamba Lomdzala
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.5_1_Adm2:
+    GID: SWZ.3.5_1
+    admin_name: Ludzeludze
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.6_1_Adm2:
+    GID: SWZ.3.6_1
+    admin_name: Mafutseni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.7_1_Adm2:
+    GID: SWZ.3.7_1
+    admin_name: Mahlangatja
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.8_1_Adm2:
+    GID: SWZ.3.8_1
+    admin_name: Mangcongco
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.3.9_1_Adm2:
+    GID: SWZ.3.9_1
+    admin_name: Manzini North
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4_1_Adm1:
+    GID: SWZ.4_1
+    admin_name: Shiselweni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm1
+  SWZ.4.1_1_Adm2:
+    GID: SWZ.4.1_1
+    admin_name: Gege
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.10_1_Adm2:
+    GID: SWZ.4.10_1
+    admin_name: Sandleni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.11_1_Adm2:
+    GID: SWZ.4.11_1
+    admin_name: Shiselweni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.12_1_Adm2:
+    GID: SWZ.4.12_1
+    admin_name: Sigwe
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.13_1_Adm2:
+    GID: SWZ.4.13_1
+    admin_name: Somntongo
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.14_1_Adm2:
+    GID: SWZ.4.14_1
+    admin_name: Zombodze
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.2_1_Adm2:
+    GID: SWZ.4.2_1
+    admin_name: Hosea
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.3_1_Adm2:
+    GID: SWZ.4.3_1
+    admin_name: Kubuta
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.4_1_Adm2:
+    GID: SWZ.4.4_1
+    admin_name: Maseyisini
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.5_1_Adm2:
+    GID: SWZ.4.5_1
+    admin_name: Matsanjeni South
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.6_1_Adm2:
+    GID: SWZ.4.6_1
+    admin_name: Mbangweni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.7_1_Adm2:
+    GID: SWZ.4.7_1
+    admin_name: Mtsambama
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.8_1_Adm2:
+    GID: SWZ.4.8_1
+    admin_name: Ngudzeni
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2
+  SWZ.4.9_1_Adm2:
+    GID: SWZ.4.9_1
+    admin_name: Nkwene
+    iso3c: SWZ
+    country_name: Swaziland
+    admin_level: Adm2

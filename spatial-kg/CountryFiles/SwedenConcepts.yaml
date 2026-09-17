@@ -1,0 +1,1873 @@
+concepts:
+  SWE.0_Adm0:
+    GID: SWE
+    admin_name: Sweden
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm0
+  SWE.1_1_Adm1:
+    GID: SWE.1_1
+    admin_name: Blekinge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.1.1_1_Adm2:
+    GID: SWE.1.1_1
+    admin_name: Karlshamn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.1.2_1_Adm2:
+    GID: SWE.1.2_1
+    admin_name: Karlskrona
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.1.3_1_Adm2:
+    GID: SWE.1.3_1
+    admin_name: Olofström
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.1.4_1_Adm2:
+    GID: SWE.1.4_1
+    admin_name: Ronneby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.1.5_1_Adm2:
+    GID: SWE.1.5_1
+    admin_name: Sölvesborg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10_1_Adm1:
+    GID: SWE.10_1
+    admin_name: Norrbotten
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.10.1_1_Adm2:
+    GID: SWE.10.1_1
+    admin_name: Älvsbyn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.10_1_Adm2:
+    GID: SWE.10.10_1
+    admin_name: Luleå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.11_1_Adm2:
+    GID: SWE.10.11_1
+    admin_name: Överkalix
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.12_1_Adm2:
+    GID: SWE.10.12_1
+    admin_name: Övertorneå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.13_1_Adm2:
+    GID: SWE.10.13_1
+    admin_name: Pajala
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.14_1_Adm2:
+    GID: SWE.10.14_1
+    admin_name: Piteå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.2_1_Adm2:
+    GID: SWE.10.2_1
+    admin_name: Arjeplog
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.3_1_Adm2:
+    GID: SWE.10.3_1
+    admin_name: Arvidsjaur
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.4_1_Adm2:
+    GID: SWE.10.4_1
+    admin_name: Boden
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.5_1_Adm2:
+    GID: SWE.10.5_1
+    admin_name: Gällivare
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.6_1_Adm2:
+    GID: SWE.10.6_1
+    admin_name: Haparanda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.7_1_Adm2:
+    GID: SWE.10.7_1
+    admin_name: Jokkmokk
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.8_1_Adm2:
+    GID: SWE.10.8_1
+    admin_name: Kalix
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.10.9_1_Adm2:
+    GID: SWE.10.9_1
+    admin_name: Kiruna
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11_1_Adm1:
+    GID: SWE.11_1
+    admin_name: Orebro
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.11.1_1_Adm2:
+    GID: SWE.11.1_1
+    admin_name: Askersund
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.10_1_Adm2:
+    GID: SWE.11.10_1
+    admin_name: Ljusnarsberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.11_1_Adm2:
+    GID: SWE.11.11_1
+    admin_name: Nora
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.12_1_Adm2:
+    GID: SWE.11.12_1
+    admin_name: Örebro
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.2_1_Adm2:
+    GID: SWE.11.2_1
+    admin_name: Degerfors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.3_1_Adm2:
+    GID: SWE.11.3_1
+    admin_name: Hällefors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.4_1_Adm2:
+    GID: SWE.11.4_1
+    admin_name: Hallsberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.5_1_Adm2:
+    GID: SWE.11.5_1
+    admin_name: Karlskoga
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.6_1_Adm2:
+    GID: SWE.11.6_1
+    admin_name: Kumla
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.7_1_Adm2:
+    GID: SWE.11.7_1
+    admin_name: Laxå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.8_1_Adm2:
+    GID: SWE.11.8_1
+    admin_name: Lekeberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.11.9_1_Adm2:
+    GID: SWE.11.9_1
+    admin_name: Lindesberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12_1_Adm1:
+    GID: SWE.12_1
+    admin_name: Östergötland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.12.1_1_Adm2:
+    GID: SWE.12.1_1
+    admin_name: Åtvidaberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.10_1_Adm2:
+    GID: SWE.12.10_1
+    admin_name: Söderköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.11_1_Adm2:
+    GID: SWE.12.11_1
+    admin_name: Vadstena
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.12_1_Adm2:
+    GID: SWE.12.12_1
+    admin_name: Valdemarsvik
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.13_1_Adm2:
+    GID: SWE.12.13_1
+    admin_name: Ydre
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.2_1_Adm2:
+    GID: SWE.12.2_1
+    admin_name: Boxholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.3_1_Adm2:
+    GID: SWE.12.3_1
+    admin_name: Finspång
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.4_1_Adm2:
+    GID: SWE.12.4_1
+    admin_name: Kinda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.5_1_Adm2:
+    GID: SWE.12.5_1
+    admin_name: Linköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.6_1_Adm2:
+    GID: SWE.12.6_1
+    admin_name: Mjölby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.7_1_Adm2:
+    GID: SWE.12.7_1
+    admin_name: Motala
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.8_1_Adm2:
+    GID: SWE.12.8_1
+    admin_name: Norrköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.12.9_1_Adm2:
+    GID: SWE.12.9_1
+    admin_name: Ödeshög
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13_1_Adm1:
+    GID: SWE.13_1
+    admin_name: Skåne
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.13.1_1_Adm2:
+    GID: SWE.13.1_1
+    admin_name: Ängelholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.10_1_Adm2:
+    GID: SWE.13.10_1
+    admin_name: Höganäs
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.11_1_Adm2:
+    GID: SWE.13.11_1
+    admin_name: Höör
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.12_1_Adm2:
+    GID: SWE.13.12_1
+    admin_name: Hörby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.13_1_Adm2:
+    GID: SWE.13.13_1
+    admin_name: Kävlinge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.14_1_Adm2:
+    GID: SWE.13.14_1
+    admin_name: Klippan
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.15_1_Adm2:
+    GID: SWE.13.15_1
+    admin_name: Kristianstad
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.16_1_Adm2:
+    GID: SWE.13.16_1
+    admin_name: Landskrona
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.17_1_Adm2:
+    GID: SWE.13.17_1
+    admin_name: Lomma
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.18_1_Adm2:
+    GID: SWE.13.18_1
+    admin_name: Lund
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.19_1_Adm2:
+    GID: SWE.13.19_1
+    admin_name: Malmö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.2_1_Adm2:
+    GID: SWE.13.2_1
+    admin_name: Åstorp
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.20_1_Adm2:
+    GID: SWE.13.20_1
+    admin_name: Örkelljunga
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.21_1_Adm2:
+    GID: SWE.13.21_1
+    admin_name: Osby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.22_1_Adm2:
+    GID: SWE.13.22_1
+    admin_name: Östra Göinge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.23_1_Adm2:
+    GID: SWE.13.23_1
+    admin_name: Perstorp
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.24_1_Adm2:
+    GID: SWE.13.24_1
+    admin_name: Simrishamn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.25_1_Adm2:
+    GID: SWE.13.25_1
+    admin_name: Sjöbo
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.26_1_Adm2:
+    GID: SWE.13.26_1
+    admin_name: Skurup
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.27_1_Adm2:
+    GID: SWE.13.27_1
+    admin_name: Staffanstorp
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.28_1_Adm2:
+    GID: SWE.13.28_1
+    admin_name: Svalöv
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.29_1_Adm2:
+    GID: SWE.13.29_1
+    admin_name: Svedala
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.3_1_Adm2:
+    GID: SWE.13.3_1
+    admin_name: Båstad
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.30_1_Adm2:
+    GID: SWE.13.30_1
+    admin_name: Tomelilla
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.31_1_Adm2:
+    GID: SWE.13.31_1
+    admin_name: Trelleborg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.32_1_Adm2:
+    GID: SWE.13.32_1
+    admin_name: Vellinge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.33_1_Adm2:
+    GID: SWE.13.33_1
+    admin_name: Ystad
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.4_1_Adm2:
+    GID: SWE.13.4_1
+    admin_name: Bjuv
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.5_1_Adm2:
+    GID: SWE.13.5_1
+    admin_name: Bromölla
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.6_1_Adm2:
+    GID: SWE.13.6_1
+    admin_name: Burlöv
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.7_1_Adm2:
+    GID: SWE.13.7_1
+    admin_name: Eslöv
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.8_1_Adm2:
+    GID: SWE.13.8_1
+    admin_name: Hässleholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.13.9_1_Adm2:
+    GID: SWE.13.9_1
+    admin_name: Helsingborg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14_1_Adm1:
+    GID: SWE.14_1
+    admin_name: Södermanland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.14.1_1_Adm2:
+    GID: SWE.14.1_1
+    admin_name: Eskilstuna
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14.2_1_Adm2:
+    GID: SWE.14.2_1
+    admin_name: Flen
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14.3_1_Adm2:
+    GID: SWE.14.3_1
+    admin_name: Gnesta
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14.4_1_Adm2:
+    GID: SWE.14.4_1
+    admin_name: Katrineholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14.5_1_Adm2:
+    GID: SWE.14.5_1
+    admin_name: Nyköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14.6_1_Adm2:
+    GID: SWE.14.6_1
+    admin_name: Oxelösund
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14.7_1_Adm2:
+    GID: SWE.14.7_1
+    admin_name: Strängnäs
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14.8_1_Adm2:
+    GID: SWE.14.8_1
+    admin_name: Trosa
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.14.9_1_Adm2:
+    GID: SWE.14.9_1
+    admin_name: Vingåker
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15_1_Adm1:
+    GID: SWE.15_1
+    admin_name: Stockholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.15.1_1_Adm2:
+    GID: SWE.15.1_1
+    admin_name: Botkyrka
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.10_1_Adm2:
+    GID: SWE.15.10_1
+    admin_name: Nykvarn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.11_1_Adm2:
+    GID: SWE.15.11_1
+    admin_name: Nynäshamn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.12_1_Adm2:
+    GID: SWE.15.12_1
+    admin_name: Österåker
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.13_1_Adm2:
+    GID: SWE.15.13_1
+    admin_name: Salem
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.14_1_Adm2:
+    GID: SWE.15.14_1
+    admin_name: Sigtuna
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.15_1_Adm2:
+    GID: SWE.15.15_1
+    admin_name: Södertälje
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.16_1_Adm2:
+    GID: SWE.15.16_1
+    admin_name: Sollentuna
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.17_1_Adm2:
+    GID: SWE.15.17_1
+    admin_name: Solna
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.18_1_Adm2:
+    GID: SWE.15.18_1
+    admin_name: Stockholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.19_1_Adm2:
+    GID: SWE.15.19_1
+    admin_name: Sundbyberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.2_1_Adm2:
+    GID: SWE.15.2_1
+    admin_name: Danderyd
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.20_1_Adm2:
+    GID: SWE.15.20_1
+    admin_name: Täby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.21_1_Adm2:
+    GID: SWE.15.21_1
+    admin_name: Tyresö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.22_1_Adm2:
+    GID: SWE.15.22_1
+    admin_name: Upplands-Bro
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.23_1_Adm2:
+    GID: SWE.15.23_1
+    admin_name: Upplands-Väsby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.24_1_Adm2:
+    GID: SWE.15.24_1
+    admin_name: Vallentuna
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.25_1_Adm2:
+    GID: SWE.15.25_1
+    admin_name: Värmdö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.26_1_Adm2:
+    GID: SWE.15.26_1
+    admin_name: Vaxholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.3_1_Adm2:
+    GID: SWE.15.3_1
+    admin_name: Ekerö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.4_1_Adm2:
+    GID: SWE.15.4_1
+    admin_name: Haninge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.5_1_Adm2:
+    GID: SWE.15.5_1
+    admin_name: Huddinge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.6_1_Adm2:
+    GID: SWE.15.6_1
+    admin_name: Järfälla
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.7_1_Adm2:
+    GID: SWE.15.7_1
+    admin_name: Lidingö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.8_1_Adm2:
+    GID: SWE.15.8_1
+    admin_name: Nacka
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.15.9_1_Adm2:
+    GID: SWE.15.9_1
+    admin_name: Norrtälje
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.16_1_Adm1:
+    GID: SWE.16_1
+    admin_name: Uppsala
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.16.1_1_Adm2:
+    GID: SWE.16.1_1
+    admin_name: Älvkarleby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.16.2_1_Adm2:
+    GID: SWE.16.2_1
+    admin_name: Enköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.16.3_1_Adm2:
+    GID: SWE.16.3_1
+    admin_name: Håbo
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.16.4_1_Adm2:
+    GID: SWE.16.4_1
+    admin_name: Knivsta
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.16.5_1_Adm2:
+    GID: SWE.16.5_1
+    admin_name: Östhammar
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.16.6_1_Adm2:
+    GID: SWE.16.6_1
+    admin_name: Tierp
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.16.7_1_Adm2:
+    GID: SWE.16.7_1
+    admin_name: Uppsala
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17_1_Adm1:
+    GID: SWE.17_1
+    admin_name: Värmland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.17.1_1_Adm2:
+    GID: SWE.17.1_1
+    admin_name: Årjäng
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.10_1_Adm2:
+    GID: SWE.17.10_1
+    admin_name: Kil
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.11_1_Adm2:
+    GID: SWE.17.11_1
+    admin_name: Kristinehamn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.12_1_Adm2:
+    GID: SWE.17.12_1
+    admin_name: Munkfors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.13_1_Adm2:
+    GID: SWE.17.13_1
+    admin_name: Säffle
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.14_1_Adm2:
+    GID: SWE.17.14_1
+    admin_name: Storfors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.15_1_Adm2:
+    GID: SWE.17.15_1
+    admin_name: Sunne
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.16_1_Adm2:
+    GID: SWE.17.16_1
+    admin_name: Torsby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.2_1_Adm2:
+    GID: SWE.17.2_1
+    admin_name: Arvika
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.3_1_Adm2:
+    GID: SWE.17.3_1
+    admin_name: Eda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.4_1_Adm2:
+    GID: SWE.17.4_1
+    admin_name: Filipstad
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.5_1_Adm2:
+    GID: SWE.17.5_1
+    admin_name: Forshaga
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.6_1_Adm2:
+    GID: SWE.17.6_1
+    admin_name: Grums
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.7_1_Adm2:
+    GID: SWE.17.7_1
+    admin_name: Hagfors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.8_1_Adm2:
+    GID: SWE.17.8_1
+    admin_name: Hammarö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.17.9_1_Adm2:
+    GID: SWE.17.9_1
+    admin_name: Karlstad
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18_1_Adm1:
+    GID: SWE.18_1
+    admin_name: Västerbotten
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.18.1_1_Adm2:
+    GID: SWE.18.1_1
+    admin_name: Åsele
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.10_1_Adm2:
+    GID: SWE.18.10_1
+    admin_name: Sorsele
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.11_1_Adm2:
+    GID: SWE.18.11_1
+    admin_name: Storuman
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.12_1_Adm2:
+    GID: SWE.18.12_1
+    admin_name: Umeå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.13_1_Adm2:
+    GID: SWE.18.13_1
+    admin_name: Vännäs
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.14_1_Adm2:
+    GID: SWE.18.14_1
+    admin_name: Vilhelmina
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.15_1_Adm2:
+    GID: SWE.18.15_1
+    admin_name: Vindeln
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.2_1_Adm2:
+    GID: SWE.18.2_1
+    admin_name: Bjurholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.3_1_Adm2:
+    GID: SWE.18.3_1
+    admin_name: Dorotea
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.4_1_Adm2:
+    GID: SWE.18.4_1
+    admin_name: Lycksele
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.5_1_Adm2:
+    GID: SWE.18.5_1
+    admin_name: Malå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.6_1_Adm2:
+    GID: SWE.18.6_1
+    admin_name: Nordmaling
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.7_1_Adm2:
+    GID: SWE.18.7_1
+    admin_name: Norsjö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.8_1_Adm2:
+    GID: SWE.18.8_1
+    admin_name: Robertsfors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.18.9_1_Adm2:
+    GID: SWE.18.9_1
+    admin_name: Skellefteå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.19_1_Adm1:
+    GID: SWE.19_1
+    admin_name: Västernorrland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.19.1_1_Adm2:
+    GID: SWE.19.1_1
+    admin_name: Ånge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.19.2_1_Adm2:
+    GID: SWE.19.2_1
+    admin_name: Härnösand
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.19.3_1_Adm2:
+    GID: SWE.19.3_1
+    admin_name: Kramfors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.19.4_1_Adm2:
+    GID: SWE.19.4_1
+    admin_name: Örnsköldsvik
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.19.5_1_Adm2:
+    GID: SWE.19.5_1
+    admin_name: Sollefteå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.19.6_1_Adm2:
+    GID: SWE.19.6_1
+    admin_name: Sundsvall
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.19.7_1_Adm2:
+    GID: SWE.19.7_1
+    admin_name: Timrå
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2_1_Adm1:
+    GID: SWE.2_1
+    admin_name: Dalarna
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.2.1_1_Adm2:
+    GID: SWE.2.1_1
+    admin_name: Älvdalen
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.10_1_Adm2:
+    GID: SWE.2.10_1
+    admin_name: Mora
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.11_1_Adm2:
+    GID: SWE.2.11_1
+    admin_name: Orsa
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.12_1_Adm2:
+    GID: SWE.2.12_1
+    admin_name: Rättvik
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.13_1_Adm2:
+    GID: SWE.2.13_1
+    admin_name: Säter
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.14_1_Adm2:
+    GID: SWE.2.14_1
+    admin_name: Smedjebacken
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.15_1_Adm2:
+    GID: SWE.2.15_1
+    admin_name: Vansbro
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.2_1_Adm2:
+    GID: SWE.2.2_1
+    admin_name: Avesta
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.3_1_Adm2:
+    GID: SWE.2.3_1
+    admin_name: Borlänge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.4_1_Adm2:
+    GID: SWE.2.4_1
+    admin_name: Falun
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.5_1_Adm2:
+    GID: SWE.2.5_1
+    admin_name: Gagnef
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.6_1_Adm2:
+    GID: SWE.2.6_1
+    admin_name: Hedemora
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.7_1_Adm2:
+    GID: SWE.2.7_1
+    admin_name: Leksand
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.8_1_Adm2:
+    GID: SWE.2.8_1
+    admin_name: Ludvika
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.2.9_1_Adm2:
+    GID: SWE.2.9_1
+    admin_name: Malung
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20_1_Adm1:
+    GID: SWE.20_1
+    admin_name: Västmanland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.20.1_1_Adm2:
+    GID: SWE.20.1_1
+    admin_name: Arboga
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.10_1_Adm2:
+    GID: SWE.20.10_1
+    admin_name: Surahammar
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.11_1_Adm2:
+    GID: SWE.20.11_1
+    admin_name: Västerås
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.2_1_Adm2:
+    GID: SWE.20.2_1
+    admin_name: Fagersta
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.3_1_Adm2:
+    GID: SWE.20.3_1
+    admin_name: Hallstahammar
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.4_1_Adm2:
+    GID: SWE.20.4_1
+    admin_name: Heby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.5_1_Adm2:
+    GID: SWE.20.5_1
+    admin_name: Köping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.6_1_Adm2:
+    GID: SWE.20.6_1
+    admin_name: Kungsör
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.7_1_Adm2:
+    GID: SWE.20.7_1
+    admin_name: Norberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.8_1_Adm2:
+    GID: SWE.20.8_1
+    admin_name: Sala
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.20.9_1_Adm2:
+    GID: SWE.20.9_1
+    admin_name: Skinnskatteberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21_1_Adm1:
+    GID: SWE.21_1
+    admin_name: Västra Götaland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.21.1_1_Adm2:
+    GID: SWE.21.1_1
+    admin_name: Ale
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.10_1_Adm2:
+    GID: SWE.21.10_1
+    admin_name: Färgelanda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.11_1_Adm2:
+    GID: SWE.21.11_1
+    admin_name: Göteborg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.12_1_Adm2:
+    GID: SWE.21.12_1
+    admin_name: Götene
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.13_1_Adm2:
+    GID: SWE.21.13_1
+    admin_name: Grästorp
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.14_1_Adm2:
+    GID: SWE.21.14_1
+    admin_name: Gullspång
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.15_1_Adm2:
+    GID: SWE.21.15_1
+    admin_name: Habo
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.16_1_Adm2:
+    GID: SWE.21.16_1
+    admin_name: Härryda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.17_1_Adm2:
+    GID: SWE.21.17_1
+    admin_name: Herrljunga
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.18_1_Adm2:
+    GID: SWE.21.18_1
+    admin_name: Hjo
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.19_1_Adm2:
+    GID: SWE.21.19_1
+    admin_name: Karlsborg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.2_1_Adm2:
+    GID: SWE.21.2_1
+    admin_name: Alingsås
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.20_1_Adm2:
+    GID: SWE.21.20_1
+    admin_name: Kungälv
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.21_1_Adm2:
+    GID: SWE.21.21_1
+    admin_name: Lerum
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.22_1_Adm2:
+    GID: SWE.21.22_1
+    admin_name: Lidköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.23_1_Adm2:
+    GID: SWE.21.23_1
+    admin_name: Lilla Edet
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.24_1_Adm2:
+    GID: SWE.21.24_1
+    admin_name: Lysekil
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.25_1_Adm2:
+    GID: SWE.21.25_1
+    admin_name: Mariestad
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.26_1_Adm2:
+    GID: SWE.21.26_1
+    admin_name: Mark
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.27_1_Adm2:
+    GID: SWE.21.27_1
+    admin_name: Mellerud
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.28_1_Adm2:
+    GID: SWE.21.28_1
+    admin_name: Mölndal
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.29_1_Adm2:
+    GID: SWE.21.29_1
+    admin_name: Mullsjö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.3_1_Adm2:
+    GID: SWE.21.3_1
+    admin_name: Åmål
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.30_1_Adm2:
+    GID: SWE.21.30_1
+    admin_name: Munkedal
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.31_1_Adm2:
+    GID: SWE.21.31_1
+    admin_name: Öckerö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.32_1_Adm2:
+    GID: SWE.21.32_1
+    admin_name: Orust
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.33_1_Adm2:
+    GID: SWE.21.33_1
+    admin_name: Partille
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.34_1_Adm2:
+    GID: SWE.21.34_1
+    admin_name: Skara
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.35_1_Adm2:
+    GID: SWE.21.35_1
+    admin_name: Skövde
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.36_1_Adm2:
+    GID: SWE.21.36_1
+    admin_name: Sotenäs
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.37_1_Adm2:
+    GID: SWE.21.37_1
+    admin_name: Stenungsund
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.38_1_Adm2:
+    GID: SWE.21.38_1
+    admin_name: Strömstad
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.39_1_Adm2:
+    GID: SWE.21.39_1
+    admin_name: Svenljunga
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.4_1_Adm2:
+    GID: SWE.21.4_1
+    admin_name: Bengtsfors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.40_1_Adm2:
+    GID: SWE.21.40_1
+    admin_name: Tanum
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.41_1_Adm2:
+    GID: SWE.21.41_1
+    admin_name: Tibro
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.42_1_Adm2:
+    GID: SWE.21.42_1
+    admin_name: Tidaholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.43_1_Adm2:
+    GID: SWE.21.43_1
+    admin_name: Tjörn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.44_1_Adm2:
+    GID: SWE.21.44_1
+    admin_name: Töreboda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.45_1_Adm2:
+    GID: SWE.21.45_1
+    admin_name: Tranemo
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.46_1_Adm2:
+    GID: SWE.21.46_1
+    admin_name: Trollhättan
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.47_1_Adm2:
+    GID: SWE.21.47_1
+    admin_name: Uddevalla
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.48_1_Adm2:
+    GID: SWE.21.48_1
+    admin_name: Ulricehamn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.49_1_Adm2:
+    GID: SWE.21.49_1
+    admin_name: Vänersborg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.5_1_Adm2:
+    GID: SWE.21.5_1
+    admin_name: Bollebygd
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.50_1_Adm2:
+    GID: SWE.21.50_1
+    admin_name: Vara
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.51_1_Adm2:
+    GID: SWE.21.51_1
+    admin_name: Vårgårda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.6_1_Adm2:
+    GID: SWE.21.6_1
+    admin_name: Borås
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.7_1_Adm2:
+    GID: SWE.21.7_1
+    admin_name: Dals-Ed
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.8_1_Adm2:
+    GID: SWE.21.8_1
+    admin_name: Essunga
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.21.9_1_Adm2:
+    GID: SWE.21.9_1
+    admin_name: Falköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3_1_Adm1:
+    GID: SWE.3_1
+    admin_name: Gävleborg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.3.1_1_Adm2:
+    GID: SWE.3.1_1
+    admin_name: Bollnäs
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.10_1_Adm2:
+    GID: SWE.3.10_1
+    admin_name: Söderhamn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.2_1_Adm2:
+    GID: SWE.3.2_1
+    admin_name: Gävle
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.3_1_Adm2:
+    GID: SWE.3.3_1
+    admin_name: Hofors
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.4_1_Adm2:
+    GID: SWE.3.4_1
+    admin_name: Hudiksvall
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.5_1_Adm2:
+    GID: SWE.3.5_1
+    admin_name: Ljusdal
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.6_1_Adm2:
+    GID: SWE.3.6_1
+    admin_name: Nordanstig
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.7_1_Adm2:
+    GID: SWE.3.7_1
+    admin_name: Ockelbo
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.8_1_Adm2:
+    GID: SWE.3.8_1
+    admin_name: Ovanåker
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.3.9_1_Adm2:
+    GID: SWE.3.9_1
+    admin_name: Sandviken
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.4_1_Adm1:
+    GID: SWE.4_1
+    admin_name: Gotland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.4.1_1_Adm2:
+    GID: SWE.4.1_1
+    admin_name: Gotland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.5_1_Adm1:
+    GID: SWE.5_1
+    admin_name: Halland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.5.1_1_Adm2:
+    GID: SWE.5.1_1
+    admin_name: Falkenberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.5.2_1_Adm2:
+    GID: SWE.5.2_1
+    admin_name: Halmstad
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.5.3_1_Adm2:
+    GID: SWE.5.3_1
+    admin_name: Hylte
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.5.4_1_Adm2:
+    GID: SWE.5.4_1
+    admin_name: Kungsbacka
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.5.5_1_Adm2:
+    GID: SWE.5.5_1
+    admin_name: Laholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.5.6_1_Adm2:
+    GID: SWE.5.6_1
+    admin_name: Varberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.6_1_Adm1:
+    GID: SWE.6_1
+    admin_name: Jämtland
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.6.1_1_Adm2:
+    GID: SWE.6.1_1
+    admin_name: Åre
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.6.2_1_Adm2:
+    GID: SWE.6.2_1
+    admin_name: Berg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.6.3_1_Adm2:
+    GID: SWE.6.3_1
+    admin_name: Bräcke
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.6.4_1_Adm2:
+    GID: SWE.6.4_1
+    admin_name: Härjedalen
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.6.5_1_Adm2:
+    GID: SWE.6.5_1
+    admin_name: Krokom
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.6.6_1_Adm2:
+    GID: SWE.6.6_1
+    admin_name: Östersund
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.6.7_1_Adm2:
+    GID: SWE.6.7_1
+    admin_name: Ragunda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.6.8_1_Adm2:
+    GID: SWE.6.8_1
+    admin_name: Strömsund
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7_1_Adm1:
+    GID: SWE.7_1
+    admin_name: Jönköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.7.1_1_Adm2:
+    GID: SWE.7.1_1
+    admin_name: Aneby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.10_1_Adm2:
+    GID: SWE.7.10_1
+    admin_name: Värnamo
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.11_1_Adm2:
+    GID: SWE.7.11_1
+    admin_name: Vetlanda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.2_1_Adm2:
+    GID: SWE.7.2_1
+    admin_name: Eksjö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.3_1_Adm2:
+    GID: SWE.7.3_1
+    admin_name: Gislaved
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.4_1_Adm2:
+    GID: SWE.7.4_1
+    admin_name: Gnosjö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.5_1_Adm2:
+    GID: SWE.7.5_1
+    admin_name: Jönköping
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.6_1_Adm2:
+    GID: SWE.7.6_1
+    admin_name: Nässjö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.7_1_Adm2:
+    GID: SWE.7.7_1
+    admin_name: Sävsjö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.8_1_Adm2:
+    GID: SWE.7.8_1
+    admin_name: Tranås
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.7.9_1_Adm2:
+    GID: SWE.7.9_1
+    admin_name: Vaggeryd
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8_1_Adm1:
+    GID: SWE.8_1
+    admin_name: Kalmar
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.8.1_1_Adm2:
+    GID: SWE.8.1_1
+    admin_name: Borgholm
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.10_1_Adm2:
+    GID: SWE.8.10_1
+    admin_name: Torsås
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.11_1_Adm2:
+    GID: SWE.8.11_1
+    admin_name: Västervik
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.12_1_Adm2:
+    GID: SWE.8.12_1
+    admin_name: Vimmerby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.2_1_Adm2:
+    GID: SWE.8.2_1
+    admin_name: Emmaboda
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.3_1_Adm2:
+    GID: SWE.8.3_1
+    admin_name: Högsby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.4_1_Adm2:
+    GID: SWE.8.4_1
+    admin_name: Hultsfred
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.5_1_Adm2:
+    GID: SWE.8.5_1
+    admin_name: Kalmar
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.6_1_Adm2:
+    GID: SWE.8.6_1
+    admin_name: Mönsterås
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.7_1_Adm2:
+    GID: SWE.8.7_1
+    admin_name: Mörbylånga
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.8_1_Adm2:
+    GID: SWE.8.8_1
+    admin_name: Nybro
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.8.9_1_Adm2:
+    GID: SWE.8.9_1
+    admin_name: Oskarshamn
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.9_1_Adm1:
+    GID: SWE.9_1
+    admin_name: Kronoberg
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm1
+  SWE.9.1_1_Adm2:
+    GID: SWE.9.1_1
+    admin_name: Älmhult
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.9.2_1_Adm2:
+    GID: SWE.9.2_1
+    admin_name: Alvesta
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.9.3_1_Adm2:
+    GID: SWE.9.3_1
+    admin_name: Lessebo
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.9.4_1_Adm2:
+    GID: SWE.9.4_1
+    admin_name: Ljungby
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.9.5_1_Adm2:
+    GID: SWE.9.5_1
+    admin_name: Markaryd
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.9.6_1_Adm2:
+    GID: SWE.9.6_1
+    admin_name: Tingsryd
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.9.7_1_Adm2:
+    GID: SWE.9.7_1
+    admin_name: Uppvidinge
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2
+  SWE.9.8_1_Adm2:
+    GID: SWE.9.8_1
+    admin_name: Växjö
+    iso3c: SWE
+    country_name: Sweden
+    admin_level: Adm2

@@ -1,0 +1,37 @@
+concepts:
+  SGP.0_Adm0:
+    GID: SGP
+    admin_name: Singapore
+    iso3c: SGP
+    country_name: Singapore
+    admin_level: Adm0
+  SGP.1_1_Adm1:
+    GID: SGP.1_1
+    admin_name: Central
+    iso3c: SGP
+    country_name: Singapore
+    admin_level: Adm1
+  SGP.2_1_Adm1:
+    GID: SGP.2_1
+    admin_name: East
+    iso3c: SGP
+    country_name: Singapore
+    admin_level: Adm1
+  SGP.3_1_Adm1:
+    GID: SGP.3_1
+    admin_name: North
+    iso3c: SGP
+    country_name: Singapore
+    admin_level: Adm1
+  SGP.4_1_Adm1:
+    GID: SGP.4_1
+    admin_name: North-East
+    iso3c: SGP
+    country_name: Singapore
+    admin_level: Adm1
+  SGP.5_1_Adm1:
+    GID: SGP.5_1
+    admin_name: West
+    iso3c: SGP
+    country_name: Singapore
+    admin_level: Adm1

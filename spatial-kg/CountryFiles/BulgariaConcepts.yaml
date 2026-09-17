@@ -1,0 +1,1753 @@
+concepts:
+  BGR.0_Adm0:
+    GID: BGR
+    admin_name: Bulgaria
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm0
+  BGR.1_1_Adm1:
+    GID: BGR.1_1
+    admin_name: Blagoevgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.1.1_1_Adm2:
+    GID: BGR.1.1_1
+    admin_name: Bansko
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.10_1_Adm2:
+    GID: BGR.1.10_1
+    admin_name: Sandanski
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.11_1_Adm2:
+    GID: BGR.1.11_1
+    admin_name: Satovcha
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.12_1_Adm2:
+    GID: BGR.1.12_1
+    admin_name: Simitli
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.13_1_Adm2:
+    GID: BGR.1.13_1
+    admin_name: Strumyani
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.14_1_Adm2:
+    GID: BGR.1.14_1
+    admin_name: Yakoruda
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.2_1_Adm2:
+    GID: BGR.1.2_1
+    admin_name: Belitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.3_1_Adm2:
+    GID: BGR.1.3_1
+    admin_name: Blagoevgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.4_1_Adm2:
+    GID: BGR.1.4_1
+    admin_name: Garmen
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.5_1_Adm2:
+    GID: BGR.1.5_1
+    admin_name: Gotse Delchev
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.6_1_Adm2:
+    GID: BGR.1.6_1
+    admin_name: Hadzhidimovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.7_1_Adm2:
+    GID: BGR.1.7_1
+    admin_name: Kresna
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.8_1_Adm2:
+    GID: BGR.1.8_1
+    admin_name: Petrich
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.1.9_1_Adm2:
+    GID: BGR.1.9_1
+    admin_name: Razlog
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10_1_Adm1:
+    GID: BGR.10_1
+    admin_name: Montana
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.10.1_1_Adm2:
+    GID: BGR.10.1_1
+    admin_name: Berkovitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.10_1_Adm2:
+    GID: BGR.10.10_1
+    admin_name: Varshets
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.11_1_Adm2:
+    GID: BGR.10.11_1
+    admin_name: Yakimovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.2_1_Adm2:
+    GID: BGR.10.2_1
+    admin_name: Boichinovtsi
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.3_1_Adm2:
+    GID: BGR.10.3_1
+    admin_name: Brusartsi
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.4_1_Adm2:
+    GID: BGR.10.4_1
+    admin_name: Chiprovtsi
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.5_1_Adm2:
+    GID: BGR.10.5_1
+    admin_name: Georgy Damyanovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.6_1_Adm2:
+    GID: BGR.10.6_1
+    admin_name: Lom
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.7_1_Adm2:
+    GID: BGR.10.7_1
+    admin_name: Medkovets
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.8_1_Adm2:
+    GID: BGR.10.8_1
+    admin_name: Montana
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.10.9_1_Adm2:
+    GID: BGR.10.9_1
+    admin_name: Valchedram
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11_1_Adm1:
+    GID: BGR.11_1
+    admin_name: Pazardzhik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.11.1_1_Adm2:
+    GID: BGR.11.1_1
+    admin_name: Batak
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.10_1_Adm2:
+    GID: BGR.11.10_1
+    admin_name: Strelcha
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.11_1_Adm2:
+    GID: BGR.11.11_1
+    admin_name: Velingrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.2_1_Adm2:
+    GID: BGR.11.2_1
+    admin_name: Belovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.3_1_Adm2:
+    GID: BGR.11.3_1
+    admin_name: Bratsigovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.4_1_Adm2:
+    GID: BGR.11.4_1
+    admin_name: Lesichevo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.5_1_Adm2:
+    GID: BGR.11.5_1
+    admin_name: Panagyurishte
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.6_1_Adm2:
+    GID: BGR.11.6_1
+    admin_name: Pazardzhik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.7_1_Adm2:
+    GID: BGR.11.7_1
+    admin_name: Peshtera
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.8_1_Adm2:
+    GID: BGR.11.8_1
+    admin_name: Rakitovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.11.9_1_Adm2:
+    GID: BGR.11.9_1
+    admin_name: Septemvri
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.12_1_Adm1:
+    GID: BGR.12_1
+    admin_name: Pernik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.12.1_1_Adm2:
+    GID: BGR.12.1_1
+    admin_name: Breznik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.12.2_1_Adm2:
+    GID: BGR.12.2_1
+    admin_name: Kovachevtsi
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.12.3_1_Adm2:
+    GID: BGR.12.3_1
+    admin_name: Pernik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.12.4_1_Adm2:
+    GID: BGR.12.4_1
+    admin_name: Radomir
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.12.5_1_Adm2:
+    GID: BGR.12.5_1
+    admin_name: Tran
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.12.6_1_Adm2:
+    GID: BGR.12.6_1
+    admin_name: Zemen
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13_1_Adm1:
+    GID: BGR.13_1
+    admin_name: Pleven
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.13.1_1_Adm2:
+    GID: BGR.13.1_1
+    admin_name: Belene
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.10_1_Adm2:
+    GID: BGR.13.10_1
+    admin_name: Pleven
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.11_1_Adm2:
+    GID: BGR.13.11_1
+    admin_name: Pordim
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.2_1_Adm2:
+    GID: BGR.13.2_1
+    admin_name: Cherven Bryag
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.3_1_Adm2:
+    GID: BGR.13.3_1
+    admin_name: Dolna Mitropoliya
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.4_1_Adm2:
+    GID: BGR.13.4_1
+    admin_name: Dolni Dabnik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.5_1_Adm2:
+    GID: BGR.13.5_1
+    admin_name: Gulyantsi
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.6_1_Adm2:
+    GID: BGR.13.6_1
+    admin_name: Iskar
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.7_1_Adm2:
+    GID: BGR.13.7_1
+    admin_name: Knezha
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.8_1_Adm2:
+    GID: BGR.13.8_1
+    admin_name: Levski
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.13.9_1_Adm2:
+    GID: BGR.13.9_1
+    admin_name: Nikopol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14_1_Adm1:
+    GID: BGR.14_1
+    admin_name: Plovdiv
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.14.1_1_Adm2:
+    GID: BGR.14.1_1
+    admin_name: Asenovgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.10_1_Adm2:
+    GID: BGR.14.10_1
+    admin_name: Perushtitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.11_1_Adm2:
+    GID: BGR.14.11_1
+    admin_name: Plovdiv
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.12_1_Adm2:
+    GID: BGR.14.12_1
+    admin_name: Rakovski
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.13_1_Adm2:
+    GID: BGR.14.13_1
+    admin_name: Rodopi
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.14_1_Adm2:
+    GID: BGR.14.14_1
+    admin_name: Sadovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.15_1_Adm2:
+    GID: BGR.14.15_1
+    admin_name: Saedinenie
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.16_1_Adm2:
+    GID: BGR.14.16_1
+    admin_name: Stamboliyski
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.2_1_Adm2:
+    GID: BGR.14.2_1
+    admin_name: Brezovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.3_1_Adm2:
+    GID: BGR.14.3_1
+    admin_name: Hisar
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.4_1_Adm2:
+    GID: BGR.14.4_1
+    admin_name: Kaloyanovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.5_1_Adm2:
+    GID: BGR.14.5_1
+    admin_name: Karlovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.6_1_Adm2:
+    GID: BGR.14.6_1
+    admin_name: Krichim
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.7_1_Adm2:
+    GID: BGR.14.7_1
+    admin_name: Laki
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.8_1_Adm2:
+    GID: BGR.14.8_1
+    admin_name: Maritsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.14.9_1_Adm2:
+    GID: BGR.14.9_1
+    admin_name: Parvomay
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.15_1_Adm1:
+    GID: BGR.15_1
+    admin_name: Razgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.15.1_1_Adm2:
+    GID: BGR.15.1_1
+    admin_name: Isperih
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.15.2_1_Adm2:
+    GID: BGR.15.2_1
+    admin_name: Kubrat
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.15.3_1_Adm2:
+    GID: BGR.15.3_1
+    admin_name: Loznitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.15.4_1_Adm2:
+    GID: BGR.15.4_1
+    admin_name: Razgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.15.5_1_Adm2:
+    GID: BGR.15.5_1
+    admin_name: Samuil
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.15.6_1_Adm2:
+    GID: BGR.15.6_1
+    admin_name: Tsar Kaloyan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.15.7_1_Adm2:
+    GID: BGR.15.7_1
+    admin_name: Zavet
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.16_1_Adm1:
+    GID: BGR.16_1
+    admin_name: Ruse
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.16.1_1_Adm2:
+    GID: BGR.16.1_1
+    admin_name: Borovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.16.2_1_Adm2:
+    GID: BGR.16.2_1
+    admin_name: Byala
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.16.3_1_Adm2:
+    GID: BGR.16.3_1
+    admin_name: Dve Mogili
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.16.4_1_Adm2:
+    GID: BGR.16.4_1
+    admin_name: Ivanovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.16.5_1_Adm2:
+    GID: BGR.16.5_1
+    admin_name: Rousse
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.16.6_1_Adm2:
+    GID: BGR.16.6_1
+    admin_name: Slivo Pole
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.16.7_1_Adm2:
+    GID: BGR.16.7_1
+    admin_name: Tsenovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.16.8_1_Adm2:
+    GID: BGR.16.8_1
+    admin_name: Vetovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17_1_Adm1:
+    GID: BGR.17_1
+    admin_name: Shumen
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.17.1_1_Adm2:
+    GID: BGR.17.1_1
+    admin_name: Gara Hitrino
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.10_1_Adm2:
+    GID: BGR.17.10_1
+    admin_name: Venets
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.2_1_Adm2:
+    GID: BGR.17.2_1
+    admin_name: Kaolinovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.3_1_Adm2:
+    GID: BGR.17.3_1
+    admin_name: Kaspichan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.4_1_Adm2:
+    GID: BGR.17.4_1
+    admin_name: Nikola Kozlevo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.5_1_Adm2:
+    GID: BGR.17.5_1
+    admin_name: Novi Pazar
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.6_1_Adm2:
+    GID: BGR.17.6_1
+    admin_name: Preslav
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.7_1_Adm2:
+    GID: BGR.17.7_1
+    admin_name: Shumen
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.8_1_Adm2:
+    GID: BGR.17.8_1
+    admin_name: Smyadovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.17.9_1_Adm2:
+    GID: BGR.17.9_1
+    admin_name: Varbitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.18_1_Adm1:
+    GID: BGR.18_1
+    admin_name: Silistra
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.18.1_1_Adm2:
+    GID: BGR.18.1_1
+    admin_name: Alfatar
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.18.2_1_Adm2:
+    GID: BGR.18.2_1
+    admin_name: Dulovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.18.3_1_Adm2:
+    GID: BGR.18.3_1
+    admin_name: Glavinitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.18.4_1_Adm2:
+    GID: BGR.18.4_1
+    admin_name: Kainardzha
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.18.5_1_Adm2:
+    GID: BGR.18.5_1
+    admin_name: Silistra
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.18.6_1_Adm2:
+    GID: BGR.18.6_1
+    admin_name: Sitovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.18.7_1_Adm2:
+    GID: BGR.18.7_1
+    admin_name: Tutrakan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.19_1_Adm1:
+    GID: BGR.19_1
+    admin_name: Sliven
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.19.1_1_Adm2:
+    GID: BGR.19.1_1
+    admin_name: Kotel
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.19.2_1_Adm2:
+    GID: BGR.19.2_1
+    admin_name: Nova Zagora
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.19.3_1_Adm2:
+    GID: BGR.19.3_1
+    admin_name: Sliven
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.19.4_1_Adm2:
+    GID: BGR.19.4_1
+    admin_name: Tvarditsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2_1_Adm1:
+    GID: BGR.2_1
+    admin_name: Burgas
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.2.1_1_Adm2:
+    GID: BGR.2.1_1
+    admin_name: Aitos
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.10_1_Adm2:
+    GID: BGR.2.10_1
+    admin_name: Sozopol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.11_1_Adm2:
+    GID: BGR.2.11_1
+    admin_name: Sredets
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.12_1_Adm2:
+    GID: BGR.2.12_1
+    admin_name: Sungurlare
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.13_1_Adm2:
+    GID: BGR.2.13_1
+    admin_name: Tsarevo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.2_1_Adm2:
+    GID: BGR.2.2_1
+    admin_name: Burgas
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.3_1_Adm2:
+    GID: BGR.2.3_1
+    admin_name: Kameno
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.4_1_Adm2:
+    GID: BGR.2.4_1
+    admin_name: Karnobat
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.5_1_Adm2:
+    GID: BGR.2.5_1
+    admin_name: Malko Tarnovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.6_1_Adm2:
+    GID: BGR.2.6_1
+    admin_name: Nesebar
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.7_1_Adm2:
+    GID: BGR.2.7_1
+    admin_name: Pomorie
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.8_1_Adm2:
+    GID: BGR.2.8_1
+    admin_name: Primorsko
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.2.9_1_Adm2:
+    GID: BGR.2.9_1
+    admin_name: Ruen
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20_1_Adm1:
+    GID: BGR.20_1
+    admin_name: Smolyan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.20.1_1_Adm2:
+    GID: BGR.20.1_1
+    admin_name: Banite
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.10_1_Adm2:
+    GID: BGR.20.10_1
+    admin_name: Zlatograd
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.2_1_Adm2:
+    GID: BGR.20.2_1
+    admin_name: Borino
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.3_1_Adm2:
+    GID: BGR.20.3_1
+    admin_name: Chepelare
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.4_1_Adm2:
+    GID: BGR.20.4_1
+    admin_name: Devin
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.5_1_Adm2:
+    GID: BGR.20.5_1
+    admin_name: Dospat
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.6_1_Adm2:
+    GID: BGR.20.6_1
+    admin_name: Madan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.7_1_Adm2:
+    GID: BGR.20.7_1
+    admin_name: Nedelino
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.8_1_Adm2:
+    GID: BGR.20.8_1
+    admin_name: Rudozem
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.20.9_1_Adm2:
+    GID: BGR.20.9_1
+    admin_name: Smolyan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21_1_Adm1:
+    GID: BGR.21_1
+    admin_name: Sofia
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.21.1_1_Adm2:
+    GID: BGR.21.1_1
+    admin_name: Anton
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.10_1_Adm2:
+    GID: BGR.21.10_1
+    admin_name: Godech
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.11_1_Adm2:
+    GID: BGR.21.11_1
+    admin_name: Gorna Malina
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.12_1_Adm2:
+    GID: BGR.21.12_1
+    admin_name: Ihtiman
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.13_1_Adm2:
+    GID: BGR.21.13_1
+    admin_name: Koprivshtitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.14_1_Adm2:
+    GID: BGR.21.14_1
+    admin_name: Kostenets
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.15_1_Adm2:
+    GID: BGR.21.15_1
+    admin_name: Kostinbrod
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.16_1_Adm2:
+    GID: BGR.21.16_1
+    admin_name: Mirkovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.17_1_Adm2:
+    GID: BGR.21.17_1
+    admin_name: Pirdop
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.18_1_Adm2:
+    GID: BGR.21.18_1
+    admin_name: Pravets
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.19_1_Adm2:
+    GID: BGR.21.19_1
+    admin_name: Samokov
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.2_1_Adm2:
+    GID: BGR.21.2_1
+    admin_name: Botevgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.20_1_Adm2:
+    GID: BGR.21.20_1
+    admin_name: Slivnitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.21_1_Adm2:
+    GID: BGR.21.21_1
+    admin_name: Svoge
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.22_1_Adm2:
+    GID: BGR.21.22_1
+    admin_name: Zlatitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.3_1_Adm2:
+    GID: BGR.21.3_1
+    admin_name: Bozhurishte
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.4_1_Adm2:
+    GID: BGR.21.4_1
+    admin_name: Chavdar
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.5_1_Adm2:
+    GID: BGR.21.5_1
+    admin_name: Chelopech
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.6_1_Adm2:
+    GID: BGR.21.6_1
+    admin_name: Dolna Banya
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.7_1_Adm2:
+    GID: BGR.21.7_1
+    admin_name: Dragoman
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.8_1_Adm2:
+    GID: BGR.21.8_1
+    admin_name: Elin Pelin
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.21.9_1_Adm2:
+    GID: BGR.21.9_1
+    admin_name: Etropole
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22_1_Adm1:
+    GID: BGR.22_1
+    admin_name: Stara Zagora
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.22.1_1_Adm2:
+    GID: BGR.22.1_1
+    admin_name: Bratya Daskalovi
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.10_1_Adm2:
+    GID: BGR.22.10_1
+    admin_name: Radnevo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.11_1_Adm2:
+    GID: BGR.22.11_1
+    admin_name: Stara Zagora
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.2_1_Adm2:
+    GID: BGR.22.2_1
+    admin_name: Chirpan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.3_1_Adm2:
+    GID: BGR.22.3_1
+    admin_name: Galabovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.4_1_Adm2:
+    GID: BGR.22.4_1
+    admin_name: Gurkovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.5_1_Adm2:
+    GID: BGR.22.5_1
+    admin_name: Kazanlak
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.6_1_Adm2:
+    GID: BGR.22.6_1
+    admin_name: Maglizh
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.7_1_Adm2:
+    GID: BGR.22.7_1
+    admin_name: Nikolaevo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.8_1_Adm2:
+    GID: BGR.22.8_1
+    admin_name: Opan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.22.9_1_Adm2:
+    GID: BGR.22.9_1
+    admin_name: Pavel Banya
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.23_1_Adm1:
+    GID: BGR.23_1
+    admin_name: Targovishte
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.23.1_1_Adm2:
+    GID: BGR.23.1_1
+    admin_name: Antonovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.23.2_1_Adm2:
+    GID: BGR.23.2_1
+    admin_name: Omurtag
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.23.3_1_Adm2:
+    GID: BGR.23.3_1
+    admin_name: Opaka
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.23.4_1_Adm2:
+    GID: BGR.23.4_1
+    admin_name: Popovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.23.5_1_Adm2:
+    GID: BGR.23.5_1
+    admin_name: Targovishte
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24_1_Adm1:
+    GID: BGR.24_1
+    admin_name: Varna
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.24.1_1_Adm2:
+    GID: BGR.24.1_1
+    admin_name: Aksakovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.10_1_Adm2:
+    GID: BGR.24.10_1
+    admin_name: Valchi Dol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.11_1_Adm2:
+    GID: BGR.24.11_1
+    admin_name: Varna
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.12_1_Adm2:
+    GID: BGR.24.12_1
+    admin_name: Vetrino
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.2_1_Adm2:
+    GID: BGR.24.2_1
+    admin_name: Avren
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.3_1_Adm2:
+    GID: BGR.24.3_1
+    admin_name: Beloslav
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.4_1_Adm2:
+    GID: BGR.24.4_1
+    admin_name: Byala
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.5_1_Adm2:
+    GID: BGR.24.5_1
+    admin_name: Dalgopol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.6_1_Adm2:
+    GID: BGR.24.6_1
+    admin_name: Devnya
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.7_1_Adm2:
+    GID: BGR.24.7_1
+    admin_name: Dolni Chiflik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.8_1_Adm2:
+    GID: BGR.24.8_1
+    admin_name: Provadiya
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.24.9_1_Adm2:
+    GID: BGR.24.9_1
+    admin_name: Suvorovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25_1_Adm1:
+    GID: BGR.25_1
+    admin_name: Veliko Tarnovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.25.1_1_Adm2:
+    GID: BGR.25.1_1
+    admin_name: Elena
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.10_1_Adm2:
+    GID: BGR.25.10_1
+    admin_name: Zlataritsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.2_1_Adm2:
+    GID: BGR.25.2_1
+    admin_name: Gorna Orhyahovitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.3_1_Adm2:
+    GID: BGR.25.3_1
+    admin_name: Lyaskovets
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.4_1_Adm2:
+    GID: BGR.25.4_1
+    admin_name: Pavlikeni
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.5_1_Adm2:
+    GID: BGR.25.5_1
+    admin_name: Polski Trambesh
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.6_1_Adm2:
+    GID: BGR.25.6_1
+    admin_name: Strazhitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.7_1_Adm2:
+    GID: BGR.25.7_1
+    admin_name: Suhindol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.8_1_Adm2:
+    GID: BGR.25.8_1
+    admin_name: Svishtov
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.25.9_1_Adm2:
+    GID: BGR.25.9_1
+    admin_name: Veliko Tarnovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26_1_Adm1:
+    GID: BGR.26_1
+    admin_name: Vidin
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.26.1_1_Adm2:
+    GID: BGR.26.1_1
+    admin_name: Belogradchik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.10_1_Adm2:
+    GID: BGR.26.10_1
+    admin_name: Ruzh
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.11_1_Adm2:
+    GID: BGR.26.11_1
+    admin_name: Vidin
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.2_1_Adm2:
+    GID: BGR.26.2_1
+    admin_name: Boinitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.3_1_Adm2:
+    GID: BGR.26.3_1
+    admin_name: Bregovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.4_1_Adm2:
+    GID: BGR.26.4_1
+    admin_name: Chuprene
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.5_1_Adm2:
+    GID: BGR.26.5_1
+    admin_name: Dimovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.6_1_Adm2:
+    GID: BGR.26.6_1
+    admin_name: Gramada
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.7_1_Adm2:
+    GID: BGR.26.7_1
+    admin_name: Kula
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.8_1_Adm2:
+    GID: BGR.26.8_1
+    admin_name: Makresh
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.26.9_1_Adm2:
+    GID: BGR.26.9_1
+    admin_name: Novo Selo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27_1_Adm1:
+    GID: BGR.27_1
+    admin_name: Vratsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.27.1_1_Adm2:
+    GID: BGR.27.1_1
+    admin_name: Borovan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.10_1_Adm2:
+    GID: BGR.27.10_1
+    admin_name: Vratsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.2_1_Adm2:
+    GID: BGR.27.2_1
+    admin_name: Byala Slatina
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.3_1_Adm2:
+    GID: BGR.27.3_1
+    admin_name: Hairedin
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.4_1_Adm2:
+    GID: BGR.27.4_1
+    admin_name: Kozloduy
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.5_1_Adm2:
+    GID: BGR.27.5_1
+    admin_name: Krivodol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.6_1_Adm2:
+    GID: BGR.27.6_1
+    admin_name: Mezdra
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.7_1_Adm2:
+    GID: BGR.27.7_1
+    admin_name: Miziya
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.8_1_Adm2:
+    GID: BGR.27.8_1
+    admin_name: Oryahovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.27.9_1_Adm2:
+    GID: BGR.27.9_1
+    admin_name: Roman
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.28_1_Adm1:
+    GID: BGR.28_1
+    admin_name: Yambol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.28.1_1_Adm2:
+    GID: BGR.28.1_1
+    admin_name: Bolyarovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.28.2_1_Adm2:
+    GID: BGR.28.2_1
+    admin_name: Elhovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.28.3_1_Adm2:
+    GID: BGR.28.3_1
+    admin_name: Straldzha
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.28.4_1_Adm2:
+    GID: BGR.28.4_1
+    admin_name: Tundzha
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.28.5_1_Adm2:
+    GID: BGR.28.5_1
+    admin_name: Yambol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.3_1_Adm1:
+    GID: BGR.3_1
+    admin_name: Dobrich
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.3.1_1_Adm2:
+    GID: BGR.3.1_1
+    admin_name: Balchik
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.3.2_1_Adm2:
+    GID: BGR.3.2_1
+    admin_name: Dobrich
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.3.3_1_Adm2:
+    GID: BGR.3.3_1
+    admin_name: Dobrich-selska
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.3.4_1_Adm2:
+    GID: BGR.3.4_1
+    admin_name: General Toshevo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.3.5_1_Adm2:
+    GID: BGR.3.5_1
+    admin_name: Kavarna
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.3.6_1_Adm2:
+    GID: BGR.3.6_1
+    admin_name: Krushari
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.3.7_1_Adm2:
+    GID: BGR.3.7_1
+    admin_name: Shabla
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.3.8_1_Adm2:
+    GID: BGR.3.8_1
+    admin_name: Tervel
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.4_1_Adm1:
+    GID: BGR.4_1
+    admin_name: Gabrovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.4.1_1_Adm2:
+    GID: BGR.4.1_1
+    admin_name: Dryanovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.4.2_1_Adm2:
+    GID: BGR.4.2_1
+    admin_name: Gabrovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.4.3_1_Adm2:
+    GID: BGR.4.3_1
+    admin_name: Sevlievo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.4.4_1_Adm2:
+    GID: BGR.4.4_1
+    admin_name: Tryavna
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.5_1_Adm1:
+    GID: BGR.5_1
+    admin_name: Grad Sofiya
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.5.1_1_Adm2:
+    GID: BGR.5.1_1
+    admin_name: Stolichna
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6_1_Adm1:
+    GID: BGR.6_1
+    admin_name: Haskovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.6.1_1_Adm2:
+    GID: BGR.6.1_1
+    admin_name: Dimitrovgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.10_1_Adm2:
+    GID: BGR.6.10_1
+    admin_name: Svilengrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.11_1_Adm2:
+    GID: BGR.6.11_1
+    admin_name: Topolovgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.2_1_Adm2:
+    GID: BGR.6.2_1
+    admin_name: Harmanli
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.3_1_Adm2:
+    GID: BGR.6.3_1
+    admin_name: Haskovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.4_1_Adm2:
+    GID: BGR.6.4_1
+    admin_name: Ivaylovgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.5_1_Adm2:
+    GID: BGR.6.5_1
+    admin_name: Lyubimets
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.6_1_Adm2:
+    GID: BGR.6.6_1
+    admin_name: Madzharovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.7_1_Adm2:
+    GID: BGR.6.7_1
+    admin_name: Mineralni Bani
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.8_1_Adm2:
+    GID: BGR.6.8_1
+    admin_name: Simeonovgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.6.9_1_Adm2:
+    GID: BGR.6.9_1
+    admin_name: Stambolovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.7_1_Adm1:
+    GID: BGR.7_1
+    admin_name: Kardzhali
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.7.1_1_Adm2:
+    GID: BGR.7.1_1
+    admin_name: Ardino
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.7.2_1_Adm2:
+    GID: BGR.7.2_1
+    admin_name: Chernoochene
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.7.3_1_Adm2:
+    GID: BGR.7.3_1
+    admin_name: Dzhebel
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.7.4_1_Adm2:
+    GID: BGR.7.4_1
+    admin_name: Kardzhali
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.7.5_1_Adm2:
+    GID: BGR.7.5_1
+    admin_name: Kirkovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.7.6_1_Adm2:
+    GID: BGR.7.6_1
+    admin_name: Krumovgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.7.7_1_Adm2:
+    GID: BGR.7.7_1
+    admin_name: Momchilgrad
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.7.8_1_Adm2:
+    GID: BGR.7.8_1
+    admin_name: Skalna Glava
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8_1_Adm1:
+    GID: BGR.8_1
+    admin_name: Kyustendil
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.8.1_1_Adm2:
+    GID: BGR.8.1_1
+    admin_name: Boboshevo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8.2_1_Adm2:
+    GID: BGR.8.2_1
+    admin_name: Bobovdol
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8.3_1_Adm2:
+    GID: BGR.8.3_1
+    admin_name: Dupnitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8.4_1_Adm2:
+    GID: BGR.8.4_1
+    admin_name: Kocherinovo
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8.5_1_Adm2:
+    GID: BGR.8.5_1
+    admin_name: Kyustendil
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8.6_1_Adm2:
+    GID: BGR.8.6_1
+    admin_name: Nevestino
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8.7_1_Adm2:
+    GID: BGR.8.7_1
+    admin_name: Rila
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8.8_1_Adm2:
+    GID: BGR.8.8_1
+    admin_name: Sapareva Banya
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.8.9_1_Adm2:
+    GID: BGR.8.9_1
+    admin_name: Treklyano
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.9_1_Adm1:
+    GID: BGR.9_1
+    admin_name: Lovech
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm1
+  BGR.9.1_1_Adm2:
+    GID: BGR.9.1_1
+    admin_name: Apriltsi
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.9.2_1_Adm2:
+    GID: BGR.9.2_1
+    admin_name: Letnitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.9.3_1_Adm2:
+    GID: BGR.9.3_1
+    admin_name: Loukovit
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.9.4_1_Adm2:
+    GID: BGR.9.4_1
+    admin_name: Lovech
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.9.5_1_Adm2:
+    GID: BGR.9.5_1
+    admin_name: Teteven
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.9.6_1_Adm2:
+    GID: BGR.9.6_1
+    admin_name: Troyan
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.9.7_1_Adm2:
+    GID: BGR.9.7_1
+    admin_name: Ugarchin
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2
+  BGR.9.8_1_Adm2:
+    GID: BGR.9.8_1
+    admin_name: Yablanitsa
+    iso3c: BGR
+    country_name: Bulgaria
+    admin_level: Adm2

@@ -1,0 +1,4309 @@
+concepts:
+  IND.0_Adm0:
+    GID: IND
+    admin_name: India
+    iso3c: IND
+    country_name: India
+    admin_level: Adm0
+  IND.1_1_Adm1:
+    GID: IND.1_1
+    admin_name: Andaman and Nicobar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.1.1_1_Adm2:
+    GID: IND.1.1_1
+    admin_name: Nicobar Islands
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.1.2_1_Adm2:
+    GID: IND.1.2_1
+    admin_name: North and Middle Andaman
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.1.3_1_Adm2:
+    GID: IND.1.3_1
+    admin_name: South Andaman
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.10_1_Adm1:
+    GID: IND.10_1
+    admin_name: Goa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.10.1_1_Adm2:
+    GID: IND.10.1_1
+    admin_name: North Goa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.10.2_1_Adm2:
+    GID: IND.10.2_1
+    admin_name: South Goa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11_1_Adm1:
+    GID: IND.11_1
+    admin_name: Gujarat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.11.1_1_Adm2:
+    GID: IND.11.1_1
+    admin_name: Ahmadabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.10_1_Adm2:
+    GID: IND.11.10_1
+    admin_name: Dahod
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.11_1_Adm2:
+    GID: IND.11.11_1
+    admin_name: Devbhumi Dwarka
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.12_1_Adm2:
+    GID: IND.11.12_1
+    admin_name: Gandhinagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.13_1_Adm2:
+    GID: IND.11.13_1
+    admin_name: Gir Somnath
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.14_1_Adm2:
+    GID: IND.11.14_1
+    admin_name: Jamnagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.15_1_Adm2:
+    GID: IND.11.15_1
+    admin_name: Junagadh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.16_1_Adm2:
+    GID: IND.11.16_1
+    admin_name: Kachchh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.17_1_Adm2:
+    GID: IND.11.17_1
+    admin_name: Kheda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.18_1_Adm2:
+    GID: IND.11.18_1
+    admin_name: Mahesana
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.19_1_Adm2:
+    GID: IND.11.19_1
+    admin_name: Mahisagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.2_1_Adm2:
+    GID: IND.11.2_1
+    admin_name: Amreli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.20_1_Adm2:
+    GID: IND.11.20_1
+    admin_name: Morbi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.21_1_Adm2:
+    GID: IND.11.21_1
+    admin_name: Narmada
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.22_1_Adm2:
+    GID: IND.11.22_1
+    admin_name: Navsari
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.23_1_Adm2:
+    GID: IND.11.23_1
+    admin_name: Panch Mahals
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.24_1_Adm2:
+    GID: IND.11.24_1
+    admin_name: Patan
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.25_1_Adm2:
+    GID: IND.11.25_1
+    admin_name: Porbandar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.26_1_Adm2:
+    GID: IND.11.26_1
+    admin_name: Rajkot
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.27_1_Adm2:
+    GID: IND.11.27_1
+    admin_name: Sabar Kantha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.28_1_Adm2:
+    GID: IND.11.28_1
+    admin_name: Surat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.29_1_Adm2:
+    GID: IND.11.29_1
+    admin_name: Surendranagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.3_1_Adm2:
+    GID: IND.11.3_1
+    admin_name: Anand
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.30_1_Adm2:
+    GID: IND.11.30_1
+    admin_name: Tapi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.31_1_Adm2:
+    GID: IND.11.31_1
+    admin_name: The Dangs
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.32_1_Adm2:
+    GID: IND.11.32_1
+    admin_name: Vadodara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.33_1_Adm2:
+    GID: IND.11.33_1
+    admin_name: Valsad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.4_1_Adm2:
+    GID: IND.11.4_1
+    admin_name: Aravalli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.5_1_Adm2:
+    GID: IND.11.5_1
+    admin_name: Banas Kantha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.6_1_Adm2:
+    GID: IND.11.6_1
+    admin_name: Bharuch
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.7_1_Adm2:
+    GID: IND.11.7_1
+    admin_name: Bhavnagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.8_1_Adm2:
+    GID: IND.11.8_1
+    admin_name: Botad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.11.9_1_Adm2:
+    GID: IND.11.9_1
+    admin_name: Chhota Udaipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12_1_Adm1:
+    GID: IND.12_1
+    admin_name: Haryana
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.12.1_1_Adm2:
+    GID: IND.12.1_1
+    admin_name: Ambala
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.10_1_Adm2:
+    GID: IND.12.10_1
+    admin_name: Karnal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.11_1_Adm2:
+    GID: IND.12.11_1
+    admin_name: Kurukshetra
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.12_1_Adm2:
+    GID: IND.12.12_1
+    admin_name: Mahendragarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.13_1_Adm2:
+    GID: IND.12.13_1
+    admin_name: Mewat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.14_1_Adm2:
+    GID: IND.12.14_1
+    admin_name: Palwal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.15_1_Adm2:
+    GID: IND.12.15_1
+    admin_name: Panchkula
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.16_1_Adm2:
+    GID: IND.12.16_1
+    admin_name: Panipat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.17_1_Adm2:
+    GID: IND.12.17_1
+    admin_name: Rewari
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.18_1_Adm2:
+    GID: IND.12.18_1
+    admin_name: Rohtak
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.19_1_Adm2:
+    GID: IND.12.19_1
+    admin_name: Sirsa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.2_1_Adm2:
+    GID: IND.12.2_1
+    admin_name: Bhiwani
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.20_1_Adm2:
+    GID: IND.12.20_1
+    admin_name: Sonipat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.21_1_Adm2:
+    GID: IND.12.21_1
+    admin_name: Yamunanagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.3_1_Adm2:
+    GID: IND.12.3_1
+    admin_name: Faridabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.4_1_Adm2:
+    GID: IND.12.4_1
+    admin_name: Fatehabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.5_1_Adm2:
+    GID: IND.12.5_1
+    admin_name: Gurgaon
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.6_1_Adm2:
+    GID: IND.12.6_1
+    admin_name: Hisar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.7_1_Adm2:
+    GID: IND.12.7_1
+    admin_name: Jhajjar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.8_1_Adm2:
+    GID: IND.12.8_1
+    admin_name: Jind
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.12.9_1_Adm2:
+    GID: IND.12.9_1
+    admin_name: Kaithal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13_1_Adm1:
+    GID: IND.13_1
+    admin_name: Himachal Pradesh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.13.1_1_Adm2:
+    GID: IND.13.1_1
+    admin_name: Bilaspur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.10_1_Adm2:
+    GID: IND.13.10_1
+    admin_name: Sirmaur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.11_1_Adm2:
+    GID: IND.13.11_1
+    admin_name: Solan
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.12_1_Adm2:
+    GID: IND.13.12_1
+    admin_name: Una
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.2_1_Adm2:
+    GID: IND.13.2_1
+    admin_name: Chamba
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.3_1_Adm2:
+    GID: IND.13.3_1
+    admin_name: Hamirpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.4_1_Adm2:
+    GID: IND.13.4_1
+    admin_name: Kangra
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.5_1_Adm2:
+    GID: IND.13.5_1
+    admin_name: Kinnaur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.6_1_Adm2:
+    GID: IND.13.6_1
+    admin_name: Kullu
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.7_1_Adm2:
+    GID: IND.13.7_1
+    admin_name: Lahul & Spiti
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.8_1_Adm2:
+    GID: IND.13.8_1
+    admin_name: Mandi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.13.9_1_Adm2:
+    GID: IND.13.9_1
+    admin_name: Shimla
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15_1_Adm1:
+    GID: IND.15_1
+    admin_name: Jharkhand
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.15.1_1_Adm2:
+    GID: IND.15.1_1
+    admin_name: Bokaro
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.10_1_Adm2:
+    GID: IND.15.10_1
+    admin_name: Hazaribagh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.11_1_Adm2:
+    GID: IND.15.11_1
+    admin_name: Jamtara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.12_1_Adm2:
+    GID: IND.15.12_1
+    admin_name: Khunti
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.13_1_Adm2:
+    GID: IND.15.13_1
+    admin_name: Kodarma
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.14_1_Adm2:
+    GID: IND.15.14_1
+    admin_name: Latehar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.15_1_Adm2:
+    GID: IND.15.15_1
+    admin_name: Lohardaga
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.16_1_Adm2:
+    GID: IND.15.16_1
+    admin_name: Pakur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.17_1_Adm2:
+    GID: IND.15.17_1
+    admin_name: Palamu
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.18_1_Adm2:
+    GID: IND.15.18_1
+    admin_name: Pashchimi Singhbhum
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.19_1_Adm2:
+    GID: IND.15.19_1
+    admin_name: Purbi Singhbhum
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.2_1_Adm2:
+    GID: IND.15.2_1
+    admin_name: Chatra
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.20_1_Adm2:
+    GID: IND.15.20_1
+    admin_name: Ramgarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.21_1_Adm2:
+    GID: IND.15.21_1
+    admin_name: Ranchi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.22_1_Adm2:
+    GID: IND.15.22_1
+    admin_name: Sahibganj
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.23_1_Adm2:
+    GID: IND.15.23_1
+    admin_name: Saraikela-kharsawan
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.24_1_Adm2:
+    GID: IND.15.24_1
+    admin_name: Simdega
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.3_1_Adm2:
+    GID: IND.15.3_1
+    admin_name: Deoghar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.4_1_Adm2:
+    GID: IND.15.4_1
+    admin_name: Dhanbad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.5_1_Adm2:
+    GID: IND.15.5_1
+    admin_name: Dumka
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.6_1_Adm2:
+    GID: IND.15.6_1
+    admin_name: Garhwa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.7_1_Adm2:
+    GID: IND.15.7_1
+    admin_name: Giridih
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.8_1_Adm2:
+    GID: IND.15.8_1
+    admin_name: Godda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.15.9_1_Adm2:
+    GID: IND.15.9_1
+    admin_name: Gumla
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16_1_Adm1:
+    GID: IND.16_1
+    admin_name: Karnataka
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.16.1_1_Adm2:
+    GID: IND.16.1_1
+    admin_name: Bagalkot
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.10_1_Adm2:
+    GID: IND.16.10_1
+    admin_name: Chikmagalur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.11_1_Adm2:
+    GID: IND.16.11_1
+    admin_name: Chitradurga
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.12_1_Adm2:
+    GID: IND.16.12_1
+    admin_name: Dakshina Kannada
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.13_1_Adm2:
+    GID: IND.16.13_1
+    admin_name: Davanagere
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.14_1_Adm2:
+    GID: IND.16.14_1
+    admin_name: Dharwad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.15_1_Adm2:
+    GID: IND.16.15_1
+    admin_name: Gadag
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.16_1_Adm2:
+    GID: IND.16.16_1
+    admin_name: Gulbarga
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.17_1_Adm2:
+    GID: IND.16.17_1
+    admin_name: Hassan
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.18_1_Adm2:
+    GID: IND.16.18_1
+    admin_name: Haveri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.19_1_Adm2:
+    GID: IND.16.19_1
+    admin_name: Kodagu
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.2_1_Adm2:
+    GID: IND.16.2_1
+    admin_name: Bangalore Rural
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.20_1_Adm2:
+    GID: IND.16.20_1
+    admin_name: Kolar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.21_1_Adm2:
+    GID: IND.16.21_1
+    admin_name: Koppal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.22_1_Adm2:
+    GID: IND.16.22_1
+    admin_name: Mandya
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.23_1_Adm2:
+    GID: IND.16.23_1
+    admin_name: Mysore
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.24_1_Adm2:
+    GID: IND.16.24_1
+    admin_name: Raichur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.25_1_Adm2:
+    GID: IND.16.25_1
+    admin_name: Ramanagara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.26_1_Adm2:
+    GID: IND.16.26_1
+    admin_name: Shimoga
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.27_1_Adm2:
+    GID: IND.16.27_1
+    admin_name: Tumkur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.28_1_Adm2:
+    GID: IND.16.28_1
+    admin_name: Udupi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.29_1_Adm2:
+    GID: IND.16.29_1
+    admin_name: Uttara Kannada
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.3_1_Adm2:
+    GID: IND.16.3_1
+    admin_name: Bangalore
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.30_1_Adm2:
+    GID: IND.16.30_1
+    admin_name: Yadgir
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.4_1_Adm2:
+    GID: IND.16.4_1
+    admin_name: Belgaum
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.5_1_Adm2:
+    GID: IND.16.5_1
+    admin_name: Bellary
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.6_1_Adm2:
+    GID: IND.16.6_1
+    admin_name: Bidar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.7_1_Adm2:
+    GID: IND.16.7_1
+    admin_name: Bijapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.8_1_Adm2:
+    GID: IND.16.8_1
+    admin_name: Chamrajnagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.16.9_1_Adm2:
+    GID: IND.16.9_1
+    admin_name: Chikballapura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17_1_Adm1:
+    GID: IND.17_1
+    admin_name: Kerala
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.17.1_1_Adm2:
+    GID: IND.17.1_1
+    admin_name: Alappuzha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.10_1_Adm2:
+    GID: IND.17.10_1
+    admin_name: Palakkad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.11_1_Adm2:
+    GID: IND.17.11_1
+    admin_name: Pathanamthitta
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.12_1_Adm2:
+    GID: IND.17.12_1
+    admin_name: Thiruvananthapuram
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.13_1_Adm2:
+    GID: IND.17.13_1
+    admin_name: Thrissur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.14_1_Adm2:
+    GID: IND.17.14_1
+    admin_name: Wayanad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.2_1_Adm2:
+    GID: IND.17.2_1
+    admin_name: Ernakulam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.3_1_Adm2:
+    GID: IND.17.3_1
+    admin_name: Idukki
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.4_1_Adm2:
+    GID: IND.17.4_1
+    admin_name: Kannur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.5_1_Adm2:
+    GID: IND.17.5_1
+    admin_name: Kasaragod
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.6_1_Adm2:
+    GID: IND.17.6_1
+    admin_name: Kollam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.7_1_Adm2:
+    GID: IND.17.7_1
+    admin_name: Kottayam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.8_1_Adm2:
+    GID: IND.17.8_1
+    admin_name: Kozhikode
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.17.9_1_Adm2:
+    GID: IND.17.9_1
+    admin_name: Malappuram
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.18_1_Adm1:
+    GID: IND.18_1
+    admin_name: Lakshadweep
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.18.1_1_Adm2:
+    GID: IND.18.1_1
+    admin_name: Lakshadweep
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19_1_Adm1:
+    GID: IND.19_1
+    admin_name: Madhya Pradesh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.19.1_1_Adm2:
+    GID: IND.19.1_1
+    admin_name: Agar Malwa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.10_1_Adm2:
+    GID: IND.19.10_1
+    admin_name: Burhanpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.11_1_Adm2:
+    GID: IND.19.11_1
+    admin_name: Chhatarpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.12_1_Adm2:
+    GID: IND.19.12_1
+    admin_name: Chhindwara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.13_1_Adm2:
+    GID: IND.19.13_1
+    admin_name: Damoh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.14_1_Adm2:
+    GID: IND.19.14_1
+    admin_name: Datia
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.15_1_Adm2:
+    GID: IND.19.15_1
+    admin_name: Dewas
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.16_1_Adm2:
+    GID: IND.19.16_1
+    admin_name: Dhar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.17_1_Adm2:
+    GID: IND.19.17_1
+    admin_name: Dindori
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.18_1_Adm2:
+    GID: IND.19.18_1
+    admin_name: East Nimar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.19_1_Adm2:
+    GID: IND.19.19_1
+    admin_name: Guna
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.2_1_Adm2:
+    GID: IND.19.2_1
+    admin_name: Alirajpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.20_1_Adm2:
+    GID: IND.19.20_1
+    admin_name: Gwalior
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.21_1_Adm2:
+    GID: IND.19.21_1
+    admin_name: Harda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.22_1_Adm2:
+    GID: IND.19.22_1
+    admin_name: Hoshangabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.23_1_Adm2:
+    GID: IND.19.23_1
+    admin_name: Indore
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.24_1_Adm2:
+    GID: IND.19.24_1
+    admin_name: Jabalpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.25_1_Adm2:
+    GID: IND.19.25_1
+    admin_name: Jhabua
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.26_1_Adm2:
+    GID: IND.19.26_1
+    admin_name: Katni
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.27_1_Adm2:
+    GID: IND.19.27_1
+    admin_name: Mandla
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.28_1_Adm2:
+    GID: IND.19.28_1
+    admin_name: Mandsaur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.29_1_Adm2:
+    GID: IND.19.29_1
+    admin_name: Morena
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.3_1_Adm2:
+    GID: IND.19.3_1
+    admin_name: Anuppur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.30_1_Adm2:
+    GID: IND.19.30_1
+    admin_name: Narsimhapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.31_1_Adm2:
+    GID: IND.19.31_1
+    admin_name: Neemuch
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.32_1_Adm2:
+    GID: IND.19.32_1
+    admin_name: Panna
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.33_1_Adm2:
+    GID: IND.19.33_1
+    admin_name: Raisen
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.34_1_Adm2:
+    GID: IND.19.34_1
+    admin_name: Rajgarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.35_1_Adm2:
+    GID: IND.19.35_1
+    admin_name: Ratlam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.36_1_Adm2:
+    GID: IND.19.36_1
+    admin_name: Rewa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.37_1_Adm2:
+    GID: IND.19.37_1
+    admin_name: Sagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.38_1_Adm2:
+    GID: IND.19.38_1
+    admin_name: Satna
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.39_1_Adm2:
+    GID: IND.19.39_1
+    admin_name: Sehore
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.4_1_Adm2:
+    GID: IND.19.4_1
+    admin_name: Ashoknagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.40_1_Adm2:
+    GID: IND.19.40_1
+    admin_name: Seoni
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.41_1_Adm2:
+    GID: IND.19.41_1
+    admin_name: Shahdol
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.42_1_Adm2:
+    GID: IND.19.42_1
+    admin_name: Shajapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.43_1_Adm2:
+    GID: IND.19.43_1
+    admin_name: Sheopur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.44_1_Adm2:
+    GID: IND.19.44_1
+    admin_name: Shivpuri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.45_1_Adm2:
+    GID: IND.19.45_1
+    admin_name: Sidhi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.46_1_Adm2:
+    GID: IND.19.46_1
+    admin_name: Singrauli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.47_1_Adm2:
+    GID: IND.19.47_1
+    admin_name: Tikamgarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.48_1_Adm2:
+    GID: IND.19.48_1
+    admin_name: Ujjain
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.49_1_Adm2:
+    GID: IND.19.49_1
+    admin_name: Umaria
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.5_1_Adm2:
+    GID: IND.19.5_1
+    admin_name: Balaghat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.50_1_Adm2:
+    GID: IND.19.50_1
+    admin_name: Vidisha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.51_1_Adm2:
+    GID: IND.19.51_1
+    admin_name: West Nimar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.6_1_Adm2:
+    GID: IND.19.6_1
+    admin_name: Barwani
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.7_1_Adm2:
+    GID: IND.19.7_1
+    admin_name: Betul
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.8_1_Adm2:
+    GID: IND.19.8_1
+    admin_name: Bhind
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.19.9_1_Adm2:
+    GID: IND.19.9_1
+    admin_name: Bhopal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2_1_Adm1:
+    GID: IND.2_1
+    admin_name: Andhra Pradesh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.2.1_1_Adm2:
+    GID: IND.2.1_1
+    admin_name: Anantapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.10_1_Adm2:
+    GID: IND.2.10_1
+    admin_name: Visakhapatnam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.11_1_Adm2:
+    GID: IND.2.11_1
+    admin_name: Vizianagaram
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.12_1_Adm2:
+    GID: IND.2.12_1
+    admin_name: West Godavari
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.13_1_Adm2:
+    GID: IND.2.13_1
+    admin_name: Y.S.R.
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.2_1_Adm2:
+    GID: IND.2.2_1
+    admin_name: Chittoor
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.3_1_Adm2:
+    GID: IND.2.3_1
+    admin_name: East Godavari
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.4_1_Adm2:
+    GID: IND.2.4_1
+    admin_name: Guntur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.5_1_Adm2:
+    GID: IND.2.5_1
+    admin_name: Krishna
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.6_1_Adm2:
+    GID: IND.2.6_1
+    admin_name: Kurnool
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.7_1_Adm2:
+    GID: IND.2.7_1
+    admin_name: Nellore
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.8_1_Adm2:
+    GID: IND.2.8_1
+    admin_name: Prakasam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.2.9_1_Adm2:
+    GID: IND.2.9_1
+    admin_name: Srikakulam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20_1_Adm1:
+    GID: IND.20_1
+    admin_name: Maharashtra
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.20.1_1_Adm2:
+    GID: IND.20.1_1
+    admin_name: Ahmadnagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.10_1_Adm2:
+    GID: IND.20.10_1
+    admin_name: Garhchiroli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.11_1_Adm2:
+    GID: IND.20.11_1
+    admin_name: Gondiya
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.12_1_Adm2:
+    GID: IND.20.12_1
+    admin_name: Hingoli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.13_1_Adm2:
+    GID: IND.20.13_1
+    admin_name: Jalgaon
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.14_1_Adm2:
+    GID: IND.20.14_1
+    admin_name: Jalna
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.15_1_Adm2:
+    GID: IND.20.15_1
+    admin_name: Kolhapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.16_1_Adm2:
+    GID: IND.20.16_1
+    admin_name: Latur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.17_1_Adm2:
+    GID: IND.20.17_1
+    admin_name: Mumbai City
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.18_1_Adm2:
+    GID: IND.20.18_1
+    admin_name: Mumbai Suburban
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.19_1_Adm2:
+    GID: IND.20.19_1
+    admin_name: Nagpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.2_1_Adm2:
+    GID: IND.20.2_1
+    admin_name: Akola
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.20_1_Adm2:
+    GID: IND.20.20_1
+    admin_name: Nanded
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.21_1_Adm2:
+    GID: IND.20.21_1
+    admin_name: Nandurbar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.22_1_Adm2:
+    GID: IND.20.22_1
+    admin_name: Nashik
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.23_1_Adm2:
+    GID: IND.20.23_1
+    admin_name: Osmanabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.24_1_Adm2:
+    GID: IND.20.24_1
+    admin_name: Palghar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.25_1_Adm2:
+    GID: IND.20.25_1
+    admin_name: Parbhani
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.26_1_Adm2:
+    GID: IND.20.26_1
+    admin_name: Pune
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.27_1_Adm2:
+    GID: IND.20.27_1
+    admin_name: Raigarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.28_1_Adm2:
+    GID: IND.20.28_1
+    admin_name: Ratnagiri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.29_1_Adm2:
+    GID: IND.20.29_1
+    admin_name: Sangli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.3_1_Adm2:
+    GID: IND.20.3_1
+    admin_name: Amravati
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.30_1_Adm2:
+    GID: IND.20.30_1
+    admin_name: Satara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.31_1_Adm2:
+    GID: IND.20.31_1
+    admin_name: Sindhudurg
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.32_1_Adm2:
+    GID: IND.20.32_1
+    admin_name: Solapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.33_1_Adm2:
+    GID: IND.20.33_1
+    admin_name: Thane
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.34_1_Adm2:
+    GID: IND.20.34_1
+    admin_name: Wardha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.35_1_Adm2:
+    GID: IND.20.35_1
+    admin_name: Washim
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.36_1_Adm2:
+    GID: IND.20.36_1
+    admin_name: Yavatmal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.4_1_Adm2:
+    GID: IND.20.4_1
+    admin_name: Aurangabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.5_1_Adm2:
+    GID: IND.20.5_1
+    admin_name: Bhandara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.6_1_Adm2:
+    GID: IND.20.6_1
+    admin_name: Bid
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.7_1_Adm2:
+    GID: IND.20.7_1
+    admin_name: Buldana
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.8_1_Adm2:
+    GID: IND.20.8_1
+    admin_name: Chandrapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.20.9_1_Adm2:
+    GID: IND.20.9_1
+    admin_name: Dhule
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21_1_Adm1:
+    GID: IND.21_1
+    admin_name: Manipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.21.1_1_Adm2:
+    GID: IND.21.1_1
+    admin_name: Bishnupur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21.2_1_Adm2:
+    GID: IND.21.2_1
+    admin_name: Chandel
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21.3_1_Adm2:
+    GID: IND.21.3_1
+    admin_name: Churachandpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21.4_1_Adm2:
+    GID: IND.21.4_1
+    admin_name: Imphal East
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21.5_1_Adm2:
+    GID: IND.21.5_1
+    admin_name: Imphal West
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21.6_1_Adm2:
+    GID: IND.21.6_1
+    admin_name: Senapati
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21.7_1_Adm2:
+    GID: IND.21.7_1
+    admin_name: Tamenglong
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21.8_1_Adm2:
+    GID: IND.21.8_1
+    admin_name: Thoubal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.21.9_1_Adm2:
+    GID: IND.21.9_1
+    admin_name: Ukhrul
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22_1_Adm1:
+    GID: IND.22_1
+    admin_name: Meghalaya
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.22.1_1_Adm2:
+    GID: IND.22.1_1
+    admin_name: East Garo Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.10_1_Adm2:
+    GID: IND.22.10_1
+    admin_name: West Khasi Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.2_1_Adm2:
+    GID: IND.22.2_1
+    admin_name: East Khasi Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.3_1_Adm2:
+    GID: IND.22.3_1
+    admin_name: Jaintia Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.4_1_Adm2:
+    GID: IND.22.4_1
+    admin_name: North Garo Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.5_1_Adm2:
+    GID: IND.22.5_1
+    admin_name: Ri Bhoi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.6_1_Adm2:
+    GID: IND.22.6_1
+    admin_name: South Garo Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.7_1_Adm2:
+    GID: IND.22.7_1
+    admin_name: South West Garo Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.8_1_Adm2:
+    GID: IND.22.8_1
+    admin_name: South West Khasi Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.22.9_1_Adm2:
+    GID: IND.22.9_1
+    admin_name: West Garo Hills
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.23_1_Adm1:
+    GID: IND.23_1
+    admin_name: Mizoram
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.23.1_1_Adm2:
+    GID: IND.23.1_1
+    admin_name: Aizawl
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.23.2_1_Adm2:
+    GID: IND.23.2_1
+    admin_name: Champhai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.23.3_1_Adm2:
+    GID: IND.23.3_1
+    admin_name: Kolasib
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.23.4_1_Adm2:
+    GID: IND.23.4_1
+    admin_name: Lawangtlai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.23.5_1_Adm2:
+    GID: IND.23.5_1
+    admin_name: Lunglei
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.23.6_1_Adm2:
+    GID: IND.23.6_1
+    admin_name: Mamit
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.23.7_1_Adm2:
+    GID: IND.23.7_1
+    admin_name: Saiha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.23.8_1_Adm2:
+    GID: IND.23.8_1
+    admin_name: Serchhip
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24_1_Adm1:
+    GID: IND.24_1
+    admin_name: Nagaland
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.24.1_1_Adm2:
+    GID: IND.24.1_1
+    admin_name: Dimapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.10_1_Adm2:
+    GID: IND.24.10_1
+    admin_name: Wokha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.11_1_Adm2:
+    GID: IND.24.11_1
+    admin_name: Zunheboto
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.2_1_Adm2:
+    GID: IND.24.2_1
+    admin_name: Kiphire
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.3_1_Adm2:
+    GID: IND.24.3_1
+    admin_name: Kohima
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.4_1_Adm2:
+    GID: IND.24.4_1
+    admin_name: Longleng
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.5_1_Adm2:
+    GID: IND.24.5_1
+    admin_name: Mokokchung
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.6_1_Adm2:
+    GID: IND.24.6_1
+    admin_name: Mon
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.7_1_Adm2:
+    GID: IND.24.7_1
+    admin_name: Peren
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.8_1_Adm2:
+    GID: IND.24.8_1
+    admin_name: Phek
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.24.9_1_Adm2:
+    GID: IND.24.9_1
+    admin_name: Tuensang
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.25_1_Adm1:
+    GID: IND.25_1
+    admin_name: NCT of Delhi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.25.1_1_Adm2:
+    GID: IND.25.1_1
+    admin_name: West
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26_1_Adm1:
+    GID: IND.26_1
+    admin_name: Odisha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.26.1_1_Adm2:
+    GID: IND.26.1_1
+    admin_name: Anugul
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.10_1_Adm2:
+    GID: IND.26.10_1
+    admin_name: Gajapati
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.11_1_Adm2:
+    GID: IND.26.11_1
+    admin_name: Ganjam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.12_1_Adm2:
+    GID: IND.26.12_1
+    admin_name: Jagatsinghapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.13_1_Adm2:
+    GID: IND.26.13_1
+    admin_name: Jajapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.14_1_Adm2:
+    GID: IND.26.14_1
+    admin_name: Jharsuguda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.15_1_Adm2:
+    GID: IND.26.15_1
+    admin_name: Kalahandi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.16_1_Adm2:
+    GID: IND.26.16_1
+    admin_name: Kandhamal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.17_1_Adm2:
+    GID: IND.26.17_1
+    admin_name: Kendrapara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.18_1_Adm2:
+    GID: IND.26.18_1
+    admin_name: Kendujhar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.19_1_Adm2:
+    GID: IND.26.19_1
+    admin_name: Khordha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.2_1_Adm2:
+    GID: IND.26.2_1
+    admin_name: Balangir
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.20_1_Adm2:
+    GID: IND.26.20_1
+    admin_name: Koraput
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.21_1_Adm2:
+    GID: IND.26.21_1
+    admin_name: Malkangiri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.22_1_Adm2:
+    GID: IND.26.22_1
+    admin_name: Mayurbhanj
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.23_1_Adm2:
+    GID: IND.26.23_1
+    admin_name: Nabarangapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.24_1_Adm2:
+    GID: IND.26.24_1
+    admin_name: Nayagarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.25_1_Adm2:
+    GID: IND.26.25_1
+    admin_name: Nuapada
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.26_1_Adm2:
+    GID: IND.26.26_1
+    admin_name: Puri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.27_1_Adm2:
+    GID: IND.26.27_1
+    admin_name: Rayagada
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.28_1_Adm2:
+    GID: IND.26.28_1
+    admin_name: Sambalpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.29_1_Adm2:
+    GID: IND.26.29_1
+    admin_name: Subarnapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.3_1_Adm2:
+    GID: IND.26.3_1
+    admin_name: Baleshwar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.30_1_Adm2:
+    GID: IND.26.30_1
+    admin_name: Sundargarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.4_1_Adm2:
+    GID: IND.26.4_1
+    admin_name: Bargarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.5_1_Adm2:
+    GID: IND.26.5_1
+    admin_name: Bauda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.6_1_Adm2:
+    GID: IND.26.6_1
+    admin_name: Bhadrak
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.7_1_Adm2:
+    GID: IND.26.7_1
+    admin_name: Cuttack
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.8_1_Adm2:
+    GID: IND.26.8_1
+    admin_name: Debagarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.26.9_1_Adm2:
+    GID: IND.26.9_1
+    admin_name: Dhenkanal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.27_1_Adm1:
+    GID: IND.27_1
+    admin_name: Puducherry
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.27.1_1_Adm2:
+    GID: IND.27.1_1
+    admin_name: Karaikal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.27.2_1_Adm2:
+    GID: IND.27.2_1
+    admin_name: Mahe
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.27.3_1_Adm2:
+    GID: IND.27.3_1
+    admin_name: Puducherry
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.27.4_1_Adm2:
+    GID: IND.27.4_1
+    admin_name: Yanam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28_1_Adm1:
+    GID: IND.28_1
+    admin_name: Punjab
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.28.1_1_Adm2:
+    GID: IND.28.1_1
+    admin_name: Amritsar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.10_1_Adm2:
+    GID: IND.28.10_1
+    admin_name: Jalandhar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.11_1_Adm2:
+    GID: IND.28.11_1
+    admin_name: Kapurthala
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.12_1_Adm2:
+    GID: IND.28.12_1
+    admin_name: Ludhiana
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.13_1_Adm2:
+    GID: IND.28.13_1
+    admin_name: Mansa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.14_1_Adm2:
+    GID: IND.28.14_1
+    admin_name: Moga
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.15_1_Adm2:
+    GID: IND.28.15_1
+    admin_name: Muktsar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.16_1_Adm2:
+    GID: IND.28.16_1
+    admin_name: Pathankot
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.17_1_Adm2:
+    GID: IND.28.17_1
+    admin_name: Patiala
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.18_1_Adm2:
+    GID: IND.28.18_1
+    admin_name: Rupnagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.19_1_Adm2:
+    GID: IND.28.19_1
+    admin_name: Sahibzada Ajit Singh Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.2_1_Adm2:
+    GID: IND.28.2_1
+    admin_name: Barnala
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.20_1_Adm2:
+    GID: IND.28.20_1
+    admin_name: Sangrur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.21_1_Adm2:
+    GID: IND.28.21_1
+    admin_name: Shahid Bhagat Singh Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.22_1_Adm2:
+    GID: IND.28.22_1
+    admin_name: Tarn Taran
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.3_1_Adm2:
+    GID: IND.28.3_1
+    admin_name: Bathinda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.4_1_Adm2:
+    GID: IND.28.4_1
+    admin_name: Faridkot
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.5_1_Adm2:
+    GID: IND.28.5_1
+    admin_name: Fatehgarh Sahib
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.6_1_Adm2:
+    GID: IND.28.6_1
+    admin_name: Fazilka
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.7_1_Adm2:
+    GID: IND.28.7_1
+    admin_name: Firozpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.8_1_Adm2:
+    GID: IND.28.8_1
+    admin_name: Gurdaspur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.28.9_1_Adm2:
+    GID: IND.28.9_1
+    admin_name: Hoshiarpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29_1_Adm1:
+    GID: IND.29_1
+    admin_name: Rajasthan
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.29.1_1_Adm2:
+    GID: IND.29.1_1
+    admin_name: Ajmer
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.10_1_Adm2:
+    GID: IND.29.10_1
+    admin_name: Chittaurgarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.11_1_Adm2:
+    GID: IND.29.11_1
+    admin_name: Churu
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.12_1_Adm2:
+    GID: IND.29.12_1
+    admin_name: Dausa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.13_1_Adm2:
+    GID: IND.29.13_1
+    admin_name: Dhaulpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.14_1_Adm2:
+    GID: IND.29.14_1
+    admin_name: Dungarpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.15_1_Adm2:
+    GID: IND.29.15_1
+    admin_name: Ganganagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.16_1_Adm2:
+    GID: IND.29.16_1
+    admin_name: Hanumangarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.17_1_Adm2:
+    GID: IND.29.17_1
+    admin_name: Jaipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.18_1_Adm2:
+    GID: IND.29.18_1
+    admin_name: Jaisalmer
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.19_1_Adm2:
+    GID: IND.29.19_1
+    admin_name: Jalor
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.2_1_Adm2:
+    GID: IND.29.2_1
+    admin_name: Alwar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.20_1_Adm2:
+    GID: IND.29.20_1
+    admin_name: Jhalawar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.21_1_Adm2:
+    GID: IND.29.21_1
+    admin_name: Jhunjhunun
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.22_1_Adm2:
+    GID: IND.29.22_1
+    admin_name: Jodhpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.23_1_Adm2:
+    GID: IND.29.23_1
+    admin_name: Karauli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.24_1_Adm2:
+    GID: IND.29.24_1
+    admin_name: Kota
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.25_1_Adm2:
+    GID: IND.29.25_1
+    admin_name: Nagaur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.26_1_Adm2:
+    GID: IND.29.26_1
+    admin_name: Pali
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.27_1_Adm2:
+    GID: IND.29.27_1
+    admin_name: Pratapgarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.28_1_Adm2:
+    GID: IND.29.28_1
+    admin_name: Rajsamand
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.29_1_Adm2:
+    GID: IND.29.29_1
+    admin_name: Sawai Madhopur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.3_1_Adm2:
+    GID: IND.29.3_1
+    admin_name: Banswara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.30_1_Adm2:
+    GID: IND.29.30_1
+    admin_name: Sikar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.31_1_Adm2:
+    GID: IND.29.31_1
+    admin_name: Sirohi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.32_1_Adm2:
+    GID: IND.29.32_1
+    admin_name: Tonk
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.33_1_Adm2:
+    GID: IND.29.33_1
+    admin_name: Udaipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.4_1_Adm2:
+    GID: IND.29.4_1
+    admin_name: Baran
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.5_1_Adm2:
+    GID: IND.29.5_1
+    admin_name: Barmer
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.6_1_Adm2:
+    GID: IND.29.6_1
+    admin_name: Bharatpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.7_1_Adm2:
+    GID: IND.29.7_1
+    admin_name: Bhilwara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.8_1_Adm2:
+    GID: IND.29.8_1
+    admin_name: Bikaner
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.29.9_1_Adm2:
+    GID: IND.29.9_1
+    admin_name: Bundi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.3_1_Adm1:
+    GID: IND.3_1
+    admin_name: Arunachal Pradesh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.3.1_1_Adm2:
+    GID: IND.3.1_1
+    admin_name: Anjaw
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.3.11_1_Adm2:
+    GID: IND.3.11_1
+    admin_name: Namsai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.3.14_1_Adm2:
+    GID: IND.3.14_1
+    admin_name: Tirap
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.3.2_1_Adm2:
+    GID: IND.3.2_1
+    admin_name: Changlang
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.3.5_1_Adm2:
+    GID: IND.3.5_1
+    admin_name: East Siang
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.3.7_1_Adm2:
+    GID: IND.3.7_1
+    admin_name: Lohit
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.3.8_1_Adm2:
+    GID: IND.3.8_1
+    admin_name: Longding
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.3.9_1_Adm2:
+    GID: IND.3.9_1
+    admin_name: Lower Dibang Valley
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.30_1_Adm1:
+    GID: IND.30_1
+    admin_name: Sikkim
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.30.1_1_Adm2:
+    GID: IND.30.1_1
+    admin_name: East Sikkim
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.30.2_1_Adm2:
+    GID: IND.30.2_1
+    admin_name: North Sikkim
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.30.3_1_Adm2:
+    GID: IND.30.3_1
+    admin_name: South Sikkim
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.30.4_1_Adm2:
+    GID: IND.30.4_1
+    admin_name: West Sikkim
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31_1_Adm1:
+    GID: IND.31_1
+    admin_name: Tamil Nadu
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.31.1_1_Adm2:
+    GID: IND.31.1_1
+    admin_name: Ariyalur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.10_1_Adm2:
+    GID: IND.31.10_1
+    admin_name: Karur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.11_1_Adm2:
+    GID: IND.31.11_1
+    admin_name: Krishnagiri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.12_1_Adm2:
+    GID: IND.31.12_1
+    admin_name: Madurai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.13_1_Adm2:
+    GID: IND.31.13_1
+    admin_name: Nagappattinam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.14_1_Adm2:
+    GID: IND.31.14_1
+    admin_name: Namakkal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.15_1_Adm2:
+    GID: IND.31.15_1
+    admin_name: Perambalur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.16_1_Adm2:
+    GID: IND.31.16_1
+    admin_name: Pudukkottai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.17_1_Adm2:
+    GID: IND.31.17_1
+    admin_name: Ramanathapuram
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.18_1_Adm2:
+    GID: IND.31.18_1
+    admin_name: Salem
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.19_1_Adm2:
+    GID: IND.31.19_1
+    admin_name: Sivaganga
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.2_1_Adm2:
+    GID: IND.31.2_1
+    admin_name: Chennai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.20_1_Adm2:
+    GID: IND.31.20_1
+    admin_name: Thanjavur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.21_1_Adm2:
+    GID: IND.31.21_1
+    admin_name: The Nilgiris
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.22_1_Adm2:
+    GID: IND.31.22_1
+    admin_name: Theni
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.23_1_Adm2:
+    GID: IND.31.23_1
+    admin_name: Thiruvallur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.24_1_Adm2:
+    GID: IND.31.24_1
+    admin_name: Thiruvarur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.25_1_Adm2:
+    GID: IND.31.25_1
+    admin_name: Thoothukkudi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.26_1_Adm2:
+    GID: IND.31.26_1
+    admin_name: Tiruchirappalli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.27_1_Adm2:
+    GID: IND.31.27_1
+    admin_name: Tirunelveli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.28_1_Adm2:
+    GID: IND.31.28_1
+    admin_name: Tiruppur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.29_1_Adm2:
+    GID: IND.31.29_1
+    admin_name: Tiruvannamalai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.3_1_Adm2:
+    GID: IND.31.3_1
+    admin_name: Coimbatore
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.30_1_Adm2:
+    GID: IND.31.30_1
+    admin_name: Vellore
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.31_1_Adm2:
+    GID: IND.31.31_1
+    admin_name: Viluppuram
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.32_1_Adm2:
+    GID: IND.31.32_1
+    admin_name: Virudunagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.4_1_Adm2:
+    GID: IND.31.4_1
+    admin_name: Cuddalore
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.5_1_Adm2:
+    GID: IND.31.5_1
+    admin_name: Dharmapuri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.6_1_Adm2:
+    GID: IND.31.6_1
+    admin_name: Dindigul
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.7_1_Adm2:
+    GID: IND.31.7_1
+    admin_name: Erode
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.8_1_Adm2:
+    GID: IND.31.8_1
+    admin_name: Kancheepuram
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.31.9_1_Adm2:
+    GID: IND.31.9_1
+    admin_name: Kanniyakumari
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32_1_Adm1:
+    GID: IND.32_1
+    admin_name: Telangana
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.32.1_1_Adm2:
+    GID: IND.32.1_1
+    admin_name: Adilabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.10_1_Adm2:
+    GID: IND.32.10_1
+    admin_name: Warangal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.2_1_Adm2:
+    GID: IND.32.2_1
+    admin_name: Hyderabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.3_1_Adm2:
+    GID: IND.32.3_1
+    admin_name: Karimnagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.4_1_Adm2:
+    GID: IND.32.4_1
+    admin_name: Khammam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.5_1_Adm2:
+    GID: IND.32.5_1
+    admin_name: Mahbubnagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.6_1_Adm2:
+    GID: IND.32.6_1
+    admin_name: Medak
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.7_1_Adm2:
+    GID: IND.32.7_1
+    admin_name: Nalgonda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.8_1_Adm2:
+    GID: IND.32.8_1
+    admin_name: Nizamabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.32.9_1_Adm2:
+    GID: IND.32.9_1
+    admin_name: Ranga Reddy
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.33_1_Adm1:
+    GID: IND.33_1
+    admin_name: Tripura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.33.1_1_Adm2:
+    GID: IND.33.1_1
+    admin_name: Dhalai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.33.2_1_Adm2:
+    GID: IND.33.2_1
+    admin_name: Gomati
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.33.3_1_Adm2:
+    GID: IND.33.3_1
+    admin_name: Khowai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.33.4_1_Adm2:
+    GID: IND.33.4_1
+    admin_name: North Tripura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.33.5_1_Adm2:
+    GID: IND.33.5_1
+    admin_name: Sipahijala
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.33.6_1_Adm2:
+    GID: IND.33.6_1
+    admin_name: South Tripura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.33.7_1_Adm2:
+    GID: IND.33.7_1
+    admin_name: Unokoti
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.33.8_1_Adm2:
+    GID: IND.33.8_1
+    admin_name: West Tripura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34_1_Adm1:
+    GID: IND.34_1
+    admin_name: Uttar Pradesh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.34.1_1_Adm2:
+    GID: IND.34.1_1
+    admin_name: Agra
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.10_1_Adm2:
+    GID: IND.34.10_1
+    admin_name: Bahraich
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.11_1_Adm2:
+    GID: IND.34.11_1
+    admin_name: Ballia
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.12_1_Adm2:
+    GID: IND.34.12_1
+    admin_name: Balrampur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.13_1_Adm2:
+    GID: IND.34.13_1
+    admin_name: Banda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.14_1_Adm2:
+    GID: IND.34.14_1
+    admin_name: Barabanki
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.15_1_Adm2:
+    GID: IND.34.15_1
+    admin_name: Bareilly
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.16_1_Adm2:
+    GID: IND.34.16_1
+    admin_name: Basti
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.17_1_Adm2:
+    GID: IND.34.17_1
+    admin_name: Bijnor
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.18_1_Adm2:
+    GID: IND.34.18_1
+    admin_name: Budaun
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.19_1_Adm2:
+    GID: IND.34.19_1
+    admin_name: Bulandshahr
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.2_1_Adm2:
+    GID: IND.34.2_1
+    admin_name: Aligarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.20_1_Adm2:
+    GID: IND.34.20_1
+    admin_name: Chandauli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.21_1_Adm2:
+    GID: IND.34.21_1
+    admin_name: Chitrakoot
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.22_1_Adm2:
+    GID: IND.34.22_1
+    admin_name: Deoria
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.23_1_Adm2:
+    GID: IND.34.23_1
+    admin_name: Etah
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.24_1_Adm2:
+    GID: IND.34.24_1
+    admin_name: Etawah
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.25_1_Adm2:
+    GID: IND.34.25_1
+    admin_name: Faizabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.26_1_Adm2:
+    GID: IND.34.26_1
+    admin_name: Farrukhabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.27_1_Adm2:
+    GID: IND.34.27_1
+    admin_name: Fatehpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.28_1_Adm2:
+    GID: IND.34.28_1
+    admin_name: Firozabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.29_1_Adm2:
+    GID: IND.34.29_1
+    admin_name: Gautam Buddha Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.3_1_Adm2:
+    GID: IND.34.3_1
+    admin_name: Allahabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.30_1_Adm2:
+    GID: IND.34.30_1
+    admin_name: Ghaziabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.31_1_Adm2:
+    GID: IND.34.31_1
+    admin_name: Ghazipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.32_1_Adm2:
+    GID: IND.34.32_1
+    admin_name: Gonda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.33_1_Adm2:
+    GID: IND.34.33_1
+    admin_name: Gorakhpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.34_1_Adm2:
+    GID: IND.34.34_1
+    admin_name: Hamirpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.35_1_Adm2:
+    GID: IND.34.35_1
+    admin_name: Hapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.36_1_Adm2:
+    GID: IND.34.36_1
+    admin_name: Hardoi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.37_1_Adm2:
+    GID: IND.34.37_1
+    admin_name: Hathras
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.38_1_Adm2:
+    GID: IND.34.38_1
+    admin_name: Jalaun
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.39_1_Adm2:
+    GID: IND.34.39_1
+    admin_name: Jaunpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.4_1_Adm2:
+    GID: IND.34.4_1
+    admin_name: Ambedkar Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.40_1_Adm2:
+    GID: IND.34.40_1
+    admin_name: Jhansi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.41_1_Adm2:
+    GID: IND.34.41_1
+    admin_name: Kannauj
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.42_1_Adm2:
+    GID: IND.34.42_1
+    admin_name: Kanpur Dehat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.43_1_Adm2:
+    GID: IND.34.43_1
+    admin_name: Kanpur Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.44_1_Adm2:
+    GID: IND.34.44_1
+    admin_name: Kasganj
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.45_1_Adm2:
+    GID: IND.34.45_1
+    admin_name: Kaushambi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.46_1_Adm2:
+    GID: IND.34.46_1
+    admin_name: Kushinagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.47_1_Adm2:
+    GID: IND.34.47_1
+    admin_name: Lakhimpur Kheri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.48_1_Adm2:
+    GID: IND.34.48_1
+    admin_name: Lalitpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.49_1_Adm2:
+    GID: IND.34.49_1
+    admin_name: Lucknow
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.5_1_Adm2:
+    GID: IND.34.5_1
+    admin_name: Amethi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.50_1_Adm2:
+    GID: IND.34.50_1
+    admin_name: Maharajganj
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.51_1_Adm2:
+    GID: IND.34.51_1
+    admin_name: Mahoba
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.52_1_Adm2:
+    GID: IND.34.52_1
+    admin_name: Mainpuri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.53_1_Adm2:
+    GID: IND.34.53_1
+    admin_name: Mathura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.54_1_Adm2:
+    GID: IND.34.54_1
+    admin_name: Mau
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.55_1_Adm2:
+    GID: IND.34.55_1
+    admin_name: Meerut
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.56_1_Adm2:
+    GID: IND.34.56_1
+    admin_name: Mirzapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.57_1_Adm2:
+    GID: IND.34.57_1
+    admin_name: Moradabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.58_1_Adm2:
+    GID: IND.34.58_1
+    admin_name: Muzaffarnagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.59_1_Adm2:
+    GID: IND.34.59_1
+    admin_name: Pilibhit
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.6_1_Adm2:
+    GID: IND.34.6_1
+    admin_name: Amroha
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.60_1_Adm2:
+    GID: IND.34.60_1
+    admin_name: Pratapgarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.61_1_Adm2:
+    GID: IND.34.61_1
+    admin_name: Rae Bareli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.62_1_Adm2:
+    GID: IND.34.62_1
+    admin_name: Rampur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.63_1_Adm2:
+    GID: IND.34.63_1
+    admin_name: Saharanpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.64_1_Adm2:
+    GID: IND.34.64_1
+    admin_name: Sambhal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.65_1_Adm2:
+    GID: IND.34.65_1
+    admin_name: Sant Kabir Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.66_1_Adm2:
+    GID: IND.34.66_1
+    admin_name: Sant Ravi Das Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.67_1_Adm2:
+    GID: IND.34.67_1
+    admin_name: Shahjahanpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.68_1_Adm2:
+    GID: IND.34.68_1
+    admin_name: Shamli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.69_1_Adm2:
+    GID: IND.34.69_1
+    admin_name: Shravasti
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.7_1_Adm2:
+    GID: IND.34.7_1
+    admin_name: Auraiya
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.70_1_Adm2:
+    GID: IND.34.70_1
+    admin_name: Siddharth Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.71_1_Adm2:
+    GID: IND.34.71_1
+    admin_name: Sitapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.72_1_Adm2:
+    GID: IND.34.72_1
+    admin_name: Sonbhadra
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.73_1_Adm2:
+    GID: IND.34.73_1
+    admin_name: Sultanpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.74_1_Adm2:
+    GID: IND.34.74_1
+    admin_name: Unnao
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.75_1_Adm2:
+    GID: IND.34.75_1
+    admin_name: Varanasi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.8_1_Adm2:
+    GID: IND.34.8_1
+    admin_name: Azamgarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.34.9_1_Adm2:
+    GID: IND.34.9_1
+    admin_name: Baghpat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35_1_Adm1:
+    GID: IND.35_1
+    admin_name: Uttarakhand
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.35.1_1_Adm2:
+    GID: IND.35.1_1
+    admin_name: Almora
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.10_1_Adm2:
+    GID: IND.35.10_1
+    admin_name: Rudraprayag
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.11_1_Adm2:
+    GID: IND.35.11_1
+    admin_name: Tehri Garhwal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.12_1_Adm2:
+    GID: IND.35.12_1
+    admin_name: Udham Singh Nagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.13_1_Adm2:
+    GID: IND.35.13_1
+    admin_name: Uttarkashi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.2_1_Adm2:
+    GID: IND.35.2_1
+    admin_name: Bageshwar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.3_1_Adm2:
+    GID: IND.35.3_1
+    admin_name: Chamoli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.4_1_Adm2:
+    GID: IND.35.4_1
+    admin_name: Champawat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.5_1_Adm2:
+    GID: IND.35.5_1
+    admin_name: Dehradun
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.6_1_Adm2:
+    GID: IND.35.6_1
+    admin_name: Garhwal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.7_1_Adm2:
+    GID: IND.35.7_1
+    admin_name: Hardwar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.8_1_Adm2:
+    GID: IND.35.8_1
+    admin_name: Nainital
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.35.9_1_Adm2:
+    GID: IND.35.9_1
+    admin_name: Pithoragarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36_1_Adm1:
+    GID: IND.36_1
+    admin_name: West Bengal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.36.1_1_Adm2:
+    GID: IND.36.1_1
+    admin_name: Alipurduar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.10_1_Adm2:
+    GID: IND.36.10_1
+    admin_name: Koch Bihar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.11_1_Adm2:
+    GID: IND.36.11_1
+    admin_name: Kolkata
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.12_1_Adm2:
+    GID: IND.36.12_1
+    admin_name: Maldah
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.13_1_Adm2:
+    GID: IND.36.13_1
+    admin_name: Murshidabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.14_1_Adm2:
+    GID: IND.36.14_1
+    admin_name: Nadia
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.15_1_Adm2:
+    GID: IND.36.15_1
+    admin_name: North 24 Parganas
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.16_1_Adm2:
+    GID: IND.36.16_1
+    admin_name: Pashchim Medinipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.17_1_Adm2:
+    GID: IND.36.17_1
+    admin_name: Purba Medinipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.18_1_Adm2:
+    GID: IND.36.18_1
+    admin_name: Puruliya
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.19_1_Adm2:
+    GID: IND.36.19_1
+    admin_name: South 24 Parganas
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.2_1_Adm2:
+    GID: IND.36.2_1
+    admin_name: Bankura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.20_1_Adm2:
+    GID: IND.36.20_1
+    admin_name: Uttar Dinajpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.3_1_Adm2:
+    GID: IND.36.3_1
+    admin_name: Barddhaman
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.4_1_Adm2:
+    GID: IND.36.4_1
+    admin_name: Birbhum
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.5_1_Adm2:
+    GID: IND.36.5_1
+    admin_name: Dakshin Dinajpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.6_1_Adm2:
+    GID: IND.36.6_1
+    admin_name: Darjiling
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.7_1_Adm2:
+    GID: IND.36.7_1
+    admin_name: Haora
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.8_1_Adm2:
+    GID: IND.36.8_1
+    admin_name: Hugli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.36.9_1_Adm2:
+    GID: IND.36.9_1
+    admin_name: Jalpaiguri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4_1_Adm1:
+    GID: IND.4_1
+    admin_name: Assam
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.4.1_1_Adm2:
+    GID: IND.4.1_1
+    admin_name: Baksa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.10_1_Adm2:
+    GID: IND.4.10_1
+    admin_name: Dima Hasao
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.11_1_Adm2:
+    GID: IND.4.11_1
+    admin_name: Goalpara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.12_1_Adm2:
+    GID: IND.4.12_1
+    admin_name: Golaghat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.13_1_Adm2:
+    GID: IND.4.13_1
+    admin_name: Hailakandi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.14_1_Adm2:
+    GID: IND.4.14_1
+    admin_name: Jorhat
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.15_1_Adm2:
+    GID: IND.4.15_1
+    admin_name: Kamrup Metropolitan
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.16_1_Adm2:
+    GID: IND.4.16_1
+    admin_name: Kamrup
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.17_1_Adm2:
+    GID: IND.4.17_1
+    admin_name: Karbi Anglong
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.18_1_Adm2:
+    GID: IND.4.18_1
+    admin_name: Karimganj
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.19_1_Adm2:
+    GID: IND.4.19_1
+    admin_name: Kokrajhar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.2_1_Adm2:
+    GID: IND.4.2_1
+    admin_name: Barpeta
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.20_1_Adm2:
+    GID: IND.4.20_1
+    admin_name: Lakhimpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.21_1_Adm2:
+    GID: IND.4.21_1
+    admin_name: Morigaon
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.22_1_Adm2:
+    GID: IND.4.22_1
+    admin_name: Nagaon
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.23_1_Adm2:
+    GID: IND.4.23_1
+    admin_name: Nalbari
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.24_1_Adm2:
+    GID: IND.4.24_1
+    admin_name: Sivasagar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.25_1_Adm2:
+    GID: IND.4.25_1
+    admin_name: Sonitpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.26_1_Adm2:
+    GID: IND.4.26_1
+    admin_name: Tinsukia
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.27_1_Adm2:
+    GID: IND.4.27_1
+    admin_name: Udalguri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.3_1_Adm2:
+    GID: IND.4.3_1
+    admin_name: Bongaigaon
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.4_1_Adm2:
+    GID: IND.4.4_1
+    admin_name: Cachar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.5_1_Adm2:
+    GID: IND.4.5_1
+    admin_name: Chirang
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.6_1_Adm2:
+    GID: IND.4.6_1
+    admin_name: Darrang
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.7_1_Adm2:
+    GID: IND.4.7_1
+    admin_name: Dhemaji
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.8_1_Adm2:
+    GID: IND.4.8_1
+    admin_name: Dhubri
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.4.9_1_Adm2:
+    GID: IND.4.9_1
+    admin_name: Dibrugarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5_1_Adm1:
+    GID: IND.5_1
+    admin_name: Bihar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.5.1_1_Adm2:
+    GID: IND.5.1_1
+    admin_name: Araria
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.10_1_Adm2:
+    GID: IND.5.10_1
+    admin_name: Gaya
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.11_1_Adm2:
+    GID: IND.5.11_1
+    admin_name: Gopalganj
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.12_1_Adm2:
+    GID: IND.5.12_1
+    admin_name: Jamui
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.13_1_Adm2:
+    GID: IND.5.13_1
+    admin_name: Jehanabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.14_1_Adm2:
+    GID: IND.5.14_1
+    admin_name: Kaimur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.15_1_Adm2:
+    GID: IND.5.15_1
+    admin_name: Katihar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.16_1_Adm2:
+    GID: IND.5.16_1
+    admin_name: Khagaria
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.17_1_Adm2:
+    GID: IND.5.17_1
+    admin_name: Kishanganj
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.18_1_Adm2:
+    GID: IND.5.18_1
+    admin_name: Lakhisarai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.19_1_Adm2:
+    GID: IND.5.19_1
+    admin_name: Madhepura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.2_1_Adm2:
+    GID: IND.5.2_1
+    admin_name: Arwal
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.20_1_Adm2:
+    GID: IND.5.20_1
+    admin_name: Madhubani
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.21_1_Adm2:
+    GID: IND.5.21_1
+    admin_name: Munger
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.22_1_Adm2:
+    GID: IND.5.22_1
+    admin_name: Muzaffarpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.23_1_Adm2:
+    GID: IND.5.23_1
+    admin_name: Nalanda
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.24_1_Adm2:
+    GID: IND.5.24_1
+    admin_name: Nawada
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.25_1_Adm2:
+    GID: IND.5.25_1
+    admin_name: Pashchim Champaran
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.26_1_Adm2:
+    GID: IND.5.26_1
+    admin_name: Patna
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.27_1_Adm2:
+    GID: IND.5.27_1
+    admin_name: Purba Champaran
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.28_1_Adm2:
+    GID: IND.5.28_1
+    admin_name: Purnia
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.29_1_Adm2:
+    GID: IND.5.29_1
+    admin_name: Rohtas
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.3_1_Adm2:
+    GID: IND.5.3_1
+    admin_name: Aurangabad
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.30_1_Adm2:
+    GID: IND.5.30_1
+    admin_name: Saharsa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.31_1_Adm2:
+    GID: IND.5.31_1
+    admin_name: Samastipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.32_1_Adm2:
+    GID: IND.5.32_1
+    admin_name: Saran
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.33_1_Adm2:
+    GID: IND.5.33_1
+    admin_name: Sheikhpura
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.34_1_Adm2:
+    GID: IND.5.34_1
+    admin_name: Sheohar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.35_1_Adm2:
+    GID: IND.5.35_1
+    admin_name: Sitamarhi
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.36_1_Adm2:
+    GID: IND.5.36_1
+    admin_name: Siwan
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.37_1_Adm2:
+    GID: IND.5.37_1
+    admin_name: Supaul
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.38_1_Adm2:
+    GID: IND.5.38_1
+    admin_name: Vaishali
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.4_1_Adm2:
+    GID: IND.5.4_1
+    admin_name: Banka
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.5_1_Adm2:
+    GID: IND.5.5_1
+    admin_name: Begusarai
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.6_1_Adm2:
+    GID: IND.5.6_1
+    admin_name: Bhagalpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.7_1_Adm2:
+    GID: IND.5.7_1
+    admin_name: Bhojpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.8_1_Adm2:
+    GID: IND.5.8_1
+    admin_name: Buxar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.5.9_1_Adm2:
+    GID: IND.5.9_1
+    admin_name: Darbhanga
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.6_1_Adm1:
+    GID: IND.6_1
+    admin_name: Chandigarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.6.1_1_Adm2:
+    GID: IND.6.1_1
+    admin_name: Chandigarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7_1_Adm1:
+    GID: IND.7_1
+    admin_name: Chhattisgarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.7.1_1_Adm2:
+    GID: IND.7.1_1
+    admin_name: Baloda Bazar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.10_1_Adm2:
+    GID: IND.7.10_1
+    admin_name: Durg
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.11_1_Adm2:
+    GID: IND.7.11_1
+    admin_name: Gariaband
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.12_1_Adm2:
+    GID: IND.7.12_1
+    admin_name: Janjgir-Champa
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.13_1_Adm2:
+    GID: IND.7.13_1
+    admin_name: Jashpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.14_1_Adm2:
+    GID: IND.7.14_1
+    admin_name: Kabeerdham
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.15_1_Adm2:
+    GID: IND.7.15_1
+    admin_name: Kondagaon
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.16_1_Adm2:
+    GID: IND.7.16_1
+    admin_name: Korba
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.17_1_Adm2:
+    GID: IND.7.17_1
+    admin_name: Koriya
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.18_1_Adm2:
+    GID: IND.7.18_1
+    admin_name: Mahasamund
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.19_1_Adm2:
+    GID: IND.7.19_1
+    admin_name: Mungeli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.2_1_Adm2:
+    GID: IND.7.2_1
+    admin_name: Balod
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.20_1_Adm2:
+    GID: IND.7.20_1
+    admin_name: Narayanpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.21_1_Adm2:
+    GID: IND.7.21_1
+    admin_name: Raigarh
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.22_1_Adm2:
+    GID: IND.7.22_1
+    admin_name: Raipur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.23_1_Adm2:
+    GID: IND.7.23_1
+    admin_name: Rajnandgaon
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.24_1_Adm2:
+    GID: IND.7.24_1
+    admin_name: Sukma
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.25_1_Adm2:
+    GID: IND.7.25_1
+    admin_name: Surajpur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.26_1_Adm2:
+    GID: IND.7.26_1
+    admin_name: Surguja
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.27_1_Adm2:
+    GID: IND.7.27_1
+    admin_name: Uttar Bastar Kanker
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.3_1_Adm2:
+    GID: IND.7.3_1
+    admin_name: Balrampur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.4_1_Adm2:
+    GID: IND.7.4_1
+    admin_name: Bastar
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.5_1_Adm2:
+    GID: IND.7.5_1
+    admin_name: Bemetara
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.6_1_Adm2:
+    GID: IND.7.6_1
+    admin_name: Bijapur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.7_1_Adm2:
+    GID: IND.7.7_1
+    admin_name: Bilaspur
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.8_1_Adm2:
+    GID: IND.7.8_1
+    admin_name: Dantewada
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.7.9_1_Adm2:
+    GID: IND.7.9_1
+    admin_name: Dhamtari
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.8_1_Adm1:
+    GID: IND.8_1
+    admin_name: Dadra and Nagar Haveli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.8.1_1_Adm2:
+    GID: IND.8.1_1
+    admin_name: Dadra and Nagar Haveli
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.9_1_Adm1:
+    GID: IND.9_1
+    admin_name: Daman and Diu
+    iso3c: IND
+    country_name: India
+    admin_level: Adm1
+  IND.9.1_1_Adm2:
+    GID: IND.9.1_1
+    admin_name: Daman
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  IND.9.2_1_Adm2:
+    GID: IND.9.2_1
+    admin_name: Diu
+    iso3c: IND
+    country_name: India
+    admin_level: Adm2
+  Z01.14_1_Adm1:
+    GID: Z01.14_1
+    admin_name: Jammu and Kashmir
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm1
+  Z01.14.1_1_Adm2:
+    GID: Z01.14.1_1
+    admin_name: Anantnag
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.10_1_Adm2:
+    GID: Z01.14.10_1
+    admin_name: Kishtwar
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.11_1_Adm2:
+    GID: Z01.14.11_1
+    admin_name: Kulgam
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.12_1_Adm2:
+    GID: Z01.14.12_1
+    admin_name: Kupwara
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.13_1_Adm2:
+    GID: Z01.14.13_1
+    admin_name: Leh (Ladakh)
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.14_1_Adm2:
+    GID: Z01.14.14_1
+    admin_name: Poonch
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.15_1_Adm2:
+    GID: Z01.14.15_1
+    admin_name: Pulwama
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.16_1_Adm2:
+    GID: Z01.14.16_1
+    admin_name: Rajouri
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.17_1_Adm2:
+    GID: Z01.14.17_1
+    admin_name: Ramban
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.18_1_Adm2:
+    GID: Z01.14.18_1
+    admin_name: Reasi
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.19_1_Adm2:
+    GID: Z01.14.19_1
+    admin_name: Samba
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.2_1_Adm2:
+    GID: Z01.14.2_1
+    admin_name: Badgam
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.20_1_Adm2:
+    GID: Z01.14.20_1
+    admin_name: Shupiyan
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.21_1_Adm2:
+    GID: Z01.14.21_1
+    admin_name: Srinagar
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.22_1_Adm2:
+    GID: Z01.14.22_1
+    admin_name: Udhampur
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.3_1_Adm2:
+    GID: Z01.14.3_1
+    admin_name: Bandipore
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.4_1_Adm2:
+    GID: Z01.14.4_1
+    admin_name: Baramulla
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.5_1_Adm2:
+    GID: Z01.14.5_1
+    admin_name: Doda
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.6_1_Adm2:
+    GID: Z01.14.6_1
+    admin_name: Ganderbal
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.7_1_Adm2:
+    GID: Z01.14.7_1
+    admin_name: Jammu
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.8_1_Adm2:
+    GID: Z01.14.8_1
+    admin_name: Kargil
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z01.14.9_1_Adm2:
+    GID: Z01.14.9_1
+    admin_name: Kathua
+    iso3c: Z01
+    country_name: India
+    admin_level: Adm2
+  Z04.13_1_Adm1:
+    GID: Z04.13_1
+    admin_name: Himachal Pradesh
+    iso3c: Z04
+    country_name: India
+    admin_level: Adm1
+  Z04.13.5_1_Adm2:
+    GID: Z04.13.5_1
+    admin_name: Kinnaur
+    iso3c: Z04
+    country_name: India
+    admin_level: Adm2
+  Z04.13.7_1_Adm2:
+    GID: Z04.13.7_1
+    admin_name: Lahul & Spiti
+    iso3c: Z04
+    country_name: India
+    admin_level: Adm2
+  Z05.35_1_Adm1:
+    GID: Z05.35_1
+    admin_name: Uttarakhand
+    iso3c: Z05
+    country_name: India
+    admin_level: Adm1
+  Z05.35.3_1_Adm2:
+    GID: Z05.35.3_1
+    admin_name: Chamoli
+    iso3c: Z05
+    country_name: India
+    admin_level: Adm2
+  Z05.35.9_1_Adm2:
+    GID: Z05.35.9_1
+    admin_name: Pithoragarh
+    iso3c: Z05
+    country_name: India
+    admin_level: Adm2
+  Z07.3_1_Adm1:
+    GID: Z07.3_1
+    admin_name: Arunachal Pradesh
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm1
+  Z07.3.1_1_Adm2:
+    GID: Z07.3.1_1
+    admin_name: Anjaw
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.10_1_Adm2:
+    GID: Z07.3.10_1
+    admin_name: Lower Subansiri
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.12_1_Adm2:
+    GID: Z07.3.12_1
+    admin_name: Papum Pare
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.13_1_Adm2:
+    GID: Z07.3.13_1
+    admin_name: Tawang
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.15_1_Adm2:
+    GID: Z07.3.15_1
+    admin_name: Upper Siang
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.16_1_Adm2:
+    GID: Z07.3.16_1
+    admin_name: Upper Subansiri
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.17_1_Adm2:
+    GID: Z07.3.17_1
+    admin_name: West Kameng
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.18_1_Adm2:
+    GID: Z07.3.18_1
+    admin_name: West Siang
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.3_1_Adm2:
+    GID: Z07.3.3_1
+    admin_name: Dibang Valley
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.4_1_Adm2:
+    GID: Z07.3.4_1
+    admin_name: East Kameng
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.5_1_Adm2:
+    GID: Z07.3.5_1
+    admin_name: East Siang
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.6_1_Adm2:
+    GID: Z07.3.6_1
+    admin_name: Kurung Kumey
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.7_1_Adm2:
+    GID: Z07.3.7_1
+    admin_name: Lohit
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z07.3.9_1_Adm2:
+    GID: Z07.3.9_1
+    admin_name: Lower Dibang Valley
+    iso3c: Z07
+    country_name: India
+    admin_level: Adm2
+  Z09.13_1_Adm1:
+    GID: Z09.13_1
+    admin_name: Himachal Pradesh
+    iso3c: Z09
+    country_name: India
+    admin_level: Adm1
+  Z09.13.5_1_Adm2:
+    GID: Z09.13.5_1
+    admin_name: Kinnaur
+    iso3c: Z09
+    country_name: India
+    admin_level: Adm2
+  Z09.35_1_Adm1:
+    GID: Z09.35_1
+    admin_name: Uttarakhand
+    iso3c: Z09
+    country_name: India
+    admin_level: Adm1
+  Z09.35.13_1_Adm2:
+    GID: Z09.35.13_1
+    admin_name: Uttarkashi
+    iso3c: Z09
+    country_name: India
+    admin_level: Adm2

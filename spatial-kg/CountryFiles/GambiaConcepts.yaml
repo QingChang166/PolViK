@@ -1,0 +1,265 @@
+concepts:
+  GMB.0_Adm0:
+    GID: GMB
+    admin_name: Gambia
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm0
+  GMB.1_1_Adm1:
+    GID: GMB.1_1
+    admin_name: Banjul
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm1
+  GMB.1.1_1_Adm2:
+    GID: GMB.1.1_1
+    admin_name: Banjul
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.1.2_1_Adm2:
+    GID: GMB.1.2_1
+    admin_name: Kanifing
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.2_1_Adm1:
+    GID: GMB.2_1
+    admin_name: Lower River
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm1
+  GMB.2.1_1_Adm2:
+    GID: GMB.2.1_1
+    admin_name: Jarra Central
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.2.2_1_Adm2:
+    GID: GMB.2.2_1
+    admin_name: Jarra East
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.2.3_1_Adm2:
+    GID: GMB.2.3_1
+    admin_name: Jarra West
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.2.4_1_Adm2:
+    GID: GMB.2.4_1
+    admin_name: Kiang Central
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.2.5_1_Adm2:
+    GID: GMB.2.5_1
+    admin_name: Kiang East
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.2.6_1_Adm2:
+    GID: GMB.2.6_1
+    admin_name: Kiang West
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3_1_Adm1:
+    GID: GMB.3_1
+    admin_name: Maccarthy Island
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm1
+  GMB.3.1_1_Adm2:
+    GID: GMB.3.1_1
+    admin_name: Fulladu West
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.10_1_Adm2:
+    GID: GMB.3.10_1
+    admin_name: Upper Saloum
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.2_1_Adm2:
+    GID: GMB.3.2_1
+    admin_name: Janjanbureh
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.3_1_Adm2:
+    GID: GMB.3.3_1
+    admin_name: Lower Saloum
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.4_1_Adm2:
+    GID: GMB.3.4_1
+    admin_name: Niamina Dankunku
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.5_1_Adm2:
+    GID: GMB.3.5_1
+    admin_name: Niamina East
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.6_1_Adm2:
+    GID: GMB.3.6_1
+    admin_name: Niamina West
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.7_1_Adm2:
+    GID: GMB.3.7_1
+    admin_name: Niani
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.8_1_Adm2:
+    GID: GMB.3.8_1
+    admin_name: Nianija
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.3.9_1_Adm2:
+    GID: GMB.3.9_1
+    admin_name: Sami
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.4_1_Adm1:
+    GID: GMB.4_1
+    admin_name: North Bank
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm1
+  GMB.4.1_1_Adm2:
+    GID: GMB.4.1_1
+    admin_name: Central Baddibu
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.4.2_1_Adm2:
+    GID: GMB.4.2_1
+    admin_name: Jokadu
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.4.3_1_Adm2:
+    GID: GMB.4.3_1
+    admin_name: Lower Baddibu
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.4.4_1_Adm2:
+    GID: GMB.4.4_1
+    admin_name: Lower Nuimi
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.4.5_1_Adm2:
+    GID: GMB.4.5_1
+    admin_name: Upper Baddibu
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.4.6_1_Adm2:
+    GID: GMB.4.6_1
+    admin_name: Upper Nuimi
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.5_1_Adm1:
+    GID: GMB.5_1
+    admin_name: Upper River
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm1
+  GMB.5.1_1_Adm2:
+    GID: GMB.5.1_1
+    admin_name: Fulladu East
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.5.2_1_Adm2:
+    GID: GMB.5.2_1
+    admin_name: Kantora
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.5.3_1_Adm2:
+    GID: GMB.5.3_1
+    admin_name: Sandu
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.5.4_1_Adm2:
+    GID: GMB.5.4_1
+    admin_name: Wuli
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6_1_Adm1:
+    GID: GMB.6_1
+    admin_name: Western
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm1
+  GMB.6.1_1_Adm2:
+    GID: GMB.6.1_1
+    admin_name: Foni Bintang Karanai
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6.2_1_Adm2:
+    GID: GMB.6.2_1
+    admin_name: Foni Bondali
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6.3_1_Adm2:
+    GID: GMB.6.3_1
+    admin_name: Foni Brefet
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6.4_1_Adm2:
+    GID: GMB.6.4_1
+    admin_name: Foni Jarrol
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6.5_1_Adm2:
+    GID: GMB.6.5_1
+    admin_name: Foni Kansala
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6.6_1_Adm2:
+    GID: GMB.6.6_1
+    admin_name: Kombo Central
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6.7_1_Adm2:
+    GID: GMB.6.7_1
+    admin_name: Kombo East
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6.8_1_Adm2:
+    GID: GMB.6.8_1
+    admin_name: Kombo Saint Mary
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2
+  GMB.6.9_1_Adm2:
+    GID: GMB.6.9_1
+    admin_name: Kombo South
+    iso3c: GMB
+    country_name: Gambia
+    admin_level: Adm2

@@ -1,0 +1,625 @@
+concepts:
+  AUT.0_Adm0:
+    GID: AUT
+    admin_name: Austria
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm0
+  AUT.1_1_Adm1:
+    GID: AUT.1_1
+    admin_name: Burgenland
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.1.1_2_Adm2:
+    GID: AUT.1.1_2
+    admin_name: Eisenstadt-Umgebung
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.1.2_2_Adm2:
+    GID: AUT.1.2_2
+    admin_name: Eisenstadt Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.1.3_2_Adm2:
+    GID: AUT.1.3_2
+    admin_name: Güssing
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.1.4_2_Adm2:
+    GID: AUT.1.4_2
+    admin_name: Jennersdorf
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.1.5_2_Adm2:
+    GID: AUT.1.5_2
+    admin_name: Mattersburg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.1.6_2_Adm2:
+    GID: AUT.1.6_2
+    admin_name: Neusiedl am See
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.1.7_2_Adm2:
+    GID: AUT.1.7_2
+    admin_name: Oberpullendorf
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.1.8_2_Adm2:
+    GID: AUT.1.8_2
+    admin_name: Oberwart
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.1.9_2_Adm2:
+    GID: AUT.1.9_2
+    admin_name: Rust Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2_1_Adm1:
+    GID: AUT.2_1
+    admin_name: Kärnten
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.2.1_2_Adm2:
+    GID: AUT.2.1_2
+    admin_name: Feldkirchen
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.10_2_Adm2:
+    GID: AUT.2.10_2
+    admin_name: Wolfsberg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.2_2_Adm2:
+    GID: AUT.2.2_2
+    admin_name: Hermagor
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.3_2_Adm2:
+    GID: AUT.2.3_2
+    admin_name: Klagenfurt Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.4_2_Adm2:
+    GID: AUT.2.4_2
+    admin_name: Klagenfurt Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.5_2_Adm2:
+    GID: AUT.2.5_2
+    admin_name: Sankt Veit an der Glan
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.6_2_Adm2:
+    GID: AUT.2.6_2
+    admin_name: Spittal an der Drau
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.7_2_Adm2:
+    GID: AUT.2.7_2
+    admin_name: Villach Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.8_2_Adm2:
+    GID: AUT.2.8_2
+    admin_name: Villach Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.2.9_2_Adm2:
+    GID: AUT.2.9_2
+    admin_name: Völkermarkt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3_1_Adm1:
+    GID: AUT.3_1
+    admin_name: Niederösterreich
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.3.1_2_Adm2:
+    GID: AUT.3.1_2
+    admin_name: Amstetten
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.10_2_Adm2:
+    GID: AUT.3.10_2
+    admin_name: Krems Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.11_2_Adm2:
+    GID: AUT.3.11_2
+    admin_name: Lilienfeld
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.12_2_Adm2:
+    GID: AUT.3.12_2
+    admin_name: Melk
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.13_2_Adm2:
+    GID: AUT.3.13_2
+    admin_name: Mistelbach
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.14_2_Adm2:
+    GID: AUT.3.14_2
+    admin_name: Mödling
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.15_2_Adm2:
+    GID: AUT.3.15_2
+    admin_name: Neunkirchen
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.16_2_Adm2:
+    GID: AUT.3.16_2
+    admin_name: Sankt Pölten Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.17_2_Adm2:
+    GID: AUT.3.17_2
+    admin_name: Sankt Pölten Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.18_2_Adm2:
+    GID: AUT.3.18_2
+    admin_name: Scheibbs
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.19_2_Adm2:
+    GID: AUT.3.19_2
+    admin_name: Tulln
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.2_2_Adm2:
+    GID: AUT.3.2_2
+    admin_name: Baden
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.20_2_Adm2:
+    GID: AUT.3.20_2
+    admin_name: Waidhofen an der Thaya
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.21_2_Adm2:
+    GID: AUT.3.21_2
+    admin_name: Waidhofen an der Ybbs Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.22_2_Adm2:
+    GID: AUT.3.22_2
+    admin_name: Wiener Neustadt Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.23_2_Adm2:
+    GID: AUT.3.23_2
+    admin_name: Wiener Neustadt Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.24_2_Adm2:
+    GID: AUT.3.24_2
+    admin_name: Zwettl
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.3_2_Adm2:
+    GID: AUT.3.3_2
+    admin_name: Bruck an der Leitha
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.4_2_Adm2:
+    GID: AUT.3.4_2
+    admin_name: Gänserndorf
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.5_2_Adm2:
+    GID: AUT.3.5_2
+    admin_name: Gmünd
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.6_2_Adm2:
+    GID: AUT.3.6_2
+    admin_name: Hollabrunn
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.7_2_Adm2:
+    GID: AUT.3.7_2
+    admin_name: Horn
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.8_2_Adm2:
+    GID: AUT.3.8_2
+    admin_name: Korneuburg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.3.9_2_Adm2:
+    GID: AUT.3.9_2
+    admin_name: Krems an der Donau Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4_1_Adm1:
+    GID: AUT.4_1
+    admin_name: Oberösterreich
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.4.1_2_Adm2:
+    GID: AUT.4.1_2
+    admin_name: Braunau am Inn
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.10_2_Adm2:
+    GID: AUT.4.10_2
+    admin_name: Ried im Innkreis
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.11_2_Adm2:
+    GID: AUT.4.11_2
+    admin_name: Rohrbach
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.12_2_Adm2:
+    GID: AUT.4.12_2
+    admin_name: Schärding
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.13_2_Adm2:
+    GID: AUT.4.13_2
+    admin_name: Steyr Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.14_2_Adm2:
+    GID: AUT.4.14_2
+    admin_name: Steyr Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.15_2_Adm2:
+    GID: AUT.4.15_2
+    admin_name: Urfahr-Umgebung
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.16_2_Adm2:
+    GID: AUT.4.16_2
+    admin_name: Vöcklabruck
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.17_2_Adm2:
+    GID: AUT.4.17_2
+    admin_name: Wels Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.18_2_Adm2:
+    GID: AUT.4.18_2
+    admin_name: Wels Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.2_2_Adm2:
+    GID: AUT.4.2_2
+    admin_name: Eferding
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.3_2_Adm2:
+    GID: AUT.4.3_2
+    admin_name: Freistadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.4_2_Adm2:
+    GID: AUT.4.4_2
+    admin_name: Gmunden
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.5_2_Adm2:
+    GID: AUT.4.5_2
+    admin_name: Grieskirchen
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.6_2_Adm2:
+    GID: AUT.4.6_2
+    admin_name: Kirchdorf an der Krems
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.7_2_Adm2:
+    GID: AUT.4.7_2
+    admin_name: Linz Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.8_2_Adm2:
+    GID: AUT.4.8_2
+    admin_name: Linz Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.4.9_2_Adm2:
+    GID: AUT.4.9_2
+    admin_name: Perg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.5_1_Adm1:
+    GID: AUT.5_1
+    admin_name: Salzburg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.5.1_2_Adm2:
+    GID: AUT.5.1_2
+    admin_name: Hallein
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.5.2_2_Adm2:
+    GID: AUT.5.2_2
+    admin_name: Salzburg-Umgebung
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.5.3_2_Adm2:
+    GID: AUT.5.3_2
+    admin_name: Salzburg Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.5.4_2_Adm2:
+    GID: AUT.5.4_2
+    admin_name: Sankt Johann im Pongau
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.5.5_2_Adm2:
+    GID: AUT.5.5_2
+    admin_name: Tamsweg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.5.6_2_Adm2:
+    GID: AUT.5.6_2
+    admin_name: Zell am See
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6_1_Adm1:
+    GID: AUT.6_1
+    admin_name: Steiermark
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.6.1_2_Adm2:
+    GID: AUT.6.1_2
+    admin_name: Bruck-Mürzzuschlag
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.10_2_Adm2:
+    GID: AUT.6.10_2
+    admin_name: Murtal
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.11_2_Adm2:
+    GID: AUT.6.11_2
+    admin_name: Südoststeiermark
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.12_2_Adm2:
+    GID: AUT.6.12_2
+    admin_name: Voitsberg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.13_2_Adm2:
+    GID: AUT.6.13_2
+    admin_name: Weiz
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.2_2_Adm2:
+    GID: AUT.6.2_2
+    admin_name: Deutschlandsberg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.3_2_Adm2:
+    GID: AUT.6.3_2
+    admin_name: Graz-Umgebung
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.4_2_Adm2:
+    GID: AUT.6.4_2
+    admin_name: Graz Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.5_2_Adm2:
+    GID: AUT.6.5_2
+    admin_name: Hartberg-Fürstenfeld
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.6_2_Adm2:
+    GID: AUT.6.6_2
+    admin_name: Leibnitz
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.7_2_Adm2:
+    GID: AUT.6.7_2
+    admin_name: Leoben
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.8_2_Adm2:
+    GID: AUT.6.8_2
+    admin_name: Liezen
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.6.9_2_Adm2:
+    GID: AUT.6.9_2
+    admin_name: Murau
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7_1_Adm1:
+    GID: AUT.7_1
+    admin_name: Tirol
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.7.1_2_Adm2:
+    GID: AUT.7.1_2
+    admin_name: Imst
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7.2_2_Adm2:
+    GID: AUT.7.2_2
+    admin_name: Innsbruck Land
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7.3_2_Adm2:
+    GID: AUT.7.3_2
+    admin_name: Innsbruck Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7.4_2_Adm2:
+    GID: AUT.7.4_2
+    admin_name: Kitzbühel
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7.5_2_Adm2:
+    GID: AUT.7.5_2
+    admin_name: Kufstein
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7.6_2_Adm2:
+    GID: AUT.7.6_2
+    admin_name: Landeck
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7.7_2_Adm2:
+    GID: AUT.7.7_2
+    admin_name: Lienz
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7.8_2_Adm2:
+    GID: AUT.7.8_2
+    admin_name: Reutte
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.7.9_2_Adm2:
+    GID: AUT.7.9_2
+    admin_name: Schwaz
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.8_1_Adm1:
+    GID: AUT.8_1
+    admin_name: Vorarlberg
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.8.1_2_Adm2:
+    GID: AUT.8.1_2
+    admin_name: Bludenz
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.8.2_2_Adm2:
+    GID: AUT.8.2_2
+    admin_name: Bregenz
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.8.3_2_Adm2:
+    GID: AUT.8.3_2
+    admin_name: Dornbirn
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.8.4_2_Adm2:
+    GID: AUT.8.4_2
+    admin_name: Feldkirch
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2
+  AUT.9_1_Adm1:
+    GID: AUT.9_1
+    admin_name: Wien
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm1
+  AUT.9.1_2_Adm2:
+    GID: AUT.9.1_2
+    admin_name: Wien Stadt
+    iso3c: AUT
+    country_name: Austria
+    admin_level: Adm2

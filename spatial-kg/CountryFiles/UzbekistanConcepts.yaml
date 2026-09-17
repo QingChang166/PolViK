@@ -1,0 +1,1057 @@
+concepts:
+  UZB.0_Adm0:
+    GID: UZB
+    admin_name: Uzbekistan
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm0
+  UZB.1_1_Adm1:
+    GID: UZB.1_1
+    admin_name: Andijon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.1.1_1_Adm2:
+    GID: UZB.1.1_1
+    admin_name: Andijon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.10_1_Adm2:
+    GID: UZB.1.10_1
+    admin_name: Paxtaobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.11_1_Adm2:
+    GID: UZB.1.11_1
+    admin_name: Qo'rg'ontepa
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.12_1_Adm2:
+    GID: UZB.1.12_1
+    admin_name: Shahrixon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.13_1_Adm2:
+    GID: UZB.1.13_1
+    admin_name: Ulug'nor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.14_1_Adm2:
+    GID: UZB.1.14_1
+    admin_name: Xo'jaobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.2_1_Adm2:
+    GID: UZB.1.2_1
+    admin_name: Asaka
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.3_1_Adm2:
+    GID: UZB.1.3_1
+    admin_name: Baliqchi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.4_1_Adm2:
+    GID: UZB.1.4_1
+    admin_name: Bo'zsuv
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.5_1_Adm2:
+    GID: UZB.1.5_1
+    admin_name: Buloqboshi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.6_1_Adm2:
+    GID: UZB.1.6_1
+    admin_name: Izboskan
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.7_1_Adm2:
+    GID: UZB.1.7_1
+    admin_name: Jalolquduq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.8_1_Adm2:
+    GID: UZB.1.8_1
+    admin_name: Marhamat
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.1.9_1_Adm2:
+    GID: UZB.1.9_1
+    admin_name: Oltinko'l
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10_1_Adm1:
+    GID: UZB.10_1
+    admin_name: Samarqand'
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.10.1_1_Adm2:
+    GID: UZB.10.1_1
+    admin_name: Bulung'ur
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.10_1_Adm2:
+    GID: UZB.10.10_1
+    admin_name: Payariq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.11_1_Adm2:
+    GID: UZB.10.11_1
+    admin_name: Qo'shrabot
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.12_1_Adm2:
+    GID: UZB.10.12_1
+    admin_name: Samarqand'
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.13_1_Adm2:
+    GID: UZB.10.13_1
+    admin_name: Toyloq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.14_1_Adm2:
+    GID: UZB.10.14_1
+    admin_name: Urgut
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.2_1_Adm2:
+    GID: UZB.10.2_1
+    admin_name: Ishtixon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.3_1_Adm2:
+    GID: UZB.10.3_1
+    admin_name: Jomboy
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.4_1_Adm2:
+    GID: UZB.10.4_1
+    admin_name: Kattaqo'rg'on
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.5_1_Adm2:
+    GID: UZB.10.5_1
+    admin_name: Narpay
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.6_1_Adm2:
+    GID: UZB.10.6_1
+    admin_name: Nurobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.7_1_Adm2:
+    GID: UZB.10.7_1
+    admin_name: Oqdaryo
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.8_1_Adm2:
+    GID: UZB.10.8_1
+    admin_name: Pastdarg'om
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.10.9_1_Adm2:
+    GID: UZB.10.9_1
+    admin_name: Paxtachi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.11_1_Adm1:
+    GID: UZB.11_1
+    admin_name: Sirdaryo
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.11.1_1_Adm2:
+    GID: UZB.11.1_1
+    admin_name: Boyovut
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.11.2_1_Adm2:
+    GID: UZB.11.2_1
+    admin_name: Guliston
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.11.3_1_Adm2:
+    GID: UZB.11.3_1
+    admin_name: Mirzaobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.11.4_1_Adm2:
+    GID: UZB.11.4_1
+    admin_name: Oqoltin
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.11.5_1_Adm2:
+    GID: UZB.11.5_1
+    admin_name: Sayxunobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.11.6_1_Adm2:
+    GID: UZB.11.6_1
+    admin_name: Sharof Rashidov
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.11.7_1_Adm2:
+    GID: UZB.11.7_1
+    admin_name: Sirdaryo
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.11.8_1_Adm2:
+    GID: UZB.11.8_1
+    admin_name: Xovos
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12_1_Adm1:
+    GID: UZB.12_1
+    admin_name: Surxondaryo
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.12.1_1_Adm2:
+    GID: UZB.12.1_1
+    admin_name: Angor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.10_1_Adm2:
+    GID: UZB.12.10_1
+    admin_name: Sariosiyo
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.11_1_Adm2:
+    GID: UZB.12.11_1
+    admin_name: Sherobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.12_1_Adm2:
+    GID: UZB.12.12_1
+    admin_name: Sho'rchi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.13_1_Adm2:
+    GID: UZB.12.13_1
+    admin_name: Termiz
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.14_1_Adm2:
+    GID: UZB.12.14_1
+    admin_name: Uzun
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.2_1_Adm2:
+    GID: UZB.12.2_1
+    admin_name: Bandixon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.3_1_Adm2:
+    GID: UZB.12.3_1
+    admin_name: Boysun
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.4_1_Adm2:
+    GID: UZB.12.4_1
+    admin_name: Denov
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.5_1_Adm2:
+    GID: UZB.12.5_1
+    admin_name: Jarqo'rg'on
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.6_1_Adm2:
+    GID: UZB.12.6_1
+    admin_name: Muzrabot
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.7_1_Adm2:
+    GID: UZB.12.7_1
+    admin_name: Oltinsoy
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.8_1_Adm2:
+    GID: UZB.12.8_1
+    admin_name: Qiziriq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.12.9_1_Adm2:
+    GID: UZB.12.9_1
+    admin_name: Qumqo'rg'on
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.13_1_Adm1:
+    GID: UZB.13_1
+    admin_name: Toshkent Shahri
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.13.1_1_Adm2:
+    GID: UZB.13.1_1
+    admin_name: Tashkent City
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14_1_Adm1:
+    GID: UZB.14_1
+    admin_name: Toshkent
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.14.1_1_Adm2:
+    GID: UZB.14.1_1
+    admin_name: Bekobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.10_1_Adm2:
+    GID: UZB.14.10_1
+    admin_name: Qibray
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.11_1_Adm2:
+    GID: UZB.14.11_1
+    admin_name: Quyichirchiq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.12_1_Adm2:
+    GID: UZB.14.12_1
+    admin_name: Toshkent
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.13_1_Adm2:
+    GID: UZB.14.13_1
+    admin_name: Yangiyo'l
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.14_1_Adm2:
+    GID: UZB.14.14_1
+    admin_name: Yuqorichirchiq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.15_1_Adm2:
+    GID: UZB.14.15_1
+    admin_name: Zangiota
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.2_1_Adm2:
+    GID: UZB.14.2_1
+    admin_name: Bo'ka
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.3_1_Adm2:
+    GID: UZB.14.3_1
+    admin_name: Bo'stonliq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.4_1_Adm2:
+    GID: UZB.14.4_1
+    admin_name: Chinoz
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.5_1_Adm2:
+    GID: UZB.14.5_1
+    admin_name: O'rtachirchiq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.6_1_Adm2:
+    GID: UZB.14.6_1
+    admin_name: Ohangaron
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.7_1_Adm2:
+    GID: UZB.14.7_1
+    admin_name: Oqqo'rg'on
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.8_1_Adm2:
+    GID: UZB.14.8_1
+    admin_name: Parkent
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.14.9_1_Adm2:
+    GID: UZB.14.9_1
+    admin_name: Piskent
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2_1_Adm1:
+    GID: UZB.2_1
+    admin_name: Buxoro
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.2.1_1_Adm2:
+    GID: UZB.2.1_1
+    admin_name: Buxoro
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.10_1_Adm2:
+    GID: UZB.2.10_1
+    admin_name: Shofirkon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.11_1_Adm2:
+    GID: UZB.2.11_1
+    admin_name: Vobkent
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.2_1_Adm2:
+    GID: UZB.2.2_1
+    admin_name: G'ijduvon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.3_1_Adm2:
+    GID: UZB.2.3_1
+    admin_name: Jondor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.4_1_Adm2:
+    GID: UZB.2.4_1
+    admin_name: Kogon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.5_1_Adm2:
+    GID: UZB.2.5_1
+    admin_name: Olot
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.6_1_Adm2:
+    GID: UZB.2.6_1
+    admin_name: Peshku
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.7_1_Adm2:
+    GID: UZB.2.7_1
+    admin_name: Qorako'l
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.8_1_Adm2:
+    GID: UZB.2.8_1
+    admin_name: Qorovulbozor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.2.9_1_Adm2:
+    GID: UZB.2.9_1
+    admin_name: Romitan
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3_1_Adm1:
+    GID: UZB.3_1
+    admin_name: Farg'ona
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.3.1_1_Adm2:
+    GID: UZB.3.1_1
+    admin_name: Beshariq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.10_1_Adm2:
+    GID: UZB.3.10_1
+    admin_name: Quva
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.11_1_Adm2:
+    GID: UZB.3.11_1
+    admin_name: Rishton
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.12_1_Adm2:
+    GID: UZB.3.12_1
+    admin_name: So’x
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.13_1_Adm2:
+    GID: UZB.3.13_1
+    admin_name: Toshloq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.14_1_Adm2:
+    GID: UZB.3.14_1
+    admin_name: Uchko'prik
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.15_1_Adm2:
+    GID: UZB.3.15_1
+    admin_name: Yozyovon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.2_1_Adm2:
+    GID: UZB.3.2_1
+    admin_name: Bog'dod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.3_1_Adm2:
+    GID: UZB.3.3_1
+    admin_name: Buvayda
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.4_1_Adm2:
+    GID: UZB.3.4_1
+    admin_name: Dang'ara
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.5_1_Adm2:
+    GID: UZB.3.5_1
+    admin_name: Farg'ona
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.6_1_Adm2:
+    GID: UZB.3.6_1
+    admin_name: Furqat
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.7_1_Adm2:
+    GID: UZB.3.7_1
+    admin_name: O'zbekiston
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.8_1_Adm2:
+    GID: UZB.3.8_1
+    admin_name: Oltiariq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.3.9_1_Adm2:
+    GID: UZB.3.9_1
+    admin_name: Oxunboboev
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4_1_Adm1:
+    GID: UZB.4_1
+    admin_name: Jizzax
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.4.1_1_Adm2:
+    GID: UZB.4.1_1
+    admin_name: Arnasoy
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.10_1_Adm2:
+    GID: UZB.4.10_1
+    admin_name: Zafarobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.11_1_Adm2:
+    GID: UZB.4.11_1
+    admin_name: Zarbdor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.12_1_Adm2:
+    GID: UZB.4.12_1
+    admin_name: Zomin
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.2_1_Adm2:
+    GID: UZB.4.2_1
+    admin_name: Baxmal
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.3_1_Adm2:
+    GID: UZB.4.3_1
+    admin_name: Do'stlik
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.4_1_Adm2:
+    GID: UZB.4.4_1
+    admin_name: Forish
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.5_1_Adm2:
+    GID: UZB.4.5_1
+    admin_name: G'allaorol
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.6_1_Adm2:
+    GID: UZB.4.6_1
+    admin_name: Jizzax
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.7_1_Adm2:
+    GID: UZB.4.7_1
+    admin_name: Mirzacho'l
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.8_1_Adm2:
+    GID: UZB.4.8_1
+    admin_name: Paxtakor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.4.9_1_Adm2:
+    GID: UZB.4.9_1
+    admin_name: Yangiobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5_1_Adm1:
+    GID: UZB.5_1
+    admin_name: Qaraqalpaqstan
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.5.1_1_Adm2:
+    GID: UZB.5.1_1
+    admin_name: Amudaryo
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.10_1_Adm2:
+    GID: UZB.5.10_1
+    admin_name: Qo'ng'irot
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.11_1_Adm2:
+    GID: UZB.5.11_1
+    admin_name: Qorao'zak
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.12_1_Adm2:
+    GID: UZB.5.12_1
+    admin_name: Shumanay
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.13_1_Adm2:
+    GID: UZB.5.13_1
+    admin_name: Taxtako'pir
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.14_1_Adm2:
+    GID: UZB.5.14_1
+    admin_name: To'rtko'l
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.15_1_Adm2:
+    GID: UZB.5.15_1
+    admin_name: Xo'jayli
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.2_1_Adm2:
+    GID: UZB.5.2_1
+    admin_name: Aral Sea
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.3_1_Adm2:
+    GID: UZB.5.3_1
+    admin_name: Beruniy
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.4_1_Adm2:
+    GID: UZB.5.4_1
+    admin_name: Chimboy
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.5_1_Adm2:
+    GID: UZB.5.5_1
+    admin_name: Ellikqala
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.6_1_Adm2:
+    GID: UZB.5.6_1
+    admin_name: Kegeyli
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.7_1_Adm2:
+    GID: UZB.5.7_1
+    admin_name: Mo'ynoq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.8_1_Adm2:
+    GID: UZB.5.8_1
+    admin_name: Nukus
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.5.9_1_Adm2:
+    GID: UZB.5.9_1
+    admin_name: Qanliko'l
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6_1_Adm1:
+    GID: UZB.6_1
+    admin_name: Qashqadaryo
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.6.1_1_Adm2:
+    GID: UZB.6.1_1
+    admin_name: Chiroqchi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.10_1_Adm2:
+    GID: UZB.6.10_1
+    admin_name: Qarshi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.11_1_Adm2:
+    GID: UZB.6.11_1
+    admin_name: Shahrisabz
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.12_1_Adm2:
+    GID: UZB.6.12_1
+    admin_name: Usmon Yusupov
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.13_1_Adm2:
+    GID: UZB.6.13_1
+    admin_name: Yakkabog'
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.2_1_Adm2:
+    GID: UZB.6.2_1
+    admin_name: Dehqonobod
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.3_1_Adm2:
+    GID: UZB.6.3_1
+    admin_name: G'uzor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.4_1_Adm2:
+    GID: UZB.6.4_1
+    admin_name: Kasbi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.5_1_Adm2:
+    GID: UZB.6.5_1
+    admin_name: Kitob
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.6_1_Adm2:
+    GID: UZB.6.6_1
+    admin_name: Koson
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.7_1_Adm2:
+    GID: UZB.6.7_1
+    admin_name: Muborak
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.8_1_Adm2:
+    GID: UZB.6.8_1
+    admin_name: Nishon
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.6.9_1_Adm2:
+    GID: UZB.6.9_1
+    admin_name: Qamashi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7_1_Adm1:
+    GID: UZB.7_1
+    admin_name: Xorazm
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.7.1_1_Adm2:
+    GID: UZB.7.1_1
+    admin_name: Bog'ot
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.10_1_Adm2:
+    GID: UZB.7.10_1
+    admin_name: Yangibozor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.2_1_Adm2:
+    GID: UZB.7.2_1
+    admin_name: Gurlan
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.3_1_Adm2:
+    GID: UZB.7.3_1
+    admin_name: Hazorasp
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.4_1_Adm2:
+    GID: UZB.7.4_1
+    admin_name: Qo'shko'pir
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.5_1_Adm2:
+    GID: UZB.7.5_1
+    admin_name: Shovot
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.6_1_Adm2:
+    GID: UZB.7.6_1
+    admin_name: Urganch
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.7_1_Adm2:
+    GID: UZB.7.7_1
+    admin_name: Xiva
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.8_1_Adm2:
+    GID: UZB.7.8_1
+    admin_name: Xonqa
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.7.9_1_Adm2:
+    GID: UZB.7.9_1
+    admin_name: Yangiariq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8_1_Adm1:
+    GID: UZB.8_1
+    admin_name: Namangan
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.8.1_1_Adm2:
+    GID: UZB.8.1_1
+    admin_name: Chortoq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.10_1_Adm2:
+    GID: UZB.8.10_1
+    admin_name: Uychi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.11_1_Adm2:
+    GID: UZB.8.11_1
+    admin_name: Yagiqo'rg'on
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.2_1_Adm2:
+    GID: UZB.8.2_1
+    admin_name: Chust
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.3_1_Adm2:
+    GID: UZB.8.3_1
+    admin_name: Kosonsoy
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.4_1_Adm2:
+    GID: UZB.8.4_1
+    admin_name: Mingbuloq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.5_1_Adm2:
+    GID: UZB.8.5_1
+    admin_name: Namangan
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.6_1_Adm2:
+    GID: UZB.8.6_1
+    admin_name: Norin
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.7_1_Adm2:
+    GID: UZB.8.7_1
+    admin_name: Pop
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.8_1_Adm2:
+    GID: UZB.8.8_1
+    admin_name: To'raqo'rg'on
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.8.9_1_Adm2:
+    GID: UZB.8.9_1
+    admin_name: Uchqo'rg'on
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.9_1_Adm1:
+    GID: UZB.9_1
+    admin_name: Navoiy
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm1
+  UZB.9.1_1_Adm2:
+    GID: UZB.9.1_1
+    admin_name: Karmana
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.9.2_1_Adm2:
+    GID: UZB.9.2_1
+    admin_name: Konimex
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.9.3_1_Adm2:
+    GID: UZB.9.3_1
+    admin_name: Navbahor
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.9.4_1_Adm2:
+    GID: UZB.9.4_1
+    admin_name: Nurota
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.9.5_1_Adm2:
+    GID: UZB.9.5_1
+    admin_name: Qiziltepa
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.9.6_1_Adm2:
+    GID: UZB.9.6_1
+    admin_name: Tomdi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.9.7_1_Adm2:
+    GID: UZB.9.7_1
+    admin_name: Uchquduq
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2
+  UZB.9.8_1_Adm2:
+    GID: UZB.9.8_1
+    admin_name: Xatirchi
+    iso3c: UZB
+    country_name: Uzbekistan
+    admin_level: Adm2

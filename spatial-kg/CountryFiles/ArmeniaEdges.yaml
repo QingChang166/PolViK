@@ -1,0 +1,12 @@
+relations:
+    - (ARM.0_Adm0, ARM.1_1_Adm1)
+    - (ARM.0_Adm0, ARM.2_1_Adm1)
+    - (ARM.0_Adm0, ARM.3_1_Adm1)
+    - (ARM.0_Adm0, ARM.4_1_Adm1)
+    - (ARM.0_Adm0, ARM.5_1_Adm1)
+    - (ARM.0_Adm0, ARM.6_1_Adm1)
+    - (ARM.0_Adm0, ARM.7_1_Adm1)
+    - (ARM.0_Adm0, ARM.8_1_Adm1)
+    - (ARM.0_Adm0, ARM.9_1_Adm1)
+    - (ARM.0_Adm0, ARM.10_1_Adm1)
+    - (ARM.0_Adm0, ARM.11_1_Adm1)

@@ -1,0 +1,1135 @@
+concepts:
+  HUN.0_Adm0:
+    GID: HUN
+    admin_name: Hungary
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm0
+  HUN.1_1_Adm1:
+    GID: HUN.1_1
+    admin_name: Bács-Kiskun
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.1.1_1_Adm2:
+    GID: HUN.1.1_1
+    admin_name: Bácsalmás
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.10_1_Adm2:
+    GID: HUN.1.10_1
+    admin_name: Kunszentmiklós
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.2_1_Adm2:
+    GID: HUN.1.2_1
+    admin_name: Baja
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.3_1_Adm2:
+    GID: HUN.1.3_1
+    admin_name: Jánoshalm
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.4_1_Adm2:
+    GID: HUN.1.4_1
+    admin_name: Kalocsa
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.5_1_Adm2:
+    GID: HUN.1.5_1
+    admin_name: Kecskemét
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.6_1_Adm2:
+    GID: HUN.1.6_1
+    admin_name: Kiskőrös
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.7_1_Adm2:
+    GID: HUN.1.7_1
+    admin_name: Kiskunfélegyház
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.8_1_Adm2:
+    GID: HUN.1.8_1
+    admin_name: Kiskunhalas
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.1.9_1_Adm2:
+    GID: HUN.1.9_1
+    admin_name: Kiskunmajsa
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.10_1_Adm1:
+    GID: HUN.10_1
+    admin_name: Heves
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.10.1_1_Adm2:
+    GID: HUN.10.1_1
+    admin_name: Bélapátfalva
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.10.2_1_Adm2:
+    GID: HUN.10.2_1
+    admin_name: Eger
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.10.3_1_Adm2:
+    GID: HUN.10.3_1
+    admin_name: Füzesabony
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.10.4_1_Adm2:
+    GID: HUN.10.4_1
+    admin_name: Gyöngyös
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.10.5_1_Adm2:
+    GID: HUN.10.5_1
+    admin_name: Hatvani
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.10.6_1_Adm2:
+    GID: HUN.10.6_1
+    admin_name: Heves
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.10.7_1_Adm2:
+    GID: HUN.10.7_1
+    admin_name: Pétervására
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.11_1_Adm1:
+    GID: HUN.11_1
+    admin_name: Jász-Nagykun-Szolnok
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.11.1_1_Adm2:
+    GID: HUN.11.1_1
+    admin_name: Jászberény
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.11.2_1_Adm2:
+    GID: HUN.11.2_1
+    admin_name: Karcag
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.11.3_1_Adm2:
+    GID: HUN.11.3_1
+    admin_name: Kunszentmárton
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.11.4_1_Adm2:
+    GID: HUN.11.4_1
+    admin_name: Mezőtúri
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.11.5_1_Adm2:
+    GID: HUN.11.5_1
+    admin_name: Szolnok
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.11.6_1_Adm2:
+    GID: HUN.11.6_1
+    admin_name: Tiszafüred
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.11.7_1_Adm2:
+    GID: HUN.11.7_1
+    admin_name: Törökszentmiklós
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.12_1_Adm1:
+    GID: HUN.12_1
+    admin_name: Komárom-Esztergom
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.12.1_1_Adm2:
+    GID: HUN.12.1_1
+    admin_name: Dorog
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.12.2_1_Adm2:
+    GID: HUN.12.2_1
+    admin_name: Esztergom
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.12.3_1_Adm2:
+    GID: HUN.12.3_1
+    admin_name: Kisbér
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.12.4_1_Adm2:
+    GID: HUN.12.4_1
+    admin_name: Komárom
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.12.5_1_Adm2:
+    GID: HUN.12.5_1
+    admin_name: Oroszlány
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.12.6_1_Adm2:
+    GID: HUN.12.6_1
+    admin_name: Tata
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.12.7_1_Adm2:
+    GID: HUN.12.7_1
+    admin_name: Tatabánya
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.13_1_Adm1:
+    GID: HUN.13_1
+    admin_name: Nógrád
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.13.1_1_Adm2:
+    GID: HUN.13.1_1
+    admin_name: Balassagyarmat
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.13.2_1_Adm2:
+    GID: HUN.13.2_1
+    admin_name: Bátonyterenye
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.13.3_1_Adm2:
+    GID: HUN.13.3_1
+    admin_name: Pásztó
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.13.4_1_Adm2:
+    GID: HUN.13.4_1
+    admin_name: Rétság
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.13.5_1_Adm2:
+    GID: HUN.13.5_1
+    admin_name: Salgótarján
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.13.6_1_Adm2:
+    GID: HUN.13.6_1
+    admin_name: Szécsény
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14_1_Adm1:
+    GID: HUN.14_1
+    admin_name: Pest
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.14.1_1_Adm2:
+    GID: HUN.14.1_1
+    admin_name: Aszód
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.10_1_Adm2:
+    GID: HUN.14.10_1
+    admin_name: Pilisvörösvár
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.11_1_Adm2:
+    GID: HUN.14.11_1
+    admin_name: Ráckeve
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.12_1_Adm2:
+    GID: HUN.14.12_1
+    admin_name: Szentendre
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.13_1_Adm2:
+    GID: HUN.14.13_1
+    admin_name: Szob
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.14_1_Adm2:
+    GID: HUN.14.14_1
+    admin_name: Vác
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.15_1_Adm2:
+    GID: HUN.14.15_1
+    admin_name: Veresegyház
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.2_1_Adm2:
+    GID: HUN.14.2_1
+    admin_name: Ceglédi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.3_1_Adm2:
+    GID: HUN.14.3_1
+    admin_name: Dabasi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.4_1_Adm2:
+    GID: HUN.14.4_1
+    admin_name: Dunakeszi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.5_1_Adm2:
+    GID: HUN.14.5_1
+    admin_name: Érd
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.6_1_Adm2:
+    GID: HUN.14.6_1
+    admin_name: Gödöllő
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.7_1_Adm2:
+    GID: HUN.14.7_1
+    admin_name: Gyál
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.8_1_Adm2:
+    GID: HUN.14.8_1
+    admin_name: Monor
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.14.9_1_Adm2:
+    GID: HUN.14.9_1
+    admin_name: Nagykáta
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15_1_Adm1:
+    GID: HUN.15_1
+    admin_name: Somogy
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.15.1_1_Adm2:
+    GID: HUN.15.1_1
+    admin_name: Balatonföldvári
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.10_1_Adm2:
+    GID: HUN.15.10_1
+    admin_name: Tab
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.2_1_Adm2:
+    GID: HUN.15.2_1
+    admin_name: Barcs
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.3_1_Adm2:
+    GID: HUN.15.3_1
+    admin_name: Csurgó
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.4_1_Adm2:
+    GID: HUN.15.4_1
+    admin_name: Fonyód
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.5_1_Adm2:
+    GID: HUN.15.5_1
+    admin_name: Kadarkút
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.6_1_Adm2:
+    GID: HUN.15.6_1
+    admin_name: Lengyeltóti
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.7_1_Adm2:
+    GID: HUN.15.7_1
+    admin_name: Marcali
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.8_1_Adm2:
+    GID: HUN.15.8_1
+    admin_name: Nagyatád
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.15.9_1_Adm2:
+    GID: HUN.15.9_1
+    admin_name: Siófok
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16_1_Adm1:
+    GID: HUN.16_1
+    admin_name: Szabolcs-Szatmár-Bereg
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.16.1_1_Adm2:
+    GID: HUN.16.1_1
+    admin_name: Baktalórántháza
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.10_1_Adm2:
+    GID: HUN.16.10_1
+    admin_name: Tiszavasvár
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.11_1_Adm2:
+    GID: HUN.16.11_1
+    admin_name: Vásárosnamény
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.2_1_Adm2:
+    GID: HUN.16.2_1
+    admin_name: Csenger
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.3_1_Adm2:
+    GID: HUN.16.3_1
+    admin_name: Fehérgyarmat
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.4_1_Adm2:
+    GID: HUN.16.4_1
+    admin_name: Ibrány-Nagyhalász
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.5_1_Adm2:
+    GID: HUN.16.5_1
+    admin_name: Kisvárda
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.6_1_Adm2:
+    GID: HUN.16.6_1
+    admin_name: Mátészalka
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.7_1_Adm2:
+    GID: HUN.16.7_1
+    admin_name: Nagykálló
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.8_1_Adm2:
+    GID: HUN.16.8_1
+    admin_name: Nyírbátor
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.16.9_1_Adm2:
+    GID: HUN.16.9_1
+    admin_name: Nyíregyháza
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.17_1_Adm1:
+    GID: HUN.17_1
+    admin_name: Tolna
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.17.1_1_Adm2:
+    GID: HUN.17.1_1
+    admin_name: Bonyhád
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.17.2_1_Adm2:
+    GID: HUN.17.2_1
+    admin_name: Dombóvár
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.17.3_1_Adm2:
+    GID: HUN.17.3_1
+    admin_name: Paks
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.17.4_1_Adm2:
+    GID: HUN.17.4_1
+    admin_name: Szekszárd
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.17.5_1_Adm2:
+    GID: HUN.17.5_1
+    admin_name: Tamás
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18_1_Adm1:
+    GID: HUN.18_1
+    admin_name: Vas
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.18.1_1_Adm2:
+    GID: HUN.18.1_1
+    admin_name: Celldömölk
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18.2_1_Adm2:
+    GID: HUN.18.2_1
+    admin_name: Csepreg
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18.3_1_Adm2:
+    GID: HUN.18.3_1
+    admin_name: Körmend
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18.4_1_Adm2:
+    GID: HUN.18.4_1
+    admin_name: Kőszeg
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18.5_1_Adm2:
+    GID: HUN.18.5_1
+    admin_name: Őriszentpéter
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18.6_1_Adm2:
+    GID: HUN.18.6_1
+    admin_name: Sárvár
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18.7_1_Adm2:
+    GID: HUN.18.7_1
+    admin_name: Szentgotthárd
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18.8_1_Adm2:
+    GID: HUN.18.8_1
+    admin_name: Szombathely
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.18.9_1_Adm2:
+    GID: HUN.18.9_1
+    admin_name: Vasvár
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19_1_Adm1:
+    GID: HUN.19_1
+    admin_name: Veszprém
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.19.1_1_Adm2:
+    GID: HUN.19.1_1
+    admin_name: Ajka
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19.2_1_Adm2:
+    GID: HUN.19.2_1
+    admin_name: Balatonalmádi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19.3_1_Adm2:
+    GID: HUN.19.3_1
+    admin_name: Balatonfüred
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19.4_1_Adm2:
+    GID: HUN.19.4_1
+    admin_name: Pápa
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19.5_1_Adm2:
+    GID: HUN.19.5_1
+    admin_name: Sümeg
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19.6_1_Adm2:
+    GID: HUN.19.6_1
+    admin_name: Tapolca
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19.7_1_Adm2:
+    GID: HUN.19.7_1
+    admin_name: Várpalota
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19.8_1_Adm2:
+    GID: HUN.19.8_1
+    admin_name: Veszprém
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.19.9_1_Adm2:
+    GID: HUN.19.9_1
+    admin_name: Zirc
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2_1_Adm1:
+    GID: HUN.2_1
+    admin_name: Baranya
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.2.1_1_Adm2:
+    GID: HUN.2.1_1
+    admin_name: Komlói
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2.2_1_Adm2:
+    GID: HUN.2.2_1
+    admin_name: Mohácsi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2.3_1_Adm2:
+    GID: HUN.2.3_1
+    admin_name: Pécs
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2.4_1_Adm2:
+    GID: HUN.2.4_1
+    admin_name: Pécsváradi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2.5_1_Adm2:
+    GID: HUN.2.5_1
+    admin_name: Sásdi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2.6_1_Adm2:
+    GID: HUN.2.6_1
+    admin_name: Sellyei
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2.7_1_Adm2:
+    GID: HUN.2.7_1
+    admin_name: Siklósi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2.8_1_Adm2:
+    GID: HUN.2.8_1
+    admin_name: Szentlőrinci
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.2.9_1_Adm2:
+    GID: HUN.2.9_1
+    admin_name: Szigetvári
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.20_1_Adm1:
+    GID: HUN.20_1
+    admin_name: Zala
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.20.1_1_Adm2:
+    GID: HUN.20.1_1
+    admin_name: Hévíz/Keszthely
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.20.2_1_Adm2:
+    GID: HUN.20.2_1
+    admin_name: Lenti
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.20.3_1_Adm2:
+    GID: HUN.20.3_1
+    admin_name: Letenye
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.20.4_1_Adm2:
+    GID: HUN.20.4_1
+    admin_name: Nagykanizsai/Zalakaros
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.20.5_1_Adm2:
+    GID: HUN.20.5_1
+    admin_name: Pacsa/Zalaegerszeg
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.20.6_1_Adm2:
+    GID: HUN.20.6_1
+    admin_name: Zalaszentgrót
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.3_1_Adm1:
+    GID: HUN.3_1
+    admin_name: Békés
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.3.1_1_Adm2:
+    GID: HUN.3.1_1
+    admin_name: Békéscsabai
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.3.2_1_Adm2:
+    GID: HUN.3.2_1
+    admin_name: Békési
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.3.3_1_Adm2:
+    GID: HUN.3.3_1
+    admin_name: Gyulai
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.3.4_1_Adm2:
+    GID: HUN.3.4_1
+    admin_name: Mezőkovácsház
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.3.5_1_Adm2:
+    GID: HUN.3.5_1
+    admin_name: Orosház
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.3.6_1_Adm2:
+    GID: HUN.3.6_1
+    admin_name: Sarkad
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.3.7_1_Adm2:
+    GID: HUN.3.7_1
+    admin_name: Szarvas
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.3.8_1_Adm2:
+    GID: HUN.3.8_1
+    admin_name: Szeghalmi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4_1_Adm1:
+    GID: HUN.4_1
+    admin_name: Borsod-Abaúj-Zemplén
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.4.1_1_Adm2:
+    GID: HUN.4.1_1
+    admin_name: Abaúj-Hegyközi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.10_1_Adm2:
+    GID: HUN.4.10_1
+    admin_name: Sárospatak
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.11_1_Adm2:
+    GID: HUN.4.11_1
+    admin_name: Sátoraljaújhely
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.12_1_Adm2:
+    GID: HUN.4.12_1
+    admin_name: Szerencs
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.13_1_Adm2:
+    GID: HUN.4.13_1
+    admin_name: Szikszó
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.14_1_Adm2:
+    GID: HUN.4.14_1
+    admin_name: Tiszaújváros
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.15_1_Adm2:
+    GID: HUN.4.15_1
+    admin_name: Tokaji
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.2_1_Adm2:
+    GID: HUN.4.2_1
+    admin_name: Bodrogközi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.3_1_Adm2:
+    GID: HUN.4.3_1
+    admin_name: Edelényi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.4_1_Adm2:
+    GID: HUN.4.4_1
+    admin_name: Encsi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.5_1_Adm2:
+    GID: HUN.4.5_1
+    admin_name: Kazincbarcikai
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.6_1_Adm2:
+    GID: HUN.4.6_1
+    admin_name: Mezőcsáti
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.7_1_Adm2:
+    GID: HUN.4.7_1
+    admin_name: Mezőkövesdi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.8_1_Adm2:
+    GID: HUN.4.8_1
+    admin_name: Miskolci
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.4.9_1_Adm2:
+    GID: HUN.4.9_1
+    admin_name: Ózdi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.5_1_Adm1:
+    GID: HUN.5_1
+    admin_name: Budapest
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.5.1_1_Adm2:
+    GID: HUN.5.1_1
+    admin_name: Budapesti
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.6_1_Adm1:
+    GID: HUN.6_1
+    admin_name: Csongrád
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.6.1_1_Adm2:
+    GID: HUN.6.1_1
+    admin_name: Csongrádi
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.6.2_1_Adm2:
+    GID: HUN.6.2_1
+    admin_name: Hódmezővásárhely
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.6.3_1_Adm2:
+    GID: HUN.6.3_1
+    admin_name: Kistelek
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.6.4_1_Adm2:
+    GID: HUN.6.4_1
+    admin_name: Makó
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.6.5_1_Adm2:
+    GID: HUN.6.5_1
+    admin_name: Mórahalm
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.6.6_1_Adm2:
+    GID: HUN.6.6_1
+    admin_name: Szeged
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.6.7_1_Adm2:
+    GID: HUN.6.7_1
+    admin_name: Szentes
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7_1_Adm1:
+    GID: HUN.7_1
+    admin_name: Fejér
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.7.1_1_Adm2:
+    GID: HUN.7.1_1
+    admin_name: Aba
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.10_1_Adm2:
+    GID: HUN.7.10_1
+    admin_name: Székesfehérvár
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.2_1_Adm2:
+    GID: HUN.7.2_1
+    admin_name: Adony
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.3_1_Adm2:
+    GID: HUN.7.3_1
+    admin_name: Bicske
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.4_1_Adm2:
+    GID: HUN.7.4_1
+    admin_name: Dunaújváros
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.5_1_Adm2:
+    GID: HUN.7.5_1
+    admin_name: Enying
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.6_1_Adm2:
+    GID: HUN.7.6_1
+    admin_name: Ercs
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.7_1_Adm2:
+    GID: HUN.7.7_1
+    admin_name: Gárdony
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.8_1_Adm2:
+    GID: HUN.7.8_1
+    admin_name: Mór
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.7.9_1_Adm2:
+    GID: HUN.7.9_1
+    admin_name: Sárbogárd
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.8_1_Adm1:
+    GID: HUN.8_1
+    admin_name: Gyor-Moson-Sopron
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.8.1_1_Adm2:
+    GID: HUN.8.1_1
+    admin_name: Csorna
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.8.2_1_Adm2:
+    GID: HUN.8.2_1
+    admin_name: Győr
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.8.3_1_Adm2:
+    GID: HUN.8.3_1
+    admin_name: Kapuvár-Beled
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.8.4_1_Adm2:
+    GID: HUN.8.4_1
+    admin_name: Mosonmagyaróvár
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.8.5_1_Adm2:
+    GID: HUN.8.5_1
+    admin_name: Pannonhalm
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.8.6_1_Adm2:
+    GID: HUN.8.6_1
+    admin_name: Sopron-Fertőd
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.8.7_1_Adm2:
+    GID: HUN.8.7_1
+    admin_name: Téti
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9_1_Adm1:
+    GID: HUN.9_1
+    admin_name: Hajdú-Bihar
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm1
+  HUN.9.1_1_Adm2:
+    GID: HUN.9.1_1
+    admin_name: Balmazújváros
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9.2_1_Adm2:
+    GID: HUN.9.2_1
+    admin_name: Berettyóújfalu
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9.3_1_Adm2:
+    GID: HUN.9.3_1
+    admin_name: Debrecen
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9.4_1_Adm2:
+    GID: HUN.9.4_1
+    admin_name: Derecske-Létavértes
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9.5_1_Adm2:
+    GID: HUN.9.5_1
+    admin_name: Hajdúböszörmény
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9.6_1_Adm2:
+    GID: HUN.9.6_1
+    admin_name: Hajdúhadház
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9.7_1_Adm2:
+    GID: HUN.9.7_1
+    admin_name: Hajdúszoboszló
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9.8_1_Adm2:
+    GID: HUN.9.8_1
+    admin_name: Polgár
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2
+  HUN.9.9_1_Adm2:
+    GID: HUN.9.9_1
+    admin_name: Püspökladány
+    iso3c: HUN
+    country_name: Hungary
+    admin_level: Adm2

@@ -1,0 +1,7 @@
+relations:
+    - (KWT.0_Adm0, KWT.1_1_Adm1)
+    - (KWT.0_Adm0, KWT.2_1_Adm1)
+    - (KWT.0_Adm0, KWT.3_1_Adm1)
+    - (KWT.0_Adm0, KWT.4_1_Adm1)
+    - (KWT.0_Adm0, KWT.5_1_Adm1)
+    - (KWT.0_Adm0, KWT.6_1_Adm1)

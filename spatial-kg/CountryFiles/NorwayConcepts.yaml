@@ -1,0 +1,2749 @@
+concepts:
+  NOR.0_Adm0:
+    GID: NOR
+    admin_name: Norway
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm0
+  NOR.1_1_Adm1:
+    GID: NOR.1_1
+    admin_name: Akershus
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.1.1_1_Adm2:
+    GID: NOR.1.1_1
+    admin_name: Ås
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.10_1_Adm2:
+    GID: NOR.1.10_1
+    admin_name: Hurdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.11_1_Adm2:
+    GID: NOR.1.11_1
+    admin_name: Lørenskog
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.12_1_Adm2:
+    GID: NOR.1.12_1
+    admin_name: Nannestad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.13_1_Adm2:
+    GID: NOR.1.13_1
+    admin_name: Nesodden
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.14_1_Adm2:
+    GID: NOR.1.14_1
+    admin_name: Nittedal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.15_1_Adm2:
+    GID: NOR.1.15_1
+    admin_name: Oppegård
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.16_1_Adm2:
+    GID: NOR.1.16_1
+    admin_name: Rælingen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.17_1_Adm2:
+    GID: NOR.1.17_1
+    admin_name: Skedsmo
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.18_1_Adm2:
+    GID: NOR.1.18_1
+    admin_name: Ski
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.19_1_Adm2:
+    GID: NOR.1.19_1
+    admin_name: Sørum
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.2_1_Adm2:
+    GID: NOR.1.2_1
+    admin_name: Asker
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.20_1_Adm2:
+    GID: NOR.1.20_1
+    admin_name: Ullensaker
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.21_1_Adm2:
+    GID: NOR.1.21_1
+    admin_name: Vestby
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.3_1_Adm2:
+    GID: NOR.1.3_1
+    admin_name: Aurskog-Høland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.4_1_Adm2:
+    GID: NOR.1.4_1
+    admin_name: Bærum
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.5_1_Adm2:
+    GID: NOR.1.5_1
+    admin_name: Eidsvoll
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.6_1_Adm2:
+    GID: NOR.1.6_1
+    admin_name: Enebakk
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.7_1_Adm2:
+    GID: NOR.1.7_1
+    admin_name: Fet
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.8_1_Adm2:
+    GID: NOR.1.8_1
+    admin_name: Frogn
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.1.9_1_Adm2:
+    GID: NOR.1.9_1
+    admin_name: Gjerdrum
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10_1_Adm1:
+    GID: NOR.10_1
+    admin_name: Nordland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.10.1_1_Adm2:
+    GID: NOR.10.1_1
+    admin_name: Alstahaug
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.10_1_Adm2:
+    GID: NOR.10.10_1
+    admin_name: Evenes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.11_1_Adm2:
+    GID: NOR.10.11_1
+    admin_name: Fauske
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.12_1_Adm2:
+    GID: NOR.10.12_1
+    admin_name: Flakstad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.13_1_Adm2:
+    GID: NOR.10.13_1
+    admin_name: Gildeskål
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.14_1_Adm2:
+    GID: NOR.10.14_1
+    admin_name: Grane
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.15_1_Adm2:
+    GID: NOR.10.15_1
+    admin_name: Hadsel
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.16_1_Adm2:
+    GID: NOR.10.16_1
+    admin_name: Hamarøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.17_1_Adm2:
+    GID: NOR.10.17_1
+    admin_name: Hattfjelldal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.18_1_Adm2:
+    GID: NOR.10.18_1
+    admin_name: Hemnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.19_1_Adm2:
+    GID: NOR.10.19_1
+    admin_name: Herøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.2_1_Adm2:
+    GID: NOR.10.2_1
+    admin_name: Andøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.20_1_Adm2:
+    GID: NOR.10.20_1
+    admin_name: Leirfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.21_1_Adm2:
+    GID: NOR.10.21_1
+    admin_name: Lødingen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.22_1_Adm2:
+    GID: NOR.10.22_1
+    admin_name: Lurøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.23_1_Adm2:
+    GID: NOR.10.23_1
+    admin_name: Meløy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.24_1_Adm2:
+    GID: NOR.10.24_1
+    admin_name: Moskenes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.25_1_Adm2:
+    GID: NOR.10.25_1
+    admin_name: Narvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.26_1_Adm2:
+    GID: NOR.10.26_1
+    admin_name: Nesna
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.27_1_Adm2:
+    GID: NOR.10.27_1
+    admin_name: Øksnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.28_1_Adm2:
+    GID: NOR.10.28_1
+    admin_name: Rana
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.29_1_Adm2:
+    GID: NOR.10.29_1
+    admin_name: Rødøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.3_1_Adm2:
+    GID: NOR.10.3_1
+    admin_name: Ballangen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.30_1_Adm2:
+    GID: NOR.10.30_1
+    admin_name: Røst
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.31_1_Adm2:
+    GID: NOR.10.31_1
+    admin_name: Saltdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.32_1_Adm2:
+    GID: NOR.10.32_1
+    admin_name: Skjerstad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.33_1_Adm2:
+    GID: NOR.10.33_1
+    admin_name: Sømna
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.34_1_Adm2:
+    GID: NOR.10.34_1
+    admin_name: Sørfold
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.35_1_Adm2:
+    GID: NOR.10.35_1
+    admin_name: Sortland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.36_1_Adm2:
+    GID: NOR.10.36_1
+    admin_name: Steigen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.37_1_Adm2:
+    GID: NOR.10.37_1
+    admin_name: Tjeldsund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.38_1_Adm2:
+    GID: NOR.10.38_1
+    admin_name: Træna
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.39_1_Adm2:
+    GID: NOR.10.39_1
+    admin_name: Tysfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.4_1_Adm2:
+    GID: NOR.10.4_1
+    admin_name: Beiarn
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.40_1_Adm2:
+    GID: NOR.10.40_1
+    admin_name: Værøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.41_1_Adm2:
+    GID: NOR.10.41_1
+    admin_name: Vågan
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.42_1_Adm2:
+    GID: NOR.10.42_1
+    admin_name: Vefsn
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.43_1_Adm2:
+    GID: NOR.10.43_1
+    admin_name: Vega
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.44_1_Adm2:
+    GID: NOR.10.44_1
+    admin_name: Vestvågøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.45_1_Adm2:
+    GID: NOR.10.45_1
+    admin_name: Vevelstad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.5_1_Adm2:
+    GID: NOR.10.5_1
+    admin_name: Bindal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.6_1_Adm2:
+    GID: NOR.10.6_1
+    admin_name: Bø
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.7_1_Adm2:
+    GID: NOR.10.7_1
+    admin_name: Bodø
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.8_1_Adm2:
+    GID: NOR.10.8_1
+    admin_name: Brønnøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.10.9_1_Adm2:
+    GID: NOR.10.9_1
+    admin_name: Dønna
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11_1_Adm1:
+    GID: NOR.11_1
+    admin_name: Oppland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.11.1_1_Adm2:
+    GID: NOR.11.1_1
+    admin_name: Dovre
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.10_1_Adm2:
+    GID: NOR.11.10_1
+    admin_name: Lunner
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.11_1_Adm2:
+    GID: NOR.11.11_1
+    admin_name: Nord-Aurdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.12_1_Adm2:
+    GID: NOR.11.12_1
+    admin_name: Nord-Fron
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.13_1_Adm2:
+    GID: NOR.11.13_1
+    admin_name: Nordre Land
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.14_1_Adm2:
+    GID: NOR.11.14_1
+    admin_name: Østre Toten
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.15_1_Adm2:
+    GID: NOR.11.15_1
+    admin_name: Øyer
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.16_1_Adm2:
+    GID: NOR.11.16_1
+    admin_name: Øystre Slidre
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.17_1_Adm2:
+    GID: NOR.11.17_1
+    admin_name: Ringebu
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.18_1_Adm2:
+    GID: NOR.11.18_1
+    admin_name: Sel
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.19_1_Adm2:
+    GID: NOR.11.19_1
+    admin_name: Skjåk
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.2_1_Adm2:
+    GID: NOR.11.2_1
+    admin_name: Etnedal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.20_1_Adm2:
+    GID: NOR.11.20_1
+    admin_name: Søndre Land
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.21_1_Adm2:
+    GID: NOR.11.21_1
+    admin_name: Sør-Aurdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.22_1_Adm2:
+    GID: NOR.11.22_1
+    admin_name: Sør-Fron
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.23_1_Adm2:
+    GID: NOR.11.23_1
+    admin_name: Vågå
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.24_1_Adm2:
+    GID: NOR.11.24_1
+    admin_name: Vang
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.25_1_Adm2:
+    GID: NOR.11.25_1
+    admin_name: Vestre Slidre
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.26_1_Adm2:
+    GID: NOR.11.26_1
+    admin_name: Vestre Toten
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.3_1_Adm2:
+    GID: NOR.11.3_1
+    admin_name: Gausdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.4_1_Adm2:
+    GID: NOR.11.4_1
+    admin_name: Gjøvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.5_1_Adm2:
+    GID: NOR.11.5_1
+    admin_name: Gran
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.6_1_Adm2:
+    GID: NOR.11.6_1
+    admin_name: Jevnaker
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.7_1_Adm2:
+    GID: NOR.11.7_1
+    admin_name: Lesja
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.8_1_Adm2:
+    GID: NOR.11.8_1
+    admin_name: Lillehammer
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.11.9_1_Adm2:
+    GID: NOR.11.9_1
+    admin_name: Lom
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.12_1_Adm1:
+    GID: NOR.12_1
+    admin_name: Oslo
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.12.1_1_Adm2:
+    GID: NOR.12.1_1
+    admin_name: Oslo
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13_1_Adm1:
+    GID: NOR.13_1
+    admin_name: Rogaland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.13.1_1_Adm2:
+    GID: NOR.13.1_1
+    admin_name: Bjerkreim
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.10_1_Adm2:
+    GID: NOR.13.10_1
+    admin_name: Karmøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.11_1_Adm2:
+    GID: NOR.13.11_1
+    admin_name: Klepp
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.12_1_Adm2:
+    GID: NOR.13.12_1
+    admin_name: Kvitsøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.13_1_Adm2:
+    GID: NOR.13.13_1
+    admin_name: Lund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.14_1_Adm2:
+    GID: NOR.13.14_1
+    admin_name: Randaberg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.15_1_Adm2:
+    GID: NOR.13.15_1
+    admin_name: Rennesøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.16_1_Adm2:
+    GID: NOR.13.16_1
+    admin_name: Sandnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.17_1_Adm2:
+    GID: NOR.13.17_1
+    admin_name: Sauda
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.18_1_Adm2:
+    GID: NOR.13.18_1
+    admin_name: Sokndal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.19_1_Adm2:
+    GID: NOR.13.19_1
+    admin_name: Sola
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.2_1_Adm2:
+    GID: NOR.13.2_1
+    admin_name: Bokn
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.20_1_Adm2:
+    GID: NOR.13.20_1
+    admin_name: Stavanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.21_1_Adm2:
+    GID: NOR.13.21_1
+    admin_name: Strand
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.22_1_Adm2:
+    GID: NOR.13.22_1
+    admin_name: Suldal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.23_1_Adm2:
+    GID: NOR.13.23_1
+    admin_name: Time
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.24_1_Adm2:
+    GID: NOR.13.24_1
+    admin_name: Tysvær
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.25_1_Adm2:
+    GID: NOR.13.25_1
+    admin_name: Utsira
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.26_1_Adm2:
+    GID: NOR.13.26_1
+    admin_name: Vindafjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.3_1_Adm2:
+    GID: NOR.13.3_1
+    admin_name: Eigersund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.4_1_Adm2:
+    GID: NOR.13.4_1
+    admin_name: Finnøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.5_1_Adm2:
+    GID: NOR.13.5_1
+    admin_name: Forsand
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.6_1_Adm2:
+    GID: NOR.13.6_1
+    admin_name: Gjesdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.7_1_Adm2:
+    GID: NOR.13.7_1
+    admin_name: Hå
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.8_1_Adm2:
+    GID: NOR.13.8_1
+    admin_name: Haugesund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.13.9_1_Adm2:
+    GID: NOR.13.9_1
+    admin_name: Hjelmeland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14_1_Adm1:
+    GID: NOR.14_1
+    admin_name: Sogn og Fjordane
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.14.1_1_Adm2:
+    GID: NOR.14.1_1
+    admin_name: Årdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.10_1_Adm2:
+    GID: NOR.14.10_1
+    admin_name: Gaular
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.11_1_Adm2:
+    GID: NOR.14.11_1
+    admin_name: Gloppen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.12_1_Adm2:
+    GID: NOR.14.12_1
+    admin_name: Gulen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.13_1_Adm2:
+    GID: NOR.14.13_1
+    admin_name: Hornindal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.14_1_Adm2:
+    GID: NOR.14.14_1
+    admin_name: Høyanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.15_1_Adm2:
+    GID: NOR.14.15_1
+    admin_name: Hyllestad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.16_1_Adm2:
+    GID: NOR.14.16_1
+    admin_name: Jølster
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.17_1_Adm2:
+    GID: NOR.14.17_1
+    admin_name: Lærdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.18_1_Adm2:
+    GID: NOR.14.18_1
+    admin_name: Leikanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.19_1_Adm2:
+    GID: NOR.14.19_1
+    admin_name: Luster
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.2_1_Adm2:
+    GID: NOR.14.2_1
+    admin_name: Askvoll
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.20_1_Adm2:
+    GID: NOR.14.20_1
+    admin_name: Naustdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.21_1_Adm2:
+    GID: NOR.14.21_1
+    admin_name: Selje
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.22_1_Adm2:
+    GID: NOR.14.22_1
+    admin_name: Sogndal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.23_1_Adm2:
+    GID: NOR.14.23_1
+    admin_name: Solund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.24_1_Adm2:
+    GID: NOR.14.24_1
+    admin_name: Stryn
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.25_1_Adm2:
+    GID: NOR.14.25_1
+    admin_name: Vågsøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.26_1_Adm2:
+    GID: NOR.14.26_1
+    admin_name: Vik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.3_1_Adm2:
+    GID: NOR.14.3_1
+    admin_name: Aurland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.4_1_Adm2:
+    GID: NOR.14.4_1
+    admin_name: Balestrand
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.5_1_Adm2:
+    GID: NOR.14.5_1
+    admin_name: Bremanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.6_1_Adm2:
+    GID: NOR.14.6_1
+    admin_name: Eid
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.7_1_Adm2:
+    GID: NOR.14.7_1
+    admin_name: Fjaler
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.8_1_Adm2:
+    GID: NOR.14.8_1
+    admin_name: Flora
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.14.9_1_Adm2:
+    GID: NOR.14.9_1
+    admin_name: Førde
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15_1_Adm1:
+    GID: NOR.15_1
+    admin_name: Sør-Trøndelag
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.15.1_1_Adm2:
+    GID: NOR.15.1_1
+    admin_name: Åfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.10_1_Adm2:
+    GID: NOR.15.10_1
+    admin_name: Meldal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.11_1_Adm2:
+    GID: NOR.15.11_1
+    admin_name: Melhus
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.12_1_Adm2:
+    GID: NOR.15.12_1
+    admin_name: Midtre Gauldal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.13_1_Adm2:
+    GID: NOR.15.13_1
+    admin_name: Oppdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.14_1_Adm2:
+    GID: NOR.15.14_1
+    admin_name: Orkdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.15_1_Adm2:
+    GID: NOR.15.15_1
+    admin_name: Ørland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.16_1_Adm2:
+    GID: NOR.15.16_1
+    admin_name: Osen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.17_1_Adm2:
+    GID: NOR.15.17_1
+    admin_name: Rennebu
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.18_1_Adm2:
+    GID: NOR.15.18_1
+    admin_name: Rissa
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.19_1_Adm2:
+    GID: NOR.15.19_1
+    admin_name: Roan
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.2_1_Adm2:
+    GID: NOR.15.2_1
+    admin_name: Agdenes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.20_1_Adm2:
+    GID: NOR.15.20_1
+    admin_name: Røros
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.21_1_Adm2:
+    GID: NOR.15.21_1
+    admin_name: Selbu
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.22_1_Adm2:
+    GID: NOR.15.22_1
+    admin_name: Skaun
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.23_1_Adm2:
+    GID: NOR.15.23_1
+    admin_name: Snillfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.24_1_Adm2:
+    GID: NOR.15.24_1
+    admin_name: Trondheim
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.25_1_Adm2:
+    GID: NOR.15.25_1
+    admin_name: Tydal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.3_1_Adm2:
+    GID: NOR.15.3_1
+    admin_name: Bjugn
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.4_1_Adm2:
+    GID: NOR.15.4_1
+    admin_name: Frøya
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.5_1_Adm2:
+    GID: NOR.15.5_1
+    admin_name: Hemne
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.6_1_Adm2:
+    GID: NOR.15.6_1
+    admin_name: Hitra
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.7_1_Adm2:
+    GID: NOR.15.7_1
+    admin_name: Holtålen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.8_1_Adm2:
+    GID: NOR.15.8_1
+    admin_name: Klæbu
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.15.9_1_Adm2:
+    GID: NOR.15.9_1
+    admin_name: Malvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16_1_Adm1:
+    GID: NOR.16_1
+    admin_name: Telemark
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.16.1_1_Adm2:
+    GID: NOR.16.1_1
+    admin_name: Bamble
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.10_1_Adm2:
+    GID: NOR.16.10_1
+    admin_name: Notodden
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.11_1_Adm2:
+    GID: NOR.16.11_1
+    admin_name: Porsgrunn
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.12_1_Adm2:
+    GID: NOR.16.12_1
+    admin_name: Sauherad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.13_1_Adm2:
+    GID: NOR.16.13_1
+    admin_name: Seljord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.14_1_Adm2:
+    GID: NOR.16.14_1
+    admin_name: Siljan
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.15_1_Adm2:
+    GID: NOR.16.15_1
+    admin_name: Skien
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.16_1_Adm2:
+    GID: NOR.16.16_1
+    admin_name: Tinn
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.17_1_Adm2:
+    GID: NOR.16.17_1
+    admin_name: Tokke
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.18_1_Adm2:
+    GID: NOR.16.18_1
+    admin_name: Vinje
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.2_1_Adm2:
+    GID: NOR.16.2_1
+    admin_name: Bø
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.3_1_Adm2:
+    GID: NOR.16.3_1
+    admin_name: Drangedal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.4_1_Adm2:
+    GID: NOR.16.4_1
+    admin_name: Fyresdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.5_1_Adm2:
+    GID: NOR.16.5_1
+    admin_name: Hjartdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.6_1_Adm2:
+    GID: NOR.16.6_1
+    admin_name: Kragerø
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.7_1_Adm2:
+    GID: NOR.16.7_1
+    admin_name: Kviteseid
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.8_1_Adm2:
+    GID: NOR.16.8_1
+    admin_name: Nissedal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.16.9_1_Adm2:
+    GID: NOR.16.9_1
+    admin_name: Nome
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17_1_Adm1:
+    GID: NOR.17_1
+    admin_name: Troms
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.17.1_1_Adm2:
+    GID: NOR.17.1_1
+    admin_name: Balsfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.10_1_Adm2:
+    GID: NOR.17.10_1
+    admin_name: Karlsøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.11_1_Adm2:
+    GID: NOR.17.11_1
+    admin_name: Kvæfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.12_1_Adm2:
+    GID: NOR.17.12_1
+    admin_name: Kvænangen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.13_1_Adm2:
+    GID: NOR.17.13_1
+    admin_name: Lavangen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.14_1_Adm2:
+    GID: NOR.17.14_1
+    admin_name: Lenvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.15_1_Adm2:
+    GID: NOR.17.15_1
+    admin_name: Lyngen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.16_1_Adm2:
+    GID: NOR.17.16_1
+    admin_name: Målselv
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.17_1_Adm2:
+    GID: NOR.17.17_1
+    admin_name: Nordreisa
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.18_1_Adm2:
+    GID: NOR.17.18_1
+    admin_name: Salangen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.19_1_Adm2:
+    GID: NOR.17.19_1
+    admin_name: Skånland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.2_1_Adm2:
+    GID: NOR.17.2_1
+    admin_name: Bardu
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.20_1_Adm2:
+    GID: NOR.17.20_1
+    admin_name: Skjervøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.21_1_Adm2:
+    GID: NOR.17.21_1
+    admin_name: Sørreisa
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.22_1_Adm2:
+    GID: NOR.17.22_1
+    admin_name: Storfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.23_1_Adm2:
+    GID: NOR.17.23_1
+    admin_name: Torsken
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.24_1_Adm2:
+    GID: NOR.17.24_1
+    admin_name: Tranøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.25_1_Adm2:
+    GID: NOR.17.25_1
+    admin_name: Tromsø
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.3_1_Adm2:
+    GID: NOR.17.3_1
+    admin_name: Berg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.4_1_Adm2:
+    GID: NOR.17.4_1
+    admin_name: Bjarkøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.5_1_Adm2:
+    GID: NOR.17.5_1
+    admin_name: Dyrøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.6_1_Adm2:
+    GID: NOR.17.6_1
+    admin_name: Gratangen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.7_1_Adm2:
+    GID: NOR.17.7_1
+    admin_name: Harstad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.8_1_Adm2:
+    GID: NOR.17.8_1
+    admin_name: Ibestad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.17.9_1_Adm2:
+    GID: NOR.17.9_1
+    admin_name: Kåfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18_1_Adm1:
+    GID: NOR.18_1
+    admin_name: Vest-Agder
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.18.1_1_Adm2:
+    GID: NOR.18.1_1
+    admin_name: Åseral
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.10_1_Adm2:
+    GID: NOR.18.10_1
+    admin_name: Mandal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.11_1_Adm2:
+    GID: NOR.18.11_1
+    admin_name: Marnardal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.12_1_Adm2:
+    GID: NOR.18.12_1
+    admin_name: Sirdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.13_1_Adm2:
+    GID: NOR.18.13_1
+    admin_name: Søgne
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.14_1_Adm2:
+    GID: NOR.18.14_1
+    admin_name: Songdalen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.15_1_Adm2:
+    GID: NOR.18.15_1
+    admin_name: Vennesla
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.2_1_Adm2:
+    GID: NOR.18.2_1
+    admin_name: Audnedal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.3_1_Adm2:
+    GID: NOR.18.3_1
+    admin_name: Farsund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.4_1_Adm2:
+    GID: NOR.18.4_1
+    admin_name: Flekkefjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.5_1_Adm2:
+    GID: NOR.18.5_1
+    admin_name: Hægebostad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.6_1_Adm2:
+    GID: NOR.18.6_1
+    admin_name: Kristiansand
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.7_1_Adm2:
+    GID: NOR.18.7_1
+    admin_name: Kvinesdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.8_1_Adm2:
+    GID: NOR.18.8_1
+    admin_name: Lindesnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.18.9_1_Adm2:
+    GID: NOR.18.9_1
+    admin_name: Lyngdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19_1_Adm1:
+    GID: NOR.19_1
+    admin_name: Vestfold
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.19.1_1_Adm2:
+    GID: NOR.19.1_1
+    admin_name: Andebu
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.10_1_Adm2:
+    GID: NOR.19.10_1
+    admin_name: Sandefjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.11_1_Adm2:
+    GID: NOR.19.11_1
+    admin_name: Stokke
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.12_1_Adm2:
+    GID: NOR.19.12_1
+    admin_name: Svelvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.13_1_Adm2:
+    GID: NOR.19.13_1
+    admin_name: Tjøme
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.14_1_Adm2:
+    GID: NOR.19.14_1
+    admin_name: Tønsberg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.15_1_Adm2:
+    GID: NOR.19.15_1
+    admin_name: Vaale
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.2_1_Adm2:
+    GID: NOR.19.2_1
+    admin_name: Borre
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.3_1_Adm2:
+    GID: NOR.19.3_1
+    admin_name: Hof
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.4_1_Adm2:
+    GID: NOR.19.4_1
+    admin_name: Holmestrand
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.5_1_Adm2:
+    GID: NOR.19.5_1
+    admin_name: Lardal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.6_1_Adm2:
+    GID: NOR.19.6_1
+    admin_name: Larvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.7_1_Adm2:
+    GID: NOR.19.7_1
+    admin_name: Nøtterøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.8_1_Adm2:
+    GID: NOR.19.8_1
+    admin_name: Ramnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.19.9_1_Adm2:
+    GID: NOR.19.9_1
+    admin_name: Sande
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2_1_Adm1:
+    GID: NOR.2_1
+    admin_name: Ãstfold
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.2.1_1_Adm2:
+    GID: NOR.2.1_1
+    admin_name: Aremark
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.10_1_Adm2:
+    GID: NOR.2.10_1
+    admin_name: Marker
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.11_1_Adm2:
+    GID: NOR.2.11_1
+    admin_name: Moss
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.12_1_Adm2:
+    GID: NOR.2.12_1
+    admin_name: Onsoey
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.13_1_Adm2:
+    GID: NOR.2.13_1
+    admin_name: Råde
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.14_1_Adm2:
+    GID: NOR.2.14_1
+    admin_name: Rakkestad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.15_1_Adm2:
+    GID: NOR.2.15_1
+    admin_name: Rolvsoey
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.16_1_Adm2:
+    GID: NOR.2.16_1
+    admin_name: Rømskog
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.17_1_Adm2:
+    GID: NOR.2.17_1
+    admin_name: Rygge
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.18_1_Adm2:
+    GID: NOR.2.18_1
+    admin_name: Sarpsborg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.19_1_Adm2:
+    GID: NOR.2.19_1
+    admin_name: Skiptvet
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.2_1_Adm2:
+    GID: NOR.2.2_1
+    admin_name: Askim
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.20_1_Adm2:
+    GID: NOR.2.20_1
+    admin_name: Spydeberg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.21_1_Adm2:
+    GID: NOR.2.21_1
+    admin_name: Trøgstad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.22_1_Adm2:
+    GID: NOR.2.22_1
+    admin_name: Våler
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.3_1_Adm2:
+    GID: NOR.2.3_1
+    admin_name: Borge
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.4_1_Adm2:
+    GID: NOR.2.4_1
+    admin_name: Eidsberg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.5_1_Adm2:
+    GID: NOR.2.5_1
+    admin_name: Fredrikstad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.6_1_Adm2:
+    GID: NOR.2.6_1
+    admin_name: Halden
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.7_1_Adm2:
+    GID: NOR.2.7_1
+    admin_name: Hobøl
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.8_1_Adm2:
+    GID: NOR.2.8_1
+    admin_name: Hvaler
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.2.9_1_Adm2:
+    GID: NOR.2.9_1
+    admin_name: Kraakeroey
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3_1_Adm1:
+    GID: NOR.3_1
+    admin_name: Aust-Agder
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.3.1_1_Adm2:
+    GID: NOR.3.1_1
+    admin_name: Åmli
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.10_1_Adm2:
+    GID: NOR.3.10_1
+    admin_name: Iveland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.11_1_Adm2:
+    GID: NOR.3.11_1
+    admin_name: Lillesand
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.12_1_Adm2:
+    GID: NOR.3.12_1
+    admin_name: Risør
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.13_1_Adm2:
+    GID: NOR.3.13_1
+    admin_name: Tvedestrand
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.14_1_Adm2:
+    GID: NOR.3.14_1
+    admin_name: Valle
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.15_1_Adm2:
+    GID: NOR.3.15_1
+    admin_name: Vegårshei
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.2_1_Adm2:
+    GID: NOR.3.2_1
+    admin_name: Arendal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.3_1_Adm2:
+    GID: NOR.3.3_1
+    admin_name: Birkenes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.4_1_Adm2:
+    GID: NOR.3.4_1
+    admin_name: Bygland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.5_1_Adm2:
+    GID: NOR.3.5_1
+    admin_name: Bykle
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.6_1_Adm2:
+    GID: NOR.3.6_1
+    admin_name: Evje og Hornnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.7_1_Adm2:
+    GID: NOR.3.7_1
+    admin_name: Froland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.8_1_Adm2:
+    GID: NOR.3.8_1
+    admin_name: Gjerstad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.3.9_1_Adm2:
+    GID: NOR.3.9_1
+    admin_name: Grimstad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4_1_Adm1:
+    GID: NOR.4_1
+    admin_name: Buskerud
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.4.1_1_Adm2:
+    GID: NOR.4.1_1
+    admin_name: Ål
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.10_1_Adm2:
+    GID: NOR.4.10_1
+    admin_name: Kongsberg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.11_1_Adm2:
+    GID: NOR.4.11_1
+    admin_name: Krødsherad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.12_1_Adm2:
+    GID: NOR.4.12_1
+    admin_name: Lier
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.13_1_Adm2:
+    GID: NOR.4.13_1
+    admin_name: Modum
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.14_1_Adm2:
+    GID: NOR.4.14_1
+    admin_name: Nedre Eiker
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.15_1_Adm2:
+    GID: NOR.4.15_1
+    admin_name: Nes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.16_1_Adm2:
+    GID: NOR.4.16_1
+    admin_name: Nore og Uvdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.17_1_Adm2:
+    GID: NOR.4.17_1
+    admin_name: Øvre Eiker
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.18_1_Adm2:
+    GID: NOR.4.18_1
+    admin_name: Ringerike
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.19_1_Adm2:
+    GID: NOR.4.19_1
+    admin_name: Rollag
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.2_1_Adm2:
+    GID: NOR.4.2_1
+    admin_name: Drammen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.20_1_Adm2:
+    GID: NOR.4.20_1
+    admin_name: Røyken
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.21_1_Adm2:
+    GID: NOR.4.21_1
+    admin_name: Sigdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.3_1_Adm2:
+    GID: NOR.4.3_1
+    admin_name: Flå
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.4_1_Adm2:
+    GID: NOR.4.4_1
+    admin_name: Flesberg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.5_1_Adm2:
+    GID: NOR.4.5_1
+    admin_name: Gol
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.6_1_Adm2:
+    GID: NOR.4.6_1
+    admin_name: Hemsedal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.7_1_Adm2:
+    GID: NOR.4.7_1
+    admin_name: Hol
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.8_1_Adm2:
+    GID: NOR.4.8_1
+    admin_name: Hole
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.4.9_1_Adm2:
+    GID: NOR.4.9_1
+    admin_name: Hurum
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5_1_Adm1:
+    GID: NOR.5_1
+    admin_name: Finnmark
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.5.1_1_Adm2:
+    GID: NOR.5.1_1
+    admin_name: Alta
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.10_1_Adm2:
+    GID: NOR.5.10_1
+    admin_name: Lebesby
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.11_1_Adm2:
+    GID: NOR.5.11_1
+    admin_name: Loppa
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.12_1_Adm2:
+    GID: NOR.5.12_1
+    admin_name: Måsøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.13_1_Adm2:
+    GID: NOR.5.13_1
+    admin_name: Nesseby
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.14_1_Adm2:
+    GID: NOR.5.14_1
+    admin_name: Nordkapp
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.15_1_Adm2:
+    GID: NOR.5.15_1
+    admin_name: Porsanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.16_1_Adm2:
+    GID: NOR.5.16_1
+    admin_name: Sør-Varanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.17_1_Adm2:
+    GID: NOR.5.17_1
+    admin_name: Tana
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.18_1_Adm2:
+    GID: NOR.5.18_1
+    admin_name: Vadsø
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.19_1_Adm2:
+    GID: NOR.5.19_1
+    admin_name: Vardø
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.2_1_Adm2:
+    GID: NOR.5.2_1
+    admin_name: Båtsfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.3_1_Adm2:
+    GID: NOR.5.3_1
+    admin_name: Berlevåg
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.4_1_Adm2:
+    GID: NOR.5.4_1
+    admin_name: Gamvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.5_1_Adm2:
+    GID: NOR.5.5_1
+    admin_name: Hammerfest
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.6_1_Adm2:
+    GID: NOR.5.6_1
+    admin_name: Hasvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.7_1_Adm2:
+    GID: NOR.5.7_1
+    admin_name: Karasjok
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.8_1_Adm2:
+    GID: NOR.5.8_1
+    admin_name: Kautokeino
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.5.9_1_Adm2:
+    GID: NOR.5.9_1
+    admin_name: Kvalsund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6_1_Adm1:
+    GID: NOR.6_1
+    admin_name: Hedmark
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.6.1_1_Adm2:
+    GID: NOR.6.1_1
+    admin_name: Alvdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.10_1_Adm2:
+    GID: NOR.6.10_1
+    admin_name: Kongsvinger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.11_1_Adm2:
+    GID: NOR.6.11_1
+    admin_name: Løten
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.12_1_Adm2:
+    GID: NOR.6.12_1
+    admin_name: Nord-Odal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.13_1_Adm2:
+    GID: NOR.6.13_1
+    admin_name: Os
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.14_1_Adm2:
+    GID: NOR.6.14_1
+    admin_name: Rendalen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.15_1_Adm2:
+    GID: NOR.6.15_1
+    admin_name: Ringsaker
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.16_1_Adm2:
+    GID: NOR.6.16_1
+    admin_name: Sør-Odal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.17_1_Adm2:
+    GID: NOR.6.17_1
+    admin_name: Stange
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.18_1_Adm2:
+    GID: NOR.6.18_1
+    admin_name: Stor-Elvdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.19_1_Adm2:
+    GID: NOR.6.19_1
+    admin_name: Tolga
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.2_1_Adm2:
+    GID: NOR.6.2_1
+    admin_name: Åmot
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.20_1_Adm2:
+    GID: NOR.6.20_1
+    admin_name: Trysil
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.21_1_Adm2:
+    GID: NOR.6.21_1
+    admin_name: Tynset
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.22_1_Adm2:
+    GID: NOR.6.22_1
+    admin_name: Våler
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.3_1_Adm2:
+    GID: NOR.6.3_1
+    admin_name: Åsnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.4_1_Adm2:
+    GID: NOR.6.4_1
+    admin_name: Eidskog
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.5_1_Adm2:
+    GID: NOR.6.5_1
+    admin_name: Elverum
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.6_1_Adm2:
+    GID: NOR.6.6_1
+    admin_name: Engerdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.7_1_Adm2:
+    GID: NOR.6.7_1
+    admin_name: Folldal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.8_1_Adm2:
+    GID: NOR.6.8_1
+    admin_name: Grue
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.6.9_1_Adm2:
+    GID: NOR.6.9_1
+    admin_name: Hamar
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7_1_Adm1:
+    GID: NOR.7_1
+    admin_name: Hordaland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.7.1_1_Adm2:
+    GID: NOR.7.1_1
+    admin_name: Askøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.10_1_Adm2:
+    GID: NOR.7.10_1
+    admin_name: Fjell
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.11_1_Adm2:
+    GID: NOR.7.11_1
+    admin_name: Fusa
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.12_1_Adm2:
+    GID: NOR.7.12_1
+    admin_name: Granvin
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.13_1_Adm2:
+    GID: NOR.7.13_1
+    admin_name: Jondal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.14_1_Adm2:
+    GID: NOR.7.14_1
+    admin_name: Kvam
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.15_1_Adm2:
+    GID: NOR.7.15_1
+    admin_name: Kvinnherad
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.16_1_Adm2:
+    GID: NOR.7.16_1
+    admin_name: Lindås
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.17_1_Adm2:
+    GID: NOR.7.17_1
+    admin_name: Masfjorden
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.18_1_Adm2:
+    GID: NOR.7.18_1
+    admin_name: Meland
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.19_1_Adm2:
+    GID: NOR.7.19_1
+    admin_name: Modalen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.2_1_Adm2:
+    GID: NOR.7.2_1
+    admin_name: Austevoll
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.20_1_Adm2:
+    GID: NOR.7.20_1
+    admin_name: Odda
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.21_1_Adm2:
+    GID: NOR.7.21_1
+    admin_name: Oelen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.22_1_Adm2:
+    GID: NOR.7.22_1
+    admin_name: Os
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.23_1_Adm2:
+    GID: NOR.7.23_1
+    admin_name: Osterøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.24_1_Adm2:
+    GID: NOR.7.24_1
+    admin_name: Øygarden
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.25_1_Adm2:
+    GID: NOR.7.25_1
+    admin_name: Radøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.26_1_Adm2:
+    GID: NOR.7.26_1
+    admin_name: Samnanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.27_1_Adm2:
+    GID: NOR.7.27_1
+    admin_name: Stord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.28_1_Adm2:
+    GID: NOR.7.28_1
+    admin_name: Sund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.29_1_Adm2:
+    GID: NOR.7.29_1
+    admin_name: Sveio
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.3_1_Adm2:
+    GID: NOR.7.3_1
+    admin_name: Austrheim
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.30_1_Adm2:
+    GID: NOR.7.30_1
+    admin_name: Tysnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.31_1_Adm2:
+    GID: NOR.7.31_1
+    admin_name: Ullensvang
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.32_1_Adm2:
+    GID: NOR.7.32_1
+    admin_name: Ulvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.33_1_Adm2:
+    GID: NOR.7.33_1
+    admin_name: Vaksdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.34_1_Adm2:
+    GID: NOR.7.34_1
+    admin_name: Voss
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.4_1_Adm2:
+    GID: NOR.7.4_1
+    admin_name: Bergen
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.5_1_Adm2:
+    GID: NOR.7.5_1
+    admin_name: Bømlo
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.6_1_Adm2:
+    GID: NOR.7.6_1
+    admin_name: Eidfjord
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.7_1_Adm2:
+    GID: NOR.7.7_1
+    admin_name: Etne
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.8_1_Adm2:
+    GID: NOR.7.8_1
+    admin_name: Fedje
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.7.9_1_Adm2:
+    GID: NOR.7.9_1
+    admin_name: Fitjar
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8_1_Adm1:
+    GID: NOR.8_1
+    admin_name: Møre og Romsdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.8.1_1_Adm2:
+    GID: NOR.8.1_1
+    admin_name: Ålesund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.10_1_Adm2:
+    GID: NOR.8.10_1
+    admin_name: Halsa
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.11_1_Adm2:
+    GID: NOR.8.11_1
+    admin_name: Haram
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.12_1_Adm2:
+    GID: NOR.8.12_1
+    admin_name: Hareid
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.13_1_Adm2:
+    GID: NOR.8.13_1
+    admin_name: Herøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.14_1_Adm2:
+    GID: NOR.8.14_1
+    admin_name: Kristiansund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.15_1_Adm2:
+    GID: NOR.8.15_1
+    admin_name: Midsund
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.16_1_Adm2:
+    GID: NOR.8.16_1
+    admin_name: Molde
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.17_1_Adm2:
+    GID: NOR.8.17_1
+    admin_name: Nesset
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.18_1_Adm2:
+    GID: NOR.8.18_1
+    admin_name: Norddal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.19_1_Adm2:
+    GID: NOR.8.19_1
+    admin_name: Ørskog
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.2_1_Adm2:
+    GID: NOR.8.2_1
+    admin_name: Aukra
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.20_1_Adm2:
+    GID: NOR.8.20_1
+    admin_name: Ørsta
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.21_1_Adm2:
+    GID: NOR.8.21_1
+    admin_name: Rauma
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.22_1_Adm2:
+    GID: NOR.8.22_1
+    admin_name: Rindal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.23_1_Adm2:
+    GID: NOR.8.23_1
+    admin_name: Sande
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.24_1_Adm2:
+    GID: NOR.8.24_1
+    admin_name: Sandøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.25_1_Adm2:
+    GID: NOR.8.25_1
+    admin_name: Skodje
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.26_1_Adm2:
+    GID: NOR.8.26_1
+    admin_name: Smøla
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.27_1_Adm2:
+    GID: NOR.8.27_1
+    admin_name: Stordal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.28_1_Adm2:
+    GID: NOR.8.28_1
+    admin_name: Stranda
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.29_1_Adm2:
+    GID: NOR.8.29_1
+    admin_name: Sula
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.3_1_Adm2:
+    GID: NOR.8.3_1
+    admin_name: Aure
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.30_1_Adm2:
+    GID: NOR.8.30_1
+    admin_name: Sunndal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.31_1_Adm2:
+    GID: NOR.8.31_1
+    admin_name: Surnadal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.32_1_Adm2:
+    GID: NOR.8.32_1
+    admin_name: Sykkylven
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.33_1_Adm2:
+    GID: NOR.8.33_1
+    admin_name: Tingvoll
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.34_1_Adm2:
+    GID: NOR.8.34_1
+    admin_name: Tustna
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.35_1_Adm2:
+    GID: NOR.8.35_1
+    admin_name: Ulstein
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.36_1_Adm2:
+    GID: NOR.8.36_1
+    admin_name: Vanylven
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.37_1_Adm2:
+    GID: NOR.8.37_1
+    admin_name: Vestnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.38_1_Adm2:
+    GID: NOR.8.38_1
+    admin_name: Volda
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.4_1_Adm2:
+    GID: NOR.8.4_1
+    admin_name: Averøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.5_1_Adm2:
+    GID: NOR.8.5_1
+    admin_name: Eide
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.6_1_Adm2:
+    GID: NOR.8.6_1
+    admin_name: Fræna
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.7_1_Adm2:
+    GID: NOR.8.7_1
+    admin_name: Frei
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.8_1_Adm2:
+    GID: NOR.8.8_1
+    admin_name: Giske
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.8.9_1_Adm2:
+    GID: NOR.8.9_1
+    admin_name: Gjemnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9_1_Adm1:
+    GID: NOR.9_1
+    admin_name: Nord-Trøndelag
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm1
+  NOR.9.1_1_Adm2:
+    GID: NOR.9.1_1
+    admin_name: Flatanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.10_1_Adm2:
+    GID: NOR.9.10_1
+    admin_name: Lierne
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.11_1_Adm2:
+    GID: NOR.9.11_1
+    admin_name: Mandalseid
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.12_1_Adm2:
+    GID: NOR.9.12_1
+    admin_name: Meråker
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.13_1_Adm2:
+    GID: NOR.9.13_1
+    admin_name: Mosvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.14_1_Adm2:
+    GID: NOR.9.14_1
+    admin_name: Nærøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.15_1_Adm2:
+    GID: NOR.9.15_1
+    admin_name: Namsos
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.16_1_Adm2:
+    GID: NOR.9.16_1
+    admin_name: Namsskogan
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.17_1_Adm2:
+    GID: NOR.9.17_1
+    admin_name: Overhalla
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.18_1_Adm2:
+    GID: NOR.9.18_1
+    admin_name: Røyrvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.19_1_Adm2:
+    GID: NOR.9.19_1
+    admin_name: Snåsa
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.2_1_Adm2:
+    GID: NOR.9.2_1
+    admin_name: Fosnes
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.20_1_Adm2:
+    GID: NOR.9.20_1
+    admin_name: Steinkjer
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.21_1_Adm2:
+    GID: NOR.9.21_1
+    admin_name: Stjørdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.22_1_Adm2:
+    GID: NOR.9.22_1
+    admin_name: Verdal
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.23_1_Adm2:
+    GID: NOR.9.23_1
+    admin_name: Verran
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.24_1_Adm2:
+    GID: NOR.9.24_1
+    admin_name: Vikna
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.3_1_Adm2:
+    GID: NOR.9.3_1
+    admin_name: Frosta
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.4_1_Adm2:
+    GID: NOR.9.4_1
+    admin_name: Grong
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.5_1_Adm2:
+    GID: NOR.9.5_1
+    admin_name: Høylandet
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.6_1_Adm2:
+    GID: NOR.9.6_1
+    admin_name: Inderøy
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.7_1_Adm2:
+    GID: NOR.9.7_1
+    admin_name: Leka
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.8_1_Adm2:
+    GID: NOR.9.8_1
+    admin_name: Leksvik
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2
+  NOR.9.9_1_Adm2:
+    GID: NOR.9.9_1
+    admin_name: Levanger
+    iso3c: NOR
+    country_name: Norway
+    admin_level: Adm2

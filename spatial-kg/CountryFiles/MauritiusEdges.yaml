@@ -1,0 +1,13 @@
+relations:
+    - (MUS.0_Adm0, MUS.1_1_Adm1)
+    - (MUS.0_Adm0, MUS.2_1_Adm1)
+    - (MUS.0_Adm0, MUS.3_1_Adm1)
+    - (MUS.0_Adm0, MUS.4_1_Adm1)
+    - (MUS.0_Adm0, MUS.5_1_Adm1)
+    - (MUS.0_Adm0, MUS.6_1_Adm1)
+    - (MUS.0_Adm0, MUS.7_1_Adm1)
+    - (MUS.0_Adm0, MUS.8_1_Adm1)
+    - (MUS.0_Adm0, MUS.9_1_Adm1)
+    - (MUS.0_Adm0, MUS.10_1_Adm1)
+    - (MUS.0_Adm0, MUS.11_1_Adm1)
+    - (MUS.0_Adm0, MUS.12_1_Adm1)

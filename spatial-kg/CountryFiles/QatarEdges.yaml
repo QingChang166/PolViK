@@ -1,0 +1,8 @@
+relations:
+    - (QAT.0_Adm0, QAT.1_1_Adm1)
+    - (QAT.0_Adm0, QAT.2_1_Adm1)
+    - (QAT.0_Adm0, QAT.3_1_Adm1)
+    - (QAT.0_Adm0, QAT.4_1_Adm1)
+    - (QAT.0_Adm0, QAT.5_1_Adm1)
+    - (QAT.0_Adm0, QAT.6_1_Adm1)
+    - (QAT.0_Adm0, QAT.7_1_Adm1)

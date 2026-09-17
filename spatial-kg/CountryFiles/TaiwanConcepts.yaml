@@ -1,0 +1,181 @@
+concepts:
+  TWN.0_Adm0:
+    GID: TWN
+    admin_name: Taiwan
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm0
+  TWN.1_1_Adm1:
+    GID: TWN.1_1
+    admin_name: Fujian
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm1
+  TWN.1.1_1_Adm2:
+    GID: TWN.1.1_1
+    admin_name: Kinmen
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.1.2_1_Adm2:
+    GID: TWN.1.2_1
+    admin_name: Lienkiang
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.2_1_Adm1:
+    GID: TWN.2_1
+    admin_name: Kaohsiung
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm1
+  TWN.2.1_1_Adm2:
+    GID: TWN.2.1_1
+    admin_name: Kaohsiung
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.3_1_Adm1:
+    GID: TWN.3_1
+    admin_name: New Taipei
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm1
+  TWN.3.1_1_Adm2:
+    GID: TWN.3.1_1
+    admin_name: New Taipei
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.4_1_Adm1:
+    GID: TWN.4_1
+    admin_name: Taichung
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm1
+  TWN.4.1_1_Adm2:
+    GID: TWN.4.1_1
+    admin_name: Taichung
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.5_1_Adm1:
+    GID: TWN.5_1
+    admin_name: Tainan
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm1
+  TWN.5.1_1_Adm2:
+    GID: TWN.5.1_1
+    admin_name: Tainan
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.6_1_Adm1:
+    GID: TWN.6_1
+    admin_name: Taipei
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm1
+  TWN.6.1_1_Adm2:
+    GID: TWN.6.1_1
+    admin_name: Taipei
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7_1_Adm1:
+    GID: TWN.7_1
+    admin_name: Taiwan
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm1
+  TWN.7.1_1_Adm2:
+    GID: TWN.7.1_1
+    admin_name: Changhua
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.10_1_Adm2:
+    GID: TWN.7.10_1
+    admin_name: Penghu
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.11_1_Adm2:
+    GID: TWN.7.11_1
+    admin_name: Pingtung
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.12_1_Adm2:
+    GID: TWN.7.12_1
+    admin_name: Taitung
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.13_1_Adm2:
+    GID: TWN.7.13_1
+    admin_name: Taoyuan
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.14_1_Adm2:
+    GID: TWN.7.14_1
+    admin_name: Yilan
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.15_1_Adm2:
+    GID: TWN.7.15_1
+    admin_name: Yulin
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.2_1_Adm2:
+    GID: TWN.7.2_1
+    admin_name: Chiayi City
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.3_1_Adm2:
+    GID: TWN.7.3_1
+    admin_name: Chiayi County
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.4_1_Adm2:
+    GID: TWN.7.4_1
+    admin_name: Hsinchu City
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.5_1_Adm2:
+    GID: TWN.7.5_1
+    admin_name: Hsinchu County
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.6_1_Adm2:
+    GID: TWN.7.6_1
+    admin_name: Hualien
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.7_1_Adm2:
+    GID: TWN.7.7_1
+    admin_name: Keelung
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.8_1_Adm2:
+    GID: TWN.7.8_1
+    admin_name: Miaoli
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2
+  TWN.7.9_1_Adm2:
+    GID: TWN.7.9_1
+    admin_name: Nantou
+    iso3c: TWN
+    country_name: Taiwan
+    admin_level: Adm2

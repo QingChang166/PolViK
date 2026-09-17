@@ -1,0 +1,661 @@
+concepts:
+  PNG.0_Adm0:
+    GID: PNG
+    admin_name: Papua New Guinea
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm0
+  PNG.1_1_Adm1:
+    GID: PNG.1_1
+    admin_name: Bougainville
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.1.1_1_Adm2:
+    GID: PNG.1.1_1
+    admin_name: Central Bougainville
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.1.2_1_Adm2:
+    GID: PNG.1.2_1
+    admin_name: North Bougainville
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.1.3_1_Adm2:
+    GID: PNG.1.3_1
+    admin_name: South Bougainville
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.10_1_Adm1:
+    GID: PNG.10_1
+    admin_name: Jiwaka
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.10.1_1_Adm2:
+    GID: PNG.10.1_1
+    admin_name: Anglimp-South Waghi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.10.2_1_Adm2:
+    GID: PNG.10.2_1
+    admin_name: Jimi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.10.3_1_Adm2:
+    GID: PNG.10.3_1
+    admin_name: North Waghi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.11_1_Adm1:
+    GID: PNG.11_1
+    admin_name: Madang
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.11.1_1_Adm2:
+    GID: PNG.11.1_1
+    admin_name: Bogia
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.11.2_1_Adm2:
+    GID: PNG.11.2_1
+    admin_name: Madang
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.11.3_1_Adm2:
+    GID: PNG.11.3_1
+    admin_name: Middle Ramu
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.11.4_1_Adm2:
+    GID: PNG.11.4_1
+    admin_name: Rai Coast
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.11.5_1_Adm2:
+    GID: PNG.11.5_1
+    admin_name: Sumkar
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.11.6_1_Adm2:
+    GID: PNG.11.6_1
+    admin_name: Usino-Bundi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.12_1_Adm1:
+    GID: PNG.12_1
+    admin_name: Manus
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.12.1_1_Adm2:
+    GID: PNG.12.1_1
+    admin_name: Manus
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.13_1_Adm1:
+    GID: PNG.13_1
+    admin_name: Milne Bay
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.13.1_1_Adm2:
+    GID: PNG.13.1_1
+    admin_name: Alotau
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.13.2_1_Adm2:
+    GID: PNG.13.2_1
+    admin_name: Esa'ala
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.13.3_1_Adm2:
+    GID: PNG.13.3_1
+    admin_name: Kiriwina-Goodenough
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.13.4_1_Adm2:
+    GID: PNG.13.4_1
+    admin_name: Samarai-Murua
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14_1_Adm1:
+    GID: PNG.14_1
+    admin_name: Morobe
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.14.1_1_Adm2:
+    GID: PNG.14.1_1
+    admin_name: Bulolo
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14.2_1_Adm2:
+    GID: PNG.14.2_1
+    admin_name: Finschhafen
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14.3_1_Adm2:
+    GID: PNG.14.3_1
+    admin_name: Huon
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14.4_1_Adm2:
+    GID: PNG.14.4_1
+    admin_name: Kabwum
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14.5_1_Adm2:
+    GID: PNG.14.5_1
+    admin_name: Lae
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14.6_1_Adm2:
+    GID: PNG.14.6_1
+    admin_name: Markham
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14.7_1_Adm2:
+    GID: PNG.14.7_1
+    admin_name: Menyamya
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14.8_1_Adm2:
+    GID: PNG.14.8_1
+    admin_name: Nawae
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.14.9_1_Adm2:
+    GID: PNG.14.9_1
+    admin_name: Tewae-Siassi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.15_1_Adm1:
+    GID: PNG.15_1
+    admin_name: National Capital District
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.15.1_1_Adm2:
+    GID: PNG.15.1_1
+    admin_name: National Capital District
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.16_1_Adm1:
+    GID: PNG.16_1
+    admin_name: New Ireland
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.16.1_1_Adm2:
+    GID: PNG.16.1_1
+    admin_name: Kavieng
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.16.2_1_Adm2:
+    GID: PNG.16.2_1
+    admin_name: Namatanai
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.17_1_Adm1:
+    GID: PNG.17_1
+    admin_name: Oro
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.17.1_1_Adm2:
+    GID: PNG.17.1_1
+    admin_name: Ijivitari
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.17.2_1_Adm2:
+    GID: PNG.17.2_1
+    admin_name: Sohe
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.18_1_Adm1:
+    GID: PNG.18_1
+    admin_name: Sandaun
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.18.1_1_Adm2:
+    GID: PNG.18.1_1
+    admin_name: Aitape-Lumi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.18.2_1_Adm2:
+    GID: PNG.18.2_1
+    admin_name: Nuku
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.18.3_1_Adm2:
+    GID: PNG.18.3_1
+    admin_name: Telefomin
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.18.4_1_Adm2:
+    GID: PNG.18.4_1
+    admin_name: Vanimo-Green River
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.19_1_Adm1:
+    GID: PNG.19_1
+    admin_name: Southern Highlands
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.19.1_1_Adm2:
+    GID: PNG.19.1_1
+    admin_name: Ialibu-Pangia
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.19.2_1_Adm2:
+    GID: PNG.19.2_1
+    admin_name: Imbonggu
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.19.3_1_Adm2:
+    GID: PNG.19.3_1
+    admin_name: Kagua-Erave
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.19.4_1_Adm2:
+    GID: PNG.19.4_1
+    admin_name: Mendi-Munihu
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.19.5_1_Adm2:
+    GID: PNG.19.5_1
+    admin_name: Nipa-Kutubu
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.2_1_Adm1:
+    GID: PNG.2_1
+    admin_name: Central
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.2.1_1_Adm2:
+    GID: PNG.2.1_1
+    admin_name: Abau
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.2.2_1_Adm2:
+    GID: PNG.2.2_1
+    admin_name: Goilala
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.2.3_1_Adm2:
+    GID: PNG.2.3_1
+    admin_name: Kairuku-Hiri
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.2.4_1_Adm2:
+    GID: PNG.2.4_1
+    admin_name: Rigo
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.20_1_Adm1:
+    GID: PNG.20_1
+    admin_name: West New Britain
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.20.1_1_Adm2:
+    GID: PNG.20.1_1
+    admin_name: Kandrian-Gloucester
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.20.2_1_Adm2:
+    GID: PNG.20.2_1
+    admin_name: Talasea
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.21_1_Adm1:
+    GID: PNG.21_1
+    admin_name: Western Highlands
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.21.1_1_Adm2:
+    GID: PNG.21.1_1
+    admin_name: Dei
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.21.2_1_Adm2:
+    GID: PNG.21.2_1
+    admin_name: Mount Hagen
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.21.3_1_Adm2:
+    GID: PNG.21.3_1
+    admin_name: Mul-Baiyer
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.21.4_1_Adm2:
+    GID: PNG.21.4_1
+    admin_name: Tambul-Nebilyer
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.22_1_Adm1:
+    GID: PNG.22_1
+    admin_name: Western
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.22.1_1_Adm2:
+    GID: PNG.22.1_1
+    admin_name: Middle Fly
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.22.2_1_Adm2:
+    GID: PNG.22.2_1
+    admin_name: North Fly
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.22.3_1_Adm2:
+    GID: PNG.22.3_1
+    admin_name: South Fly
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.3_1_Adm1:
+    GID: PNG.3_1
+    admin_name: Chimbu
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.3.1_1_Adm2:
+    GID: PNG.3.1_1
+    admin_name: Chuave
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.3.2_1_Adm2:
+    GID: PNG.3.2_1
+    admin_name: Gumine
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.3.3_1_Adm2:
+    GID: PNG.3.3_1
+    admin_name: Karimui-Nomane
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.3.4_1_Adm2:
+    GID: PNG.3.4_1
+    admin_name: Kerowagi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.3.5_1_Adm2:
+    GID: PNG.3.5_1
+    admin_name: Kundiawa-Gembogl
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.3.6_1_Adm2:
+    GID: PNG.3.6_1
+    admin_name: Sina Sina-Yonggomugl
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.4_1_Adm1:
+    GID: PNG.4_1
+    admin_name: East New Britain
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.4.1_1_Adm2:
+    GID: PNG.4.1_1
+    admin_name: Gazelle
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.4.2_1_Adm2:
+    GID: PNG.4.2_1
+    admin_name: Kokopo
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.4.3_1_Adm2:
+    GID: PNG.4.3_1
+    admin_name: Pomio
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.4.4_1_Adm2:
+    GID: PNG.4.4_1
+    admin_name: Rabaul
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.5_1_Adm1:
+    GID: PNG.5_1
+    admin_name: East Sepik
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.5.1_1_Adm2:
+    GID: PNG.5.1_1
+    admin_name: Ambunti-Dreikikir
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.5.2_1_Adm2:
+    GID: PNG.5.2_1
+    admin_name: Angoram
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.5.3_1_Adm2:
+    GID: PNG.5.3_1
+    admin_name: Maprik
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.5.4_1_Adm2:
+    GID: PNG.5.4_1
+    admin_name: Wewak
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.5.5_1_Adm2:
+    GID: PNG.5.5_1
+    admin_name: Wosera-Gawi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.5.6_1_Adm2:
+    GID: PNG.5.6_1
+    admin_name: Yangoro-Saussia
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.6_1_Adm1:
+    GID: PNG.6_1
+    admin_name: Eastern Highlands
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.6.1_1_Adm2:
+    GID: PNG.6.1_1
+    admin_name: Daulo
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.6.2_1_Adm2:
+    GID: PNG.6.2_1
+    admin_name: Goroka
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.6.3_1_Adm2:
+    GID: PNG.6.3_1
+    admin_name: Henganofi
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.6.4_1_Adm2:
+    GID: PNG.6.4_1
+    admin_name: Kainantu
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.6.5_1_Adm2:
+    GID: PNG.6.5_1
+    admin_name: Lufa
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.6.6_1_Adm2:
+    GID: PNG.6.6_1
+    admin_name: Obura-Wonenara
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.6.7_1_Adm2:
+    GID: PNG.6.7_1
+    admin_name: Okapa
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.6.8_1_Adm2:
+    GID: PNG.6.8_1
+    admin_name: Unggai-Bena
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.7_1_Adm1:
+    GID: PNG.7_1
+    admin_name: Enga
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.7.1_1_Adm2:
+    GID: PNG.7.1_1
+    admin_name: Kandep
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.7.2_1_Adm2:
+    GID: PNG.7.2_1
+    admin_name: Kompiam-Ambum
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.7.3_1_Adm2:
+    GID: PNG.7.3_1
+    admin_name: Lagaip-Porgera
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.7.4_1_Adm2:
+    GID: PNG.7.4_1
+    admin_name: Wabag
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.7.5_1_Adm2:
+    GID: PNG.7.5_1
+    admin_name: Wapenamanda
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.8_1_Adm1:
+    GID: PNG.8_1
+    admin_name: Gulf
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.8.1_1_Adm2:
+    GID: PNG.8.1_1
+    admin_name: Kerema
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.8.2_1_Adm2:
+    GID: PNG.8.2_1
+    admin_name: Kikori
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.9_1_Adm1:
+    GID: PNG.9_1
+    admin_name: Hela
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm1
+  PNG.9.1_1_Adm2:
+    GID: PNG.9.1_1
+    admin_name: Komo-Magarima
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.9.2_1_Adm2:
+    GID: PNG.9.2_1
+    admin_name: Koroba-Kopiago
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2
+  PNG.9.3_1_Adm2:
+    GID: PNG.9.3_1
+    admin_name: Tari-Pori
+    iso3c: PNG
+    country_name: Papua New Guinea
+    admin_level: Adm2

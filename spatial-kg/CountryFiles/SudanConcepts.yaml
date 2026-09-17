@@ -1,0 +1,595 @@
+concepts:
+  SDN.0_Adm0:
+    GID: SDN
+    admin_name: Sudan
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm0
+  SDN.1_1_Adm1:
+    GID: SDN.1_1
+    admin_name: Al Jazirah
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.1.1_1_Adm2:
+    GID: SDN.1.1_1
+    admin_name: Al Kamlin
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.1.2_1_Adm2:
+    GID: SDN.1.2_1
+    admin_name: Al Mahagil
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.1.3_1_Adm2:
+    GID: SDN.1.3_1
+    admin_name: East al Gazera
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.1.4_1_Adm2:
+    GID: SDN.1.4_1
+    admin_name: North al Gazera
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.1.5_1_Adm2:
+    GID: SDN.1.5_1
+    admin_name: Sharq al Gazera
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.1.6_1_Adm2:
+    GID: SDN.1.6_1
+    admin_name: South al Gazera
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.1.7_1_Adm2:
+    GID: SDN.1.7_1
+    admin_name: Um Al Gura
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.10_1_Adm1:
+    GID: SDN.10_1
+    admin_name: Northern
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.10.1_1_Adm2:
+    GID: SDN.10.1_1
+    admin_name: Addabah
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.10.2_1_Adm2:
+    GID: SDN.10.2_1
+    admin_name: Dongola
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.10.3_1_Adm2:
+    GID: SDN.10.3_1
+    admin_name: Merawi
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.10.4_1_Adm2:
+    GID: SDN.10.4_1
+    admin_name: Wadi Halfa
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.11_1_Adm1:
+    GID: SDN.11_1
+    admin_name: Red Sea
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.11.1_1_Adm2:
+    GID: SDN.11.1_1
+    admin_name: Halayeb
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.11.2_1_Adm2:
+    GID: SDN.11.2_1
+    admin_name: Port Sudan
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.11.3_1_Adm2:
+    GID: SDN.11.3_1
+    admin_name: Sinkat
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.11.4_1_Adm2:
+    GID: SDN.11.4_1
+    admin_name: Tokar
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.12_1_Adm1:
+    GID: SDN.12_1
+    admin_name: River Nile
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.12.1_1_Adm2:
+    GID: SDN.12.1_1
+    admin_name: Abu Hamad
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.12.2_1_Adm2:
+    GID: SDN.12.2_1
+    admin_name: Ad Damer
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.12.3_1_Adm2:
+    GID: SDN.12.3_1
+    admin_name: Al Matammah
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.12.4_1_Adm2:
+    GID: SDN.12.4_1
+    admin_name: Atbara
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.12.5_1_Adm2:
+    GID: SDN.12.5_1
+    admin_name: Berber
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.12.6_1_Adm2:
+    GID: SDN.12.6_1
+    admin_name: Shendi
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.13_1_Adm1:
+    GID: SDN.13_1
+    admin_name: Sennar
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.13.1_1_Adm2:
+    GID: SDN.13.1_1
+    admin_name: Ad Dinder
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.13.2_1_Adm2:
+    GID: SDN.13.2_1
+    admin_name: Sennar
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.13.3_1_Adm2:
+    GID: SDN.13.3_1
+    admin_name: Singa
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.14_1_Adm1:
+    GID: SDN.14_1
+    admin_name: South Darfur
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.14.1_1_Adm2:
+    GID: SDN.14.1_1
+    admin_name: Buram
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.14.2_1_Adm2:
+    GID: SDN.14.2_1
+    admin_name: Id El Ghanem
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.14.3_1_Adm2:
+    GID: SDN.14.3_1
+    admin_name: Kas
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.14.4_1_Adm2:
+    GID: SDN.14.4_1
+    admin_name: Nyala
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.14.5_1_Adm2:
+    GID: SDN.14.5_1
+    admin_name: Tulus
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.15_1_Adm1:
+    GID: SDN.15_1
+    admin_name: South Kurdufan
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.15.1_1_Adm2:
+    GID: SDN.15.1_1
+    admin_name: Abu Jubaiyah
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.15.2_1_Adm2:
+    GID: SDN.15.2_1
+    admin_name: Dilling
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.15.3_1_Adm2:
+    GID: SDN.15.3_1
+    admin_name: Kadugli
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.15.4_1_Adm2:
+    GID: SDN.15.4_1
+    admin_name: Rashad
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.15.5_1_Adm2:
+    GID: SDN.15.5_1
+    admin_name: Talodi
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.16_1_Adm1:
+    GID: SDN.16_1
+    admin_name: West Darfur
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.16.1_1_Adm2:
+    GID: SDN.16.1_1
+    admin_name: Al Geneina
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.17_1_Adm1:
+    GID: SDN.17_1
+    admin_name: West Kurdufan
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.17.1_1_Adm2:
+    GID: SDN.17.1_1
+    admin_name: Abyei
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.17.2_1_Adm2:
+    GID: SDN.17.2_1
+    admin_name: As Salam
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.17.3_1_Adm2:
+    GID: SDN.17.3_1
+    admin_name: En Nuhud
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.17.4_1_Adm2:
+    GID: SDN.17.4_1
+    admin_name: Ghebeish
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.17.5_1_Adm2:
+    GID: SDN.17.5_1
+    admin_name: Lagawa
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.18_1_Adm1:
+    GID: SDN.18_1
+    admin_name: White Nile
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.18.1_1_Adm2:
+    GID: SDN.18.1_1
+    admin_name: Ad Douiem
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.18.2_1_Adm2:
+    GID: SDN.18.2_1
+    admin_name: Al Gutaina
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.18.3_1_Adm2:
+    GID: SDN.18.3_1
+    admin_name: Al Jabalian
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.18.4_1_Adm2:
+    GID: SDN.18.4_1
+    admin_name: Kosti
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.2_1_Adm1:
+    GID: SDN.2_1
+    admin_name: Al Qadarif
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.2.1_1_Adm2:
+    GID: SDN.2.1_1
+    admin_name: Al Faw
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.2.2_1_Adm2:
+    GID: SDN.2.2_1
+    admin_name: Al Fushqa
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.2.3_1_Adm2:
+    GID: SDN.2.3_1
+    admin_name: Al Gadaref
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.2.4_1_Adm2:
+    GID: SDN.2.4_1
+    admin_name: Al Galabat
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.2.5_1_Adm2:
+    GID: SDN.2.5_1
+    admin_name: Al Rahd
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.3_1_Adm1:
+    GID: SDN.3_1
+    admin_name: Blue Nile
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.3.1_1_Adm2:
+    GID: SDN.3.1_1
+    admin_name: Ad Damazin
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.3.2_1_Adm2:
+    GID: SDN.3.2_1
+    admin_name: Al Kurumik
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.3.3_1_Adm2:
+    GID: SDN.3.3_1
+    admin_name: Al Roseires
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.3.4_1_Adm2:
+    GID: SDN.3.4_1
+    admin_name: Baw
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.3.5_1_Adm2:
+    GID: SDN.3.5_1
+    admin_name: Geissan
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.4_1_Adm1:
+    GID: SDN.4_1
+    admin_name: Central Darfur
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.4.1_1_Adm2:
+    GID: SDN.4.1_1
+    admin_name: Mukjar
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.4.2_1_Adm2:
+    GID: SDN.4.2_1
+    admin_name: Zallingi
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.5_1_Adm1:
+    GID: SDN.5_1
+    admin_name: East Darfur
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.5.1_1_Adm2:
+    GID: SDN.5.1_1
+    admin_name: Al Deain
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.5.2_1_Adm2:
+    GID: SDN.5.2_1
+    admin_name: Nyala
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.6_1_Adm1:
+    GID: SDN.6_1
+    admin_name: Kassala
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.6.1_1_Adm2:
+    GID: SDN.6.1_1
+    admin_name: Al Gash
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.6.2_1_Adm2:
+    GID: SDN.6.2_1
+    admin_name: Hamashkorieb
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.6.3_1_Adm2:
+    GID: SDN.6.3_1
+    admin_name: Kassala
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.6.4_1_Adm2:
+    GID: SDN.6.4_1
+    admin_name: Nahr Atbara
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.6.5_1_Adm2:
+    GID: SDN.6.5_1
+    admin_name: Seteet
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.7_1_Adm1:
+    GID: SDN.7_1
+    admin_name: Khartoum
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.7.1_1_Adm2:
+    GID: SDN.7.1_1
+    admin_name: Karary
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.7.2_1_Adm2:
+    GID: SDN.7.2_1
+    admin_name: Khartoum Bahri
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.7.3_1_Adm2:
+    GID: SDN.7.3_1
+    admin_name: Khartoum
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.7.4_1_Adm2:
+    GID: SDN.7.4_1
+    admin_name: Omdurman
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.7.5_1_Adm2:
+    GID: SDN.7.5_1
+    admin_name: Sharg En Nile
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.7.6_1_Adm2:
+    GID: SDN.7.6_1
+    admin_name: South Khartoum
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.7.7_1_Adm2:
+    GID: SDN.7.7_1
+    admin_name: Um Badda
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.8_1_Adm1:
+    GID: SDN.8_1
+    admin_name: North Darfur
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.8.1_1_Adm2:
+    GID: SDN.8.1_1
+    admin_name: Al Fasher
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.8.2_1_Adm2:
+    GID: SDN.8.2_1
+    admin_name: Kabkabiya
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.8.3_1_Adm2:
+    GID: SDN.8.3_1
+    admin_name: Kutum
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.8.4_1_Adm2:
+    GID: SDN.8.4_1
+    admin_name: Mellit
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.8.5_1_Adm2:
+    GID: SDN.8.5_1
+    admin_name: Um Kadada
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.9_1_Adm1:
+    GID: SDN.9_1
+    admin_name: North Kurdufan
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm1
+  SDN.9.1_1_Adm2:
+    GID: SDN.9.1_1
+    admin_name: Bara
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.9.2_1_Adm2:
+    GID: SDN.9.2_1
+    admin_name: Jebrat al Sheikh
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.9.3_1_Adm2:
+    GID: SDN.9.3_1
+    admin_name: Sheikan
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.9.4_1_Adm2:
+    GID: SDN.9.4_1
+    admin_name: Sowdari
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2
+  SDN.9.5_1_Adm2:
+    GID: SDN.9.5_1
+    admin_name: Um Rawaba
+    iso3c: SDN
+    country_name: Sudan
+    admin_level: Adm2

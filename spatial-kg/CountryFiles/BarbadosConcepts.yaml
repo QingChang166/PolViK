@@ -1,0 +1,73 @@
+concepts:
+  BRB.0_Adm0:
+    GID: BRB
+    admin_name: Barbados
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm0
+  BRB.1_1_Adm1:
+    GID: BRB.1_1
+    admin_name: Christ Church
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.10_1_Adm1:
+    GID: BRB.10_1
+    admin_name: Saint Philip
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.11_1_Adm1:
+    GID: BRB.11_1
+    admin_name: Saint Thomas
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.2_1_Adm1:
+    GID: BRB.2_1
+    admin_name: Saint Andrew
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.3_1_Adm1:
+    GID: BRB.3_1
+    admin_name: Saint George
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.4_1_Adm1:
+    GID: BRB.4_1
+    admin_name: Saint James
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.5_1_Adm1:
+    GID: BRB.5_1
+    admin_name: Saint John
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.6_1_Adm1:
+    GID: BRB.6_1
+    admin_name: Saint Joseph
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.7_1_Adm1:
+    GID: BRB.7_1
+    admin_name: Saint Lucy
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.8_1_Adm1:
+    GID: BRB.8_1
+    admin_name: Saint Michael
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1
+  BRB.9_1_Adm1:
+    GID: BRB.9_1
+    admin_name: Saint Peter
+    iso3c: BRB
+    country_name: Barbados
+    admin_level: Adm1

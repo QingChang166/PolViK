@@ -1,0 +1,97 @@
+concepts:
+  LUX.0_Adm0:
+    GID: LUX
+    admin_name: Luxembourg
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm0
+  LUX.1_1_Adm1:
+    GID: LUX.1_1
+    admin_name: Diekirch
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm1
+  LUX.1.1_1_Adm2:
+    GID: LUX.1.1_1
+    admin_name: Clervaux
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.1.2_1_Adm2:
+    GID: LUX.1.2_1
+    admin_name: Diekirch
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.1.3_1_Adm2:
+    GID: LUX.1.3_1
+    admin_name: Redange
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.1.4_1_Adm2:
+    GID: LUX.1.4_1
+    admin_name: Vianden
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.1.5_1_Adm2:
+    GID: LUX.1.5_1
+    admin_name: Wiltz
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.2_1_Adm1:
+    GID: LUX.2_1
+    admin_name: Grevenmacher
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm1
+  LUX.2.1_1_Adm2:
+    GID: LUX.2.1_1
+    admin_name: Echternach
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.2.2_1_Adm2:
+    GID: LUX.2.2_1
+    admin_name: Grevenmacher
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.2.3_1_Adm2:
+    GID: LUX.2.3_1
+    admin_name: Remich
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.3_1_Adm1:
+    GID: LUX.3_1
+    admin_name: Luxembourg
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm1
+  LUX.3.1_1_Adm2:
+    GID: LUX.3.1_1
+    admin_name: Capellen
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.3.2_1_Adm2:
+    GID: LUX.3.2_1
+    admin_name: Esch-sur-Alzette
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.3.3_1_Adm2:
+    GID: LUX.3.3_1
+    admin_name: Luxembourg
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2
+  LUX.3.4_1_Adm2:
+    GID: LUX.3.4_1
+    admin_name: Mersch
+    iso3c: LUX
+    country_name: Luxembourg
+    admin_level: Adm2

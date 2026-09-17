@@ -1,0 +1,7 @@
+relations:
+    - (BLZ.0_Adm0, BLZ.1_1_Adm1)
+    - (BLZ.0_Adm0, BLZ.2_1_Adm1)
+    - (BLZ.0_Adm0, BLZ.3_1_Adm1)
+    - (BLZ.0_Adm0, BLZ.4_1_Adm1)
+    - (BLZ.0_Adm0, BLZ.5_1_Adm1)
+    - (BLZ.0_Adm0, BLZ.6_1_Adm1)

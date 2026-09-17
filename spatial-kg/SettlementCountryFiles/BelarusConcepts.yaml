@@ -1,0 +1,4557 @@
+concepts:
+   Belarus_22_687:
+      SMOD_ID: 22_687
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Kamyanyets
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6347'
+      - '6182'
+      - '6099'
+      - '6072'
+      - '7108'
+      - '7699'
+      - '7299'
+      - '7002'
+      - '6776'
+      - '6303'
+      - '5989'
+      - '5671'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_688:
+      SMOD_ID: 22_688
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Zhabinka
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.16_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '11634'
+      - '11532'
+      - '11571'
+      - '11733'
+      - '12914'
+      - '13669'
+      - '13348'
+      - '13174'
+      - '12888'
+      - '12169'
+      - '11527'
+      - '10961'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_689:
+      SMOD_ID: 22_689
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Vawkavysk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15295'
+      - '15154'
+      - '15131'
+      - '15205'
+      - '15822'
+      - '15662'
+      - '14290'
+      - '13149'
+      - '12216'
+      - '11174'
+      - '10286'
+      - '9918'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_690:
+      SMOD_ID: 22_690
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Shchuchyn
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '16122'
+      - '15488'
+      - '15021'
+      - '14591'
+      - '15407'
+      - '15031'
+      - '13174'
+      - '11650'
+      - '10758'
+      - '9780'
+      - '9089'
+      - '8424'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_691:
+      SMOD_ID: 22_691
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Voranava
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.16_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '82'
+      - '77'
+      - '76'
+      - '76'
+      - '76'
+      - '69'
+      - '62'
+      - '57'
+      - '50'
+      - '48'
+      - '44'
+      - '51'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_692:
+      SMOD_ID: 22_692
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Lida
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '12215'
+      - '11552'
+      - '11061'
+      - '10705'
+      - '10442'
+      - '9901'
+      - '9107'
+      - '8472'
+      - '7923'
+      - '7295'
+      - '6831'
+      - '6401'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_693:
+      SMOD_ID: 22_693
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Astravyets
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9207'
+      - '8851'
+      - '8606'
+      - '8396'
+      - '8866'
+      - '8756'
+      - '7653'
+      - '6805'
+      - '6256'
+      - '5795'
+      - '5333'
+      - '4967'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_694:
+      SMOD_ID: 22_694
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Biaroza
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9037'
+      - '8999'
+      - '9063'
+      - '9181'
+      - '9712'
+      - '9731'
+      - '9140'
+      - '8663'
+      - '8308'
+      - '7826'
+      - '7527'
+      - '7226'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_695:
+      SMOD_ID: 22_695
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Ivanaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '5936'
+      - '5796'
+      - '5719'
+      - '5687'
+      - '5836'
+      - '5717'
+      - '5234'
+      - '4840'
+      - '4627'
+      - '4423'
+      - '4179'
+      - '3975'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_696:
+      SMOD_ID: 22_696
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Valozhyn
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.21_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7935'
+      - '7692'
+      - '7527'
+      - '7380'
+      - '8218'
+      - '8373'
+      - '7697'
+      - '7096'
+      - '6758'
+      - '6136'
+      - '5704'
+      - '5405'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_697:
+      SMOD_ID: 22_697
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Myadzyel
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '5859'
+      - '5762'
+      - '5710'
+      - '5655'
+      - '5792'
+      - '5553'
+      - '4872'
+      - '4321'
+      - '4026'
+      - '3745'
+      - '3542'
+      - '3351'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_698:
+      SMOD_ID: 22_698
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Nyasvizh
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7510'
+      - '7375'
+      - '7322'
+      - '7306'
+      - '7534'
+      - '7378'
+      - '6852'
+      - '6426'
+      - '6061'
+      - '5509'
+      - '5167'
+      - '4887'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_699:
+      SMOD_ID: 22_699
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Sharkawshchyna
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8436'
+      - '8360'
+      - '8338'
+      - '8317'
+      - '8352'
+      - '7872'
+      - '6860'
+      - '6036'
+      - '5539'
+      - '5037'
+      - '4686'
+      - '4434'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_700:
+      SMOD_ID: 22_700
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Nyasvizh
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15218'
+      - '14901'
+      - '14741'
+      - '14706'
+      - '16344'
+      - '16989'
+      - '15857'
+      - '14946'
+      - '14253'
+      - '13336'
+      - '12464'
+      - '11861'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_701:
+      SMOD_ID: 22_701
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Maladechna
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3380'
+      - '3502'
+      - '3656'
+      - '3822'
+      - '4066'
+      - '4160'
+      - '4134'
+      - '4132'
+      - '4099'
+      - '3935'
+      - '3759'
+      - '3592'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_702:
+      SMOD_ID: 22_702
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Vyerkhnyazdvinsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.21_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8261'
+      - '7992'
+      - '7804'
+      - '7633'
+      - '7624'
+      - '7181'
+      - '6374'
+      - '5709'
+      - '5289'
+      - '4810'
+      - '4437'
+      - '4160'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_703:
+      SMOD_ID: 22_703
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Minsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8658'
+      - '8500'
+      - '8397'
+      - '8340'
+      - '7619'
+      - '6556'
+      - '5216'
+      - '4229'
+      - '3679'
+      - '3324'
+      - '3087'
+      - '2913'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_704:
+      SMOD_ID: 22_704
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Dokshytsy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '10635'
+      - '10328'
+      - '10091'
+      - '9876'
+      - '9804'
+      - '9144'
+      - '7882'
+      - '6865'
+      - '6251'
+      - '5682'
+      - '5289'
+      - '4964'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_705:
+      SMOD_ID: 22_705
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Dzyarzhynsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7973'
+      - '7780'
+      - '7705'
+      - '7737'
+      - '8497'
+      - '8991'
+      - '8967'
+      - '9025'
+      - '8878'
+      - '8418'
+      - '7985'
+      - '7491'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_706:
+      SMOD_ID: 22_706
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Lahoysk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7193'
+      - '6897'
+      - '6681'
+      - '6518'
+      - '6511'
+      - '6163'
+      - '5335'
+      - '4671'
+      - '4268'
+      - '3971'
+      - '3649'
+      - '3420'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_707:
+      SMOD_ID: 22_707
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Stolin
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9363'
+      - '9224'
+      - '9186'
+      - '9223'
+      - '9695'
+      - '9717'
+      - '8918'
+      - '8302'
+      - '7950'
+      - '7936'
+      - '7519'
+      - '7176'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_708:
+      SMOD_ID: 22_708
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Lahoysk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '5137'
+      - '5092'
+      - '5090'
+      - '5104'
+      - '5860'
+      - '6178'
+      - '5786'
+      - '5466'
+      - '5274'
+      - '4933'
+      - '4655'
+      - '4389'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_709:
+      SMOD_ID: 22_709
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Rasony
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.14_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3300'
+      - '3098'
+      - '2945'
+      - '2811'
+      - '2844'
+      - '2700'
+      - '2353'
+      - '2065'
+      - '1905'
+      - '1727'
+      - '1585'
+      - '1485'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_710:
+      SMOD_ID: 22_710
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Salihorsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6965'
+      - '6671'
+      - '6484'
+      - '6370'
+      - '5965'
+      - '5465'
+      - '4998'
+      - '4626'
+      - '4261'
+      - '3789'
+      - '3586'
+      - '3417'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_711:
+      SMOD_ID: 22_711
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Salihorsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7948'
+      - '7826'
+      - '7791'
+      - '7839'
+      - '8788'
+      - '9398'
+      - '9624'
+      - '9869'
+      - '10137'
+      - '10694'
+      - '10229'
+      - '9713'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_712:
+      SMOD_ID: 22_712
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Stolin
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9904'
+      - '9836'
+      - '9888'
+      - '9996'
+      - '9195'
+      - '8292'
+      - '7537'
+      - '6938'
+      - '6507'
+      - '6077'
+      - '5779'
+      - '5529'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_713:
+      SMOD_ID: 22_713
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Salihorsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3417'
+      - '3280'
+      - '3195'
+      - '3153'
+      - '2917'
+      - '2636'
+      - '2392'
+      - '2195'
+      - '2016'
+      - '1804'
+      - '1682'
+      - '1663'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_714:
+      SMOD_ID: 22_714
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Ushat
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.19_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4487'
+      - '4296'
+      - '4152'
+      - '4009'
+      - '4037'
+      - '3797'
+      - '3285'
+      - '2872'
+      - '2653'
+      - '2416'
+      - '2257'
+      - '2130'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_715:
+      SMOD_ID: 22_715
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Smalyavichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.17_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '465'
+      - '498'
+      - '546'
+      - '615'
+      - '722'
+      - '980'
+      - '1506'
+      - '2330'
+      - '2713'
+      - '2533'
+      - '2417'
+      - '2264'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_716:
+      SMOD_ID: 22_716
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Lyuban
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8454'
+      - '8332'
+      - '8274'
+      - '8246'
+      - '9099'
+      - '9302'
+      - '8607'
+      - '8011'
+      - '7713'
+      - '7264'
+      - '6776'
+      - '6411'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_717:
+      SMOD_ID: 22_717
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Chervyen
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6456'
+      - '6273'
+      - '6152'
+      - '6063'
+      - '6817'
+      - '7072'
+      - '6626'
+      - '6237'
+      - '5989'
+      - '5586'
+      - '5208'
+      - '4916'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_718:
+      SMOD_ID: 22_718
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Žytkavičy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.21_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '18240'
+      - '17921'
+      - '17755'
+      - '17672'
+      - '18196'
+      - '17589'
+      - '15736'
+      - '14219'
+      - '13357'
+      - '12430'
+      - '11678'
+      - '11155'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_719:
+      SMOD_ID: 22_719
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Staryya Darohi
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.18_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '12459'
+      - '12482'
+      - '12596'
+      - '12738'
+      - '13005'
+      - '12568'
+      - '11250'
+      - '10189'
+      - '9521'
+      - '8822'
+      - '8236'
+      - '7825'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_720:
+      SMOD_ID: 22_720
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Chashniki
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9163'
+      - '8600'
+      - '8167'
+      - '7827'
+      - '8154'
+      - '8102'
+      - '7492'
+      - '6986'
+      - '6638'
+      - '6146'
+      - '5789'
+      - '5398'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_721:
+      SMOD_ID: 22_721
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Byeshankovichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6496'
+      - '6212'
+      - '5996'
+      - '5808'
+      - '5935'
+      - '5694'
+      - '4955'
+      - '4357'
+      - '3990'
+      - '3623'
+      - '3387'
+      - '3207'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_722:
+      SMOD_ID: 22_722
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Krupki
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7913'
+      - '7660'
+      - '7479'
+      - '7319'
+      - '7976'
+      - '7980'
+      - '6988'
+      - '6187'
+      - '5794'
+      - '5483'
+      - '5134'
+      - '4859'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_723:
+      SMOD_ID: 22_723
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Shumilina
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.16_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8033'
+      - '7754'
+      - '7550'
+      - '7364'
+      - '7431'
+      - '7036'
+      - '6147'
+      - '5423'
+      - '4987'
+      - '4528'
+      - '4216'
+      - '3949'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_724:
+      SMOD_ID: 22_724
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Byarezino
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '11591'
+      - '11422'
+      - '11331'
+      - '11227'
+      - '11829'
+      - '11512'
+      - '9931'
+      - '8646'
+      - '7997'
+      - '7407'
+      - '6946'
+      - '6598'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_725:
+      SMOD_ID: 22_725
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Hlusk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8702'
+      - '8508'
+      - '8393'
+      - '8245'
+      - '8622'
+      - '8297'
+      - '7183'
+      - '6279'
+      - '5773'
+      - '5276'
+      - '4894'
+      - '4585'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_726:
+      SMOD_ID: 22_726
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Lyelchytsy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '11427'
+      - '11526'
+      - '11737'
+      - '11972'
+      - '13694'
+      - '14369'
+      - '14074'
+      - '13741'
+      - '13555'
+      - '12865'
+      - '12104'
+      - '11510'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_727:
+      SMOD_ID: 22_727
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Haradok
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '10966'
+      - '10409'
+      - '9971'
+      - '9583'
+      - '9801'
+      - '9357'
+      - '8182'
+      - '7233'
+      - '6638'
+      - '5921'
+      - '5523'
+      - '5180'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_728:
+      SMOD_ID: 22_728
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Aktsyabar
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7856'
+      - '7796'
+      - '7807'
+      - '7818'
+      - '8393'
+      - '8286'
+      - '7627'
+      - '7040'
+      - '6783'
+      - '6431'
+      - '6078'
+      - '5763'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_729:
+      SMOD_ID: 22_729
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Talachyn
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.18_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '13131'
+      - '12692'
+      - '12378'
+      - '12089'
+      - '12358'
+      - '11784'
+      - '10270'
+      - '9029'
+      - '8307'
+      - '7681'
+      - '7058'
+      - '6588'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_730:
+      SMOD_ID: 22_730
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Klichaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8220'
+      - '7872'
+      - '7603'
+      - '7361'
+      - '7513'
+      - '7143'
+      - '6211'
+      - '5454'
+      - '5012'
+      - '4565'
+      - '4210'
+      - '3931'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_731:
+      SMOD_ID: 22_731
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Bialynichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '11872'
+      - '11401'
+      - '11050'
+      - '10756'
+      - '10752'
+      - '10144'
+      - '8905'
+      - '7902'
+      - '7250'
+      - '6567'
+      - '6009'
+      - '5584'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_732:
+      SMOD_ID: 22_732
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Kirawsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '10395'
+      - '10124'
+      - '9945'
+      - '9801'
+      - '10136'
+      - '9858'
+      - '8732'
+      - '7811'
+      - '7172'
+      - '6444'
+      - '5947'
+      - '5567'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_733:
+      SMOD_ID: 22_733
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Yel'sk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.19_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7409'
+      - '7601'
+      - '7814'
+      - '8025'
+      - '8646'
+      - '8667'
+      - '8049'
+      - '7527'
+      - '7256'
+      - '6855'
+      - '6497'
+      - '6202'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_734:
+      SMOD_ID: 22_734
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Shklow
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.20_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '17615'
+      - '16972'
+      - '16489'
+      - '16071'
+      - '15020'
+      - '13246'
+      - '11091'
+      - '9414'
+      - '8366'
+      - '7567'
+      - '6806'
+      - '6280'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_735:
+      SMOD_ID: 22_735
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Lyozna
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '5605'
+      - '5255'
+      - '4986'
+      - '4758'
+      - '5142'
+      - '5166'
+      - '4614'
+      - '4165'
+      - '3884'
+      - '3579'
+      - '3291'
+      - '3077'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_736:
+      SMOD_ID: 22_736
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Dubrowna
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '10927'
+      - '10553'
+      - '10264'
+      - '9985'
+      - '9767'
+      - '8913'
+      - '7566'
+      - '6495'
+      - '5885'
+      - '5374'
+      - '4933'
+      - '4552'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_737:
+      SMOD_ID: 22_737
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Khoyniki
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '10803'
+      - '10871'
+      - '11021'
+      - '11205'
+      - '11790'
+      - '11700'
+      - '10912'
+      - '10267'
+      - '9880'
+      - '9218'
+      - '8765'
+      - '8364'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_738:
+      SMOD_ID: 22_738
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Chavusy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8156'
+      - '7905'
+      - '7704'
+      - '7524'
+      - '7690'
+      - '7360'
+      - '6439'
+      - '5702'
+      - '5248'
+      - '4795'
+      - '4440'
+      - '4134'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_739:
+      SMOD_ID: 22_739
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Buda-Kashalyowa
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9938'
+      - '9878'
+      - '9891'
+      - '9921'
+      - '10274'
+      - '9939'
+      - '8775'
+      - '7831'
+      - '7298'
+      - '6768'
+      - '6355'
+      - '6003'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_740:
+      SMOD_ID: 22_740
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Karma
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6644'
+      - '6520'
+      - '6451'
+      - '6420'
+      - '6598'
+      - '6371'
+      - '5676'
+      - '5101'
+      - '4752'
+      - '4361'
+      - '4100'
+      - '3903'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_741:
+      SMOD_ID: 22_741
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Slawharad
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.21_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9205'
+      - '8892'
+      - '8679'
+      - '8523'
+      - '8726'
+      - '8516'
+      - '7721'
+      - '7078'
+      - '6592'
+      - '6038'
+      - '5617'
+      - '5230'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_742:
+      SMOD_ID: 22_742
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Chachersk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8728'
+      - '8658'
+      - '8670'
+      - '8735'
+      - '9184'
+      - '9161'
+      - '8439'
+      - '7853'
+      - '7471'
+      - '7028'
+      - '6682'
+      - '6367'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_743:
+      SMOD_ID: 22_743
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Cherykaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8510'
+      - '8245'
+      - '8066'
+      - '7926'
+      - '8151'
+      - '7953'
+      - '7266'
+      - '6704'
+      - '6306'
+      - '5821'
+      - '5374'
+      - '5023'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_744:
+      SMOD_ID: 22_744
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Ms'tsislaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.19_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '17660'
+      - '17093'
+      - '16671'
+      - '16303'
+      - '16005'
+      - '14785'
+      - '12765'
+      - '11138'
+      - '10181'
+      - '9394'
+      - '8669'
+      - '8084'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_745:
+      SMOD_ID: 22_745
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Krasnapolle
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7159'
+      - '6873'
+      - '6664'
+      - '6478'
+      - '6426'
+      - '6019'
+      - '5316'
+      - '4746'
+      - '4404'
+      - '4095'
+      - '3781'
+      - '3572'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_746:
+      SMOD_ID: 22_746
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Loyew
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8218'
+      - '8190'
+      - '8222'
+      - '8255'
+      - '8265'
+      - '7755'
+      - '6834'
+      - '6079'
+      - '5682'
+      - '5328'
+      - '5022'
+      - '4800'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_747:
+      SMOD_ID: 22_747
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Vyetka
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.18_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8619'
+      - '8460'
+      - '8394'
+      - '8376'
+      - '8646'
+      - '8471'
+      - '7804'
+      - '7255'
+      - '6910'
+      - '6550'
+      - '6146'
+      - '5827'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_748:
+      SMOD_ID: 22_748
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Dobruš
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '22545'
+      - '22292'
+      - '22266'
+      - '22366'
+      - '22520'
+      - '21564'
+      - '19792'
+      - '18328'
+      - '17497'
+      - '16710'
+      - '15790'
+      - '15007'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_749:
+      SMOD_ID: 22_749
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Klimavichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.14_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '21663'
+      - '21061'
+      - '20669'
+      - '20355'
+      - '20384'
+      - '19446'
+      - '17570'
+      - '16038'
+      - '14949'
+      - '13725'
+      - '12686'
+      - '11830'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_750:
+      SMOD_ID: 22_750
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Kastsyukovichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15740'
+      - '15141'
+      - '14724'
+      - '14368'
+      - '14286'
+      - '13388'
+      - '11952'
+      - '10780'
+      - '9993'
+      - '9094'
+      - '8427'
+      - '7857'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_22_751:
+      SMOD_ID: 22_751
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Khotsimsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '9740'
+      - '9323'
+      - '8992'
+      - '8690'
+      - '8716'
+      - '8162'
+      - '7006'
+      - '6075'
+      - '5535'
+      - '5080'
+      - '4662'
+      - '4362'
+      Settlement_level: Semi-dense Urban Clusters
+   Belarus_23_5151:
+      SMOD_ID: 23_5151
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Hrodna
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '22112'
+      - '25519'
+      - '28696'
+      - '31522'
+      - '30749'
+      - '30046'
+      - '29494'
+      - '28982'
+      - '29712'
+      - '31093'
+      - '31078'
+      - '30482'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5152:
+      SMOD_ID: 23_5152
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Hrodna
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2086'
+      - '2560'
+      - '3017'
+      - '3426'
+      - '3586'
+      - '3694'
+      - '3938'
+      - '4149'
+      - '4489'
+      - '4893'
+      - '4987'
+      - '4963'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5153:
+      SMOD_ID: 23_5153
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Vawkavysk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '35491'
+      - '34393'
+      - '33672'
+      - '33279'
+      - '33579'
+      - '32614'
+      - '29805'
+      - '27516'
+      - '25650'
+      - '23401'
+      - '21335'
+      - '19798'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5154:
+      SMOD_ID: 23_5154
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Masty
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15243'
+      - '14668'
+      - '14255'
+      - '13924'
+      - '13866'
+      - '13066'
+      - '11616'
+      - '10429'
+      - '9668'
+      - '8829'
+      - '8066'
+      - '7536'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5155:
+      SMOD_ID: 23_5155
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Malaryta
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8758'
+      - '8750'
+      - '8822'
+      - '8932'
+      - '9714'
+      - '9935'
+      - '9087'
+      - '8393'
+      - '7960'
+      - '7481'
+      - '6941'
+      - '6574'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5156:
+      SMOD_ID: 23_5156
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Pruzhany
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.14_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '19867'
+      - '19563'
+      - '19426'
+      - '19320'
+      - '18892'
+      - '17480'
+      - '15136'
+      - '13276'
+      - '12230'
+      - '11335'
+      - '10477'
+      - '9911'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5157:
+      SMOD_ID: 23_5157
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Kobryn
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '43272'
+      - '42297'
+      - '41915'
+      - '42007'
+      - '43542'
+      - '43780'
+      - '42037'
+      - '40832'
+      - '39440'
+      - '36935'
+      - '34918'
+      - '33325'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5158:
+      SMOD_ID: 23_5158
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Lida
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '65357'
+      - '62581'
+      - '60613'
+      - '59347'
+      - '59023'
+      - '56796'
+      - '52957'
+      - '49982'
+      - '47105'
+      - '43319'
+      - '39968'
+      - '37443'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5159:
+      SMOD_ID: 23_5159
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Biaroza
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '17476'
+      - '17250'
+      - '17215'
+      - '17324'
+      - '19069'
+      - '19744'
+      - '18812'
+      - '18119'
+      - '17554'
+      - '16483'
+      - '15439'
+      - '14697'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5160:
+      SMOD_ID: 23_5160
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Slonim
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '29663'
+      - '28594'
+      - '27874'
+      - '27428'
+      - '27459'
+      - '26511'
+      - '24374'
+      - '22686'
+      - '21243'
+      - '19514'
+      - '17851'
+      - '16704'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5161:
+      SMOD_ID: 23_5161
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Ashmyany
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '13031'
+      - '12675'
+      - '12465'
+      - '12322'
+      - '12465'
+      - '12060'
+      - '11051'
+      - '10216'
+      - '9606'
+      - '8797'
+      - '8055'
+      - '7562'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5162:
+      SMOD_ID: 23_5162
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Ivatsevichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15693'
+      - '15297'
+      - '15086'
+      - '14942'
+      - '15572'
+      - '15315'
+      - '13964'
+      - '12871'
+      - '12186'
+      - '11354'
+      - '10621'
+      - '10067'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5163:
+      SMOD_ID: 23_5163
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Drahichyn
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8474'
+      - '8385'
+      - '8377'
+      - '8381'
+      - '9423'
+      - '9893'
+      - '9064'
+      - '8403'
+      - '8001'
+      - '7385'
+      - '6949'
+      - '6588'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5164:
+      SMOD_ID: 23_5164
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Navahradak
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '27339'
+      - '26020'
+      - '25041'
+      - '24232'
+      - '24195'
+      - '23024'
+      - '20769'
+      - '18911'
+      - '17611'
+      - '16128'
+      - '14828'
+      - '13843'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5165:
+      SMOD_ID: 23_5165
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Smarhon
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.14_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '20543'
+      - '19395'
+      - '18534'
+      - '17967'
+      - '18768'
+      - '18755'
+      - '17752'
+      - '16974'
+      - '16218'
+      - '14878'
+      - '13781'
+      - '12910'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5166:
+      SMOD_ID: 23_5166
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Ivanaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '11962'
+      - '11928'
+      - '11975'
+      - '12075'
+      - '12796'
+      - '12705'
+      - '11520'
+      - '10570'
+      - '9943'
+      - '9193'
+      - '8690'
+      - '8325'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5167:
+      SMOD_ID: 23_5167
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Braslaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '7982'
+      - '7692'
+      - '7508'
+      - '7335'
+      - '7837'
+      - '7837'
+      - '7289'
+      - '6819'
+      - '6515'
+      - '5986'
+      - '5580'
+      - '5244'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5168:
+      SMOD_ID: 23_5168
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Pastavy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15140'
+      - '14332'
+      - '13709'
+      - '13211'
+      - '13213'
+      - '12521'
+      - '11155'
+      - '10016'
+      - '9290'
+      - '8471'
+      - '7824'
+      - '7348'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5169:
+      SMOD_ID: 23_5169
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Vileyka
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.22_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '14351'
+      - '13720'
+      - '13247'
+      - '12850'
+      - '12862'
+      - '12062'
+      - '10588'
+      - '9386'
+      - '8718'
+      - '8175'
+      - '7645'
+      - '7209'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5170:
+      SMOD_ID: 23_5170
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Myory
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8809'
+      - '8540'
+      - '8347'
+      - '8152'
+      - '8048'
+      - '7433'
+      - '6407'
+      - '5583'
+      - '5101'
+      - '4588'
+      - '4286'
+      - '4027'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5171:
+      SMOD_ID: 23_5171
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Hancavichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '11719'
+      - '11995'
+      - '12327'
+      - '12717'
+      - '13283'
+      - '13079'
+      - '11824'
+      - '10829'
+      - '10227'
+      - '9565'
+      - '8969'
+      - '8485'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5172:
+      SMOD_ID: 23_5172
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Stowbtsy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.19_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '11694'
+      - '11493'
+      - '11408'
+      - '11396'
+      - '12986'
+      - '13602'
+      - '12595'
+      - '11760'
+      - '11141'
+      - '10215'
+      - '9586'
+      - '9013'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5173:
+      SMOD_ID: 23_5173
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Klyetsak
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15668'
+      - '15222'
+      - '14894'
+      - '14644'
+      - '14632'
+      - '13760'
+      - '12045'
+      - '10668'
+      - '9899'
+      - '9118'
+      - '8433'
+      - '8018'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5174:
+      SMOD_ID: 23_5174
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Hlybokaye
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.8_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '17823'
+      - '17188'
+      - '16724'
+      - '16351'
+      - '16547'
+      - '15817'
+      - '14103'
+      - '12702'
+      - '11768'
+      - '10770'
+      - '9991'
+      - '9379'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5175:
+      SMOD_ID: 23_5175
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Dzyarzhynsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '12925'
+      - '12749'
+      - '12726'
+      - '12844'
+      - '14670'
+      - '15913'
+      - '15699'
+      - '15634'
+      - '15223'
+      - '14113'
+      - '12756'
+      - '11945'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5176:
+      SMOD_ID: 23_5176
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Luninets
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '10088'
+      - '10536'
+      - '11009'
+      - '11535'
+      - '12614'
+      - '12909'
+      - '12125'
+      - '11534'
+      - '11022'
+      - '10134'
+      - '9486'
+      - '9020'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5177:
+      SMOD_ID: 23_5177
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Slutsak
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.16_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '46242'
+      - '45801'
+      - '45817'
+      - '46128'
+      - '48049'
+      - '47894'
+      - '44690'
+      - '42155'
+      - '40057'
+      - '37058'
+      - '34422'
+      - '32505'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5178:
+      SMOD_ID: 23_5178
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Polatsak
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '66284'
+      - '66024'
+      - '66471'
+      - '67514'
+      - '67501'
+      - '66304'
+      - '63195'
+      - '61005'
+      - '57863'
+      - '52736'
+      - '49022'
+      - '46313'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5179:
+      SMOD_ID: 23_5179
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Salihorsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '33991'
+      - '33857'
+      - '34041'
+      - '34527'
+      - '36081'
+      - '36621'
+      - '35208'
+      - '34208'
+      - '32841'
+      - '29919'
+      - '27479'
+      - '25940'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5180:
+      SMOD_ID: 23_5180
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Salihorsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8843'
+      - '8378'
+      - '7993'
+      - '7779'
+      - '7193'
+      - '6527'
+      - '5919'
+      - '5397'
+      - '4918'
+      - '4340'
+      - '4019'
+      - '3809'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5181:
+      SMOD_ID: 23_5181
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Smalyavichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.17_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1353'
+      - '1357'
+      - '1400'
+      - '1514'
+      - '1910'
+      - '2723'
+      - '4073'
+      - '6137'
+      - '6986'
+      - '6370'
+      - '5869'
+      - '5510'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5182:
+      SMOD_ID: 23_5182
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Polatsak
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '44570'
+      - '42210'
+      - '40589'
+      - '39578'
+      - '40392'
+      - '40308'
+      - '38886'
+      - '37907'
+      - '36255'
+      - '33223'
+      - '30757'
+      - '28801'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5183:
+      SMOD_ID: 23_5183
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Stolin
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '3512'
+      - '3461'
+      - '3447'
+      - '3465'
+      - '7307'
+      - '9790'
+      - '9503'
+      - '9300'
+      - '9101'
+      - '8450'
+      - '7997'
+      - '7623'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5184:
+      SMOD_ID: 23_5184
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Luninets
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6651'
+      - '6470'
+      - '6396'
+      - '6371'
+      - '5841'
+      - '5211'
+      - '4715'
+      - '4319'
+      - '4026'
+      - '3724'
+      - '3580'
+      - '3445'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5185:
+      SMOD_ID: 23_5185
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Lyepyel
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '17460'
+      - '16819'
+      - '16371'
+      - '16010'
+      - '15933'
+      - '15054'
+      - '13482'
+      - '12214'
+      - '11327'
+      - '10354'
+      - '9493'
+      - '8859'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5186:
+      SMOD_ID: 23_5186
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Pukhavichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.14_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8769'
+      - '8883'
+      - '9065'
+      - '9251'
+      - '10184'
+      - '10507'
+      - '10065'
+      - '9683'
+      - '9352'
+      - '8652'
+      - '8077'
+      - '7614'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5187:
+      SMOD_ID: 23_5187
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Chashniki
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6889'
+      - '6769'
+      - '6694'
+      - '6648'
+      - '6869'
+      - '6712'
+      - '6201'
+      - '5782'
+      - '5471'
+      - '4981'
+      - '4589'
+      - '4304'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5188:
+      SMOD_ID: 23_5188
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Asipovichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '20198'
+      - '19720'
+      - '19458'
+      - '19305'
+      - '19511'
+      - '18946'
+      - '17360'
+      - '16071'
+      - '14945'
+      - '13581'
+      - '12473'
+      - '11582'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5189:
+      SMOD_ID: 23_5189
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Mazyr
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '4481'
+      - '4576'
+      - '4713'
+      - '4888'
+      - '5231'
+      - '5310'
+      - '5321'
+      - '5394'
+      - '5425'
+      - '5305'
+      - '4900'
+      - '4649'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5190:
+      SMOD_ID: 23_5190
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Mazyr
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '27781'
+      - '28676'
+      - '29774'
+      - '31035'
+      - '32861'
+      - '33908'
+      - '33291'
+      - '33068'
+      - '32165'
+      - '29440'
+      - '27758'
+      - '26494'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5191:
+      SMOD_ID: 23_5191
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Kalinkavichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.7_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '29836'
+      - '29642'
+      - '29771'
+      - '30063'
+      - '32271'
+      - '32789'
+      - '30505'
+      - '28664'
+      - '27330'
+      - '25352'
+      - '23850'
+      - '22696'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5192:
+      SMOD_ID: 23_5192
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Mazyr
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8911'
+      - '8832'
+      - '8840'
+      - '8950'
+      - '8656'
+      - '8205'
+      - '7706'
+      - '7321'
+      - '6860'
+      - '6172'
+      - '5824'
+      - '5608'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5193:
+      SMOD_ID: 23_5193
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Mazyr
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.12_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '14971'
+      - '14273'
+      - '13867'
+      - '13628'
+      - '13903'
+      - '13853'
+      - '13551'
+      - '13467'
+      - '13128'
+      - '12241'
+      - '11480'
+      - '10964'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5194:
+      SMOD_ID: 23_5194
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Svyetlahorsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.17_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '29318'
+      - '28830'
+      - '28729'
+      - '28855'
+      - '30442'
+      - '30718'
+      - '28969'
+      - '27660'
+      - '26461'
+      - '24599'
+      - '23305'
+      - '22181'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5195:
+      SMOD_ID: 23_5195
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Svyetlahorsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.17_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8595'
+      - '8604'
+      - '8651'
+      - '8837'
+      - '8130'
+      - '7270'
+      - '6616'
+      - '6078'
+      - '5671'
+      - '5278'
+      - '4981'
+      - '4725'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5196:
+      SMOD_ID: 23_5196
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Bykhaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.4_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '15399'
+      - '14868'
+      - '14478'
+      - '14134'
+      - '14114'
+      - '13232'
+      - '11414'
+      - '9948'
+      - '9006'
+      - '8055'
+      - '7393'
+      - '6856'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5197:
+      SMOD_ID: 23_5197
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Rahachow
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.15_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '27865'
+      - '27391'
+      - '27204'
+      - '27146'
+      - '27043'
+      - '25637'
+      - '22992'
+      - '20848'
+      - '19444'
+      - '17886'
+      - '16757'
+      - '15928'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5198:
+      SMOD_ID: 23_5198
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Mogilev
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.18_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '2231'
+      - '2475'
+      - '2667'
+      - '2854'
+      - '2803'
+      - '2761'
+      - '2705'
+      - '2618'
+      - '2610'
+      - '2639'
+      - '2604'
+      - '2567'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5199:
+      SMOD_ID: 23_5199
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Mogilev
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.18_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '6058'
+      - '7455'
+      - '8536'
+      - '9444'
+      - '10870'
+      - '12438'
+      - '12823'
+      - '12919'
+      - '13671'
+      - '14740'
+      - '15182'
+      - '15192'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5200:
+      SMOD_ID: 23_5200
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Žlobin
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.20_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '48572'
+      - '48270'
+      - '48568'
+      - '49411'
+      - '51684'
+      - '52661'
+      - '50948'
+      - '49844'
+      - '48212'
+      - '45034'
+      - '42181'
+      - '40160'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5201:
+      SMOD_ID: 23_5201
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Horki
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.9_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '35661'
+      - '34670'
+      - '33824'
+      - '32892'
+      - '31191'
+      - '26999'
+      - '21903'
+      - '17932'
+      - '15921'
+      - '14431'
+      - '13224'
+      - '12292'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5202:
+      SMOD_ID: 23_5202
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Rechytsa
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.16_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '50779'
+      - '50126'
+      - '50063'
+      - '50386'
+      - '50521'
+      - '48833'
+      - '45602'
+      - '43132'
+      - '41043'
+      - '38102'
+      - '35853'
+      - '34205'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5203:
+      SMOD_ID: 23_5203
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Krychaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.17_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '16842'
+      - '16066'
+      - '15513'
+      - '15105'
+      - '14476'
+      - '13416'
+      - '12111'
+      - '11044'
+      - '10180'
+      - '9243'
+      - '8540'
+      - '7985'
+      Settlement_level: Dense Urban Clusters
+   Belarus_23_5204:
+      SMOD_ID: 23_5204
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Krychaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.17_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '8156'
+      - '8087'
+      - '8091'
+      - '8116'
+      - '8287'
+      - '8109'
+      - '7471'
+      - '6948'
+      - '6536'
+      - '6085'
+      - '5607'
+      - '5220'
+      Settlement_level: Dense Urban Clusters
+   Belarus_30_709:
+      SMOD_ID: 30_709
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Hrodna
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.3.5_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '203517'
+      - '242433'
+      - '278162'
+      - '309445'
+      - '321424'
+      - '332305'
+      - '338245'
+      - '344164'
+      - '363948'
+      - '390918'
+      - '392875'
+      - '386789'
+      Settlement_level: Urban Centres
+   Belarus_30_710:
+      SMOD_ID: 30_710
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Brest
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.3_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '189493'
+      - '226974'
+      - '268149'
+      - '305677'
+      - '319589'
+      - '332668'
+      - '340902'
+      - '349151'
+      - '369475'
+      - '398084'
+      - '402316'
+      - '400703'
+      Settlement_level: Urban Centres
+   Belarus_30_711:
+      SMOD_ID: 30_711
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Baranavichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '207608'
+      - '206328'
+      - '207699'
+      - '211277'
+      - '216953'
+      - '217122'
+      - '212251'
+      - '209504'
+      - '205090'
+      - '193653'
+      - '184692'
+      - '177818'
+      Settlement_level: Urban Centres
+   Belarus_30_712:
+      SMOD_ID: 30_712
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Maladechna
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.10_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '77054'
+      - '74425'
+      - '72861'
+      - '72133'
+      - '72735'
+      - '71453'
+      - '68294'
+      - '65940'
+      - '63239'
+      - '58635'
+      - '54888'
+      - '52033'
+      Settlement_level: Urban Centres
+   Belarus_30_713:
+      SMOD_ID: 30_713
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Pinsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.1.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '195940'
+      - '194607'
+      - '195717'
+      - '198705'
+      - '203006'
+      - '201170'
+      - '193558'
+      - '188211'
+      - '182791'
+      - '172561'
+      - '164046'
+      - '158066'
+      Settlement_level: Urban Centres
+   Belarus_30_714:
+      SMOD_ID: 30_714
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Minsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.11_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '1160882'
+      - '1353737'
+      - '1509863'
+      - '1641756'
+      - '1677533'
+      - '1719308'
+      - '1784604'
+      - '1852741'
+      - '1941690'
+      - '2074897'
+      - '2104009'
+      - '2119757'
+      Settlement_level: Urban Centres
+   Belarus_30_715:
+      SMOD_ID: 30_715
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Polatsak
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.13_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '136445'
+      - '131743'
+      - '128845'
+      - '127576'
+      - '129045'
+      - '128117'
+      - '125526'
+      - '124091'
+      - '120399'
+      - '112396'
+      - '105108'
+      - '99186'
+      Settlement_level: Urban Centres
+   Belarus_30_716:
+      SMOD_ID: 30_716
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Smalyavichy
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.17_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '27078'
+      - '27160'
+      - '28055'
+      - '30369'
+      - '35711'
+      - '48401'
+      - '70959'
+      - '105585'
+      - '121217'
+      - '117395'
+      - '111385'
+      - '106344'
+      Settlement_level: Urban Centres
+   Belarus_30_717:
+      SMOD_ID: 30_717
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Barysaw
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.5.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '136543'
+      - '133074'
+      - '131317'
+      - '130880'
+      - '131109'
+      - '127746'
+      - '121105'
+      - '116029'
+      - '110829'
+      - '102869'
+      - '96832'
+      - '91977'
+      Settlement_level: Urban Centres
+   Belarus_30_718:
+      SMOD_ID: 30_718
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Babruysk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.2_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '246694'
+      - '240105'
+      - '236552'
+      - '235576'
+      - '236252'
+      - '232356'
+      - '224258'
+      - '218701'
+      - '209647'
+      - '193474'
+      - '180401'
+      - '170075'
+      Settlement_level: Urban Centres
+   Belarus_30_719:
+      SMOD_ID: 30_719
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Vitebsk
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.20_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '315664'
+      - '352315'
+      - '376868'
+      - '393073'
+      - '384233'
+      - '377011'
+      - '375061'
+      - '376832'
+      - '387950'
+      - '407884'
+      - '407216'
+      - '405627'
+      Settlement_level: Urban Centres
+   Belarus_30_720:
+      SMOD_ID: 30_720
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Arsha
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.6.1_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '125047'
+      - '120486'
+      - '117407'
+      - '115407'
+      - '113182'
+      - '107599'
+      - '99168'
+      - '92410'
+      - '86417'
+      - '79160'
+      - '72932'
+      - '68074'
+      Settlement_level: Urban Centres
+   Belarus_30_721:
+      SMOD_ID: 30_721
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Mogilev
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.4.18_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '283310'
+      - '332042'
+      - '364379'
+      - '388381'
+      - '383867'
+      - '381769'
+      - '383105'
+      - '377008'
+      - '389160'
+      - '409354'
+      - '408514'
+      - '408172'
+      Settlement_level: Urban Centres
+   Belarus_30_722:
+      SMOD_ID: 30_722
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Gomyel
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '327500'
+      - '388513'
+      - '442362'
+      - '481984'
+      - '472050'
+      - '467062'
+      - '472165'
+      - '478590'
+      - '512874'
+      - '559448'
+      - '573943'
+      - '579632'
+      Settlement_level: Urban Centres
+   Belarus_30_723:
+      SMOD_ID: 30_723
+      Country_name: Belarus
+      iso3c: BLR
+      Admin_name: Gomyel
+      Admin_level: Adm2
+      Admin_geo_ID: BLR.2.6_1
+      Year:
+      - '1975'
+      - '1980'
+      - '1985'
+      - '1990'
+      - '1995'
+      - '2000'
+      - '2005'
+      - '2010'
+      - '2015'
+      - '2020'
+      - '2025'
+      - '2030'
+      Population:
+      - '53708'
+      - '63466'
+      - '71965'
+      - '78033'
+      - '76094'
+      - '74789'
+      - '75705'
+      - '76800'
+      - '82546'
+      - '90546'
+      - '92961'
+      - '94037'
+      Settlement_level: Urban Centres

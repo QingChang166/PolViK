@@ -1,0 +1,31 @@
+concepts:
+  BHR.0_Adm0:
+    GID: BHR
+    admin_name: Bahrain
+    iso3c: BHR
+    country_name: Bahrain
+    admin_level: Adm0
+  BHR.1_1_Adm1:
+    GID: BHR.1_1
+    admin_name: Capital
+    iso3c: BHR
+    country_name: Bahrain
+    admin_level: Adm1
+  BHR.3_1_Adm1:
+    GID: BHR.3_1
+    admin_name: Muharraq
+    iso3c: BHR
+    country_name: Bahrain
+    admin_level: Adm1
+  BHR.4_1_Adm1:
+    GID: BHR.4_1
+    admin_name: Northern
+    iso3c: BHR
+    country_name: Bahrain
+    admin_level: Adm1
+  BHR.5_1_Adm1:
+    GID: BHR.5_1
+    admin_name: Southern
+    iso3c: BHR
+    country_name: Bahrain
+    admin_level: Adm1

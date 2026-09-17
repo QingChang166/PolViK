@@ -1,0 +1,373 @@
+concepts:
+  ZAF.0_Adm0:
+    GID: ZAF
+    admin_name: South Africa
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm0
+  ZAF.1_1_Adm1:
+    GID: ZAF.1_1
+    admin_name: Eastern Cape
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.1.1_1_Adm2:
+    GID: ZAF.1.1_1
+    admin_name: Alfred Nzo
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.1.2_1_Adm2:
+    GID: ZAF.1.2_1
+    admin_name: Amathole
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.1.3_1_Adm2:
+    GID: ZAF.1.3_1
+    admin_name: Buffalo City
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.1.4_1_Adm2:
+    GID: ZAF.1.4_1
+    admin_name: Cacadu
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.1.5_1_Adm2:
+    GID: ZAF.1.5_1
+    admin_name: Chris Hani
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.1.6_1_Adm2:
+    GID: ZAF.1.6_1
+    admin_name: Joe Gqabi
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.1.7_1_Adm2:
+    GID: ZAF.1.7_1
+    admin_name: Nelson Mandela Bay
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.1.8_1_Adm2:
+    GID: ZAF.1.8_1
+    admin_name: O.R.Tambo
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.2_1_Adm1:
+    GID: ZAF.2_1
+    admin_name: Free State
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.2.1_1_Adm2:
+    GID: ZAF.2.1_1
+    admin_name: Fezile Dabi
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.2.2_1_Adm2:
+    GID: ZAF.2.2_1
+    admin_name: Lejweleputswa
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.2.3_1_Adm2:
+    GID: ZAF.2.3_1
+    admin_name: Mangaung
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.2.4_1_Adm2:
+    GID: ZAF.2.4_1
+    admin_name: Thabo Mofutsanyane
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.2.5_1_Adm2:
+    GID: ZAF.2.5_1
+    admin_name: Xhariep
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.3_1_Adm1:
+    GID: ZAF.3_1
+    admin_name: Gauteng
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.3.1_1_Adm2:
+    GID: ZAF.3.1_1
+    admin_name: City of Johannesburg
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.3.2_1_Adm2:
+    GID: ZAF.3.2_1
+    admin_name: City of Tshwane
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.3.3_1_Adm2:
+    GID: ZAF.3.3_1
+    admin_name: Ekurhuleni
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.3.4_1_Adm2:
+    GID: ZAF.3.4_1
+    admin_name: Sedibeng
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.3.5_1_Adm2:
+    GID: ZAF.3.5_1
+    admin_name: West Rand
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4_1_Adm1:
+    GID: ZAF.4_1
+    admin_name: KwaZulu-Natal
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.4.1_1_Adm2:
+    GID: ZAF.4.1_1
+    admin_name: Amajuba
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.10_1_Adm2:
+    GID: ZAF.4.10_1
+    admin_name: Uthungulu
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.11_1_Adm2:
+    GID: ZAF.4.11_1
+    admin_name: Zululand
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.2_1_Adm2:
+    GID: ZAF.4.2_1
+    admin_name: eThekwini
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.3_1_Adm2:
+    GID: ZAF.4.3_1
+    admin_name: iLembe
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.4_1_Adm2:
+    GID: ZAF.4.4_1
+    admin_name: Sisonke
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.5_1_Adm2:
+    GID: ZAF.4.5_1
+    admin_name: Ugu
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.6_1_Adm2:
+    GID: ZAF.4.6_1
+    admin_name: Umgungundlovu
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.7_1_Adm2:
+    GID: ZAF.4.7_1
+    admin_name: Umkhanyakude
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.8_1_Adm2:
+    GID: ZAF.4.8_1
+    admin_name: Umzinyathi
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.4.9_1_Adm2:
+    GID: ZAF.4.9_1
+    admin_name: Uthukela
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.5_1_Adm1:
+    GID: ZAF.5_1
+    admin_name: Limpopo
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.5.1_1_Adm2:
+    GID: ZAF.5.1_1
+    admin_name: Capricorn
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.5.2_1_Adm2:
+    GID: ZAF.5.2_1
+    admin_name: Mopani
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.5.3_1_Adm2:
+    GID: ZAF.5.3_1
+    admin_name: Sekhukhune
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.5.4_1_Adm2:
+    GID: ZAF.5.4_1
+    admin_name: Vhembe
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.5.5_1_Adm2:
+    GID: ZAF.5.5_1
+    admin_name: Waterberg
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.6_1_Adm1:
+    GID: ZAF.6_1
+    admin_name: Mpumalanga
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.6.1_1_Adm2:
+    GID: ZAF.6.1_1
+    admin_name: Ehlanzeni
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.6.2_1_Adm2:
+    GID: ZAF.6.2_1
+    admin_name: Gert Sibande
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.6.3_1_Adm2:
+    GID: ZAF.6.3_1
+    admin_name: Nkangala
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.7_1_Adm1:
+    GID: ZAF.7_1
+    admin_name: North West
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.7.1_1_Adm2:
+    GID: ZAF.7.1_1
+    admin_name: Bojanala
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.7.2_1_Adm2:
+    GID: ZAF.7.2_1
+    admin_name: Dr Kenneth Kaunda
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.7.3_1_Adm2:
+    GID: ZAF.7.3_1
+    admin_name: Dr Ruth Segomotsi Mompati
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.7.4_1_Adm2:
+    GID: ZAF.7.4_1
+    admin_name: Ngaka Modiri Molema
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.8_1_Adm1:
+    GID: ZAF.8_1
+    admin_name: Northern Cape
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.8.1_1_Adm2:
+    GID: ZAF.8.1_1
+    admin_name: Frances Baard
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.8.2_1_Adm2:
+    GID: ZAF.8.2_1
+    admin_name: John Taolo Gaetsewe
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.8.3_1_Adm2:
+    GID: ZAF.8.3_1
+    admin_name: Namakwa
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.8.4_1_Adm2:
+    GID: ZAF.8.4_1
+    admin_name: Pixley ka Seme
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.8.5_1_Adm2:
+    GID: ZAF.8.5_1
+    admin_name: Siyanda
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.9_1_Adm1:
+    GID: ZAF.9_1
+    admin_name: Western Cape
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm1
+  ZAF.9.1_1_Adm2:
+    GID: ZAF.9.1_1
+    admin_name: Cape Winelands
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.9.2_1_Adm2:
+    GID: ZAF.9.2_1
+    admin_name: Central Karoo
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.9.3_1_Adm2:
+    GID: ZAF.9.3_1
+    admin_name: City of Cape Town
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.9.4_1_Adm2:
+    GID: ZAF.9.4_1
+    admin_name: Eden
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.9.5_1_Adm2:
+    GID: ZAF.9.5_1
+    admin_name: Overberg
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2
+  ZAF.9.6_1_Adm2:
+    GID: ZAF.9.6_1
+    admin_name: West Coast
+    iso3c: ZAF
+    country_name: South Africa
+    admin_level: Adm2

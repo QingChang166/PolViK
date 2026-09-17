@@ -1,0 +1,175 @@
+concepts:
+  MDG.0_Adm0:
+    GID: MDG
+    admin_name: Madagascar
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm0
+  MDG.1_1_Adm1:
+    GID: MDG.1_1
+    admin_name: Antananarivo
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.1.1_1_Adm2:
+    GID: MDG.1.1_1
+    admin_name: Analamanga
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.1.2_1_Adm2:
+    GID: MDG.1.2_1
+    admin_name: Bongolava
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.1.3_1_Adm2:
+    GID: MDG.1.3_1
+    admin_name: Itasy
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.1.4_1_Adm2:
+    GID: MDG.1.4_1
+    admin_name: Vakinankaratra
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.2_1_Adm1:
+    GID: MDG.2_1
+    admin_name: Antsiranana
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.2.1_1_Adm2:
+    GID: MDG.2.1_1
+    admin_name: Diana
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.2.2_1_Adm2:
+    GID: MDG.2.2_1
+    admin_name: Sava
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3_1_Adm1:
+    GID: MDG.3_1
+    admin_name: Fianarantsoa
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.3.1_1_Adm2:
+    GID: MDG.3.1_1
+    admin_name: Amoron'i mania
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3.2_1_Adm2:
+    GID: MDG.3.2_1
+    admin_name: Atsimo-Atsinana
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3.3_1_Adm2:
+    GID: MDG.3.3_1
+    admin_name: Haute matsiatra
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3.4_1_Adm2:
+    GID: MDG.3.4_1
+    admin_name: Ihorombe
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.3.5_1_Adm2:
+    GID: MDG.3.5_1
+    admin_name: Vatovavy Fitovinany
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.4_1_Adm1:
+    GID: MDG.4_1
+    admin_name: Mahajanga
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.4.1_1_Adm2:
+    GID: MDG.4.1_1
+    admin_name: Betsiboka
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.4.2_1_Adm2:
+    GID: MDG.4.2_1
+    admin_name: Boeny
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.4.3_1_Adm2:
+    GID: MDG.4.3_1
+    admin_name: Melaky
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.4.4_1_Adm2:
+    GID: MDG.4.4_1
+    admin_name: Sofia
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.5_1_Adm1:
+    GID: MDG.5_1
+    admin_name: Toamasina
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.5.1_1_Adm2:
+    GID: MDG.5.1_1
+    admin_name: Alaotra-Mangoro
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.5.2_1_Adm2:
+    GID: MDG.5.2_1
+    admin_name: Analanjirofo
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.5.3_1_Adm2:
+    GID: MDG.5.3_1
+    admin_name: Atsinanana
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.6_1_Adm1:
+    GID: MDG.6_1
+    admin_name: Toliary
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm1
+  MDG.6.1_1_Adm2:
+    GID: MDG.6.1_1
+    admin_name: Androy
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.6.2_1_Adm2:
+    GID: MDG.6.2_1
+    admin_name: Anosy
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.6.3_1_Adm2:
+    GID: MDG.6.3_1
+    admin_name: Atsimo-Andrefana
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2
+  MDG.6.4_1_Adm2:
+    GID: MDG.6.4_1
+    admin_name: Menabe
+    iso3c: MDG
+    country_name: Madagascar
+    admin_level: Adm2

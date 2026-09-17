@@ -1,0 +1,25 @@
+concepts:
+  COM.0_Adm0:
+    GID: COM
+    admin_name: Comoros
+    iso3c: COM
+    country_name: Comoros
+    admin_level: Adm0
+  COM.1_1_Adm1:
+    GID: COM.1_1
+    admin_name: Nzwani
+    iso3c: COM
+    country_name: Comoros
+    admin_level: Adm1
+  COM.2_1_Adm1:
+    GID: COM.2_1
+    admin_name: Njazídja
+    iso3c: COM
+    country_name: Comoros
+    admin_level: Adm1
+  COM.3_1_Adm1:
+    GID: COM.3_1
+    admin_name: Mwali
+    iso3c: COM
+    country_name: Comoros
+    admin_level: Adm1

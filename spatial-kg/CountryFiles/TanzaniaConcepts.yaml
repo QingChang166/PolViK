@@ -1,0 +1,1309 @@
+concepts:
+  TZA.0_Adm0:
+    GID: TZA
+    admin_name: Tanzania
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm0
+  TZA.1_1_Adm1:
+    GID: TZA.1_1
+    admin_name: Arusha
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.1.1_1_Adm2:
+    GID: TZA.1.1_1
+    admin_name: Arusha Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.1.2_1_Adm2:
+    GID: TZA.1.2_1
+    admin_name: Arusha
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.1.3_1_Adm2:
+    GID: TZA.1.3_1
+    admin_name: Karatu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.1.4_1_Adm2:
+    GID: TZA.1.4_1
+    admin_name: Lake Eyasi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.1.5_1_Adm2:
+    GID: TZA.1.5_1
+    admin_name: Lake Manyara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.1.6_1_Adm2:
+    GID: TZA.1.6_1
+    admin_name: Longido
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.1.7_1_Adm2:
+    GID: TZA.1.7_1
+    admin_name: Meru
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.1.8_1_Adm2:
+    GID: TZA.1.8_1
+    admin_name: Monduli
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.1.9_1_Adm2:
+    GID: TZA.1.9_1
+    admin_name: Ngorongoro
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10_1_Adm1:
+    GID: TZA.10_1
+    admin_name: Lindi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.10.1_1_Adm2:
+    GID: TZA.10.1_1
+    admin_name: Kilwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.2_1_Adm2:
+    GID: TZA.10.2_1
+    admin_name: Lindi Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.3_1_Adm2:
+    GID: TZA.10.3_1
+    admin_name: Lindi Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.4_1_Adm2:
+    GID: TZA.10.4_1
+    admin_name: Liwale
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.5_1_Adm2:
+    GID: TZA.10.5_1
+    admin_name: Nachingwea
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.10.6_1_Adm2:
+    GID: TZA.10.6_1
+    admin_name: Ruangwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11_1_Adm1:
+    GID: TZA.11_1
+    admin_name: Manyara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.11.1_1_Adm2:
+    GID: TZA.11.1_1
+    admin_name: Babati Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.2_1_Adm2:
+    GID: TZA.11.2_1
+    admin_name: Babati
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.3_1_Adm2:
+    GID: TZA.11.3_1
+    admin_name: Hanang
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.4_1_Adm2:
+    GID: TZA.11.4_1
+    admin_name: Kiteto
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.5_1_Adm2:
+    GID: TZA.11.5_1
+    admin_name: Lake Manyara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.6_1_Adm2:
+    GID: TZA.11.6_1
+    admin_name: Mbulu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.11.7_1_Adm2:
+    GID: TZA.11.7_1
+    admin_name: Simanjiro
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12_1_Adm1:
+    GID: TZA.12_1
+    admin_name: Mara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.12.1_1_Adm2:
+    GID: TZA.12.1_1
+    admin_name: Bunda
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.2_1_Adm2:
+    GID: TZA.12.2_1
+    admin_name: Butiama
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.3_1_Adm2:
+    GID: TZA.12.3_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.4_1_Adm2:
+    GID: TZA.12.4_1
+    admin_name: Musoma Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.5_1_Adm2:
+    GID: TZA.12.5_1
+    admin_name: Musoma Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.6_1_Adm2:
+    GID: TZA.12.6_1
+    admin_name: Rorya
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.7_1_Adm2:
+    GID: TZA.12.7_1
+    admin_name: Serengeti
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.12.8_1_Adm2:
+    GID: TZA.12.8_1
+    admin_name: Tarime
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.13_1_Adm1:
+    GID: TZA.13_1
+    admin_name: Mbeya
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.13.1_1_Adm2:
+    GID: TZA.13.1_1
+    admin_name: Chunya
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.13.10_1_Adm2:
+    GID: TZA.13.10_1
+    admin_name: Rungwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.13.3_1_Adm2:
+    GID: TZA.13.3_1
+    admin_name: Kyela
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.13.5_1_Adm2:
+    GID: TZA.13.5_1
+    admin_name: Mbarali
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.13.6_1_Adm2:
+    GID: TZA.13.6_1
+    admin_name: Mbeya Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.13.7_1_Adm2:
+    GID: TZA.13.7_1
+    admin_name: Mbeya Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14_1_Adm1:
+    GID: TZA.14_1
+    admin_name: Morogoro
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.14.1_1_Adm2:
+    GID: TZA.14.1_1
+    admin_name: Gairo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.2_1_Adm2:
+    GID: TZA.14.2_1
+    admin_name: Kilombero
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.3_1_Adm2:
+    GID: TZA.14.3_1
+    admin_name: Kilosa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.4_1_Adm2:
+    GID: TZA.14.4_1
+    admin_name: Morogoro Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.5_1_Adm2:
+    GID: TZA.14.5_1
+    admin_name: Morogoro Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.6_1_Adm2:
+    GID: TZA.14.6_1
+    admin_name: Mvomero
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.14.7_1_Adm2:
+    GID: TZA.14.7_1
+    admin_name: Ulanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15_1_Adm1:
+    GID: TZA.15_1
+    admin_name: Mtwara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.15.1_1_Adm2:
+    GID: TZA.15.1_1
+    admin_name: Masasi Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.2_1_Adm2:
+    GID: TZA.15.2_1
+    admin_name: Masasi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.3_1_Adm2:
+    GID: TZA.15.3_1
+    admin_name: Mtwara Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.4_1_Adm2:
+    GID: TZA.15.4_1
+    admin_name: Mtwara Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.5_1_Adm2:
+    GID: TZA.15.5_1
+    admin_name: Nanyumbu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.6_1_Adm2:
+    GID: TZA.15.6_1
+    admin_name: Newala
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.15.7_1_Adm2:
+    GID: TZA.15.7_1
+    admin_name: Tandahimba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16_1_Adm1:
+    GID: TZA.16_1
+    admin_name: Mwanza
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.16.1_1_Adm2:
+    GID: TZA.16.1_1
+    admin_name: Ilemela
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.2_1_Adm2:
+    GID: TZA.16.2_1
+    admin_name: Kwimba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.3_1_Adm2:
+    GID: TZA.16.3_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.4_1_Adm2:
+    GID: TZA.16.4_1
+    admin_name: Magu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.5_1_Adm2:
+    GID: TZA.16.5_1
+    admin_name: Misungwi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.6_1_Adm2:
+    GID: TZA.16.6_1
+    admin_name: Nyamagana
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.7_1_Adm2:
+    GID: TZA.16.7_1
+    admin_name: Sengerema
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.16.8_1_Adm2:
+    GID: TZA.16.8_1
+    admin_name: Ukerewe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17_1_Adm1:
+    GID: TZA.17_1
+    admin_name: Njombe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.17.1_1_Adm2:
+    GID: TZA.17.1_1
+    admin_name: Ludewa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.2_1_Adm2:
+    GID: TZA.17.2_1
+    admin_name: Makambako Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.3_1_Adm2:
+    GID: TZA.17.3_1
+    admin_name: Makete
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.4_1_Adm2:
+    GID: TZA.17.4_1
+    admin_name: Njombe Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.5_1_Adm2:
+    GID: TZA.17.5_1
+    admin_name: Njombe Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.17.6_1_Adm2:
+    GID: TZA.17.6_1
+    admin_name: Wanging'ombe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.18_1_Adm1:
+    GID: TZA.18_1
+    admin_name: Kaskazini Pemba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.18.1_1_Adm2:
+    GID: TZA.18.1_1
+    admin_name: Micheweni
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.18.2_1_Adm2:
+    GID: TZA.18.2_1
+    admin_name: Wete
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.19_1_Adm1:
+    GID: TZA.19_1
+    admin_name: Kusini Pemba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.19.1_1_Adm2:
+    GID: TZA.19.1_1
+    admin_name: Chake
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.19.2_1_Adm2:
+    GID: TZA.19.2_1
+    admin_name: Mkoani
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.2_1_Adm1:
+    GID: TZA.2_1
+    admin_name: Dar es Salaam
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.2.1_1_Adm2:
+    GID: TZA.2.1_1
+    admin_name: Ilala
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.2.2_1_Adm2:
+    GID: TZA.2.2_1
+    admin_name: Kinondoni
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.2.3_1_Adm2:
+    GID: TZA.2.3_1
+    admin_name: Temeke
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20_1_Adm1:
+    GID: TZA.20_1
+    admin_name: Pwani
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.20.1_1_Adm2:
+    GID: TZA.20.1_1
+    admin_name: Bagamoyo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.2_1_Adm2:
+    GID: TZA.20.2_1
+    admin_name: Kibaha Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.3_1_Adm2:
+    GID: TZA.20.3_1
+    admin_name: Kibaha
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.4_1_Adm2:
+    GID: TZA.20.4_1
+    admin_name: Kisarawe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.5_1_Adm2:
+    GID: TZA.20.5_1
+    admin_name: Mafia
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.6_1_Adm2:
+    GID: TZA.20.6_1
+    admin_name: Mkuranga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.20.7_1_Adm2:
+    GID: TZA.20.7_1
+    admin_name: Rufiji
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21_1_Adm1:
+    GID: TZA.21_1
+    admin_name: Rukwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.21.1_1_Adm2:
+    GID: TZA.21.1_1
+    admin_name: Kalambo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.2_1_Adm2:
+    GID: TZA.21.2_1
+    admin_name: Lake Rukwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.3_1_Adm2:
+    GID: TZA.21.3_1
+    admin_name: Lake Tanganyika
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.4_1_Adm2:
+    GID: TZA.21.4_1
+    admin_name: Nkasi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.5_1_Adm2:
+    GID: TZA.21.5_1
+    admin_name: Sumbawanga Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.21.6_1_Adm2:
+    GID: TZA.21.6_1
+    admin_name: Sumbawanga Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22_1_Adm1:
+    GID: TZA.22_1
+    admin_name: Ruvuma
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.22.1_1_Adm2:
+    GID: TZA.22.1_1
+    admin_name: Mbinga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.2_1_Adm2:
+    GID: TZA.22.2_1
+    admin_name: Namtumbo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.3_1_Adm2:
+    GID: TZA.22.3_1
+    admin_name: Nyasa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.4_1_Adm2:
+    GID: TZA.22.4_1
+    admin_name: Songea Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.5_1_Adm2:
+    GID: TZA.22.5_1
+    admin_name: Songea Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.22.6_1_Adm2:
+    GID: TZA.22.6_1
+    admin_name: Tunduru
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23_1_Adm1:
+    GID: TZA.23_1
+    admin_name: Shinyanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.23.1_1_Adm2:
+    GID: TZA.23.1_1
+    admin_name: Kahama Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23.2_1_Adm2:
+    GID: TZA.23.2_1
+    admin_name: Kahama
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23.3_1_Adm2:
+    GID: TZA.23.3_1
+    admin_name: Kishapu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23.4_1_Adm2:
+    GID: TZA.23.4_1
+    admin_name: Shinyanga Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.23.5_1_Adm2:
+    GID: TZA.23.5_1
+    admin_name: Shinyanga Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24_1_Adm1:
+    GID: TZA.24_1
+    admin_name: Simiyu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.24.1_1_Adm2:
+    GID: TZA.24.1_1
+    admin_name: Bariadi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.2_1_Adm2:
+    GID: TZA.24.2_1
+    admin_name: Busega
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.3_1_Adm2:
+    GID: TZA.24.3_1
+    admin_name: Itilima
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.4_1_Adm2:
+    GID: TZA.24.4_1
+    admin_name: Lake Eyasi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.5_1_Adm2:
+    GID: TZA.24.5_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.6_1_Adm2:
+    GID: TZA.24.6_1
+    admin_name: Maswa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.24.7_1_Adm2:
+    GID: TZA.24.7_1
+    admin_name: Meatu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25_1_Adm1:
+    GID: TZA.25_1
+    admin_name: Singida
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.25.1_1_Adm2:
+    GID: TZA.25.1_1
+    admin_name: Ikungi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.2_1_Adm2:
+    GID: TZA.25.2_1
+    admin_name: Iramba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.3_1_Adm2:
+    GID: TZA.25.3_1
+    admin_name: Manyoni
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.4_1_Adm2:
+    GID: TZA.25.4_1
+    admin_name: Mkalama
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.5_1_Adm2:
+    GID: TZA.25.5_1
+    admin_name: Singida Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.25.6_1_Adm2:
+    GID: TZA.25.6_1
+    admin_name: Singida Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26_1_Adm1:
+    GID: TZA.26_1
+    admin_name: Tabora
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.26.1_1_Adm2:
+    GID: TZA.26.1_1
+    admin_name: Igunga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.2_1_Adm2:
+    GID: TZA.26.2_1
+    admin_name: Kaliua
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.3_1_Adm2:
+    GID: TZA.26.3_1
+    admin_name: Nzega
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.4_1_Adm2:
+    GID: TZA.26.4_1
+    admin_name: Sikonge
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.5_1_Adm2:
+    GID: TZA.26.5_1
+    admin_name: Tabora
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.6_1_Adm2:
+    GID: TZA.26.6_1
+    admin_name: Urambo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.26.7_1_Adm2:
+    GID: TZA.26.7_1
+    admin_name: Uyui
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27_1_Adm1:
+    GID: TZA.27_1
+    admin_name: Tanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.27.1_1_Adm2:
+    GID: TZA.27.1_1
+    admin_name: Handeni Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.10_1_Adm2:
+    GID: TZA.27.10_1
+    admin_name: Tanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.2_1_Adm2:
+    GID: TZA.27.2_1
+    admin_name: Handeni
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.3_1_Adm2:
+    GID: TZA.27.3_1
+    admin_name: Kilindi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.4_1_Adm2:
+    GID: TZA.27.4_1
+    admin_name: Korogwe Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.5_1_Adm2:
+    GID: TZA.27.5_1
+    admin_name: Korogwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.6_1_Adm2:
+    GID: TZA.27.6_1
+    admin_name: Lushoto
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.7_1_Adm2:
+    GID: TZA.27.7_1
+    admin_name: Mkinga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.8_1_Adm2:
+    GID: TZA.27.8_1
+    admin_name: Muheza
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.27.9_1_Adm2:
+    GID: TZA.27.9_1
+    admin_name: Pangani
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.28_1_Adm1:
+    GID: TZA.28_1
+    admin_name: Kaskazini Unguja
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.28.1_1_Adm2:
+    GID: TZA.28.1_1
+    admin_name: Kaskazini 'A'
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.28.2_1_Adm2:
+    GID: TZA.28.2_1
+    admin_name: Kaskazini 'B'
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.29_1_Adm1:
+    GID: TZA.29_1
+    admin_name: Kusini Unguja
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.29.1_1_Adm2:
+    GID: TZA.29.1_1
+    admin_name: Kati
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.29.2_1_Adm2:
+    GID: TZA.29.2_1
+    admin_name: Kusini
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3_1_Adm1:
+    GID: TZA.3_1
+    admin_name: Dodoma
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.3.1_1_Adm2:
+    GID: TZA.3.1_1
+    admin_name: Bahi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.2_1_Adm2:
+    GID: TZA.3.2_1
+    admin_name: Chamwino
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.3_1_Adm2:
+    GID: TZA.3.3_1
+    admin_name: Chemba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.4_1_Adm2:
+    GID: TZA.3.4_1
+    admin_name: Dodoma Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.5_1_Adm2:
+    GID: TZA.3.5_1
+    admin_name: Kondoa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.6_1_Adm2:
+    GID: TZA.3.6_1
+    admin_name: Kongwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.3.7_1_Adm2:
+    GID: TZA.3.7_1
+    admin_name: Mpwapwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.30_1_Adm1:
+    GID: TZA.30_1
+    admin_name: Mjini Magharibi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.30.2_1_Adm2:
+    GID: TZA.30.2_1
+    admin_name: Mjini
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.30.3_1_Adm2:
+    GID: TZA.30.3_1
+    admin_name: Magharibi A
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.30.4_1_Adm2:
+    GID: TZA.30.4_1
+    admin_name: Magharibi B
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31_1_Adm1:
+    GID: TZA.31_1
+    admin_name: Songwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.31.1_1_Adm2:
+    GID: TZA.31.1_1
+    admin_name: Songwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.11_1_Adm2:
+    GID: TZA.31.11_1
+    admin_name: Tunduma
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.2_1_Adm2:
+    GID: TZA.31.2_1
+    admin_name: Ileje
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.4_1_Adm2:
+    GID: TZA.31.4_1
+    admin_name: Lake Rukwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.8_1_Adm2:
+    GID: TZA.31.8_1
+    admin_name: Mbozi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.31.9_1_Adm2:
+    GID: TZA.31.9_1
+    admin_name: Momba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4_1_Adm1:
+    GID: TZA.4_1
+    admin_name: Geita
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.4.1_1_Adm2:
+    GID: TZA.4.1_1
+    admin_name: Bukombe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.2_1_Adm2:
+    GID: TZA.4.2_1
+    admin_name: Chato
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.3_1_Adm2:
+    GID: TZA.4.3_1
+    admin_name: Geita
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.4_1_Adm2:
+    GID: TZA.4.4_1
+    admin_name: Mbogwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.5_1_Adm2:
+    GID: TZA.4.5_1
+    admin_name: Nyang'hwale
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.4.6_1_Adm2:
+    GID: TZA.4.6_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5_1_Adm1:
+    GID: TZA.5_1
+    admin_name: Iringa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.5.1_1_Adm2:
+    GID: TZA.5.1_1
+    admin_name: Iringa Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5.2_1_Adm2:
+    GID: TZA.5.2_1
+    admin_name: Iringa Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5.3_1_Adm2:
+    GID: TZA.5.3_1
+    admin_name: Kilolo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5.4_1_Adm2:
+    GID: TZA.5.4_1
+    admin_name: Mafinga Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.5.5_1_Adm2:
+    GID: TZA.5.5_1
+    admin_name: Mufindi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6_1_Adm1:
+    GID: TZA.6_1
+    admin_name: Kagera
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.6.1_1_Adm2:
+    GID: TZA.6.1_1
+    admin_name: Biharamulo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.2_1_Adm2:
+    GID: TZA.6.2_1
+    admin_name: Bukoba Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.3_1_Adm2:
+    GID: TZA.6.3_1
+    admin_name: Bukoba Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.4_1_Adm2:
+    GID: TZA.6.4_1
+    admin_name: Karagwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.5_1_Adm2:
+    GID: TZA.6.5_1
+    admin_name: Kyerwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.6_1_Adm2:
+    GID: TZA.6.6_1
+    admin_name: Lake Victoria
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.7_1_Adm2:
+    GID: TZA.6.7_1
+    admin_name: Missenyi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.8_1_Adm2:
+    GID: TZA.6.8_1
+    admin_name: Muleba
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.6.9_1_Adm2:
+    GID: TZA.6.9_1
+    admin_name: Ngara
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7_1_Adm1:
+    GID: TZA.7_1
+    admin_name: Katavi
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.7.1_1_Adm2:
+    GID: TZA.7.1_1
+    admin_name: Lake Rukwa
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7.2_1_Adm2:
+    GID: TZA.7.2_1
+    admin_name: Lake Tanganyika
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7.3_1_Adm2:
+    GID: TZA.7.3_1
+    admin_name: Mlele
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7.4_1_Adm2:
+    GID: TZA.7.4_1
+    admin_name: Mpanda Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.7.5_1_Adm2:
+    GID: TZA.7.5_1
+    admin_name: Mpanda Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8_1_Adm1:
+    GID: TZA.8_1
+    admin_name: Kigoma
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.8.1_1_Adm2:
+    GID: TZA.8.1_1
+    admin_name: Buhigwe
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.2_1_Adm2:
+    GID: TZA.8.2_1
+    admin_name: Kakonko
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.3_1_Adm2:
+    GID: TZA.8.3_1
+    admin_name: Kasulu Town
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.4_1_Adm2:
+    GID: TZA.8.4_1
+    admin_name: Kasulu
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.5_1_Adm2:
+    GID: TZA.8.5_1
+    admin_name: Kibondo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.6_1_Adm2:
+    GID: TZA.8.6_1
+    admin_name: Kigoma Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.7_1_Adm2:
+    GID: TZA.8.7_1
+    admin_name: Kigoma Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.8_1_Adm2:
+    GID: TZA.8.8_1
+    admin_name: Lake Tanganyika
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.8.9_1_Adm2:
+    GID: TZA.8.9_1
+    admin_name: Uvinza
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9_1_Adm1:
+    GID: TZA.9_1
+    admin_name: Kilimanjaro
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm1
+  TZA.9.1_1_Adm2:
+    GID: TZA.9.1_1
+    admin_name: Hai
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.2_1_Adm2:
+    GID: TZA.9.2_1
+    admin_name: Moshi Rural
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.3_1_Adm2:
+    GID: TZA.9.3_1
+    admin_name: Moshi Urban
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.4_1_Adm2:
+    GID: TZA.9.4_1
+    admin_name: Mwanga
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.5_1_Adm2:
+    GID: TZA.9.5_1
+    admin_name: Rombo
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.6_1_Adm2:
+    GID: TZA.9.6_1
+    admin_name: Same
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2
+  TZA.9.7_1_Adm2:
+    GID: TZA.9.7_1
+    admin_name: Siha
+    iso3c: TZA
+    country_name: Tanzania
+    admin_level: Adm2

@@ -1,0 +1,8 @@
+relations:
+    - (GRD.0_Adm0, GRD.1_1_Adm1)
+    - (GRD.0_Adm0, GRD.2_1_Adm1)
+    - (GRD.0_Adm0, GRD.3_1_Adm1)
+    - (GRD.0_Adm0, GRD.4_1_Adm1)
+    - (GRD.0_Adm0, GRD.5_1_Adm1)
+    - (GRD.0_Adm0, GRD.6_1_Adm1)
+    - (GRD.0_Adm0, GRD.7_1_Adm1)

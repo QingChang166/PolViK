@@ -1,0 +1,49 @@
+concepts:
+  QAT.0_Adm0:
+    GID: QAT
+    admin_name: Qatar
+    iso3c: QAT
+    country_name: Qatar
+    admin_level: Adm0
+  QAT.1_1_Adm1:
+    GID: QAT.1_1
+    admin_name: Ad Dawhah
+    iso3c: QAT
+    country_name: Qatar
+    admin_level: Adm1
+  QAT.2_1_Adm1:
+    GID: QAT.2_1
+    admin_name: Al Daayen
+    iso3c: QAT
+    country_name: Qatar
+    admin_level: Adm1
+  QAT.3_1_Adm1:
+    GID: QAT.3_1
+    admin_name: Al Khor
+    iso3c: QAT
+    country_name: Qatar
+    admin_level: Adm1
+  QAT.4_1_Adm1:
+    GID: QAT.4_1
+    admin_name: Al Wakrah
+    iso3c: QAT
+    country_name: Qatar
+    admin_level: Adm1
+  QAT.5_1_Adm1:
+    GID: QAT.5_1
+    admin_name: Ar Rayyan
+    iso3c: QAT
+    country_name: Qatar
+    admin_level: Adm1
+  QAT.6_1_Adm1:
+    GID: QAT.6_1
+    admin_name: Madinat ash Shamal
+    iso3c: QAT
+    country_name: Qatar
+    admin_level: Adm1
+  QAT.7_1_Adm1:
+    GID: QAT.7_1
+    admin_name: Umm Salal
+    iso3c: QAT
+    country_name: Qatar
+    admin_level: Adm1

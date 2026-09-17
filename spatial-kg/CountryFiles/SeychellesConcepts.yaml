@@ -1,0 +1,163 @@
+concepts:
+  SYC.0_Adm0:
+    GID: SYC
+    admin_name: Seychelles
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm0
+  SYC.1_1_Adm1:
+    GID: SYC.1_1
+    admin_name: Anse aux Pins
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.10_1_Adm1:
+    GID: SYC.10_1
+    admin_name: Belombre
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.11_1_Adm1:
+    GID: SYC.11_1
+    admin_name: Cascade
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.12_1_Adm1:
+    GID: SYC.12_1
+    admin_name: English River
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.13_1_Adm1:
+    GID: SYC.13_1
+    admin_name: Glacis
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.14_1_Adm1:
+    GID: SYC.14_1
+    admin_name: Grand' Anse
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.15_1_Adm1:
+    GID: SYC.15_1
+    admin_name: Grand'Anse Praslin
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.16_1_Adm1:
+    GID: SYC.16_1
+    admin_name: La Digue and Inner Islands
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.17_1_Adm1:
+    GID: SYC.17_1
+    admin_name: Les Mamelles
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.18_1_Adm1:
+    GID: SYC.18_1
+    admin_name: Mont Buxton
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.19_1_Adm1:
+    GID: SYC.19_1
+    admin_name: Mont Fleuri
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.2_1_Adm1:
+    GID: SYC.2_1
+    admin_name: Anse Boileau
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.20_1_Adm1:
+    GID: SYC.20_1
+    admin_name: Outer Islands
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.21_1_Adm1:
+    GID: SYC.21_1
+    admin_name: Plaisance
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.22_1_Adm1:
+    GID: SYC.22_1
+    admin_name: Pointe La Rue
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.23_1_Adm1:
+    GID: SYC.23_1
+    admin_name: Port Glaud
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.24_1_Adm1:
+    GID: SYC.24_1
+    admin_name: Roche Caïman
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.25_1_Adm1:
+    GID: SYC.25_1
+    admin_name: Saint Louis
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.26_1_Adm1:
+    GID: SYC.26_1
+    admin_name: Takamaka
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.3_1_Adm1:
+    GID: SYC.3_1
+    admin_name: Anse Étoile
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.4_1_Adm1:
+    GID: SYC.4_1
+    admin_name: Anse Royale
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.5_1_Adm1:
+    GID: SYC.5_1
+    admin_name: Au Cap
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.6_1_Adm1:
+    GID: SYC.6_1
+    admin_name: Baie Lazare
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.7_1_Adm1:
+    GID: SYC.7_1
+    admin_name: Baie Sainte Anne
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.8_1_Adm1:
+    GID: SYC.8_1
+    admin_name: Beau Vallon
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1
+  SYC.9_1_Adm1:
+    GID: SYC.9_1
+    admin_name: Bel Air
+    iso3c: SYC
+    country_name: Seychelles
+    admin_level: Adm1

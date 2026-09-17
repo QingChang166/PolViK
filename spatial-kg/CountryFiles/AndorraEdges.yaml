@@ -1,0 +1,8 @@
+relations:
+    - (AND.0_Adm0, AND.1_1_Adm1)
+    - (AND.0_Adm0, AND.2_1_Adm1)
+    - (AND.0_Adm0, AND.3_1_Adm1)
+    - (AND.0_Adm0, AND.4_1_Adm1)
+    - (AND.0_Adm0, AND.5_1_Adm1)
+    - (AND.0_Adm0, AND.6_1_Adm1)
+    - (AND.0_Adm0, AND.7_1_Adm1)

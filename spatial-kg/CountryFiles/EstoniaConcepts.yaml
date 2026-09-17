@@ -1,0 +1,1441 @@
+concepts:
+  EST.0_Adm0:
+    GID: EST
+    admin_name: Estonia
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm0
+  EST.1_1_Adm1:
+    GID: EST.1_1
+    admin_name: Harju
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.1.1_1_Adm2:
+    GID: EST.1.1_1
+    admin_name: Aegviidu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.10_1_Adm2:
+    GID: EST.1.10_1
+    admin_name: Kuusalu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.11_1_Adm2:
+    GID: EST.1.11_1
+    admin_name: Loksa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.12_1_Adm2:
+    GID: EST.1.12_1
+    admin_name: Maardu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.13_1_Adm2:
+    GID: EST.1.13_1
+    admin_name: Nissi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.14_1_Adm2:
+    GID: EST.1.14_1
+    admin_name: Padise
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.15_1_Adm2:
+    GID: EST.1.15_1
+    admin_name: Paldiski
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.16_1_Adm2:
+    GID: EST.1.16_1
+    admin_name: Raasiku
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.17_1_Adm2:
+    GID: EST.1.17_1
+    admin_name: Rae
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.18_1_Adm2:
+    GID: EST.1.18_1
+    admin_name: Saku
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.19_1_Adm2:
+    GID: EST.1.19_1
+    admin_name: Saue
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.2_1_Adm2:
+    GID: EST.1.2_1
+    admin_name: Anija
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.20_1_Adm2:
+    GID: EST.1.20_1
+    admin_name: Tallinn
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.21_1_Adm2:
+    GID: EST.1.21_1
+    admin_name: Vasalemma
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.22_1_Adm2:
+    GID: EST.1.22_1
+    admin_name: Viimsi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.3_1_Adm2:
+    GID: EST.1.3_1
+    admin_name: Harku
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.4_1_Adm2:
+    GID: EST.1.4_1
+    admin_name: Jõelähtme
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.5_1_Adm2:
+    GID: EST.1.5_1
+    admin_name: Keila
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.6_1_Adm2:
+    GID: EST.1.6_1
+    admin_name: Kernu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.7_1_Adm2:
+    GID: EST.1.7_1
+    admin_name: Kiili
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.8_1_Adm2:
+    GID: EST.1.8_1
+    admin_name: Kose
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.1.9_1_Adm2:
+    GID: EST.1.9_1
+    admin_name: Kõue
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10_1_Adm1:
+    GID: EST.10_1
+    admin_name: Põlva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.10.1_1_Adm2:
+    GID: EST.10.1_1
+    admin_name: Ahja
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.10_1_Adm2:
+    GID: EST.10.10_1
+    admin_name: Räpina
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.11_1_Adm2:
+    GID: EST.10.11_1
+    admin_name: Valgjärve
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.12_1_Adm2:
+    GID: EST.10.12_1
+    admin_name: Värska
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.13_1_Adm2:
+    GID: EST.10.13_1
+    admin_name: Vastse-Kuuste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.14_1_Adm2:
+    GID: EST.10.14_1
+    admin_name: Veriora
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.2_1_Adm2:
+    GID: EST.10.2_1
+    admin_name: Kanepi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.3_1_Adm2:
+    GID: EST.10.3_1
+    admin_name: Kõlleste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.4_1_Adm2:
+    GID: EST.10.4_1
+    admin_name: Laheda
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.5_1_Adm2:
+    GID: EST.10.5_1
+    admin_name: Mikitamäe
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.6_1_Adm2:
+    GID: EST.10.6_1
+    admin_name: Mooste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.7_1_Adm2:
+    GID: EST.10.7_1
+    admin_name: Orava
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.8_1_Adm2:
+    GID: EST.10.8_1
+    admin_name: Põlva Vald
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.10.9_1_Adm2:
+    GID: EST.10.9_1
+    admin_name: Põlva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11_1_Adm1:
+    GID: EST.11_1
+    admin_name: Rapla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.11.1_1_Adm2:
+    GID: EST.11.1_1
+    admin_name: Järvakandi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.10_1_Adm2:
+    GID: EST.11.10_1
+    admin_name: Vigala
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.2_1_Adm2:
+    GID: EST.11.2_1
+    admin_name: Juuru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.3_1_Adm2:
+    GID: EST.11.3_1
+    admin_name: Kaiu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.4_1_Adm2:
+    GID: EST.11.4_1
+    admin_name: Käru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.5_1_Adm2:
+    GID: EST.11.5_1
+    admin_name: Kehtna
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.6_1_Adm2:
+    GID: EST.11.6_1
+    admin_name: Kohila
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.7_1_Adm2:
+    GID: EST.11.7_1
+    admin_name: Märjamaa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.8_1_Adm2:
+    GID: EST.11.8_1
+    admin_name: Raikküla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.11.9_1_Adm2:
+    GID: EST.11.9_1
+    admin_name: Rapla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12_1_Adm1:
+    GID: EST.12_1
+    admin_name: Saare
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.12.1_1_Adm2:
+    GID: EST.12.1_1
+    admin_name: Kaarma
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.10_1_Adm2:
+    GID: EST.12.10_1
+    admin_name: Orissaare
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.11_1_Adm2:
+    GID: EST.12.11_1
+    admin_name: Pihtla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.12_1_Adm2:
+    GID: EST.12.12_1
+    admin_name: Pöide
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.13_1_Adm2:
+    GID: EST.12.13_1
+    admin_name: Ruhnu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.14_1_Adm2:
+    GID: EST.12.14_1
+    admin_name: Salme
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.15_1_Adm2:
+    GID: EST.12.15_1
+    admin_name: Torgu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.16_1_Adm2:
+    GID: EST.12.16_1
+    admin_name: Valjala
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.2_1_Adm2:
+    GID: EST.12.2_1
+    admin_name: Kärla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.3_1_Adm2:
+    GID: EST.12.3_1
+    admin_name: Kihelkonna
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.4_1_Adm2:
+    GID: EST.12.4_1
+    admin_name: Kuressaare
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.5_1_Adm2:
+    GID: EST.12.5_1
+    admin_name: Laimjala
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.6_1_Adm2:
+    GID: EST.12.6_1
+    admin_name: Leisi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.7_1_Adm2:
+    GID: EST.12.7_1
+    admin_name: Lümanda
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.8_1_Adm2:
+    GID: EST.12.8_1
+    admin_name: Muhu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.12.9_1_Adm2:
+    GID: EST.12.9_1
+    admin_name: Mustjala
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13_1_Adm1:
+    GID: EST.13_1
+    admin_name: Tartu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.13.1_1_Adm2:
+    GID: EST.13.1_1
+    admin_name: Alatskivi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.10_1_Adm2:
+    GID: EST.13.10_1
+    admin_name: Meeksi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.11_1_Adm2:
+    GID: EST.13.11_1
+    admin_name: Nõo
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.12_1_Adm2:
+    GID: EST.13.12_1
+    admin_name: Peipsiääre
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.13_1_Adm2:
+    GID: EST.13.13_1
+    admin_name: Piirissaare
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.14_1_Adm2:
+    GID: EST.13.14_1
+    admin_name: Puhja
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.15_1_Adm2:
+    GID: EST.13.15_1
+    admin_name: Rannu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.16_1_Adm2:
+    GID: EST.13.16_1
+    admin_name: Rõngu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.17_1_Adm2:
+    GID: EST.13.17_1
+    admin_name: Tähtvere
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.18_1_Adm2:
+    GID: EST.13.18_1
+    admin_name: Tartu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.19_1_Adm2:
+    GID: EST.13.19_1
+    admin_name: Ülenurme
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.2_1_Adm2:
+    GID: EST.13.2_1
+    admin_name: Elva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.20_1_Adm2:
+    GID: EST.13.20_1
+    admin_name: Vara
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.21_1_Adm2:
+    GID: EST.13.21_1
+    admin_name: Võnnu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.22_1_Adm2:
+    GID: EST.13.22_1
+    admin_name: Võrtsjärve
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.3_1_Adm2:
+    GID: EST.13.3_1
+    admin_name: Haaslava
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.4_1_Adm2:
+    GID: EST.13.4_1
+    admin_name: Kallaste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.5_1_Adm2:
+    GID: EST.13.5_1
+    admin_name: Kambja
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.6_1_Adm2:
+    GID: EST.13.6_1
+    admin_name: Konguta
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.7_1_Adm2:
+    GID: EST.13.7_1
+    admin_name: Laeva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.8_1_Adm2:
+    GID: EST.13.8_1
+    admin_name: Luunja
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.13.9_1_Adm2:
+    GID: EST.13.9_1
+    admin_name: Mäksa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14_1_Adm1:
+    GID: EST.14_1
+    admin_name: Valga
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.14.1_1_Adm2:
+    GID: EST.14.1_1
+    admin_name: Helme
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.10_1_Adm2:
+    GID: EST.14.10_1
+    admin_name: Taheva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.11_1_Adm2:
+    GID: EST.14.11_1
+    admin_name: Tõlliste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.12_1_Adm2:
+    GID: EST.14.12_1
+    admin_name: Tõrva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.13_1_Adm2:
+    GID: EST.14.13_1
+    admin_name: Valga
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.2_1_Adm2:
+    GID: EST.14.2_1
+    admin_name: Hummuli
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.3_1_Adm2:
+    GID: EST.14.3_1
+    admin_name: Karula
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.4_1_Adm2:
+    GID: EST.14.4_1
+    admin_name: Õru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.5_1_Adm2:
+    GID: EST.14.5_1
+    admin_name: Palupera
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.6_1_Adm2:
+    GID: EST.14.6_1
+    admin_name: Põdrala
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.7_1_Adm2:
+    GID: EST.14.7_1
+    admin_name: Puhajarve
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.8_1_Adm2:
+    GID: EST.14.8_1
+    admin_name: Puka
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.14.9_1_Adm2:
+    GID: EST.14.9_1
+    admin_name: Sangaste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15_1_Adm1:
+    GID: EST.15_1
+    admin_name: Viljandi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.15.1_1_Adm2:
+    GID: EST.15.1_1
+    admin_name: Abja
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.10_1_Adm2:
+    GID: EST.15.10_1
+    admin_name: Saarepeedi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.11_1_Adm2:
+    GID: EST.15.11_1
+    admin_name: Suure-Jaani
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.12_1_Adm2:
+    GID: EST.15.12_1
+    admin_name: Tarvastu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.13_1_Adm2:
+    GID: EST.15.13_1
+    admin_name: Viiratsi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.14_1_Adm2:
+    GID: EST.15.14_1
+    admin_name: Viljandi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.15_1_Adm2:
+    GID: EST.15.15_1
+    admin_name: Võhma
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.2_1_Adm2:
+    GID: EST.15.2_1
+    admin_name: Halliste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.3_1_Adm2:
+    GID: EST.15.3_1
+    admin_name: Karksi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.4_1_Adm2:
+    GID: EST.15.4_1
+    admin_name: Kolga-Jaani
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.5_1_Adm2:
+    GID: EST.15.5_1
+    admin_name: Kõo
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.6_1_Adm2:
+    GID: EST.15.6_1
+    admin_name: Kõpu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.7_1_Adm2:
+    GID: EST.15.7_1
+    admin_name: Mõisaküla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.8_1_Adm2:
+    GID: EST.15.8_1
+    admin_name: Paistu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.15.9_1_Adm2:
+    GID: EST.15.9_1
+    admin_name: Pärsti
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16_1_Adm1:
+    GID: EST.16_1
+    admin_name: Võru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.16.1_1_Adm2:
+    GID: EST.16.1_1
+    admin_name: Antsla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.10_1_Adm2:
+    GID: EST.16.10_1
+    admin_name: Varstu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.11_1_Adm2:
+    GID: EST.16.11_1
+    admin_name: Vastseliina
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.12_1_Adm2:
+    GID: EST.16.12_1
+    admin_name: Võru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.2_1_Adm2:
+    GID: EST.16.2_1
+    admin_name: Haanja
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.3_1_Adm2:
+    GID: EST.16.3_1
+    admin_name: Lasva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.4_1_Adm2:
+    GID: EST.16.4_1
+    admin_name: Meremäe
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.5_1_Adm2:
+    GID: EST.16.5_1
+    admin_name: Misso
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.6_1_Adm2:
+    GID: EST.16.6_1
+    admin_name: Mõniste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.7_1_Adm2:
+    GID: EST.16.7_1
+    admin_name: Rõuge
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.8_1_Adm2:
+    GID: EST.16.8_1
+    admin_name: Sõmerpalu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.16.9_1_Adm2:
+    GID: EST.16.9_1
+    admin_name: Urvaste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.2_1_Adm1:
+    GID: EST.2_1
+    admin_name: Hiiu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.2.1_1_Adm2:
+    GID: EST.2.1_1
+    admin_name: Emmaste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.2.2_1_Adm2:
+    GID: EST.2.2_1
+    admin_name: Käina
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.2.3_1_Adm2:
+    GID: EST.2.3_1
+    admin_name: Kärdla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.2.4_1_Adm2:
+    GID: EST.2.4_1
+    admin_name: Kõrgessaare
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.2.5_1_Adm2:
+    GID: EST.2.5_1
+    admin_name: Pühalepa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3_1_Adm1:
+    GID: EST.3_1
+    admin_name: Ida-Viru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.3.1_1_Adm2:
+    GID: EST.3.1_1
+    admin_name: Alajõe
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.10_1_Adm2:
+    GID: EST.3.10_1
+    admin_name: Kohtla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.11_1_Adm2:
+    GID: EST.3.11_1
+    admin_name: Lohusuu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.12_1_Adm2:
+    GID: EST.3.12_1
+    admin_name: Lüganuse
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.13_1_Adm2:
+    GID: EST.3.13_1
+    admin_name: Mäetaguse
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.14_1_Adm2:
+    GID: EST.3.14_1
+    admin_name: Maidla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.15_1_Adm2:
+    GID: EST.3.15_1
+    admin_name: Narva-Jõesuu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.16_1_Adm2:
+    GID: EST.3.16_1
+    admin_name: Narva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.17_1_Adm2:
+    GID: EST.3.17_1
+    admin_name: Püssi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.18_1_Adm2:
+    GID: EST.3.18_1
+    admin_name: Sillamäe
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.19_1_Adm2:
+    GID: EST.3.19_1
+    admin_name: Sonda
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.2_1_Adm2:
+    GID: EST.3.2_1
+    admin_name: Aseri
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.20_1_Adm2:
+    GID: EST.3.20_1
+    admin_name: Toila
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.21_1_Adm2:
+    GID: EST.3.21_1
+    admin_name: Tudulinna
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.22_1_Adm2:
+    GID: EST.3.22_1
+    admin_name: Vaivara
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.3_1_Adm2:
+    GID: EST.3.3_1
+    admin_name: Avinurme
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.4_1_Adm2:
+    GID: EST.3.4_1
+    admin_name: Iisaku
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.5_1_Adm2:
+    GID: EST.3.5_1
+    admin_name: Illuka
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.6_1_Adm2:
+    GID: EST.3.6_1
+    admin_name: Jõhvi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.7_1_Adm2:
+    GID: EST.3.7_1
+    admin_name: Kiviõli
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.8_1_Adm2:
+    GID: EST.3.8_1
+    admin_name: Kohtla-Järve
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.3.9_1_Adm2:
+    GID: EST.3.9_1
+    admin_name: Kohtla-Nõmme
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4_1_Adm1:
+    GID: EST.4_1
+    admin_name: Järva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.4.1_1_Adm2:
+    GID: EST.4.1_1
+    admin_name: Albu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.10_1_Adm2:
+    GID: EST.4.10_1
+    admin_name: Roosna-Alliku
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.11_1_Adm2:
+    GID: EST.4.11_1
+    admin_name: Türi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.12_1_Adm2:
+    GID: EST.4.12_1
+    admin_name: Väätsa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.2_1_Adm2:
+    GID: EST.4.2_1
+    admin_name: Ambla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.3_1_Adm2:
+    GID: EST.4.3_1
+    admin_name: Imavere
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.4_1_Adm2:
+    GID: EST.4.4_1
+    admin_name: Järva-Jaani
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.5_1_Adm2:
+    GID: EST.4.5_1
+    admin_name: Kareda
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.6_1_Adm2:
+    GID: EST.4.6_1
+    admin_name: Koeru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.7_1_Adm2:
+    GID: EST.4.7_1
+    admin_name: Koigi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.8_1_Adm2:
+    GID: EST.4.8_1
+    admin_name: Paide (Vald)
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.4.9_1_Adm2:
+    GID: EST.4.9_1
+    admin_name: Paide
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5_1_Adm1:
+    GID: EST.5_1
+    admin_name: Jõgeva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.5.1_1_Adm2:
+    GID: EST.5.1_1
+    admin_name: Jõgeva (commune)
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.10_1_Adm2:
+    GID: EST.5.10_1
+    admin_name: Puurmani
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.11_1_Adm2:
+    GID: EST.5.11_1
+    admin_name: Saare
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.12_1_Adm2:
+    GID: EST.5.12_1
+    admin_name: Tabivere
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.13_1_Adm2:
+    GID: EST.5.13_1
+    admin_name: Torma
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.2_1_Adm2:
+    GID: EST.5.2_1
+    admin_name: Jõgeva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.3_1_Adm2:
+    GID: EST.5.3_1
+    admin_name: Kasepää
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.4_1_Adm2:
+    GID: EST.5.4_1
+    admin_name: Mustvee
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.5_1_Adm2:
+    GID: EST.5.5_1
+    admin_name: Pajusi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.6_1_Adm2:
+    GID: EST.5.6_1
+    admin_name: Pala
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.7_1_Adm2:
+    GID: EST.5.7_1
+    admin_name: Palamuse
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.8_1_Adm2:
+    GID: EST.5.8_1
+    admin_name: Põltsamaa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.5.9_1_Adm2:
+    GID: EST.5.9_1
+    admin_name: PõltsamaaPõltsamaa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6_1_Adm1:
+    GID: EST.6_1
+    admin_name: Lääne-Viru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.6.1_1_Adm2:
+    GID: EST.6.1_1
+    admin_name: Haljala
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.10_1_Adm2:
+    GID: EST.6.10_1
+    admin_name: Tapa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.11_1_Adm2:
+    GID: EST.6.11_1
+    admin_name: Väike-Maarja
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.12_1_Adm2:
+    GID: EST.6.12_1
+    admin_name: Vihula
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.13_1_Adm2:
+    GID: EST.6.13_1
+    admin_name: Vinni
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.14_1_Adm2:
+    GID: EST.6.14_1
+    admin_name: Viru-Nigula
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.2_1_Adm2:
+    GID: EST.6.2_1
+    admin_name: Kadrina
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.3_1_Adm2:
+    GID: EST.6.3_1
+    admin_name: Kunda
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.4_1_Adm2:
+    GID: EST.6.4_1
+    admin_name: Laekvere
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.5_1_Adm2:
+    GID: EST.6.5_1
+    admin_name: Rägavere
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.6_1_Adm2:
+    GID: EST.6.6_1
+    admin_name: Rakke
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.7_1_Adm2:
+    GID: EST.6.7_1
+    admin_name: Rakvere
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.8_1_Adm2:
+    GID: EST.6.8_1
+    admin_name: Sõmeru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.6.9_1_Adm2:
+    GID: EST.6.9_1
+    admin_name: Tamsalu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7_1_Adm1:
+    GID: EST.7_1
+    admin_name: Lääne
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.7.1_1_Adm2:
+    GID: EST.7.1_1
+    admin_name: Haapsalu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.10_1_Adm2:
+    GID: EST.7.10_1
+    admin_name: Risti
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.11_1_Adm2:
+    GID: EST.7.11_1
+    admin_name: Taebla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.12_1_Adm2:
+    GID: EST.7.12_1
+    admin_name: Vormsi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.2_1_Adm2:
+    GID: EST.7.2_1
+    admin_name: Hanila
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.3_1_Adm2:
+    GID: EST.7.3_1
+    admin_name: Kullamaa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.4_1_Adm2:
+    GID: EST.7.4_1
+    admin_name: Lihula
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.5_1_Adm2:
+    GID: EST.7.5_1
+    admin_name: Martna
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.6_1_Adm2:
+    GID: EST.7.6_1
+    admin_name: Noarootsi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.7_1_Adm2:
+    GID: EST.7.7_1
+    admin_name: Nõva
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.8_1_Adm2:
+    GID: EST.7.8_1
+    admin_name: Oru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.7.9_1_Adm2:
+    GID: EST.7.9_1
+    admin_name: Ridala
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8_1_Adm1:
+    GID: EST.8_1
+    admin_name: Pärnu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.8.1_1_Adm2:
+    GID: EST.8.1_1
+    admin_name: Are
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.10_1_Adm2:
+    GID: EST.8.10_1
+    admin_name: Pärnu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.11_1_Adm2:
+    GID: EST.8.11_1
+    admin_name: Saarde
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.12_1_Adm2:
+    GID: EST.8.12_1
+    admin_name: Sauga
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.13_1_Adm2:
+    GID: EST.8.13_1
+    admin_name: Sindi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.14_1_Adm2:
+    GID: EST.8.14_1
+    admin_name: Surju
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.15_1_Adm2:
+    GID: EST.8.15_1
+    admin_name: Tahkuranna
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.16_1_Adm2:
+    GID: EST.8.16_1
+    admin_name: Tori
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.17_1_Adm2:
+    GID: EST.8.17_1
+    admin_name: Tõstamaa
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.18_1_Adm2:
+    GID: EST.8.18_1
+    admin_name: Vändra vald (alev)
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.19_1_Adm2:
+    GID: EST.8.19_1
+    admin_name: Vändra
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.2_1_Adm2:
+    GID: EST.8.2_1
+    admin_name: Audru
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.20_1_Adm2:
+    GID: EST.8.20_1
+    admin_name: Varbla
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.3_1_Adm2:
+    GID: EST.8.3_1
+    admin_name: Häädemeeste
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.4_1_Adm2:
+    GID: EST.8.4_1
+    admin_name: Halinga
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.5_1_Adm2:
+    GID: EST.8.5_1
+    admin_name: Kaisama
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.6_1_Adm2:
+    GID: EST.8.6_1
+    admin_name: Kihnu
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.7_1_Adm2:
+    GID: EST.8.7_1
+    admin_name: Koonga
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.8_1_Adm2:
+    GID: EST.8.8_1
+    admin_name: Lavassaare
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.8.9_1_Adm2:
+    GID: EST.8.9_1
+    admin_name: Paikuse
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2
+  EST.9_1_Adm1:
+    GID: EST.9_1
+    admin_name: Peipsi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm1
+  EST.9.1_1_Adm2:
+    GID: EST.9.1_1
+    admin_name: Peipsi
+    iso3c: EST
+    country_name: Estonia
+    admin_level: Adm2

@@ -1,0 +1,43 @@
+concepts:
+  BLZ.0_Adm0:
+    GID: BLZ
+    admin_name: Belize
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm0
+  BLZ.1_1_Adm1:
+    GID: BLZ.1_1
+    admin_name: Belize
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
+  BLZ.2_1_Adm1:
+    GID: BLZ.2_1
+    admin_name: Cayo
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
+  BLZ.3_1_Adm1:
+    GID: BLZ.3_1
+    admin_name: Corozal
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
+  BLZ.4_1_Adm1:
+    GID: BLZ.4_1
+    admin_name: Orange Walk
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
+  BLZ.5_1_Adm1:
+    GID: BLZ.5_1
+    admin_name: Stann Creek
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
+  BLZ.6_1_Adm1:
+    GID: BLZ.6_1
+    admin_name: Toledo
+    iso3c: BLZ
+    country_name: Belize
+    admin_level: Adm1
