@@ -1,0 +1,26 @@
+# --- R ---
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+
+# --- OS ---
+.DS_Store
+
+# --- rendered output ---
+README.html
+*.knit.md
+*.utf8.md
+
+# --- evicted geodata (see scripts/fetch_raw_data.sh) ---
+spatial-kg/Spatial_Temporal_Object_1990_2014/
+spatial-kg/Pgc Datasets/
+spatial-kg/actor_spells_spatial.gpkg
+people-kg/Aspect_CountVectorizer_model.pkl.zip
+people-kg/localagreement/*.png
