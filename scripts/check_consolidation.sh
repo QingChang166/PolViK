@@ -50,11 +50,14 @@ if [ "$(git ls-files people-kg/country_files | wc -l | tr -d ' ')" -gt 0 ]; then
     git ls-files --error-unmatch "$old" >/dev/null 2>&1 \
       && note FAIL "old name still present: $old"
   done
+  git ls-files --error-unmatch 'people-kg/country_files/SãoToméandPrincipeConcepts.yml' >/dev/null 2>&1 \
+    && note FAIL "old name still present: people-kg/country_files/SãoToméandPrincipeConcepts.yml"
   for new in 'people-kg/country_files/CentralAfricanRepublicConcepts.yml' \
              'people-kg/country_files/DemocraticRepublicoftheCongoConcepts.yml' \
              'people-kg/country_files/RepublicoftheCongoConcepts.yml' \
              'people-kg/country_files/Guinea-BissauConcepts.yml' \
              'people-kg/country_files/CotedIvoireConcepts.yml' \
+             'people-kg/country_files/SãoToméandPríncipeConcepts.yml' \
              'people-kg/country_files/EswatiniConcepts.yml'; do
     git ls-files --error-unmatch "$new" >/dev/null 2>&1 \
       || note FAIL "expected renamed file missing: $new"
