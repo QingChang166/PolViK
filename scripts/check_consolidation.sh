@@ -7,15 +7,22 @@
 # block pushes over problems nobody is authorized to repair.
 set -uo pipefail
 
+# --final treats a missing folder as a failure rather than "not grafted yet".
+# Without it, MISSING is informational, so the check can PASS mid-build.
+FINAL=0
+[ "${1:-}" = "--final" ] && FINAL=1
+
 cd "$(dirname "${BASH_SOURCE[0]}")/.."
 fail=0
 note() { printf '  %-9s %s\n' "$1" "$2"; [ "$1" = "FAIL" ] && fail=1; return 0; }
+# MISSING is informational mid-build, fatal under --final.
+missing() { [ "$FINAL" -eq 1 ] && note FAIL "$1" || note MISSING "$1"; }
 
 echo "== folders =="
 for p in spatial-kg people-kg people-kg/localagreement; do
   n=$(git ls-files "$p" | wc -l | tr -d ' ')
   if [ "$n" -gt 0 ]; then note OK "$p: $n tracked files"
-  else note MISSING "$p: not present (expected before its graft task)"; fi
+  else missing "$p: not present"; fi
 done
 
 echo "== evicted paths must not be tracked =="
@@ -61,7 +68,7 @@ if [ "$(git ls-files people-kg/country_files | wc -l | tr -d ' ')" -gt 0 ]; then
   [ "$bad" -eq 0 ] && note OK "no non-ASCII or apostrophe filenames" \
                    || note FAIL "$bad filename(s) with non-ASCII or apostrophe"
 else
-  note MISSING "people-kg/country_files absent — rename check skipped"
+  missing "people-kg/country_files absent — rename check skipped"
 fi
 
 echo "== history preserved =="
@@ -73,4 +80,5 @@ authors=$(git log --format='%an' 2>/dev/null | sort -u | wc -l | tr -d ' ')
                      || note FAIL "$authors author — upstream history was lost"
 
 echo
+[ "$FINAL" -eq 1 ] && echo "(--final: missing folders count as failures)"
 [ "$fail" -eq 0 ] && { echo "PASS"; exit 0; } || { echo "FAIL"; exit 1; }
