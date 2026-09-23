@@ -383,6 +383,7 @@ base*. Wikimedia Foundation. CC0. https://www.wikidata.org
 
 We thank the following contributors:
 
+- Bree Bang-Jensen
 - Qing Chang
 - Laura Chelidonopoulos
 - João Correa
