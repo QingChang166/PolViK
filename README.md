@@ -1,73 +1,70 @@
-# PolViK
+# PolViK — Political Violence Knowledge Graph
 
-Actor–place–time knowledge graphs for conflict forecasting, in one repository.
+PolViK encodes **who was where, when, and in what relation to whom**, so that
+streams of events on the ground can be used for computational tasks including
+**true future forecasting of political violence**.
 
-PolViK models political violence as relationships between **actors**, **places**
-and **time** — who was where, when, and in what relation to whom. Both graphs are
-plain YAML: concept files declare entities and their attributes, edge files declare
-`(parent, child)` relations between concept identifiers.
+The project builds and maintains knowledge graphs of spatial-temporal units and
+of political-violence-relevant actors across time and space. The graphs are
+interconnected data objects recording observations of places, times, actors and
+their relations. They do two things at once: organize entities into more and less
+general categories, and map observations of actors into spatial-temporal
+locations.
 
-This repository consolidates three previously separate repositories, preserving
-all 1,241 commits and 12 contributors. See `docs/CONSOLIDATION.md`.
+This repository is the home of those graphs. It consolidates three previously
+separate repositories, preserving all 1,241 commits by 12 contributors.
 
-## Layout
+---
 
-| Path | Contents | Identifiers look like |
+## At a glance
+
+- **228 countries** of administrative and grid geography; **55** with actor data
+- **3,758 actor observations** ("spells") in Mali and the Central African Republic
+- **1,278 spatial files** (453 concept, 637 edge, 184 grid) and **124 actor files** (55 concept, 55 relation), plain YAML throughout
+- Nodes cross-referenced to **Wikidata** for further semantic context
+- ~300 MB checkout; bulk geodata lives outside git
+
+---
+
+## The two knowledge graphs
+
+PolViK keeps the spatial-temporal graph and the actor graph as **analytically
+distinct objects for organizational purposes**, but they are cross-referenced and
+interdependent.
+
+| | `spatial-kg/` | `people-kg/` |
 |---|---|---|
-| `spatial-kg/` | Administrative hierarchy (GADM admin 0/1/2), PRIO-GRID to admin mappings, human settlements | `MLI.9.5_1_Adm2` |
-| `people-kg/` | Ethnic, linguistic, religious, ideological and armed-group ontology | `fulaEthnicGroup` |
-| `people-kg/localagreement/` | Local peace agreements, actor spells, analysis notebooks | `al-Murabitun_01` |
-| `country_registry.yaml` | **The join key between the two graphs**, on ISO 3166-1 alpha-3 | `CAF`, `MLI` |
-| `scripts/` | Consolidation check, registry generator, geodata fetch | |
-| `docs/` | Provenance, known issues, country naming, evicted files | |
+| Encodes | places and their nesting | actors and their attributes |
+| Node example | `MLI.9.5_1_Adm2` (Tombouctou) | `akanEthnicGroup` |
+| Identity comes from | `GID` / `iso3c` inside the file | the filename and concept ID |
+| Built from | GADM, PRIO-GRID, SUNGEO, GUPPD | Ethnologue, Joshua Project, UCDP, ACLED, Wikidata |
 
-### `spatial-kg/` — 1,278 files
+### Nesting and aggregation
 
-| Path | Contents |
-|---|---|
-| `CountryFiles/` | Per-country admin 0/1/2 concepts and edges, from GADM 2024 |
-| `PgcFiles/` | PRIO-GRID cells mapped to their lowest-level admin unit |
-| `SettlementCountryFiles/` | Human settlements (GUPPD) linked to admin units |
-| `GlobalConcepts.yaml`, `GlobalEdges.yaml` | Continents and countries |
-| `DataPrepare/` | The R pipeline that regenerates all of the above |
+A grid cell in a given month nests within an admin-2 unit in that month, which
+nests within admin-1, which nests within a country. There are **multiple
+aggregation paths**: the same grid-cell month can roll up to grid-cell quarter,
+year, decade, or grid-cell over all time.
 
-A concept carries `GID` (the original GADM identifier), `admin_name`, `iso3c`,
-`country_name` and `admin_level`. An edge file relates a unit to its parent.
-
-### `people-kg/` — 158 files
-
-| Path | Contents |
-|---|---|
-| `BaseConcepts.yml`, `BaseRelations.yml` | The ontology backbone — the class hierarchy every country file instantiates |
-| `country_files/` | Per-country instances: ethnic, linguistic, religious, political and armed groups, for 55 countries |
-| `wikidata_scripts/` | Wikidata enrichment helpers |
-| `summer2024_updates` | A data-completeness audit of this graph (2024-07-05) |
-| `localagreement/` | Local peace agreements in CAR and Mali, actor **spells**, and the notebooks that visualize them |
-
-A concept carries `stringTokens` (surface forms for matching text), usually a
-`wikidataQnode`, and type-specific attributes such as `religionsMostPracticed` or
-`livesIn`.
-
-**Spells** are the actor–place–time edges: 1,976 for Mali and 1,782 for CAR, each
-with `spell_start`, `spell_end`, a location and a group.
-
-## Joining the two graphs
-
-The graphs name seven countries differently, and `people-kg` country files carry
-no country field at all — their filename is the only identifier. Join through the
-registry, never through filenames:
-
-```python
-import yaml
-reg = yaml.safe_load(open("country_registry.yaml"))["countries"]
-
-e = reg["CIV"]                                            # Côte d'Ivoire
-spatial = f"spatial-kg/CountryFiles/{e['spatial_kg']}Concepts.yaml"   # CotedIvoire…
-people  = f"people-kg/country_files/{e['people_kg']}Concepts.yml"     # IvoryCoast…
+```
+PRIO-GRID cell (165228Pgc)
+  └─ Adm2   MLI.9.5_1_Adm2     Tombouctou
+       └─ Adm1   MLI.9_1_Adm1
+            └─ Adm0   MLI.0_Adm0    Mali
 ```
 
-228 countries, 55 with a `people-kg` file. The registry is generated, not
-hand-edited — see `docs/COUNTRY_NAMES.md`.
+This is why the same actor observation may appear at several resolutions — an
+observation is recorded at **the most specific spatial-temporal unit the source
+text supports**, and can then be aggregated upward.
+
+### How the graphs connect
+
+When a report says an armed group was active in Kidal in February 2012, that
+resolves to nodes in *both* graphs, and is recorded as the actor node being
+observed in the most specific spatial-temporal unit available. Those records are
+the **spell** files — the cross-reference that makes the two graphs one system.
+
+---
 
 ## Quick start
 
@@ -76,20 +73,191 @@ git clone <this repo> && cd polvik
 scripts/check_consolidation.sh --final     # verify the repository is intact
 ```
 
-Reading the graphs needs only a YAML parser. The R pipeline under
-`spatial-kg/DataPrepare/` regenerates the spatial layer from GADM and SUNGEO
-sources and is not required to read anything.
+Reading the graphs needs only a YAML parser:
 
-```bash
-python3 scripts/build_country_registry.py --check   # is the registry current?
+```python
+import yaml
+
+reg = yaml.safe_load(open("country_registry.yaml"))["countries"]
+e = reg["GHA"]
+
+places = yaml.safe_load(
+    open(f"spatial-kg/CountryFiles/{e['spatial_kg']}Concepts.yaml"))["concepts"]
+actors = yaml.safe_load(
+    open(f"people-kg/country_files/{e['people_kg']}Concepts.yml"))["concepts"]
+
+print(places["GHA1.1_2_Adm2"])    # {'GID': 'GHA1.1_2', 'admin_name': 'Asunafo North', ...}
+print(actors["akanEthnicGroup"])  # {'stringTokens': ['Akan poeple', 'Akan'], ...}
 ```
 
-## Geodata is not in this repository
+The R pipeline in `spatial-kg/DataPrepare/` regenerates the spatial layer from
+GADM and SUNGEO sources. It is not needed to read anything.
 
-18,054 files / 1.85 GB of raw SUNGEO historical boundaries, derived PRIO-GRID
-geopackages, a trained model and rendered figures live in **Dropbox**, not git, so
-the working tree is ~300 MB rather than ~2.2 GB. The processed YAML — the actual
-knowledge graph — is tracked here in full and needs nothing from that download.
+---
+
+## Repository structure
+
+| Path | Files | Contents |
+|---|---:|---|
+| `spatial-kg/CountryFiles/` | 456 | Admin 0/1/2 concepts and edges per country, from GADM |
+| `spatial-kg/PgcFiles/` | 368 | PRIO-GRID cells mapped to their lowest admin unit |
+| `spatial-kg/SettlementCountryFiles/` | 448 | Human settlements linked to admin units |
+| `spatial-kg/Global*.yaml` | 2 | Continents and countries |
+| `spatial-kg/DataPrepare/` | 3 | R pipeline that builds the above |
+| `people-kg/BaseConcepts.yml`, `BaseRelations.yml` | 2 | Ontology backbone every country file instantiates |
+| `people-kg/country_files/` | 124 | 55 concept + 55 relation files, plus spells and helpers |
+| `people-kg/wikidata_scripts/` | 4 | Wikidata enrichment helpers |
+| `people-kg/localagreement/` | 22 | Local peace agreements, spells, analysis notebooks |
+| `country_registry.yaml` | 1 | **The join key between the graphs** |
+| `scripts/`, `docs/` | | Tooling and provenance |
+
+---
+
+## The PolViK ontology
+
+Five fundamental classes, plus two secondary ones. The authoritative definition is
+the annotation ontology document; this is a summary.
+
+| Class | Meaning |
+|---|---|
+| **Actor** | Must be political-violence-relevant: armed non-governmental (Wagner Group, MNLA), governmental (Iranian military, US Navy), unarmed non-governmental (Red Cross, MSF), unorganized civilian groupings (Mali civilians), or an individual leader |
+| **Location** | Absolute ("Kidal") or relative ("east of the capital") |
+| **Time** | Absolute ("February 2012") or relative ("last month"), post-processed to absolute |
+| **Event** | PLOVER categories, plus a PolViK-specific `LocatedIn` |
+| **Relation** | Whether one actor views another as ally (*positive*), rival (*negative*), or *neutral* |
+| *Tools and Techniques* (TaTVP) | Weapons or means used |
+| *Source* | Where the information came from |
+
+Actors carry a **role**: `Perpetuator` (caused the action), `Target` (received it),
+or `Neutral`.
+
+### Event types
+
+Events use the [PLOVER](http://ploverdata.org/) quad categories:
+
+| Type | PLOVER categories |
+|---|---|
+| Verbal cooperation | AGREE, CONSULT, SUPPORT, CONCEDE |
+| Material cooperation | COOPERATE, AID, RETREAT, INVESTIGATE |
+| Verbal conflict | DEMAND, DISAPPROVE, REJECT, THREATEN, SANCTION |
+| Material conflict | PROTEST, CRIME, MOBILIZE, COERCE, ASSAULT |
+| Located In | PolViK extension, for an actor given a spatial-temporal relation with no explicit event |
+
+---
+
+## Data model
+
+Three file types, all YAML.
+
+### Concept files — the nodes
+
+`spatial-kg/CountryFiles/MaliConcepts.yaml`
+
+```yaml
+concepts:
+  MLI.9.5_1_Adm2:
+    GID: MLI.9.5_1          # original GADM identifier
+    admin_name: Tombouctou
+    iso3c: MLI
+    country_name: Mali
+    admin_level: Adm2       # Adm0 country, Adm1 region, Adm2 district
+```
+
+`people-kg/country_files/GhanaConcepts.yml`
+
+```yaml
+concepts:
+  akanEthnicGroup:
+    stringTokens: ['Akan poeple', 'Akan']   # surface forms for matching text
+    wikidataQnode: ['Q415693']              # cross-reference to Wikidata
+    languagesMostSpoken: ['Akan']
+    religionsMostPracticed: ['Christianity']
+    livesIn: ['Ashanti Region']
+```
+
+`stringTokens` is what links free text to a node: an annotator or model matching
+"Akan" in a news report resolves it to this concept. (The typo in `'Akan poeple'`
+is in the source data and is reproduced here verbatim.)
+
+Grid-cell concepts in `PgcFiles/` carry the admin unit they fall within:
+
+```yaml
+concepts:
+  165228Pgc:
+    GID: MLI.9.5_1
+    conceptID: MLI.9.5_1_Adm2    # the admin node this cell nests inside
+    admin_name: Tombouctou
+    country: MLI
+```
+
+### Edge files — the relations
+
+Edges are `(parent, child)` pairs. Spatial edges express nesting; actor edges
+express class membership.
+
+```yaml
+# spatial-kg/CountryFiles/MaliEdges.yaml
+relations:
+    - (MLI.0_Adm0, MLI.1_1_Adm1)
+    - (MLI.1_1_Adm1, MLI.1.1_1_Adm2)
+
+# people-kg/country_files/CARRelations.yml
+relations:
+  - (EthnicGroup, sangoEthnicGroup)
+  - (LinguisticGroup, bandalindaLinguisticGroup)
+```
+
+### Spell files — actors observed in space and time
+
+The cross-reference between the graphs. 1,976 for Mali, 1,782 for CAR.
+
+```yaml
+al-Murabitun_01:
+  spell_start:         [07-10-2013]
+  spell_end:           [07-10-2013]
+  locationConceptPath: [...MaliConcepts.yaml#/concepts/MLI.2.3_1_Adm2]
+  GroupConceptPath:    [...MaliConcepts.yml#/concepts/murabitunArmedNonGovernmentalOrganizedGroup]
+  SourceOfInfo:        [UCDP]
+  DateOfInfo:          ['Jan 18, 2026, 18:32pm']
+  coder:               [Zhejun]
+```
+
+Spells in `people-kg/country_files/` carry a resolution suffix — `adm0`, `adm1`,
+`adm2` or `grid` — recording the same observation at different aggregation levels.
+
+---
+
+## Joining the two graphs
+
+The graphs name seven countries differently, and **actor files carry no country
+field** — their filename is the only country identifier. Join on ISO 3166-1
+alpha-3 through the registry, never on filenames:
+
+```python
+reg = yaml.safe_load(open("country_registry.yaml"))["countries"]
+e = reg["CIV"]                                             # Côte d'Ivoire
+f"spatial-kg/CountryFiles/{e['spatial_kg']}Concepts.yaml"  # CotedIvoire…
+f"people-kg/country_files/{e['people_kg']}Concepts.yml"    # IvoryCoast…
+```
+
+228 entries, 55 with an actor file. Generated, never hand-edited:
+
+```bash
+python3 scripts/build_country_registry.py          # regenerate
+python3 scripts/build_country_registry.py --check  # verify it is current
+```
+
+**The second join axis is Wikidata.** Most actor concepts carry a `wikidataQnode`,
+which links them to external semantic context and — where two concepts share a
+Q-number — to each other. See `docs/COUNTRY_NAMES.md`.
+
+---
+
+## Large files
+
+18,054 files / 1.85 GB of raw and derived geodata live in Dropbox rather than git,
+so the working tree stays near 300 MB. The processed YAML — the graph itself — is
+tracked here in full and needs nothing from that download.
 
 ```bash
 scripts/fetch_raw_data.sh            # download (469 MB), extract, verify
@@ -100,24 +268,128 @@ Every file is checksum-verified against `scripts/raw_data_manifest.txt`. Nothing
 lost either way: all of it also remains in this repository's git history. See
 `docs/EVICTED_FILES.md`.
 
-## Status
+---
 
-This is a **consolidation** of three repositories, not an integration of them. The
-graphs sit side by side and can now be joined by country, but their concept
-namespaces remain independent and nothing links an actor to a place automatically.
-Several defects were carried across deliberately rather than fixed in transit.
+## Reproducing and contributing
 
-**Read `docs/KNOWN_ISSUES.md` before building on these files.** It opens with a
-prioritized fix list. Two items to be aware of immediately:
-
-- The spell data exists twice at different spatial resolutions, under filenames
-  differing only by case. Code that globs both will **double-count every event**.
-- `people-kg/MaliConcepts.yml` does not parse — a missing comma. Mali is the pilot
-  country.
-
-| Document | Covers |
+| Task | How |
 |---|---|
-| `docs/KNOWN_ISSUES.md` | Every known defect, with a prioritized fix list |
-| `docs/CONSOLIDATION.md` | Provenance, decisions, and why the source repos must not be deleted |
-| `docs/COUNTRY_NAMES.md` | How the two graphs name countries, and the registry |
-| `docs/EVICTED_FILES.md` | What was moved to Dropbox, and how to get it back |
+| Verify the repository | `scripts/check_consolidation.sh --final` |
+| Regenerate the registry | `python3 scripts/build_country_registry.py` |
+| Rebuild the spatial layer | `spatial-kg/DataPrepare/GeoBoundaryProcess.Rmd` (GADM) and `Function_Admin_GridCell.Rmd` (PRIO-GRID) |
+| Add a country | Add `<Name>Concepts.yml` and `<Name>Relations.yml` to `people-kg/country_files/`, then regenerate the registry |
+
+Run `scripts/check_consolidation.sh` before committing; it verifies file counts,
+that evicted paths stay evicted, that no blob exceeds GitHub's 100 MB limit, and
+that the registry is current and every path it names exists.
+
+Provenance and the decisions behind this layout: `docs/CONSOLIDATION.md`.
+
+---
+
+## Data sources
+
+| Source | Feeds | Licence |
+|---|---|---|
+| [GADM](https://gadm.org) | Administrative boundaries, `GID`, `iso3c` | Academic / non-commercial; **redistribution requires permission** |
+| [PRIO-GRID](https://grid.prio.org) | 0.5° grid cells | Open |
+| [SUNGEO](https://www.sungeo.org) | Historical boundaries 1990–2014 | Open |
+| [GUPPD / SEDAC](https://sedac.ciesin.columbia.edu/data/set/urbanspatial-guppd-v1) | Human settlements | Open (EOSDIS) |
+| [UCDP](https://ucdp.uu.se) | Actor spells, events | CC BY 4.0 |
+| [ACLED](https://acleddata.com) | Armed-group data | Attribution policy + EULA |
+| [Ethnologue](https://www.ethnologue.com) | Ethnic and linguistic groups | **Licensed; redistribution requires SIL permission** |
+| [Joshua Project](https://joshuaproject.net) | Ethnic groups, religions | Non-commercial; attribution required |
+| [Wikidata](https://www.wikidata.org) | Q-number cross-references | CC0 |
+| [PLOVER](http://ploverdata.org/) | Event ontology | Open |
+
+Also: CIA World Factbook, World Directory of Minorities and Indigenous Peoples,
+Wikipedia, and the Armed Group Dataset.
+
+---
+
+## Licence
+
+**Code** in `scripts/` and `spatial-kg/DataPrepare/` — MIT.
+
+**Data** is not released under a single open licence, because it derives from
+sources whose terms differ and some of which restrict redistribution. Use it under
+the terms of the upstream sources listed above, and cite them. In particular:
+
+- **GADM** permits academic and other non-commercial use, and requires
+  acknowledgment on any derivative product; redistribution needs prior permission.
+- **Ethnologue** is a licensed product of SIL International and may not be
+  redistributed without written permission.
+- **Joshua Project** grants a revocable, non-commercial licence requiring the
+  attribution "Data provided by Joshua Project".
+- **ACLED** requires attribution including the access date and the filters applied.
+
+This repository is private for that reason. Making it public would require a
+judgment on whether the extracted identifiers and names here constitute
+redistribution of the upstream databases — a question for your institution.
+
+---
+
+## Citation
+
+If you use PolViK, please cite this repository **and** the upstream sources you
+rely on.
+
+**GADM** — Global Administrative Areas (2024). *GADM database of Global
+Administrative Areas*. University of California, Berkeley. https://gadm.org
+
+**PRIO-GRID** — Tollefsen, Andreas Forø, Håvard Strand & Halvard Buhaug (2012).
+PRIO-GRID: A unified spatial data structure. *Journal of Peace Research* 49(2):
+363–374. https://doi.org/10.1177/0022343311431287
+
+**SUNGEO** — Kollman, Ken & Yuri M. Zhukov (2023). *Subnational Geospatial Data
+Archive (SUNGEO)*. Ann Arbor, MI: Center for Political Studies, University of
+Michigan. https://www.sungeo.org — method: Zhukov, Yuri M., Jason Byers, Marty
+Davidson & Ken Kollman (2024). Integrating Data Across Misaligned Spatial Units.
+*Political Analysis* 32(1): 17–33.
+
+**GUPPD** — Center for International Earth Science Information Network (CIESIN),
+Columbia University & Joint Research Centre (JRC), European Commission (2024).
+*Global Urban Polygons and Points Dataset (GUPPD), Version 1* (v1.00) [Data set].
+Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC).
+https://doi.org/10.7927/BRQ1-XC29
+
+**UCDP** — Davies, Shawn, Therése Pettersson & Magnus Öberg (2026). Organized
+violence 1989–2025, and violent political protests. *Journal of Peace Research*.
+https://doi.org/10.1093/jopres/xjag046 — and Sundberg, Ralph & Erik Melander
+(2013). Introducing the UCDP Georeferenced Event Dataset. *Journal of Peace
+Research* 50(4): 523–532. https://doi.org/10.1177/0022343313484347
+
+**ACLED** — Raleigh, Clionadh, Roudabeh Kishi & Andrew Linke (2023). Political
+instability patterns are obscured by conflict dataset scope conditions, sources,
+and coding choices. *Humanities and Social Sciences Communications* 10: 74.
+https://doi.org/10.1057/s41599-023-01559-4
+
+**PLOVER** — Halterman, Andy, Philip A. Schrodt, Andreas Beger, Benjamin E.
+Bagozzi & Grace I. Scarborough (2023). PLOVER and POLECAT: A New Political Event
+Ontology and Dataset. *International Studies Association 2023*.
+https://osf.io/preprints/socarxiv/rm5dw
+
+**Ethnologue** — Eberhard, David M., Gary F. Simons & Charles D. Fennig (eds.)
+(2025). *Ethnologue: Languages of the World*. Twenty-eighth edition. Dallas, TX:
+SIL International. https://www.ethnologue.com
+
+**Joshua Project** — Joshua Project. *Global Peoples Dataset*.
+https://joshuaproject.net — data provided by Joshua Project.
+
+**Wikidata** — Wikidata contributors. *Wikidata: a free collaborative knowledge
+base*. Wikimedia Foundation. CC0. https://www.wikidata.org
+
+---
+
+## Acknowledgments
+
+Consolidated from three repositories built by twelve contributors:
+
+| Repository | Became | Principal contributors |
+|---|---|---|
+| `QingChang166/PolBoundaryKG` | `spatial-kg/` | laurachelidonopoulos, Qing Chang |
+| `breebangjensen/triad_datacollecting` | `people-kg/` | breebangjensen, jvidi, mervekeskin20, andrewpruden, Zhejun Qiu, Colaresi |
+| `mervekeskin20/localagreement_visualizations` | `people-kg/localagreement/` | mervekeskin20 |
+
+Full history is preserved: `git shortlog -sn` lists every contributor, and
+`git blame` attributes original authorship through the consolidation.
