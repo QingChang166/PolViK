@@ -35,6 +35,29 @@ evicted=$(git ls-files \
 [ "$evicted" -eq 0 ] && note OK "no evicted paths tracked" \
                      || note FAIL "$evicted evicted path(s) still tracked"
 
+echo "== purged licence-restricted data must not return =="
+# These were removed from ALL history on 2026-09-23 (docs/CONSOLIDATION.md, D8).
+# .gitignore cannot stop a merge or `git subtree pull` from reintroducing them,
+# so check the index AND the whole object database.
+tracked_bad=$(git ls-files -z \
+  | python3 -c "
+import sys, re
+pat = re.compile(r'Spatial_Temporal_Object_1990_2014|gadm41_|_GAUL[0-9]{4}_ADM[0-9]|[.](shp|shx|dbf|prj|cpg)\$')
+names = [n for n in sys.stdin.buffer.read().decode().split(chr(0)) if n]
+hits = [n for n in names if pat.search(n)]
+print(len(hits))
+print('\n'.join(hits[:5]))
+" )
+n_tracked=$(echo "$tracked_bad" | head -1)
+[ "${n_tracked:-0}" -eq 0 ] && note OK "no restricted paths tracked" \
+  || { note FAIL "$n_tracked restricted path(s) tracked: $(echo "$tracked_bad" | sed -n 2p)"; }
+
+hist_bad=$(git rev-list --objects --all 2>/dev/null \
+  | awk '{ $1=""; sub(/^ /,""); if ($0!="") print }' \
+  | grep -cE 'Spatial_Temporal_Object_1990_2014|gadm41_|_GAUL[0-9]{4}_ADM[0-9]' || true)
+[ "${hist_bad:-0}" -eq 0 ] && note OK "no restricted paths anywhere in history" \
+  || note FAIL "$hist_bad restricted object(s) present in history — history is contaminated again"
+
 echo "== no oversized blobs (GitHub rejects >100MB) =="
 big=$(git ls-files -z | xargs -0 -I{} sh -c 'f="{}"; [ -f "$f" ] && [ "$(wc -c <"$f")" -gt 104857600 ] && echo "$f"' 2>/dev/null)
 [ -z "$big" ] && note OK "largest tracked file is under 100 MB" \

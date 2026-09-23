@@ -18,8 +18,46 @@ README.html
 *.knit.md
 *.utf8.md
 
-# --- evicted geodata (see scripts/fetch_raw_data.sh) ---
+# =====================================================================
+# PURGED — LICENCE-RESTRICTED. MUST NEVER RE-ENTER THIS REPOSITORY.
+# =====================================================================
+# These were removed from ALL history with git filter-repo on 2026-09-23
+# (see docs/CONSOLIDATION.md, D8). They are other parties' data,
+# redistributed verbatim under licences that forbid it:
+#
+#   FAO GAUL (2015 and earlier) — redistribution to non-authorized users
+#     is prohibited without FAO's prior written consent.
+#   GADM — redistribution requires prior permission.
+#
+# Retrieve them from Dropbox via scripts/fetch_raw_data.sh. Never commit them.
+#
+# NOTE: .gitignore only stops *untracked* files being added. It does NOT
+# stop a merge or `git subtree pull` from reintroducing them, because
+# merges ignore these rules. scripts/check_consolidation.sh fails if any
+# of these paths reappear — run it before every push.
+
+# SUNGEO / FAO GAUL historical boundaries (18,039 files, 1.65 GB)
+Spatial_Temporal_Object_1990_2014/
 spatial-kg/Spatial_Temporal_Object_1990_2014/
+*_GAUL[0-9][0-9][0-9][0-9]_ADM[0-9].geojson
+
+# Original GADM distribution files
+gadm41_*
+*/gadm41_*
+
+# Any original ESRI shapefile — the format GADM and GAUL ship in
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.sbn
+*.sbx
+
+# =====================================================================
+# Evicted to Dropbox, but still present in git history (recoverable).
+# See docs/EVICTED_FILES.md.
+# =====================================================================
 spatial-kg/Pgc Datasets/
 spatial-kg/actor_spells_spatial.gpkg
 people-kg/Aspect_CountVectorizer_model.pkl.zip
