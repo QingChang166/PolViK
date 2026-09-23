@@ -40,34 +40,26 @@ big=$(git ls-files -z | xargs -0 -I{} sh -c 'f="{}"; [ -f "$f" ] && [ "$(wc -c <
 [ -z "$big" ] && note OK "largest tracked file is under 100 MB" \
               || note FAIL "oversized: $big"
 
-echo "== country names reconciled (Task 6) =="
+echo "== country naming (Task 6) =="
 if [ "$(git ls-files people-kg/country_files | wc -l | tr -d ' ')" -gt 0 ]; then
-  for old in 'people-kg/country_files/CARConcepts.yml' \
-             'people-kg/country_files/DRCConcepts.yml' \
-             'people-kg/country_files/RepublicofCongoConcepts.yml' \
-             'people-kg/country_files/GuineaBissauConcepts.yml' \
-             'people-kg/country_files/IvoryCoastConcepts.yml'; do
-    git ls-files --error-unmatch "$old" >/dev/null 2>&1 \
-      && note FAIL "old name still present: $old"
+  # people-kg keeps its ORIGINAL filenames so existing downstream code still
+  # works; the two graphs are joined through country_registry.yaml instead.
+  for keep in 'people-kg/country_files/CARConcepts.yml' \
+              'people-kg/country_files/DRCConcepts.yml' \
+              'people-kg/country_files/RepublicofCongoConcepts.yml' \
+              'people-kg/country_files/GuineaBissauConcepts.yml' \
+              'people-kg/country_files/IvoryCoastConcepts.yml'; do
+    git ls-files --error-unmatch "$keep" >/dev/null 2>&1 \
+      || note FAIL "people-kg original name missing: $keep"
   done
-  git ls-files --error-unmatch 'people-kg/country_files/SãoToméandPrincipeConcepts.yml' >/dev/null 2>&1 \
-    && note FAIL "old name still present: people-kg/country_files/SãoToméandPrincipeConcepts.yml"
-  for new in 'people-kg/country_files/CentralAfricanRepublicConcepts.yml' \
-             'people-kg/country_files/DemocraticRepublicoftheCongoConcepts.yml' \
-             'people-kg/country_files/RepublicoftheCongoConcepts.yml' \
-             'people-kg/country_files/Guinea-BissauConcepts.yml' \
-             'people-kg/country_files/CotedIvoireConcepts.yml' \
-             'people-kg/country_files/SãoToméandPríncipeConcepts.yml' \
-             'people-kg/country_files/EswatiniConcepts.yml'; do
-    git ls-files --error-unmatch "$new" >/dev/null 2>&1 \
-      || note FAIL "expected renamed file missing: $new"
-  done
+  # spatial-kg IS renamed: its filenames are cosmetic (every concept carries iso3c).
   for new in 'spatial-kg/CountryFiles/CotedIvoireConcepts.yaml' \
-             'spatial-kg/CountryFiles/EswatiniConcepts.yaml'; do
+             'spatial-kg/CountryFiles/EswatiniConcepts.yaml' \
+             'spatial-kg/SettlementCountryFiles/CotedIvoireConcepts.yaml' \
+             'spatial-kg/SettlementCountryFiles/EswatiniConcepts.yaml'; do
     git ls-files --error-unmatch "$new" >/dev/null 2>&1 \
       || note FAIL "expected renamed file missing: $new"
   done
-  # BSD grep has no -P, so do this in python for portability.
   bad=$(git ls-files -z | python3 -c "
 import sys
 names=[n for n in sys.stdin.buffer.read().decode().split(chr(0)) if n]
@@ -76,7 +68,31 @@ print(sum(1 for n in names if chr(39) in n.split('/')[-1]))
   [ "${bad:-0}" -eq 0 ] && note OK "no apostrophes in filenames" \
                        || note FAIL "$bad filename(s) contain an apostrophe"
 else
-  missing "people-kg/country_files absent — rename check skipped"
+  missing "people-kg/country_files absent — naming check skipped"
+fi
+
+echo "== country registry =="
+if [ -f country_registry.yaml ]; then
+  python3 scripts/build_country_registry.py --check >/dev/null 2>&1 \
+    && note OK "country_registry.yaml is up to date" \
+    || note FAIL "country_registry.yaml is stale — run scripts/build_country_registry.py"
+  res=$(python3 - <<'PYEOF'
+import yaml, pathlib
+reg = yaml.safe_load(open("country_registry.yaml"))["countries"]
+missing = []
+for iso, e in reg.items():
+    for base, d, ext in ((e.get("spatial_kg"), "spatial-kg/CountryFiles", ".yaml"),
+                         (e.get("people_kg"),  "people-kg/country_files", ".yml")):
+        if base and not pathlib.Path(f"{d}/{base}Concepts{ext}").exists():
+            missing.append(f"{iso}:{d}/{base}Concepts{ext}")
+print(f"{len(reg)} {len(missing)} " + (missing[0] if missing else ""))
+PYEOF
+)
+  set -- $res
+  [ "${2:-1}" -eq 0 ] && note OK "$1 entries, every referenced file exists" \
+                     || note FAIL "$2 registry entr(y/ies) point at missing files, e.g. ${3:-?}"
+else
+  missing "country_registry.yaml absent"
 fi
 
 echo "== history preserved =="

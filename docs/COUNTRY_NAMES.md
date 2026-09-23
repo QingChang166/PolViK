@@ -1,61 +1,87 @@
-# Country-name reconciliation
+# Country naming across the two graphs
 
-The two knowledge graphs named seven countries differently, so joining them by
-country required special-casing each one. Reconciled on 2026-09-23 by renaming
-twenty files with `git mv`. **No file contents were changed** — the staged diff
-showed 20 rename entries and an empty modified-file stat.
+The two knowledge graphs name seven countries differently. They are joined through
+**`country_registry.yaml`**, keyed on ISO 3166-1 alpha-3 — not through filenames.
 
-Result: `people-kg` country stems with no `spatial-kg` counterpart went **7 -> 0**.
+| ISO3 | Country | `spatial-kg` stem | `people-kg` stem |
+|---|---|---|---|
+| CAF | Central African Republic | `CentralAfricanRepublic` | `CAR` |
+| COD | Democratic Republic of the Congo | `DemocraticRepublicoftheCongo` | `DRC` |
+| COG | Republic of the Congo | `RepublicoftheCongo` | `RepublicofCongo` |
+| GNB | Guinea-Bissau | `Guinea-Bissau` | `GuineaBissau` |
+| CIV | Côte d'Ivoire | `CotedIvoire` | `IvoryCoast` |
+| SWZ | Eswatini (GADM still says Swaziland) | `Eswatini` | `Eswatini` |
+| STP | São Tomé and Príncipe | `SãoToméandPríncipe` | `SãoToméandPrincipe` |
 
-| # | Was (people-kg) | Was (spatial-kg) | Now | Renamed |
-|---|---|---|---|---|
-| 1 | `CAR` | `CentralAfricanRepublic` | `CentralAfricanRepublic` | 2 people |
-| 2 | `DRC` | `DemocraticRepublicoftheCongo` | `DemocraticRepublicoftheCongo` | 2 people |
-| 3 | `RepublicofCongo` | `RepublicoftheCongo` | `RepublicoftheCongo` | 2 people |
-| 4 | `GuineaBissau` | `Guinea-Bissau` | `Guinea-Bissau` | 2 people |
-| 5 | `IvoryCoast` | `Côted'Ivoire` | **`CotedIvoire`** | 2 people + 4 spatial |
-| 6 | `Eswatini` | `Swaziland` | **`Eswatini`** | 4 spatial |
-| 7 | `SãoToméandPrincipe` | `SãoToméandPríncipe` | `SãoToméandPríncipe` | 2 people |
+## Why people-kg filenames were left alone
 
-## Which name won, and why
+An earlier pass renamed the `people-kg` files to match `spatial-kg`. **That was
+reverted**, for three reasons found by inspecting the files:
 
-The default was GADM's spelling: `spatial-kg` derives from GADM and 224 of its
-country files already follow it consistently, against seven exceptions in
-`people-kg`. Rows 5 and 6 invert that default.
+1. **The filename is the only country identifier people-kg has.** Every
+   `spatial-kg` concept carries `iso3c` and `country_name` inside the file, so its
+   filename is cosmetic. No `people-kg` country file contains any country field at
+   all. Renaming there changes the only identifier those files have.
+2. **The concept IDs inside carry the old names** — `IvoryCoastArmedForces`,
+   `GuineaBissauSecurityForces`, `tekeEthnicGroup-RepublicofCongo`. Renaming the
+   file made the filename disagree with its own contents. Fixing the IDs would be a
+   content edit and would break every reference to those concepts.
+3. **Existing downstream code depends on the old names.** The people KG was built
+   by another team, and 7,626 spell references address concepts as
+   `country_files/CARConcepts.yml#/concepts/...`. Renaming would strand that code.
 
-**Row 5, `CotedIvoire`.** GADM's `Côted'Ivoire` contains a non-ASCII `ô` *and* an
-apostrophe. The apostrophe breaks unquoted shell globs; the accent is stored
-differently by macOS (NFD) and Linux (NFC), so the identical path can fail to match
-across machines. Adopting that spelling into `people-kg` would have spread the
-defect, so the ASCII form was applied to both graphs instead. This was the only
-apostrophe in the repository; there are now none.
+So filenames were the wrong layer to enforce consistency at. There are four
+spellings of Côte d'Ivoire in this repository and renaming touches only one:
 
-**Row 6, `Eswatini`.** The country was renamed from Swaziland in 2018. GADM 2024
-still uses the old name and `people-kg` was already correct, so adopting GADM here
-would have replaced a current name with an outdated one.
+| Spelling | Where it appears |
+|---|---|
+| `CotedIvoire` | `spatial-kg` filename (normalized, see below) |
+| `IvoryCoast` | `people-kg` filename |
+| `Côte d'Ivoire` | `country_name` attribute inside `spatial-kg` files |
+| `Côte d’Ivoire` (curly `U+2019`) | `people-kg/country_files/Countries.yml` |
 
-**Row 7 was nearly missed.** `SãoToméandPrincipe` and `SãoToméandPríncipe` differ
-by a single character — `i` versus `í` in "Principe". The original mismatch analysis
-used a pattern that excluded non-ASCII characters, so this pair was never compared
-and the count stood at six until a later audit. A filename mismatch this subtle
-would not be caught in review; it would simply fail to join, silently.
+`country_registry.yaml` records all of them against one ISO3 code.
 
-## Unicode normalization
+## What *was* renamed: 8 files in spatial-kg
 
-All six `SãoToméandPríncipe` filenames are recorded in git as **NFC** — `ã`, `é`
-and `í` each a single code point (`U+00E3`, `U+00E9`, `U+00ED`) — identically in
-both graphs, verified after renaming. They therefore match byte-for-byte.
+Safe precisely because `spatial-kg` filenames are cosmetic.
 
-Twenty-eight other filenames still carry non-ASCII characters and were left
-untouched; see `docs/KNOWN_ISSUES.md` §1 for the list and the fix procedure.
+| Was | Now | Why |
+|---|---|---|
+| `Côted'IvoireConcepts.yaml` and `Edges`, in `CountryFiles/` and `SettlementCountryFiles/` | `CotedIvoire…` | Contained a non-ASCII `ô` **and** an apostrophe. Apostrophes break unquoted shell globs; accents are stored as NFD on macOS and NFC on Linux, so the identical path can fail to match across machines. This was the repository's only apostrophe — there are now none. |
+| `Swaziland…` (same four positions) | `Eswatini…` | The country was renamed in 2018. GADM 2024 still uses the old label; `people-kg` was already correct. |
 
-## Consequences
+The `iso3c` and `country_name` attributes inside those files are untouched and
+still carry GADM's values (`SWZ`, `Swaziland`), so the registry maps them correctly.
 
-- `spatial-kg` no longer matches GADM's filename convention for Côte d'Ivoire and
-  Eswatini. The `iso3c` and `country_name` attributes **inside** those files are
-  untouched and still carry GADM's values, so any join on attributes rather than
-  filenames is unaffected.
-- A future `git subtree pull` from either upstream will re-add the old filenames as
-  new files, since upstream never saw these renames. Re-apply this table afterwards.
-- Spell-file `locationConceptPath` URLs are unaffected: they address paths in the
-  archived source repositories, not in this one.
+## Using the registry
+
+```python
+import yaml
+reg = yaml.safe_load(open("country_registry.yaml"))["countries"]
+e = reg["CAF"]
+spatial = f"spatial-kg/CountryFiles/{e['spatial_kg']}Concepts.yaml"
+people  = f"people-kg/country_files/{e['people_kg']}Concepts.yml"
+```
+
+228 countries, 55 of which have a `people-kg` file. The file is **generated, never
+hand-edited**:
+
+```bash
+python3 scripts/build_country_registry.py          # regenerate
+python3 scripts/build_country_registry.py --check  # verify it is current
+```
+
+`scripts/check_consolidation.sh` runs `--check` and also verifies that every path
+the registry names actually exists.
+
+## One near-miss worth recording
+
+`SãoToméandPrincipe` and `SãoToméandPríncipe` differ by a single character — `i`
+versus `í`. The original mismatch analysis used a pattern that excluded non-ASCII
+characters, so the pair was never compared and the count stood at six. A filename
+mismatch this subtle would not be caught in review; it would simply fail to join,
+silently. It is entry `STP` in the registry.
+
+Twenty-eight other filenames still carry non-ASCII characters; see
+`docs/KNOWN_ISSUES.md` §1.

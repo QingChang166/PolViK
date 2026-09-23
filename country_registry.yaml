@@ -1,0 +1,1161 @@
+# Country registry — the join key between the two knowledge graphs.
+#
+# Keyed on ISO 3166-1 alpha-3. This file exists because the two graphs, and the
+# Countries.yml list, name countries differently, and because people-kg country
+# files carry NO country identifier inside them — their filename is the only one.
+# Join on `iso3` here rather than on filenames, which differ by design and are
+# not guaranteed stable.
+#
+# Fields
+#   name          GADM country_name, read from the spatial-kg concept file
+#   spatial_kg    stem in spatial-kg/CountryFiles/ and SettlementCountryFiles/
+#                 (append Concepts.yaml / Edges.yaml)
+#   people_kg     stem in people-kg/country_files/, or null where the people KG
+#                 has no file for this country (append Concepts.yml / Relations.yml)
+#   display_name  the spelling used in people-kg/country_files/Countries.yml,
+#                 or null if that list has no matching entry
+#
+# Generated 2026-09-23 from the repository itself, not hand-written.
+# Regenerate with scripts/build_country_registry.py after adding a country file.
+
+countries:
+  AFG:
+    name:         "Afghanistan"
+    spatial_kg:   "Afghanistan"
+    people_kg:    null
+    display_name: "Afghanistan"
+  AGO:
+    name:         "Angola"
+    spatial_kg:   "Angola"
+    people_kg:    "Angola"
+    display_name: "Angola"
+  AIA:
+    name:         "Anguilla"
+    spatial_kg:   "Anguilla"
+    people_kg:    null
+    display_name: null
+  ALA:
+    name:         "Åland"
+    spatial_kg:   "Åland"
+    people_kg:    null
+    display_name: null
+  ALB:
+    name:         "Albania"
+    spatial_kg:   "Albania"
+    people_kg:    null
+    display_name: "Albania"
+  AND:
+    name:         "Andorra"
+    spatial_kg:   "Andorra"
+    people_kg:    null
+    display_name: "Andorra"
+  ARE:
+    name:         "United Arab Emirates"
+    spatial_kg:   "UnitedArabEmirates"
+    people_kg:    null
+    display_name: "United Arab Emirates"
+  ARG:
+    name:         "Argentina"
+    spatial_kg:   "Argentina"
+    people_kg:    null
+    display_name: "Argentina"
+  ARM:
+    name:         "Armenia"
+    spatial_kg:   "Armenia"
+    people_kg:    null
+    display_name: "Armenia"
+  ASM:
+    name:         "American Samoa"
+    spatial_kg:   "AmericanSamoa"
+    people_kg:    null
+    display_name: null
+  ATF:
+    name:         "French Southern Territories"
+    spatial_kg:   "FrenchSouthernTerritories"
+    people_kg:    null
+    display_name: null
+  ATG:
+    name:         "Antigua and Barbuda"
+    spatial_kg:   "AntiguaandBarbuda"
+    people_kg:    null
+    display_name: "Antigua and Barbuda"
+  AUS:
+    name:         "Australia"
+    spatial_kg:   "Australia"
+    people_kg:    null
+    display_name: "Australia"
+  AUT:
+    name:         "Austria"
+    spatial_kg:   "Austria"
+    people_kg:    null
+    display_name: "Austria"
+  AZE:
+    name:         "Azerbaijan"
+    spatial_kg:   "Azerbaijan"
+    people_kg:    null
+    display_name: "Azerbaijan"
+  BDI:
+    name:         "Burundi"
+    spatial_kg:   "Burundi"
+    people_kg:    "Burundi"
+    display_name: "Burundi"
+  BEL:
+    name:         "Belgium"
+    spatial_kg:   "Belgium"
+    people_kg:    null
+    display_name: "Belgium"
+  BEN:
+    name:         "Benin"
+    spatial_kg:   "Benin"
+    people_kg:    "Benin"
+    display_name: "Benin"
+  BES:
+    name:         "Bonaire, Sint Eustatius and Saba"
+    spatial_kg:   "BonaireSintEustatiusandSaba"
+    people_kg:    null
+    display_name: null
+  BFA:
+    name:         "Burkina Faso"
+    spatial_kg:   "BurkinaFaso"
+    people_kg:    "BurkinaFaso"
+    display_name: "Burkina Faso"
+  BGD:
+    name:         "Bangladesh"
+    spatial_kg:   "Bangladesh"
+    people_kg:    null
+    display_name: "Bangladesh"
+  BGR:
+    name:         "Bulgaria"
+    spatial_kg:   "Bulgaria"
+    people_kg:    null
+    display_name: "Bulgaria"
+  BHR:
+    name:         "Bahrain"
+    spatial_kg:   "Bahrain"
+    people_kg:    null
+    display_name: "Bahrain"
+  BHS:
+    name:         "Bahamas"
+    spatial_kg:   "Bahamas"
+    people_kg:    null
+    display_name: null
+  BIH:
+    name:         "Bosnia and Herzegovina"
+    spatial_kg:   "BosniaandHerzegovina"
+    people_kg:    null
+    display_name: "Bosnia and Herzegovina"
+  BLM:
+    name:         "Saint-Barthélemy"
+    spatial_kg:   "Saint-Barthélemy"
+    people_kg:    null
+    display_name: null
+  BLR:
+    name:         "Belarus"
+    spatial_kg:   "Belarus"
+    people_kg:    null
+    display_name: "Belarus"
+  BLZ:
+    name:         "Belize"
+    spatial_kg:   "Belize"
+    people_kg:    null
+    display_name: "Belize"
+  BMU:
+    name:         "Bermuda"
+    spatial_kg:   "Bermuda"
+    people_kg:    null
+    display_name: null
+  BOL:
+    name:         "Bolivia"
+    spatial_kg:   "Bolivia"
+    people_kg:    null
+    display_name: "Bolivia"
+  BRA:
+    name:         "Brazil"
+    spatial_kg:   "Brazil"
+    people_kg:    null
+    display_name: "Brazil"
+  BRB:
+    name:         "Barbados"
+    spatial_kg:   "Barbados"
+    people_kg:    null
+    display_name: "Barbados"
+  BRN:
+    name:         "Brunei"
+    spatial_kg:   "Brunei"
+    people_kg:    null
+    display_name: "Brunei"
+  BTN:
+    name:         "Bhutan"
+    spatial_kg:   "Bhutan"
+    people_kg:    null
+    display_name: "Bhutan"
+  BWA:
+    name:         "Botswana"
+    spatial_kg:   "Botswana"
+    people_kg:    "Botswana"
+    display_name: "Botswana"
+  CAF:
+    name:         "Central African Republic"
+    spatial_kg:   "CentralAfricanRepublic"
+    people_kg:    "CAR"
+    display_name: "Central African Republic"
+  CAN:
+    name:         "Canada"
+    spatial_kg:   "Canada"
+    people_kg:    null
+    display_name: "Canada"
+  CHE:
+    name:         "Switzerland"
+    spatial_kg:   "Switzerland"
+    people_kg:    null
+    display_name: "Switzerland"
+  CHL:
+    name:         "Chile"
+    spatial_kg:   "Chile"
+    people_kg:    null
+    display_name: "Chile"
+  CHN:
+    name:         "China"
+    spatial_kg:   "China"
+    people_kg:    null
+    display_name: "China"
+  CIV:
+    name:         "Côte d'Ivoire"
+    spatial_kg:   "CotedIvoire"
+    people_kg:    "IvoryCoast"
+    display_name: "Côte d’Ivoire"
+  CMR:
+    name:         "Cameroon"
+    spatial_kg:   "Cameroon"
+    people_kg:    "Cameroon"
+    display_name: "Cameroon"
+  COD:
+    name:         "Democratic Republic of the Congo"
+    spatial_kg:   "DemocraticRepublicoftheCongo"
+    people_kg:    "DRC"
+    display_name: "Democratic Republic of the Congo"
+  COG:
+    name:         "Republic of the Congo"
+    spatial_kg:   "RepublicoftheCongo"
+    people_kg:    "RepublicofCongo"
+    display_name: "Republic of the Congo"
+  COK:
+    name:         "Cook Islands"
+    spatial_kg:   "CookIslands"
+    people_kg:    null
+    display_name: null
+  COL:
+    name:         "Colombia"
+    spatial_kg:   "Colombia"
+    people_kg:    null
+    display_name: "Colombia"
+  COM:
+    name:         "Comoros"
+    spatial_kg:   "Comoros"
+    people_kg:    "Comoros"
+    display_name: "Comoros"
+  CPV:
+    name:         "Cabo Verde"
+    spatial_kg:   "CaboVerde"
+    people_kg:    "CaboVerde"
+    display_name: "Cabo Verde"
+  CRI:
+    name:         "Costa Rica"
+    spatial_kg:   "CostaRica"
+    people_kg:    null
+    display_name: "Costa Rica"
+  CUB:
+    name:         "Cuba"
+    spatial_kg:   "Cuba"
+    people_kg:    null
+    display_name: "Cuba"
+  CYM:
+    name:         "Cayman Islands"
+    spatial_kg:   "CaymanIslands"
+    people_kg:    null
+    display_name: null
+  CYP:
+    name:         "Cyprus"
+    spatial_kg:   "Cyprus"
+    people_kg:    null
+    display_name: "Cyprus"
+  CZE:
+    name:         "Czechia"
+    spatial_kg:   "Czechia"
+    people_kg:    null
+    display_name: null
+  DEU:
+    name:         "Germany"
+    spatial_kg:   "Germany"
+    people_kg:    null
+    display_name: "Germany"
+  DJI:
+    name:         "Djibouti"
+    spatial_kg:   "Djibouti"
+    people_kg:    "Djibouti"
+    display_name: "Djibouti"
+  DMA:
+    name:         "Dominica"
+    spatial_kg:   "Dominica"
+    people_kg:    null
+    display_name: "Dominica"
+  DNK:
+    name:         "Denmark"
+    spatial_kg:   "Denmark"
+    people_kg:    null
+    display_name: "Denmark"
+  DOM:
+    name:         "Dominican Republic"
+    spatial_kg:   "DominicanRepublic"
+    people_kg:    null
+    display_name: "Dominican Republic"
+  DZA:
+    name:         "Algeria"
+    spatial_kg:   "Algeria"
+    people_kg:    "Algeria"
+    display_name: "Algeria"
+  ECU:
+    name:         "Ecuador"
+    spatial_kg:   "Ecuador"
+    people_kg:    null
+    display_name: "Ecuador"
+  EGY:
+    name:         "Egypt"
+    spatial_kg:   "Egypt"
+    people_kg:    "Egypt"
+    display_name: "Egypt"
+  ERI:
+    name:         "Eritrea"
+    spatial_kg:   "Eritrea"
+    people_kg:    "Eritrea"
+    display_name: "Eritrea"
+  ESH:
+    name:         "Western Sahara"
+    spatial_kg:   "WesternSahara"
+    people_kg:    null
+    display_name: null
+  ESP:
+    name:         "Spain"
+    spatial_kg:   "Spain"
+    people_kg:    null
+    display_name: "Spain"
+  EST:
+    name:         "Estonia"
+    spatial_kg:   "Estonia"
+    people_kg:    null
+    display_name: "Estonia"
+  ETH:
+    name:         "Ethiopia"
+    spatial_kg:   "Ethiopia"
+    people_kg:    "Ethiopia"
+    display_name: "Ethiopia"
+  FIN:
+    name:         "Finland"
+    spatial_kg:   "Finland"
+    people_kg:    null
+    display_name: "Finland"
+  FJI:
+    name:         "Fiji"
+    spatial_kg:   "Fiji"
+    people_kg:    null
+    display_name: "Fiji"
+  FRA:
+    name:         "France"
+    spatial_kg:   "France"
+    people_kg:    null
+    display_name: "France"
+  FRO:
+    name:         "Faroe Islands"
+    spatial_kg:   "FaroeIslands"
+    people_kg:    null
+    display_name: null
+  FSM:
+    name:         "Micronesia"
+    spatial_kg:   "Micronesia"
+    people_kg:    null
+    display_name: null
+  GAB:
+    name:         "Gabon"
+    spatial_kg:   "Gabon"
+    people_kg:    "Gabon"
+    display_name: "Gabon"
+  GBR:
+    name:         "United Kingdom"
+    spatial_kg:   "UnitedKingdom"
+    people_kg:    null
+    display_name: "United Kingdom"
+  GEO:
+    name:         "Georgia"
+    spatial_kg:   "Georgia"
+    people_kg:    null
+    display_name: "Georgia"
+  GGY:
+    name:         "Guernsey"
+    spatial_kg:   "Guernsey"
+    people_kg:    null
+    display_name: null
+  GHA:
+    name:         "Ghana"
+    spatial_kg:   "Ghana"
+    people_kg:    "Ghana"
+    display_name: "Ghana"
+  GIN:
+    name:         "Guinea"
+    spatial_kg:   "Guinea"
+    people_kg:    "Guinea"
+    display_name: "Guinea"
+  GLP:
+    name:         "Guadeloupe"
+    spatial_kg:   "Guadeloupe"
+    people_kg:    null
+    display_name: null
+  GMB:
+    name:         "Gambia"
+    spatial_kg:   "Gambia"
+    people_kg:    "Gambia"
+    display_name: null
+  GNB:
+    name:         "Guinea-Bissau"
+    spatial_kg:   "Guinea-Bissau"
+    people_kg:    "GuineaBissau"
+    display_name: "Guinea-Bissau"
+  GNQ:
+    name:         "Equatorial Guinea"
+    spatial_kg:   "EquatorialGuinea"
+    people_kg:    "EquatorialGuinea"
+    display_name: "Equatorial Guinea"
+  GRC:
+    name:         "Greece"
+    spatial_kg:   "Greece"
+    people_kg:    null
+    display_name: "Greece"
+  GRD:
+    name:         "Grenada"
+    spatial_kg:   "Grenada"
+    people_kg:    null
+    display_name: "Grenada"
+  GRL:
+    name:         "Greenland"
+    spatial_kg:   "Greenland"
+    people_kg:    null
+    display_name: null
+  GTM:
+    name:         "Guatemala"
+    spatial_kg:   "Guatemala"
+    people_kg:    null
+    display_name: "Guatemala"
+  GUF:
+    name:         "French Guiana"
+    spatial_kg:   "FrenchGuiana"
+    people_kg:    null
+    display_name: null
+  GUM:
+    name:         "Guam"
+    spatial_kg:   "Guam"
+    people_kg:    null
+    display_name: null
+  GUY:
+    name:         "Guyana"
+    spatial_kg:   "Guyana"
+    people_kg:    null
+    display_name: "Guyana"
+  HND:
+    name:         "Honduras"
+    spatial_kg:   "Honduras"
+    people_kg:    null
+    display_name: "Honduras"
+  HRV:
+    name:         "Croatia"
+    spatial_kg:   "Croatia"
+    people_kg:    null
+    display_name: "Croatia"
+  HTI:
+    name:         "Haiti"
+    spatial_kg:   "Haiti"
+    people_kg:    null
+    display_name: "Haiti"
+  HUN:
+    name:         "Hungary"
+    spatial_kg:   "Hungary"
+    people_kg:    null
+    display_name: "Hungary"
+  IDN:
+    name:         "Indonesia"
+    spatial_kg:   "Indonesia"
+    people_kg:    null
+    display_name: "Indonesia"
+  IMN:
+    name:         "Isle of Man"
+    spatial_kg:   "IsleofMan"
+    people_kg:    null
+    display_name: null
+  IND:
+    name:         "India"
+    spatial_kg:   "India"
+    people_kg:    null
+    display_name: "India"
+  IRL:
+    name:         "Ireland"
+    spatial_kg:   "Ireland"
+    people_kg:    null
+    display_name: "Ireland"
+  IRN:
+    name:         "Iran"
+    spatial_kg:   "Iran"
+    people_kg:    null
+    display_name: "Iran"
+  IRQ:
+    name:         "Iraq"
+    spatial_kg:   "Iraq"
+    people_kg:    null
+    display_name: "Iraq"
+  ISL:
+    name:         "Iceland"
+    spatial_kg:   "Iceland"
+    people_kg:    null
+    display_name: "Iceland"
+  ISR:
+    name:         "Israel"
+    spatial_kg:   "Israel"
+    people_kg:    null
+    display_name: "Israel"
+  ITA:
+    name:         "Italy"
+    spatial_kg:   "Italy"
+    people_kg:    null
+    display_name: "Italy"
+  JAM:
+    name:         "Jamaica"
+    spatial_kg:   "Jamaica"
+    people_kg:    null
+    display_name: "Jamaica"
+  JEY:
+    name:         "Jersey"
+    spatial_kg:   "Jersey"
+    people_kg:    null
+    display_name: null
+  JOR:
+    name:         "Jordan"
+    spatial_kg:   "Jordan"
+    people_kg:    null
+    display_name: "Jordan"
+  JPN:
+    name:         "Japan"
+    spatial_kg:   "Japan"
+    people_kg:    null
+    display_name: "Japan"
+  KAZ:
+    name:         "Kazakhstan"
+    spatial_kg:   "Kazakhstan"
+    people_kg:    null
+    display_name: "Kazakhstan"
+  KEN:
+    name:         "Kenya"
+    spatial_kg:   "Kenya"
+    people_kg:    "Kenya"
+    display_name: "Kenya"
+  KGZ:
+    name:         "Kyrgyzstan"
+    spatial_kg:   "Kyrgyzstan"
+    people_kg:    null
+    display_name: "Kyrgyzstan"
+  KHM:
+    name:         "Cambodia"
+    spatial_kg:   "Cambodia"
+    people_kg:    null
+    display_name: "Cambodia"
+  KNA:
+    name:         "Saint Kitts and Nevis"
+    spatial_kg:   "SaintKittsandNevis"
+    people_kg:    null
+    display_name: "Saint Kitts and Nevis"
+  KOR:
+    name:         "South Korea"
+    spatial_kg:   "SouthKorea"
+    people_kg:    null
+    display_name: "South Korea"
+  KWT:
+    name:         "Kuwait"
+    spatial_kg:   "Kuwait"
+    people_kg:    null
+    display_name: "Kuwait"
+  LAO:
+    name:         "Laos"
+    spatial_kg:   "Laos"
+    people_kg:    null
+    display_name: "Laos"
+  LBN:
+    name:         "Lebanon"
+    spatial_kg:   "Lebanon"
+    people_kg:    null
+    display_name: "Lebanon"
+  LBR:
+    name:         "Liberia"
+    spatial_kg:   "Liberia"
+    people_kg:    "Liberia"
+    display_name: "Liberia"
+  LBY:
+    name:         "Libya"
+    spatial_kg:   "Libya"
+    people_kg:    "Libya"
+    display_name: "Libya"
+  LCA:
+    name:         "Saint Lucia"
+    spatial_kg:   "SaintLucia"
+    people_kg:    null
+    display_name: "Saint Lucia"
+  LIE:
+    name:         "Liechtenstein"
+    spatial_kg:   "Liechtenstein"
+    people_kg:    null
+    display_name: "Liechtenstein"
+  LKA:
+    name:         "Sri Lanka"
+    spatial_kg:   "SriLanka"
+    people_kg:    null
+    display_name: "Sri Lanka"
+  LSO:
+    name:         "Lesotho"
+    spatial_kg:   "Lesotho"
+    people_kg:    "Lesotho"
+    display_name: "Lesotho"
+  LTU:
+    name:         "Lithuania"
+    spatial_kg:   "Lithuania"
+    people_kg:    null
+    display_name: "Lithuania"
+  LUX:
+    name:         "Luxembourg"
+    spatial_kg:   "Luxembourg"
+    people_kg:    null
+    display_name: "Luxembourg"
+  LVA:
+    name:         "Latvia"
+    spatial_kg:   "Latvia"
+    people_kg:    null
+    display_name: "Latvia"
+  MAR:
+    name:         "Morocco"
+    spatial_kg:   "Morocco"
+    people_kg:    "Morocco"
+    display_name: "Morocco"
+  MDA:
+    name:         "Moldova"
+    spatial_kg:   "Moldova"
+    people_kg:    null
+    display_name: "Moldova"
+  MDG:
+    name:         "Madagascar"
+    spatial_kg:   "Madagascar"
+    people_kg:    "Madagascar"
+    display_name: "Madagascar"
+  MEX:
+    name:         "México"
+    spatial_kg:   "México"
+    people_kg:    null
+    display_name: "Mexico"
+  MHL:
+    name:         "Marshall Islands"
+    spatial_kg:   "MarshallIslands"
+    people_kg:    null
+    display_name: "Marshall Islands"
+  MKD:
+    name:         "North Macedonia"
+    spatial_kg:   "NorthMacedonia"
+    people_kg:    null
+    display_name: "North Macedonia"
+  MLI:
+    name:         "Mali"
+    spatial_kg:   "Mali"
+    people_kg:    "Mali"
+    display_name: "Mali"
+  MLT:
+    name:         "Malta"
+    spatial_kg:   "Malta"
+    people_kg:    null
+    display_name: "Malta"
+  MMR:
+    name:         "Myanmar"
+    spatial_kg:   "Myanmar"
+    people_kg:    null
+    display_name: "Myanmar"
+  MNE:
+    name:         "Montenegro"
+    spatial_kg:   "Montenegro"
+    people_kg:    null
+    display_name: "Montenegro"
+  MNG:
+    name:         "Mongolia"
+    spatial_kg:   "Mongolia"
+    people_kg:    null
+    display_name: "Mongolia"
+  MNP:
+    name:         "Northern Mariana Islands"
+    spatial_kg:   "NorthernMarianaIslands"
+    people_kg:    null
+    display_name: null
+  MOZ:
+    name:         "Mozambique"
+    spatial_kg:   "Mozambique"
+    people_kg:    "Mozambique"
+    display_name: "Mozambique"
+  MRT:
+    name:         "Mauritania"
+    spatial_kg:   "Mauritania"
+    people_kg:    "Mauritania"
+    display_name: "Mauritania"
+  MSR:
+    name:         "Montserrat"
+    spatial_kg:   "Montserrat"
+    people_kg:    null
+    display_name: null
+  MTQ:
+    name:         "Martinique"
+    spatial_kg:   "Martinique"
+    people_kg:    null
+    display_name: null
+  MUS:
+    name:         "Mauritius"
+    spatial_kg:   "Mauritius"
+    people_kg:    "Mauritius"
+    display_name: "Mauritius"
+  MWI:
+    name:         "Malawi"
+    spatial_kg:   "Malawi"
+    people_kg:    "Malawi"
+    display_name: "Malawi"
+  MYS:
+    name:         "Malaysia"
+    spatial_kg:   "Malaysia"
+    people_kg:    null
+    display_name: "Malaysia"
+  MYT:
+    name:         "Mayotte"
+    spatial_kg:   "Mayotte"
+    people_kg:    null
+    display_name: null
+  NAM:
+    name:         "Namibia"
+    spatial_kg:   "Namibia"
+    people_kg:    "Namibia"
+    display_name: "Namibia"
+  NCL:
+    name:         "New Caledonia"
+    spatial_kg:   "NewCaledonia"
+    people_kg:    null
+    display_name: null
+  NER:
+    name:         "Niger"
+    spatial_kg:   "Niger"
+    people_kg:    "Niger"
+    display_name: "Niger"
+  NGA:
+    name:         "Nigeria"
+    spatial_kg:   "Nigeria"
+    people_kg:    "Nigeria"
+    display_name: "Nigeria"
+  NIC:
+    name:         "Nicaragua"
+    spatial_kg:   "Nicaragua"
+    people_kg:    null
+    display_name: "Nicaragua"
+  NLD:
+    name:         "Netherlands"
+    spatial_kg:   "Netherlands"
+    people_kg:    null
+    display_name: "Netherlands"
+  NOR:
+    name:         "Norway"
+    spatial_kg:   "Norway"
+    people_kg:    null
+    display_name: "Norway"
+  NPL:
+    name:         "Nepal"
+    spatial_kg:   "Nepal"
+    people_kg:    null
+    display_name: "Nepal"
+  NRU:
+    name:         "Nauru"
+    spatial_kg:   "Nauru"
+    people_kg:    null
+    display_name: "Nauru"
+  NZL:
+    name:         "New Zealand"
+    spatial_kg:   "NewZealand"
+    people_kg:    null
+    display_name: "New Zealand"
+  OMN:
+    name:         "Oman"
+    spatial_kg:   "Oman"
+    people_kg:    null
+    display_name: "Oman"
+  PAK:
+    name:         "Pakistan"
+    spatial_kg:   "Pakistan"
+    people_kg:    null
+    display_name: "Pakistan"
+  PAN:
+    name:         "Panama"
+    spatial_kg:   "Panama"
+    people_kg:    null
+    display_name: "Panama"
+  PER:
+    name:         "Peru"
+    spatial_kg:   "Peru"
+    people_kg:    null
+    display_name: "Peru"
+  PHL:
+    name:         "Philippines"
+    spatial_kg:   "Philippines"
+    people_kg:    null
+    display_name: null
+  PLW:
+    name:         "Palau"
+    spatial_kg:   "Palau"
+    people_kg:    null
+    display_name: "Palau"
+  PNG:
+    name:         "Papua New Guinea"
+    spatial_kg:   "PapuaNewGuinea"
+    people_kg:    null
+    display_name: "Papua New Guinea"
+  POL:
+    name:         "Poland"
+    spatial_kg:   "Poland"
+    people_kg:    null
+    display_name: "Poland"
+  PRI:
+    name:         "Puerto Rico"
+    spatial_kg:   "PuertoRico"
+    people_kg:    null
+    display_name: null
+  PRK:
+    name:         "North Korea"
+    spatial_kg:   "NorthKorea"
+    people_kg:    null
+    display_name: "North Korea"
+  PRT:
+    name:         "Portugal"
+    spatial_kg:   "Portugal"
+    people_kg:    null
+    display_name: "Portugal"
+  PRY:
+    name:         "Paraguay"
+    spatial_kg:   "Paraguay"
+    people_kg:    null
+    display_name: "Paraguay"
+  PSE:
+    name:         "Palestine"
+    spatial_kg:   "Palestine"
+    people_kg:    null
+    display_name: null
+  PYF:
+    name:         "French Polynesia"
+    spatial_kg:   "FrenchPolynesia"
+    people_kg:    null
+    display_name: null
+  QAT:
+    name:         "Qatar"
+    spatial_kg:   "Qatar"
+    people_kg:    null
+    display_name: "Qatar"
+  REU:
+    name:         "Réunion"
+    spatial_kg:   "Réunion"
+    people_kg:    "Réunion"
+    display_name: null
+  ROU:
+    name:         "Romania"
+    spatial_kg:   "Romania"
+    people_kg:    null
+    display_name: "Romania"
+  RUS:
+    name:         "Russia"
+    spatial_kg:   "Russia"
+    people_kg:    null
+    display_name: "Russia"
+  RWA:
+    name:         "Rwanda"
+    spatial_kg:   "Rwanda"
+    people_kg:    "Rwanda"
+    display_name: "Rwanda"
+  SAU:
+    name:         "Saudi Arabia"
+    spatial_kg:   "SaudiArabia"
+    people_kg:    null
+    display_name: "Saudi Arabia"
+  SDN:
+    name:         "Sudan"
+    spatial_kg:   "Sudan"
+    people_kg:    "Sudan"
+    display_name: "Sudan"
+  SEN:
+    name:         "Senegal"
+    spatial_kg:   "Senegal"
+    people_kg:    "Senegal"
+    display_name: "Senegal"
+  SGP:
+    name:         "Singapore"
+    spatial_kg:   "Singapore"
+    people_kg:    null
+    display_name: "Singapore"
+  SHN:
+    name:         "Saint Helena, Ascension and Tris"
+    spatial_kg:   "SaintHelenaAscensionandTris"
+    people_kg:    null
+    display_name: null
+  SJM:
+    name:         "Svalbard and Jan Mayen"
+    spatial_kg:   "SvalbardandJanMayen"
+    people_kg:    null
+    display_name: null
+  SLB:
+    name:         "Solomon Islands"
+    spatial_kg:   "SolomonIslands"
+    people_kg:    null
+    display_name: "Solomon Islands"
+  SLE:
+    name:         "Sierra Leone"
+    spatial_kg:   "SierraLeone"
+    people_kg:    "SierraLeone"
+    display_name: "Sierra Leone"
+  SLV:
+    name:         "El Salvador"
+    spatial_kg:   "ElSalvador"
+    people_kg:    null
+    display_name: "El Salvador"
+  SMR:
+    name:         "San Marino"
+    spatial_kg:   "SanMarino"
+    people_kg:    null
+    display_name: "San Marino"
+  SOM:
+    name:         "Somalia"
+    spatial_kg:   "Somalia"
+    people_kg:    "Somalia"
+    display_name: "Somalia"
+  SPM:
+    name:         "Saint Pierre and Miquelon"
+    spatial_kg:   "SaintPierreandMiquelon"
+    people_kg:    null
+    display_name: null
+  SRB:
+    name:         "Serbia"
+    spatial_kg:   "Serbia"
+    people_kg:    null
+    display_name: "Serbia"
+  SSD:
+    name:         "South Sudan"
+    spatial_kg:   "SouthSudan"
+    people_kg:    "SouthSudan"
+    display_name: "South Sudan"
+  STP:
+    name:         "São Tomé and Príncipe"
+    spatial_kg:   "SãoToméandPríncipe"
+    people_kg:    "SãoToméandPrincipe"
+    display_name: "Sao Tome and Principe"
+  SUR:
+    name:         "Suriname"
+    spatial_kg:   "Suriname"
+    people_kg:    null
+    display_name: "Suriname"
+  SVK:
+    name:         "Slovakia"
+    spatial_kg:   "Slovakia"
+    people_kg:    null
+    display_name: "Slovakia"
+  SVN:
+    name:         "Slovenia"
+    spatial_kg:   "Slovenia"
+    people_kg:    null
+    display_name: "Slovenia"
+  SWE:
+    name:         "Sweden"
+    spatial_kg:   "Sweden"
+    people_kg:    null
+    display_name: "Sweden"
+  SWZ:
+    name:         "Swaziland"
+    spatial_kg:   "Eswatini"
+    people_kg:    "Eswatini"
+    display_name: "Eswatini"
+  SYC:
+    name:         "Seychelles"
+    spatial_kg:   "Seychelles"
+    people_kg:    "Seychelles"
+    display_name: "Seychelles"
+  SYR:
+    name:         "Syria"
+    spatial_kg:   "Syria"
+    people_kg:    null
+    display_name: "Syria"
+  TCA:
+    name:         "Turks and Caicos Islands"
+    spatial_kg:   "TurksandCaicosIslands"
+    people_kg:    null
+    display_name: null
+  TCD:
+    name:         "Chad"
+    spatial_kg:   "Chad"
+    people_kg:    "Chad"
+    display_name: "Chad"
+  TGO:
+    name:         "Togo"
+    spatial_kg:   "Togo"
+    people_kg:    "Togo"
+    display_name: "Togo"
+  THA:
+    name:         "Thailand"
+    spatial_kg:   "Thailand"
+    people_kg:    null
+    display_name: "Thailand"
+  TJK:
+    name:         "Tajikistan"
+    spatial_kg:   "Tajikistan"
+    people_kg:    null
+    display_name: "Tajikistan"
+  TKM:
+    name:         "Turkmenistan"
+    spatial_kg:   "Turkmenistan"
+    people_kg:    null
+    display_name: "Turkmenistan"
+  TLS:
+    name:         "Timor-Leste"
+    spatial_kg:   "Timor-Leste"
+    people_kg:    null
+    display_name: null
+  TON:
+    name:         "Tonga"
+    spatial_kg:   "Tonga"
+    people_kg:    null
+    display_name: "Tonga"
+  TTO:
+    name:         "Trinidad and Tobago"
+    spatial_kg:   "TrinidadandTobago"
+    people_kg:    null
+    display_name: "Trinidad and Tobago"
+  TUN:
+    name:         "Tunisia"
+    spatial_kg:   "Tunisia"
+    people_kg:    "Tunisia"
+    display_name: "Tunisia"
+  TUR:
+    name:         "Turkey"
+    spatial_kg:   "Turkey"
+    people_kg:    null
+    display_name: "Turkey"
+  TUV:
+    name:         "Tuvalu"
+    spatial_kg:   "Tuvalu"
+    people_kg:    null
+    display_name: "Tuvalu"
+  TWN:
+    name:         "Taiwan"
+    spatial_kg:   "Taiwan"
+    people_kg:    null
+    display_name: "Taiwan"
+  TZA:
+    name:         "Tanzania"
+    spatial_kg:   "Tanzania"
+    people_kg:    "Tanzania"
+    display_name: "Tanzania"
+  UGA:
+    name:         "Uganda"
+    spatial_kg:   "Uganda"
+    people_kg:    "Uganda"
+    display_name: "Uganda"
+  UKR:
+    name:         "Ukraine"
+    spatial_kg:   "Ukraine"
+    people_kg:    null
+    display_name: "Ukraine"
+  UMI:
+    name:         "United States Minor Outlying Isl"
+    spatial_kg:   "UnitedStatesMinorOutlyingIsl"
+    people_kg:    null
+    display_name: null
+  URY:
+    name:         "Uruguay"
+    spatial_kg:   "Uruguay"
+    people_kg:    null
+    display_name: "Uruguay"
+  USA:
+    name:         "United States"
+    spatial_kg:   "UnitedStates"
+    people_kg:    null
+    display_name: "United States"
+  UZB:
+    name:         "Uzbekistan"
+    spatial_kg:   "Uzbekistan"
+    people_kg:    null
+    display_name: "Uzbekistan"
+  VCT:
+    name:         "Saint Vincent and the Grenadines"
+    spatial_kg:   "SaintVincentandtheGrenadines"
+    people_kg:    null
+    display_name: "Saint Vincent and the Grenadines"
+  VEN:
+    name:         "Venezuela"
+    spatial_kg:   "Venezuela"
+    people_kg:    null
+    display_name: "Venezuela"
+  VGB:
+    name:         "British Virgin Islands"
+    spatial_kg:   "BritishVirginIslands"
+    people_kg:    null
+    display_name: null
+  VIR:
+    name:         "Virgin Islands, U.S."
+    spatial_kg:   "VirginIslandsU.S."
+    people_kg:    null
+    display_name: null
+  VNM:
+    name:         "Vietnam"
+    spatial_kg:   "Vietnam"
+    people_kg:    null
+    display_name: "Vietnam"
+  VUT:
+    name:         "Vanuatu"
+    spatial_kg:   "Vanuatu"
+    people_kg:    null
+    display_name: "Vanuatu"
+  WLF:
+    name:         "Wallis and Futuna"
+    spatial_kg:   "WallisandFutuna"
+    people_kg:    null
+    display_name: null
+  WSM:
+    name:         "Samoa"
+    spatial_kg:   "Samoa"
+    people_kg:    null
+    display_name: "Samoa"
+  XAD:
+    name:         "Akrotiri and Dhekelia"
+    spatial_kg:   "AkrotiriandDhekelia"
+    people_kg:    null
+    display_name: null
+  XKO:
+    name:         "Kosovo"
+    spatial_kg:   "Kosovo"
+    people_kg:    null
+    display_name: "Kosovo"
+  YEM:
+    name:         "Yemen"
+    spatial_kg:   "Yemen"
+    people_kg:    null
+    display_name: "Yemen"
+  ZAF:
+    name:         "South Africa"
+    spatial_kg:   "SouthAfrica"
+    people_kg:    "SouthAfrica"
+    display_name: "South Africa"
+  ZMB:
+    name:         "Zambia"
+    spatial_kg:   "Zambia"
+    people_kg:    "Zambia"
+    display_name: "Zambia"
+  ZWE:
+    name:         "Zimbabwe"
+    spatial_kg:   "Zimbabwe"
+    people_kg:    "Zimbabwe"
+    display_name: "Zimbabwe"
