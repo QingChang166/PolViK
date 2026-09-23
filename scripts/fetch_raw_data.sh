@@ -16,7 +16,7 @@
 #   scripts/fetch_raw_data.sh --verify     re-check an existing restore, download nothing
 set -euo pipefail
 
-DROPBOX_URL="<DROPBOX_DIRECT_URL>"
+DROPBOX_URL="https://www.dropbox.com/scl/fo/5ij6n7fhptar0bnxjowsi/AFRI8RCfMNaiGpg5wicH3AY?rlkey=jjxdd8wpb1amlmoxa840fxjsj&dl=1"
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 MANIFEST="$HERE/raw_data_manifest.txt"
@@ -42,17 +42,6 @@ if [ "$VERIFY_ONLY" -eq 1 ]; then
   verify; exit $?
 fi
 
-if [ "$DROPBOX_URL" = "<DROPBOX_DIRECT_URL>" ]; then
-  cat >&2 <<'MSG'
-error: DROPBOX_URL is not set.
-
-  Edit scripts/fetch_raw_data.sh and replace <DROPBOX_DIRECT_URL> with the
-  Dropbox share link for polvik-raw-geodata.zip, changing the trailing
-  dl=0 to dl=1 so it downloads directly instead of opening a preview page.
-MSG
-  exit 1
-fi
-
 command -v curl  >/dev/null || { echo "error: curl not found"   >&2; exit 1; }
 command -v unzip >/dev/null || { echo "error: unzip not found"  >&2; exit 1; }
 
@@ -71,7 +60,18 @@ if ! unzip -tqq "$TMP/raw-geodata.zip" >/dev/null 2>&1; then
   exit 1
 fi
 
+# A Dropbox *folder* link (/scl/fo/) serves a zip that CONTAINS
+# polvik-raw-geodata.zip; a *file* link (/scl/fi/) serves that zip directly.
+# Handle either, so the script keeps working if the link is ever re-shared.
+if unzip -l "$TMP/raw-geodata.zip" | grep -q 'polvik-raw-geodata\.zip'; then
+  echo "Folder link detected; unwrapping the inner archive ..."
+  unzip -q -o "$TMP/raw-geodata.zip" 'polvik-raw-geodata.zip' -d "$TMP/outer"
+  PAYLOAD="$TMP/outer/polvik-raw-geodata.zip"
+else
+  PAYLOAD="$TMP/raw-geodata.zip"
+fi
+
 echo "Extracting into $DEST ..."
-unzip -q -o "$TMP/raw-geodata.zip" -d "$DEST"
+unzip -q -o "$PAYLOAD" -d "$DEST"
 
 verify
