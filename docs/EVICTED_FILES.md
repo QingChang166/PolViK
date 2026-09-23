@@ -13,16 +13,33 @@ from Dropbox with `scripts/fetch_raw_data.sh`.
 > Removing them from history would require rewriting every commit SHA, which was
 > rejected — see `docs/CONSOLIDATION.md`, D1.
 
+## Totals
+
+| | Files | Size |
+|---|---:|---:|
+| `spatial-kg` raw and derived geodata | 18,046 | 1,870.4 MB |
+| `people-kg` pickled model | 1 | 13.4 MB |
+| `people-kg/localagreement` rendered figures | 7 | 12.9 MB |
+| **Total** | **18,054** | **1.85 GB** |
+
 ## Where the files live now
 
-Dropbox: `PolVik/raw-geodata/`, mirroring the paths below.
-Retrieve everything with:
+Dropbox, as a single archive: **`polvik-raw-geodata.zip`** — 469 MB compressed,
+1.85 GB expanded, 18,054 files, preserving the `spatial-kg/…` and `people-kg/…`
+paths so it extracts straight over a checkout.
 
 ```bash
-scripts/fetch_raw_data.sh
+scripts/fetch_raw_data.sh            # download, extract, verify
+scripts/fetch_raw_data.sh --verify   # re-check an existing restore, no download
 ```
 
-The download is checksum-verified against `scripts/raw_data_manifest.txt`.
+Every file is checksum-verified against `scripts/raw_data_manifest.txt`
+(18,054 SHA-256 entries). The archive has been round-trip tested: zipped,
+extracted to a scratch directory and verified against the manifest, all matching.
+
+The script refuses to run until `DROPBOX_URL` is filled in, and rejects a download
+that is not a valid zip — which is what Dropbox returns when a link has expired or
+requires sign-in.
 
 ---
 

@@ -161,4 +161,98 @@ Left as-is; deleting one is a content decision.
 
 ---
 
-<!-- Further sections are appended by Tasks 6-8. -->
+## 4. `people-kg/MaliConcepts.yml` does not parse
+
+```
+yaml.parser.ParserError: while parsing a flow sequence
+  expected ',' or ']', but got '<scalar>'
+  line 26, column 122
+```
+
+A missing comma in `soninkeEthnicGroup.stringTokens`, between `"Maraka"` and
+`"Marka Soninke"`. Both are legitimate aliases for the Soninke people, so the fix
+is a comma, not a deletion.
+
+**Mali is the CSS2026 pilot country**, so this file is currently unreadable to
+every consumer. Consolidation carried it across byte-identical (verified by
+SHA-256 against upstream `main`) rather than fixing it, under the decision that no
+file contents would be edited. One-line fix, not yet applied.
+
+Note that `people-kg/country_files/MaliConcepts.yml` is a **different file** and
+parses correctly; the broken one sits at the top level of `people-kg/`.
+
+## 5. Spell join keys point at the archived source repositories
+
+The spell files address concepts by absolute URL:
+
+```yaml
+locationConceptPath: ['https://github.com/QingChang166/PolBoundaryKG/blob/main/CountryFiles/MaliConcepts.yaml#/concepts/MLI.2.3_1_Adm2']
+GroupConceptPath:    ['https://github.com/breebangjensen/triad_datacollecting/blob/main/country_files/MaliConcepts.yml#/concepts/murabitunArmedNonGovernmentalOrganizedGroup']
+```
+
+7,626 such references across the four spell files. They still resolve, **but only
+because the source repositories are archived and therefore still readable.**
+
+> **Deleting any source repository breaks every join key in the graph.** Archive
+> them; never delete them. See `docs/CONSOLIDATION.md`.
+
+The graph therefore does not resolve *within* this repository: nothing here
+follows those URLs to local files. Rewriting them to repository-relative paths, or
+to stable identifiers, is deferred work.
+
+When it is done, `country_registry.yaml` is the lookup to use for the country
+component — the two graphs name seven countries differently and `people-kg`
+filenames were deliberately left unchanged.
+
+## 6. Two rendered figures cannot be regenerated
+
+Each evicted PNG was traced to the code that draws it. Five are reproducible;
+these two are referenced by no script or notebook in the repository:
+
+| File | Size |
+|---|---:|
+| `splits_mergers_car_final.png` | 0.8 MB |
+| `plot_with_edges.png` | 0.1 MB |
+
+For these the Dropbox copy and git history are the only reproduction paths. The
+name `splits_mergers_car_final.png` suggests a hand-adjusted variant of
+`splits_mergers_car.png`, which *is* reproducible from `directed_network_pc.ipynb`.
+
+## 7. `people-kg` concept IDs are not globally unique
+
+`fulaEthnicGroup` (Mali) and `fulaniEthnicGroup` (CAR) denote the same population
+under different local keys. Concept IDs are unique within a country file but not
+across the people KG, so the same real-world group appears as several distinct
+nodes.
+
+This matters for graph machine learning: an entity that should be one node with
+edges into several countries is instead several disconnected nodes, which removes
+exactly the cross-border structure a conflict model would want to learn.
+
+Cross-country entity resolution was never solved upstream and is out of scope for
+consolidation. The `wikidataQnode` attribute, present on most group concepts, is
+the obvious basis for it — two concepts sharing a Q-number are the same entity.
+
+## 8. Cosmetic leftovers in `spatial-kg`
+
+Three near-duplicate directories — `Pgc` (empty), `Pgc Datasets` (evicted, name
+contains a space) and `PgcFiles` (retained) — plus `spatial-kg` using `.yaml`
+while `people-kg` uses `.yml`. Preserved deliberately; renaming was out of scope.
+
+## 9. Seven people-kg files use CRLF line endings
+
+`BurundiConcepts.yml`, `DRCConcepts.yml`, `KenyaConcepts.yml`,
+`RwandaConcepts.yml`, `TanzaniaConcepts.yml`, `UgandaConcepts.yml`,
+`ZambiaConcepts.yml` end lines with CR+LF; the other 117 people-kg YAML files and
+all of `spatial-kg` use LF.
+
+`.gitattributes` deliberately performs **no** line-ending conversion, so these
+files stay byte-identical to their source. A collaborator whose git sets
+`core.autocrlf=true` may see them reported as modified without having changed
+anything.
+
+To normalize: set `*.yml text eol=lf` in `.gitattributes`, run
+`git add --renormalize .`, and commit that as its own explicit change.
+
+---
+
