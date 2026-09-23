@@ -12,7 +12,7 @@ general categories, and map observations of actors into spatial-temporal
 locations.
 
 This repository is the home of those graphs. It consolidates three previously
-separate repositories, preserving all 1,241 commits by 12 contributors.
+separate repositories, preserving 1,236 commits by 12 contributors.
 
 ---
 

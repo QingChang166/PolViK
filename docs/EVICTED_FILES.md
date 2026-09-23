@@ -4,14 +4,26 @@ Files removed from this repository's working tree and stored in **Dropbox**
 instead, to keep the repository clonable. The processed YAML — the actual
 knowledge graph — is tracked in git in full and needs nothing from here.
 
-**Nothing listed here is lost.** Every file remains in this repository's git
-history and can be restored with `git checkout <commit>~1 -- <path>`, or fetched
-from Dropbox with `scripts/fetch_raw_data.sh`.
+**Nothing listed here is lost, but recovery differs by file.**
 
-> **Note on repository size.** Eviction shrinks the *checkout*, not the *clone*.
-> Because history is preserved, these blobs stay in `.git` permanently (~165 MB).
-> Removing them from history would require rewriting every commit SHA, which was
-> rejected — see `docs/CONSOLIDATION.md`, D1.
+> ### The SUNGEO / FAO GAUL files were removed from git history entirely
+>
+> On 2026-09-23 the 18,039 `Spatial_Temporal_Object_1990_2014/*.geojson` files and
+> the original `gadm41_CAF_2` shapefile set were **purged from every commit** with
+> `git filter-repo`, because they are other parties' data redistributed verbatim
+> under licences that forbid it (FAO GAUL, GADM). They cannot be recovered from
+> this repository by any means. **Dropbox is the only route** — see
+> `scripts/fetch_raw_data.sh`, or the pre-rewrite mirror kept outside the repo.
+>
+> Every other evicted file is still in history and can be restored with
+> `git checkout <commit>~1 -- <path>`.
+
+> **Note on repository size.** `git rm` removes a file from the *checkout*, not
+> from the *clone*: git keeps every version it has ever tracked, so evicted blobs
+> normally stay in `.git` and travel with every clone. That is why the restricted
+> geodata had to be purged with `git filter-repo` rather than merely evicted —
+> see `docs/CONSOLIDATION.md`, D8. The `.gpkg` files below are still in history by
+> deliberate choice and account for most of the remaining ~100 MB pack.
 
 ## Totals
 

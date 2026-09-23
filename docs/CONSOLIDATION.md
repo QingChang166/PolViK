@@ -2,13 +2,13 @@
 
 Three separately-maintained repositories were merged into this one in September
 2026. Full upstream history came across via `git subtree add`, so every original
-commit SHA is still addressable here: **1,241 commits by 12 contributors**.
+commit SHA is still addressable here: **1,236 commits by 12 contributors**.
 
 | Folder | Source repository | Grafted from | Role |
 |---|---|---|---|
-| `spatial-kg/` | `QingChang166/PolBoundaryKG` | `main` @ `825bfbf` | GADM admin hierarchy, PRIO-GRID mapping, settlements |
-| `people-kg/` | `breebangjensen/triad_datacollecting` | `main` @ `2bbdebd` | ethnic, linguistic, religious and armed-group ontology |
-| `people-kg/localagreement/` | `mervekeskin20/localagreement_visualizations` | `main` @ `e3a9a2c` | local peace agreements, actor spells, analysis notebooks |
+| `spatial-kg/` | `QingChang166/PolBoundaryKG` | `main` @ `cf9e5be` (upstream `825bfbf`) | GADM admin hierarchy, PRIO-GRID mapping, settlements |
+| `people-kg/` | `breebangjensen/triad_datacollecting` | `main` @ `e10167b` (upstream `2bbdebd`) | ethnic, linguistic, religious and armed-group ontology |
+| `people-kg/localagreement/` | `mervekeskin20/localagreement_visualizations` | `main` @ `48abbf2` (upstream `e3a9a2c`) | local peace agreements, actor spells, analysis notebooks |
 
 ## What this consolidation did, and did not, do
 
@@ -23,10 +23,28 @@ byte-identical to its source by SHA-256. See `docs/KNOWN_ISSUES.md`.
 
 ## Decisions
 
+- **D8 — restricted geodata purged from history (2026-09-23).** `git rm` leaves
+  blobs in the object database, so every clone still carried them. The 18,039
+  SUNGEO / FAO GAUL boundary files and the original `gadm41_CAF_2` shapefile set
+  were removed from all 1,243 commits with `git filter-repo --invert-paths`.
+  FAO GAUL (2015 and earlier editions) forbids redistribution to non-authorized
+  users without FAO's written consent, and GADM forbids redistribution without
+  prior permission; both were present here as original files with full geometry.
+
+  **Every commit SHA changed.** Authorship, dates, messages and file history are
+  intact; only the identifiers differ. `docs/history-rewrite-commit-map.tsv` maps
+  all 1,243 old SHAs to their new ones. Seven commits touched only the purged
+  paths and no longer exist. `git filter-repo` also rewrote SHA references inside
+  commit messages, so the subtree merge commits name the new hashes rather than
+  the upstream ones; the table above records both.
+
+  The four `Pgc Datasets/*.gpkg`, `actor_spells_spatial.gpkg` and
+  `priogrid_polygons_0.5deg_agreement.geojson` were **kept** in history by
+  decision: they are derived products, and PRIO-GRID is open access.
 - **D1 — history preserved.** Grafted with `git subtree add`, not rebuilt from zip
-  snapshots, which would have produced one commit per repository instead of 1,241.
-  `git filter-repo` was rejected: it would have saved ~145 MB by stripping evicted
-  blobs from history, at the cost of rewriting every commit SHA.
+  snapshots, which would have produced one commit per repository instead of 1,236.
+  `git filter-repo` was initially rejected for size reasons, then applied later for
+  licensing reasons — see D8.
 - **D2 — processed YAML in git, geodata out.** 18,054 files / 1.85 GB removed from
   the working tree and republished to Dropbox. See `docs/EVICTED_FILES.md` and
   `scripts/fetch_raw_data.sh`. This shrinks the *checkout*, not the *clone* — the
