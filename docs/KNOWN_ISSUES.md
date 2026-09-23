@@ -8,6 +8,29 @@ Sections are added as consolidation proceeds; the list is complete at Task 8.
 
 ---
 
+## Deferred work — fix list
+
+Every item below was found during consolidation and deliberately **not** fixed,
+either because it was out of scope or because it is a content decision for the
+project owner. Nothing here is a regression; all of it predates consolidation.
+
+Ordered by what would hurt most if left alone.
+
+| # | Issue | Impact if ignored | Effort | Decision needed first |
+|---|---|---|---|---|
+| 2 | Spell data duplicated at two spatial resolutions, filenames differing only by case | **Silent double-counting** of every event in any model that globs both files; the PRIO-GRID mapping is easy to miss entirely | Medium | Yes — which file is canonical, and whether to merge them |
+| 4 | `people-kg/MaliConcepts.yml` does not parse | Mali is the CSS2026 pilot country and this file is **unreadable to every consumer** | **One line** | No — it is a missing comma |
+| 1 | 28 filenames carry non-ASCII characters | Paths can fail to match between macOS (NFD) and Linux (NFC); the gate no longer warns about it | Low, mechanical | No — mapping already written out below |
+| 3 | Two `*_actor_agreement_spells.yaml` are exact duplicates across directories | Copies drift the moment one is edited; no marker of which is authoritative | Low | Yes — which copy to delete |
+| 5 | Spell join keys still point at the archived source repositories | Graph does not resolve within this repo; **source repos must never be deleted** | High | Yes — target identifier scheme |
+| 6 | Two PNGs nothing in the repo can regenerate | Dropbox copy is the only reproduction path | Low | No — either script them or accept |
+| 7 | Concept IDs not globally unique in `people-kg` | `fulaEthnicGroup` (Mali) and `fulaniEthnicGroup` (CAR) are one population under two keys | High | Yes — entity-resolution approach |
+
+**Cheapest first pass:** items 4, 1 and 3 need no design decisions and together take
+under an hour. Item 2 is the one that will quietly corrupt results if left.
+
+---
+
 ## 1. 28 filenames contain non-ASCII characters — deferred, fix later
 
 Twenty-eight tracked files carry accented country names. The spellings are
