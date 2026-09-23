@@ -11,24 +11,21 @@ their relations. They do two things at once: organize entities into more and les
 general categories, and map observations of actors into spatial-temporal
 locations.
 
-This repository is the home of those graphs. It consolidates three previously
-separate repositories, preserving 1,236 commits by 12 contributors.
 
 ---
 
 ## At a glance
 
-- **228 countries** of administrative and grid geography; **55** with actor data
+- **228 countries** of administrative and grid geography; **55** with people data
 - **3,758 actor observations** ("spells") in Mali and the Central African Republic
-- **1,278 spatial files** (453 concept, 637 edge, 184 grid) and **124 actor files** (55 concept, 55 relation), plain YAML throughout
+- **1,278 spatial files** (453 concept, 637 edge, 184 grid) and **124 people files** (55 concept, 55 relation), plain YAML throughout
 - Nodes cross-referenced to **Wikidata** for further semantic context
-- ~300 MB checkout; bulk geodata lives outside git
 
 ---
 
 ## The two knowledge graphs
 
-PolViK keeps the spatial-temporal graph and the actor graph as **analytically
+PolViK keeps the spatial-temporal graph and the people knowledge graph as **analytically
 distinct objects for organizational purposes**, but they are cross-referenced and
 interdependent.
 
@@ -192,7 +189,7 @@ concepts:
 
 ### Edge files — the relations
 
-Edges are `(parent, child)` pairs. Spatial edges express nesting; actor edges
+Edges are `(parent, child)` pairs. Spatial edges express nesting; people edges
 express class membership.
 
 ```yaml
@@ -229,7 +226,7 @@ Spells in `people-kg/country_files/` carry a resolution suffix — `adm0`, `adm1
 
 ## Joining the two graphs
 
-The graphs name seven countries differently, and **actor files carry no country
+The graphs name seven countries differently, and **people files carry no country
 field** — their filename is the only country identifier. Join on ISO 3166-1
 alpha-3 through the registry, never on filenames:
 
@@ -240,33 +237,47 @@ f"spatial-kg/CountryFiles/{e['spatial_kg']}Concepts.yaml"  # CotedIvoire…
 f"people-kg/country_files/{e['people_kg']}Concepts.yml"    # IvoryCoast…
 ```
 
-228 entries, 55 with an actor file. Generated, never hand-edited:
+228 entries, 55 with a people file. Generated, never hand-edited:
 
 ```bash
 python3 scripts/build_country_registry.py          # regenerate
 python3 scripts/build_country_registry.py --check  # verify it is current
 ```
 
-**The second join axis is Wikidata.** Most actor concepts carry a `wikidataQnode`,
+**The second join axis is Wikidata.** Most people concepts carry a `wikidataQnode`,
 which links them to external semantic context and — where two concepts share a
 Q-number — to each other. See `docs/COUNTRY_NAMES.md`.
 
 ---
 
-## Large files
+## What is not in this repository
 
-18,054 files / 1.85 GB of raw and derived geodata live in Dropbox rather than git,
-so the working tree stays near 300 MB. The processed YAML — the graph itself — is
-tracked here in full and needs nothing from that download.
+Some files were removed to keep the repository small, and some because their
+licences do not permit redistribution. Nothing is lost — this is where each lives.
+
+| Not here | Size | Where to get it |
+|---|---:|---|
+| `Spatial_Temporal_Object_1990_2014/` — historical administrative boundaries, 18,039 files | 1.65 GB | **Dropbox only.** Also re-downloadable from [SUNGEO](https://www.sungeo.org/) |
+| `gadm41_CAF_2.*` — original GADM shapefile | 0.35 MB | **Dropbox only.** Also re-downloadable from [GADM](https://gadm.org) |
+| `Pgc Datasets/*.gpkg` — grid-to-admin assignment outputs | 188 MB | Dropbox, or regenerate with `spatial-kg/DataPrepare/Function_Admin_GridCell.Rmd` |
+| `actor_spells_spatial.gpkg` — spells joined to geometry | 35 MB | Dropbox, or regenerate |
+| `Aspect_CountVectorizer_model.pkl.zip` — trained model | 13 MB | Dropbox. Unpickling executes arbitrary code; load only if you trust the copy |
+| `localagreement/*.png` — rendered figures, 7 files | 13 MB | Dropbox, or regenerate from `ucdp_based_network_visuals.py` and the notebooks. Two of the seven are not reproducible by any script here |
+
+The first two rows are **the only route** — they were removed from git history
+entirely, because FAO GAUL and GADM forbid redistribution. The rest remain in
+history and can also be recovered with `git checkout <commit>~1 -- <path>`.
 
 ```bash
 scripts/fetch_raw_data.sh            # download (469 MB), extract, verify
 scripts/fetch_raw_data.sh --verify   # re-check an existing restore
 ```
 
-Every file is checksum-verified against `scripts/raw_data_manifest.txt`. Nothing is
-lost either way: all of it also remains in this repository's git history. See
-`docs/EVICTED_FILES.md`.
+Every file is checksum-verified against `scripts/raw_data_manifest.txt`
+(18,054 SHA-256 entries). Full detail: `docs/EVICTED_FILES.md`.
+
+**None of it is needed to read the graphs.** The processed YAML is tracked here in
+full; the files above are raw inputs, intermediate products and rendered output.
 
 ---
 
@@ -309,23 +320,10 @@ Wikipedia, and the Armed Group Dataset.
 
 ## Licence
 
-**Code** in `scripts/` and `spatial-kg/DataPrepare/` — MIT.
+All rights reserved. See [`LICENSE`](LICENSE).
 
-**Data** is not released under a single open licence, because it derives from
-sources whose terms differ and some of which restrict redistribution. Use it under
-the terms of the upstream sources listed above, and cite them. In particular:
-
-- **GADM** permits academic and other non-commercial use, and requires
-  acknowledgment on any derivative product; redistribution needs prior permission.
-- **Ethnologue** is a licensed product of SIL International and may not be
-  redistributed without written permission.
-- **Joshua Project** grants a revocable, non-commercial licence requiring the
-  attribution "Data provided by Joshua Project".
-- **ACLED** requires attribution including the access date and the filters applied.
-
-This repository is private for that reason. Making it public would require a
-judgment on whether the extracted identifiers and names here constitute
-redistribution of the upstream databases — a question for your institution.
+Redistribution is not permitted. Several upstream sources — GADM, Ethnologue and
+Joshua Project among them — restrict it, and this repository's terms reflect that.
 
 ---
 
@@ -383,13 +381,12 @@ base*. Wikimedia Foundation. CC0. https://www.wikidata.org
 
 ## Acknowledgments
 
-Consolidated from three repositories built by twelve contributors:
+We thank the following contributors:
 
-| Repository | Became | Principal contributors |
-|---|---|---|
-| `QingChang166/PolBoundaryKG` | `spatial-kg/` | laurachelidonopoulos, Qing Chang |
-| `breebangjensen/triad_datacollecting` | `people-kg/` | breebangjensen, jvidi, mervekeskin20, andrewpruden, Zhejun Qiu, Colaresi |
-| `mervekeskin20/localagreement_visualizations` | `people-kg/localagreement/` | mervekeskin20 |
+- Qing Chang
+- Laura Chelidonopoulos
+- João Correa
+- Merve Keskin
+- Zhejun Qiu
 
-Full history is preserved: `git shortlog -sn` lists every contributor, and
-`git blame` attributes original authorship through the consolidation.
+Principal Investigator: **Michael Colaresi**

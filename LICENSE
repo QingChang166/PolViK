@@ -1,0 +1,69 @@
+PolViK — Political Violence Knowledge Graph
+Copyright (c) 2026 Michael Colaresi and the PolViK project contributors.
+All rights reserved.
+
+This repository and its contents are proprietary. No licence, express or implied,
+is granted except as stated below.
+
+
+1. PERMITTED USE
+
+Members of the PolViK project, and others who have received written permission
+from the Principal Investigator, may use, copy and modify this repository's
+contents for non-commercial academic research and teaching.
+
+
+2. REDISTRIBUTION IS NOT PERMITTED
+
+You may not distribute, publish, sublicense, sell, or otherwise make available
+this repository or any part of it — including any derivative, extract, or
+reformatted version of the data — to any person or organization, by any means,
+without prior written permission from the Principal Investigator.
+
+This restriction is not a default. It is required by the terms of several
+upstream data sources from which this repository is derived:
+
+  - GADM permits academic and other non-commercial use, and requires
+    acknowledgment on any derivative product, but prohibits redistribution
+    without prior permission.
+
+  - Ethnologue is a licensed product of SIL International and may not be
+    reproduced or redistributed without written permission from SIL.
+
+  - Joshua Project grants a revocable, non-commercial licence that requires
+    the attribution "Data provided by Joshua Project".
+
+  - ACLED requires attribution under its Terms of Use and Attribution Policy,
+    including the date of data access and the filters applied.
+
+Other sources used here are more permissive — UCDP is CC BY 4.0, Wikidata is
+CC0, GUPPD is open under EOSDIS terms, and PRIO-GRID is open access — but the
+repository as a whole is governed by its most restrictive component.
+
+
+3. ATTRIBUTION
+
+Any permitted use must cite this repository and the upstream sources relied
+upon. Citations for all sources are listed in README.md.
+
+
+4. NO WARRANTY
+
+THE CONTENTS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE CONTENTS OR THE USE OR OTHER DEALINGS IN THE
+CONTENTS.
+
+
+5. SOURCE DATA REMOVED FROM THIS REPOSITORY
+
+Files obtained directly from FAO GAUL and GADM were deliberately removed from
+this repository and from its entire git history, because redistributing them
+is prohibited by those sources. Do not reintroduce them. See
+docs/CONSOLIDATION.md (decision D8) and docs/EVICTED_FILES.md.
+
+
+For permission requests, contact the Principal Investigator.
