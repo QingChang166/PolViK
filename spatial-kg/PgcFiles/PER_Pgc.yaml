@@ -2296,6 +2296,6 @@ concepts:
     country: PER
   111806Pgc:
     GID: PER
-    conceptID: PER_Adm0
+    conceptID: PER.0_Adm0
     admin_name: Peru
     country: PER

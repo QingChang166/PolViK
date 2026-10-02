@@ -176,11 +176,11 @@ concepts:
     country: EST
   214965Pgc:
     GID: EST
-    conceptID: EST_Adm0
+    conceptID: EST.0_Adm0
     admin_name: Estonia
     country: EST
   214966Pgc:
     GID: EST
-    conceptID: EST_Adm0
+    conceptID: EST.0_Adm0
     admin_name: Estonia
     country: EST

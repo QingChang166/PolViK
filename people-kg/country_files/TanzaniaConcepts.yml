@@ -57,7 +57,7 @@ concepts:
  ZaramoEthnicGroup:
    stringTokens: ["Zaramo", "Dzalamo", "Zalamo", "Zaramu", "Saramo", "Wazaramo", "Myagatwa"]
    wikidataQnode: ["Q147725"]
-   languageMostSpoken: ["KiswahiliLanguageGroup"]
+   languagesMostSpoken: ["KiswahiliLanguageGroup"]
    religionsMostPracticed: ["Islam"]
    livesIn: ["Pwani", "Dar es Salaam"] ##administrative state, region
  ZigulaEthnicGroup:
@@ -97,7 +97,7 @@ concepts:
    livesIn: ["Mbeya"] ##administrative state, region  
  SambaaEthnicGroup:
    stringTokens: ["Sambaa", "Wasambaa", "Shambala", "Shambaa", "Sambala", "Sambara", "Wasambaa"]
-   wikidataQnode: ["Q283465)"]
+   wikidataQnode: ["Q283465"]
    religionsMostPracticed: ["Christianity"]
    livesIn: ["Tanga"] ##administrative state, region 
  IndoTanzanianEthnicGroup:
@@ -117,16 +117,16 @@ concepts:
 ##politicalparties
  CCMParty:
    stringTokens: ["CCM", "Chama Cha Mapinduzi", "Party of the Revolution", "Tanganyika African National Union", "TANU", "Afro-Shirazi Party", "ASP"]
-   yearsActiveasParty: ["1977-Present"]
+   yearsActiveasParty: ["1977-present"]
    ideologicalOrientation: ["centreLeft", "left", "farLeft", "socialDemocracy", "nationalism", "socialConservativism", "secularism", "panAfricanism", 
                             "ujamaa", "socialism"]
  ChademaParty:
    stringTokens: ["Chadema", "Chama cha Demokrasia na Maendeleo", "The Party for Democracy and Progress"]
-   yearsActiveasParty: ["1992-Present"]
-   ideologicalOrientation: {"centreRight", "conservatism", "economicLiberalism"]
+   yearsActiveasParty: ["1992-present"]
+   ideologicalOrientation: ["centreRight", "conservatism", "economicLiberalism"]
  ActParty:
    stringTokens: ["ACT-Wazalendo", "Alliance for Change and Transparency"]
-   yearsActiveasParty: ["2014-Present"]
+   yearsActiveasParty: ["2014-present"]
    ideologicalOrientation: ["left", "socialDemocracy", "ujamaa"]
    
  CUFParty:  

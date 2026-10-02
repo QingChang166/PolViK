@@ -1541,11 +1541,11 @@ concepts:
     country: UKR
   194107Pgc:
     GID: UKR
-    conceptID: UKR_Adm0
+    conceptID: UKR.0_Adm0
     admin_name: Ukraine
     country: UKR
   193387Pgc:
     GID: UKR
-    conceptID: UKR_Adm0
+    conceptID: UKR.0_Adm0
     admin_name: Ukraine
     country: UKR

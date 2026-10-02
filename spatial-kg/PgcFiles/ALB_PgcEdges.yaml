@@ -16,4 +16,4 @@ relations:
 - (ALB.4_1_Adm1, 188321Pgc)
 - (ALB.12_1_Adm1, 187599Pgc)
 - (ALB.12_1_Adm1, 187600Pgc)
-- (ALB_Adm0, 189039Pgc)
+- (ALB.0_Adm0, 189039Pgc)

@@ -6,14 +6,14 @@ concepts:
   ## ethnicgroups
     ForroEthnicGroup:
      stringTokens: ["Forro"]
-     wikidataQnode: [""]
+     wikidataQnode: []
      languagesMostSpoken: ["Forro Creole"]
      religionsMostPracticed: ["Roman Catholic"]
      livesIn: ["São Tomé", "São Tomé City"]
 
     AngolaresEthnicGroup:
      stringTokens: ["Angolares", "Angolar"]
-     wikidataQnode: [""]
+     wikidataQnode: []
      languagesMostSpoken: ["Angolar Creole"]
      religionsMostPracticed: ["Catholicism"]
      livesIn: ["São João dos Angolares"]
@@ -43,8 +43,8 @@ concepts:
     ForroCreoleLinguisticGroup:
      stringTokens: ["Forro Creole", "Sãotomense", "Sãotomense creole", "Santomense creole", "Crioulo santomense"]
      wikidataQnode: ["Q36536"]
-     livesIn: [""]
-     associatedEthnicGroups: ["ForroEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["ForroEthnicGroup"]
 
   ## politicalparties
     PCD-GRParty:
@@ -67,7 +67,7 @@ concepts:
   
     FCDM-LPParty:
      stringTokens: ["Force for Change Democratic Movement-Liberal Party", "MDFM"]
-     wikidataQnode: ["Q1566188)"]
+     wikidataQnode: ["Q1566188"]
      yearsActiveasParty: ["2001-present"]
      ideologicalOrientation: ["centre", "liberalism", "socialLiberalism", "socialDemocracy"]
   

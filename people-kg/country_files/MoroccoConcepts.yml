@@ -59,49 +59,49 @@ concepts:
     stringTokens: ["Ghomara", "Taznatit", "Tuwat"]
     wikidataQnode: ["Q35315"]
     livesIn: ["Chefchaouen Province"]
-    associatedethnicgroup: ["Ghomara people"]
+    associatedEthnicGroup: ["Ghomara people"]
     
   SenhajaBerberLinguisticGroup:
     stringTokens: ["Senhaja Berber", "Sanhaja de Srair", "Senhaja de Srair", "Senhaja De Srair language"]
     wikidataQnode: ["Q56744"]
     livesIn: ["Rif"]
-    associatedethnicgroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
+    associatedEthnicGroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
     
   TarifitLinguisticGroup:
     stringTokens: ["Tarifit", "Tmazight", "Tarifit Berber", "Riffian", "Rif", "Tmaziɣt", "Rifian language", "Rif Berber", "Rifian Berber", "Tharifith", "Riffian Berber", "Riffian language", "Riffian", "Tarifect", "Tarifiyt"]
     wikidataQnode: ["Q34174"]
     livesIn: ["Rif", "Tanger-Tétouan-Al Hoceïma", "Oriental", "Nador", "Driouch"]
-    associatedethnicgroup: ["Riffans"]
+    associatedEthnicGroup: ["Riffans"]
     
   ShilhaLinguisticGroup:
     stringTokens: ["Shilha", "Tashelhiyt", "Tachelhit", "Tachelhit language", "tasousit"]
     wikidataQnode: ["Q34152"]
     livesIn: ["Souss-Massa", "Guelmim-Oued Noun", "Drâa-Tafilalet", "Marrakech-Safi", "Béni Mellal-Khénifra", "Laâyoune-Sakia El Hamra", "Dakhla-Oued Ed-Dahab"]
-    associatedethnicgroup: ["Shilha people", "Shilha"]
+    associatedEthnicGroup: ["Shilha people", "Shilha"]
 
   StandardMoroccanAmazighLinguisticGroup:
     stringTokens: ["Standard Moroccan Amazigh", "Standard Moroccan Tamazight", "Standard Moroccan Berber"]
     wikidataQnode: ["Q7598268"]
-    livesIn: [""]
-    associatedethnicgroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
+    livesIn: []
+    associatedEthnicGroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
 
   Judeo-MoroccanArabicLinguisticGroup:
     stringTokens: ["Judeo-Moroccan Arabic"]
     wikidataQnode: ["Q56595"]
-    livesIn: [""]
-    associatedethnicgroup: ["Moroccan Jews"]
+    livesIn: []
+    associatedEthnicGroup: ["Moroccan Jews"]
 
   MoroccanArabicLinguisticGroup:
     stringTokens: ["Moroccan Arabic", "Moroccan Darija", "Darija", "Moroccan Arabic language", "Moroccan Darija language"]
     wikidataQnode: ["Q56426"]
     livesIn: ["Western Maghreb"]
-    associatedethnicgroup: ["ArabEthnicGroup"]
+    associatedEthnicGroup: ["ArabEthnicGroup"]
   
   CentralAtlasTamazightLinguisticGroup:
     stringTokens: ["Central Atlas Tamazight", "Atlasic", "Tamazight"]
     wikidataQnode: ["Q49741"]
     livesIn: ["Fès-Meknès", "Béni Mellal-Khénifra", "Drâa-Tafilalet"]
-    associatedethnicgroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
+    associatedEthnicGroup: ["BerberEthnicGroup", "SahrawiEthnicGroup", "MoorEthnicGroup"]
     
 ###PoliticalParties
   AMPParty:
@@ -213,7 +213,7 @@ concepts:
    stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario", "Popular Front for the Liberation of Saguia el-Hamra and Río de Oro"]
    associatedEthnicGroup: ["Sahrawi"]
    wikidataQnode: ["Q240425"]
-   yearsActive: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
+   yearsActiveasParty: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
 
 ###armedNonGovernmentalOrganizedGroups
   
@@ -221,49 +221,49 @@ concepts:
    stringTokens: ["Polisario Front", "Frente Polisario", "Frelisario", "Polisario", "Popular Front for the Liberation of Saguia el-Hamra and Río de Oro"]
    associatedEthnicGroup: ["Sahrawi"]
    wikidataQnode: ["Q240425"]
-   yearsActive: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1973-present"] # party of of Sahrawi Arab Democratic Republic (SADR)
    ideologicalOrientation: ["nationalism", "socialism", "socialDemocracy", "secularism", "left"]
   
   SPLAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Sahrawi People's Liberation Army","Armée populaire de libération sahraouie", "Military of Western Sahara", "Sahrawi Popular Liberation Army", "SPLA", "Ejército de Liberación Popular Saharaui", "ELPS", "ELP"]
    associatedEthnicGroup: ["Sahrawi"]
    wikidataQnode: ["Q2862977"]
-   yearsActive: ["1972-present"] # armed wing of of Sahrawi Arab Democratic Republic (SADR)
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1972-present"] # armed wing of of Sahrawi Arab Democratic Republic (SADR)
    ideologicalOrientation: ["regionalIndependence"]
    
   SJarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Salafia Jihadia", "al-Salafiya al-jihadiya"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3469483"]
-   yearsActive: ["1990s-present"] #ally of Moroccan Islamic Combatant Group, Al-Qaeda and 20 February Movement 
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1990s-present"] #ally of Moroccan Islamic Combatant Group, Al-Qaeda and 20 February Movement 
    ideologicalOrientation: ["salafism", "jihadism"]
   
   GICMarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Moroccan Islamic Combatant Group", "GICM", "Groupe Islamique Combattant Marocain"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q2357272"]
-   yearsActive: ["1990s-present"] #ally of Salafia Jihadia and Al-Qaeda
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1990s-present"] #ally of Salafia Jihadia and Al-Qaeda
    ideologicalOrientation: ["salafism", "jihadism"]
   
   F20armedNonGovernmentalOrganizedGroup:
    stringTokens: ["20 February Movement"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q3326647"]
-   yearsActive: ["2011"] #ally of Salafia Jihadia
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2011"] #ally of Salafia Jihadia
    ideologicalOrientation: ["democracy"]
   
   SParmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Sirat al-Mustaqim", "The Straight Path", "as-Sirat al-Mustaqim"]
    associatedEthnicGroup: []
    wikidataQnode: []
-   yearsActiveas: [] # splintered from Salafia Jihadia
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: [] # splintered from Salafia Jihadia
    ideologicalOrientation: ["jihadism", "salafism"]
   
   TakfirwalHijraarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Takfir wal-Hijra", "Takfir wa Hijra", "Jama'at al-Muslimin" ,"Excommunication and Exodus", "excommunication and emigration"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q291419"]
-   yearsActiveasParty: ["1971-present"] # Offshoot of Muslim Brotherhood
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1971-present"] # Offshoot of Muslim Brotherhood
    ideologicalOrientation: ["qutbism"]
   
   

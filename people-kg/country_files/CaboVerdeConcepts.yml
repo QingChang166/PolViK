@@ -36,14 +36,14 @@ concepts:
    KabuverdianuLinguisticGroup:
     stringTokens: ["Kabuverdianu", "Cape Verdean Creole", "Kriolu"]
     wikidataQnode: ["Q35963"]
-    livesIn: [""]
-    associatedethnicgroup: ["CreoleEthnicGroup"]
+    livesIn: []
+    associatedEthnicGroup: ["CreoleEthnicGroup"]
     
   ## politicalparties
    DCPParty:
     stringTokens: ["Party for Democratic Convergence", "Democratic Convergence Party"]
     wikidataQnode: ["Q5255592"]
-    yearsActiveasParty: ["1994-oresent"]
+    yearsActiveasParty: ["1994-present"]
 
    MPDParty:
     stringTokens: ["Movement for Democracy"]

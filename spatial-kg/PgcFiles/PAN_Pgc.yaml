@@ -276,6 +276,6 @@ concepts:
     country: PAN
   143483Pgc:
     GID: PAN
-    conceptID: PAN_Adm0
+    conceptID: PAN.0_Adm0
     admin_name: Panama
     country: PAN

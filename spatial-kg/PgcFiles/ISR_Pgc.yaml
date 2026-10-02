@@ -46,6 +46,6 @@ concepts:
     country: ISR
   176830Pgc:
     GID: ISR
-    conceptID: ISR_Adm0
+    conceptID: ISR.0_Adm0
     admin_name: Israel
     country: ISR

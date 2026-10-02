@@ -3819,7 +3819,7 @@ concepts:
     conceptID: AUS.7.46_1_Adm2
     admin_name: Mount Isa
     country: AUS
-  1e+05Pgc:
+  100000Pgc:
     GID: AUS.7.19_1
     conceptID: AUS.7.19_1_Adm2
     admin_name: Cloncurry
@@ -15526,76 +15526,76 @@ concepts:
     country: AUS
   112206Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   112207Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   111488Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   106500Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   106501Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   105779Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   105780Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   105781Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   100029Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   99309Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   98585Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   98588Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   97866Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   97871Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS
   96432Pgc:
     GID: AUS
-    conceptID: AUS_Adm0
+    conceptID: AUS.0_Adm0
     admin_name: Australia
     country: AUS

@@ -141,6 +141,6 @@ concepts:
     country: LBR
   138579Pgc:
     GID: LBR
-    conceptID: LBR_Adm0
+    conceptID: LBR.0_Adm0
     admin_name: Liberia
     country: LBR

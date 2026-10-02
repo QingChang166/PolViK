@@ -16,7 +16,7 @@ concepts:
      wikidataQnode: ["Q460091"]
      languagesMostSpoken: ["Kimbundu"]
      religionsMostPracticed: ["Christianity"]
-     livesIn: [""]
+     livesIn: []
 
     BakongoEthnicGroup:
      stringTokens: ["Bakongo people", "Kongo", "Bakongo", "Esikongo", "Mwisikngo", "Mukongo", "Congo", "Fjort", "Frote", "Ikeleve", "Kakongo", "Kileta", "Nkongo", "Wacongomani"]
@@ -43,114 +43,114 @@ concepts:
      stringTokens: ["Ganguela", "Nganguela", "Ganguela people"] 
      wikidataQnode: ["Q113579872"]
      languagesMostSpoken: ["Ganguela"]
-     religionsMostPracticed: [""]
-     livesIn: [""]
+     religionsMostPracticed: []
+     livesIn: []
 
     XindongaEthnicGroup:
      stringTokens: ["Xindonga", "Xindonga people"]
      wikidataQnode: ["Q2577356"]
      languagesMostSpoken: ["Xindonga"]
-     religionsMostPracticed: [""]
+     religionsMostPracticed: []
      livesIn: ["Cuando Cubango"]
 
     YombeEthnicGroup:
      stringTokens: ["Yombe people", "Yombe", "Kiombe", "Majombe", "Mayombe", "Mayumba", "Mayumbe", "Yumbe"]
      wikidataQnode: ["Q1717132"]
-     languagesMostSpoken: [""]
+     languagesMostSpoken: []
      religionsMostPracticed: ["Traditional religion"]
      livesIn: ["Cabindan Mayombe"]
 
   ## linguisticgroups
     BoloLinguisticGroup:
-     stringTokens: ["Bolo", "Kibala", "Ngoya", "]
+     stringTokens: ["Bolo", "Kibala", "Ngoya"]
      wikidataQnode: ["Q4939959"]
-     livesIn: [""]
+     livesIn: []
 
     ChokweLinguisticGroup:
      stringTokens: ["Chokwe", "Batshokwe", "Ciokwe", "Kioko", "Kiokwe", "Quioca", "Quioco", "Shioko", "Tschiokloe", "Tshokwe"]
      wikidataQnode: ["Q2422065"]
-     livesIn: [""]
-     associatedethnicgroup: ["ChokweEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["ChokweEthnicGroup"]
 
     ZembaLinguisticGroup:
      stringTokens: ["Zemba", "Dhimba"]
      wikidataQnode: ["Q1845148"]
-     livesIn: [""]
-     associatedethnicgroup: ["Herero", "Tjimba"]
+     livesIn: []
+     associatedEthnicGroup: ["Herero", "Tjimba"]
 
     HoluLinguisticGroup:
      stringTokens: ["Holo"]
      wikidataQnode: ["Q4121133"]
-     livesIn: [""]
+     livesIn: []
 
     HunguLinguisticGroup:
      stringTokens: ["Hungu"]
      wikidataQnode: ["Q116456373"]
-     livesIn: [""]
+     livesIn: []
 
     NkumbiLinguisticGroup:
      stringTokens: ["Nkumbi", "Humbe", "Khumbi"]
      wikidataQnode: ["Q11019169"]
-     livesIn: [""]
+     livesIn: []
 
     KimbunduLinguisticGroup:
      stringTokens: ["Mbundu", "Kimbundu", "North Mbundu"]
      wikidataQnode: ["Q35891"]
      livesIn: ["Luanda Province", "Bengo Province", "Malanje Province"]
-     associatedethnicgroup: ["AmbunduEthnicGroup"]
+     associatedEthnicGroup: ["AmbunduEthnicGroup"]
      
     OshiwamboLinguisticGroup:
-     stringTokens: ["Ovambo", "Oshiwambo", "]
+     stringTokens: ["Ovambo", "Oshiwambo"]
      wikidataQnode: ["Q36489"]
-     livesIn: [""]
-     associatedethnicgroup: ["Owambo"]
+     livesIn: []
+     associatedEthnicGroup: ["Owambo"]
 
     KwadiLinguisticGroup:
-     stringTokens: ["Kwadi", "Khoisan]
+     stringTokens: ["Kwadi", "Khoisan"]
      wikidataQnode: ["Q2364661"]
-     livesIn: [""]
+     livesIn: []
 
     LuchaziLinguisticGroup:
      stringTokens: ["Lucazi", "Luchazi language", "Luchazi", "Lucazi language"]
      wikidataQnode: ["Q3265143"]
-     livesIn: [""]
-     associatedethnicgroup: ["GanguelaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["GanguelaEthnicGroup"]
 
     LuimbiLinguisticGroup:
      stringTokens: ["Lwimbi", "Luimbe", "Lwimbe", "Chiluimbi"]
      wikidataQnode: ["Q10963134"]
-     livesIn: [""]
+     livesIn: []
     
     MbundaLinguisticGroup:
      stringTokens: ["Mbunda", "Yauma", "Mbunda language"]
      wikidataQnode: ["Q34170"]
-     livesIn: [""]
-     associatedethnicgroup: ["AmbunduEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["AmbunduEthnicGroup"]
 
     MbangalaLinguisticGroup:
      stringTokens: ["Mbangala"]
      wikidataQnode: ["Q6799612"]
-     livesIn: [""]
+     livesIn: []
 
     NdombeLinguisticGroup:
      stringTokens: ["Ndombe"]
      wikidataQnode: ["Q6983792"]
-     livesIn: [""]
+     livesIn: []
 
     KuvaleLinguisticGroup:
      stringTokens: ["Kuvale", "Ngendelengo"]
      wikidataQnode: ["Q6448765"]
-     livesIn: [""]
+     livesIn: []
 
     SongoLinguisticGroup:
      stringTokens: ["Songo", "Nsongo"]
      wikidataQnode: ["Q7067577"]
-     livesIn: [""]
+     livesIn: []
 
     NyengoLinguisticGroup:
      stringTokens: ["Nyengo"]
      wikidataQnode: ["Q7071068"]
-     livesIn: [""]
+     livesIn: []
 
     NyanekaLinguisticGroup:
      stringTokens: ["Haneca", "Nyaneka"]
@@ -166,7 +166,7 @@ concepts:
      stringTokens: ["Umbundu", "South Mbundu"]
      wikidataQnode: ["Q36983"]
      livesIn: ["Benguela", "Lobito", "Luanda", "Lubango"]
-     associatedethnicgroup: ["OvimbunduEthnicGroup"]
+     associatedEthnicGroup: ["OvimbunduEthnicGroup"]
 
     SekeleLinguisticGroup:
      stringTokens: ["Sekele", "Vasekela Bushman language", "ǃʼOǃKung", "Northwestern !Kung", "Vasekele", "Sekele language", "!O!ung language", "Northern Ju"]
@@ -174,9 +174,9 @@ concepts:
      livesIn: ["Okavango", "Ovamboland Territory"]
 
     KwanduLinguisticGroup:
-     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language]
+     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language"]
      wikidataQnode: ["Q10962737"]
-     livesIn: [""]
+     livesIn: []
 
      
   ## politicalparties
@@ -273,21 +273,21 @@ concepts:
       
     CDOproGovernmentMilitia:
      stringTokens: ["Civil Defence Organization"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: 
   
     PVBproGovernmentMilitia:
      stringTokens: ["People's Vigilante Brigades"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: 
   
     EOproGovernmentMilitia:
      stringTokens: ["Executive Outcomes"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q377026"]
   
     ODPproGovernmentMilitia:
      stringTokens: ["People's Defence Organization"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: 
   

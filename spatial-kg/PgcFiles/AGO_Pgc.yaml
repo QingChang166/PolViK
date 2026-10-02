@@ -2151,6 +2151,6 @@ concepts:
     country: AGO
   116306Pgc:
     GID: AGO
-    conceptID: AGO_Adm0
+    conceptID: AGO.0_Adm0
     admin_name: Angola
     country: AGO

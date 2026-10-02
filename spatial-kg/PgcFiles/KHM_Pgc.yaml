@@ -351,16 +351,16 @@ concepts:
     country: KHM
   144566Pgc:
     GID: KHM
-    conceptID: KHM_Adm0
+    conceptID: KHM.0_Adm0
     admin_name: Cambodia
     country: KHM
   144567Pgc:
     GID: KHM
-    conceptID: KHM_Adm0
+    conceptID: KHM.0_Adm0
     admin_name: Cambodia
     country: KHM
   143846Pgc:
     GID: KHM
-    conceptID: KHM_Adm0
+    conceptID: KHM.0_Adm0
     admin_name: Cambodia
     country: KHM

@@ -271,6 +271,6 @@ concepts:
     country: IRL
   206269Pgc:
     GID: IRL
-    conceptID: IRL_Adm0
+    conceptID: IRL.0_Adm0
     admin_name: Ireland
     country: IRL

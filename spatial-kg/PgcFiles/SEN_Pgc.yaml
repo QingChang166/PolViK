@@ -396,6 +396,6 @@ concepts:
     country: SEN
   150805Pgc:
     GID: SEN
-    conceptID: SEN_Adm0
+    conceptID: SEN.0_Adm0
     admin_name: Senegal
     country: SEN

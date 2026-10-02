@@ -336,21 +336,21 @@ concepts:
     country: KOR
   183492Pgc:
     GID: KOR
-    conceptID: KOR_Adm0
+    conceptID: KOR.0_Adm0
     admin_name: South Korea
     country: KOR
   178453Pgc:
     GID: KOR
-    conceptID: KOR_Adm0
+    conceptID: KOR.0_Adm0
     admin_name: South Korea
     country: KOR
   177733Pgc:
     GID: KOR
-    conceptID: KOR_Adm0
+    conceptID: KOR.0_Adm0
     admin_name: South Korea
     country: KOR
   177734Pgc:
     GID: KOR
-    conceptID: KOR_Adm0
+    conceptID: KOR.0_Adm0
     admin_name: South Korea
     country: KOR

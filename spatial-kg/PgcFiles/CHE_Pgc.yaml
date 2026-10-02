@@ -31,11 +31,11 @@ concepts:
     country: CHE
   197657Pgc:
     GID: CHE
-    conceptID: CHE_Adm0
+    conceptID: CHE.0_Adm0
     admin_name: Switzerland
     country: CHE
   197658Pgc:
     GID: CHE
-    conceptID: CHE_Adm0
+    conceptID: CHE.0_Adm0
     admin_name: Switzerland
     country: CHE

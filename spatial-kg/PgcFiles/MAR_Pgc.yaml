@@ -936,6 +936,6 @@ concepts:
     country: MAR
   178185Pgc:
     GID: MAR
-    conceptID: MAR_Adm0
+    conceptID: MAR.0_Adm0
     admin_name: Morocco
     country: MAR

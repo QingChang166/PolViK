@@ -964,7 +964,7 @@ concepts:
     conceptID: MNG.14.9_1_Adm2
     admin_name: Jargalant
     country: MNG
-  2e+05Pgc:
+  200000Pgc:
     GID: MNG.14.7_1
     conceptID: MNG.14.7_1_Adm2
     admin_name: Galt

@@ -42,6 +42,9 @@ def tracked(prefix):
 
 
 def ascii_key(s):
+    # A grid-only code has no country-file stem (D-25), so this is called with None.
+    if not s:
+        return ""
     s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
     return re.sub(r"[^a-z]", "", s)
 
@@ -60,7 +63,51 @@ def collect():
         name = next((v["country_name"] for v in concepts if v.get("country_name")), stem)
         spatial[iso] = (stem, name)
 
-    stem_to_iso = {nfc(s): iso for iso, (s, _) in spatial.items()}
+    # D-25, 2026-10-01. A code can appear in the grid without ever having a country
+    # file: Antarctica is 25,523 PRIO-GRID cells and no CountryFile, and XCA is the
+    # Caspian Sea. Building the registry from CountryFile stems alone left them out,
+    # so B3 reported 25,874 codes "not in the registry" when the registry was simply
+    # short. The name comes from the grid data, never invented; `spatial_kg` stays
+    # null because there is no country file to name.
+    for f in tracked("spatial-kg/PgcFiles"):
+        if not f.endswith("_Pgc.yaml"):
+            continue
+        iso = f.split("/")[-1][: -len("_Pgc.yaml")]
+        if iso in spatial or not re.fullmatch(r"[A-Z][A-Z0-9]{2}", iso):
+            continue
+        # D-17 excludes the disputed placeholders from the registry deliberately: they
+        # are declared as concepts carrying `status: disputed` instead. An earlier
+        # version of this block added them, and the name it derived for Z01 was
+        # "Leh (Ladakh)" — one district standing in for the whole territory, which is
+        # a second reason they do not belong here.
+        if re.fullmatch(r"Z\d\d", iso):
+            continue
+        doc = yaml.safe_load((ROOT / f).read_text(errors="replace")) or {}
+        cells = [v for v in (doc.get("concepts") or {}).values() if isinstance(v, dict)]
+        name = next((v["admin_name"] for v in cells if v.get("admin_name")), iso)
+        spatial[iso] = (None, name)
+
+    # D-26, 2026-10-01. A third source, for the territories that have neither a
+    # country file nor a PRIO-GRID file: GlobalConcepts.yaml declares 249 country
+    # records, and 17 of their codes reached neither of the two blocks above —
+    # Aruba, Gibraltar, Monaco, Maldives, Kiribati and eleven more. B3 reported
+    # each as "not in the registry" when the graph had declared it as a country
+    # record all along, so the registry was short for a third reason. The name is
+    # the one the record carries. `spatial_kg` stays null: there is no country file.
+    gf = ROOT / "spatial-kg/GlobalConcepts.yaml"
+    if gf.exists():
+        doc = yaml.safe_load(gf.read_text(errors="replace")) or {}
+        for v in (doc.get("concepts") or {}).values():
+            if not isinstance(v, dict):
+                continue
+            iso = v.get("iso3c")
+            if not isinstance(iso, str) or iso in spatial:
+                continue
+            if not re.fullmatch(r"[A-Z][A-Z0-9]{2}", iso) or re.fullmatch(r"Z\d\d", iso):
+                continue                      # D-17 excludes the placeholders
+            spatial[iso] = (None, v.get("country_name") or iso)
+
+    stem_to_iso = {nfc(s): iso for iso, (s, _) in spatial.items() if s}
     people = {}
     unmatched = []
     for f in tracked("people-kg/country_files"):

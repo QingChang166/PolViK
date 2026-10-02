@@ -51,6 +51,6 @@ concepts:
     country: BLZ
   153545Pgc:
     GID: BLZ
-    conceptID: BLZ_Adm0
+    conceptID: BLZ.0_Adm0
     admin_name: Belize
     country: BLZ

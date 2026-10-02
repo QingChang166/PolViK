@@ -86,6 +86,6 @@ concepts:
     country: ALB
   189039Pgc:
     GID: ALB
-    conceptID: ALB_Adm0
+    conceptID: ALB.0_Adm0
     admin_name: Albania
     country: ALB

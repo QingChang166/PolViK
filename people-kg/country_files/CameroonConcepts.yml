@@ -1,55 +1,55 @@
 concepts:
-    cameroonSecurityForces:
+    CameroonSecurityForces:
      stringTokens: ["Cameroon Armed Forces", "FAC"]
   
   ## ethnicgroups
-    semibantiEthnicGroup:
+    SemibantiEthnicGroup:
      stringTokens: ["Semi-Bantu"]
      wikidataQnode: ["Q15975413"]
-     languagesMostSpoken: [""]
+     languagesMostSpoken: []
      religionsMostPracticed: ["Christianity"]
-     livesIn: [""]
-    bamilekeEthnicGroup:
+     livesIn: []
+    BamilekeEthnicGroup:
      stringTokens: ["Bamileke people"] # it is a semi-Bantu community
      wikidataQnode: ["Q806017"]
      languagesMostSpoken: ["Bamileke languages"]
      religionsMostPracticed: ["Traditional religion"]
      livesIn: ["West", "North-West", "South-West"]
-    bamumEthnicGroup:
+    BamumEthnicGroup:
      stringTokens: ["Bamum people"]
      wikidataQnode: ["Q322083"]
      languagesMostSpoken: ["Bamum"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Bamboutos"]
-    tikarEthnicGroup:
+    TikarEthnicGroup:
      stringTokens: ["Tikar people", "Tikar"]
      wikidataQnode: ["Q241843"]
      languagesMostSpoken: ["Tikar"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Mbam-et-Kim"]
-    bassaEthnicGroup:
+    BassaEthnicGroup:
      stringTokens: ["Bassa people", "Bassa"]
      languagesMostSpoken: ["Bantu languages"]
      religionsMostPracticed: ["African religion"]
-     livesIn: [""]
-    dualaEthnicGroup:
+     livesIn: []
+    DualaEthnicGroup:
      stringTokens: ["Duala", "Duala people"]
      wikidataQnode: ["Q1262591"]
      languagesMostSpoken: ["Duala"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Littoral", "Moungo", "Nkam", "Wouri"]
-    betipahuinEthnicGroup:
-     stringTokens: ["Beti-Pahuin", "Fang-Beti", ""]
+    BetipahuinEthnicGroup:
+     stringTokens: ["Beti-Pahuin", "Fang-Beti"]
      wikidataQnode: ["Q1042768"]
      languagesMostSpoken: ["Beti language"]
      religionsMostPracticed: ["Christianity"]
-    bantuEthnicGroup:
+    BantuEthnicGroup:
      stringTokens: ["Bantu", "Bantu people"] # Bantu people include different Bantu ethnic groups such as Beti-Pahuin, Fang, Douala, Baka. 
      wikidataQnode: ["Q173371"]
      languagesMostSpoken: ["Bantu languages"]
      religionsMostPracticed: ["Christianity"]
-     livesIn: [""] # very widespread in the country
-    makaaEthnicGroup:
+     livesIn: [] # very widespread in the country
+    MakaaEthnicGroup:
      stringTokens: ["Makaa", "Makaa people"]
      wikidataQnode: ["Q1324834"]
      languagesMostSpoken: ["Byep", "Makaa"]
@@ -61,13 +61,13 @@ concepts:
      languagesMostSpoken: ["Fang language"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Ambam"]
-    njemEthnicGroup:
+    NjemEthnicGroup:
      stringTokens: ["Njem", "Njem people"]
      wikidataQnode: ["Q1994271"]
      languagesMostSpoken: ["Njyem"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Lomié", "Ngoyla", "Djadom"]
-    bakaEthnicGroup:
+    BakaEthnicGroup:
      stringTokens: ["Baka", "Baka people", "Baka Pygmy"]
      wikidataQnode: ["Q203747"]
      languagesMostSpoken: ["Baka"]
@@ -79,7 +79,7 @@ concepts:
      languagesMostSpoken: ["Fula languages"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Diamare", "Logone-et-Chari", "Bénoué"]
-    kirdiEthnicGroup:
+    KirdiEthnicGroup:
      stringTokens: ["Kirdi", "Kirdi people"]
      wikidataQnode: ["Q1430603"]
      languagesMostSpoken: ["Chadic languages"]
@@ -91,7 +91,7 @@ concepts:
      languagesMostSpoken: ["Igbo languages"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Douala"]
-    oronEthnicGroup:
+    OronEthnicGroup:
      stringTokens: ["Oron", "Oron people"]
      wikidataQnode: ["Q7103776"]
      languagesMostSpoken: ["Oro"]
@@ -101,315 +101,315 @@ concepts:
     BakaLinguisticGroup-Cameroon:
      stringTokens: ["Baka", "Bakaka", "Bibaya", "Kaa"]
      wikidataQnode: ["Q34905"]
-     livesIn: [""]
-     associatedethnicgroup: ["bakaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["BakaEthnicGroup"]
     AdamawaFulfuldeLinguisticGroup:
      stringTokens: ["Adamawa Fulfulde", "Adamaua Fulani"]
      wikidataQnode: ["Q34776"]
-     livesIn: [""]
-     associatedethnicgroup: ["Fula people"]
+     livesIn: []
+     associatedEthnicGroup: ["Fula people"]
     ManengubaLinguisticGroup:
      stringTokens: ["Manenguba", "Mbo", "Ngoe"]
      wikidataQnode: ["Q31147471"]
      livesIn: ["Bakossi", "Mbo", "Bakaka", "Bassossi"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
     BabankiLinguisticGroup:
      stringTokens: ["Babanki", "Kejom"]
      wikidataQnode: ["Q34790"]
-     livesIn: [""]
-     associatedethnicgroup: ["Kejom people"]
+     livesIn: []
+     associatedEthnicGroup: ["Kejom people"]
     BafiaLinguisticGroup:
      stringTokens: ["Bafia"]
      wikidataQnode: ["Q34930"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bafia people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bafia people"]
     FutLinguisticGroup:
      stringTokens: ["Fut", "Bafut"]
      wikidataQnode: ["Q34888"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     KogoLinguisticGroup:
      stringTokens: ["Kogo", "Bakoko", "Basoo"]
      wikidataQnode: ["Q34866"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bakoko people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bakoko people"]
     KpweLinguisticGroup:
      stringTokens: ["Kpwe", "Mokpwe", "Bakole"]
      wikidataQnode: ["Q36428"]
-     livesIn: [""]
-     associatedethnicgroup: ["Kpwe people", "Mboko people"]
+     livesIn: []
+     associatedEthnicGroup: ["Kpwe people", "Mboko people"]
     BamumLinguisticGroup:
      stringTokens: ["Bamum", "Shupamem", "Bamun", "Bamoun"]
      wikidataQnode: ["Q35280"]
-     livesIn: [""]
-     associatedethnicgroup: ["bamumEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["BamumEthnicGroup"]
     BasaaLinguisticGroup:
      stringTokens: ["Basaa", "Bassa", "Basa", "Bissa", "Mbene"]
      wikidataQnode: ["Q33093"]
      livesIn: ["Centre and Littoral Provinces"]
-     associatedethnicgroup: ["Basaa people"]
+     associatedEthnicGroup: ["Basaa people"]
     BitareLinguisticGroup:
      stringTokens: ["Bitare"]
      wikidataQnode: ["Q34946"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     BokyiLinguisticGroup:
      stringTokens: ["Bokyi", "Boki", "Nfua", "Nki", "Okii", "Osikom", "Osukam", "Uki", "Vaanerok"]
      wikidataQnode: ["Q35087"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bokyi people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bokyi people"]
     BomwaliLinguisticGroup:
      stringTokens: ["Bomwali"]
      wikidataQnode: ["Q34984"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     BubeLinguisticGroup:
      stringTokens: ["Bube", "Bohobé", "Bube–Benga", "Bobe", "Bubi"]
      wikidataQnode: ["Q35110"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bubi people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bubi people"]
     YedinaLinguisticGroup:
      stringTokens: ["Yedina", "Buduma", "Boudouma"]
      wikidataQnode: ["Q56287"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     BuluLinguisticGroup:
      stringTokens: ["Bulu"]
      wikidataQnode: ["Q35028"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bulu people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bulu people"]
     MambilaLinguisticGroup:
      stringTokens: ["Mambila"]
      wikidataQnode: ["Q35800"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     CameroonianPidginEnglishLinguisticGroup:
      stringTokens: ["Cameroonian Pidgin English", "Cameroon Pidgin", "Cameroonian Creole", "Kamtok"]
      wikidataQnode: ["Q35541"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     JaghamLinguisticGroup:
      stringTokens: ["Jagham", "Ejagham", "Ekoi"]
      wikidataQnode: ["Q35296"]
-     livesIn: [""]
-     associatedethnicgroup: ["Ekoi people"]
+     livesIn: []
+     associatedEthnicGroup: ["Ekoi people"]
     EtonLinguisticGroup:
      stringTokens: ["Eton"]
      wikidataQnode: ["Q35317"]
-     livesIn: [""]
-     associatedethnicgroup: ["Eton people"]
+     livesIn: []
+     associatedEthnicGroup: ["Eton people"]
     EwondoLinguisticGroup:
      stringTokens: ["Ewondo", "Beti"]
      wikidataQnode: ["Q35459"]
-     livesIn: [""]
-     associatedethnicgroup: ["Beti people"]
+     livesIn: []
+     associatedEthnicGroup: ["Beti people"]
     FangLinguisticGroup:
      stringTokens: ["Fang"]
      wikidataQnode: ["Q33484"]
-     livesIn: [""]
-     associatedethnicgroup: ["fangEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["fangEthnicGroup"]
     FeʼfeʼLinguisticGroup:
      stringTokens: ["Feʼfeʼ", "Nufi", "Bafang"]
      wikidataQnode: ["Q35276"]
      livesIn: ["Haut-Nkam"]
-     associatedethnicgroup: ["bamilekeEthnicGroup"]
+     associatedEthnicGroup: ["BamilekeEthnicGroup"]
     GhomalaʼLinguisticGroup:
      stringTokens: ["Ghomalaʼ", "Ghomala", "Bamileke-Banjun", "Bamiléké-Bandjoun", "Bamileke-Bandjoun"]
      wikidataQnode: ["Q35271"]
-     livesIn: [""]
-     associatedethnicgroup: ["bamilekeEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["BamilekeEthnicGroup"]
     GidarLinguisticGroup:
      stringTokens: ["Gidar", "Kaɗa"]
      wikidataQnode: ["Q35265"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     KomaLinguisticGroup:
      stringTokens: ["Koma"]
      wikidataQnode: ["Q35634"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     KakoLinguisticGroup:
      stringTokens: ["Kako", "Mkako", "Mkaka"]
      wikidataQnode: ["Q35755"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     KomLinguisticGroup:
      stringTokens: ["Kom", "Bamekon", "Bikom", "Ekom", "Etang", "Nkom"]
      wikidataQnode: ["Q1656595"]
      livesIn: ["Northwest Province"]
-     associatedethnicgroup: ["Kom people"]
+     associatedEthnicGroup: ["Kom people"]
     NsoLinguisticGroup:
      stringTokens: ["Nso", "Lamnso'"]
      wikidataQnode: ["Q35788"]
-     livesIn: [""]
-     associatedethnicgroup: ["Nso people"]
+     livesIn: []
+     associatedEthnicGroup: ["Nso people"]
     LimbumLinguisticGroup:
      stringTokens: ["Limbum"]
      wikidataQnode: ["Q35801"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     MafaLinguisticGroup:
      stringTokens: ["Mafa"]
      wikidataQnode: ["Q35819"]
-     livesIn: [""]
-     associatedethnicgroup: ["Mafa people"]
+     livesIn: []
+     associatedEthnicGroup: ["Mafa people"]
     MakaaLinguisticGroup:
      stringTokens: ["Makaa", "South Makaa", "Maka", "Mekaa", "South Mekaa"]
      wikidataQnode: ["Q35803"]
-     livesIn: [""]
-     associatedethnicgroup: ["makaaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["MakaaEthnicGroup"]
     MassaLinguisticGroup:
      stringTokens: ["Massa", "Masana", "Masa"]
      wikidataQnode: ["Q56668"]
-     livesIn: [""]
-     associatedethnicgroup: ["Masa people"]
+     livesIn: []
+     associatedEthnicGroup: ["Masa people"]
     MedumbaLinguisticGroup:
      stringTokens: ["Medumba"]
      wikidataQnode: ["Q36019"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bamileke people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bamileke people"]
     MetaʼLinguisticGroup:
      stringTokens: ["Metaʼ"]
      wikidataQnode: ["Q36054"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     Mofu-GudurLinguisticGroup:
      stringTokens: ["Mofu-Gudur", "South Mofu"]
      wikidataQnode: ["Q1365132"]
      livesIn: ["Far North Province"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
     VereLinguisticGroup:
      stringTokens: ["Vere", "Gwèri", "Kobo", "Mom Jango"]
      wikidataQnode: ["Q35862"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     MpumpongLinguisticGroup:
      stringTokens: ["Mpumpong"]
      wikidataQnode: ["Q35924"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     MuseyLinguisticGroup:
      stringTokens: ["Musey"]
      wikidataQnode: ["Q56328"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     MundangLinguisticGroup:
      stringTokens: ["Mundang", "Kaele", "Musemban", "Nda", "Moundan", "Moundang"]
      wikidataQnode: ["Q36032"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     MusguLinguisticGroup:
      stringTokens: ["Musgu"]
      wikidataQnode: ["Q3123545"]
-     livesIn: [""]
-     associatedethnicgroup: ["Musgum people"]
+     livesIn: []
+     associatedEthnicGroup: ["Musgum people"]
     MuyangLinguisticGroup:
      stringTokens: ["Muyang"]
      wikidataQnode: ["Q3502301"]
      livesIn: ["Tokombéré", "Mayo-Sava", "Far North Province"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
     NgambayLinguisticGroup:
      stringTokens: ["Ngambay", "Sara", "Sara Ngambai", "Gamba", "Gambaye", "Gamblai", "Ngambay"]
      wikidataQnode: ["Q2372207"]
-     livesIn: [""]
-     associatedethnicgroup: ["Sara people"]
+     livesIn: []
+     associatedEthnicGroup: ["Sara people"]
     NgiemboonLinguisticGroup:
      stringTokens: ["Ngiemboon"]
      wikidataQnode: ["Q36286"]
      livesIn: ["Province de l'Ouest", "Bamboutos"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
     YembaLinguisticGroup:
      stringTokens: ["Yemba"]
      wikidataQnode: ["Q36917"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bamileke people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bamileke people"]
     TupuriLinguisticGroup:
      stringTokens: ["Tupuri", "Toupouri"]
      wikidataQnode: ["Q36646"]
-     livesIn: [""]
-     associatedethnicgroup: ["Tupuri people"]
+     livesIn: []
+     associatedEthnicGroup: ["Tupuri people"]
     TivLinguisticGroup:
      stringTokens: ["Tiv"]
      wikidataQnode: ["Q34131"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     TikarLinguisticGroup:
      stringTokens: ["Tikar", "Tigé", "Tigré", "Tikari"]
      wikidataQnode: ["Q36483"]
-     livesIn: [""]
-     associatedethnicgroup: ["tikarEthnicGroup", "Bezdan people"]
+     livesIn: []
+     associatedEthnicGroup: ["TikarEthnicGroup", "Bezdan people"]
     ChadianArabicLinguisticGroup:
      stringTokens: ["Chadian Arabic", "Shuwa Arabic", "Western Sudanic Arabic", "West Sudanic Arabic "]
      wikidataQnode: ["Q56497"]
-     livesIn: [""]
-     associatedethnicgroup: ["Arab people"]
+     livesIn: []
+     associatedEthnicGroup: ["Arab people"]
     OrokoLinguisticGroup:
      stringTokens: ["Oroko", "Bakundu-Balue"]
      wikidataQnode: ["Q36278"]
      livesIn: ["Southwest", "Kribi"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
     OkuLinguisticGroup:
      stringTokens: ["Oku", "Ebkuo", "Ekpwo", "Ukfwo", "Bvukoo"]
      wikidataQnode: ["Q36289"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   ## politicalparties
-    sdfParty:
+    SdfParty:
      stringTokens: ["Social Democratic Front"]
      wikidataQnode:  ["Q1470113"]
      ideologicalOrientation: ["centreLeft", "socialDemocracy"]
-    cuParty:
+    CuParty:
      stringTokens: ["Cameroonian Union"]
      wikidataQnode:  ["Q5026464"]
-    upcParty:
+    UpcParty:
      stringTokens: ["Union of the Peoples of Cameroon"]
      wikidataQnode:  ["Q1860584"]
      ideologicalOrientation: ["left", "socialism", "marxism", "independence"]
-    cnuParty:
+    CnuParty:
      stringTokens: ["Cameroonian National Union", "CNU", "UNC"]
      ideologicalOrientation: ["bigTent", "nationalism", "francophile", "populism"]
-    kndpParty:
+    KndpParty:
      stringTokens: ["Kamerun National Democratic Party", "KNDP"]
      wikidataQnode:  ["Q12350429"]
-    cpncParty:
+    CpncParty:
      stringTokens: ["Cameroon People's National Convention"]
      wikidataQnode:  ["Q18737112"]
-    nudpParty:
+    NudpParty:
      stringTokens: ["National Union for Democracy and Progress", "UNDP"]
      wikidataQnode:  ["Q6979097"]
      ideologicalOrientation: ["right", "anticommunist"]
-    cpdmParty:
+    CpdmParty:
      stringTokens: ["People's Democratic Movement", "CPDM", "Cameroon People's Democratic Movement", "RDPC"]
      wikidataQnode:  ["Q953447"]
      ideologicalOrientation: ["bigTent", "nationalism", "populism", "francophile"]
   ## armed groups
-    bamosdarmedNonGovernmentalOrganizedGroup:
+    BamosdarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["BAKASSI FREEDOM FIGHTERS", "BAMOSD", " Bakassi Movement for Self-Determination"]
-     associatedEthnicGroup: ["oronEthnicGroup"]
+     associatedEthnicGroup: ["OronEthnicGroup"]
      wikidataQnode: ["Q4849025"]
      ideologicalOrientation: ["regionalIndependence"]
-    mddarmedNonGovernmentalOrganizedGroup:
+    MddarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["MOVEMENT FOR DEMOCRACY AND DEVELOPMENT", "MDD"]
      wikidataQnode: ["Q29414"]
-    mendarmedNonGovernmentalOrganizedGroup:
+    MendarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["MOVEMENT FOR THE EMANCIPATION OF THE NIGER DELTA", "MEND"]
      wikidataQnode: ["Q29414"]
-    adfarmedNonGovernmentalOrganizedGroup:
+    AdfarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ambazonia Defence Forces", "ADF"]
      associatedEthnicGroup: ["Ambazonian"]
      wikidataQnode: ["Q55603782"]
      associatedLinguisticGroup: ["englishLinguisticGroup"]
      ideologicalOrientation: ["regionalIndependence"]
-    sclcarmedNonGovernmentalOrganizedGroup:
+    SclcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Southern Cameroons Defence Forces", "SCLC"]
      associatedEthnicGroup: ["Ambazonian"]
      wikidataQnode: ["Q63443289"]
      ideologicalOrientation: ["regionalIndependence"]
-    bharmedNonGovernmentalOrganizedGroup:
+    BharmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Boko Haram"]
      wikidataQnode: ["Q212372"]
      ideologicalOrientation: ["islamist", "jihadism", "salafism", "wahhabism", "takfirism", "antiWest", "antiShia", "antiChristian"]
-    iswaparmedNonGovernmentalOrganizedGroup:
+    IswaparmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State West Africa"]
      wikidataQnode: ["Q86661119"]
      ideologicalOrientation: ["islamist", "jihadism", "salafism"]

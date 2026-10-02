@@ -41,52 +41,52 @@ concepts:
 
   ## linguisticgroups
    LambyaLinguisticGroup:
-     stringTokens: ["Lambya", "ChiLambya", "Chilambya]
+     stringTokens: ["Lambya", "ChiLambya", "Chilambya"]
      wikidataQnode: ["Q6481626"]
-     livesIn: [""]
-     associatedethnicgroup: ["Lambya people"]
+     livesIn: []
+     associatedEthnicGroup: ["Lambya people"]
 
    MalawiLomweLinguisticGroup:
      stringTokens: ["Malawi Lomwe"]
      wikidataQnode: ["Q10975286"]
      livesIn: ["Mulanje", "Thyolo"]
-     associatedethnicgroup: ["LomweEthnicGroup"]
+     associatedEthnicGroup: ["LomweEthnicGroup"]
    
    NyikaLinguisticGroup:
      stringTokens: ["Nyika"]
      wikidataQnode: ["Q16917497"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    ChewaLinguisticGroup:
      stringTokens: ["Chewa", "Chichewa", "Nyanja", "ny", "Chinyanja"]
      wikidataQnode: ["Q33273"]
-     livesIn: [""]
-     associatedethnicgroup: ["ChewaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["ChewaEthnicGroup"]
 
    SenaLinguisticGroup:
      stringTokens: ["Sena", "Chibarwe", "Mabarwe"]
      wikidataQnode: ["Q2964008"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    TongaLinguisticGroup:
      stringTokens: ["Tonga", "Chitonga"]
      wikidataQnode: ["Q3847648"]
      livesIn: ["Nkhata Bay District"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
    TumbukaLinguisticGroup:
      stringTokens: ["Tumbuka", "chiTumbuka", "tum"]
      wikidataQnode: ["Q34138"]
-     livesIn: [""]
-     associatedethnicgroup: ["TumbukaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["TumbukaEthnicGroup"]
 
    YaoLinguisticGroup:
      stringTokens: ["Yao"]
      wikidataQnode: ["Q36902"]
-     livesIn: [""]
-     associatedethnicgroup: ["YaoEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["YaoEthnicGroup"]
 
   ## politicalparties
    MCPParty:

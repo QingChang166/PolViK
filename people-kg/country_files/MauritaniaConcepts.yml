@@ -23,38 +23,38 @@ concepts:
      wikidataQnode: ["Q1584897"]
      languagesMostSpoken: ["Arabic"]
      religionsMostPracticed: ["Islam"]
-     livesIn: [""]
+     livesIn: []
 
   ## linguisticgroups
    HassaniyaArabicLinguisticGroup:
      stringTokens: ["Hassaniya Arabic", "Hassaniyya"]
      wikidataQnode: ["Q56231"]
-     livesIn: [""]
-     associatedethnicgrouo: ["BedaineEthnicGroup", "SahrawiEthnicGroup", "HaratinEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["BedaineEthnicGroup", "SahrawiEthnicGroup", "HaratinEthnicGroup"]
 
    PulaarLinguisticGroup:
      stringTokens: ["Pulaar", "Fula"]
      wikidataQnode: ["Q1420205"]
-     livesIn: [""]
-     associatedethnicgroup: ["Fula people", "Toucouleur", "Tukolor"]
+     livesIn: []
+     associatedEthnicGroup: ["Fula people", "Toucouleur", "Tukolor"]
 
    WolofLinguisticGroup:
      stringTokens: ["Wolof"]
      wikidataQnode: ["Q34257"]
-     livesIn: [""]
-     associatedethnicgroup: ["Wolof people"]
+     livesIn: []
+     associatedEthnicGroup: ["Wolof people"]
     
    SoninkeLinguisticGroup:
      stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
      wikidataQnode: ["Q36660"]
-     livesIn: [""]
-     associatedethnicgrouo: ["Soninke people", "Soninke"]
+     livesIn: []
+     associatedEthnicGroup: ["Soninke people", "Soninke"]
 
    ZenagaLinguisticGroup:
      stringTokens: ["Zenaga"]
      wikidataQnode: ["Q37005"]
      livesIn: ["Mederdra"]
-     associatedethnicgrouo: [""]
+     associatedEthnicGroup: []
 
   ## politicalparties
    RFDParty:
@@ -84,7 +84,7 @@ concepts:
    APPParty:
      stringTokens: ["People's Progressive Alliance"]
      wikidataQnode:  ["Q7165717"]
-     yearsActiveasParty: [""]
+     yearsActiveasParty: []
      ideologicalOrientation: ["centreLeft", "socialDemocracy", "nasserism"]
 
    UPRParty:
@@ -112,7 +112,7 @@ concepts:
      stringTokens: ["Socialist Democratic Unionist Party"]
      wikidataQnode:  ["Q7550404"]
      yearsActiveasParty: ["1994-present"]
-     associatedethnicgroup: ["Arab people"]
+     associatedEthnicGroup: ["Arab people"]
 
    ACParty:
      stringTokens: ["Action for Change"]
@@ -137,7 +137,7 @@ concepts:
   ## armed groups
    AQIMarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["al-Qaeda in the Islamic Maghreb"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q2635966"]
      ideologicalOrientation: ["islamist", "salafism", "jihadism", "antiWest", "antiZionism", "antiImperialism"]
   

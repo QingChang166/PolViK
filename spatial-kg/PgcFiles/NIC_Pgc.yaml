@@ -306,6 +306,6 @@ concepts:
     country: NIC
   145628Pgc:
     GID: NIC
-    conceptID: NIC_Adm0
+    conceptID: NIC.0_Adm0
     admin_name: Nicaragua
     country: NIC

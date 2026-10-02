@@ -46,16 +46,16 @@ concepts:
     country: GNB
   145768Pgc:
     GID: GNB
-    conceptID: GNB_Adm0
+    conceptID: GNB.0_Adm0
     admin_name: Guinea-Bissau
     country: GNB
   145769Pgc:
     GID: GNB
-    conceptID: GNB_Adm0
+    conceptID: GNB.0_Adm0
     admin_name: Guinea-Bissau
     country: GNB
   145049Pgc:
     GID: GNB
-    conceptID: GNB_Adm0
+    conceptID: GNB.0_Adm0
     admin_name: Guinea-Bissau
     country: GNB

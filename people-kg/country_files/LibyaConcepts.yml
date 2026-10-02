@@ -1,5 +1,5 @@
 concepts:
-   libyanSecurityForces:
+   LibyanSecurityForces:
      stringTokens: ["Libyan Armed Forces", "Libyan Arab Armed Forces", "Libyan military"]
      wikidataQnode: ["Q935288"]
   
@@ -11,21 +11,21 @@ concepts:
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Tripoli", "Al Bayda", "Tobruk"]
   
-   amazighEthnicGroup:
+   AmazighEthnicGroup:
      stringTokens: ["Amazigh", "Berber"]
      wikidataQnode: ["Q45315"]
      languagesMostSpoken: ["Berber languages", "Tamazight", "Arabic"]
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Jalu", "Fuqaha", "Zintan"]
   
-   tuaregEthnicGroup:
+   TuaregEthnicGroup:
      stringTokens: ["Tuareg", "Tuareg people"]
      wikidataQnode: ["Q58843"]
      languagesMostSpoken: ["Tuareg languages", "Tamahaq", "Tamasheq languages", "Tamazight"]
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Ghat", "Wadi al-Hayat", "Awbari", "Ghadames"]
   
-   toubouEthnicGroup:
+   ToubouEthnicGroup:
      stringTokens: ["Toubou", "Toubou people", "Tubu"]
      wikidataQnode: ["Q521547"]
      languagesMostSpoken: ["Tebu languages", "Arabic"]
@@ -37,173 +37,173 @@ concepts:
      stringTokens: ["Ghadamès", "Ghadames"]
      wikidataQnode: ["Q56747"]
      livesIn: ["Nalus District"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
    LibyanArabicLinguisticGroup:
      stringTokens: ["Libyan Arabic", "Sulaimitian Arabic"]
      wikidataQnode: ["Q56503"]
-     livesIn: [""]
-     associatedethnicgroup: ["arabEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["arabEthnicGroup"]
 
    NafusiLinguisticGroup:
      stringTokens: ["Nafusi", "Nefusi"]
      wikidataQnode: ["Q36151"]
      livesIn: ["Nafusi Mountains", "Jadu", "Nalut", "Yafran"]
-     associatedethnicgroup: ["Ibadi people"]
+     associatedEthnicGroup: ["Ibadi people"]
 
    SiwiLinguisticGroup:
      stringTokens: ["Siwi", "Siwan", "Siwa Berber"]
      wikidataQnode: ["Q36814"]
      livesIn: ["Al Jaghbub Oasis"]
-     associatedethnicgroup: ["Siwi"]
+     associatedEthnicGroup: ["Siwi"]
 
    TamahaqLinguisticGroup:
      stringTokens: ["Tamahaq", "Tahaggart Tamahaq", "Tamahaq Tahaggart"]
      wikidataQnode: ["Q56703"]
-     livesIn: [""]
-     associatedethnicgroup: ["tuaregEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["TuaregEthnicGroup"]
 
    TedaLinguisticGroup:
      stringTokens: ["Tedaga", "Teda"]
      wikidataQnode: ["Q36639"]
      livesIn: ["Murzuq"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
  
   ## politicalparties
-   jcpParty:
+   JcpParty:
      stringTokens: ["Justice and Construction Party", "Justice and Development Party"]
      wikidataQnode:  ["Q1584261"]
-     yearsActiveasParty: ["2012-Present"]
+     yearsActiveasParty: ["2012-present"]
   
-   asuParty:
+   AsuParty:
      stringTokens: ["Arab Socialist Union"]
      wikidataQnode:  ["Q8897236"]
      yearsActiveasParty: ["1971-1977"]
   
-   nfaParty:
+   NfaParty:
      stringTokens: ["National Forces Alliance"]
      wikidataQnode:  ["Q1338697"]
-     yearsActiveasParty: ["2012-Present"]
+     yearsActiveasParty: ["2012-present"]
      ideologicalOrientation: ["islamism", "nationalism", "bigTent", "economicLiberalism"]
   
-   nfpParty:
+   NfpParty:
      stringTokens: ["National Front Party"]
      wikidataQnode:  ["Q1148059"]
-     yearsActiveasParty: ["2012-Present"]
+     yearsActiveasParty: ["2012-present"]
      ideologicalOrientation: ["centreLeft", "progressivism", "liberalism"]
   
-   ufhParty:
+   UfhParty:
      stringTokens: ["Union for Homeland"]
      wikidataQnode:  ["Q1353163"]
-     yearsActiveasParty: ["2012-Present"]
+     yearsActiveasParty: ["2012-present"]
      ideologicalOrientation: ["centre", "regionalism", "localism", "populism"]
   
-   ncpParty:
+   NcpParty:
      stringTokens: ["National Centrist Party"]
      wikidataQnode:  ["Q1968205"]
-     yearsActiveasParty: ["2011-Present"]
+     yearsActiveasParty: ["2011-present"]
 
-   npfwParty:
+   NpfwParty:
      stringTokens: ["National Party for Development and Welfare"]
      wikidataQnode:  ["Q15980857"]
-     yearsActiveasParty: ["2012-Present"]
+     yearsActiveasParty: ["2012-present"]
   
-   wapdParty:
+   WapdParty:
      stringTokens: ["Wadi Al-Hayah Party for Democracy and Development"]
      wikidataQnode:  ["Q51430727"]
 
-   dpParty:
+   DpParty:
      stringTokens: ["Democtaric Party"]
      wikidataQnode:  ["Q1186280"]
-     yearsActiveasParty: ["2011-Present"]
+     yearsActiveasParty: ["2011-present"]
   
   ## armed groups
    ASLarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["ASL", "Ansar al-Sharia in Libya"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q4770519"]
      ideologicalOrientation: ["jihadism", "salafism", "islamist"]
   
    ARSCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ajdabiya Revolutionaries Shura Council"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q60747280"]
      ideologicalOrientation: ["islamist", "jihadism"]
   
    ADBbarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Anas al-Dabbashi brigade"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []
   
    ASarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Awlad Suleiman"]
      associatedEthnicGroup: ["Arab people"]
-     wikidataQnode: [""]
+     wikidataQnode: []
   
    ABASarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Awlad Busayf, Awlad Suleiman"]
      associatedEthnicGroup: ["Arab people"]
-     wikidataQnode: [""]
+     wikidataQnode: []
   
    SCBrarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Shura Council of Benghazi Revolutionaries"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q17502017"]
      ideologicalOrientation: ["islamist", "jihadism", "salafism"]
   
    LS1armedNonGovernmentalOrganizedGroup:
      stringTokens: ["Libya Shield 1"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q21070588"]
      ideologicalOrientation: ["islamist"]
   
    DPFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Derna Protection Force", "Derna Security Force"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q5487056"]
      ideologicalOrientation: ["islamist"]
   
    ANBarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Al-Nawasi Brigade"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []
   
    ISarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State", "Wilayah al-Fezzan", "Wilayah al-Tarabulus", "Wilayah Barqah"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q19824111"]
      ideologicalOrientation: ["islamist", "salafism", "jihadism"]
   
-   nfslarmedNonGovernmentalOrganizedGroup:
+   NfslarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Front for the Salvation of Libya", "NFSL"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q303024"]
-     yearsActiveasParty: ["1981-2012"]
+     yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1981-2012"]
      ideologicalOrientation: ["liberalism", "democracy"]
   
-   f17mbarmedNonGovernmentalOrganizedGroup:
+   F17mbarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["February 17th Martyrs Brigade"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q5439740"]
   
    ZBarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Zintan Brigades"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q8072456"]
   
  ## ProGovernment Militia
    TRBproGovernmentMilitia:
      stringTokens: ["Tripoli Revolutionaries Battalion", "TRB", "Free Tripoli Guardian", "Tripoli Brigade"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q1099248"]
   
    TPFproGovernmentMilitia:
      stringTokens: ["Tripoli Protection Force"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q62898014"]
 
    PFLLproGovernmentMilitia:
      stringTokens: ["Popular Front for the Liberation of Libya"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q59770463"]
      ideologicalOrientation: ["antiImperialism"]

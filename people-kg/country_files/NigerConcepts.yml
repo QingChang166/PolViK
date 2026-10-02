@@ -8,13 +8,13 @@ concepts:
      languagesMostSpoken: ["Hausa"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Maradi"]
-    zarmaEthnicGroup:
+    ZarmaEthnicGroup:
      stringTokens: ["Djerma-Songhai", "Zarma people", "Zarma", "Djerma"]
      wikidataQnode: ["Q148004"]
      languagesMostSpoken: ["Zarma"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Dosso", "Gaya", "Niamey", "Tchirozerine"]
-    tuaregEthnicGroup-Niger:
+    TuaregEthnicGroup-Niger:
      stringTokens: ["Tuareg", "Tuareg people"]
      wikidataQnode: ["Q58843"]
      languagesMostSpoken: ["Tuareg languages"]
@@ -32,7 +32,7 @@ concepts:
      languagesMostSpoken: ["Kanuri language"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Nguigmi", "N'Guigmi", "Diffa"]
-    gurmaEthnicGroup:
+    GurmaEthnicGroup:
      stringTokens: ["Gurma", "Gurma people"]
      wikidataQnode: ["Q1294392"]
      languagesMostSpoken: ["Gourmanché"]
@@ -44,7 +44,7 @@ concepts:
      languagesMostSpoken: ["Arabic"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Diffa"]
-    toubouEthnicGroup:
+    ToubouEthnicGroup:
      stringTokens: ["Toubou", "Toubou people", "Tubu"]
      wikidataQnode: ["Q521547"]
      languagesMostSpoken: ["Tebu languages", "Arabic"]
@@ -55,179 +55,179 @@ concepts:
      stringTokens: ["Kanuri"]
      wikidataQnode: ["Q36094"]
      livesIn: ["Diffa Region", "Zinder Region", "Agadez Region", "Zinder", "Diffa", "N'Guigmi", "Bilma"]
-     associatedethnicgroup: ["kanuriEthnicGroup"]
+     associatedEthnicGroup: ["kanuriEthnicGroup"]
     DazaLinguisticGroup:
      stringTokens: ["Daza", "Dazaga"]
      wikidataQnode: ["Q35244"]
      livesIn: ["BET Region", "Bahr el Gazel Region", "Batha", "Borkou", "Hadjer-Lamis", "Kanem", "Lac", "Wadi-Fira", "Diffa", "Zinder"]
-     associatedethnicgroup: ["Daza people", "Gouran people"]
+     associatedEthnicGroup: ["Daza people", "Gouran people"]
     DendiLinguisticGroup:
      stringTokens: ["Dendi"]
      wikidataQnode: ["Q35164"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
     GourmanchémaLinguisticGroup:
      stringTokens: ["Gourmanchéma", "Goulmacema", "Gourma", "Gourmantche", "Gulimancema", "Gulmancema", "Gurma", "Gourmanchéma"]
      wikidataQnode: ["Q35474"]
-     livesIn: [""]
-     associatedethnicgroup: ["Gurma people"]
+     livesIn: []
+     associatedEthnicGroup: ["Gurma people"]
     HausaLinguisticGroup:
      stringTokens: ["Hausa"]
      wikidataQnode: ["Q56475"]
-     livesIn: [""]
-     associatedethnicgroup: ["hausaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["hausaEthnicGroup"]
     LibyanArabicLinguisticGroup:
      stringTokens: ["Libyan Arabic"]
      wikidataQnode: ["Q56503"]
-     livesIn: [""]
-     associatedethnicgroup: ["ArabEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["ArabEthnicGroup"]
     ChadianArabicLinguisticGroup:
      stringTokens: ["Chadian Arabic", "Shuwa Arabic", "Shuwa", "Shua", "Suwa Arabic", "Baggara Arabic", "Western Sudanic Arabic"]
      wikidataQnode: ["Q56497"]
-     livesIn: [""]
-     associatedethnicgroup: ["ArabEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["ArabEthnicGroup"]
     TagdalLinguisticGroup:
      stringTokens: ["Tagdal", "Gadal"]
      wikidataQnode: ["Q36570"]
-     livesIn: [""]
-     associatedethnicgroup: ["Igdalen", "Iberogan"]
+     livesIn: []
+     associatedEthnicGroup: ["Igdalen", "Iberogan"]
     TamahaqLinguisticGroup:
      stringTokens: ["Tamahaq", "Tahaggart Tamahaq"]
      wikidataQnode: ["Q56703"]
-     livesIn: [""]
-     associatedethnicgroup: ["Tuareg people"]
+     livesIn: []
+     associatedEthnicGroup: ["Tuareg people"]
     TasawaqLinguisticGroup:
      stringTokens: ["Tasawaq"]
      wikidataQnode: ["Q36564"]
      livesIn: ["Agadez", "In-Gall"]
-     associatedethnicgroup: ["Isawaghan people", "Ingalkoyyu people"]
+     associatedEthnicGroup: ["Isawaghan people", "Ingalkoyyu people"]
     TawellemmetLinguisticGroup:
      stringTokens: ["Tawellemmet", "Tahoua", "Tawallammat Tamajaq"]
      wikidataQnode: ["Q56390"]
-     livesIn: [""]
-     associatedethnicgroup: ["Tuarag people"]
+     livesIn: []
+     associatedEthnicGroup: ["Tuarag people"]
     AirTamajeqLinguisticGroup:
      stringTokens: ["Air Tamajeq", "Tayart Tamajeq"]
      wikidataQnode: ["Q56388"]
      livesIn: ["Agadez"]
-     associatedethnicgroup: ["Tuareg people"]
+     associatedEthnicGroup: ["Tuareg people"]
     TedaLinguisticGroup:
      stringTokens: ["Teda", "Tedaga", "Todaga", "Todga", "Tudaga"]
      wikidataQnode: ["Q36639"]
      livesIn: ["Agadez"]
-     associatedethnicgroup: ["Teda people"]
+     associatedEthnicGroup: ["Teda people"]
     ZarmaLinguisticGroup:
      stringTokens: ["Zarma", "Djerma", "Dyabarma", "Dyarma", "Dyerma", "Adzerma", "Zabarma", "Zarbarma", "Zarmaci", "Zerma"]
      wikidataQnode: ["Q36990"]
      livesIn: ["Niamey"]
-     associatedethnicgroup: ["zarmaEthnicGroup"]
+     associatedEthnicGroup: ["ZarmaEthnicGroup"]
 ## politicalparties
-    rdrParty:
+    RdrParty:
      stringTokens: ["Democratic and Republican Renewal", "RDR-Tchanji"]
      wikidataQnode:  ["Q105800346"]
-    mnsdParty:
+    MnsdParty:
      stringTokens: ["National Movement for the Development of Society", "MNSD-Nassara"]
      wikidataQnode:  ["Q1968011"]
      associatedEthnicGroup: ["Zarma"]
      ideologicalOrientation: ["centreRight", "conservatism"]
-    andpParty:
+    AndpParty:
      stringTokens: ["Nigerien Alliance for Democracy and Progress", "ANDP-Zaman Lahiya"]
      wikidataQnode:  ["Q1621537"]
      associatedEthnicGroup: ["Zarma"]
-    modenfaParty:
+    ModenfaParty:
      stringTokens: ["Nigerien Democratic Movement for an African Federation", "MODEN/FA-Lumana"]
      wikidataQnode:  ["Q1421495"]
      associatedEthnicGroup: ["Fula"]
-    pndsParty:
+    PndsParty:
      stringTokens: ["Nigerien Party for Democracy and Socialism", "PNDS-Tarayya"]
      wikidataQnode:  ["Q1968253"]
      associatedEthnicGroup: ["Hausa"]
      ideologicalOrientation: ["centreLeft", "socialDemocracy"]
-    ppnrdaParty:
+    PpnrdaParty:
      stringTokens: ["Nigerien Progressive Party - African Democratic Ally", "PPN-RDA"]
      wikidataQnode:  ["Q1989838"]
-    mprParty:
+    MprParty:
      stringTokens: ["Patriotic Movement for the Republic", "MPR-Jamhuriya"]
      wikidataQnode:  ["Q23047556"]
      associatedEthnicGroup: ["Fulani"]
-    rdpParty:
+    RdpParty:
      stringTokens: ["Rally for Democracy and Progress", "RDP-Jama'a"]
      wikidataQnode:  ["Q1020868"]
      associatedEthnicGroup: ["Tuareg"]
-    rsdParty:
+    RsdParty:
      stringTokens: ["Social Democratic Rally", "RSD-Gaskiya"]
      wikidataQnode:  ["Q2305322"]
      associatedEthnicGroup: ["Fula"]
-    psdParty:
+    PsdParty:
      stringTokens: ["Social Democratic Party", "PSD-Bassira"]
      wikidataQnode:  ["Q23048040"]
-    sawabaParty:
+    SawabaParty:
      stringTokens: ["Union of Popular Forces for Democracy and Progress", "UDFP", "Sawaba"]
      wikidataQnode:  ["Q2045271"]
-    pdpParty:
+    PdpParty:
      stringTokens: ["Peoples Democratic Party", "PDP"]
      wikidataQnode:  ["Q1551163"]
-    nnppParty:
+    NnppParty:
      stringTokens: ["New Nigeria Peoples Party", "NNPP"]
      wikidataQnode:  ["Q118896450"]
      associatedEthnicGroup: ["Fulani"]
      location: ["Kano state"]
-    cprParty:
+    CprParty:
      stringTokens: ["Congress for the Republic", "CPR-Inganci"]
      wikidataQnode:  ["Q23023091"]
-    mpnParty:
+    MpnParty:
      stringTokens: ["Nigerien Patriotic Movement", "MPN-KIISHIN KASSA"]
      wikidataQnode:  ["Q23047570"]
-    ardParty:
+    ArdParty:
      stringTokens: ["Alliance for Democratic Renewal", "ARD Adaltchi-Mutuntchi"]
      wikidataQnode:  ["Q23048037"]
-    amenParty:
+    AmenParty:
      stringTokens: ["Alliance of Movements for the Emergence of Niger", "AMEN AMIN"]
      wikidataQnode:  ["Q23048035"]
 ## armed groups
-    mjrnarmedNonGovernmentalOrganizedGroup:
+    MjrnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for Justice and the Rehabilitation of Niger"]
-     associatedEthnicGroup: ["toubouEthnicGroup"]
+     associatedEthnicGroup: ["ToubouEthnicGroup"]
      wikidataQnode: ["Q28498964"]
      ideologicalOrientation: ["nationalism"]
-    mnjarmedNonGovernmentalOrganizedGroup:
+    MnjarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Nigerien's Movement for Justice", "MNJ"]
-     associatedEthnicGroup: ["tuaregEthnicGroup", "toubouEthnicGroup", "fulaniEthnicGroup"]
+     associatedEthnicGroup: ["TuaregEthnicGroup", "ToubouEthnicGroup", "fulaniEthnicGroup"]
      wikidataQnode: ["Q740688"]
-    rafsarmedNonGovernmentalOrganizedGroup:
+    RafsarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Revolutionary Armed Forces of the Sahara", "FARS", "RAFS"]
-     associatedEthnicGroup: ["toubouEthnicGroup"]
+     associatedEthnicGroup: ["ToubouEthnicGroup"]
      wikidataQnode: ["Q3076972"]
      ideologicalOrientation: ["regionalIndependence"]
-    mlnarmedNonGovernmentalOrganizedGroup:
+    MlnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for the Liberation of Niger", "MLN"]
-    isgsarmedNonGovernmentalOrganizedGroup:
+    IsgsarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State in the Greater Sahara", "IS-GS"]
      wikidataQnode: ["Q36504631"]
      ideologicalOrientation: ["islamist", "sunniIslam", "jihadism", "salafism"]
-    bharmedNonGovernmentalOrganizedGroup:
+    BharmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Boko Haram"]
      wikidataQnode: ["Q212372"]
      ideologicalOrientation: ["islamist", "salafism", "jihadism", "wahhabism", "antiWest", "takrifism", "antiShiaism", "antiChristian"]
-    flaaarmedNonGovernmentalOrganizedGroup:
+    FlaaarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Front for the Liberation of Aïr and Azaouak", "FLAA"]
      associatedEthnicGroup: ["TuaregEthnicGroup"]
-     ideologicalOrientation: ["regionalIndependence"
-    fpnarmedNonGovernmentalOrganizedGroup:
+     ideologicalOrientation: ["regionalIndependence"]
+    FpnarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Patriotic Front", "FPN"]
      associatedEthnicGroup: ["TuaregEthnicGroup"]
-    jnimarmedNonGovernmentalOrganizedGroup:
+    JnimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Jamaat Nusrat al-Islam wal-Muslimin", "JNIM", "Group for the Support of Islam and Muslims", "GSIM"]
      associatedEthnicGroup: ["FulaniEthnicGroup"]
-     ideologicalOrientation: ["salafism', "jihadism"]
-    ufraarmedNonGovernmentalOrganizedGroup:
+     ideologicalOrientation: ["salafism", "jihadism"]
+    UfraarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Union of Forces of the Armed Resistance", "UFRA"]
      associatedEthnicGroup: ["TuaregEthnicGroup"]
-    aqimarmedNonGovernmentalOrganizedGroup:
+    AqimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["AQIM", "Qaida al-Jihad fi Bilad al-Maghrib al-Islami", "al-Qaida Organisation in the Islamic Maghreb"]
      wikidataQnode: ["Q2635966"]
      ideologicalOrientation: ["salafism", "jihadism", "antiZionism", "antiWest", "antiImperialism"]
-    craarmedNonGovernmentalOrganizedGroup:
+    CraarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["CRA", "Coordination de la résistance armée", "Coordination of the Armed Resistance"]
      associatedEthnicGroup: ["TuaregEthnicGroup"]
 

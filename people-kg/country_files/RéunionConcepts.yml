@@ -23,7 +23,7 @@ concepts:
      wikidataQnode: ["Q385967"]
      languagesMostSpoken: ["English"]
      religionsMostPracticed: ["Christianity"]
-     livesIn: [""]
+     livesIn: []
     
    ZarabesEthnicGroup:
      stringTokens: ["Zarabes"]
@@ -34,7 +34,7 @@ concepts:
 
    MalbarsEthnicGroup:
      stringTokens: ["Malbars"]
-     wikidataQnode: [""]
+     wikidataQnode: []
      languagesMostSpoken: ["French"]
      religionsMostPracticed: ["Hindu"]
      livesIn: ["Saint-Denis"]
@@ -50,7 +50,7 @@ concepts:
    RéunionCreoleLinguisticGroup:
      stringTokens: ["Réunion Creole", "Reunionese Creole", "Réunion Creole French", "Kréol Réyoné", "Créole Réunionnais", "Reunion Creole", "Reunion Creole French", "Kreol Reyone", "Creole Reunionnais"]
      wikidataQnode: ["Q13198"]
-     livesIn: [""]
+     livesIn: []
     
   ## politicalparties
    PCRParty:

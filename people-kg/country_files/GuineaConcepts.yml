@@ -50,146 +50,146 @@ concepts:
    BadyaraLinguisticGroup:
      stringTokens: ["Badyara"]
      wikidataQnode: ["Q35095"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
      
    BagaLinguisticGroup:
      stringTokens: ["Baga", "Barka"]
      wikidataQnode: ["Q35005"]
-     livesIn: [""]
-     associatedethnicgroup: ["Baga people"]
+     livesIn: []
+     associatedEthnicGroup: ["Baga people"]
 
    BassariLinguisticGroup:
      stringTokens: ["Bassari", "Basari", "Oniyan", "Onian", "Onëyan", "Ayan", "Biyan", "Wo"]
      wikidataQnode: ["Q35098"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bassari people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bassari people"]
 
    DanLinguisticGroup:
      stringTokens: ["Dan", "Yacouba", "Yaoba", "Yakubasa", "Gio", "Gyo", "Gio-Dan", "Da"]
      wikidataQnode: ["Q1158971"]
-     livesIn: [""]
-     associatedethnicgroup: ["Dan people"]
+     livesIn: []
+     associatedEthnicGroup: ["Dan people"]
 
    LimbaLinguisticGroup:
      stringTokens: ["Limba"]
      wikidataQnode: ["Q35825"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    ManinkaLinguisticGroup:
      stringTokens: ["Maninka", "Malinke", "Eastern Maninka"]
      wikidataQnode: ["Q36186"]
-     livesIn: [""]
-     associatedethnicgroup: ["MalinkaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["MalinkaEthnicGroup"]
 
    KpelleLinguisticGroup:
      stringTokens: ["Kpelle"]
      wikidataQnode: ["Q35673"]
-     livesIn: [""]
-     associatedethnicgroup: ["KpelleEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["KpelleEthnicGroup"]
 
    JahankaLinguisticGroup:
      stringTokens: ["Jahanka"]
      wikidataQnode: ["Q3913992"]
      livesIn: ["Boké", "Gabu"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
    KakabeLinguisticGroup:
      stringTokens: ["Kakabe"]
      wikidataQnode: ["Q3913966"]
      livesIn: ["Futa-Jallon plateau"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
    KonoLinguisticGroup:
      stringTokens: ["Kono", "Kpelle"]
      wikidataQnode: ["Q35673"]
-     livesIn: [""]
-     associatedethnicgroup: ["Kpelle people"]
+     livesIn: []
+     associatedEthnicGroup: ["Kpelle people"]
 
    KurankoLinguisticGroup:
      stringTokens: ["Kuranko"]
      wikidataQnode: ["Q3198896"]
-     livesIn: [""]
-     associatedethnicgroup: ["Kuranko people"]
+     livesIn: []
+     associatedEthnicGroup: ["Kuranko people"]
 
    LandomaLinguisticGroup:
      stringTokens: ["Landoma", "Landouman", "Landuma", "Cocoli", "Cikogoli"]
      wikidataQnode: ["Q35568"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    LeleLinguisticGroup:
      stringTokens: ["Lele"]
      wikidataQnode: ["Q6520837"]
      livesIn: ["Kissidougou", "Guéckédou Prefectures"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
    ManoLinguisticGroup:
      stringTokens: ["Mano", "Maa", "Mah", "Mawe"]
      wikidataQnode: ["Q3913286"]
      livesIn: ["Nzérékoré", "Lola", "Yomou"]
-     associatedethnicgroup: ["Mano people"]
+     associatedEthnicGroup: ["Mano people"]
 
    MixiforeLinguisticGroup:
      stringTokens: ["Mixifore", "Mogofin"]
      wikidataQnode: ["Q3914478"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    NaluLinguisticGroup:
      stringTokens: ["Nalu", "Nalou"]
      wikidataQnode: ["Q36026"]
-     livesIn: [""]
-     associatedethnicgroup: ["Nalu people"]
+     livesIn: []
+     associatedEthnicGroup: ["Nalu people"]
 
    KissiLinguisticGroup:
      stringTokens: ["Kissi", "Kisi"]
      wikidataQnode: ["Q35696"]
      livesIn: ["Kissidougou", "Guéckédou"]
-     associatedethnicgroup: ["KisiiEthnicGroup"]
+     associatedEthnicGroup: ["KisiiEthnicGroup"]
 
    N’KoLinguisticGroup:
      stringTokens: ["N’Ko"]
      wikidataQnode: ["Q18546266"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    PularLinguisticGroup:
-     stringTokens: ["Pular, "pulaar""]
+     stringTokens: ["Pular", "pulaar"]
      wikidataQnode: ["Q3915357"]
      livesIn: ["Fouta Djallon"]
-     associatedethnicgroup: ["FulaEthnicGroup"]
+     associatedEthnicGroup: ["FulaEthnicGroup"]
 
    SoninkeLinguisticGroup:
      stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
      wikidataQnode: ["Q36660"]
-     livesIn: [""]
-     associatedethnicgroup: ["Soninke people"]
+     livesIn: []
+     associatedEthnicGroup: ["Soninke people"]
 
    SusuLinguisticGroup:
      stringTokens: ["Susu", "Soso"]
      wikidataQnode: ["Q33990"]
-     livesIn: [""]
-     associatedethnicgroup: ["SusuEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["SusuEthnicGroup"]
 
    LomaLinguisticGroup:
      stringTokens: ["Loghoma", "Looma", "Lorma", "Toma", "Loma"]
      wikidataQnode: ["Q35885"]
-     livesIn: [""]
-     associatedethnicgroup: ["LomaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["LomaEthnicGroup"]
 
    WameyLinguisticGroup:
      stringTokens: ["Wamey", "Konyagi"]
      wikidataQnode: ["Q36935"]
-     livesIn: [""]
-     associatedethnicgroup: ["Konyagui people"]
+     livesIn: []
+     associatedEthnicGroup: ["Konyagui people"]
 
    YalunkaLinguisticGroup:
      stringTokens: ["Yalunka", "Jalonke", "Kjalonke", "Dyalonké", "Djallonké", "Dialonké"]
      wikidataQnode: ["Q35524"]
-     livesIn: [""]
-     associatedethnicgroup: ["Yalunka people"]
+     livesIn: []
+     associatedEthnicGroup: ["Yalunka people"]
    
   ## politicalparties
    PRGParty:
@@ -265,37 +265,37 @@ concepts:
   ## armed groups
    RDFGarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Rally of Democratic Forces of Guinea"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q18393334"]
   
    AFRCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Armed Forces Revolutionary Council", "AFRC"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q4793014"]
   
    LDFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Lofa Defense Force"]
-     associatedEthnicGroup: ["lomaEthnicGroup"]
+     associatedEthnicGroup: ["LomaEthnicGroup"]
      wikidataQnode: ["Q6666641"]
   
    ULIMOKarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["ULIMO", "United Liberation Movement for Democracy in Liberia"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q7888232"]
   
    RUFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Revolutionary United Front"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q1141973"]
   
  ## ProGovernment Militia
    
    CamaraproGovernmentMilitia:
      stringTokens: ["Camara's Militias"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []
 
    DonzosproGovernmentMilitia:
      stringTokens: ["Donzos Militia"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []

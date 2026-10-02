@@ -26,6 +26,6 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, JAK-TarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, TARarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ASTarmedNonGovernmentalOrganizedGroup)
-  - (armedNonGovernmentalOrganizedGroup, alQaedaarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, AlQaedaarmedNonGovernmentalOrganizedGroup)
   - (proGovernmentMilitia, LPRproGovernmentMilitia)
   - (LinguisticGroup, TunisianarabicLinguisticGroup)

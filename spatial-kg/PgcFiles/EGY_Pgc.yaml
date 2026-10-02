@@ -2036,6 +2036,6 @@ concepts:
     country: EGY
   175384Pgc:
     GID: EGY
-    conceptID: EGY_Adm0
+    conceptID: EGY.0_Adm0
     admin_name: Egypt
     country: EGY

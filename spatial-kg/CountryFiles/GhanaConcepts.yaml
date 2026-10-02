@@ -5,1658 +5,1658 @@ concepts:
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm0
-  GHA1_2_Adm1:
-    GID: GHA1_2
+  GHA.1_2_Adm1:
+    GID: GHA.1_2
     admin_name: Ahafo
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA1.1_2_Adm2:
-    GID: GHA1.1_2
+  GHA.1.1_2_Adm2:
+    GID: GHA.1.1_2
     admin_name: Asunafo North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA1.2_2_Adm2:
-    GID: GHA1.2_2
+  GHA.1.2_2_Adm2:
+    GID: GHA.1.2_2
     admin_name: Asunafo South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA1.3_2_Adm2:
-    GID: GHA1.3_2
+  GHA.1.3_2_Adm2:
+    GID: GHA.1.3_2
     admin_name: Asutifi North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA1.4_2_Adm2:
-    GID: GHA1.4_2
+  GHA.1.4_2_Adm2:
+    GID: GHA.1.4_2
     admin_name: Asutifi South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA1.5_2_Adm2:
-    GID: GHA1.5_2
+  GHA.1.5_2_Adm2:
+    GID: GHA.1.5_2
     admin_name: Tano North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA1.6_2_Adm2:
-    GID: GHA1.6_2
+  GHA.1.6_2_Adm2:
+    GID: GHA.1.6_2
     admin_name: Tano South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA10_2_Adm1:
-    GID: GHA10_2
+  GHA.10_2_Adm1:
+    GID: GHA.10_2
     admin_name: Oti
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA10.1_2_Adm2:
-    GID: GHA10.1_2
+  GHA.10.1_2_Adm2:
+    GID: GHA.10.1_2
     admin_name: Biakoye
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA10.2_2_Adm2:
-    GID: GHA10.2_2
+  GHA.10.2_2_Adm2:
+    GID: GHA.10.2_2
     admin_name: Jasikan
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA10.3_2_Adm2:
-    GID: GHA10.3_2
+  GHA.10.3_2_Adm2:
+    GID: GHA.10.3_2
     admin_name: Kadjebi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA10.4_2_Adm2:
-    GID: GHA10.4_2
+  GHA.10.4_2_Adm2:
+    GID: GHA.10.4_2
     admin_name: Krachi East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA10.5_2_Adm2:
-    GID: GHA10.5_2
+  GHA.10.5_2_Adm2:
+    GID: GHA.10.5_2
     admin_name: Krachi Nchumuru
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA10.6_2_Adm2:
-    GID: GHA10.6_2
+  GHA.10.6_2_Adm2:
+    GID: GHA.10.6_2
     admin_name: Krachi West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA10.7_2_Adm2:
-    GID: GHA10.7_2
+  GHA.10.7_2_Adm2:
+    GID: GHA.10.7_2
     admin_name: Nkwanta North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA10.8_2_Adm2:
-    GID: GHA10.8_2
+  GHA.10.8_2_Adm2:
+    GID: GHA.10.8_2
     admin_name: Nkwanta South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA11_2_Adm1:
-    GID: GHA11_2
+  GHA.11_2_Adm1:
+    GID: GHA.11_2
     admin_name: Savannah
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA11.1_2_Adm2:
-    GID: GHA11.1_2
+  GHA.11.1_2_Adm2:
+    GID: GHA.11.1_2
     admin_name: Bole
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA11.2_2_Adm2:
-    GID: GHA11.2_2
+  GHA.11.2_2_Adm2:
+    GID: GHA.11.2_2
     admin_name: Central Gonja
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA11.3_2_Adm2:
-    GID: GHA11.3_2
+  GHA.11.3_2_Adm2:
+    GID: GHA.11.3_2
     admin_name: East Gonja
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA11.4_2_Adm2:
-    GID: GHA11.4_2
+  GHA.11.4_2_Adm2:
+    GID: GHA.11.4_2
     admin_name: North East Gonja
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA11.5_2_Adm2:
-    GID: GHA11.5_2
+  GHA.11.5_2_Adm2:
+    GID: GHA.11.5_2
     admin_name: North Gonja
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA11.6_2_Adm2:
-    GID: GHA11.6_2
+  GHA.11.6_2_Adm2:
+    GID: GHA.11.6_2
     admin_name: Sawla-Tuna-Kalba
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA11.7_2_Adm2:
-    GID: GHA11.7_2
+  GHA.11.7_2_Adm2:
+    GID: GHA.11.7_2
     admin_name: West Gonja
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12_2_Adm1:
-    GID: GHA12_2
+  GHA.12_2_Adm1:
+    GID: GHA.12_2
     admin_name: Upper East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA12.1_2_Adm2:
-    GID: GHA12.1_2
+  GHA.12.1_2_Adm2:
+    GID: GHA.12.1_2
     admin_name: Bawku
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.10_2_Adm2:
-    GID: GHA12.10_2
+  GHA.12.10_2_Adm2:
+    GID: GHA.12.10_2
     admin_name: Kasena Nankana East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.11_2_Adm2:
-    GID: GHA12.11_2
+  GHA.12.11_2_Adm2:
+    GID: GHA.12.11_2
     admin_name: Kasena Nankana West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.12_2_Adm2:
-    GID: GHA12.12_2
+  GHA.12.12_2_Adm2:
+    GID: GHA.12.12_2
     admin_name: Nabdam
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.13_2_Adm2:
-    GID: GHA12.13_2
+  GHA.12.13_2_Adm2:
+    GID: GHA.12.13_2
     admin_name: Pusiga
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.14_2_Adm2:
-    GID: GHA12.14_2
+  GHA.12.14_2_Adm2:
+    GID: GHA.12.14_2
     admin_name: Talensi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.15_2_Adm2:
-    GID: GHA12.15_2
+  GHA.12.15_2_Adm2:
+    GID: GHA.12.15_2
     admin_name: Tempane
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.2_2_Adm2:
-    GID: GHA12.2_2
+  GHA.12.2_2_Adm2:
+    GID: GHA.12.2_2
     admin_name: Bawku West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.3_2_Adm2:
-    GID: GHA12.3_2
+  GHA.12.3_2_Adm2:
+    GID: GHA.12.3_2
     admin_name: Binduri
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.4_2_Adm2:
-    GID: GHA12.4_2
+  GHA.12.4_2_Adm2:
+    GID: GHA.12.4_2
     admin_name: Bolga East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.5_2_Adm2:
-    GID: GHA12.5_2
+  GHA.12.5_2_Adm2:
+    GID: GHA.12.5_2
     admin_name: Bolgatanga
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.6_2_Adm2:
-    GID: GHA12.6_2
+  GHA.12.6_2_Adm2:
+    GID: GHA.12.6_2
     admin_name: Bongo
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.7_2_Adm2:
-    GID: GHA12.7_2
+  GHA.12.7_2_Adm2:
+    GID: GHA.12.7_2
     admin_name: Builsa North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.8_2_Adm2:
-    GID: GHA12.8_2
+  GHA.12.8_2_Adm2:
+    GID: GHA.12.8_2
     admin_name: Builsa South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA12.9_2_Adm2:
-    GID: GHA12.9_2
+  GHA.12.9_2_Adm2:
+    GID: GHA.12.9_2
     admin_name: Garu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13_2_Adm1:
-    GID: GHA13_2
+  GHA.13_2_Adm1:
+    GID: GHA.13_2
     admin_name: Upper West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA13.1_2_Adm2:
-    GID: GHA13.1_2
+  GHA.13.1_2_Adm2:
+    GID: GHA.13.1_2
     admin_name: Daffiama-Bussie-Issa
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.10_2_Adm2:
-    GID: GHA13.10_2
+  GHA.13.10_2_Adm2:
+    GID: GHA.13.10_2
     admin_name: Wa East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.11_2_Adm2:
-    GID: GHA13.11_2
+  GHA.13.11_2_Adm2:
+    GID: GHA.13.11_2
     admin_name: Wa West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.2_2_Adm2:
-    GID: GHA13.2_2
+  GHA.13.2_2_Adm2:
+    GID: GHA.13.2_2
     admin_name: Jirapa
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.3_2_Adm2:
-    GID: GHA13.3_2
+  GHA.13.3_2_Adm2:
+    GID: GHA.13.3_2
     admin_name: Lambussie-Karni
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.4_2_Adm2:
-    GID: GHA13.4_2
+  GHA.13.4_2_Adm2:
+    GID: GHA.13.4_2
     admin_name: Lawra
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.5_2_Adm2:
-    GID: GHA13.5_2
+  GHA.13.5_2_Adm2:
+    GID: GHA.13.5_2
     admin_name: Nadowli-Kaleo
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.6_2_Adm2:
-    GID: GHA13.6_2
+  GHA.13.6_2_Adm2:
+    GID: GHA.13.6_2
     admin_name: Nandom
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.7_2_Adm2:
-    GID: GHA13.7_2
+  GHA.13.7_2_Adm2:
+    GID: GHA.13.7_2
     admin_name: Sissala East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.8_2_Adm2:
-    GID: GHA13.8_2
+  GHA.13.8_2_Adm2:
+    GID: GHA.13.8_2
     admin_name: Sissala West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA13.9_2_Adm2:
-    GID: GHA13.9_2
+  GHA.13.9_2_Adm2:
+    GID: GHA.13.9_2
     admin_name: Wa Municipal
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14_2_Adm1:
-    GID: GHA14_2
+  GHA.14_2_Adm1:
+    GID: GHA.14_2
     admin_name: Volta
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA14.1_2_Adm2:
-    GID: GHA14.1_2
+  GHA.14.1_2_Adm2:
+    GID: GHA.14.1_2
     admin_name: Adaklu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.10_2_Adm2:
-    GID: GHA14.10_2
+  GHA.14.10_2_Adm2:
+    GID: GHA.14.10_2
     admin_name: Hohoe
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.11_2_Adm2:
-    GID: GHA14.11_2
+  GHA.14.11_2_Adm2:
+    GID: GHA.14.11_2
     admin_name: Keta Municipal
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.12_2_Adm2:
-    GID: GHA14.12_2
+  GHA.14.12_2_Adm2:
+    GID: GHA.14.12_2
     admin_name: Ketu North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.13_2_Adm2:
-    GID: GHA14.13_2
+  GHA.14.13_2_Adm2:
+    GID: GHA.14.13_2
     admin_name: Ketu South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.14_2_Adm2:
-    GID: GHA14.14_2
+  GHA.14.14_2_Adm2:
+    GID: GHA.14.14_2
     admin_name: Kpando
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.15_2_Adm2:
-    GID: GHA14.15_2
+  GHA.14.15_2_Adm2:
+    GID: GHA.14.15_2
     admin_name: North Dayi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.16_2_Adm2:
-    GID: GHA14.16_2
+  GHA.14.16_2_Adm2:
+    GID: GHA.14.16_2
     admin_name: North Tongu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.17_2_Adm2:
-    GID: GHA14.17_2
+  GHA.14.17_2_Adm2:
+    GID: GHA.14.17_2
     admin_name: South Dayi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.18_2_Adm2:
-    GID: GHA14.18_2
+  GHA.14.18_2_Adm2:
+    GID: GHA.14.18_2
     admin_name: South Tongu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.2_2_Adm2:
-    GID: GHA14.2_2
+  GHA.14.2_2_Adm2:
+    GID: GHA.14.2_2
     admin_name: Afadzato South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.3_2_Adm2:
-    GID: GHA14.3_2
+  GHA.14.3_2_Adm2:
+    GID: GHA.14.3_2
     admin_name: Agotime Ziope
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.4_2_Adm2:
-    GID: GHA14.4_2
+  GHA.14.4_2_Adm2:
+    GID: GHA.14.4_2
     admin_name: Akatsi North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.5_2_Adm2:
-    GID: GHA14.5_2
+  GHA.14.5_2_Adm2:
+    GID: GHA.14.5_2
     admin_name: Akatsi South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.6_2_Adm2:
-    GID: GHA14.6_2
+  GHA.14.6_2_Adm2:
+    GID: GHA.14.6_2
     admin_name: Anloga
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.7_2_Adm2:
-    GID: GHA14.7_2
+  GHA.14.7_2_Adm2:
+    GID: GHA.14.7_2
     admin_name: Central Tongu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.8_2_Adm2:
-    GID: GHA14.8_2
+  GHA.14.8_2_Adm2:
+    GID: GHA.14.8_2
     admin_name: Ho Municipal
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA14.9_2_Adm2:
-    GID: GHA14.9_2
+  GHA.14.9_2_Adm2:
+    GID: GHA.14.9_2
     admin_name: Ho West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15_2_Adm1:
-    GID: GHA15_2
+  GHA.15_2_Adm1:
+    GID: GHA.15_2
     admin_name: Western
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA15.1_2_Adm2:
-    GID: GHA15.1_2
+  GHA.15.1_2_Adm2:
+    GID: GHA.15.1_2
     admin_name: Ahanta West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.10_2_Adm2:
-    GID: GHA15.10_2
+  GHA.15.10_2_Adm2:
+    GID: GHA.15.10_2
     admin_name: Tarkwa Nsuaem
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.11_2_Adm2:
-    GID: GHA15.11_2
+  GHA.15.11_2_Adm2:
+    GID: GHA.15.11_2
     admin_name: Wassa Amenfi Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.12_2_Adm2:
-    GID: GHA15.12_2
+  GHA.15.12_2_Adm2:
+    GID: GHA.15.12_2
     admin_name: Wassa Amenfi East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.13_2_Adm2:
-    GID: GHA15.13_2
+  GHA.15.13_2_Adm2:
+    GID: GHA.15.13_2
     admin_name: Wassa Amenfi West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.14_2_Adm2:
-    GID: GHA15.14_2
+  GHA.15.14_2_Adm2:
+    GID: GHA.15.14_2
     admin_name: Wassa East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.2_2_Adm2:
-    GID: GHA15.2_2
+  GHA.15.2_2_Adm2:
+    GID: GHA.15.2_2
     admin_name: Effia Kwesimintsim
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.3_2_Adm2:
-    GID: GHA15.3_2
+  GHA.15.3_2_Adm2:
+    GID: GHA.15.3_2
     admin_name: Ellembelle
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.4_2_Adm2:
-    GID: GHA15.4_2
+  GHA.15.4_2_Adm2:
+    GID: GHA.15.4_2
     admin_name: Jomoro
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.5_2_Adm2:
-    GID: GHA15.5_2
+  GHA.15.5_2_Adm2:
+    GID: GHA.15.5_2
     admin_name: Mpohor
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.6_2_Adm2:
-    GID: GHA15.6_2
+  GHA.15.6_2_Adm2:
+    GID: GHA.15.6_2
     admin_name: Nzema East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.7_2_Adm2:
-    GID: GHA15.7_2
+  GHA.15.7_2_Adm2:
+    GID: GHA.15.7_2
     admin_name: Prestea-Huni Valley
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.8_2_Adm2:
-    GID: GHA15.8_2
+  GHA.15.8_2_Adm2:
+    GID: GHA.15.8_2
     admin_name: Sekondi Takoradi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA15.9_2_Adm2:
-    GID: GHA15.9_2
+  GHA.15.9_2_Adm2:
+    GID: GHA.15.9_2
     admin_name: Shama
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16_2_Adm1:
-    GID: GHA16_2
+  GHA.16_2_Adm1:
+    GID: GHA.16_2
     admin_name: Western North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA16.1_2_Adm2:
-    GID: GHA16.1_2
+  GHA.16.1_2_Adm2:
+    GID: GHA.16.1_2
     admin_name: Aowin
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16.2_2_Adm2:
-    GID: GHA16.2_2
+  GHA.16.2_2_Adm2:
+    GID: GHA.16.2_2
     admin_name: Bia East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16.3_2_Adm2:
-    GID: GHA16.3_2
+  GHA.16.3_2_Adm2:
+    GID: GHA.16.3_2
     admin_name: Bia West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16.4_2_Adm2:
-    GID: GHA16.4_2
+  GHA.16.4_2_Adm2:
+    GID: GHA.16.4_2
     admin_name: Bibiani-Anhwiaso-Bekwai-
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16.5_2_Adm2:
-    GID: GHA16.5_2
+  GHA.16.5_2_Adm2:
+    GID: GHA.16.5_2
     admin_name: Bodi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16.6_2_Adm2:
-    GID: GHA16.6_2
+  GHA.16.6_2_Adm2:
+    GID: GHA.16.6_2
     admin_name: Juaboso
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16.7_2_Adm2:
-    GID: GHA16.7_2
+  GHA.16.7_2_Adm2:
+    GID: GHA.16.7_2
     admin_name: Sefwi-Wiawso
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16.8_2_Adm2:
-    GID: GHA16.8_2
+  GHA.16.8_2_Adm2:
+    GID: GHA.16.8_2
     admin_name: Sefwi-Akontombra
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA16.9_2_Adm2:
-    GID: GHA16.9_2
+  GHA.16.9_2_Adm2:
+    GID: GHA.16.9_2
     admin_name: Suaman
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2_2_Adm1:
-    GID: GHA2_2
+  GHA.2_2_Adm1:
+    GID: GHA.2_2
     admin_name: Ashanti
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA2.1_2_Adm2:
-    GID: GHA2.1_2
+  GHA.2.1_2_Adm2:
+    GID: GHA.2.1_2
     admin_name: Adansi Akrofuom
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.10_2_Adm2:
-    GID: GHA2.10_2
+  GHA.2.10_2_Adm2:
+    GID: GHA.2.10_2
     admin_name: Amansie Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.11_2_Adm2:
-    GID: GHA2.11_2
+  GHA.2.11_2_Adm2:
+    GID: GHA.2.11_2
     admin_name: Amansie South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.12_2_Adm2:
-    GID: GHA2.12_2
+  GHA.2.12_2_Adm2:
+    GID: GHA.2.12_2
     admin_name: Amansie West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.13_2_Adm2:
-    GID: GHA2.13_2
+  GHA.2.13_2_Adm2:
+    GID: GHA.2.13_2
     admin_name: Asante-Akim Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.14_2_Adm2:
-    GID: GHA2.14_2
+  GHA.2.14_2_Adm2:
+    GID: GHA.2.14_2
     admin_name: Asante-Akim North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.15_2_Adm2:
-    GID: GHA2.15_2
+  GHA.2.15_2_Adm2:
+    GID: GHA.2.15_2
     admin_name: Asante-Akim South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.16_2_Adm2:
-    GID: GHA2.16_2
+  GHA.2.16_2_Adm2:
+    GID: GHA.2.16_2
     admin_name: Asokore-Mampong
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.17_2_Adm2:
-    GID: GHA2.17_2
+  GHA.2.17_2_Adm2:
+    GID: GHA.2.17_2
     admin_name: Asokwa
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.18_2_Adm2:
-    GID: GHA2.18_2
+  GHA.2.18_2_Adm2:
+    GID: GHA.2.18_2
     admin_name: Atwima-Kwanwoma
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.19_2_Adm2:
-    GID: GHA2.19_2
+  GHA.2.19_2_Adm2:
+    GID: GHA.2.19_2
     admin_name: Atwima-Mponua
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.2_2_Adm2:
-    GID: GHA2.2_2
+  GHA.2.2_2_Adm2:
+    GID: GHA.2.2_2
     admin_name: Adansi Asokwa
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.20_2_Adm2:
-    GID: GHA2.20_2
+  GHA.2.20_2_Adm2:
+    GID: GHA.2.20_2
     admin_name: Atwima-Nwabiagya North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.21_2_Adm2:
-    GID: GHA2.21_2
+  GHA.2.21_2_Adm2:
+    GID: GHA.2.21_2
     admin_name: Atwima-Nwabiagya South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.22_2_Adm2:
-    GID: GHA2.22_2
+  GHA.2.22_2_Adm2:
+    GID: GHA.2.22_2
     admin_name: Bekwai
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.23_2_Adm2:
-    GID: GHA2.23_2
+  GHA.2.23_2_Adm2:
+    GID: GHA.2.23_2
     admin_name: Bosome Freho
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.24_2_Adm2:
-    GID: GHA2.24_2
+  GHA.2.24_2_Adm2:
+    GID: GHA.2.24_2
     admin_name: Bosomtwe
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.25_2_Adm2:
-    GID: GHA2.25_2
+  GHA.2.25_2_Adm2:
+    GID: GHA.2.25_2
     admin_name: Ejisu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.26_2_Adm2:
-    GID: GHA2.26_2
+  GHA.2.26_2_Adm2:
+    GID: GHA.2.26_2
     admin_name: Ejura-Sekyedumase
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.27_2_Adm2:
-    GID: GHA2.27_2
+  GHA.2.27_2_Adm2:
+    GID: GHA.2.27_2
     admin_name: Juaben
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.28_2_Adm2:
-    GID: GHA2.28_2
+  GHA.2.28_2_Adm2:
+    GID: GHA.2.28_2
     admin_name: Kumasi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.29_2_Adm2:
-    GID: GHA2.29_2
+  GHA.2.29_2_Adm2:
+    GID: GHA.2.29_2
     admin_name: Kwabre East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.3_2_Adm2:
-    GID: GHA2.3_2
+  GHA.2.3_2_Adm2:
+    GID: GHA.2.3_2
     admin_name: Adansi North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.30_2_Adm2:
-    GID: GHA2.30_2
+  GHA.2.30_2_Adm2:
+    GID: GHA.2.30_2
     admin_name: Kwadaso
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.31_2_Adm2:
-    GID: GHA2.31_2
+  GHA.2.31_2_Adm2:
+    GID: GHA.2.31_2
     admin_name: Mampong
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.32_2_Adm2:
-    GID: GHA2.32_2
+  GHA.2.32_2_Adm2:
+    GID: GHA.2.32_2
     admin_name: Obuasi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.33_2_Adm2:
-    GID: GHA2.33_2
+  GHA.2.33_2_Adm2:
+    GID: GHA.2.33_2
     admin_name: Obuasi East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.34_2_Adm2:
-    GID: GHA2.34_2
+  GHA.2.34_2_Adm2:
+    GID: GHA.2.34_2
     admin_name: Offinso
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.35_2_Adm2:
-    GID: GHA2.35_2
+  GHA.2.35_2_Adm2:
+    GID: GHA.2.35_2
     admin_name: Offinso North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.36_2_Adm2:
-    GID: GHA2.36_2
+  GHA.2.36_2_Adm2:
+    GID: GHA.2.36_2
     admin_name: Oforikrom
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.37_2_Adm2:
-    GID: GHA2.37_2
+  GHA.2.37_2_Adm2:
+    GID: GHA.2.37_2
     admin_name: Old Tafo
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.38_2_Adm2:
-    GID: GHA2.38_2
+  GHA.2.38_2_Adm2:
+    GID: GHA.2.38_2
     admin_name: Sekyere Afram Plains North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.39_2_Adm2:
-    GID: GHA2.39_2
+  GHA.2.39_2_Adm2:
+    GID: GHA.2.39_2
     admin_name: Sekyere Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.4_2_Adm2:
-    GID: GHA2.4_2
+  GHA.2.4_2_Adm2:
+    GID: GHA.2.4_2
     admin_name: Adansi South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.40_2_Adm2:
-    GID: GHA2.40_2
+  GHA.2.40_2_Adm2:
+    GID: GHA.2.40_2
     admin_name: Sekyere East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.41_2_Adm2:
-    GID: GHA2.41_2
+  GHA.2.41_2_Adm2:
+    GID: GHA.2.41_2
     admin_name: Sekyere Kumawu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.42_2_Adm2:
-    GID: GHA2.42_2
+  GHA.2.42_2_Adm2:
+    GID: GHA.2.42_2
     admin_name: Sekyere South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.43_2_Adm2:
-    GID: GHA2.43_2
+  GHA.2.43_2_Adm2:
+    GID: GHA.2.43_2
     admin_name: Suame
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.5_2_Adm2:
-    GID: GHA2.5_2
+  GHA.2.5_2_Adm2:
+    GID: GHA.2.5_2
     admin_name: Afigya-Kwabre North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.6_2_Adm2:
-    GID: GHA2.6_2
+  GHA.2.6_2_Adm2:
+    GID: GHA.2.6_2
     admin_name: Afigya-Kwabre South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.7_2_Adm2:
-    GID: GHA2.7_2
+  GHA.2.7_2_Adm2:
+    GID: GHA.2.7_2
     admin_name: Ahafo-Ano North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.8_2_Adm2:
-    GID: GHA2.8_2
+  GHA.2.8_2_Adm2:
+    GID: GHA.2.8_2
     admin_name: Ahafo-Ano South East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA2.9_2_Adm2:
-    GID: GHA2.9_2
+  GHA.2.9_2_Adm2:
+    GID: GHA.2.9_2
     admin_name: Ahafo-Ano South West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3_2_Adm1:
-    GID: GHA3_2
+  GHA.3_2_Adm1:
+    GID: GHA.3_2
     admin_name: Bono
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA3.1_2_Adm2:
-    GID: GHA3.1_2
+  GHA.3.1_2_Adm2:
+    GID: GHA.3.1_2
     admin_name: Banda
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.10_2_Adm2:
-    GID: GHA3.10_2
+  GHA.3.10_2_Adm2:
+    GID: GHA.3.10_2
     admin_name: Sunyani West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.11_2_Adm2:
-    GID: GHA3.11_2
+  GHA.3.11_2_Adm2:
+    GID: GHA.3.11_2
     admin_name: Tain
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.12_2_Adm2:
-    GID: GHA3.12_2
+  GHA.3.12_2_Adm2:
+    GID: GHA.3.12_2
     admin_name: Wenchi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.2_2_Adm2:
-    GID: GHA3.2_2
+  GHA.3.2_2_Adm2:
+    GID: GHA.3.2_2
     admin_name: Berekum East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.3_2_Adm2:
-    GID: GHA3.3_2
+  GHA.3.3_2_Adm2:
+    GID: GHA.3.3_2
     admin_name: Berekum West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.4_2_Adm2:
-    GID: GHA3.4_2
+  GHA.3.4_2_Adm2:
+    GID: GHA.3.4_2
     admin_name: Dormaa
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.5_2_Adm2:
-    GID: GHA3.5_2
+  GHA.3.5_2_Adm2:
+    GID: GHA.3.5_2
     admin_name: Dormaa East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.6_2_Adm2:
-    GID: GHA3.6_2
+  GHA.3.6_2_Adm2:
+    GID: GHA.3.6_2
     admin_name: Dormaa West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.7_2_Adm2:
-    GID: GHA3.7_2
+  GHA.3.7_2_Adm2:
+    GID: GHA.3.7_2
     admin_name: Jaman North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.8_2_Adm2:
-    GID: GHA3.8_2
+  GHA.3.8_2_Adm2:
+    GID: GHA.3.8_2
     admin_name: Jaman South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA3.9_2_Adm2:
-    GID: GHA3.9_2
+  GHA.3.9_2_Adm2:
+    GID: GHA.3.9_2
     admin_name: Sunyani
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4_2_Adm1:
-    GID: GHA4_2
+  GHA.4_2_Adm1:
+    GID: GHA.4_2
     admin_name: Bono East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA4.1_2_Adm2:
-    GID: GHA4.1_2
+  GHA.4.1_2_Adm2:
+    GID: GHA.4.1_2
     admin_name: Atebubu-Amantin
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.10_2_Adm2:
-    GID: GHA4.10_2
+  GHA.4.10_2_Adm2:
+    GID: GHA.4.10_2
     admin_name: Techiman
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.11_2_Adm2:
-    GID: GHA4.11_2
+  GHA.4.11_2_Adm2:
+    GID: GHA.4.11_2
     admin_name: Techiman North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.2_2_Adm2:
-    GID: GHA4.2_2
+  GHA.4.2_2_Adm2:
+    GID: GHA.4.2_2
     admin_name: Kintampo North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.3_2_Adm2:
-    GID: GHA4.3_2
+  GHA.4.3_2_Adm2:
+    GID: GHA.4.3_2
     admin_name: Kintampo South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.4_2_Adm2:
-    GID: GHA4.4_2
+  GHA.4.4_2_Adm2:
+    GID: GHA.4.4_2
     admin_name: Nkoranza North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.5_2_Adm2:
-    GID: GHA4.5_2
+  GHA.4.5_2_Adm2:
+    GID: GHA.4.5_2
     admin_name: Nkoranza South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.6_2_Adm2:
-    GID: GHA4.6_2
+  GHA.4.6_2_Adm2:
+    GID: GHA.4.6_2
     admin_name: Pru East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.7_2_Adm2:
-    GID: GHA4.7_2
+  GHA.4.7_2_Adm2:
+    GID: GHA.4.7_2
     admin_name: Pru West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.8_2_Adm2:
-    GID: GHA4.8_2
+  GHA.4.8_2_Adm2:
+    GID: GHA.4.8_2
     admin_name: Sene East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA4.9_2_Adm2:
-    GID: GHA4.9_2
+  GHA.4.9_2_Adm2:
+    GID: GHA.4.9_2
     admin_name: Sene West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5_2_Adm1:
-    GID: GHA5_2
+  GHA.5_2_Adm1:
+    GID: GHA.5_2
     admin_name: Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA5.1_2_Adm2:
-    GID: GHA5.1_2
+  GHA.5.1_2_Adm2:
+    GID: GHA.5.1_2
     admin_name: Abura-Asebu-Kwamankese
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.10_2_Adm2:
-    GID: GHA5.10_2
+  GHA.5.10_2_Adm2:
+    GID: GHA.5.10_2
     admin_name: Awutu Senya East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.11_2_Adm2:
-    GID: GHA5.11_2
+  GHA.5.11_2_Adm2:
+    GID: GHA.5.11_2
     admin_name: Cape Coast
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.12_2_Adm2:
-    GID: GHA5.12_2
+  GHA.5.12_2_Adm2:
+    GID: GHA.5.12_2
     admin_name: Effutu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.13_2_Adm2:
-    GID: GHA5.13_2
+  GHA.5.13_2_Adm2:
+    GID: GHA.5.13_2
     admin_name: Ekumfi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.14_2_Adm2:
-    GID: GHA5.14_2
+  GHA.5.14_2_Adm2:
+    GID: GHA.5.14_2
     admin_name: Gomoa Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.15_2_Adm2:
-    GID: GHA5.15_2
+  GHA.5.15_2_Adm2:
+    GID: GHA.5.15_2
     admin_name: Gomoa East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.16_2_Adm2:
-    GID: GHA5.16_2
+  GHA.5.16_2_Adm2:
+    GID: GHA.5.16_2
     admin_name: Gomoa West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.17_2_Adm2:
-    GID: GHA5.17_2
+  GHA.5.17_2_Adm2:
+    GID: GHA.5.17_2
     admin_name: Komenda-Edina-Eguafo-Abirem-
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.18_2_Adm2:
-    GID: GHA5.18_2
+  GHA.5.18_2_Adm2:
+    GID: GHA.5.18_2
     admin_name: Mfantseman
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.19_2_Adm2:
-    GID: GHA5.19_2
+  GHA.5.19_2_Adm2:
+    GID: GHA.5.19_2
     admin_name: Twifo-Atti-Morkwa
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.2_2_Adm2:
-    GID: GHA5.2_2
+  GHA.5.2_2_Adm2:
+    GID: GHA.5.2_2
     admin_name: Agona East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.20_2_Adm2:
-    GID: GHA5.20_2
+  GHA.5.20_2_Adm2:
+    GID: GHA.5.20_2
     admin_name: Twifo-Hemang-Lower Denkyira
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.21_2_Adm2:
-    GID: GHA5.21_2
+  GHA.5.21_2_Adm2:
+    GID: GHA.5.21_2
     admin_name: Upper Denkyira East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.22_2_Adm2:
-    GID: GHA5.22_2
+  GHA.5.22_2_Adm2:
+    GID: GHA.5.22_2
     admin_name: Upper Denkyira West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.3_2_Adm2:
-    GID: GHA5.3_2
+  GHA.5.3_2_Adm2:
+    GID: GHA.5.3_2
     admin_name: Agona West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.4_2_Adm2:
-    GID: GHA5.4_2
+  GHA.5.4_2_Adm2:
+    GID: GHA.5.4_2
     admin_name: Ajumako-Enyan-Essiam
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.5_2_Adm2:
-    GID: GHA5.5_2
+  GHA.5.5_2_Adm2:
+    GID: GHA.5.5_2
     admin_name: Asikuma-Odoben-Brakwa
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.6_2_Adm2:
-    GID: GHA5.6_2
+  GHA.5.6_2_Adm2:
+    GID: GHA.5.6_2
     admin_name: Assin Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.7_2_Adm2:
-    GID: GHA5.7_2
+  GHA.5.7_2_Adm2:
+    GID: GHA.5.7_2
     admin_name: Assin North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.8_2_Adm2:
-    GID: GHA5.8_2
+  GHA.5.8_2_Adm2:
+    GID: GHA.5.8_2
     admin_name: Assin South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA5.9_2_Adm2:
-    GID: GHA5.9_2
+  GHA.5.9_2_Adm2:
+    GID: GHA.5.9_2
     admin_name: Awutu Senya West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6_2_Adm1:
-    GID: GHA6_2
+  GHA.6_2_Adm1:
+    GID: GHA.6_2
     admin_name: Eastern
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA6.1_2_Adm2:
-    GID: GHA6.1_2
+  GHA.6.1_2_Adm2:
+    GID: GHA.6.1_2
     admin_name: Abuakwa North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.10_2_Adm2:
-    GID: GHA6.10_2
+  GHA.6.10_2_Adm2:
+    GID: GHA.6.10_2
     admin_name: Atiwa West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.11_2_Adm2:
-    GID: GHA6.11_2
+  GHA.6.11_2_Adm2:
+    GID: GHA.6.11_2
     admin_name: Ayensuano
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.12_2_Adm2:
-    GID: GHA6.12_2
+  GHA.6.12_2_Adm2:
+    GID: GHA.6.12_2
     admin_name: Birim Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.13_2_Adm2:
-    GID: GHA6.13_2
+  GHA.6.13_2_Adm2:
+    GID: GHA.6.13_2
     admin_name: Birim North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.14_2_Adm2:
-    GID: GHA6.14_2
+  GHA.6.14_2_Adm2:
+    GID: GHA.6.14_2
     admin_name: Birim South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.15_2_Adm2:
-    GID: GHA6.15_2
+  GHA.6.15_2_Adm2:
+    GID: GHA.6.15_2
     admin_name: Denkyembour
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.16_2_Adm2:
-    GID: GHA6.16_2
+  GHA.6.16_2_Adm2:
+    GID: GHA.6.16_2
     admin_name: Fanteakwa North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.17_2_Adm2:
-    GID: GHA6.17_2
+  GHA.6.17_2_Adm2:
+    GID: GHA.6.17_2
     admin_name: Fanteakwa South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.18_2_Adm2:
-    GID: GHA6.18_2
+  GHA.6.18_2_Adm2:
+    GID: GHA.6.18_2
     admin_name: Kwaebibirem
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.19_2_Adm2:
-    GID: GHA6.19_2
+  GHA.6.19_2_Adm2:
+    GID: GHA.6.19_2
     admin_name: Kwahu Afram Plains North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.2_2_Adm2:
-    GID: GHA6.2_2
+  GHA.6.2_2_Adm2:
+    GID: GHA.6.2_2
     admin_name: Abuakwa South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.20_2_Adm2:
-    GID: GHA6.20_2
+  GHA.6.20_2_Adm2:
+    GID: GHA.6.20_2
     admin_name: Kwahu Afram Plains South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.21_2_Adm2:
-    GID: GHA6.21_2
+  GHA.6.21_2_Adm2:
+    GID: GHA.6.21_2
     admin_name: Kwahu East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.22_2_Adm2:
-    GID: GHA6.22_2
+  GHA.6.22_2_Adm2:
+    GID: GHA.6.22_2
     admin_name: Kwahu South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.23_2_Adm2:
-    GID: GHA6.23_2
+  GHA.6.23_2_Adm2:
+    GID: GHA.6.23_2
     admin_name: Kwahu West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.24_2_Adm2:
-    GID: GHA6.24_2
+  GHA.6.24_2_Adm2:
+    GID: GHA.6.24_2
     admin_name: Lower Manya-Krobo
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.25_2_Adm2:
-    GID: GHA6.25_2
+  GHA.6.25_2_Adm2:
+    GID: GHA.6.25_2
     admin_name: New Juaben North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.26_2_Adm2:
-    GID: GHA6.26_2
+  GHA.6.26_2_Adm2:
+    GID: GHA.6.26_2
     admin_name: New Juaben South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.27_2_Adm2:
-    GID: GHA6.27_2
+  GHA.6.27_2_Adm2:
+    GID: GHA.6.27_2
     admin_name: Nsawam Adoagyiri
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.28_2_Adm2:
-    GID: GHA6.28_2
+  GHA.6.28_2_Adm2:
+    GID: GHA.6.28_2
     admin_name: Okere
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.29_2_Adm2:
-    GID: GHA6.29_2
+  GHA.6.29_2_Adm2:
+    GID: GHA.6.29_2
     admin_name: Suhum
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.3_2_Adm2:
-    GID: GHA6.3_2
+  GHA.6.3_2_Adm2:
+    GID: GHA.6.3_2
     admin_name: Achiase
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.30_2_Adm2:
-    GID: GHA6.30_2
+  GHA.6.30_2_Adm2:
+    GID: GHA.6.30_2
     admin_name: Upper Manya
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.31_2_Adm2:
-    GID: GHA6.31_2
+  GHA.6.31_2_Adm2:
+    GID: GHA.6.31_2
     admin_name: Upper West Akim
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.32_2_Adm2:
-    GID: GHA6.32_2
+  GHA.6.32_2_Adm2:
+    GID: GHA.6.32_2
     admin_name: West Akim
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.33_2_Adm2:
-    GID: GHA6.33_2
+  GHA.6.33_2_Adm2:
+    GID: GHA.6.33_2
     admin_name: Yilo-Krobo
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.4_2_Adm2:
-    GID: GHA6.4_2
+  GHA.6.4_2_Adm2:
+    GID: GHA.6.4_2
     admin_name: Akwapem North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.5_2_Adm2:
-    GID: GHA6.5_2
+  GHA.6.5_2_Adm2:
+    GID: GHA.6.5_2
     admin_name: Akwapem South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.6_2_Adm2:
-    GID: GHA6.6_2
+  GHA.6.6_2_Adm2:
+    GID: GHA.6.6_2
     admin_name: Akyemansa
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.7_2_Adm2:
-    GID: GHA6.7_2
+  GHA.6.7_2_Adm2:
+    GID: GHA.6.7_2
     admin_name: Asene-Manso-Akroso
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.8_2_Adm2:
-    GID: GHA6.8_2
+  GHA.6.8_2_Adm2:
+    GID: GHA.6.8_2
     admin_name: Asuogyaman
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA6.9_2_Adm2:
-    GID: GHA6.9_2
+  GHA.6.9_2_Adm2:
+    GID: GHA.6.9_2
     admin_name: Atiwa East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7_2_Adm1:
-    GID: GHA7_2
+  GHA.7_2_Adm1:
+    GID: GHA.7_2
     admin_name: Greater Accra
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA7.1_2_Adm2:
-    GID: GHA7.1_2
+  GHA.7.1_2_Adm2:
+    GID: GHA.7.1_2
     admin_name: Ablekuma Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.10_2_Adm2:
-    GID: GHA7.10_2
+  GHA.7.10_2_Adm2:
+    GID: GHA.7.10_2
     admin_name: Ayawaso East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.11_2_Adm2:
-    GID: GHA7.11_2
+  GHA.7.11_2_Adm2:
+    GID: GHA.7.11_2
     admin_name: Ayawaso North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.12_2_Adm2:
-    GID: GHA7.12_2
+  GHA.7.12_2_Adm2:
+    GID: GHA.7.12_2
     admin_name: Ayawaso West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.13_2_Adm2:
-    GID: GHA7.13_2
+  GHA.7.13_2_Adm2:
+    GID: GHA.7.13_2
     admin_name: Ga Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.14_2_Adm2:
-    GID: GHA7.14_2
+  GHA.7.14_2_Adm2:
+    GID: GHA.7.14_2
     admin_name: Ga East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.15_2_Adm2:
-    GID: GHA7.15_2
+  GHA.7.15_2_Adm2:
+    GID: GHA.7.15_2
     admin_name: Ga North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.16_2_Adm2:
-    GID: GHA7.16_2
+  GHA.7.16_2_Adm2:
+    GID: GHA.7.16_2
     admin_name: Ga South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.17_2_Adm2:
-    GID: GHA7.17_2
+  GHA.7.17_2_Adm2:
+    GID: GHA.7.17_2
     admin_name: Ga West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.18_2_Adm2:
-    GID: GHA7.18_2
+  GHA.7.18_2_Adm2:
+    GID: GHA.7.18_2
     admin_name: Korle-Klottey
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.19_2_Adm2:
-    GID: GHA7.19_2
+  GHA.7.19_2_Adm2:
+    GID: GHA.7.19_2
     admin_name: Kpone-Katamanso
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.2_2_Adm2:
-    GID: GHA7.2_2
+  GHA.7.2_2_Adm2:
+    GID: GHA.7.2_2
     admin_name: Ablekuma North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.20_2_Adm2:
-    GID: GHA7.20_2
+  GHA.7.20_2_Adm2:
+    GID: GHA.7.20_2
     admin_name: Krowor
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.21_2_Adm2:
-    GID: GHA7.21_2
+  GHA.7.21_2_Adm2:
+    GID: GHA.7.21_2
     admin_name: La-Dade-Kotopon
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.22_2_Adm2:
-    GID: GHA7.22_2
+  GHA.7.22_2_Adm2:
+    GID: GHA.7.22_2
     admin_name: La-Nkwantanang-Madina
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.23_2_Adm2:
-    GID: GHA7.23_2
+  GHA.7.23_2_Adm2:
+    GID: GHA.7.23_2
     admin_name: Ledzokuku
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.24_2_Adm2:
-    GID: GHA7.24_2
+  GHA.7.24_2_Adm2:
+    GID: GHA.7.24_2
     admin_name: Ningo-Prampram
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.25_2_Adm2:
-    GID: GHA7.25_2
+  GHA.7.25_2_Adm2:
+    GID: GHA.7.25_2
     admin_name: Okaikwei North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.26_2_Adm2:
-    GID: GHA7.26_2
+  GHA.7.26_2_Adm2:
+    GID: GHA.7.26_2
     admin_name: Shai Osudoku
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.27_2_Adm2:
-    GID: GHA7.27_2
+  GHA.7.27_2_Adm2:
+    GID: GHA.7.27_2
     admin_name: Tema
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.28_2_Adm2:
-    GID: GHA7.28_2
+  GHA.7.28_2_Adm2:
+    GID: GHA.7.28_2
     admin_name: Tema West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.29_2_Adm2:
-    GID: GHA7.29_2
+  GHA.7.29_2_Adm2:
+    GID: GHA.7.29_2
     admin_name: Weija Gbawe
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.3_2_Adm2:
-    GID: GHA7.3_2
+  GHA.7.3_2_Adm2:
+    GID: GHA.7.3_2
     admin_name: Ablekuma West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.4_2_Adm2:
-    GID: GHA7.4_2
+  GHA.7.4_2_Adm2:
+    GID: GHA.7.4_2
     admin_name: Accra
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.5_2_Adm2:
-    GID: GHA7.5_2
+  GHA.7.5_2_Adm2:
+    GID: GHA.7.5_2
     admin_name: Ada East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.6_2_Adm2:
-    GID: GHA7.6_2
+  GHA.7.6_2_Adm2:
+    GID: GHA.7.6_2
     admin_name: Ada West
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.7_2_Adm2:
-    GID: GHA7.7_2
+  GHA.7.7_2_Adm2:
+    GID: GHA.7.7_2
     admin_name: Adenta
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.8_2_Adm2:
-    GID: GHA7.8_2
+  GHA.7.8_2_Adm2:
+    GID: GHA.7.8_2
     admin_name: Ashaiman
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA7.9_2_Adm2:
-    GID: GHA7.9_2
+  GHA.7.9_2_Adm2:
+    GID: GHA.7.9_2
     admin_name: Ayawaso Central
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA8_2_Adm1:
-    GID: GHA8_2
+  GHA.8_2_Adm1:
+    GID: GHA.8_2
     admin_name: North East
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA8.1_2_Adm2:
-    GID: GHA8.1_2
+  GHA.8.1_2_Adm2:
+    GID: GHA.8.1_2
     admin_name: Bunkpurugu Nakpanduri
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA8.2_2_Adm2:
-    GID: GHA8.2_2
+  GHA.8.2_2_Adm2:
+    GID: GHA.8.2_2
     admin_name: Chereponi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA8.3_2_Adm2:
-    GID: GHA8.3_2
+  GHA.8.3_2_Adm2:
+    GID: GHA.8.3_2
     admin_name: East Mamprusi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA8.4_2_Adm2:
-    GID: GHA8.4_2
+  GHA.8.4_2_Adm2:
+    GID: GHA.8.4_2
     admin_name: Mamprugu Moagduri
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA8.5_2_Adm2:
-    GID: GHA8.5_2
+  GHA.8.5_2_Adm2:
+    GID: GHA.8.5_2
     admin_name: West Mamprusi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA8.6_2_Adm2:
-    GID: GHA8.6_2
+  GHA.8.6_2_Adm2:
+    GID: GHA.8.6_2
     admin_name: Yunyoo-Nasuan
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9_2_Adm1:
-    GID: GHA9_2
+  GHA.9_2_Adm1:
+    GID: GHA.9_2
     admin_name: Northern
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm1
-  GHA9.1_2_Adm2:
-    GID: GHA9.1_2
+  GHA.9.1_2_Adm2:
+    GID: GHA.9.1_2
     admin_name: Gushegu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.10_2_Adm2:
-    GID: GHA9.10_2
+  GHA.9.10_2_Adm2:
+    GID: GHA.9.10_2
     admin_name: Sagnerigu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.11_2_Adm2:
-    GID: GHA9.11_2
+  GHA.9.11_2_Adm2:
+    GID: GHA.9.11_2
     admin_name: Savelugu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.12_2_Adm2:
-    GID: GHA9.12_2
+  GHA.9.12_2_Adm2:
+    GID: GHA.9.12_2
     admin_name: Tamale
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.13_2_Adm2:
-    GID: GHA9.13_2
+  GHA.9.13_2_Adm2:
+    GID: GHA.9.13_2
     admin_name: Tatale Sanguli
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.14_2_Adm2:
-    GID: GHA9.14_2
+  GHA.9.14_2_Adm2:
+    GID: GHA.9.14_2
     admin_name: Tolon
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.15_2_Adm2:
-    GID: GHA9.15_2
+  GHA.9.15_2_Adm2:
+    GID: GHA.9.15_2
     admin_name: Yendi
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.16_2_Adm2:
-    GID: GHA9.16_2
+  GHA.9.16_2_Adm2:
+    GID: GHA.9.16_2
     admin_name: Zabzugu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.2_2_Adm2:
-    GID: GHA9.2_2
+  GHA.9.2_2_Adm2:
+    GID: GHA.9.2_2
     admin_name: Karaga
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.3_2_Adm2:
-    GID: GHA9.3_2
+  GHA.9.3_2_Adm2:
+    GID: GHA.9.3_2
     admin_name: Kpandai
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.4_2_Adm2:
-    GID: GHA9.4_2
+  GHA.9.4_2_Adm2:
+    GID: GHA.9.4_2
     admin_name: Kumbungu
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.5_2_Adm2:
-    GID: GHA9.5_2
+  GHA.9.5_2_Adm2:
+    GID: GHA.9.5_2
     admin_name: Mion
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.6_2_Adm2:
-    GID: GHA9.6_2
+  GHA.9.6_2_Adm2:
+    GID: GHA.9.6_2
     admin_name: Nanton
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.7_2_Adm2:
-    GID: GHA9.7_2
+  GHA.9.7_2_Adm2:
+    GID: GHA.9.7_2
     admin_name: Nanumba North
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.8_2_Adm2:
-    GID: GHA9.8_2
+  GHA.9.8_2_Adm2:
+    GID: GHA.9.8_2
     admin_name: Nanumba South
     iso3c: GHA
     country_name: Ghana
     admin_level: Adm2
-  GHA9.9_2_Adm2:
-    GID: GHA9.9_2
+  GHA.9.9_2_Adm2:
+    GID: GHA.9.9_2
     admin_name: Saboba
     iso3c: GHA
     country_name: Ghana

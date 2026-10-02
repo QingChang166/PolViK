@@ -31,4 +31,4 @@ relations:
   - (Party, DECParty)
   - (Party, PDMParty)
   - (armedNonGovernmentalOrganizedGroup, CLAarmedNonGovernmentalOrganizedGroup)
-  - (armedNonGovernmentalOrganizedGroup, SWAPOarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, SWAPOarmedNonGovernmentalOrganizedGroup-Namibia)

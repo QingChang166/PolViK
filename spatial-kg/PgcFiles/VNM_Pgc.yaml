@@ -606,26 +606,26 @@ concepts:
     country: VNM
   158974Pgc:
     GID: VNM
-    conceptID: VNM_Adm0
+    conceptID: VNM.0_Adm0
     admin_name: Vietnam
     country: VNM
   158976Pgc:
     GID: VNM
-    conceptID: VNM_Adm0
+    conceptID: VNM.0_Adm0
     admin_name: Vietnam
     country: VNM
   144575Pgc:
     GID: VNM
-    conceptID: VNM_Adm0
+    conceptID: VNM.0_Adm0
     admin_name: Vietnam
     country: VNM
   144576Pgc:
     GID: VNM
-    conceptID: VNM_Adm0
+    conceptID: VNM.0_Adm0
     admin_name: Vietnam
     country: VNM
   143854Pgc:
     GID: VNM
-    conceptID: VNM_Adm0
+    conceptID: VNM.0_Adm0
     admin_name: Vietnam
     country: VNM

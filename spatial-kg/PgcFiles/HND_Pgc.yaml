@@ -271,16 +271,16 @@ concepts:
     country: HND
   153549Pgc:
     GID: HND
-    conceptID: HND_Adm0
+    conceptID: HND.0_Adm0
     admin_name: Honduras
     country: HND
   152826Pgc:
     GID: HND
-    conceptID: HND_Adm0
+    conceptID: HND.0_Adm0
     admin_name: Honduras
     country: HND
   152827Pgc:
     GID: HND
-    conceptID: HND_Adm0
+    conceptID: HND.0_Adm0
     admin_name: Honduras
     country: HND

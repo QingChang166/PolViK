@@ -1,5 +1,5 @@
 concepts:
-  mozambiqueSecurityForces:
+  MozambiqueSecurityForces:
    stringTokens: ["Mozambique Defence Armed Forces", "Forças Armadas de Defesa de Moçambique", "FADM", "Mozambican Army", "Police of the Republic of Mozambique", "Forças Populares de Libertação de Moçambique", "FPLM", "Armed Forces for the Liberation of Mozambique", "FAM/FPLM"]
 #ethnicgroups
 # Wikipidia was pretty bad for this.. didnt give a good list of all group but I used this side and it seems to match Wikipidias description. https://www.worldatlas.com/articles/ethnic-groups-of-mozambique.html
@@ -15,7 +15,7 @@ concepts:
 #Sofala-Central
 #Tete-Central
 #Zambezia-North
-  makuaEthnicGroup:
+  MakuaEthnicGroup:
    stringTokens: ["Makhuwa","Macua","Makoa","Makoane","Makwa","Kua","Wakua","Wamakua"]
    wikidataQnode: ["Q1261884"]
    languagesMostSpoken: ["Makua language","Portuguese"] ##also called Emakua
@@ -51,7 +51,7 @@ concepts:
    languagesMostSpoken: ["Ndau"]
    religionsMostPracticed: ["Traditional religion", "Catholicism"]
    livesIn: ["Gaza"]
-  mozambiqueportuguesemixedEthnicGroup: ##this is a hard one... I grouped white portuguese and mixed together as its hard to distinguish them and it seems mostly based on skin colour/self identificantion but varies wildly. Also I have got all sorts of estimates for this and varies quite wildly by time but also by estimate.... but at a low it is around .9% and as high as 5%
+  MozambiqueportuguesemixedEthnicGroup: ##this is a hard one... I grouped white portuguese and mixed together as its hard to distinguish them and it seems mostly based on skin colour/self identificantion but varies wildly. Also I have got all sorts of estimates for this and varies quite wildly by time but also by estimate.... but at a low it is around .9% and as high as 5%
    stringTokens: ["Mixed", "Mestiço"]
    wikidataQnode: ["Q17073179"] ##this is for the general "term" which applies to other mixed portuguese peoples
    languagesMostSpoken: ["Portuguese"]
@@ -61,426 +61,426 @@ concepts:
   ChopiLinguisticGroup:
      stringTokens: ["Chopi"]
      wikidataQnode: ["Q3437616"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   ChuwabuLinguisticGroup:
      stringTokens: ["Chuwabu", "Maindo"]
      wikidataQnode: ["Q5118412"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   DemaLinguisticGroup:
      stringTokens: ["Dema"]
      wikidataQnode: ["Q3553423"]
-     livesIn: [""]
-     associatedethnicgroup: ["Vadoma people"]
+     livesIn: []
+     associatedEthnicGroup: ["Vadoma people"]
   KotiLinguisticGroup:
      stringTokens: ["Koti"]
      wikidataQnode: ["Q29930"]
      livesIn: ["Koti Island", "Angoche", "Nampula Province"]
-     associatedethnicgroup: ["Koti Island and Angoche, Nampula Province"]
+     associatedEthnicGroup: ["Koti Island and Angoche, Nampula Province"]
   MakhuwaLinguisticGroup:
      stringTokens: ["Lolo", "Makua", "Emakhuwa", "Macua", "Makhuwa"]
      wikidataQnode: ["Q33882"]
      livesIn: ["Zambezi River", "Nampula Province"]
-     associatedethnicgroup: ["MakuaEthnicGroup"]
+     associatedEthnicGroup: ["MakuaEthnicGroup"]
   ManyawaLinguisticGroup:
      stringTokens: ["Manyawa"]
      wikidataQnode: ["Q11002622"]
-     livesIn: [""]
-     associatedethnicgroup: ["ShonaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["ShonaEthnicGroup"]
   NdauLinguisticGroup:
      stringTokens: ["Ndau", "Chindau", "Sofala", "Southeast Shona", "Chidanda", "chiNdau", "Ndzawu", "Njao"]
      wikidataQnode: ["Q13311"]
-     livesIn: [""]
-     associatedethnicgroup: ["NdauEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["NdauEthnicGroup"]
   LomweLinguisticGroup:
      stringTokens: ["Lomwe", "ELomwe"]
      wikidataQnode: ["Q35824"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   NathemboLinguisticGroup:
      stringTokens: ["Nathembo", "Sakati"]
      wikidataQnode: ["Q11030947"]
-     livesIn: [""]
-     associatedethnicgroup: ["Makua"]
+     livesIn: []
+     associatedEthnicGroup: ["Makua"]
   NyungweLinguisticGroup:
      stringTokens: ["Nyungwe"]
      wikidataQnode: ["Q7071318"]
      livesIn: ["Tete Province"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
   NsengaLinguisticGroup:
      stringTokens: ["Nsenga", "Cinsenga"]
      wikidataQnode: ["Q3081996"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   RongaLinguisticGroup:
      stringTokens: ["Ronga", "XiRonga", "ShiRonga", "GiRonga"]
      wikidataQnode: ["Q2520717"]
      livesIn: ["Maputo"]
-     associatedethnicgroup: ["tsongaEthnicGroup"]
+     associatedEthnicGroup: ["tsongaEthnicGroup"]
   SenaLinguisticGroup:
      stringTokens: ["Sena", "Chibarwe", "Mabarwe", "Manyika Chibarwe"]
      wikidataQnode: ["Q2964008"]
-     livesIn: [""]
-     associatedethnicgroup: ["SenaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["SenaEthnicGroup"]
   TongaLinguisticGroup:
      stringTokens: ["Tonga", "Gitonga", "Gitonga", "Xitonga"]
      wikidataQnode: ["Q7820988"]
-     livesIn: [""]
-     associatedethnicgroup: ["tsongaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["tsongaEthnicGroup"]
   TswaLinguisticGroup:
      stringTokens: ["Tswa", "Xitswa"]
      wikidataQnode: ["Q2085051"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   TawaraLinguisticGroup:
      stringTokens: ["Tawara"]
      wikidataQnode: ["Q3553459"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   TeweLinguisticGroup:
      stringTokens: ["Tewe"]
      wikidataQnode: ["Q3832970"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   MarenjeLinguisticGroup:
      stringTokens: ["Marenje"]
      wikidataQnode: ["Q11128833"]
-     livesIn: [""]
-     associatedethnicgroup: ["Marenje people"]
+     livesIn: []
+     associatedEthnicGroup: ["Marenje people"]
   MwaniLinguisticGroup:
-     stringTokens: ["Mwani", "Kimwani]
+     stringTokens: ["Mwani", "Kimwani"]
      wikidataQnode: ["Q3042206"]
      livesIn: ["Cabo Delgado Province"]
-     associatedethnicgroup: ["Mwani people"]
+     associatedEthnicGroup: ["Mwani people"]
   XingoniLinguisticGroup:
      stringTokens: ["Xingoni", "Ngoni", "Chingoni"]
      wikidataQnode: ["Q7022547"]
      livesIn: ["Cabo Delgado", "Niassa"]
-     associatedethnicgroup: ["Ngoni people"]
+     associatedEthnicGroup: ["Ngoni people"]
   MakweLinguisticGroup:
      stringTokens: ["Makwe", "Macue"]
      wikidataQnode: ["Q6740513"]
      livesIn: ["Cabo Delgado Province", "Mtwara Region"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 #Parties
-  frelimoParty:
+  FrelimoParty:
    stringTokens: ["Liberation Front of Mozambique", "Frente de Libertação de Moçambique", "FRELImO", "MNR", "RNM"]
    wikidataQnode: ["Q504564"]
-   yearsActiveasEntity: ["1962-Present"] ##active as an entity
-   yearsActiveasParty: ["1977-Present"] ##active as a political party
+   yearsActiveasParty: ["1962-present"] ##active as an entity
+   yearsActiveasParty: ["1977-present"] ##active as a political party
    ideologicalOrientation: ["centreLeft", "left", "farLeft", "socialDemocracy", "communism", "marxism", "nationalism"]
-  renamoParty:
+  RenamoParty:
    stringTokens: ["Mozambican National Resistance", "Resistência Nacional Moçambicana", "RENAMO"]
    wikidataQnode: ["Q1425821"]
-   yearsActiveasEntity: ["1977-Present"] ##active as an entity
-   yearsActiveasParty: ["1992-2013", "2019-Present"] ##active as a political party
+   yearsActiveasParty: ["1977-present"] ##active as an entity
+   yearsActiveasParty: ["1992-2013", "2019-present"] ##active as a political party
    ideologicalOrientation: ["centreRight", "Right", "nationalism", "conservatism", "economicLiberalism", "anticommunism"]
-  renamoeuParty:
+  RenamoeuParty:
    stringTokens: ["Mozambican National Resistance-Electoral Union", "Resistência Nacional Moçambicana-União Electoral", "RENAMO-EU"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1999-2019"] ##active as an entity
+   yearsActiveasParty: ["1999-2019"] ##active as an entity
    yearsActiveasParty: ["1999-2019"] ##active as a political party
-  dmmParty:
+  DmmParty:
    stringTokens: ["Democratic Movement of Mozambique", "Movimento Democrático de Moçambique", "MDM"]
    wikidataQnode: ["Q668181"]
-   yearsActiveasEntity: ["2009-Present"] ##active as an entity
-   yearsActiveasParty: ["2009-Present"] ##active as a political party
+   yearsActiveasParty: ["2009-present"] ##active as an entity
+   yearsActiveasParty: ["2009-present"] ##active as a political party
    ideologicalOrientation: ["centreRight", "christianDemocracy"]
-  iamParty:
+  IamParty:
    stringTokens: ["Independent Alliance of Mozambique","Aliança Independente de Moçambique"]
    wikidataQnode: ["Q3459366"]
-   yearsActiveasEntity: ["2004-2014"] ##active as an entity
+   yearsActiveasParty: ["2004-2014"] ##active as an entity
    yearsActiveasParty: ["2004"] ##active as a political party
-  mnmParty:
+  MnmParty:
    stringTokens: ["Mozambican Nationalist Movement","Movimento Nacionalista Moçambicano"]
    wikidataQnode: ["Q3459410"]
-   yearsActiveasEntity: ["2004"] ##active as an entity
+   yearsActiveasParty: ["2004"] ##active as an entity
    yearsActiveasParty: ["2004"] ##active as a political party
-  ncpParty:
+  NcpParty:
    stringTokens: ["National Convention Party", "Partido de Convenção Nacional"]
    wikidataQnode: ["Q3459350"]
-   yearsActiveasEntity: ["1994-2004"] ##active as an entity
+   yearsActiveasParty: ["1994-2004"] ##active as an entity
    yearsActiveasParty: ["1994-2004"] ##active as a political party
-  nupParty:
+  NupParty:
    stringTokens: ["National Unity Party"]
    wikidataQnode: ["Q4026896"]
-   yearsActiveasEntity: ["2004"] ##active as an entity
+   yearsActiveasParty: ["2004"] ##active as an entity
    yearsActiveasParty: ["2004"] ##active as a political party
-  fpaParty:
+  FpaParty:
    stringTokens: ["Front of Patriotic Action", "FAP", "Frente de Ação Patriotica"]
    wikidataQnode: ["Q4120932"]
-   yearsActiveasEntity: ["1999"] ##active as an entity
+   yearsActiveasParty: ["1999"] ##active as an entity
    yearsActiveasParty: ["1999"] ##active as a political party
-  ppmParty:
+  PpmParty:
    stringTokens: ["People's Party of Mozambique"]
    wikidataQnode: ["Q4120939"]
-   yearsActiveasEntity: ["2004"] #active as an entity
+   yearsActiveasParty: ["2004"] #active as an entity
    yearsActiveasParty: [] #active as a political party
-  ufmParty:
+  UfmParty:
    stringTokens: ["United Front of Mozambique", "Frente Unida de Moçambique"]
    wikidataQnode: ["Q4120938"]
-   yearsActiveasEntity: ["2004"] ##active as an entity
+   yearsActiveasParty: ["2004"] ##active as an entity
    yearsActiveasParty: [] ##active as a political party
-  ppddParty:
+  PpddParty:
    stringTokens: ["Party for Peace, Democracy and Development", "Party for Peace, Democracy, and Development", "Partido para a Paz Democracia e Desenvolvimento"]
    wikidataQnode: ["Q1685523"]
-   yearsActiveasEntity: ["2004-2014"] ##active as an entity
+   yearsActiveasParty: ["2004-2014"] ##active as an entity
    yearsActiveasParty: [] ##active as a political party
-  ipmParty:
+  IpmParty:
    stringTokens: ["Independent Party of Mozambique", "Partido Independente de Moçambique"]
    wikidataQnode: ["Q1129057"]
-   yearsActiveasEntity: ["1994-2014"] ##active as an entity
+   yearsActiveasParty: ["1994-2014"] ##active as an entity
    yearsActiveasParty: ["1994-2014"] ##active as a political party
-  ldpmParty:
+  LdpmParty:
    stringTokens: ["Liberal and Democratic Party of Mozambique", "Partido Liberal e Democrático de Moçambique"]
    wikidataQnode: ["Q16908615"]
-   yearsActiveasEntity: ["1999-2004"] ##active as an entity
+   yearsActiveasParty: ["1999-2004"] ##active as an entity
    yearsActiveasParty: ["1999-2004"] ##active as a political party
-  pfsParty:
+  PfsParty:
    stringTokens: ["Party of Freedom and Solidarity", "Partido para a Liberdade e Solidariedade"]
    wikidataQnode: ["Q4140574"]
-   yearsActiveasEntity: ["2004-2014"] ##active as an entity
+   yearsActiveasParty: ["2004-2014"] ##active as an entity
    yearsActiveasParty: ["2004"] ##active as a political party
-  sldpParty:
+  SldpParty:
    stringTokens: ["Social Liberal and Democratic Party", "Partido Social-Liberal e Democrático"]
    wikidataQnode: ["Q7550711"]
-   yearsActiveasEntity: [] ##active as an entity
+   yearsActiveasParty: [] ##active as an entity
    yearsActiveasParty: [] ##active as a political party
-  gpmParty:
+  GpmParty:
    stringTokens: ["Greens Party of Mozambique", "Partido os Verdes de Moçambique", "PVM"]
    wikidataQnode: ["Q18125288"]
-   yearsActiveasEntity: ["1997-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["1997-Present"] ##active as a political party
-  paParty:
+   yearsActiveasParty: ["1997-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1997-present"] ##active as a political party
+  PaParty:
    stringTokens: ["Patriotic Alliance"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1994"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1994"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1994"] ##active as a political party
-  slpParty:
+  SlpParty:
    stringTokens: ["Social Liberal Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1994-2014"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1994-2014"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1994-2014"] ##active as a political party
-  mufdcpParty:
+  MufdcpParty:
    stringTokens: ["Mozambique United Front-Democratic Convergence Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1994"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1994"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1994"] ##active as a political party
-  dcpParty:
+  DcpParty:
    stringTokens: ["Democratic Congress Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1994"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1994"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1994"] ##active as a political party
-  mpppParty:
+  MpppParty:
    stringTokens: ["Mozambique People's Progress Party"]
    wikidataQnode: []
-   yearsActiveasEntity: [1994-Present] #active as an entity AT LEAST CHECK
+   yearsActiveasParty: [1994-present] #active as an entity AT LEAST CHECK
    yearsActiveasParty: [] #active as a political party
-  drpParty:
+  DrpParty:
    stringTokens: ["Democratic Renewal Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1994"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1994"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1994"] ##active as a political party
-  mdpParty:
+  MdpParty:
    stringTokens: ["Mozambique Democratic Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1994"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1994"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1994"] ##active as a political party
-  mnuParty:
+  MnuParty:
    stringTokens: ["Mozambique National Union"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1994"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1994"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1994"] ##active as a political party
-  lpParty:
+  LpParty:
    stringTokens: ["Labor Party", "Labour Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1999-Present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1999-present"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: [] ##active as a political party
-  mouParty:
+  MouParty:
    stringTokens: ["Mozambican Opposition Union"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1999"] #active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1999"] #active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1999"] #active as a political party
-  duParty:
+  DuParty:
    stringTokens: ["Democratic Union"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1994-2004"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1994-2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: [] ##active as a political party
-  mdlpParty:
+  MdlpParty:
    stringTokens: ["Mozambique Democratic Liberal Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1999-2004"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1999-2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1999-2004"] ##active as a political party
-  nwppParty:
+  NwppParty:
    stringTokens: ["National Workers and Peasants Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1999-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["1999-Present"] ##active as a political party
-  plpmParty:
+   yearsActiveasParty: ["1999-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1999-present"] ##active as a political party
+  PlpmParty:
    stringTokens: ["Progressive Liberal Party of Mozambique"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1999"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1999"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["1999"] ##active as a political party
-  msbpParty:
+  MsbpParty:
    stringTokens: ["Mozambique Social Broadening Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["1999-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["1999-Present"] ##active as a political party
-  nrpParty:
+   yearsActiveasParty: ["1999-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["1999-present"] ##active as a political party
+  NrpParty:
    stringTokens: ["National Reconciliation Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2004-2019"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2004-2019"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004-2019"] ##active as a political party
-  eplmParty:
+  EplmParty:
    stringTokens: ["Ecological Party-Land Movement"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2004-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2004-Present"] ##active as a political party
-  ufcggParty-Mozambique:
+   yearsActiveasParty: ["2004-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2004-present"] ##active as a political party
+  UfcggParty-Mozambique:
    stringTokens: ["United Front for Change and Good Governance"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004"] ##active as a political party
-  usmParty:
+  UsmParty:
    stringTokens: ["Union for the Salvation of Mozambique"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004"] ##active as a political party
-  bofParty:
+  BofParty:
    stringTokens: ["Broad Opposition Front"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004"] ##active as a political party
-  ucdParty:
+  UcdParty:
    stringTokens: ["United Congress of Democrats"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2004"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2004"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004"] ##active as a political party
-  pdpParty:
+  PdpParty:
    stringTokens: ["People's Democratic Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2004-2009"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2004-2009"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2004-2009"] ##active as a political party
-  pldParty:
+  PldParty:
    stringTokens: ["Party for Liberty and Development"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2009"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2009"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2009"] ##active as a political party
-  davdParty:
+  DavdParty:
    stringTokens: ["Democratic Alliance of Veterans for Development"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2009"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2009"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2009"] ##active as a political party
-  pmdParty:
+  PmdParty:
    stringTokens: ["Patriotic Movement for Democracy"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2009-Present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2009-present"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: [] ##active as a political party
-  umdParty:
+  UmdParty:
    stringTokens: ["Union of Mozambican Democrats"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2009"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2009"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2009"] ##active as a political party
-  ucParty:
+  UcParty:
    stringTokens: ["Union for Change"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2009-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2009-Present"] ##active as a political party
-  sdrpParty:
+   yearsActiveasParty: ["2009-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2009-present"] ##active as a political party
+  SdrpParty:
    stringTokens: ["Social Democratic Reconciliation Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2009-2014"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2009-2014"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: [] ##active as a political party
-  ymrdParty:
+  YmrdParty:
    stringTokens: ["Youth Movement for the Restoration of Democracy"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2014-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2014-Present"] ##active as a political party
-  urpParty:
+   yearsActiveasParty: ["2014-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2014-present"] ##active as a political party
+  UrpParty:
    stringTokens: ["Union for Reconciliation Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2014-Present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2014-present"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: [] ##active as a political party
-  pfdParty-Mozambique:
+  PfdParty-Mozambique:
    stringTokens: ["Party of Freedom and Development"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2014-Present"] ### as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2014-present"] ### as an entity AT LEAST CHECK
    yearsActiveasParty: [] ##active as a political party
-  nmrmuParty:
+  NmrmuParty:
    stringTokens: ["National Movement for the Recovery of Mozambican Unity"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2004-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2004-Present"] ##active as a political party
-  hpmParty:
+   yearsActiveasParty: ["2004-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2004-present"] ##active as a political party
+  HpmParty:
    stringTokens: ["Humanitarian Party of Mozambique"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2014"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2014"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2014"] ##active as a political party
-  srpParty:
+  SrpParty:
    stringTokens: ["Social Renewal Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2014-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2014-Present"] ##active as a political party
-  upmdfParty:
+   yearsActiveasParty: ["2014-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2014-present"] ##active as a political party
+  UpmdfParty:
    stringTokens: ["United Party of Mozambique for Democratic Freedom"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2014"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2014"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2014"] ##active as a political party
-  isdpParty:
+  IsdpParty:
    stringTokens: ["Independent Social Democratic Party"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2014"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2014"] ##active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2014"] ##active as a political party
-  auspmParty:
+  AuspmParty:
    stringTokens: ["African Union for the Salvation of the People of Mozambique"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2014"] #active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2014"] #active as an entity AT LEAST CHECK
    yearsActiveasParty: ["2014"] #active as a political party
-  apumisParty:
+  ApumisParty:
    stringTokens: ["Action Party of the United Movement for Integral Salvation"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2019-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2019-Present"] ##active as a political party
-  ndParty:
+   yearsActiveasParty: ["2019-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2019-present"] ##active as a political party
+  NdParty:
    stringTokens: ["New Democracy"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2019-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2019-Present"] ##active as a political party
-  opdmParty:
+   yearsActiveasParty: ["2019-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2019-present"] ##active as a political party
+  OpdmParty:
    stringTokens: ["Optimistic People for the Development of Mozambique"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2019-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2019-Present"] ##active as a political party
-  npmpcrdParty:
+   yearsActiveasParty: ["2019-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2019-present"] ##active as a political party
+  NpmpcrdParty:
    stringTokens: ["National Party of the Mozambican People/CRD"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2019-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2019-Present"] ##active as a political party
-  epmParty:
+   yearsActiveasParty: ["2019-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2019-present"] ##active as a political party
+  EpmParty:
    stringTokens: ["Ecological Party of Mozambique"]
    wikidataQnode: []
-   yearsActiveasEntity: [2019-Present] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2019-Present"] ##active as a political party
-  duParty1:
+   yearsActiveasParty: [2019-present] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2019-present"] ##active as a political party
+  DuParty1:
    stringTokens: ["Democratic Unity"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2019-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2019-Present"] ##active as a political party
-  djpmParty: ##Democratic Justice Party of Mozambique 2019
+   yearsActiveasParty: ["2019-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2019-present"] ##active as a political party
+  DjpmParty: ##Democratic Justice Party of Mozambique 2019
    stringTokens: ["Democratic Justice Party of Mozambique"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2019-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2019-Present"] ##active as a political party
-  dumParty:
+   yearsActiveasParty: ["2019-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2019-present"] ##active as a political party
+  DumParty:
    stringTokens: ["Democratic Union of Mozambique"]
    wikidataQnode: []
-   yearsActiveasEntity: ["2019-Present"] ##active as an entity AT LEAST CHECK
-   yearsActiveasParty: ["2019-Present"] ##active as a political party
-  lfParty:
+   yearsActiveasParty: ["2019-present"] ##active as an entity AT LEAST CHECK
+   yearsActiveasParty: ["2019-present"] ##active as a political party
+  LfParty:
       stringTokens: ["Liberal Front", "Frente Liberal"]
-      wikidataQnode: [""]
-      yearsActiveasEntity: ["1997"] ##active as an entity AT LEAST CHECK
+      wikidataQnode: []
+      yearsActiveasParty: ["1997"] ##active as an entity AT LEAST CHECK
       yearsActiveasParty: [] ##active as a political party
 #rebel groups
   renamoarmedNonGovernmentalOrganizedGroup:
@@ -488,33 +488,33 @@ concepts:
    wikidataQnode: ["Q1425821"]
    associatedEthnicGroup: []
    regionsMostActive: ["Cabo Delgado", "Gaza", "Inhambane", "Manica", "Maputo", "Nampula", "Niassa", "Sofala", "Tete", "Zambezia"]
-   yearsActiveasArmed: ["1964-1977", "2013-2019"] ##CHECK LAST DATES
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1964-1977", "2013-2019"] ##CHECK LAST DATES
    ideologicalOrientation: ["nationalism", "conservatism", "economicLiberalism", "antiCommunism"]
-  ancarmedNonGovernmentalOrganizedGroup:
+  AncarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ANC", "African National Congress"] ## they apparently had a presence in mozambique when fight againt ZA according to AG data set
    wikidataQnode: ["Q83162"]
    associatedEthnicGroup: []
    regionsMostActive: ["South Africa"]
-   yearsActiveasArmed: ["1961-1990"] ##CHECK LAST DATES
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1961-1990"] ##CHECK LAST DATES
    ideologicalOrientation: ["nationalism", "socialDemocracy"]
-  zanuarmedNonGovernmentalOrganizedGroup:
+  ZanuarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ZANU", "Zimbabwe African National Union"]
    wikidataQnode: ["Q203427"]
    associatedEthnicGroup: []
    regionsMostActive: ["Zimbabwe"]
-   yearsActiveasArmed: ["1961-1975"] ##CHECK LAST DATES
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1961-1975"] ##CHECK LAST DATES
    ideologicalOrientation: ["socialism", "nationalism", "panAfricanism"]
-  ansaralSunnaarmedNonGovernmentalOrganizedGroup:
+  AnsaralSunnaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Shabaab", "Ansar al-Sunna",  "Ahlu Sunna Wal Jammah", "The Youth", "IS-CAP", "IS-Central Africa Province"]
    wikidataQnode: ["Q53081261"]
    associatedEthnicGroup: []
    regionsMostActive: ["Cabo Delgado"]
-   yearsActiveasArmed: ["2017-Present"] ##CHECK LAST DATES
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2017-present"] ##CHECK LAST DATES
    ideologicalOrientation: ["sunniIslam", "salafism", "jihadism"]
-  isisarmedNonGovernmentalOrganizedGroup:
+  IsisarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["ISIS", "IS"]
    wikidataQnode: ["Q2429253"]
    associatedEthnicGroup: []
    regionsMostActive: ["Cabo Delgado"]
-   yearsActiveasArmed: ["2017-Present"] ##CHECK LAST DATES
-   ideologicalOrientation: ["salafism", "islamist", "jihadism"}
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2017-present"] ##CHECK LAST DATES
+   ideologicalOrientation: ["salafism", "islamist", "jihadism"]

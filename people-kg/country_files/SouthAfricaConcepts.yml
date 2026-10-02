@@ -2,12 +2,12 @@ concepts:
   SouthAfricanDefenceForces:
     stringTokens: ["South African Defence Force", "SADF", "Suid-Afrikaanse Weermag", "military of South Africa", "military of South Africa(1957-1994)"]
     wikidataQnode: ["Q381383"]
-    yearsActiveasMilitaty: ["1957-1994"]
+    yearsActiveasParty: ["1957-1994"]
   
   SouthAfricanNationalDefenceForces:
     stringTokens: ["South African National Defence Force", "SANDF", "military of South Africa"]
     wikidataQnode: ["Q305314"]
-    yearsActiveasMilitaty: ["1994-present"]
+    yearsActiveasParty: ["1994-present"]
 
 ###EthnicGroups:
   XhosaEthnicGroup:
@@ -15,14 +15,14 @@ concepts:
     wikidataQnode: ["Q207996"]
     languagesMostSpoken: ["IsiXhosa", "Zulu", "Sesotho", "English", "Afrikaans"]
     religionsMostPracticed: ["Traditional African religion", "Christianity"]
-    livesIn: [""]
+    livesIn: []
   
   ZuluEthnicGroup:
     stringTokens: ["Zulu people", "Zulu", "amaZulu", "Zulu manes", "Isizulu", "Kafirs", "Zulus", "Zunda"]
     wikidataQnode: ["Q129962"]
     languagesMostSpoken: ["Zulu", "Tsonga", "Sotho", "English", "IsiZulu"]
     religionsMostPracticed: ["Christianity", "Zulu religion"]
-    livesIn: [""]
+    livesIn: []
   
   PediEthnicGroup:
     stringTokens: ["Pedi", "Bapedi", "Sotho", "Basotho", "Northern Sotho", "Basotho ba Lebowa", "Transvaal Sotho", "Marota", "Bamaroteng", "Sotho-Tswana"]
@@ -36,28 +36,28 @@ concepts:
     wikidataQnode: ["Q385799"]
     languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
     religionsMostPracticed: ["Calvinism", "Other Protestants", "Catholicism"]
-    livesIn: [""]
+    livesIn: []
   
   ColouredsEthnicGroup:
     stringTokens: ["Coloured", "Coloureds", "Kleurlinge", "Bruinmense"]
     wikidataQnode: ["Q1130204"]
     languagesMostSpoken: ["Afrikaans", "English", "IsiXhosa", "Setswana"]
     religionsMostPracticed: ["Christianity", "Islam"]
-    livesIn: [""]
+    livesIn: []
   
   SothoEthnicGroup:
     stringTokens: ["South Sotho", "Southern Sotho speakers","Basuto", "Suthu","Souto", "Suto", "Basutos", "Sotho", "Basotho"]
     wikidataQnode: ["Q577576"]
     languagesMostSpoken: ["Sesotho", "IsiXhosa", "IsiZulu", "English", "Afrikaans"]
     religionsMostPracticed: ["Christianity", "African traditional religion"]
-    livesIn: [""]
+    livesIn: []
   
   TswanaEthnicGroup:
     stringTokens: ["Tswana", "Tswana people" , "Batswana", "Motswana", "Bechuana", "Chuana", "Western Sotho", "Bechuanas"]
     wikidataQnode: ["Q810917"]
     languagesMostSpoken: ["Setswana", "English", "Afrikaans", "Nama"]
     religionsMostPracticed: ["Christianity", "African traditional religion"]
-    livesIn: [""]
+    livesIn: []
   
   TsongaEthnicGroup:
     stringTokens: ["Tsonga people", "Tsonga", "Vatsonga", "Baronga", "Bathonga", "Nhlanganue", "Ronga", "Songa", "Thonga", "Tonga"]
@@ -91,14 +91,14 @@ concepts:
     stringTokens: ["Chinese", "Chinese South Africans"]
     wikidataQnode: ["Q2400459"]
     languagesMostSpoken: ["English", "Afrikaans", "Cantonese", "Mandarin", "Hokkien"]
-    religionsMostPracticed: [""]
+    religionsMostPracticed: []
     livesIn: ["Gauteng", "KwaZulu-Natal", "Western Cape", "Eastern Cape"]
   
   HonoraryWhitesEthnicGroup:
     stringTokens: ["Honorary Whites", "East Asians"]
     wikidataQnode: ["Q6148763"]
     languagesMostSpoken: ["English", "Afrikaans", "Japanese", "Korean", "Cantonese", "Mandarin", "Hokkien"]
-    religionsMostPracticed: [""]
+    religionsMostPracticed: []
     livesIn: ["Gauteng", "KwaZulu-Natal", "Western Cape", "Eastern Cape"]
     
   VendaEthnicGroup:
@@ -106,71 +106,71 @@ concepts:
     wikidataQnode: ["Q1785209"]
     languagesMostSpoken: ["Tshi-Venda", "Venda language", "Bantu"]
     religionsMostPracticed: ["Christianity", "Traditional African religion"]
-    livesIn: [""]
+    livesIn: []
     
   NdebeleEthnicGroup:
     stringTokens: ["Ndebele", "Southern Ndebele people", "amaNdebele", "Nguni"]
     wikidataQnode: ["Q1972827"]
     languagesMostSpoken: ["Southern Ndebele language", "siNdebele"]
     religionsMostPracticed: ["Christianity", "Traditional African religion"]
-    livesIn: [""]
+    livesIn: []
     
 ###Linguisticgroups
   CamthoLinguisticGroup:
      stringTokens: ["Camtho", "Tsotsitaal"]
      wikidataQnode: ["Q63036871"]
      livesIn: ["Gauteng province"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
   FanagaloLinguisticGroup:
      stringTokens: ["Fanagalo", "Pidgin Zulu"]
      wikidataQnode: ["Q35727"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
   AfrikaansLinguisticGroup:
      stringTokens: ["Afrikaans"]
      wikidataQnode: ["Q14196"]
-     livesIn: [""]
-     associatedethnicgroup: ["AfrikanersEthnicGroup-SouthAfrica"]
+     livesIn: []
+     associatedEthnicGroup: ["AfrikanersEthnicGroup-SouthAfrica"]
   KoranaLinguisticGroup:
      stringTokens: ["ǃOrakobab", "Khoemana", "Korana", "ǃOra", "Griqua"]
      wikidataQnode: ["Q2756709"]
-     livesIn: [""]
-     associatedethnicgroup: ["Griqua people"]
+     livesIn: []
+     associatedEthnicGroup: ["Griqua people"]
   NdebeleLinguisticGroup:
      stringTokens: ["Ndebele", "Southern Ndebele "]
      wikidataQnode: ["Q36785"]
      livesIn: ["Mpumalanga", "Limpopo", "Gauteng", "North West"]
-     associatedethnicgroup: ["NdebeleEthnicGroup"]
+     associatedEthnicGroup: ["NdebeleEthnicGroup"]
   NorthernSothoLinguisticGroup:
-     stringTokens: ["Northern Sotho", "Sepedi]
-     wikidataQnode: [""]
+     stringTokens: ["Northern Sotho", "Sepedi"]
+     wikidataQnode: []
      livesIn: ["Gauteng", "Limpopo", "Mpumalanga"]
-     associatedethnicgroup: ["Mohlala people", "MaPulana people", "PediEthnicGroup", "Lobedu", "Pulana", "Tlôkwa", "XhosaEthnicGroup", "ZuluEthnicGroup", "SothoEthnicGroup", "TswanaEthnicGroup"]
+     associatedEthnicGroup: ["Mohlala people", "MaPulana people", "PediEthnicGroup", "Lobedu", "Pulana", "Tlôkwa", "XhosaEthnicGroup", "ZuluEthnicGroup", "SothoEthnicGroup", "TswanaEthnicGroup"]
   OorlamsCreoleLinguisticGroup:
      stringTokens: ["Oorlams Creole", "Oorlams"]
      wikidataQnode: ["Q2484337"]
-     livesIn: [""]
-     associatedethnicgroup: ["Oorlam people"]
+     livesIn: []
+     associatedEthnicGroup: ["Oorlam people"]
   TsongaLinguisticGroup:
      stringTokens: ["Tsonga", "Xitsonga", "ts", "Xitsonga", "Changana", "Shangana", "Shangani", "xiChanganax", "iShangana"]
      wikidataQnode: ["Q34327"]
      livesIn: ["Gauteng", "Limpopo", "Mpumalanga", "Gaza Province", "Maputo Province", "Maputo City", "Chiredzi District", "Mwenenzi District"]
-     associatedethnicgroup: ["Tsonga people", "ZuluEthnicGroup"]
+     associatedEthnicGroup: ["Tsonga people", "ZuluEthnicGroup"]
   VendaLinguisticGroup:
      stringTokens: ["Venda", "Tshivenḓa"]
      wikidataQnode: ["Q32704"]
      livesIn: ["Limpopo"]
-     associatedethnicgroup: ["VendaEthnicGroup"]
+     associatedEthnicGroup: ["VendaEthnicGroup"]
   XhosaLinguisticGroup:
      stringTokens: ["Xhosa", "isiXhosa"]
      wikidataQnode: ["Q13218"]
      livesIn: ["Eastern Cape", "Western Cape", "Northern Cape", "Gauteng"]
-     associatedethnicgroup: ["XhosaEthnicGroup"]
+     associatedEthnicGroup: ["XhosaEthnicGroup"]
   ZuluLinguisticGroup:
      stringTokens: ["Zulu", "isiZulu"]
      wikidataQnode: ["Q10179"]
      livesIn: ["KwaZulu-Natal", "southern Mpumalanga"]
-     associatedethnicgroup: ["ZuluEthnicGroup"]
+     associatedEthnicGroup: ["ZuluEthnicGroup"]
   
 ###PoliticalParties
 
@@ -213,7 +213,7 @@ concepts:
    associatedEthnicGroup: ["Afrikaners", "White"] # pro-apartheid
    wikidataQnode: ["Q776414"]
    yearsActiveasParty: ["1982-2004"]
-   ideologicalOrientation: ["farRight", "socialConservatism", "nationalConservatism", "economicLiberalism", "apartheid", "whiteSupremacy", "scientificRacism"
+   ideologicalOrientation: ["farRight", "socialConservatism", "nationalConservatism", "economicLiberalism", "apartheid", "whiteSupremacy", "scientificRacism"]
   
   DAParty:
    stringTokens: ["Democratic Alliance", "Demokratiese Alliansie", "DA", "DF"]
@@ -444,93 +444,93 @@ concepts:
    ideologicalOrientation: ["right", "christianDemocracy", "economicLiberalism", "nationalConservatism", "socialConservatism"]
 
 ##Armed groups
- SWAPOarmedNonGovernmentalOrganizedGroup-SouthAfrica:
-  stringTokens: ["SWAPO", "South West Africa People's Organisation"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: ["Q467711"]
-  ideologicalOrientation: ["socialism", "socialDemocracy", "statism"]
- MKarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["MK", "uMkhonto we Sizwe", "Spear of the Nation"]
-  associatedEthnicGroup: [""]
-  yearsActive: ["1961-1993"]
-  wikidataQnode: ["Q1136236"]
-  ideologicalOrientation: ["communism", "marxism", "antiApartheid", "nationalism", "panAfricanism"]
- BBBarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["BBB", "Blanke Bevrydingsbewegin"]
-  associatedEthnicGroup: ["whiteEthnicGroup", "afrikaansEthnicGroup-SouthAfrica"]
-  wikidataQnode: ["Q15980788"]
-  ideologicalOrientation: ["whiteNationalism", "antiSemitism", "neoNazism", "farRight"]
- SAYRCOarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["SAYRCO", "South African Youth Revolutionary Council"]
-  wikidataQnode: ["Q7565816"]
-BoeremagarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["Boeremag"]
-  associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
-  wikidataQnode: ["Q1130353"]
-  ideologicalOrientation: ["whiteNationalism", "farRight"]
-AWBarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["AWB", "Afrikaner Weerstandsbeweging", "Afrikaner Resistance Movement"]
-  associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
-  wikidataQnode: ["Q385873"]
-  ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
-OVDarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["Orde van die Dood", "OVD", "Order of the Dead"]
-  associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
-  wikidataQnode: ["Q7100374"]
-  ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
-APLAarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["Azanian People's Liberation Army", "APLA", "Poqo"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: ["Q3643845"]
-  ideologicalOrientation: ["nationalism", "socialism", "panAfricanism"]
-AZANLAarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["Azanian National Liberation Army", "AZANLA"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: [""]
-  ideologicalOrientation: ["nationalism", "socialism", "panAfricanism"]
-KabasaarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["kabasa"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: [""]
-RAarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["RA"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: [""]
-WitdoekearmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["witdoeke", "white armed bands"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: ["Q2586470"]  
-  ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
-UDFarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["UDF", "United Democratic Front"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: ["Q1529503"]
-  ideologicalOrientation: ["antiApartheid", "democracy"]
-BCMarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["BCM", "Black Consciousness Movement"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: ["Q880194"]  
-  ideologicalOrientation: ["antiApartheid"]
-cotedaarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["coteda", "Cape Organisation for the Democratic Taxi Association"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: ["Q110800315"]
-CATAarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["CATA", "Cape Amalgamated Taxi Association"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: [""]
-WebtaarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["Western Cape Black Taxi Association", "Webta"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: [""]
-LagunyaarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["lagunya"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: [""]
-NUMarmedNonGovernmentalOrganizedGroup:
-  stringTokens: ["NUM", "National Union of Mineworkers"]
-  associatedEthnicGroup: [""]
-  wikidataQnode: ["Q2485877"]
+  SWAPOarmedNonGovernmentalOrganizedGroup-SouthAfrica:
+   stringTokens: ["SWAPO", "South West Africa People's Organisation"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q467711"]
+   ideologicalOrientation: ["socialism", "socialDemocracy", "statism"]
+  MKarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["MK", "uMkhonto we Sizwe", "Spear of the Nation"]
+   associatedEthnicGroup: []
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1961-1993"]
+   wikidataQnode: ["Q1136236"]
+   ideologicalOrientation: ["communism", "marxism", "antiApartheid", "nationalism", "panAfricanism"]
+  BBBarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["BBB", "Blanke Bevrydingsbewegin"]
+   associatedEthnicGroup: ["whiteEthnicGroup", "afrikaansEthnicGroup-SouthAfrica"]
+   wikidataQnode: ["Q15980788"]
+   ideologicalOrientation: ["whiteNationalism", "antiSemitism", "neoNazism", "farRight"]
+  SAYRCOarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["SAYRCO", "South African Youth Revolutionary Council"]
+   wikidataQnode: ["Q7565816"]
+  BoeremagarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Boeremag"]
+   associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
+   wikidataQnode: ["Q1130353"]
+   ideologicalOrientation: ["whiteNationalism", "farRight"]
+  AWBarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["AWB", "Afrikaner Weerstandsbeweging", "Afrikaner Resistance Movement"]
+   associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
+   wikidataQnode: ["Q385873"]
+   ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
+  OVDarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Orde van die Dood", "OVD", "Order of the Dead"]
+   associatedEthnicGroup: ["afrikaansEthnicGroup-SouthAfrica"]
+   wikidataQnode: ["Q7100374"]
+   ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
+  APLAarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Azanian People's Liberation Army", "APLA", "Poqo"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q3643845"]
+   ideologicalOrientation: ["nationalism", "socialism", "panAfricanism"]
+  AZANLAarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Azanian National Liberation Army", "AZANLA"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+   ideologicalOrientation: ["nationalism", "socialism", "panAfricanism"]
+  KabasaarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["kabasa"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+  RAarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["RA"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+  WitdoekearmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["witdoeke", "white armed bands"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q2586470"]  
+   ideologicalOrientation: ["apartheid", "nationalism", "NeoNazism", "whiteNationalism", "negrophobia", "antiSemitism", "antiCommunism"]
+  UDFarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["UDF", "United Democratic Front"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q1529503"]
+   ideologicalOrientation: ["antiApartheid", "democracy"]
+  BCMarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["BCM", "Black Consciousness Movement"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q880194"]  
+   ideologicalOrientation: ["antiApartheid"]
+  CotedaarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["coteda", "Cape Organisation for the Democratic Taxi Association"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q110800315"]
+  CATAarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["CATA", "Cape Amalgamated Taxi Association"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+  WebtaarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["Western Cape Black Taxi Association", "Webta"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+  LagunyaarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["lagunya"]
+   associatedEthnicGroup: []
+   wikidataQnode: []
+  NUMarmedNonGovernmentalOrganizedGroup:
+   stringTokens: ["NUM", "National Union of Mineworkers"]
+   associatedEthnicGroup: []
+   wikidataQnode: ["Q2485877"]
   
   
   

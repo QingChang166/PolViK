@@ -21,11 +21,11 @@ concepts:
     country: QAT
   167503Pgc:
     GID: QAT
-    conceptID: QAT_Adm0
+    conceptID: QAT.0_Adm0
     admin_name: Qatar
     country: QAT
   166784Pgc:
     GID: QAT
-    conceptID: QAT_Adm0
+    conceptID: QAT.0_Adm0
     admin_name: Qatar
     country: QAT

@@ -3,31 +3,31 @@ concepts:
      stringTokens: ["Chadian Security Forces", "CSF", "Chad National Army", "Military of Chad", "Chadian National Army", "ANT"]
      wikidataQnode: ["Q874971"]
   ## ethnicgroups
-   toubouEthnicGroup:
+   ToubouEthnicGroup:
      stringTokens: ["Toubou", "Toubou people", "Tubu", "Gorane"]
      wikidataQnode: ["Q521547"]
      languagesMostSpoken: ["Tebu languages", "Arabic"]
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Tibesti"]
-   saraEthnicGroup:
+   SaraEthnicGroup:
      stringTokens: ["Sara", "Sara people"]
      wikidataQnode: ["Q969552"]
      languagesMostSpoken: ["Sara languages"]
      religionsMostPracticed: ["Christianity", "African traditional religion", "Islam"]
      livesIn: ["Logone", "Moyen-Chari", "Chari-Baguirmi", "Mandoul", "Mayo-Kebbi"]
-   tamaEthnicGroup:
+   TamaEthnicGroup:
      stringTokens: ["Tama", "Tama people"]
      wikidataQnode: ["Q3847982"]
      languagesMostSpoken: ["Tama language"]
      religionsMostPracticed: ["Muslim"]
      livesIn: ["Hadjer-Lamis", "Hadjerai"]
-   zaghawaEthnicGroup:
+   ZaghawaEthnicGroup:
      stringTokens: ["Zaghawa", "Zaghawa people"]
      wikidataQnode: ["Q140328"]
      languagesMostSpoken: ["Beria"]
      religionsMostPracticed: ["Sunni Islam"]
      livesIn: ["Tibesti", "Borkou", "Ennedi", "Wadi Fira"]
-   hadjaraiEthnicGroup:
+   HadjaraiEthnicGroup:
      stringTokens: ["Hadjarai"]
      wikidataQnode: ["Q5637911"]
      languagesMostSpoken: ["Hadjarai language"]
@@ -43,203 +43,203 @@ concepts:
    AdamawaFulfuldeLinguisticGroup:
      stringTokens: ["Adamawa Fulfulde", "adamaua fulani", "Adamaua-Fulfulde"]
      wikidataQnode: ["Q34776"]
-     livesIn: [""]
-     associatedethnicgroup: ["Fula people"]
+     livesIn: []
+     associatedEthnicGroup: ["Fula people"]
    AmdangLinguisticGroup:
      stringTokens: ["Amdang", "Biltine"]
      wikidataQnode: ["Q28335"]
      livesIn: ["Biltine, Wadi Fira"]
-     associatedethnicgroup: ["Amdang people"]
+     associatedEthnicGroup: ["Amdang people"]
    DobaLinguisticGroup:
      stringTokens: ["Doba"]
      wikidataQnode: ["Q56358"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
    ChadianArabicLinguisticGroup:
      stringTokens: ["Chadian Arabic", "Shuwa Arabic", "Western Sudanic Arabic", "West Sudanic Arabic", "Shuwa", "Shua", "Suwa Arabic", "Baggara Arabic", "Turku"]
      wikidataQnode: ["Q56497"]
-     livesIn: [""]
-     associatedethnicgroup: ["Arab people"]
+     livesIn: []
+     associatedEthnicGroup: ["Arab people"]
    DazaLinguisticGroup:
      stringTokens: ["Daza", "Dazaga"]
      wikidataQnode: ["Q35244"]
-     livesIn: [""]
-     associatedethnicgroup: ["Daza people", "Toubou people"]
+     livesIn: []
+     associatedEthnicGroup: ["Daza people", "Toubou people"]
    FurLinguisticGroup:
      stringTokens: ["Fur"]
      wikidataQnode: ["Q33364"]
      livesIn: ["Sila"]
-     associatedethnicgroup: ["Fur people"]
+     associatedEthnicGroup: ["Fur people"]
    GulayLinguisticGroup:
      stringTokens: ["Gulay", "Gulai", "Gulei"]
      wikidataQnode: ["Q641737"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
    KanembuLinguisticGroup:
      stringTokens: ["Kanembu"]
      wikidataQnode: ["Q35521"]
      livesIn: ["Barh el Gazel", "Hadjer-Lamis"]
-     associatedethnicgroup: ["Kanembu people"]
+     associatedEthnicGroup: ["Kanembu people"]
    MabaLinguisticGroup:
      stringTokens: ["Maba", "Maban", "Mabang", "Bura Mabang"]
-     wikidataQnode: ["Ouaddaï", "Wadi Fira"]
-     livesIn: ["Q35860"]
-     associatedethnicgroup: ["Maba people"]
+     wikidataQnode: ["Q35860"]
+     livesIn: ["Ouaddaï", "Wadi Fira"]
+     associatedEthnicGroup: ["Maba people"]
    MarbaLinguisticGroup:
      stringTokens: ["Marba", "Azumeina"]
      wikidataQnode: ["Q56614"]
-     livesIn: [""]
-     associatedethnicgroup: ["Azumeina people"]
+     livesIn: []
+     associatedEthnicGroup: ["Azumeina people"]
    MasalitLinguisticGroup:
      stringTokens: ["Masalit"]
      wikidataQnode: ["Q56557"]
      livesIn: ["Ouaddaï"]
-     associatedethnicgroup: ["Masalit people"]
+     associatedEthnicGroup: ["Masalit people"]
    MassaLinguisticGroup:
      stringTokens: ["Massa", "Masana", "Masa"]
      wikidataQnode: ["Q56668"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
    MundangLinguisticGroup:
      stringTokens: ["Mundang", "Kaele", "Musemban", "Nda", "Moundan"]
      wikidataQnode: ["Q36032"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
    MuseyLinguisticGroup:
      stringTokens: ["Musey"]
      wikidataQnode: ["Q56328"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
    MusguLinguisticGroup:
      stringTokens: ["Musgu"]
      wikidataQnode: ["Q3123545"]
      livesIn: ["Batha", "Chari-Baguirmi"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
    NabaLinguisticGroup:
      stringTokens: ["Naba"]
      wikidataQnode: ["Q760732"]
-     livesIn: [""]
-     associatedethnicgroup: ["Lisi people"]
+     livesIn: []
+     associatedEthnicGroup: ["Lisi people"]
    NancereLinguisticGroup:
      stringTokens: ["Nancere"]
      wikidataQnode: ["Q3140491"]
      livesIn: ["Tandjilé Region"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
    NgambayLinguisticGroup:
      stringTokens: ["Ngambay", "Sara", "Sara Ngambai", "Gamba", "Gambaye", "Gamblai", "Ngambai"]
      wikidataQnode: ["Q2372207"]
-     livesIn: [""]
-     associatedethnicgroup: ["Sara people"]
+     livesIn: []
+     associatedEthnicGroup: ["Sara people"]
    SarLinguisticGroup:
      stringTokens: ["Sar", "Sara", "Madjingay", "Sara Madjingay"]
      wikidataQnode: ["Q56850"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
    TamaLinguisticGroup:
      stringTokens: ["Tama", "Tamongobo"]
      wikidataQnode: ["Q57001"]
      livesIn: ["Ouaddai", "Wadi Fira"]
-     associatedethnicgroup: ["Tama people"]
+     associatedEthnicGroup: ["Tama people"]
    TupuriLinguisticGroup:
      stringTokens: ["Tupuri", "Toupouri"]
      wikidataQnode: ["Q36646"]
-     livesIn: [""]
-     associatedethnicgroup: ["Tupuri people"]
+     livesIn: []
+     associatedEthnicGroup: ["Tupuri people"]
    KanuriLinguisticGroup:
      stringTokens: ["Kanuri"]
      wikidataQnode: ["Q36094"]
-     livesIn: [""]
-     associatedethnicgroup: ["Kanuri people", "Kanembu peoples"]
+     livesIn: []
+     associatedEthnicGroup: ["Kanuri people", "Kanembu peoples"]
   ## politicalparties
-   csaParty:
+   CsaParty:
      stringTokens: ["Chadian Social Action", "AST", "Action Sociale Tchadienne"]
      wikidataQnode:  ["Q5066454"]
-   pptParty:
+   PptParty:
      stringTokens: ["National Movement for the Cultural and Social Revolution", "Chadian Progressive Party", "PPT"]
      wikidataQnode:  ["Q1970314"]
      associatedEthnicGroup: ["Sara people"]
-   urdParty:
+   UrdParty:
      stringTokens: ["Union for Renewal and Democracy", "URD"]
      wikidataQnode:  ["Q669116"]
-   mpsParty:
+   MpsParty:
      stringTokens: ["Patriotic Salvation Movement", "MPS"]
      wikidataQnode:  ["Q1576278"]
      ideologicalOrientation: ["bigTent", "nationalism"]
-   rdpParty:
+   RdpParty:
      stringTokens: ["Rally for Democracy and Progress", "Rassemblement pour la démocratie et le progrès"]
      wikidataQnode:  ["Q3623619"]
-   farParty:
+   FarParty:
      stringTokens: ["Federation, Action for the Republic", "FAR"]
      wikidataQnode:  ["Q5440722"]
-   unirParty:
+   UnirParty:
      stringTokens: ["National Union for Independence and Revolution", "UNIR"]
      wikidataQnode:  ["Q6979102"]
      yearsActiveasParty: ["1984-1990"]
-   undrParty:
+   UndrParty:
      stringTokens: ["National Union for Democracy and Renewal", "UNDR"]
      wikidataQnode:  ["Q1168907"]
      ideologicalOrientation: ["centreLeft", "socialDemocracy"]
-   uditParty:
+   UditParty:
      stringTokens: ["Independent Democratic Union of Chad", "UDIT"]
      wikidataQnode:  ["Q20982164"]
-   girtParty:
+   GirtParty:
      stringTokens: ["Grouping of Rural and Independent Chadians", "GIRT"]
      wikidataQnode:  ["Q5611313"]
-   msaParty:
+   MsaParty:
      stringTokens: ["African Socialist Movement", "APSP"]
      wikidataQnode:  ["Q3326838"]
-   udsrParty:
+   UdsrParty:
      stringTokens: ["Democratic and Socialist Union of the Resistance", "UDSR"]
      wikidataQnode:  ["Q2164587"]
      ideologicalOrientation: ["centre", "centreLeft", "socialLiberalism", "anticommunism", "socialism", "conservatism"]
-   psitParty:
+   PsitParty:
      stringTokens: ["Independent Socialist Party of Chad", "PSIT"]
      wikidataQnode:  ["Q1705046"]
-   nrcdParty:
+   NrcdParty:
      stringTokens: ["National Rally of Chadian Democrats", "National Rally for Democracy in Chad"]
      wikidataQnode:  ["Q6975198"]
-   udtParty:
+   UdtParty:
      stringTokens: ["Chadian Democratic Union", "Democratic Union", "UDT"]
      wikidataQnode:  ["Q3550258"]
-   vivaParty:
+   VivaParty:
      stringTokens: ["National Rally for Development and Progress", "VIVA"]
      wikidataQnode:  ["Q3658492"]
 ## armed groups
-   factarmedNonGovernmentalOrganizedGroup:
+   FactarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Front for Change and Concord in Chad", "FACT"]
-     associatedEthnicGroup: ["Gorane", "toubouEthnicGroup"]
+     associatedEthnicGroup: ["Gorane", "ToubouEthnicGroup"]
      wikidataQnode: ["Q25345086"]
-   ufddarmedNonGovernmentalOrganizedGroup:
+   UfddarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Union of Forces for Democracy and Development", "UFDD"]
-     associatedEthnicGroup: ["Gorane", "toubouEthnicGroup"]
+     associatedEthnicGroup: ["Gorane", "ToubouEthnicGroup"]
      wikidataQnode: ["Q828786"]
-   rfcarmedNonGovernmentalOrganizedGroup:
+   RfcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Rally of Forces for Change", "RFC"]
-     associatedEthnicGroup: ["zaghawaEthnicGroup"]
+     associatedEthnicGroup: ["ZaghawaEthnicGroup"]
      wikidataQnode: ["Q3419890"]
-   mdjtarmedNonGovernmentalOrganizedGroup:
+   MdjtarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Movement for Democracy and Justice in Chad", "MDJT"]
-     associatedEthnicGroup: ["zaghawaEthnicGroup"]
+     associatedEthnicGroup: ["ZaghawaEthnicGroup"]
      wikidataQnode: ["Q3326794"]
-   frolinatarmedNonGovernmentalOrganizedGroup:
+   FrolinatarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Liberation Front of Chad", "FROLINAT"]
-     associatedEthnicGroup: ["arabEthnicGroup", "tamaEthnicGroup", "hadjeraiEthnicGroup"]
+     associatedEthnicGroup: ["arabEthnicGroup", "TamaEthnicGroup", "hadjeraiEthnicGroup"]
      wikidataQnode: ["Q1075228"]
      ideologicalOrientation: ["islamist"]
-   fprarmedNonGovernmentalOrganizedGroup:
+   FprarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Popular Front for Recovery", "FPR"]
-     associatedEthnicGroup: ["tamaEthnicGroup"]
+     associatedEthnicGroup: ["TamaEthnicGroup"]
      wikidataQnode: ["Q15138850"]
-   mprarmedNonGovernmentalOrganizedGroup:
+   MprarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Chadian People's Revolutionary Movement", "MPR"]
      wikidataQnode: ["Q5066453"]
      ideologicalOrientation: ["federalist"]
-   cntarmedNonGovernmentalOrganizedGroup:
+   CntarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Chadian National Concord"]
      wikidataQnode: ["Q105162358"]
-   anrarmedNonGovernmentalOrganizedGroup:
+   AnrarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Resistance Alliance", "ANR"]
-   cdrarmedNonGovernmentalOrganizedGroup:
+   CdrarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Revolutionary Democratic Council", "CDR"]
      wikidataQnode: ["Q5255813"]
 

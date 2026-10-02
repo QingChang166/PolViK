@@ -1,8 +1,8 @@
 relations:
-  - (officialStateSecurityForces, rwandanSecurityForces)
-  - (EthnicGroup, hutuEthnicGroup)
-  - (EthnicGroup, tutsiEthnicGroup)
-  - (EthnicGroup, twaEthnicGroup)
+  - (officialStateSecurityForces, RwandanSecurityForces)
+  - (EthnicGroup, HutuEthnicGroup)
+  - (EthnicGroup, TutsiEthnicGroup)
+  - (EthnicGroup, TwaEthnicGroup)
   - (Party, MRNDParty)
   - (Party, RDFParty)
   - (Party, PSDParty)

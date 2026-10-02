@@ -4,42 +4,42 @@ concepts:
      wikidataQnode: ["Q718167"]
   
   ## ethnicgroups
-    eweEthnicGroup:
+    EweEthnicGroup:
      stringTokens: ["Ewe people"]
      wikidataQnode: ["Q732317"]
      languagesMostSpoken: ["Ewe"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Maritime", "Plateaux", "Centrale Region"]
     
-    kabyeEthnicGroup:
+    KabyeEthnicGroup:
      stringTokens: ["Kabiye", "Kabye", "Kabre", "Cabrai"]
      wikidataQnode: ["Q8102636"]
      languagesMostSpoken: ["Kabye"]
      religionsMostPracticed: ["Traditional beliefs"]
      livesIn: ["Kara", "Savanes"]
 
-    minaEthnicGroup:
+    MinaEthnicGroup:
      stringTokens: ["Mina people"]
-     wikidataQnode: [""]
+     wikidataQnode: []
      languagesMostSpoken: ["Mina"]
      religionsMostPracticed: ["Vodun"]
      livesIn: ["Maritime"]
 
-    temEthnicGroup:
+    TemEthnicGroup:
      stringTokens: ["Tem", "Tem people", "Temba", "Kotokoliare"]
-     wikidataQnode: [""]
+     wikidataQnode: []
      languagesMostSpoken: ["Tem language"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Centrale", "Kara"]
 
-    lossoEthnicGroup:
+    LossoEthnicGroup:
      stringTokens: ["Losso people", "Losso", "Nawda", "Nawdba"]
      wikidataQnode: ["Q1972445"]
      languagesMostSpoken: ["Nawdm"]
      religionsMostPracticed: ["Animist"]
      livesIn: ["Doufelgou"]
 
-    ajaEthnicGroup:
+    AjaEthnicGroup:
      stringTokens: ["Aja people", "Adja"]
      wikidataQnode: ["Q357684"]
      languagesMostSpoken: ["Ajda"]
@@ -57,183 +57,183 @@ concepts:
     AdeleLinguisticGroup:
      stringTokens: ["Adele"]  
      wikidataQnode: ["Q27740"]  
-     livesIn: [""]  
-     associatedethnicgroup: ["Adele people", "Adele"]
+     livesIn: []  
+     associatedEthnicGroup: ["Adele people", "Adele"]
 
     IgoLinguisticGroup:
      stringTokens: ["Igo", "Ahlon"]  
      wikidataQnode: ["Q35412"]  
      livesIn: ["Sassanou", "Plateau Region"]  
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
     NtchamLinguisticGroup:
      stringTokens: ["Ntcham", "Basari", "Akaselem"]  
      wikidataQnode: ["Q36266"]  
-     livesIn: [""]  
-     associatedethnicgroup: ["Gurma people"]
+     livesIn: []  
+     associatedEthnicGroup: ["Gurma people"]
 
     GinyangaLinguisticGroup:
      stringTokens: ["Ginyanga", "Nyanga"]  
      wikidataQnode: ["Q35446"]  
-     livesIn: [""]  
-     associatedethnicgroup: [""]
+     livesIn: []  
+     associatedEthnicGroup: []
 
     GenLinguisticGroup:
      stringTokens: ["Gen"]  
      wikidataQnode: ["Q33450"]  
      livesIn: ["Maritime Region"]  
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
     NgangamLinguisticGroup:
      stringTokens: ["Ngangam", "Gangam"]  
      wikidataQnode: ["Q35888"]  
-     livesIn: [""]  
-     associatedethnicgroup: ["Gurma people", "Gurma"]
+     livesIn: []  
+     associatedEthnicGroup: ["Gurma people", "Gurma"]
 
     IfèLinguisticGroup:
      stringTokens: ["Ifè", "Ana", "Ana-Ifé", "Anago", "Baate", "Ede Ife"]  
      wikidataQnode: ["Q33606"]  
-     livesIn: [""]  
-     associatedethnicgroup: [""]
+     livesIn: []  
+     associatedEthnicGroup: []
 
     KabiyèLinguisticGroup:
      stringTokens: ["Kabiyè", "Kabiye", "Kabye"]  
      wikidataQnode: ["Q35475"]  
-     livesIn: [""]  
-     associatedethnicgroup: ["KabyeEthnicGroup"]
+     livesIn: []  
+     associatedEthnicGroup: ["KabyeEthnicGroup"]
 
     TemLinguisticGroup:
      stringTokens: ["Tem", "Kotokoli", "Cotocoli", "Tém"]  
      wikidataQnode: ["Q36531"]  
-     livesIn: [""]  
-     associatedethnicgroup: ["temEthnicGroup"]
+     livesIn: []  
+     associatedEthnicGroup: ["TemEthnicGroup"]
 
     AkebuLinguisticGroup:
      stringTokens: ["Akebu", "Kebu"]  
      wikidataQnode: ["Q35026"]  
      livesIn: ["Akébou district", "Plateau Region"]  
-     associatedethnicgroup: ["Akebu people"]
+     associatedEthnicGroup: ["Akebu people"]
 
     IkposoLinguisticGroup:
-     stringTokens: ["Ikposo", "Kposo]  
+     stringTokens: ["Ikposo", "Kposo"]  
      wikidataQnode: ["Q35029"]  
      livesIn: ["Plateau Region", "Volta Region"]  
-     associatedethnicgroup: ["Akposso people", "Kposo"]
+     associatedEthnicGroup: ["Akposso people", "Kposo"]
 
     LamaLinguisticGroup:
      stringTokens: ["Lama"]  
      wikidataQnode: ["Q35652"]  
-     livesIn: [""]  
-     associatedethnicgroup: ["Lamba people"]
+     livesIn: []  
+     associatedEthnicGroup: ["Lamba people"]
 
     MobaLinguisticGroup:
      stringTokens: ["Moba", "Moba–Bimoba"]  
      wikidataQnode: ["Q36010"]  
-     livesIn: [""]  
-     associatedethnicgroup: ["Moba", "Moba people"]
+     livesIn: []  
+     associatedEthnicGroup: ["Moba", "Moba people"]
 
     NawdmLinguisticGroup:
      stringTokens: ["Nawdm", "Losso"]  
      wikidataQnode: ["Q36085"]  
      livesIn: ["Doufelgou Prefecture", "Kara Region"]  
-     associatedethnicgroup: ["lossoEthnicGroup"]
+     associatedEthnicGroup: ["LossoEthnicGroup"]
 
     WaciLinguisticGroup:
      stringTokens: ["Waci", "Gbe", "Waci Gbe"]  
      wikidataQnode: ["Q36987"]  
      livesIn: ["Maritime"]  
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
     EweLinguisticGroup:
      stringTokens: ["Ewe"]  
      wikidataQnode: ["Q30005"]  
-     livesIn: [""]  
-     associatedethnicgroup: ["eweEthnicGroup"]
+     livesIn: []  
+     associatedEthnicGroup: ["EweEthnicGroup"]
   
 ## politicalparties
-    rptParty:
+    RptParty:
      stringTokens: ["Rally of the Togolese People"]
      wikidataQnode:  ["Q1514253"]
      ideologicalOrientation: ["right", "farRight", "nationalism", "authoritarianism", "populism"]
   
-    cstParty:
+    CstParty:
      stringTokens: ["Let's Save Togo Collective"]
      wikidataQnode:  ["Q16540801"]
      ideologicalOrientation: ["centreLeft", "farLeft", "bigTent", "socialDemocracy", "progressivism", "antiauthoritarianism", "socialism", "communism", "marxism"]
   
-    unirParty:
+    UnirParty:
      stringTokens: ["Union for the Republic"]
      wikidataQnode:  ["Q22080618"]
      ideologicalOrientation: ["right", "conservatism", "nationalism", "nationalConservatism"]
   
-    ufcParty:
+    UfcParty:
      stringTokens: ["Union of Forces for Change"]
      wikidataQnode:  ["Q2151805"]
      ideologicalOrientation: ["centreLeft", "socialDemocracy"]
   
-    acrParty:
+    AcrParty:
      stringTokens: ["Action Committee for Renewal"]
      wikidataQnode:  ["Q4677086"]
   
-    ptpParty:
+    PtpParty:
      stringTokens: ["Togolese Party of Progress"]
      wikidataQnode:  ["Q2800838"]
   
-    ucpnParty:
+    UcpnParty:
      stringTokens: ["Union of Chiefs and Peoples of the North"]
      wikidataQnode:  ["Q22115648"]
   
-    tguParty:
+    TguParty:
      stringTokens: ["Party of Togolese Unity", "Committee of Togolese Unity", "CUT", "PUT"]
      wikidataQnode:  ["Q2985355"]
   
-    ancParty:
+    AncParty:
      stringTokens: ["National Alliance for Change"]
      wikidataQnode:  ["Q2838206"]
-     ideologicalOrientation: ["centreLeft", "socialDemocracy", "progressivism", "antiauthoritarianism"
+     ideologicalOrientation: ["centreLeft", "socialDemocracy", "progressivism", "antiauthoritarianism"]
   
-    utdParty:
+    UtdParty:
      stringTokens: ["Togolese Union for Democracy"]
      wikidataQnode:  ["Q23777567"]
 
-    raParty:
+    RaParty:
      stringTokens: ["Rainbow Alliance", "CAEC"]
      wikidataQnode:  ["Q22080518"]
      ideologicalOrientation: ["bigTent", "democracy", "panAfricanism", "socialism", "socialDemocracy"]
   
-    mcrParty:
+    McrParty:
      stringTokens: ["Movement of Centrist Republicans"]
      wikidataQnode:  ["Q6926745"]
 
-    netParty:
+    NetParty:
      stringTokens: ["New Togolese Commitment"]
      wikidataQnode:  ["Q22080481"]
 
-    pdpParty:
+    PdpParty:
      stringTokens: ["Pan-African Democratic Party"]
      wikidataQnode:  ["Q5255671"]
 
-    mpddParty:
+    MpddParty:
      stringTokens: ["Patriotic Movement for Democracy and Development"]
      wikidataQnode:  ["Q104844434"]
 
-    addiParty:
+    AddiParty:
      stringTokens: ["Alliance of Democrats for Integral Development"]
      wikidataQnode:  ["Q4732444"]
 
-    cutParty:
+    CutParty:
       stringTokens: ["CUT", "Party of Togolese Unity"]
       wikidataQnode: ["Q2985355"]
 
  ## armed groups
-    mtdarmedNonGovernmentalOrganizedGroup:
+    MtdarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Togolese Movement for Democracy", "Mouvement Togolais pour la Democratie", "MTD"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []
   
-    jnimarmedNonGovernmentalOrganizedGroup:
+    JnimarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["JNIM", "Jama'at Nasr al-Islam wal Muslimin"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q28877411"]
      ideologicalOrientation: ["salafism", "jihadism"]
   

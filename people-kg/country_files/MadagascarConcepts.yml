@@ -29,8 +29,8 @@ concepts:
    MalagasyLinguisticGroup:
      stringTokens: ["Malagasy language"]
      wikidataQnode: ["Q7930"]
-     livesIn: [""]
-     associatedethnicgroup: ["MalagasyEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["MalagasyEthnicGroup"]
  
   ## politicalparties
    TIMParty:
@@ -96,18 +96,18 @@ concepts:
   
    SDRarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Supporters of Didier Ratsiraka"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []
   
    SMRarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Supporters of Marc Ravalomanana"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []
   
  ## ProGovernment Militia
    YAproGovernmentMilitia:
      stringTokens: ["Youth Awareness"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []
   
    

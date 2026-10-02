@@ -34,5 +34,5 @@ relations:
 - (EST.12_1_Adm1, 213526Pgc)
 - (EST.12_1_Adm1, 213527Pgc)
 - (EST.12_1_Adm1, 212807Pgc)
-- (EST_Adm0, 214965Pgc)
-- (EST_Adm0, 214966Pgc)
+- (EST.0_Adm0, 214965Pgc)
+- (EST.0_Adm0, 214966Pgc)

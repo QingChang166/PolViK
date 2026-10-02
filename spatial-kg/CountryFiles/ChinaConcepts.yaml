@@ -2387,6 +2387,13 @@ concepts:
     iso3c: CHN
     country_name: China
     admin_level: Adm2
+  Z02.0_Adm0:
+    GID: Z02
+    admin_name: Z02
+    iso3c: Z02
+    country_name: China
+    admin_level: Adm0
+    status: disputed
   Z02.28_1_Adm1:
     GID: Z02.28_1
     admin_name: Xinjiang Uygur
@@ -2399,6 +2406,13 @@ concepts:
     iso3c: Z02
     country_name: China
     admin_level: Adm2
+  Z03.0_Adm0:
+    GID: Z03
+    admin_name: Z03
+    iso3c: Z03
+    country_name: China
+    admin_level: Adm0
+    status: disputed
   Z03.28_1_Adm1:
     GID: Z03.28_1
     admin_name: Xinjiang Uygur
@@ -2423,6 +2437,13 @@ concepts:
     iso3c: Z03
     country_name: China
     admin_level: Adm2
+  Z08.0_Adm0:
+    GID: Z08
+    admin_name: Z08
+    iso3c: Z08
+    country_name: China
+    admin_level: Adm0
+    status: disputed
   Z08.29_1_Adm1:
     GID: Z08.29_1
     admin_name: Xizang

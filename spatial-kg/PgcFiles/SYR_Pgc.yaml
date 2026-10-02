@@ -406,11 +406,11 @@ concepts:
     country: SYR
   180432Pgc:
     GID: SYR
-    conceptID: SYR_Adm0
+    conceptID: SYR.0_Adm0
     admin_name: Syria
     country: SYR
   179712Pgc:
     GID: SYR
-    conceptID: SYR_Adm0
+    conceptID: SYR.0_Adm0
     admin_name: Syria
     country: SYR

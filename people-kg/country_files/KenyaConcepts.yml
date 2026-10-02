@@ -99,67 +99,67 @@ concepts:
      stringTokens: ["Swahili", "Kiswahili"]
      wikidataQnode: ["Q3197533"]
      livesIn: ["Nalus District"]
-     associatedethnicgroup: ["SwahiliEthnicGroup"]
+     associatedEthnicGroup: ["SwahiliEthnicGroup"]
   KikuyuLinguisticGroup:
      stringTokens: ["kikuyu", "gikuyu"]
      wikidataQnode: ["Q33587"]
-     livesIn: [""]
-     associatedethnicgroup: ["KikuyuEthnicGroup"]
-   KambaLinguisticGroup:
+     livesIn: []
+     associatedEthnicGroup: ["KikuyuEthnicGroup"]
+  KambaLinguisticGroup:
      stringTokens: ["Kamba", "Kekamba", "Kikamba"]
      wikidataQnode: ["Q2574767"]
      livesIn: ["kajiado", "kitui", "machakos", "makueni"]
-     associatedethnicgroup: ["KambaEthnicGroup"]
-   LuhyaLinguisticGroup:
+     associatedEthnicGroup: ["KambaEthnicGroup"]
+  LuhyaLinguisticGroup:
      stringTokens: ["luhya", "bukusu", "Luyia", "Oluluyia", "luhia"]
      wikidataQnode: ["Q35893"]
-     livesIn: [""]
-     associatedethnicgroup: ["LuhyaEthnicGroup"]
-    GusiiLinguisticGroup:
+     livesIn: []
+     associatedEthnicGroup: ["LuhyaEthnicGroup"]
+  GusiiLinguisticGroup:
      stringTokens: ["Ekegusii", "Gusii", "Kisii"]
      wikidataQnode: ["Q33603"]
      livesIn: ["Kisii", "migori", "narok", "nyamira", "mara"]
-     associatedethnicgroup: ["KisiiEthnicGroup"]
-   MeruLinguisticGroup:
+     associatedEthnicGroup: ["KisiiEthnicGroup"]
+  MeruLinguisticGroup:
      stringTokens: ["meru", "kimeru"]
      wikidataQnode: ["Q13313"]
      livesIn: ["isiolo", "meru", "laikipia"]
-     associatedethnicgroup: ["MeruEthnicGroup"]
-   MijikendaLinguisticGroup:
+     associatedEthnicGroup: ["MeruEthnicGroup"]
+  MijikendaLinguisticGroup:
      stringTokens: ["mijikenda", "giriama"]
      wikidataQnode: ["Q6845474"]
-     livesIn: [""]
-     associatedethnicgroup: ["MijikendaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["MijikendaEthnicGroup"]
   DholouLinguisticGroup:
      stringTokens: ["luo", "dholou"]
      wikidataQnode: ["Q3915366"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
-   KalenjinLinguisticGroup:
+     livesIn: []
+     associatedEthnicGroup: []
+  KalenjinLinguisticGroup:
      stringTokens: ["kalenjin", "kipsigis", "nandi"]
      wikidataQnode: ["Q637228"]
-     livesIn: [""]
-     associatedethnicgroup: ["KalenjinEthnicGroup"]
-   MaasaiLinguisticGroup:
+     livesIn: []
+     associatedEthnicGroup: ["KalenjinEthnicGroup"]
+  MaasaiLinguisticGroup:
      stringTokens: ["masaai", "Masai", "maasai", "maa", "mas"]
      wikidataQnode: ["Q35787"]
      livesIn: ["kajiado", "nairobi", "kiambu", "laikipia", "narok"]
-     associatedethnicgroup: ["MaasaiEthnicGroup"]
-   TurkanaLinguisticGroup:
+     associatedEthnicGroup: ["MaasaiEthnicGroup"]
+  TurkanaLinguisticGroup:
      stringTokens: ["turkana"]
      wikidataQnode: ["Q36958"]
      livesIn: ["samburu", "turkana"]
-     associatedethnicgroup: ["TurkanaEthnicGroup"]
-   OromoLinguisticGroup:
+     associatedEthnicGroup: ["TurkanaEthnicGroup"]
+  OromoLinguisticGroup:
      stringTokens: ["oromo", "orma", "borana", "Afaan Oromoo", "Oromiffa", "Galla", "Oromoo", "Afaan Oromo"]
      wikidataQnode: ["Q33864"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
-   SomaliLinguisticGroup:
+     livesIn: []
+     associatedEthnicGroup: []
+  SomaliLinguisticGroup:
      stringTokens: ["somali", "soomaali"]
      wikidataQnode: ["Q13275"]
-     livesIn: [""]
-     associatedethnicgroup: ["SomaliEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["SomaliEthnicGroup"]
 ##politicalparties
   KANUParty:
    stringTokens: ["Kenya African National Union", "KANU"]
@@ -187,26 +187,26 @@ concepts:
   JubileeParty:
    stringTokens: ["Jubilee Party"]
    associatedEthnicGroup: ["KikuyuEthnicGroup", "KalenjinEthnicGroup"]
-   yearsActiveasParty: ["2016-Present"]
+   yearsActiveasParty: ["2016-present"]
    wikidataQnode: ["Q27963537"]
    ideologicalOrientation: ["right", "conservatism", "economicLiberalism"]
   UDAParty:
    stringTokens: ["United Democratic Alliance", "UDA"]
-   yearsActiveasParty: ["2020-Present"]
+   yearsActiveasParty: ["2020-present"]
    regionsMostActive: ["Rift Valley"]
 ##armed groups
   MRCarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Mombasa Revolutionary Council", "MRC"]
    wikidataQnode: ["Q6897053"]
    regionsMostActive: ["Coast Province"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-Present"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-present"]
   AlShabaabTransnationalarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al Shabaab", "Al-Shabaab", "Harakat al-Shabaab al-Mujahideen", "HSM", "Shabab militia"]
    originCountry: ["Somalia"]
    wikidataQnode: ["Q309998"]
    associatedReligion: ["Islam"]
    groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
-   ideologicalOrientation: ["sunniIslam", "islamism", "salafism", "jihadism', "nationalism", "irredentism", "antiZionism", "antiImperialism"]
+   ideologicalOrientation: ["sunniIslam", "islamism", "salafism", "jihadism", "nationalism", "irredentism", "antiZionism", "antiImperialism"]
   
 
 

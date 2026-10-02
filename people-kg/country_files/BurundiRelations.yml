@@ -1,8 +1,8 @@
 relations:
   - (officialStateSecurityForces, BurundiSecurityForces)
-  - (EthnicGroup, hutuEthnicGroup)
-  - (EthnicGroup, tutsiEthnicGroup)
-  - (EthnicGroup, twaEthnicGroup)
+  - (EthnicGroup, HutuEthnicGroup)
+  - (EthnicGroup, TutsiEthnicGroup)
+  - (EthnicGroup, TwaEthnicGroup)
   - (Party, UPRONAParty)
   - (Party, FRODEBUParty)
   - (Party, CNDDFDDParty)

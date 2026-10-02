@@ -4,7 +4,7 @@ relations:
   - (EthnicGroup, SwaziEthnicGroup)
   - (EthnicGroup, ZuluEthnicGroup)
   - (EthnicGroup, TsongaEthnicGroup)
-  - (EthnicGroup, AfrikanersEthnicGroup)
+  - (EthnicGroup, AfrikanersEthnicGroup-Eswatini)
   - (Party, INMParty)
   - (Party, PUDEMOParty)
   - (Party, NNLCParty)

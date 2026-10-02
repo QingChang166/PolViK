@@ -9,9 +9,9 @@ concepts:
      wikidataQnode: ["Q819186"]
      languagesMostSpoken: ["Manding"]
      religionsMostPracticed: ["Islam"]
-     livesIn: [""]
+     livesIn: []
 
-    wolofEthnicGroup:
+    WolofEthnicGroup:
      stringTokens: ["Wolof people", "Fanafa"]
      wikidataQnode: ["Q217397"]
      languagesMostSpoken: ["Wolof language"]
@@ -23,23 +23,23 @@ concepts:
      wikidataQnode: ["Q202575"]
      languagesMostSpoken: ["Fula"]
      religionsMostPracticed: ["Islam"]
-     livesIn: [""]
+     livesIn: []
 
-    jolaEthnicGroup:
+    JolaEthnicGroup:
      stringTokens: ["Jola people", "Jola", "Diola", "Ajamat", "Kujamat"]
      wikidataQnode: ["Q1226906"]
      languagesMostSpoken: ["Jola"]
      religionsMostPracticed: ["Animist", "Islam"]
      livesIn: ["Foni district"]
 
-    sererEthnicGroup:
+    SererEthnicGroup:
      stringTokens: ["Serer people"]
      wikidataQnode: ["Q739970"]
      languagesMostSpoken: ["Serer"]
      religionsMostPracticed: ["Islam"]
-     livesIn: [""]
+     livesIn: []
 
-    akuEthnicGroup:
+    AkuEthnicGroup:
      stringTokens: ["Aku people", "Krio", "Creoles", "Gambian Creole people"]
      wikidataQnode: ["Q423669"]
      languagesMostSpoken: ["Gambian Creole (Aku)"]
@@ -51,30 +51,30 @@ concepts:
      wikidataQnode: ["Q1726724"]
      languagesMostSpoken: ["Manjago"]
      religionsMostPracticed: ["Islam"]
-     livesIn: [""]
+     livesIn: []
 
-    bambaraEthnicGroup:
+    BambaraEthnicGroup:
      stringTokens: ["Bambara"]
      wikidataQnode: ["Q504685"]
      languagesMostSpoken: ["Bambara language"]
      religionsMostPracticed: ["Islam"]
-     livesIn: [""]
+     livesIn: []
 
-    susuEthnicGroup:
+    SusuEthnicGroup:
      stringTokens: ["Susu"]
      wikidataQnode: ["Q1479265"]
      languagesMostSpoken: ["Susu"]
      religionsMostPracticed: ["Islam"]
      livesIn: ["Banjul"]
 
-    mankanyaEthnicGroup:
+    MankanyaEthnicGroup:
      stringTokens: ["Mankanya people"]
      wikidataQnode: ["Q3285298"]
      languagesMostSpoken: ["Mankanya"]
      religionsMostPracticed: ["Roman Catholic"]
-     livesIn: [""]
+     livesIn: []
     
-    soninkeEthnicGroup:
+    SoninkeEthnicGroup:
      stringTokens: ["Serahule", "Soninke people"]
      wikidataQnode: ["Q1146970"]
      languagesMostSpoken: ["Soninke"]
@@ -82,105 +82,105 @@ concepts:
      livesIn: ["Basse"]
  
  ## LinguisticGroups
-  WolofLinguisticGroup:
-    stringTokens: ["Wolof"]
-    wikidataQnode: ["Q34257"]
-    livesIn: ["Banjul"]
-    associatedethnicgroup: ["wolofLinguisticGroup"]
+    WolofLinguisticGroup:
+     stringTokens: ["Wolof"]
+     wikidataQnode: ["Q34257"]
+     livesIn: ["Banjul"]
+     associatedEthnicGroup: ["wolofLinguisticGroup"]
 
-  JolaFonyiLinguisticGroup:
-    stringTokens: ["Jola-Fonyi", "Jola"]
-    wikidataQnode: ["Q3507832"]
-    livesIn: [""]
-    associatedethnicgroup: ["jolaEthnicGroup"]
+    JolaFonyiLinguisticGroup:
+     stringTokens: ["Jola-Fonyi", "Jola"]
+     wikidataQnode: ["Q3507832"]
+     livesIn: []
+     associatedEthnicGroup: ["JolaEthnicGroup"]
 
-   PulaarLinguisticGroup:
-    stringTokens: ["Pulaar", "Fula"]
-    wikidataQnode: ["Q1420205"]
-    livesIn: [""]
-    associatedethnicgroup: ["fulaEthnicGroup"]
+    PulaarLinguisticGroup:
+     stringTokens: ["Pulaar", "Fula"]
+     wikidataQnode: ["Q1420205"]
+     livesIn: []
+     associatedEthnicGroup: ["fulaEthnicGroup"]
 
-   SererLinguisticGroup:
+    SererLinguisticGroup:
      stringTokens: ["Serer-Sine", "Serer"]
      wikidataQnode: ["Q36284"]
-     livesIn: [""]
-     associatedethnicgroup: ["sererEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["SererEthnicGroup"]
 
-   MandinkaLinguisticGroup:
+    MandinkaLinguisticGroup:
      stringTokens: ["Mandinka", "Mandingo"]
      wikidataQnode: ["Q33678"]
-     livesIn: [""]
-     associatedethnicgroup: ["mandinkaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["mandinkaEthnicGroup"]
 
-   KassonkeLinguisticGroup:
+    KassonkeLinguisticGroup:
      stringTokens: ["Kassonke", "Xaasongaxango", "Western Maninka", "Malinke"]
      wikidataQnode: ["Q36905"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
-   ManjakLinguisticGroup:
+    ManjakLinguisticGroup:
      stringTokens: ["Manjak", "Manjack", "Njak", "Kanyop"]
      wikidataQnode: ["Q35822"]
-     livesIn: [""]
-     associatedethnicgroup: ["manjackEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["manjackEthnicGroup"]
     
   ## politicalparties
-    udpParty:
+    UdpParty:
      stringTokens: ["United Democratic Party"]
      wikidataQnode:  ["Q2495179"]
      ideologicalOrientation: ["centre", "centreLeft", "socialLiberalism", "socialDemocracy", "constitutionalism"]
   
-    aprcParty:
+    AprcParty:
      stringTokens: ["Alliance for Patriotic Reorientation and Construction"]
      wikidataQnode:  ["Q2143319"]
   
-    pdoisParty:
+    PdoisParty:
      stringTokens: ["People's Democratic Organisation for Independence and Socialism"]
      wikidataQnode:  ["Q2069620"]
      ideologicalOrientation: ["left", "socialism"]
   
-    nrpParty:
+    NrpParty:
      stringTokens: ["National Reconciliation Party"]
      wikidataQnode:  ["Q1786600"]
   
-    prpParty:
+    PrpParty:
      stringTokens: ["People's Progressive Party", "PPP"]
      wikidataQnode:  ["Q1752906"]
      ideologicalOrientation: ["centre", "centreLeft", "thirdWay", "agrarianism"]
   
-    gdcParty:
+    GdcParty:
      stringTokens: ["Gambia Democratic Congress"]
      wikidataQnode:  ["Q28949959"]
      ideologicalOrientation: ["centre", "centreLeft", "socialDemocracy", "thirdWay"]
 
-    naddParty:
+    NaddParty:
      stringTokens: ["National Alliance for Democracy and Development"]
      wikidataQnode:  ["Q478056"]
   
-    gppParty:
+    GppParty:
      stringTokens: ["Gambian People's Party"]
      wikidataQnode:  ["Q1294641"]
 
-    upParty:
+    UpParty:
      stringTokens: ["United Party"]
      wikidataQnode:  ["Q1409964"]
   
-    dcaParty:
+    DcaParty:
      stringTokens: ["Democratic Congress Alliance"]
      wikidataQnode:  ["Q1185839"]
 
-    mcpParty:
+    McpParty:
      stringTokens: ["Muslim Congress Party"]
      wikidataQnode:  ["Q1492935"]
   
-    dpParty:
+    DpParty:
      stringTokens: ["Democratic Party"]
      wikidataQnode:  ["Q2698062"]
   
   ## armed groups
-    nrcarmedNonGovernmentalOrganizedGroup:
+    NrcarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["National Revolutionary Council", "NRC"]
-     associatedEthnicGroup: ["jolaEthnicGroup"]
-     wikidataQnode: [""]
+     associatedEthnicGroup: ["JolaEthnicGroup"]
+     wikidataQnode: []
      time: ["1994-1996"]
   

@@ -27,7 +27,7 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, LRAarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ADFarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, NALUarmedNonGovernmentalOrganizedGroup)
-  - (armedNonGovernmentalOrganizedGroup, HSMarmedNonGovernmentalOrganizedGroup)
+  - (armedNonGovernmentalOrganizedGroup, HSMarmedNonGovernmentalOrganizedGroup-Uganda)
   - (armedNonGovernmentalOrganizedGroup, UNRFarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, WNBFarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, UPAarmedNonGovernmentalOrganizedGroup)

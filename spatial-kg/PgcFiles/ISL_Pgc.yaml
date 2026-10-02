@@ -636,16 +636,16 @@ concepts:
     country: ISL
   222075Pgc:
     GID: ISL
-    conceptID: ISL_Adm0
+    conceptID: ISL.0_Adm0
     admin_name: Iceland
     country: ISL
   221355Pgc:
     GID: ISL
-    conceptID: ISL_Adm0
+    conceptID: ISL.0_Adm0
     admin_name: Iceland
     country: ISL
   221356Pgc:
     GID: ISL
-    conceptID: ISL_Adm0
+    conceptID: ISL.0_Adm0
     admin_name: Iceland
     country: ISL

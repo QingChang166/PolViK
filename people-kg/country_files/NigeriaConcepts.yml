@@ -76,42 +76,42 @@ concepts:
      livesIn: ["Niger", "Kaduna", "Federal Capital Territory", "Nasarawa", "Kogi"]
 
 ## Linguistic groups
-   HausaLinguisticGroup:
+  HausaLinguisticGroup:
      stringTokens: ["Ha", "Hausa Language"]
      wikidataQnode: ["Q56475"]
      livesIn: ["Bauchi", "Borno", "Jigawa", "Kaduna", "Kano", "Kastina", "Kebbi", "Niger", "Taraba", "Sokoto", "Zamfara"]
-     associatedethnicgroup: ["HausaEthnicGroup"]
+     associatedEthnicGroup: ["HausaEthnicGroup"]
 
   YorubaLinguisticGroup:
      stringTokens: ["Yo", "Yoruba Language"]
      wikidataQnode: ["Q34311"]
      livesIn: ["Kwara", "Lagos", "Ogun", "Ondo", "Oyo", "Osun", "Ekiti", "Kogi", "Edo"]
-     associatedethnicgroup: ["YorubaEthnicGroup"]
+     associatedEthnicGroup: ["YorubaEthnicGroup"]
 
-   IgboLinguisticGroup:
+  IgboLinguisticGroup:
      stringTokens: ["Ig", "Igbo Language"]
      wikidataQnode: ["Q33578"]
      livesIn: ["Abia", "Anambra", "Delta", "Ebonyi", "Enugu", "Imo", "Rivers"]
-     associatedethnicgroup: ["IgboEthnicGroup"]
+     associatedEthnicGroup: ["IgboEthnicGroup"]
 
-   FulaLinguisticGroup:
+  FulaLinguisticGroup:
      stringTokens: ["Fula Language", "Fulah", "ff", "Fulani", "Adamawa dialect", "Ful language", "Fulah language", "Fulani language", "Fulbe language adlam",
                     "Fulde language", "Fulfulde language", "Bagirmi dialect", "Western Niger dialect", "Fulfuldedialect", "Fulfulde dialect"]
      wikidataQnode: ["Q33454"]
      livesIn: ["Adamawa", "Bauchi", "Borno", "Gombe", "Jigawa", "Kaduna", "Kano", "Katsina", "Kebbi", "Niger", "Sokoto", "Taraba", "Yobe"]
-     associatedethnicgroup: ["FulaniEthnicGroup"]
+     associatedEthnicGroup: ["FulaniEthnicGroup"]
 
   IbibioLinguisticGroup:
      stringTokens: ["Ibibio language"]
      wikidataQnode: ["Q33792"]
      livesIn: ["Akwa Ibom", "Cross River"]
-     associatedethnicgroup: ["IbibioEthnicGroup"]
+     associatedEthnicGroup: ["IbibioEthnicGroup"]
 
   TivLinguisticGroup:
      stringTokens: ["Tiv language"]
      wikidataQnode: ["Q34131"]
      livesIn: ["Benue", "Plateau", "adamawa", "Taraba", "Nasarawa"]
-     associatedethnicgroup: ["TivEthnicGroup"]
+     associatedEthnicGroup: ["TivEthnicGroup"]
  
 
 ## politicalparties
@@ -262,17 +262,17 @@ concepts:
      associatedEthnicGroup: ["KanuriEthnicGroup"]
      groupType: ["religious"]  ##"religious", "cross border militia", "mercenary" , "independence"
      wikidataQnode: ["Q212372"]
-     ideologicalOrientation: ["islamist", "salafism', "jihadism", "antiWest", "wahhabism", "antiShia", "takfirism", "antiChristian"]
+     ideologicalOrientation: ["islamist", "salafism", "jihadism", "antiWest", "wahhabism", "antiShia", "takfirism", "antiChristian"]
 
   ISarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State", "Daesh", "ISIL", "Islamic State in Iraq and Syria", "Islamic State of Iraq and Levant", "ISIS", "Islamic State Group", "Islamic State of Iraq and Syria", "Islamic State of Iraq and al-Sham", "The Islamic State", "IS", "Islamic State of Iraq and the Levant"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q2429253"]
      ideologicalOrientation: ["islamist", "salafism", "jihadism", "antiWest", "qutbism", "wahhabism"]
  
   AnsaruarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Ansaru"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q4770527"]
      ideologicalOrientation: ["islamist", "jihadism"]
 
@@ -284,24 +284,24 @@ concepts:
 
   BAMOSDarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Bakassi Movement for Self-Determination"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q4849025"]
      ideologicalOrientation: ["regionalIndependence"]
 
   BZFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Biafra Zionist Front"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q25064532"]
      ideologicalOrientation: ["regionalIndependence"]
 
   CJTFarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Civilian Joint Task Force"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q16899334"]
 
   ISWAParmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Islamic State – West Africa Province"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q86661119"]
      ideologicalOrientation: ["islamist", "salafism", "jihadism"]
 
@@ -319,7 +319,7 @@ concepts:
 
   NDGJMarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Niger Delta Greenland Justice Mandate"]
-     associatedEthnicGroup: [""]
+     associatedEthnicGroup: []
      wikidataQnode: ["Q27963608"]
      ideologicalOrientation: ["regionalism"]
 
@@ -362,7 +362,7 @@ concepts:
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-present"]
      ideologicalOrientation: ["antiMuslim", "nationalism", "nativism", "regionalIndependence"]
 
-   JRCarmedNonGovernmentalOrganizedGroup:
+  JRCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["JRC", "Joint Revolutionary Council"]
      regionsMostActive: ["Rivers", "Delta", "Bayelsa"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000s- present"]
@@ -372,7 +372,7 @@ concepts:
      associatedReligion: ["shiaReligion"]
      regionsMostActive: ["Kaduna", "Kano", "Zaria"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1970s-present"]
-     ideologicalOrientation: ["islamist", "qutbism', "antiZionism"]
+     ideologicalOrientation: ["islamist", "qutbism", "antiZionism"]
 
   BakassiarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Bakassi Boys"]

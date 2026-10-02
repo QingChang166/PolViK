@@ -20,7 +20,7 @@ concepts:
 
    PapelEthnicGroup:
      stringTokens: ["Papel people", "Papel", "Moium", "Oium", "Papei", "Pepel", "Pelels"]
-     wikidataQnode: [""]
+     wikidataQnode: []
      languagesMostSpoken: ["Papel"]
      religionsMostPracticed: ["Christianity"]
      livesIn: ["Coastal areas", "Quinhamel"]
@@ -43,86 +43,86 @@ concepts:
    BanyunLinguisticGroup:
      stringTokens: ["Bainouk-Gunyuño", "Banyun", "Nyun", "Bainouk", "Banyum"]
      wikidataQnode: ["Q2892477"]
-     livesIn: [""]
-     associatedethnicgroup: ["Bainuk people"]
+     livesIn: []
+     associatedEthnicGroup: ["Bainuk people"]
 
    BalantaLinguisticGroup:
      stringTokens: ["Balanta", "Balant"]
      wikidataQnode: ["Q35006"]
-     livesIn: [""]
-     associatedethnicgroup: ["BalantaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["BalantaEthnicGroup"]
 
    BiafadaLinguisticGroup:
      stringTokens: ["Biafada"]
      wikidataQnode: ["Q35099"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    BijagoLinguisticGroup:
      stringTokens: ["Bijago", "Bidyogo"]
      wikidataQnode: ["Q35365"]
      livesIn: ["Bissagos Islands"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
    FulaLinguisticGroup:
      stringTokens: ["Fula"]
      wikidataQnode: ["Q33454"]
-     livesIn: [""]
-     associatedethnicgroup: ["FulaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["FulaEthnicGroup"]
 
    Guinea-BissauCreoleLinguisticGroup:
      stringTokens: ["Guinea-Bissau Creole", "Kiriol", "Crioulo", "Upper Guinea Crioulo", "Upper Guinea Creole", "Kriol", "Guinea-Bissau Creole Portuguese", "Guinea-Bissau Kriyol"]
      wikidataQnode: ["Q33339"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    Jola-FelupeLinguisticGroup:
      stringTokens: ["Jola-Felupe", "Feloup", "Felup", "Felupe", "Floup", "Flup", "Fulup", "Ejamat", "Ediamat"]
      wikidataQnode: ["Q6269820"]
      livesIn: ["Cacheu", "Ziguinchor"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
    BadyaraLinguisticGroup:
      stringTokens: ["Badyara"]
      wikidataQnode: ["Q35095"]
-     livesIn: [""]
-     associatedethnicgroup: [""]
+     livesIn: []
+     associatedEthnicGroup: []
 
    MandinkaLinguisticGroup:
      stringTokens: ["Mandinka", "Mandingo"]
      wikidataQnode: ["Q33678"]
-     livesIn: [""]
-     associatedethnicgroup: ["MandinkaEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["MandinkaEthnicGroup"]
    
    ManjakLinguisticGroup:
      stringTokens: ["Manjak", "Manjack", "Kanyop"]
      wikidataQnode: ["Q35822"]
-     livesIn: [""]
-     associatedethnicgroup: ["ManjakEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["ManjakEthnicGroup"]
 
    MankanyaLinguisticGroup:
      stringTokens: ["Mankanya"]
      wikidataQnode: ["Q35789"]
-     livesIn: [""]
-     associatedethnicgroup: ["Mankanya people"]
+     livesIn: []
+     associatedEthnicGroup: ["Mankanya people"]
 
    SuaLinguisticGroup:
      stringTokens: ["Sua", "Mansoanka"]
      wikidataQnode: ["Q35814"]
      livesIn: ["Mansôa"]
-     associatedethnicgroup: [""]
+     associatedEthnicGroup: []
 
    NaluLinguisticGroup:
      stringTokens: ["Nalu", "Nalou"]
      wikidataQnode: ["Q36026"]
-     livesIn: [""]
-     associatedethnicgroup: ["Nalu people"]
+     livesIn: []
+     associatedEthnicGroup: ["Nalu people"]
 
    PapelLinguisticGroup:
      stringTokens: ["Papel", "Pepel", "Papei"]
      wikidataQnode: ["Q36314"]
-     livesIn: [""]
-     associatedethnicgroup: ["PapelEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["PapelEthnicGroup"]
 
   ## politicalparties
    RGB-MBParty:
@@ -202,6 +202,6 @@ concepts:
   ## armed groups
    MJCDPJarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Military Junta for the Consolidation of Democracy, Peace and Justice"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
+     associatedEthnicGroup: []
+     wikidataQnode: []
   

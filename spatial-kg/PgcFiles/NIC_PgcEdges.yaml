@@ -60,4 +60,4 @@ relations:
 - (NIC.13_1_Adm1, 146347Pgc)
 - (NIC.13_1_Adm1, 146348Pgc)
 - (NIC.17_1_Adm1, 146351Pgc)
-- (NIC_Adm0, 145628Pgc)
+- (NIC.0_Adm0, 145628Pgc)

@@ -80,5 +80,5 @@ relations:
 - (SYR.2_1_Adm1, 182594Pgc)
 - (SYR.2_1_Adm1, 182595Pgc)
 - (SYR.10_1_Adm1, 181153Pgc)
-- (SYR_Adm0, 180432Pgc)
-- (SYR_Adm0, 179712Pgc)
+- (SYR.0_Adm0, 180432Pgc)
+- (SYR.0_Adm0, 179712Pgc)

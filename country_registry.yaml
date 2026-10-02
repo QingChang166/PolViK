@@ -15,10 +15,15 @@
 #   display_name  the spelling used in people-kg/country_files/Countries.yml,
 #                 or null if that list has no matching entry
 #
-# Generated 2026-09-23 from the repository itself, not hand-written.
+# Generated 2026-10-01 from the repository itself, not hand-written.
 # Regenerate with scripts/build_country_registry.py after adding a country file.
 
 countries:
+  ABW:
+    name:         "Aruba"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   AFG:
     name:         "Afghanistan"
     spatial_kg:   "Afghanistan"
@@ -67,6 +72,11 @@ countries:
   ASM:
     name:         "American Samoa"
     spatial_kg:   "AmericanSamoa"
+    people_kg:    null
+    display_name: null
+  ATA:
+    name:         "Antarctica"
+    spatial_kg:   null
     people_kg:    null
     display_name: null
   ATF:
@@ -189,6 +199,11 @@ countries:
     spatial_kg:   "Bhutan"
     people_kg:    null
     display_name: "Bhutan"
+  BVT:
+    name:         "Bouvet Island"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   BWA:
     name:         "Botswana"
     spatial_kg:   "Botswana"
@@ -269,6 +284,16 @@ countries:
     spatial_kg:   "Cuba"
     people_kg:    null
     display_name: "Cuba"
+  CUW:
+    name:         "Curaçao"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
+  CXR:
+    name:         "Christmas Island"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   CYM:
     name:         "Cayman Islands"
     spatial_kg:   "CaymanIslands"
@@ -359,6 +384,11 @@ countries:
     spatial_kg:   "Fiji"
     people_kg:    null
     display_name: "Fiji"
+  FLK:
+    name:         "Falkland Islands"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   FRA:
     name:         "France"
     spatial_kg:   "France"
@@ -399,6 +429,11 @@ countries:
     spatial_kg:   "Ghana"
     people_kg:    "Ghana"
     display_name: "Ghana"
+  GIB:
+    name:         "Gibraltar"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   GIN:
     name:         "Guinea"
     spatial_kg:   "Guinea"
@@ -459,6 +494,11 @@ countries:
     spatial_kg:   "Guyana"
     people_kg:    null
     display_name: "Guyana"
+  HMD:
+    name:         "Heard Island and McDonald Island"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   HND:
     name:         "Honduras"
     spatial_kg:   "Honduras"
@@ -494,6 +534,11 @@ countries:
     spatial_kg:   "India"
     people_kg:    null
     display_name: "India"
+  IOT:
+    name:         "British Indian Ocean Territory"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   IRL:
     name:         "Ireland"
     spatial_kg:   "Ireland"
@@ -564,6 +609,11 @@ countries:
     spatial_kg:   "Cambodia"
     people_kg:    null
     display_name: "Cambodia"
+  KIR:
+    name:         "Kiribati"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: "Kiribati"
   KNA:
     name:         "Saint Kitts and Nevis"
     spatial_kg:   "SaintKittsandNevis"
@@ -634,11 +684,21 @@ countries:
     spatial_kg:   "Latvia"
     people_kg:    null
     display_name: "Latvia"
+  MAF:
+    name:         "Saint-Martin"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   MAR:
     name:         "Morocco"
     spatial_kg:   "Morocco"
     people_kg:    "Morocco"
     display_name: "Morocco"
+  MCO:
+    name:         "Monaco"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: "Monaco"
   MDA:
     name:         "Moldova"
     spatial_kg:   "Moldova"
@@ -649,6 +709,11 @@ countries:
     spatial_kg:   "Madagascar"
     people_kg:    "Madagascar"
     display_name: "Madagascar"
+  MDV:
+    name:         "Maldives"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: "Maldives"
   MEX:
     name:         "México"
     spatial_kg:   "México"
@@ -749,6 +814,11 @@ countries:
     spatial_kg:   "Niger"
     people_kg:    "Niger"
     display_name: "Niger"
+  NFK:
+    name:         "Norfolk Island"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   NGA:
     name:         "Nigeria"
     spatial_kg:   "Nigeria"
@@ -759,6 +829,11 @@ countries:
     spatial_kg:   "Nicaragua"
     people_kg:    null
     display_name: "Nicaragua"
+  NIU:
+    name:         "Niue"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   NLD:
     name:         "Netherlands"
     spatial_kg:   "Netherlands"
@@ -799,6 +874,11 @@ countries:
     spatial_kg:   "Panama"
     people_kg:    null
     display_name: "Panama"
+  PCN:
+    name:         "Pitcairn Islands"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   PER:
     name:         "Peru"
     spatial_kg:   "Peru"
@@ -899,6 +979,11 @@ countries:
     spatial_kg:   "Singapore"
     people_kg:    null
     display_name: "Singapore"
+  SGS:
+    name:         "South Georgia and the South Sand"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   SHN:
     name:         "Saint Helena, Ascension and Tris"
     spatial_kg:   "SaintHelenaAscensionandTris"
@@ -979,6 +1064,11 @@ countries:
     spatial_kg:   "Eswatini"
     people_kg:    "Eswatini"
     display_name: "Eswatini"
+  SXM:
+    name:         "Sint Maarten"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   SYC:
     name:         "Seychelles"
     spatial_kg:   "Seychelles"
@@ -1134,11 +1224,26 @@ countries:
     spatial_kg:   "AkrotiriandDhekelia"
     people_kg:    null
     display_name: null
+  XCA:
+    name:         "Caspian Sea"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
+  XCL:
+    name:         "Clipperton Island"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   XKO:
     name:         "Kosovo"
     spatial_kg:   "Kosovo"
     people_kg:    null
     display_name: "Kosovo"
+  XPI:
+    name:         "Paracel Islands"
+    spatial_kg:   null
+    people_kg:    null
+    display_name: null
   YEM:
     name:         "Yemen"
     spatial_kg:   "Yemen"

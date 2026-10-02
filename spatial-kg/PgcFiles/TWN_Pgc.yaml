@@ -161,21 +161,21 @@ concepts:
     country: TWN
   167642Pgc:
     GID: TWN
-    conceptID: TWN_Adm0
+    conceptID: TWN.0_Adm0
     admin_name: Taiwan
     country: TWN
   166925Pgc:
     GID: TWN
-    conceptID: TWN_Adm0
+    conceptID: TWN.0_Adm0
     admin_name: Taiwan
     country: TWN
   166205Pgc:
     GID: TWN
-    conceptID: TWN_Adm0
+    conceptID: TWN.0_Adm0
     admin_name: Taiwan
     country: TWN
   164758Pgc:
     GID: TWN
-    conceptID: TWN_Adm0
+    conceptID: TWN.0_Adm0
     admin_name: Taiwan
     country: TWN

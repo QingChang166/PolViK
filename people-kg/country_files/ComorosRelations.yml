@@ -20,7 +20,7 @@ relations:
   - (Party, PCDPParty)
   - (Party, FPCParty)
   - (Party, FDCParty)
-  - (Party, RDPCParty)
+  - (Party, RDPCParty-Comoros)
   - (Party, DPAParty)
   - (Party, MBParty)
   - (Party, MDPParty)

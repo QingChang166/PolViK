@@ -666,11 +666,11 @@ concepts:
     country: OMN
   167513Pgc:
     GID: OMN
-    conceptID: OMN_Adm0
+    conceptID: OMN.0_Adm0
     admin_name: Oman
     country: OMN
   167514Pgc:
     GID: OMN
-    conceptID: OMN_Adm0
+    conceptID: OMN.0_Adm0
     admin_name: Oman
     country: OMN

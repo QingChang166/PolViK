@@ -70,47 +70,47 @@ concepts:
   #Ethnic groups with population share less than 1% are omitted.
   ###LinguisticGroups
   DombeLinguisticGroup:
-    stringTokens: ["Ndombe", "Dombe]
+    stringTokens: ["Ndombe", "Dombe"]
     wikidataQnode: ["Q6983792"]
-    livesIn: [""] 
-    associatedethnicgroup: [""]
+    livesIn: [] 
+    associatedEthnicGroup: []
     
   KalangaLinguisticGroup:
     stringTokens: ["Kalanga", "Tjikalanga", "Ikalanga"]
     wikidataQnode: ["Q33672"]
-    livesIn: [""] 
-    associatedethnicgroup: ["KalangaEthnicGroup", "ShonaEthnicGroup"]
+    livesIn: [] 
+    associatedEthnicGroup: ["KalangaEthnicGroup", "ShonaEthnicGroup"]
 
   KundaLinguisticGroup:
     stringTokens: ["Kunda"]
     wikidataQnode: ["Q4121130"]
-    livesIn: [""] 
-    associatedethnicgroup: ["Akunda"]
+    livesIn: [] 
+    associatedEthnicGroup: ["Akunda"]
 
   ManyikaLinguisticGroup:
     stringTokens: ["Manyika", "Tewe"]
     wikidataQnode: ["Q33599"]
-    livesIn: [""] 
-    associatedethnicgroup: ["Manyika"]
+    livesIn: [] 
+    associatedEthnicGroup: ["Manyika"]
 
   NdebeleLinguisticGroup:
     stringTokens: ["Ndebele", "Sindebele", "Matabele", "isiNdebele", "isiNdebele saseNyakatho", "nde"]
     wikidataQnode: ["Q35613"]
-    livesIn: [""] 
-    associatedethnicgroup: ["NdebeleEthnicGroup", "TongaEthnicGroup"]
+    livesIn: [] 
+    associatedEthnicGroup: ["NdebeleEthnicGroup", "TongaEthnicGroup"]
 
   NambyaLinguisticGroup:
     stringTokens: ["Nambya"]
     wikidataQnode: ["Q3553981"]
-    livesIn: [""] 
-    associatedethnicgroup: ["Nambya people"]
+    livesIn: [] 
+    associatedEthnicGroup: ["Nambya people"]
 
   ShonaLinguisticGroup:
     stringTokens: ["Shona", "chiShona", "chiSwina", "chiZwina", "chiManyika", "chiUngwe", "chiKaranga", "chiRozwi", "Karanga", 
 "Chino"]
     wikidataQnode: ["Q34004"]
-    livesIn: [""] 
-    associatedethnicgroup: ["ShonaEthnicGroup", "TongaEthnicGroup"]
+    livesIn: [] 
+    associatedEthnicGroup: ["ShonaEthnicGroup", "TongaEthnicGroup"]
  
 ###PoliticalParties
   ANCIParty:
@@ -183,12 +183,12 @@ concepts:
    stringTokens: ["Citizens Coalition for Change", "CCC"]
    associatedEthnicGroup: []
    wikidataQnode: ["Q110664645"]
-   yearsActiveasParty: [""] # Nelson Chamisa formed Citizens Coalition for Change after losing the squabbles over party name "MDC Alliance". 
+   yearsActiveasParty: [] # Nelson Chamisa formed Citizens Coalition for Change after losing the squabbles over party name "MDC Alliance". 
   
   NPPParty:
    stringTokens: ["National People’s Party", "National First Party"]
    associatedEthnicGroup: ["White Zimbabweans"]
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["1965"]
   
   RWPPParty:
@@ -323,66 +323,66 @@ concepts:
    stringTokens: ["Patriotic Front", "PF"]
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q7148042"]
-   yearsActive: ["1963-1980"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1963-1980"]
    ideologicalOrientation: ["antiApartheid"]
    
   ZIPRAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Zimbabwe People's Revolutionary Army", "ZIPRA", "Zimbabwe African People's Union", "ZAPU"]
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q3426171"]
-   yearsActive: ["1964-1980"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1964-1980"]
    ideologicalOrientation: ["antiApartheid", "marxism"]
    
   RenamoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Renamo", "Resistência Nacional Moçambicana", "Mozambican National Resistance", "MNR", "RNM", "Movimento Nacional da Resistência de Mocambique"]
    associatedEthnicGroup: ["Shona", "Ndau"]
    wikidataQnode: ["Q1425821"]
-   yearsActive: ["1975-present"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1975-present"]
    ideologicalOrientation: ["nationalism", "conservatism", "economicLiberalism", "antiCommunism"]
    
   ZANLAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Zimbabwe African National Liberation Army", "ZANLA", "Zimbabwe African National Union", "ZANU", "ZANU-PF", "Zimbabwe African National Union-PF"] 
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q4570814"]
-   yearsActiveasParty: ["1965-1980"]
-   ideologicalOrientation: {"nationalism", "socialism", "panAfricanism"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1965-1980"]
+   ideologicalOrientation: ["nationalism", "socialism", "panAfricanism"]
  
   AlShababarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Al-Shabab of Zimbabwe", "Al-Shabab"] #	The group is commanded by Tapiwa Muto, a ZANU-PF youth officer.
    associatedEthnicGroup: []
    wikidataQnode: []
-   yearsActiveasParty: ["2012-present"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-present"]
    ideologicalOrientation: ["sunniIslam", "jihadism", "salafism"]
    
   ChipanganoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Chipangano"] 
    associatedEthnicGroup: []
    wikidataQnode: []
-   yearsActiveasParty: ["1980-present"] # Chipangano was created by the governing party ZANU-PF in the 1980s.
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1980-present"] # Chipangano was created by the governing party ZANU-PF in the 1980s.
    
   JochomondoarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Jochomondo"] 
    associatedEthnicGroup: []
    wikidataQnode: []
-   yearsActiveasParty: ["2000-present"] # Supported by ZANU-PF
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000-present"] # Supported by ZANU-PF
    
   TopSixarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Top Six Vigilante Unit"] 
    associatedEthnicGroup: []
    wikidataQnode: []
-   yearsActiveasParty: ["2013-present"] # Supported by ZANU-PF
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2013-present"] # Supported by ZANU-PF
    
   ZNLWVAarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["War Vets", "The Zimbabwe National Liberation War Veterans Association", "ZNLWVA"] 
    associatedEthnicGroup: []
    wikidataQnode: ["Q3626667"]
-   yearsActiveasParty: ["1989-present"] # Supported by ZANU-PF
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1989-present"] # Supported by ZANU-PF
    
   NYSarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["Youth Service Brigade", "Green Bombers", "National Youth Service", "Youth Brigade", "Youth militia"] 
    associatedEthnicGroup: []
    wikidataQnode: ["Q6979525"]
-   yearsActiveasParty: ["2000-2009, 2010-2012"] # supported by ZANU-PF
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000-2009, 2010-2012"] # supported by ZANU-PF
    
   #Progovernment Militias
    
@@ -390,11 +390,11 @@ concepts:
    stringTokens: ["Zimbabwe African National Union-PF", "ZANU-PF", "Zimbabwe African National Union-PF"] 
    associatedEthnicGroup: ["African people"]
    wikidataQnode: ["Q1910161"]
-   yearsActiveasParty: ["1997-2013"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1997-2013"]
    ideologicalOrientation: ["nationalism", "populism", "antiImperialism", "panAfricanism"]
  
   PeoplesMilitiaarmedNonGovernmentalOrganizedGroup:
    stringTokens: ["People's Militia"] 
    associatedEthnicGroup: []
    wikidataQnode: []
-   yearsActiveasParty: ["1982-1993"]
+   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1982-1993"]

@@ -54,11 +54,11 @@ concepts:
     livesIn: ["Port Louis", "Rivière Noire", "Moka", "Pamplemousses", "Plaines Wilhems"]
 
 ## linguisticgroups
-   MauritianCreoleLinguisticGroup:
+  MauritianCreoleLinguisticGroup:
      stringTokens: ["Mauritian Creole", "Morisien", "Morisyen", "Mauritian", "kreol morisyen", "kreol morisien"]
      wikidataQnode: ["Q33661"]
-     livesIn: [""]
-     associatedethnicgrouo: ["CreolesEthnicGroup"]
+     livesIn: []
+     associatedEthnicGroup: ["CreolesEthnicGroup"]
   
 ##PoliticalParties
 
@@ -73,7 +73,7 @@ concepts:
   ACParty:
    stringTokens: ["Alliance du Coeur"] # Alliance of MMM, Union Nationale and Mouvement Mauricien Social Démocrate (MMSD)
    associatedEthnicGroup: [] 
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["2010"] 
   
   MMMParty:
@@ -127,7 +127,7 @@ concepts:
   ALParty:
    stringTokens: ["L'Alliance Lepep", "Alliance Lepep"] # MSM-PMSD-ML coalition
    associatedEthnicGroup: [] 
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["2014"]
   
   VertsParty:
@@ -145,13 +145,13 @@ concepts:
   MDNRDParty:
    stringTokens: ["Mouvement Démocratique National Raj Dayal", "National Democratic Movement Raj Dayal"]
    associatedEthnicGroup: [] 
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["2000-2005"]
   
   MTDParty:
    stringTokens: ["Mouvement des Travaillistes Democrates", "Democratic Labour Movement"]
    associatedEthnicGroup: [] 
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["1983-1991"]
   
   MRParty:
@@ -196,7 +196,7 @@ concepts:
   PANParty:
    stringTokens: ["Parti Alliance Nationale", "National Alliance Party"]
    associatedEthnicGroup: [] 
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["1982"]
   
   PaGaDuParty:
@@ -233,20 +233,20 @@ concepts:
   PTRMMMParty:
    stringTokens: ["Parti Travailliste — Mouvement Militant Mauricien", "Parti Travailliste/Mouvement Militant Mauricien", "PTR/MMM", "The Labor Party — Mauritian Militant Movement", "The Labor Party/Mauritian Militant Movement"]
    associatedEthnicGroup: [] 
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["1995-2014"]
   
   
   PTRPMSDParty:
    stringTokens: ["Parti Travailliste — Parti Mauricien Social Democrate", "Parti Travailliste/Parti Mauricien Social Democrate", "PTR/PMSD", "Labour Party — Mauritian Social Democrat Party", "Labour Party/Mauritian Social Democrat Party"]
    associatedEthnicGroup: [] 
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["1991"]
   
   PTRPMXDParty:
    stringTokens: ["Parti Travailliste — Parti Mauricien Xavier-Luc Duval", "Parti Travailliste/Parti Mauricien Xavier-Luc Duval", "PTR/PMXD", "Labour Party — Mauritian Party of Xavier-Luc Duval", "Labour Party/Mauritian Party of Xavier-Luc Duval"]
    associatedEthnicGroup: [] 
-   wikidataQnode: [""]
+   wikidataQnode: []
    yearsActiveasParty: ["2000"] 
   
 ###ArmedGroups
