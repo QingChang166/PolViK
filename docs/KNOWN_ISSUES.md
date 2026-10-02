@@ -239,17 +239,22 @@ Three near-duplicate directories — `Pgc` (empty), `Pgc Datasets` (evicted, nam
 contains a space) and `PgcFiles` (retained) — plus `spatial-kg` using `.yaml`
 while `people-kg` uses `.yml`. Preserved deliberately; renaming was out of scope.
 
-## 9. Nine people-kg files use CRLF line endings
+## 9. Twelve files use CRLF line endings
 
 `country_files/`: `BurundiConcepts.yml`, `DRCConcepts.yml`, `KenyaConcepts.yml`,
 `RwandaConcepts.yml`, `TanzaniaConcepts.yml`, `UgandaConcepts.yml`,
 `ZambiaConcepts.yml`.
 `localagreement/`: `Carspells.yml`, `Malispells.yml`.
 
-All other YAML in `people-kg`, and all of `spatial-kg`, uses LF.
+Non-YAML: `datasource.bib.txt`, `wikidata_scripts/wikidata.txt`,
+`wikidata_scripts/wikidata scrape api.py`.
 
-An earlier count reported seven. That scan was limited to `country_files/` without
-saying so, and missed the two spell files.
+All other files in `people-kg`, and all of `spatial-kg`, use LF.
+
+The count has been wrong twice, both times from an unstated scope. It was first
+reported as seven (a scan limited to `country_files/`), then nine (YAML only).
+Twelve is the repo-wide figure, counting every tracked file rather than only the
+YAML beneath `country_files/`.
 
 `.gitattributes` deliberately performs **no** line-ending conversion, so these
 files stay byte-identical to their source. A collaborator whose git sets
