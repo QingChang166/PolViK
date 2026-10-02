@@ -62,3 +62,38 @@ spatial-kg/Pgc Datasets/
 spatial-kg/actor_spells_spatial.gpkg
 people-kg/Aspect_CountVectorizer_model.pkl.zip
 people-kg/localagreement/*.png
+.pytest_cache/
+
+# =====================================================================
+# Local tooling and scratch output — never tracked.
+# =====================================================================
+# Editor configuration is per-developer, not project data.
+.vscode/
+.idea/
+*.swp
+*~
+
+# This repository lives inside a Dropbox folder, so duplicates appear on their
+# own. One already reached the tree before these patterns existed
+# (`country_tracker (4).xlsx`), which is what they are here to prevent.
+*conflicted copy*
+* ([0-9]).*
+*.sb-*
+
+# --- Python tooling ---
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- secrets ---
+.env
+.env.local
+
+# --- OS ---
+._*
+Thumbs.db
