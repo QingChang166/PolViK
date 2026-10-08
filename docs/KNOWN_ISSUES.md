@@ -31,9 +31,10 @@ under an hour. Item 2 is the one that will quietly corrupt results if left.
 
 ---
 
-## 1. 28 filenames contain non-ASCII characters — deferred, fix later
+## 1. 26 filenames contain non-ASCII characters — deferred, fix later
 
-Twenty-eight tracked files carry accented country names. The spellings are
+Twenty-six tracked files carry accented country names. The count was 28 before
+two spatial-kg files were renamed. The spellings are
 **correct**; the problem is portability, not orthography.
 
 | Tree | Names |
@@ -161,13 +162,18 @@ Left as-is; deleting one is a content decision.
 
 ---
 
-## 4. `people-kg/MaliConcepts.yml` does not parse
+## 4. `people-kg/MaliConcepts.yml` does not parse — RESOLVED
+
+The file parsed cleanly after the data-quality repairs. It had been reported as:
 
 ```
 yaml.parser.ParserError: while parsing a flow sequence
   expected ',' or ']', but got '<scalar>'
   line 26, column 122
 ```
+
+Every tracked YAML file in both graphs now parses, with one deliberate exception:
+`people-kg/BaseConcepts.yml`, which is an example file and is left as written.
 
 A missing comma in `soninkeEthnicGroup.stringTokens`, between `"Maraka"` and
 `"Marka Soninke"`. Both are legitimate aliases for the Soninke people, so the fix
@@ -239,12 +245,16 @@ Three near-duplicate directories — `Pgc` (empty), `Pgc Datasets` (evicted, nam
 contains a space) and `PgcFiles` (retained) — plus `spatial-kg` using `.yaml`
 while `people-kg` uses `.yml`. Preserved deliberately; renaming was out of scope.
 
-## 9. Twelve files use CRLF line endings
+## 9. Twelve files use CRLF line endings — MOSTLY RESOLVED
 
-`country_files/`: `BurundiConcepts.yml`, `DRCConcepts.yml`, `KenyaConcepts.yml`,
-`RwandaConcepts.yml`, `TanzaniaConcepts.yml`, `UgandaConcepts.yml`,
-`ZambiaConcepts.yml`.
-`localagreement/`: `Carspells.yml`, `Malispells.yml`.
+Three remain, and none of them is graph data: `people-kg/datasource.bib.txt`,
+`people-kg/wikidata_scripts/wikidata scrape api.py` and
+`people-kg/wikidata_scripts/wikidata.txt`. Every YAML file now uses LF.
+
+The nine that were converted were in `country_files/` (`BurundiConcepts.yml`,
+`DRCConcepts.yml`, `KenyaConcepts.yml`, `RwandaConcepts.yml`,
+`TanzaniaConcepts.yml`, `UgandaConcepts.yml`, `ZambiaConcepts.yml`) and
+`localagreement/` (`Carspells.yml`, `Malispells.yml`).
 
 Non-YAML: `datasource.bib.txt`, `wikidata_scripts/wikidata.txt`,
 `wikidata_scripts/wikidata scrape api.py`.
