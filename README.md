@@ -11,8 +11,8 @@ their relations. They do two things at once: organize entities into more and les
 general categories, and map observations of actors into spatial-temporal
 locations.
 
-**Michael Colaresi** is the Principal Investigator. For questions about this
-repository, email **Qing Chang** at qic108@pitt.edu.
+- **Michael Colaresi** — Principal Investigator
+- Questions about this repository: email **Qing Chang** at qic108@pitt.edu
 
 ---
 
@@ -42,9 +42,9 @@ repository, email **Qing Chang** at qic108@pitt.edu.
 
 ## At a glance
 
-- **228 countries** of administrative and grid geography; **55** with people data
+- **249 countries** of administrative and grid geography; **55** with people data
 - **3,758 actor observations** ("spells") in Mali and the Central African Republic
-- **1,278 spatial files** (453 concept, 637 edge, 184 grid) and **124 people files** (55 concept, 55 relation), plain YAML throughout
+- **1,278 spatial files** (453 concept, 637 edge, 184 grid) and **125 people files** (55 concept, 56 relation), plain YAML throughout
 - Nodes cross-referenced to **Wikidata** for further semantic context
 
 ---
