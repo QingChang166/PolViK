@@ -11,6 +11,32 @@ their relations. They do two things at once: organize entities into more and les
 general categories, and map observations of actors into spatial-temporal
 locations.
 
+**Michael Colaresi** is the Principal Investigator. For questions about this
+repository, email **Qing Chang** at qic108@pitt.edu.
+
+---
+
+## Contents
+
+- [At a glance](#at-a-glance)
+- [The two knowledge graphs](#the-two-knowledge-graphs)
+  - [Nesting and aggregation](#nesting-and-aggregation)
+  - [How the graphs connect](#how-the-graphs-connect)
+- [Quick start](#quick-start)
+- [Repository structure](#repository-structure)
+- [The PolViK ontology](#the-polvik-ontology)
+  - [Event types](#event-types)
+- [Data model](#data-model)
+  - [Concept files — the nodes](#concept-files--the-nodes)
+  - [Edge files — the relations](#edge-files--the-relations)
+  - [Spell files — actors observed in space and time](#spell-files--actors-observed-in-space-and-time)
+- [Joining the two graphs](#joining-the-two-graphs)
+- [What is not in this repository](#what-is-not-in-this-repository)
+- [Reproducing and contributing](#reproducing-and-contributing)
+- [Data sources](#data-sources)
+- [Licence](#licence)
+- [Citation](#citation)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -321,9 +347,6 @@ Wikipedia, and the Armed Group Dataset.
 ## Licence
 
 All rights reserved. See [`LICENSE`](LICENSE).
-
-Redistribution is not permitted. Several upstream sources — GADM, Ethnologue and
-Joshua Project among them — restrict it, and this repository's terms reflect that.
 
 ---
 
