@@ -32,8 +32,8 @@ byte-identical to its source by SHA-256. See `docs/KNOWN_ISSUES.md`.
   prior permission; both were present here as original files with full geometry.
 
   **Every commit SHA changed.** Authorship, dates, messages and file history are
-  intact; only the identifiers differ. `docs/history-rewrite-commit-map.tsv` maps
-  all 1,243 old SHAs to their new ones. Seven commits touched only the purged
+  intact; only the identifiers differ. A table mapping all 1,243 old SHAs to their
+  new ones is kept outside the repository. Seven commits touched only the purged
   paths and no longer exist. `git filter-repo` also rewrote SHA references inside
   commit messages, so the subtree merge commits name the new hashes rather than
   the upstream ones; the table above records both.
